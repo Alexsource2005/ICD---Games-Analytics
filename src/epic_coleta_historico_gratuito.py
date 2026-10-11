@@ -100,24 +100,46 @@ for indice, nome in enumerate(nomes_jogos_epic, start=1):
                     break
 
             if jogo_encontrado:
-                slug = jogo_encontrado.get("productSlug")
+            # Tenta encontrar o slug no campo padrão ou em alternativas comuns da Epic
+                slug = (
+                    jogo_encontrado.get("productSlug")
+                    or jogo_encontrado.get("urlSlug")
+                    or next(
+                        (
+                            m.get("pageSlug")
+                            for m in jogo_encontrado.get("mappings", [])
+                            if m.get("pageSlug")
+                        ),
+                        None,
+                    )
+                )
 
+                detalhes = None
                 if slug:
                     try:
                         detalhes = api.get_product(slug)
                     except Exception:
-                        detalhes = jogo_encontrado
-
-                    slug_limpo = slug.replace("/", "_")
-                    caminho_saida = f"dados/raw/epic_gratis_{slug_limpo}.json"
-
-                    with open(caminho_saida, "w", encoding="utf-8") as f:
-                        json.dump(detalhes, f, ensure_ascii=False, indent=4)
-                    print(f"Salvo com sucesso: epic_gratis_{slug_limpo}.json")
+                        detalhes = jogo_encontrado  # Se falhar o detalhe profundo, usa o básico
                 else:
-                    print(f"Slug não encontrado para '{nome}'.")
+                    # Se nenhum slug foi encontrado, aproveita os dados básicos do catálogo
+                    detalhes = jogo_encontrado
+                    #Cria um slug temporário limpo baseado no título do jogo
+                    titulo_base = jogo_encontrado.get("title", "jogo_desconhecido")
+                    slug = re.sub(r"[^\w\s-]", "", titulo_base).strip().lower()
+                    slug = re.sub(r"\s+", "-", slug)
+                    print(
+                        f"   ⚠️ Slug direto não encontrado, usando catálogo básico para"
+                        f" '{titulo_base}'."
+                    )
+
+                slug_limpo = slug.replace("/", "_")
+                caminho_saida = f"dados/raw/epic_gratis_{slug_limpo}.json"
+
+                with open(caminho_saida, "w", encoding="utf-8") as f:
+                    json.dump(detalhes, f, ensure_ascii=False, indent=4)
+                print(f"   💾 Salvo com sucesso: epic_gratis_{slug_limpo}.json")
             else:
-                print(f"Jogo não encontrado na Epic Games")
+                print(f"   ❌ Jogo não encontrado na Epic Games.")
 
     except Exception as e:
         print(f"Erro critico ao buscar '{nome}': {e}")
