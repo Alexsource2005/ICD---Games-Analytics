@@ -22,7 +22,7 @@ try:
   # Extrai apenas os App IDs em formato de texto (string)
   app_ids = [str(jogo["appid"]) for jogo in lista_jogos]
   print(
-      f"✅ Sucesso! Encontrados {len(app_ids)} jogos na sua biblioteca.\n"
+      f" Sucesso! Encontrados {len(app_ids)} jogos na sua biblioteca.\n"
       "Iniciando download dos detalhes..."
   )
 
@@ -43,16 +43,16 @@ try:
         json.dump(dados_details, f, ensure_ascii=False, indent=4)
 
       print(
-          f"[{indice}/{len(app_ids)}] 💾 Salvo com sucesso: steam_{app_id}.json"
+          f"[{indice}/{len(app_ids)}] Salvo com sucesso: steam_{app_id}.json"
       )
 
     except Exception as e_jogo:
-      print(f"⚠️ Erro ao coletar o jogo ID {app_id}: {e_jogo}")
+      print(f" Erro ao coletar o jogo ID {app_id}: {e_jogo}")
 
   print(
-      "\n🎉 Processo de coleta da Steam concluído com sucesso! Todos os arquivos"
+      "\n Processo de coleta da Steam concluído com sucesso! Todos os arquivos"
       " JSON foram salvos em dados/raw/"
   )
 
 except Exception as e_bib:
-  print(f"❌ Erro crítico ao acessar a API da biblioteca da Steam: {e_bib}")
+  print(f" Erro crítico ao acessar a API da biblioteca da Steam: {e_bib}")

@@ -1,0 +1,544 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "2064-read-only-memories",
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "2064: Read Only Memories",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#c42f80"
+        }
+    },
+    "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/2064-read-only-memories",
+    "_slug": "2064-read-only-memories",
+    "_activeDate": "2021-09-28T03:55:00.000Z",
+    "lastModified": "2021-09-28T00:22:39.590Z",
+    "_locale": "en-US",
+    "_id": "6617c154-39c1-4007-9512-10776896c9c1",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "2064: Read Only Memories",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#c42f80"
+                }
+            },
+            "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/2064-read-only-memories/home",
+            "_slug": "home",
+            "_activeDate": "2021-03-22T23:04:57.325Z",
+            "lastModified": "2021-09-27T19:26:17.502Z",
+            "_locale": "en-US",
+            "_id": "cd8f60c3-0c29-4e7e-b821-75411cd3262e",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
+                "id": "92e998e921ad4979883c19f65de8b456",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/ROMadventure",
+                    "linkFacebook": "https://www.facebook.com/ROMAdventure",
+                    "linkYoutube": "https://www.youtube.com/c/MidBossLLC/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/midboss",
+                    "linkHomepage": "http://2064.io/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English",
+                        "Text: English"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "OSX 10.7",
+                                    "recommended": "OSX 10.7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "2.0 GHz with SSE2 instruction support",
+                                    "recommended": "2.0 GHz with SSE2 instruction support"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "1 GB RAM",
+                                    "recommended": "1 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "1000 MB available space",
+                                    "recommended": "1000 MB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "Sound Card: one that goes boop and beep",
+                                    "recommended": "Sound Card: one that goes BOOP and BEEP"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows XP",
+                                    "recommended": "Windows 7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "2.0 GHz with SSE2 instruction support",
+                                    "recommended": "2.0 GHz with SSE2 instruction support"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "1 GB RAM",
+                                    "recommended": "1 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "1000 MB available space",
+                                    "recommended": "1000 MB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "Version 9.0c",
+                                    "recommended": "Version 9.0c"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Direct X or Open GL 2.0 compatible card",
+                                    "recommended": "Direct X or Open GL 2.0 compatible card"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "Sound Card: one that goes boop and beep",
+                                    "recommended": "Sound Card: one that goes BOOP and BEEP"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Read Only Memories, MidBoss are registered trademarks of MidBoss, LLC. Ⓒ 2021 MidBoss, LLC. All Rights Reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://midboss.com/privacy.html",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-s2-1200x1600-7fda2a787569.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "MidBoss, LLC",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "MidBoss, LLC",
+                    "description": "**2064: Read Only Memories** merges old-school adventure gaming with modern storytelling to explore some of the social challenges we will face in the near future. Explore the colorful future metropolis of Neo-San Francisco, meeting a huge cast of fascinating characters and solving a far-reaching mystery. Think carefully about your choices, because you never know how they will affect this dynamic, branching narrative further down the line.\n\n![image1](https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g2-00-3264x701-78e6f29a75dc.jpg)\n\nThe world is changing.\n\nGenetic alteration of humans is now commonplace, with many choosing to radically alter their bodies to express their individuality. Virtual intelligences called ROMs (Relationship and Organizational Managers), created as simple digital assistants, are exerting greater control over people’s lives. Some are terrified by this rapid change, and they are willing to go to extreme lengths to prevent it.\n\n![image2](https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g2-01-3264x701-6310b7658492.jpg)\n\nA lost ROM named Turing breaks into the apartment of a struggling journalist to ask for help. They claim to be the first sapient machine—not a simulation of life but a genuinely self-aware artificial being—and the technical genius who created them has gone missing. Can you unravel the shocking conspiracy that threatens to rock an entire society? Or will the darkness that lies behind the bright neon lights of Neo-SF consume you?\n\n![image3](https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g2-02-3264x701-835f1d867b49.jpg)\n\n# Features\n- **Old-school, cutting-edge** - Classic point-and-click adventuring inspired by the likes of Gabriel Knight and Snatcher is melded with modern branching storytelling that delves into identity, individuality, and what it means to be human.\n- **People of the future**- Get to know a diverse cross-section of Neo-SF’s population, brought to life by some of the best voice talent working in games today, including Melissa Hutchison and Dave Fennoy (The Walking Dead), Erin Yvette (Oxenfree), Austin Creed (WWE’s Xavier Woods), and internet stars Jim Sterling (Jimquisition) and SungWon Cho (ProZD).\n- **High tech nostalgia** - The city of Neo-San Francisco is rendered in beautiful pixel art, and your adventure is accompanied by a catchy low-fi electronic synth soundtrack.\n- **Solve the mystery** - Enjoy over ten hours of adventure gaming goodness, featuring exploration, dynamic branching conversations, multiple endings, and many challenges to overcome.\n- **The definitive PC edition** - Since its launch, the team has made many improvements and additions to an already amazing game, making this the ultimate version. Additions have included new characters and voice performers, additional facial animations, Japanese language support, and the “Endless Christmas” extended epilogue that allows you to hang out with your favorite Neo-SF locals.",
+                    "shortDescription": "Dive into a cyberpunk thriller and explore the social challenges of tomorrow through classic adventure gaming. Team up with Turing, the world’s first sapient machine, to unmask a conspiracy that will shake the foundations of Neo-San Francisco. ",
+                    "title": "2064: Read Only Memories",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-ic1-400x258-801f8e4e41f1.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-s2-1200x1600-7fda2a787569.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-s3-2560x1440-2a9ebfa04dcd.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/a46c0665677b408d9dedc4144609f08b/a46c0665677b408d9dedc4144609f08b.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1c-00-1920x1080-dd9766df70d6.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"892bb4a92695493e9caea8e105f86ecb\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/3e1eddc24f5e45a1b242f1e959e21e5f/3e1eddc24f5e45a1b242f1e959e21e5f.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1c-00-1920x1080-dd9766df70d6.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"d8ef8755be6b45e6816251521761b15a\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f66478282dd74347853311529fc61183/f66478282dd74347853311529fc61183.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1c-00-1920x1080-dd9766df70d6.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"18f59211c36a423298d980b02cc7ae4a\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": true,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-01-1920x1080-28cc299cfdcc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-02-1920x1080-63af56182a82.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-03-1920x1080-2f3caf84e161.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-04-1920x1080-fddcb7283beb.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-05-1920x1080-df4bdb42354f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-06-1920x1080-9520f05f9787.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-07-1920x1080-406d9425079e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-08-1920x1080-4d093420a39d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-09-1920x1080-53a6831381c7.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2015-08-18T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "MidBoss, LLC"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "MidBoss, LLC"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "STORYBOOK",
+                        "INVESTIGATION"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    },
+                    "description": "Download and Buy Today - Epic Games Store",
+                    "title": "2064: Read Only Memories"
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-01-1920x1080-28cc299cfdcc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-02-1920x1080-63af56182a82.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-03-1920x1080-2f3caf84e161.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-04-1920x1080-fddcb7283beb.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        }
+                    ]
+                },
+                "navTitle": "2064: Read Only Memories"
+            },
+            "pageRegionBlock": "",
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-02-1920x1080-63af56182a82.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-s2-1200x1600-7fda2a787569.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-ic1-400x258-801f8e4e41f1.png",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-06-1920x1080-9520f05f9787.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-07-1920x1080-406d9425079e.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-03-1920x1080-2f3caf84e161.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-01-1920x1080-28cc299cfdcc.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-s3-2560x1440-2a9ebfa04dcd.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-05-1920x1080-df4bdb42354f.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-09-1920x1080-53a6831381c7.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-08-1920x1080-4d093420a39d.jpg",
+                "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-04-1920x1080-fddcb7283beb.jpg"
+            ]
+        }
+    ]
+}

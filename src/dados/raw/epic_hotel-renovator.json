@@ -1,0 +1,872 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "hotel-renovator",
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "productName": "Hotel Renovator",
+    "pageTheme": {
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection"
+        }
+    },
+    "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/hotel-renovator",
+    "_slug": "hotel-renovator",
+    "_activeDate": "2023-01-24T18:20:55.381Z",
+    "lastModified": "2023-01-24T18:22:24.482Z",
+    "_locale": "en-US",
+    "_id": "9198dfe6-f845-44ca-9acc-b9a137b715cd",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "productName": "Hotel Renovator",
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/hotel-renovator/home",
+            "_slug": "home",
+            "_activeDate": "2023-01-24T18:22:31.881Z",
+            "lastModified": "2026-08-19T20:13:17.994Z",
+            "_locale": "en-US",
+            "_id": "fc029099-0629-4a19-a789-de2c62bfe41f",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+                "id": "aafadd51c02b42fb93930c6f3913f18e",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/Focus_entmt",
+                    "linkTwitch": "https://www.twitch.tv/focusentmt",
+                    "linkFacebook": "https://www.facebook.com/gaming/FocusEntertainmentOfficial",
+                    "linkYoutube": "https://www.youtube.com/channel/UCaLdl0827np4QVPESo7",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/z8Gu9wJVf2",
+                    "title": "Follow Hotel Renovator",
+                    "linkInstagram": "https://www.instagram.com/focus_entmt/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English; Text: English, Czech, French, German, Italian, Polish, Russian, Spanish - Latin America, Ukrainian, Chinese - Simplified, Chinese - Traditional, Japanese, Korean, Portuguese - Brazil, Spanish - Spain"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 10 (64 bits)",
+                                    "recommended": "Windows 10 (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "AMD FX-4300 X4 / Intel Core i3-4130",
+                                    "recommended": "AMD Ryzen 5 1500 X / Intel Core i7-6700K"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "60 GB",
+                                    "recommended": "60 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "AMD Radeon RX 560 / NVIDIA GeForce GTX 750 Ti 4 GB VRAM",
+                                    "recommended": "AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070 Ti 8 GB VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "30 FPS, 1920x1080 in Low",
+                                    "recommended": "30 FPS, 1920x1080 in Epic"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2023 Hotel Renovator, a game developed by Two Horizons and published by Focus Entertainment. Hotel Renovator, Two Horizons, Focus Entertainment, and their respective logos are trademarks or registered trademarks. All other trademarks, registered trademarks or their logos belong to their respective owners. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.focus-entmt.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Focus Entertainment Digital Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s2-1200x1600-3f471995a208.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Two Horizons",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Focus Entertainment",
+                    "description": "Unleash your inner designer and renovate the hotel of your dreams! Embark on a makeover journey to turn this worn-out place into a successful getaway. Play with thousands of furniture pieces and accessories, and manage the hotel to get 5-star reviews! Play the way you want, share your best creations with the community and find inspiration from other renovators.\n\nKEY FEATURES\n\nBreak it down\n\nYou inherit an old, neglected hotel in terrible condition. Others have given up hope, but you sense the extraordinary potential erupting out of this place. Before you unveil this hotel's beauty, you need to get your hands dirty. Grab your tools to tear down that old wallpaper, rip up the panel flooring, and bust through walls to get out with the old and in with the new.\n\nDesign your heart out\n\nExpress yourself and customize away! Modern, retro, cozy or even funky, enjoy endless possibilities! You'll be able to choose from more than 2000 designs of appliances, lights, curtains, rugs, painting, materials, and colors to decorate the hotel in your style. \n\nInvest and manage\n\nThe higher the standard you maintain, the more money you earn. Invest in the amenities and attractions at your Hotel to stand out. Buy an old swimming pool or restaurant to attract more guests! Meet their needs, keep rooms tidy, and repair issues quickly. If you leave a great impression on a guest, you’ll get 5-star reviews!\n\nA place with a story\n\nDiscover the secret history of your family hotel as you meet the needs of colorful VIP clients in Story Mode. If you're looking to test your interior design abilities with picky customers and challenges, this is the spot for you. It's up to you to make a name for yourself in the hotel industry. \n\nShare your creativity\n\nHotel Renovator lets your creativity run even wilder by offering mod support. So get ready to create and share unique furniture’s designs, lending and drawing inspiration from a community of like-minded renovators! ",
+                    "shortDescription": "Unleash your creativity and build the hotel of your dreams! Embark on a makeover journey to turn a worn-out hotel into a successful getaway. Manage amenities, design neat rooms, and create a place that eclipses the golden age. Get that 5-star review!",
+                    "title": "Hotel Renovator",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-ic1-400x100-b6598abc8e0c.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s2-1200x1600-3f471995a208.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s1-2560x1440-529c898f9ff3.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/4f2384e70ce64f6cb16bab1124c86ac5/4f2384e70ce64f6cb16bab1124c86ac5.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/28c1a519-6f55-4b45-a7d4-93cba3383f41-1920x1080-e0df214cbc35.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"ed44de366795495c85159c199b54fa52\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/bcba13589cba4b69b5a1f6918058c7b3/bcba13589cba4b69b5a1f6918058c7b3.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/28c1a519-6f55-4b45-a7d4-93cba3383f41-1920x1080-e0df214cbc35.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"0752adc338d84efeb366db146eba9109\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/5261e894b4b8450db45b64fa26b897c6/5261e894b4b8450db45b64fa26b897c6.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/28c1a519-6f55-4b45-a7d4-93cba3383f41-1920x1080-e0df214cbc35.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"c1b08ab7aea14cf8a2570e6eaf52f7e8\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Hotel Renovator Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-00-1920x1080-ef6b575fabff.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-01-1920x1080-47d9aae66483.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-02-1920x1080-54516f56a3d7.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-03-1920x1080-a4ff7dd76166.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-04-1920x1080-8390337f7509.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-05-1920x1080-d12631eb22c5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-06-1920x1080-e95c57c4825d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-07-1920x1080-5783c5a793e2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-08-1920x1080-529e5bf004de.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-09-1920x1080-b00ac3bae8ae.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-10-1920x1080-7d74ea73ed8a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s1-2560x1440-529c898f9ff3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+                            "description": "Unleash your creativity and build the hotel of your dreams! Embark on a makeover journey to turn a worn-out hotel into a successful getaway. Manage amenities, design neat rooms, and create a place that eclipses the golden age. Get that 5-star review!",
+                            "offerId": "aafadd51c02b42fb93930c6f3913f18e",
+                            "tag": "edition",
+                            "title": "Hotel Renovator",
+                            "slug": "/p/hotel-renovator"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-s1-2560x1440-698c2f52ce90.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+                            "description": "The Hotel Renovator Five Star Edition includes the base game and a pack of 7 DLC to be released in the upcoming months. Expand your inner designer experience with 7 packs featuring amazing decoration items that will make your hotel stand out from the rest.",
+                            "offerId": "d7abd7b964c843949dcb88ab0de6284a",
+                            "tag": "edition",
+                            "title": "Hotel Renovator - Five Star Edition",
+                            "slug": "/p/hotel-renovator--five-star-edition"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Hotel Renovator"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-03-1920x1080-a4ff7dd76166.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-01-1920x1080-47d9aae66483.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-10-1920x1080-7d74ea73ed8a.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s2-1200x1600-3f471995a208.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s1-2560x1440-529c898f9ff3.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-02-1920x1080-54516f56a3d7.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-00-1920x1080-ef6b575fabff.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-ic1-400x100-b6598abc8e0c.png",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-04-1920x1080-8390337f7509.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-07-1920x1080-5783c5a793e2.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-05-1920x1080-d12631eb22c5.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-06-1920x1080-e95c57c4825d.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-s1-2560x1440-698c2f52ce90.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-08-1920x1080-529e5bf004de.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-g1a-09-1920x1080-b00ac3bae8ae.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "five-star-edition",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "productName": "Hotel Renovator",
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/hotel-renovator/five-star-edition",
+            "_slug": "five-star-edition",
+            "_activeDate": "2023-01-24T18:22:31.881Z",
+            "lastModified": "2023-10-17T13:57:13.205Z",
+            "_locale": "en-US",
+            "_id": "77ec41f8-1d55-42dc-a17b-56362429dab7",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "3348e3d8eae449ecbcf9fe354d4fe8a0",
+                "id": "d7abd7b964c843949dcb88ab0de6284a",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/Focus_entmt",
+                    "linkTwitch": "https://www.twitch.tv/focusentmt",
+                    "linkFacebook": "https://www.facebook.com/gaming/FocusEntertainmentOfficial",
+                    "linkYoutube": "https://www.youtube.com/channel/UCaLdl0827np4QVPESo7",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/z8Gu9wJVf2",
+                    "title": "Follow Hotel Renovator",
+                    "linkInstagram": "https://www.instagram.com/focus_entmt/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English; Text: English, Czech, French, German, Italian, Polish, Russian, Spanish - Latin America, Ukrainian, Chinese - Simplified, Chinese - Traditional, Japanese, Korean, Portuguese - Brazil, Spanish - Spain"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "OS",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 10 (64 bits)",
+                                    "recommended": "Windows 10 (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "AMD FX-4300 X4 / Intel Core i3-4130",
+                                    "recommended": "AMD Ryzen 5 1500 X / Intel Core i7-6700K"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "60 GB",
+                                    "recommended": "60 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "AMD Radeon RX 560 / NVIDIA GeForce GTX 750 Ti 4 GB VRAM",
+                                    "recommended": "AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070 Ti 8 GB VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "30 FPS, 1920x1080 in Low",
+                                    "recommended": "30 FPS, 1920x1080 in Epic"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2023 Hotel Renovator, a game developed by Two Horizons and published by Focus Entertainment. Hotel Renovator, Two Horizons, Focus Entertainment, and their respective logos are trademarks or registered trademarks. All other trademarks, registered trademarks or their logos belong to their respective owners. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.focus-entmt.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Focus Entertainment Digital Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s2-1200x1600-3f471995a208.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Two Horizons",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Focus Entertainment",
+                    "description": "The Hotel Renovator Five Star Edition includes the base game and a pack of 7 DLC to be released in the upcoming months. \n\nUnleash your inner designer and renovate the hotel of your dreams! Embark on a makeover journey to turn this worn-out place into a successful getaway. Play with thousands of furniture pieces and accessories, and manage the hotel to get 5-star reviews!\n\nExpand your inner designer experience with 7 packs featuring amazing decoration items that will make your hotel stand out from the rest. Customize your hotel with new sets of furniture and rooms!\n\n# The Five Star Edition currently includes:\n• The Palace Furniture Set \n• Kawaii Furniture Set \n• Futuristic Furniture Set\n• Gym Furniture Set\n• Steampunk Furniture Set\n• Disco Room & Furniture Set\n• Indoor Garden Room & Furniture Set",
+                    "shortDescription": "The Hotel Renovator Five Star Edition includes the base game and a pack of 7 DLC to be released in the upcoming months. Expand your inner designer experience with 7 packs featuring amazing decoration items that will make your hotel stand out from the rest.",
+                    "title": "Hotel Renovator - Five Star Edition",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-ic1-200x123-ba1e0ea2c22b.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-s2-1200x1600-eee2cdc49363.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-s1-2560x1440-698c2f52ce90.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-00-1920x1080-f1e5e94d1ac6.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-01-1920x1080-ef2c0a3bae34.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-02-1920x1080-09215b0f8162.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-03-1920x1080-44ab9a2d7151.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-04-1920x1080-68e4392e6f88.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-05-1920x1080-7a2e9126340a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-06-1920x1080-915dc651990a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Hotel Renovator - Five Star Edition"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-hotelrenovator-twohorizons-s2-1200x1600-3f471995a208.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-02-1920x1080-09215b0f8162.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-06-1920x1080-915dc651990a.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-01-1920x1080-ef2c0a3bae34.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-ic1-200x123-ba1e0ea2c22b.png",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-03-1920x1080-44ab9a2d7151.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-04-1920x1080-68e4392e6f88.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-05-1920x1080-7a2e9126340a.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-s1-2560x1440-698c2f52ce90.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-s2-1200x1600-eee2cdc49363.jpg",
+                "https://cdn2.unrealengine.com/egs-hotelrenovatorfivestaredition-twohorizons-editions-g1a-00-1920x1080-f1e5e94d1ac6.jpg"
+            ]
+        }
+    ]
+}
