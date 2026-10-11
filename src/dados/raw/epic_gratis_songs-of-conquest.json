@@ -1,0 +1,547 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Songs of Conquest",
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "Songs of Conquest",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#c5423a"
+        }
+    },
+    "namespace": "3a18db06dff0465b8a58308aa29020a0",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/songs-of-conquest",
+    "_slug": "songs-of-conquest",
+    "_activeDate": "2021-06-13T22:50:00.000Z",
+    "lastModified": "2021-06-13T20:18:16.055Z",
+    "_locale": "en-US",
+    "_id": "d19cd7cd-e064-48a8-ab1a-ca06747e642e",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Songs of Conquest",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#c5423a"
+                }
+            },
+            "namespace": "3a18db06dff0465b8a58308aa29020a0",
+            "theme": {
+                "buttonPrimaryBg": "#c5423a",
+                "accentColor": "#c5423a",
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/songs-of-conquest/home",
+            "_slug": "home",
+            "_activeDate": "2022-05-10T15:55:00.000Z",
+            "lastModified": "2024-05-20T03:09:37.421Z",
+            "_locale": "en-US",
+            "_id": "1c293301-7074-416f-99ae-fa51a853470c",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "3a18db06dff0465b8a58308aa29020a0",
+                "id": "c2f05f471b6f43cc8e864199f2503bc2",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "requirements": {
+                    "languages": [
+                        "Audio: English",
+                        "Text: English, Czech, French, German, Italian, Polish, Russian, Spanish - Spain, Chinese - Simplified, Japanese, Korean, Portuguese - Brazil, Ukrainian, Chinese - Traditional"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "i5 Dual Core or Ryzen 5",
+                                    "recommended": "i7 Quad Core or Ryzen 7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "10",
+                                    "recommended": "10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Integrated Graphics",
+                                    "recommended": "GTX 970, RX 570 or similar"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Mac OS X 10.10 or later",
+                                    "recommended": "Mac OS X 10.13"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Core i3",
+                                    "recommended": "Intel Core i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "8 GB RAM",
+                                    "recommended": "16 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "4 GB available space",
+                                    "recommended": "8 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Radeon Pro 450 2GB, OpenGL 3.3",
+                                    "recommended": "GeForce GTX 550 or equivalent"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/songsofconquest",
+                    "linkTwitch": "",
+                    "linkFacebook": "https://www.facebook.com/songsofconquest/",
+                    "linkYoutube": "https://www.youtube.com/c/SongsofConquest/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/soc",
+                    "linkHomepage": "https://www.songsofconquest.com"
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2024 Lavapotion AB • All rights reserved",
+                    "privacyPolicyLink": {
+                        "src": "https://www.lavapotion.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Lavapotion Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s2-1200x1600-2e2e2ad46dce.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Lavapotion",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Coffee Stain Publishing",
+                    "description": "Songs of Conquest is a turn-based strategy game inspired by 90s classics. Lead powerful magicians called Wielders and venture to lands unknown. Wage battles against armies that dare oppose you, hunt for powerful artifacts and expand your territory. The world is ripe for the taking – seize it!\n\n# Adventure Awaits\n\nExplore a wide variety of maps with diverse enemies and valuable loot. Delve into contrasting biomes with unique factions, environments and battlefields.\n\n# Build an Empire\n\nManage resources, research new advancements and expand your kingdom. Plan your towns to match your playstyle – Will you enlist every archer you can to rain death from their bows, or will the eternal legions of Aurelia march to war beneath your banners?\n\n# Wage War\n\nDive into a deep combat system using troop abilities and powerful magic. Combine troops to maximize available spells and damage potential. March into epic siege battles and determine which faction matches your playstyle and strategy. There are many ways to conquer!\n\n# Play Your Way\n\nHandcrafted maps for the curious adventurer, or randomized maps for endless replayability. Conquest maps allow head-to-head battles, while Challenge maps offer strategic puzzles to hone your tactical thinking. Find a plethora of maps created by the Lavapotion team as well as our mod community.\n\n# Alone or Together\n\nVenture into the world of Aerbor on your own, team up with a friend, or enlist AI allies and enemies - the choice is yours. The majority of maps are playable in single player, co-op, or multiplayer through local hotseat or online.\n\n# Four Factions\n\nFour factions are locked in an epic conflict. Arleon, knights of old battling each other for dominance. Rana, ancient tribes fighting for survival in the swamp. Loth, necromancers raising the dead to create a glorious future. Barya, bold mercenaries and inventors dedicated to coin, gunpowder and independence.\n\n# Four Choral Campaigns\n\nListen to the bards as they celebrate your path to victory. Each campaign comes with a unique song that tells the tale of your rise and ruin. Unlock new verses as you complete missions, enjoying the full track at the end of the journey.\n\n# In-game Map Editor\n\nThe in-game map editor allows you to create your own adventures using the same tools the developers use to create campaign and skirmish maps. Script in-game events, control the soundtrack, write dialogue and share your creations with others!\n",
+                    "shortDescription": "Raise mighty armies, wield ancient magic and forge an empire. This turn-based strategy adventure game fuses strategic decision making, tactical combat and kingdom management.",
+                    "title": "Songs of Conquest",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-ic1-400x400-6574b663bc1d.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s2-1200x1600-2e2e2ad46dce.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "altContentPosition": false,
+                    "isFullBleed": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s1-2560x1440-d57c50f90fda.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/d618f2e626674db2b9d04c8d024c007e/d618f2e626674db2b9d04c8d024c007e.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1c-00-1920x1080-73440778de8a.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"bdd7797eb4364b7787576c044457d976\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/da42661818b04cd797acafa56a29ff60/da42661818b04cd797acafa56a29ff60.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1c-00-1920x1080-73440778de8a.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"0a32a13089724f6e86f1f9179d9be90c\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/700229649b3b4d218f7f51a033a6b847/700229649b3b4d218f7f51a033a6b847.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1c-00-1920x1080-73440778de8a.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"9dedf573d78848b5ba24ad02d3bcbf1f\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "title": "1.0 launch trailer",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-03-1920x1080-1c5947583072.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-04-1920x1080-4dcfddf72fb4.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-05-1920x1080-2dc7f811f253.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-06-1920x1080-602a0c8dbb08.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-3b626a4d5261.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-cb00a4549f50.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-09-1920x1080-bb69f43bee66.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-10-1920x1080-e944b11dd48b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-11-1920x1080-b20fdbe18f56.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-12-1920x1080-73d1d5f7371d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-13-1920x1080-268c977efcc2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Coffee Stain Publishing"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Lavapotion"
+                    ],
+                    "customReleaseDate": "2022",
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "STRATEGY",
+                        "TURN_BASED"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Songs of Conquest"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-12-1920x1080-73d1d5f7371d.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-13-1920x1080-268c977efcc2.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-cb00a4549f50.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-09-1920x1080-bb69f43bee66.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-11-1920x1080-b20fdbe18f56.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-03-1920x1080-1c5947583072.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s1-2560x1440-d57c50f90fda.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-04-1920x1080-4dcfddf72fb4.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-10-1920x1080-e944b11dd48b.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-ic1-400x400-6574b663bc1d.png",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-06-1920x1080-602a0c8dbb08.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s2-1200x1600-2e2e2ad46dce.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-3b626a4d5261.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-05-1920x1080-2dc7f811f253.jpg"
+            ]
+        }
+    ]
+}

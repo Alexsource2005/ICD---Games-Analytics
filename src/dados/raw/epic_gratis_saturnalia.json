@@ -1,0 +1,737 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "modMarketplaceEnabled": false,
+    "_title": "saturnalia",
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "productName": "Saturnalia",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#ed1b24"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#ed1b24"
+        }
+    },
+    "namespace": "c749cd78da34408d8434a46271f4bb79",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/saturnalia",
+    "_slug": "saturnalia",
+    "_activeDate": "2020-03-19T19:22:23.604Z",
+    "lastModified": "2020-03-19T19:23:25.372Z",
+    "_locale": "en-US",
+    "_id": "f3dd6c98-931b-4612-9924-9af7a73b4e35",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "productName": "Saturnalia",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#ed1b24"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#ed1b24"
+                }
+            },
+            "namespace": "c749cd78da34408d8434a46271f4bb79",
+            "theme": {
+                "buttonPrimaryBg": "#ed1b24",
+                "customPrimaryBg": "#610c69",
+                "accentColor": "#ed1b24",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/saturnalia/home",
+            "_slug": "home",
+            "_activeDate": "2020-03-19T19:23:33.769Z",
+            "lastModified": "2022-11-02T18:26:57.794Z",
+            "_locale": "en-US",
+            "_id": "457a44ec-a9e0-4da6-8b26-7124dc3533c1",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "c749cd78da34408d8434a46271f4bb79",
+                "id": "275d5915ebd2479f983f51025b22a1b8",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/santaragione",
+                    "linkFacebook": "https://www.facebook.com/SaturnaliaGame/",
+                    "linkYoutube": "https://www.youtube.com/santaragione",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow Saturnalia",
+                    "linkHomepage": "https://www.saturnaliagame.com/",
+                    "linkInstagram": "https://www.instagram.com/saturnaliagame/"
+                },
+                "requirements": {
+                    "languages": [
+                        "AUDIO: English",
+                        "TEXT: English, French, German, Spanish - Spain, Italian"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7+ (64 bits)",
+                                    "recommended": "Windows 7+ (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "X64 Dual Core CPU 2+",
+                                    "recommended": "X64 Dual Core CPU 2+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4GB RAM",
+                                    "recommended": "8GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "4GB",
+                                    "recommended": "4GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "10",
+                                    "recommended": "12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Radeon Pro 560X / NVIDIA GTX 960 ",
+                                    "recommended": "Radeon Pro 580 / NVIDIA GTX 1060 "
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "macOS 10.10 Yosemite",
+                                    "recommended": "macOS 10.15 Catalina"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "2.3GHz dual-core 7th gen Intel Core i5",
+                                    "recommended": "3.7GHz 6-core 9th gen Intel Core i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4GB RAM",
+                                    "recommended": "8GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "4GB",
+                                    "recommended": "4GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Radeon Pro 570",
+                                    "recommended": "Radeon Pro Vega 20"
+                                }
+                            ]
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© Santa Ragione S.r.l. 2018-2020, All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "http://www.santaragione.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Santa Ragione Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/saturnalia-game-portrait-1200x1600-10632c58d98d.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Santa Ragione",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Santa Ragione",
+                    "description": "![Saturnalia Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_G2_00-1080x394-dee3512aee49f72fe5a62975e88364f95d716efd.jpg)\n\n# A third person multi-character roguelite horror adventure.\n\nA game inspired and heavily influenced by the folklore of Sardinia, Italy (a region rich with unique traditions and culture) where you play as four characters, experiencing a deeply connected storyline that ties back to the haunting traditions of an ancient village.\n\nThe village itself is an elaborate maze with no two iterations being precisely the same - you will have to explore and solve the mysteries of the game largely unguided.\n\n# Your Weapon? A Box of Matches...\n\nDie, and watch the village reconfigure itself into a new form. Solve puzzles and open shortcuts to new areas with tools and items you find along the way, unlocking every piece of the story with different characters, each with its own power and suited for another aspect of exploration and investigation.\n\nWith a limited supply of matches to light your way and darkness encroaching, can you find your way through the fog to reveal the truth? Or will you be engulfed by the secrets this town doesn’t want you to know?\n\n# Game Features\n\n- The village structure changes each time all your characters die\n- Discover characters' special abilities, use tools and consumables to open shortcuts\n- Keep narrative and puzzle progress across game-overs (_roguelite_)\n- Manage your supply of matches to help your sight and solve puzzles\n- Non-linear progression, dynamic and adaptive narrative\n- Investigate the ritual at the heart of the game and use what you find to stop it\n- Puzzles deeply integrated with the game world and narrative (not abstract)\n- Artwork and animations inspired by stop-motion and rotoscoping film techniques",
+                    "shortDescription": "A Survival Horror Adventure: as an ensemble cast, explore an isolated village of ancient ritual – its labyrinthine roads change each time you lose all your characters.",
+                    "title": "Saturnalia",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_IC1-1523x455-7b64870d53eaa62ef2a41905bc4e207e8ec05e86.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/saturnalia-game-portrait-1200x1600-10632c58d98d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "title": "Saturnalia",
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/saturnalia-game-landscape-2560x1440-ff035b65bba0.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/5e081b34fc994a608c958f2cbd1931b0/5e081b34fc994a608c958f2cbd1931b0.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-00-1920x1080-54e5f932296e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5b1fcac80392475eb54c6cddc1818de5\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8e1dd811a5b04458984afa61ee50918f/8e1dd811a5b04458984afa61ee50918f.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-00-1920x1080-54e5f932296e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"78f871f00236438382477de638a1cde5\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/6ee043fd66ca45d58cf6038c7fd76111/6ee043fd66ca45d58cf6038c7fd76111.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-00-1920x1080-54e5f932296e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2d0a454860064c1aa85e11691300f7ac\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": true,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/9432f52b08ef46acb0f0957ac61c20f1/9432f52b08ef46acb0f0957ac61c20f1.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-01-1920x1080-8e8dc0f8ee1c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"028f02ce405744a691c82333e0d16fb6\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/ff771cff91d045dfa6ef45965cffbd05/ff771cff91d045dfa6ef45965cffbd05.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-01-1920x1080-8e8dc0f8ee1c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"6ad7fb7d712b457dafd4558fffaadb2a\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/4350db6dc3a94889829945fac2cd55f7/4350db6dc3a94889829945fac2cd55f7.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-01-1920x1080-8e8dc0f8ee1c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"511e3d1c03084258bab8b3125d74a9cd\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": true,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/9ff403a90ef347c3a5704b7edcd9a982/9ff403a90ef347c3a5704b7edcd9a982.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-02-1920x1080-51334c05f912.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5e216372718941fe9824c99125ee2fb6\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/17595557a01d46e18fa4cf002a1e5dce/17595557a01d46e18fa4cf002a1e5dce.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-02-1920x1080-51334c05f912.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5bce5e0a93174f66a9225c7afaf273f6\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/50120eaa3869446ebff9222c2dd057ca/50120eaa3869446ebff9222c2dd057ca.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1c-02-1920x1080-51334c05f912.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"f41578a615dc4ff29a58f90b8ed5e1a5\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": true,
+                                "hasControls": true,
+                                "title": "Saturnalia",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-01-1920x1080-e4199dfa88ec.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-02-1920x1080-10cfb06693cd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-03-1920x1080-d7352a2252c2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-04-1920x1080-95d0bcf5ce9a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-06-1920x1080-5300650c3e67.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-07-1920x1080-e9ae29a0b3eb.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-08-1920x1080-0ce5922342f0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-10-1920x1080-7b5bcc9a5a14.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-11-1920x1080-85e1bbbdaf11.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-12-1920x1080-3bdde1fe623c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-13-1920x1080-ebefe70d8368.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-14-1920x1080-824e036ad3c9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-15-1920x1080-fab586898bfa.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-16-1920x1080-e7ed4eb36ccd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/epic-exclusive-screen-2-1920x1080-d225e63055da.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/epic-exclusive-screen-3-1920x1080-d7aadaca1a8f.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/epic-exclusive-screen-1-1920x1080-109386485dab.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/saturnalia-game-landscape-2560x1440-ff035b65bba0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "c749cd78da34408d8434a46271f4bb79",
+                            "description": "A neon-folk survival horror adventure set in Sardinia in the late ‘80s. Play as four characters and explore a mysterious, ever-changing village during ten-to-fifteen hours of gameplay.",
+                            "offerId": "275d5915ebd2479f983f51025b22a1b8",
+                            "title": "Saturnalia",
+                            "slug": "p/saturnalia"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/saturnalia-bundle-landscape-offer-2560x1440-cdfada754716.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "c749cd78da34408d8434a46271f4bb79",
+                            "description": "Play the survival horror adventure, then discover Saturnalia’s soundtrack, including the extended main theme, and the exclusive digital artbook with more than a hundred illustrations.",
+                            "offerId": "e9fc7e48ea0946248ab628d96de79140",
+                            "tag": "edition",
+                            "title": "Saturnalia Deluxe Edition",
+                            "slug": "p/saturnalia"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2022-01-30T22:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_IC1-1523x455-7b64870d53eaa62ef2a41905bc4e207e8ec05e86.png",
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Santa Ragione"
+                    ],
+                    "customReleaseDate": "Coming Soon",
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "HORROR",
+                        "SURVIVAL",
+                        "ADVENTURE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "dlc": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/saturnalia-dlc-landscape-offer-2560x1440-67f06dc99689.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product DLC",
+                            "namespace": "c749cd78da34408d8434a46271f4bb79",
+                            "description": "Listen to Saturnalia's soundscapes, including the extended main theme, “Passacaglia dei Saturnalia”. Discover more than a hundred artworks including some exclusive cut material. ",
+                            "offerId": "e5d232ffe05d4de5bdad237e8fff0c6f",
+                            "tag": "extras",
+                            "title": "Saturnalia Soundtrack and Artbook",
+                            "slug": "p/saturnalia"
+                        }
+                    ],
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Saturnalia"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-03-1920x1080-d7352a2252c2.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-10-1920x1080-7b5bcc9a5a14.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-14-1920x1080-824e036ad3c9.jpg",
+                "https://cdn2.unrealengine.com/epic-exclusive-screen-3-1920x1080-d7aadaca1a8f.png",
+                "https://cdn2.unrealengine.com/epic-exclusive-screen-2-1920x1080-d225e63055da.png",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-15-1920x1080-fab586898bfa.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-16-1920x1080-e7ed4eb36ccd.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-04-1920x1080-95d0bcf5ce9a.jpg",
+                "https://cdn2.unrealengine.com/saturnalia-game-landscape-2560x1440-ff035b65bba0.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-08-1920x1080-0ce5922342f0.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-13-1920x1080-ebefe70d8368.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-12-1920x1080-3bdde1fe623c.jpg",
+                "https://cdn2.unrealengine.com/epic-exclusive-screen-1-1920x1080-109386485dab.png",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-11-1920x1080-85e1bbbdaf11.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-01-1920x1080-e4199dfa88ec.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_IC1-1523x455-7b64870d53eaa62ef2a41905bc4e207e8ec05e86.png",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-06-1920x1080-5300650c3e67.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragionesrl-g1a-02-1920x1080-10cfb06693cd.jpg",
+                "https://cdn2.unrealengine.com/saturnalia-game-portrait-1200x1600-10632c58d98d.jpg",
+                "https://cdn2.unrealengine.com/saturnalia-bundle-landscape-offer-2560x1440-cdfada754716.jpg",
+                "https://cdn2.unrealengine.com/egs-saturnalia-santaragione-g1a-07-1920x1080-e9ae29a0b3eb.jpg",
+                "https://cdn2.unrealengine.com/saturnalia-dlc-landscape-offer-2560x1440-67f06dc99689.jpg"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,428 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "outlast",
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "productName": "Outlast",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#ffffff"
+        }
+    },
+    "namespace": "78f42129096d4233bccc527733debfbd",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/outlast",
+    "_slug": "outlast",
+    "_activeDate": "2022-10-04T13:58:00.000Z",
+    "lastModified": "2022-10-03T20:45:37.463Z",
+    "_locale": "en-US",
+    "_id": "71969e16-4fc7-44d4-b158-7e40d4fd6780",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "productName": "Outlast",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#ffffff"
+                }
+            },
+            "namespace": "78f42129096d4233bccc527733debfbd",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/outlast/home",
+            "_slug": "home",
+            "_activeDate": "2022-10-04T14:00:00.000Z",
+            "lastModified": "2022-10-03T20:45:46.792Z",
+            "_locale": "en-US",
+            "_id": "ad666bba-e06f-4d9d-b702-0f5d09b4f03e",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "78f42129096d4233bccc527733debfbd",
+                "id": "f7f8ddcaa61b4d20a7e1a7283f0e94a4",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/TheRedBarrels",
+                    "linkYoutube": "https://www.youtube.com/channel/UCmiCK8aqFP3Fx4-SHWKZLsA",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow Outlast",
+                    "linkHomepage": "https://redbarrelsgames.com"
+                },
+                "requirements": {
+                    "languages": [
+                        "AUDIO: English",
+                        "TEXT: English, French, German"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows XP / Vista / 7 / 8 - 64 bits *",
+                                    "recommended": "Windows Vista / 7 / 8 - 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "2.2 GHz Dual Core CPU",
+                                    "recommended": "2.8 GHz Quad Core CPU"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "2 GB RAM",
+                                    "recommended": "3 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "5 GB available space",
+                                    "recommended": "5 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "Version 9.0c",
+                                    "recommended": "Version 9.0c"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "512 MB NVIDIA GeForce 9800GTX / ATI Radeon HD 3xxx series",
+                                    "recommended": "1GB NVIDIA GTX 460 / ATI Radeon HD 6850 or better"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "* 32 bits systems are not officially supported, but should work if configured to provide 3Gb of user-mode address space"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac OS",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "OS X 10.9",
+                                    "recommended": "OS X 10.9"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "2.2 GHz Dual Core CPU",
+                                    "recommended": "2.8 GHz Quad Core CPU"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "4 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "5 GB available space",
+                                    "recommended": "5 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "GeForce GT 750M / Intel Iris Pro 5200 / Radeon HD 3xxx",
+                                    "recommended": "1GB NVIDIA GTX 460 / ATI Radeon HD 6850"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2013 Red Barrels Inc. Published by Red Barrels Inc. Outlast and the Outlast logo are trademarks Red Barrels Inc. All Rights Reserved. All trademarks are the property of their respective owners.",
+                    "privacyPolicyLink": {
+                        "src": "https://store.redbarrelsgames.com/pages/tos",
+                        "_type": "Diesel Link",
+                        "title": ""
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-s2-1200x1600-03e40b6f1dc2.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Red Barrels",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Red Barrels",
+                    "description": "\n\n“Easily one of the scariest games I've ever played”\n9.5/10 – [Bloody Disgusting](https://bloody-disgusting.com/news/3251738/outlast-review-a-cold-sweat/)\n\n“\"...what (Outlast) can definitely claim to be is a great game... It’ll also intrigue, terrify and surprise you. Outlast is not an experiment in how games can be scary, it’s an exemplification...”\n[Rock Paper Shotgun](https://www.rockpapershotgun.com/outlast-pc-review)\n\n“Outlast is the perfect nightmare. ...it's absolutely petrifying. I love it”\n4.5/5 – [Joystiq](https://www.engadget.com/2013-09-04-outlast-review.html)\n\n# ABOUT THIS GAME\n\nHell is an experiment you can't survive in Outlast, a first-person survival horror game developed by veterans of some of the biggest game franchises in history. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.\n\nOutlast is a true survival horror experience which aims to show that the most terrifying monsters of all come from the human mind.\n\n# Synopsis\n\nIn the remote mountains of Colorado, horrors wait inside Mount Massive Asylum. A long-abandoned home for the mentally ill, recently re-opened by the “research and charity” branch of the transnational Murkoff Corporation, the asylum has been operating in strict secrecy… until now.\n\nActing on a tip from an anonymous source, independent journalist Miles Upshur breaks into the facility, and what he discovers walks a terrifying line between science and religion, nature and something else entirely. Once inside, his only hope of escape lies with the terrible truth at the heart of Mount Massive.\n\n# Features\n\n• True Survival Horror Experience: You are no fighter - if you want to survive the horrors of the asylum, your only chance is to run... or hide\n• Immersive Graphics: AAA-quality graphics give players a detailed, terrifying world to explore\n• Hide and Sneak: Stealth-based gameplay, with parkour-inspired platforming elements\n• Unpredictable Enemies: Players cannot know when - and from where - one of the asylum’s terrifying inhabitants will finally catch up to them\n• Real Horror: Outlast’s setting and characters are inspired by real asylums and cases of criminal insanity\n\n# Warning\n\nOutlast contains intense violence, gore, graphic sexual content, and strong language. Please enjoy.\n\n# MATURE CONTENT DESCRIPTION\n\nThe developers describe the content like this:\n\n_This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content_",
+                    "shortDescription": "Hell is an experiment you can't survive in Outlast, a first-person survival horror game by Red Barrels. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.",
+                    "title": "Reviews",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-ic1-400x166-ee81f4a0bacb.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-s2-1200x1600-03e40b6f1dc2.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-s1-2560x1440-d5b76f136b21.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-06-1920x1080-f96c41b8c202.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-00-1920x1080-6d65568c4670.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-01-1920x1080-0e6eab929774.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-02-1920x1080-cd4dad6933fc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-03-1920x1080-588cb032a2b0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-04-1920x1080-5365b38cbdfc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-05-1920x1080-851a929e34f6.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "Coming Soon"
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Outlast"
+            },
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-04-1920x1080-5365b38cbdfc.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-05-1920x1080-851a929e34f6.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-01-1920x1080-0e6eab929774.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-s2-1200x1600-03e40b6f1dc2.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-00-1920x1080-6d65568c4670.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-ic1-400x166-ee81f4a0bacb.png",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-s1-2560x1440-d5b76f136b21.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-02-1920x1080-cd4dad6933fc.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-03-1920x1080-588cb032a2b0.jpg",
+                "https://cdn2.unrealengine.com/egs-outlast-redbarrels-g1a-06-1920x1080-f96c41b8c202.jpg"
+            ]
+        }
+    ]
+}

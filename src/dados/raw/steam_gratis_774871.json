@@ -1,0 +1,122 @@
+{
+    "774871": {
+        "success": true,
+        "data": {
+            "type": "music",
+            "name": "The Lion's Song - Soundtrack",
+            "steam_appid": 774871,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This soundtrack is an original composition by Dynamedion for the game The Lion's Song.",
+            "about_the_game": "This soundtrack is an original composition by Dynamedion for the game The Lion's Song.",
+            "short_description": "This soundtrack is an original composition by Dynamedion for the game The Lion's Song.",
+            "fullgame": {
+                "appid": "437160",
+                "name": "The Lion's Song: Episode 1 - Silence"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774871/header.jpg?t=1674654920",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774871/capsule_231x87.jpg?t=1674654920",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774871/capsule_184x69.jpg?t=1674654920",
+            "website": "http://www.lionssonggame.com",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2016-2023 Mipumi Games based on the game „The Lion's Song\" created by leafthief. All rights reserved. Mipumi Games is a registered trademark by Mi'pu'mi Games GmbH.",
+            "developers": [
+                "Mi'pu'mi Games GmbH"
+            ],
+            "publishers": [
+                "Mi'pu'mi Games GmbH"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 9,99"
+            },
+            "packages": [
+                232512
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Lion's Song - Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 232512,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "The Lion's Song - Soundtrack - R$ 9,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774871/ss_6f396bc1581dd3f96bf494188675ec4f11c9a30a.600x338.jpg?t=1674654920",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774871/ss_6f396bc1581dd3f96bf494188675ec4f11c9a30a.1920x1080.jpg?t=1674654920"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 Jul, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@lionssonggame.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/774871?t=1674654920",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/774871?t=1674654920",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "l",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "0",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                }
+            }
+        }
+    }
+}

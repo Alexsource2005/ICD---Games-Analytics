@@ -1,0 +1,421 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Sheltered",
+    "_noIndex": false,
+    "productName": "Sheltered",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#dcb155"
+        }
+    },
+    "namespace": "3b550d92911244558770b68c5a812a5d",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/sheltered",
+    "_slug": "sheltered",
+    "_activeDate": "2021-08-19T16:02:34.845Z",
+    "lastModified": "2021-08-19T16:36:30.505Z",
+    "_locale": "en-US",
+    "_id": "0d7343db-c5ef-4b33-8063-f29a41130542",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "Sheltered",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#dcb155"
+                }
+            },
+            "namespace": "3b550d92911244558770b68c5a812a5d",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/sheltered/home",
+            "_slug": "home",
+            "_activeDate": "2021-08-19T16:05:47.646Z",
+            "lastModified": "2021-08-19T16:35:33.116Z",
+            "_locale": "en-US",
+            "_id": "721e83f4-3c15-41f1-867b-d5fde6d4ab3d",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "3b550d92911244558770b68c5a812a5d",
+                "id": "011ab6d40b80485bb23fbef4362aceb2",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/team17ltd",
+                    "linkTwitter": "https://twitter.com/Team17",
+                    "linkFacebook": "https://www.facebook.com/Team17",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/team17",
+                    "linkHomepage": "https://www.team17.com/games/sheltered/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English",
+                        "Text: English, French, German, Spanish - Spain, Italian, Russian, Chinese - Simplified, Portuguese - Brazil"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Dual Core CPU",
+                                    "recommended": "Quad Core CPU"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4GB RAM",
+                                    "recommended": "4GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "600MB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "9.0"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "GeForce 7800, AMD HD 4600, Intel HD Graphics 3000 or above"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Sheltered. Developed by Unicube and Team 17 Digital Ltd © 2015. Published by Team17. Team17 are trademarks or registered trademarks of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.team17.com/privacy-policy/",
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-s4-1200x1600-56704c1b52c6.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Unicube",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Team17",
+                    "description": "Panting, scared, the shelter airlock smashes down behind you. You wish you did not have to go outside, but you do. It would be easier to give up. But you don’t. The hardship, the hunger, the thirst. The fear. You keep reminding yourself why you stay alive. Why you do this. Then you hear it. “Daddy you’re back.” You wife’s face lights up and you open a bag full of medical supplies. You need not tell her how you got them. You simply enjoy your small victory in this, the harshest of times.\n\nSheltered is a post-apocalyptic disaster management game that gives a whole new meaning to the term “nuclear family”. Given a head-start over the billions lost in a nuclear holocaust, you must gather as many supplies as possible en route to the concrete underground shelter that will soon become your family home for the foreseeable dreary future.\n\n![Sheltered Image](https://cdn2.unrealengine.com/egs-sheltered-unicube-g2-00-1920x1080-b78a6d0154db.jpg)\n\n# Feature List\n\n- Family comes first: Keep your family alive and protect them from the ravages of the harsh post-apocalyptic world.\n\n- Make the shelter a home: Maintain your shelter - keep it secure, habitable and make sure that the family have enough resources to survive. Protect your shelter from hazards and infiltration!\n\n- Customisation: Your family is unique to you; you decide their gender, names and their appearance.\n\n- RPG mechanics: As your family develop, their stats will adapt with an evolving experience and trauma system. Attributes, strengths and weaknesses will change based on your choices.\n",
+                    "shortDescription": "Sheltered is a deep and emotional survival management game. You take on the role of protecting four family members who, after a global apocalypse, have found their way to a deserted shelter. ",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-ic1-400x234-ad95ac81b363.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-sheltered-unicube-s4-1200x1600-56704c1b52c6.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-sheltered-unicube-s3-2560x1440-88f94343fcec.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-00-1920x1080-f3a75948db09.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-01-1920x1080-a6020922de59.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-02-1920x1080-64b02a1f750f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-03-1920x1080-5cf954413d9b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-04-1920x1080-bfe93e3a19c3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-05-1920x1080-eb9c28854388.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-06-1920x1080-6ffb3e0f03b1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-07-1920x1080-9537a8bea3a1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sheltered-unicube-g2-00-1920x1080-b78a6d0154db.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2016-03-15T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Team17"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Unicube"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "STRATEGY",
+                        "RPG"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    },
+                    "title": "Sheltered"
+                },
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Sheltered"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-06-1920x1080-6ffb3e0f03b1.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-03-1920x1080-5cf954413d9b.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-00-1920x1080-f3a75948db09.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-02-1920x1080-64b02a1f750f.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-01-1920x1080-a6020922de59.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-s3-2560x1440-88f94343fcec.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-s4-1200x1600-56704c1b52c6.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-04-1920x1080-bfe93e3a19c3.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-ic1-400x234-ad95ac81b363.png",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-07-1920x1080-9537a8bea3a1.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g2-00-1920x1080-b78a6d0154db.jpg",
+                "https://cdn2.unrealengine.com/egs-sheltered-unicube-g1a-05-1920x1080-eb9c28854388.jpg"
+            ]
+        }
+    ]
+}

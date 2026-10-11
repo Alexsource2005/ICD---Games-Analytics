@@ -1,0 +1,524 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": ""
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": ""
+        }
+    },
+    "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+    "_title": "alan-wake",
+    "productName": "Alan Wake",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/alan-wake",
+    "_slug": "alan-wake",
+    "_activeDate": "2019-07-22T20:19:25.665Z",
+    "lastModified": "2019-08-05T13:03:13.015Z",
+    "_locale": "en-US",
+    "_id": "a0ad0037-2cd6-4133-9b3b-9f5b3ddd9337",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": ""
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": ""
+                }
+            },
+            "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+            "_title": "home",
+            "productName": "Alan Wake",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/alan-wake/home",
+            "_slug": "home",
+            "_activeDate": "2019-07-22T20:21:13.592Z",
+            "lastModified": "2022-11-07T23:55:43.363Z",
+            "_locale": "en-US",
+            "_id": "9981996e-6d77-408a-aa6b-1e8e25422d49",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+                "id": "c9f0e06579234578aaaa0da9bf74c92e",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "503273f691e04f4b8020f9fb4125a14b",
+                "_type": "Diesel Product Item",
+                "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/remedygames",
+                    "linkFacebook": "https://www.facebook.com/alanwake/",
+                    "linkYoutube": "https://www.youtube.com/playlist?list=PLFBDBD6EF0AB975F4",
+                    "_type": "Diesel Social Links",
+                    "linkInstagram": "https://www.instagram.com/remedygames/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Voice: English, German, French, Italian, Spanish (Spain), Spanish (LATAM), Japanese",
+                        "Text Only: Korean, Russian, Polish, Traditional Chinese"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7 or later",
+                                    "recommended": "Windows 7 or later"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Dual Core 2GHz Intel or 2.8GHz AMD",
+                                    "recommended": "Quad Core 2.66GHz Intel or 3.2GHz AMD"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "2 GB RAM",
+                                    "recommended": "4GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "DirectX 10 compatible with 512MB RAM",
+                                    "recommended": "DirectX 10 compatible with 1GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "9.0c",
+                                    "recommended": "10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "HDD Space",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sound",
+                                    "minimum": "DirectX 9.0c compatible",
+                                    "recommended": "DirectX 9.0c compatible"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 16"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "USK ab 16"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F15_V_H-320x117-cb3cc055667104a3e3e063f1e8af128bab95549f.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "15세이용가"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_T_ESRB-842x404-6ff43ebcf0d2b664eb1c3d710795409714aec43a.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TEEN"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Copyright 2010 Remedy Entertainment Plc. All Rights Reserved. Alan Wake is a registered trademark of Remedy Entertainment Plc.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.remedygames.com/terms-and-conditions/",
+                        "_type": "Diesel Link",
+                        "title": "Remedy Games Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_Game_Page_About_Image_1000x840-1000x840-cb6288164f4a1f15d34d28189f6420adda956dd0.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Remedy Entertainment",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Remedy Entertainment",
+                    "description": "When the wife of the best-selling writer Alan Wake disappears on their vacation, his search turns up pages from a thriller he doesn’t even remember writing. A Dark Presence stalks the small town of Bright Falls, pushing Wake to the brink of sanity in his fight to unravel the mystery and save his love.\n\nPresented in the style of a TV series, Alan Wake features the trademark Remedy storytelling and pulse-pounding action sequences. As players dive deeper and deeper into the mystery, they’ll face overwhelming odds, plot twists, and cliffhangers. It’s only by mastering the Fight With Light combat mechanic that they can stay one step ahead of the darkness that spreads across Bright Falls.\n\nWith the body of an action gameand the mind of a psychological thriller, Alan Wake’s intense atmosphere, deep and multilayered story, and exceptionally tense combat sequences provide players with an entertaining and original gaming experience.\n\nEnhanced for the PC\n* Includes Alan Wake Special Episodes “The Signal” and “The Writer”\n* Experience Alan Wake’s Pacific Northwest in higher resolutions and higher fidelity than the Xbox360 version.\n* Fully configurable mouse and keyboard support, or if you prefer to play with the Steam or Microsoft gamepad connected to your PC, you can do that too!\n* Lots of customizable graphics settings and support for 4:3, 16:9 and 16:10 aspect ratios!\n* Multithreaded engine that takes advantage of quad core CPUs.\n* Additional features our fans have sought after such as field of view adjustment as well as “hide HUD”.\n* Works with AMD Eyefinity 3D 3-screen mode.",
+                    "title": "Alan Wake",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FRemedy_logo_white-2000x1343-9039c890f1d521e6e300ed8980875bd692783b3f.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlan_Wake_logo_white-2602x1550-b727425650c530be9b134ff937610a0f49c893d1.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_Portrait_Promo_1280x1420-1280x1420-458a62538d5bc2e608b07d9fb6fd0a75e457f337.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "sources": [
+                            {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAW_EPIC_STORE_GAMEPAGE-21596ef2f63d065bccb8b0fd520e582b0349f772.mp4",
+                                "_type": "Diesel Html Video Source",
+                                "type": "Video/MP4"
+                            },
+                            {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAW_EPIC_STORE_GAMEPAGE-6f8164b8f73228fd0b9f7abc1e01e49728182ce9.webm",
+                                "_type": "Diesel Html Video Source",
+                                "type": "Video/Webm"
+                            }
+                        ],
+                        "loop": true,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": true,
+                        "autoplay": true
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlan_Wake_PrimaryPromo_2580x1450-2580x1450-550042713eeb4197f97cb7e1442543dee3ba2883.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F01_Taken-1920x1080-ef09e6ef5c6258f1755d817c58cbf4e7ae66fa6c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F02_Poltergeist-1920x1080-5db25cb6445885e27e931a73f62c95ec450c6b5c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F03_Barry-1920x1080-9d4ff8ea730e177f66023acaa3a50f34d788eb78.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F04_Cabin-1920x1080-ad9d0818ae3743589533d11bfac2c857d02e6732.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F05_Kill_shot-1920x1080-e9c60a59680aa5c101f17c0a07721db65a5335df.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F06_Water-1920x1080-e39ef33849d6ac63da1e15d38543cf02b5b1dafe.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2012-02-16T13:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Remedy Entertainment"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Remedy Entertainment"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "HORROR",
+                        "SHOOTER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_6-2560x1600-188e5383f5db2f754a2937f1f85af7a0f88579a9.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_7-2560x1600-a4e49858edb22cf8dd72ab2ad3f82bfc392bc72c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_8-2560x1600-3fb917cab30b04d65b56dd10a593e6e10ad3c026.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_24-2560x1600-14c4ee5f002f7d18ddf88ed0a5964e139b40924d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "altText": "9",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_9-2560x1600-259edaae1bdc097ec2744862ac2a12686c308a0c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "altText": "25",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_25-2560x1600-15ad1d2297c85f754685d9a4bb65439f035d668a.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "altText": "18",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_18-2560x1600-90508013450fe0cc2f57b2843ce175449dfe6281.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FRough_Road-1920x1080-847ae882b75ebef1663e70e213f0938d8f515691.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_30-2560x1600-aa18645cfbd9033f38ff811253925df638f4ce1a.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_33-2560x1600-b767653b08035d7f73fed90253fa1978441289f6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        }
+                    ]
+                },
+                "navTitle": "Alan Wake"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_18-2560x1600-90508013450fe0cc2f57b2843ce175449dfe6281.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlan_Wake_logo_white-2602x1550-b727425650c530be9b134ff937610a0f49c893d1.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F03_Barry-1920x1080-9d4ff8ea730e177f66023acaa3a50f34d788eb78.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_9-2560x1600-259edaae1bdc097ec2744862ac2a12686c308a0c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_25-2560x1600-15ad1d2297c85f754685d9a4bb65439f035d668a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_T_ESRB-842x404-6ff43ebcf0d2b664eb1c3d710795409714aec43a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F06_Water-1920x1080-e39ef33849d6ac63da1e15d38543cf02b5b1dafe.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F04_Cabin-1920x1080-ad9d0818ae3743589533d11bfac2c857d02e6732.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_6-2560x1600-188e5383f5db2f754a2937f1f85af7a0f88579a9.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_7-2560x1600-a4e49858edb22cf8dd72ab2ad3f82bfc392bc72c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F15_V_H-320x117-cb3cc055667104a3e3e063f1e8af128bab95549f.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAW_EPIC_STORE_GAMEPAGE-21596ef2f63d065bccb8b0fd520e582b0349f772.mp4",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F01_Taken-1920x1080-ef09e6ef5c6258f1755d817c58cbf4e7ae66fa6c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F05_Kill_shot-1920x1080-e9c60a59680aa5c101f17c0a07721db65a5335df.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_33-2560x1600-b767653b08035d7f73fed90253fa1978441289f6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FRough_Road-1920x1080-847ae882b75ebef1663e70e213f0938d8f515691.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_8-2560x1600-3fb917cab30b04d65b56dd10a593e6e10ad3c026.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_24-2560x1600-14c4ee5f002f7d18ddf88ed0a5964e139b40924d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAW_EPIC_STORE_GAMEPAGE-6f8164b8f73228fd0b9f7abc1e01e49728182ce9.webm",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_screen_30-2560x1600-aa18645cfbd9033f38ff811253925df638f4ce1a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_Portrait_Promo_1280x1420-1280x1420-458a62538d5bc2e608b07d9fb6fd0a75e457f337.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FRemedy_logo_white-2000x1343-9039c890f1d521e6e300ed8980875bd692783b3f.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlanWake_Game_Page_About_Image_1000x840-1000x840-cb6288164f4a1f15d34d28189f6420adda956dd0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2FAlan_Wake_PrimaryPromo_2580x1450-2580x1450-550042713eeb4197f97cb7e1442543dee3ba2883.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Falan-wake%2Fhome%2F02_Poltergeist-1920x1080-5db25cb6445885e27e931a73f62c95ec450c6b5c.jpg"
+            ]
+        }
+    ]
+}

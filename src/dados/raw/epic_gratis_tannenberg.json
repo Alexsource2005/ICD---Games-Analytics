@@ -1,0 +1,665 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Tannenberg",
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "pageTheme": {
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection"
+        }
+    },
+    "namespace": "538de058a6d9490ea151c4cd111cc01b",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/tannenberg",
+    "_slug": "tannenberg",
+    "_activeDate": "2021-07-20T05:59:51.694Z",
+    "lastModified": "2021-07-22T04:27:12.286Z",
+    "_locale": "en-US",
+    "_id": "0e7ca93e-c838-41e8-9c71-43cc4dfbb90f",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "538de058a6d9490ea151c4cd111cc01b",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/tannenberg/home",
+            "_slug": "home",
+            "_activeDate": "2021-07-20T06:01:13.549Z",
+            "lastModified": "2024-03-22T21:14:45.350Z",
+            "_locale": "en-US",
+            "_id": "e3dbf23c-a987-4c59-a0aa-01d90fe14493",
+            "_templateName": "productDetail",
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/WW1GameSeries",
+                    "linkTwitch": "",
+                    "linkFacebook": "https://www.facebook.com/WW1GameSeries/",
+                    "linkYoutube": "https://www.youtube.com/@WW1GameSeries",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/ww1gameseries",
+                    "linkReddit": "https://www.reddit.com/r/WW1GameSeries/",
+                    "linkHomepage": "https://www.ww1gameseries.com/tannenberg/",
+                    "linkInstagram": "https://www.instagram.com/blackmillgames/ "
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English",
+                        "Text: English, Chinese - Simplified, French, German, Italian, Japanese, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "10.11+",
+                                    "recommended": "10.11+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
+                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "16 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "8 GB available space",
+                                    "recommended": "8 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 2GB video card memory",
+                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 8/10 64 Bit",
+                                    "recommended": "Windows 10 64 Bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
+                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "16 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "8 GB available space",
+                                    "recommended": "8 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "10",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 2GB video card memory",
+                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2024 WW1 Game Series B.V.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.blackmillgames.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s4-1200x1600-d03984d2bb22.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "BlackMill Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "BlackMill Games",
+                    "description": "Tannenberg brings the massive battles of the Eastern Front in WW1 to life with 64 players fighting for control of key sectors of the battlefield, each one offering a distinct strategic advantage. Warfare between the Russian Empire, Germany, and their allies offers a fresh experience for first person shooter players and history enthusiasts alike.\n\nThere are seven squads, 50+ weapons, eight large maps that give players tactical freedom, and a 64 player game mode with full AI bot support so you can experience epic battles at any time!\n\n# Authentic WW1 FPS\n\nThis historical game takes place across the lakes, forests, mountains and snowy plains of the Eastern Front - it was inspired by the Battle of Tannenberg in 1914, one of the most iconic encirclement battles in history. Players will be able to master a range of authentically modelled equipment brought to the field by Russian Frontovik and Cossack squads, the renowned Latvian Riflemen, or the Roumanian infantry squad. Alternatively they can join the Central Powers to serve in an Austro-Hungarian K.u.K. unit, with the German Infanterie, or in the Bulgarian rifle section.\n\n# Maneuver Game Mode\n\nThe exciting Maneuver game mode reflecting the nature of war on the Eastern Front, as 64 players battle across large maps where the objectives and battle lines are always shifting. Survive the deadly battles by working together with your four man squad and utilizing your distinctive skills. There is a wealth of historical detail including realistic WW1 weaponry, authentic uniforms, horrendous gore, and maps based on real battlefields.\n\n# Key Features\n\n- Authentic WW1 atmosphere; accuracy in everything from maps and weaponry to uniforms\n- Tactical squad-based FPS; play as Russian, Roumanian, Latvian, Austro-Hungarian, German and Bulgarian troops\n- Wide-ranging landscapes; large maps each with weather variants from snow to summer sun\n- 64 player Maneuver game mode; capture strategic sectors in grand battles of movement\n- Never fight alone; squad gameplay and AI bots for Maneuver so you can join epic battles at any time\n\n# Carefully Researched\n\nWe recreate the atmosphere of the Eastern Front with the same level of accuracy as seen in Verdun. Extensive research has been conducted, with uniforms recreated to the tiniest detail and weapons modelled to exact references. The maps use realistic props and terrain layouts based on locations from the hilly forests of Galicia to Polish villages subjected to scorched earth tactics and more!\n\nOther games in the series are Verdun, set on the Western Front, and Isonzo, which lets players experience mountain warfare on the Italian Front!",
+                    "shortDescription": "Experience authentic First World War action with 64 player battles of maneuver on the Eastern Front. Grab your rifle, ready your sabre and keep your gas mask close as you prepare to play a part in one of the most significant conflicts in history!",
+                    "title": "Tannenberg",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/tannenberg-400-x-400-400x400-ecd08b79347f.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s2-1200x1600-5e2d4f3ae793.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "title": "Tannenberg",
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s1-2560x1440-b5a41ff9a55d.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/e68a2d6ed9884812b63f5ee7ef5e9300/e68a2d6ed9884812b63f5ee7ef5e9300.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1c-00-1920x1080-7d23c604f7c7.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"518c45ae9cc2451c98a6084db783b7fc\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/67eb284c73044c93b87b0758e8b56ec3/67eb284c73044c93b87b0758e8b56ec3.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1c-00-1920x1080-7d23c604f7c7.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"abe0cc103ece4650be36e1c028bece1b\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/49cdae2189944615a538611c491706ed/49cdae2189944615a538611c491706ed.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1c-00-1920x1080-7d23c604f7c7.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"c649faa352ff43fbb91fb959017659d1\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Tannenberg Trailer",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-01-1920x1080-49e743d06965.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-02-1920x1080-54852f2ad8ca.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-03-1920x1080-a95f10876b9d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-04-1920x1080-df4aecd77bac.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-05-1920x1080-402839d289b8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-06-1920x1080-773cd435f898.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-07-1920x1080-b8e3e3445b44.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-08-1920x1080-e948918a8105.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-09-1920x1080-59d55ddf7156.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-10-1920x1080-9e1a524412c0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-11-1920x1080-05d2b61b3a23.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-12-1920x1080-1924942a2d80.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-13-1920x1080-7d6b24f9db52.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-14-1920x1080-dee30fcde4ac.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-15-1920x1080-526d975d1408.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-16-1920x1080-d8b624369e30.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-17-1920x1080-25637ae2feda.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-18-1920x1080-c7ee3374eb2e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-19-1920x1080-71da13f7fc1d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-11-16T20:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Tannenberg"
+            },
+            "overwriteMapping": false,
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-08-1920x1080-e948918a8105.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-10-1920x1080-9e1a524412c0.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-02-1920x1080-54852f2ad8ca.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-12-1920x1080-1924942a2d80.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-15-1920x1080-526d975d1408.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-11-1920x1080-05d2b61b3a23.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-19-1920x1080-71da13f7fc1d.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-06-1920x1080-773cd435f898.jpg",
+                "https://cdn2.unrealengine.com/tannenberg-400-x-400-400x400-ecd08b79347f.png",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-03-1920x1080-a95f10876b9d.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-16-1920x1080-d8b624369e30.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s2-1200x1600-5e2d4f3ae793.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-17-1920x1080-25637ae2feda.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-13-1920x1080-7d6b24f9db52.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-14-1920x1080-dee30fcde4ac.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s1-2560x1440-b5a41ff9a55d.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s4-1200x1600-d03984d2bb22.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-18-1920x1080-c7ee3374eb2e.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-01-1920x1080-49e743d06965.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-04-1920x1080-df4aecd77bac.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-09-1920x1080-59d55ddf7156.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-05-1920x1080-402839d289b8.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-07-1920x1080-b8e3e3445b44.jpg"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "538de058a6d9490ea151c4cd111cc01b",
+                "id": "4bdbe4d91f084966aed33eeb5ebb71fd",
+                "hasOffer": true
+            },
+            "pageRegionBlock": "KR",
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            }
+        }
+    ]
+}

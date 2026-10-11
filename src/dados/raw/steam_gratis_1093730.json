@@ -1,0 +1,172 @@
+{
+    "1093730": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Supraland Crash",
+            "steam_appid": 1093730,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "A new Supraland adventure full of exploration, puzzles and surprises... and way less combat.<br>Crash is a new full fledged Supraland campaign that you select separately in the main menu of the game. It is not necessary to have finished the base game but we highly recommend it.<br><br>Crash estimated playtime: ~7-13h<br><br><strong>How does my main game progress/savegame relate to the DLC?</strong><br>Not at all! The DLC1 campaign is a separate thing. A separate adventure. It continues the plot, but you select it with a different menu button and it uses different new save games.<br><br><strong>Do I have to finish the main game to play the DLC?</strong><br>You don't have to, but you should, because the DLC brings back many mechanics and they won't be tutorialized as deeply as they were in the main game.<br><br><strong>Why don't you release the DLC as a standalone game?</strong><br>- The game is not different enough from base game. It would be more like Supraland 1.5. People would probably not like a 2nd game that is too similar to the first one technologically.<br>- There could be installment confusion, so after we released a bunch of Supraland stories, people wouldn't know which order the games have.<br>- The DLC is for advanced players. It's not starting from scratch explaining everything. Standalone would lead to many people playing it without knowing the base game, which would not be a the experience we have in mind.",
+            "about_the_game": "A new Supraland adventure full of exploration, puzzles and surprises... and way less combat.<br>Crash is a new full fledged Supraland campaign that you select separately in the main menu of the game. It is not necessary to have finished the base game but we highly recommend it.<br><br>Crash estimated playtime: ~7-13h<br><br><strong>How does my main game progress/savegame relate to the DLC?</strong><br>Not at all! The DLC1 campaign is a separate thing. A separate adventure. It continues the plot, but you select it with a different menu button and it uses different new save games.<br><br><strong>Do I have to finish the main game to play the DLC?</strong><br>You don't have to, but you should, because the DLC brings back many mechanics and they won't be tutorialized as deeply as they were in the main game.<br><br><strong>Why don't you release the DLC as a standalone game?</strong><br>- The game is not different enough from base game. It would be more like Supraland 1.5. People would probably not like a 2nd game that is too similar to the first one technologically.<br>- There could be installment confusion, so after we released a bunch of Supraland stories, people wouldn't know which order the games have.<br>- The DLC is for advanced players. It's not starting from scratch explaining everything. Standalone would lead to many people playing it without knowing the base game, which would not be a the experience we have in mind.",
+            "short_description": "A new Supraland adventure ~7-13h playtime. Tons of exploration and puzzles!",
+            "fullgame": {
+                "appid": "813630",
+                "name": "Supraland"
+            },
+            "supported_languages": "English, German, Japanese, Traditional Chinese, Simplified Chinese, French, Turkish, Russian, Polish, Korean, Hungarian",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/header.jpg?t=1725021444",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/capsule_231x87.jpg?t=1725021444",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/capsule_184x69.jpg?t=1725021444",
+            "website": "http://supragames.de",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core2Duo 2.66GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 780<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 6600 or AMD Ryzen 1600x<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) or AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB )<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Supra Games"
+            ],
+            "publishers": [
+                "Supra Games"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 1399,
+                "final": 1049,
+                "discount_percent": 25,
+                "initial_formatted": "$13.99",
+                "final_formatted": "$10.49"
+            },
+            "packages": [
+                368454
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Supraland Crash",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 368454,
+                            "percent_savings_text": "-25% ",
+                            "percent_savings": 0,
+                            "option_text": "Supraland - Crash - <span class=\"discount_original_price\">$13.99</span> $10.49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1049
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 62,
+                    "description": "Family Sharing"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_f571bd385c81ae18889d2f0d0bce4dc02fc3b63c.600x338.jpg?t=1725021444",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_f571bd385c81ae18889d2f0d0bce4dc02fc3b63c.1920x1080.jpg?t=1725021444"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_8be7687ffc10d3979eb5f533b3ceb39fbaf4e29e.600x338.jpg?t=1725021444",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_8be7687ffc10d3979eb5f533b3ceb39fbaf4e29e.1920x1080.jpg?t=1725021444"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_af8bfb9f61d4318b438a3ce03a4613e1946ffd4a.600x338.jpg?t=1725021444",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_af8bfb9f61d4318b438a3ce03a4613e1946ffd4a.1920x1080.jpg?t=1725021444"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_d264adf9819bbefd92e452ecbac477dcdb04f54e.600x338.jpg?t=1725021444",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_d264adf9819bbefd92e452ecbac477dcdb04f54e.1920x1080.jpg?t=1725021444"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_b797af5aa5d0399e4af8e86eb9fa036ebfd0d3e3.600x338.jpg?t=1725021444",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_b797af5aa5d0399e4af8e86eb9fa036ebfd0d3e3.1920x1080.jpg?t=1725021444"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_78ded188a457ff18c4bedee177a2cf6d55c1c7d0.600x338.jpg?t=1725021444",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/ss_78ded188a457ff18c4bedee177a2cf6d55c1c7d0.1920x1080.jpg?t=1725021444"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256787219,
+                    "name": "DLC1 Video",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256787219/movie.293x165.jpg?t=1591447175",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1093730/289131/79fed9e06c887d490a1b97bb3e469cad29670e1a/1751187506/dash_av1.mpd?t=1591447175",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1093730/289131/79fed9e06c887d490a1b97bb3e469cad29670e1a/1751187506/dash_h264.mpd?t=1591447175",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1093730/289131/79fed9e06c887d490a1b97bb3e469cad29670e1a/1751187506/hls_264_master.m3u8?t=1591447175",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 595
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Jul 3, 2020"
+            },
+            "support_info": {
+                "url": "http://supragames.de",
+                "email": "hey@supragames.de"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1093730?t=1725021444",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1093730?t=1725021444",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating": "10",
+                    "descriptors": "Violência fantasiosa\r\nViolência",
+                    "use_age_gate": "true",
+                    "required_age": "10"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,603 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Verdun",
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "pageTheme": {
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection"
+        }
+    },
+    "namespace": "e4a2a414d46849f49a35c0f80df2903a",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/verdun",
+    "_slug": "verdun",
+    "_activeDate": "2021-07-13T16:06:48.343Z",
+    "lastModified": "2021-07-15T14:36:56.202Z",
+    "_locale": "en-US",
+    "_id": "9266b57d-4047-412e-9ac5-e86d8d5deb38",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "e4a2a414d46849f49a35c0f80df2903a",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/verdun/home",
+            "_slug": "home",
+            "_activeDate": "2021-07-13T16:11:32.405Z",
+            "lastModified": "2024-03-13T21:14:25.232Z",
+            "_locale": "en-US",
+            "_id": "929f7b0b-eb8f-4d39-8d45-086467363b27",
+            "_templateName": "productDetail",
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "src": "https://www.ww1gameseries.com/",
+                            "_type": "Diesel Link",
+                            "title": "WW1 Game Series"
+                        }
+                    ]
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/WW1GameSeries",
+                    "linkTwitch": "",
+                    "linkFacebook": "https://www.facebook.com/WW1GameSeries/",
+                    "linkYoutube": "https://www.youtube.com/@WW1GameSeries",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/ww1gameseries",
+                    "linkReddit": "https://www.reddit.com/r/WW1GameSeries/",
+                    "linkHomepage": "https://www.ww1gameseries.com/verdun/",
+                    "linkInstagram": "https://www.instagram.com/blackmillgames/ "
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English",
+                        "Text: English, French, German, Italian, Portuguese, Polish, Russian, Spanish - Spain, Chinese - Simplified, Japanese, Turkish, Arabic"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "10.11+",
+                                    "recommended": "10.11+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
+                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "12 GB available space",
+                                    "recommended": "12 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 1GB video card memory",
+                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 8/10",
+                                    "recommended": "Windows 8/10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
+                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "12 GB available space",
+                                    "recommended": "12 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "10",
+                                    "recommended": "10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 1GB video card memory",
+                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2024 WW1 Game Series B.V.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.blackmillgames.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-s2-1200x1600-a4ca9a451906.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "BlackMill Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "BlackMill Games",
+                    "description": "# About Verdun\n\nThe game takes place on the Western Front between 1914 and 1918, in one of the bloodiest conflicts in world history - inspired by the infamous Battle of Verdun in 1916.\n\nVerdun is the first multiplayer FPS set in a realistic World War One setting, and is the game which started the WW1 Game series. The vicious close quarters nature of trench warfare means that skill with a bayonet can be as vital as good aim with a rifle. Other games in the series include Tannenberg, set on the Eastern Front, and Isonzo, featuring mountain warfare set on the Italian Front.\n\n# Key Features\n\n- Experience World War One gameplay: Accurate weaponry, poisonous gas with a claustrophobic gas mask experience, horrendous gore effects, and ferocious artillery barrages\n- Tactical squad-based FPS: 15 distinctive squad types representing soldiers from 5+ countries, each with distinct weapons and equipment\n- True trench warfare: Real-time dynamic frontline with momentum based attack and counter-attack gameplay\n- Authentic World War 1 setting: Typical WW1 music and style, historical battlefields representing the key theaters on the Western Front\n\n# Game Modes\n\nThe game offers 5 distinct game-modes with many historically accurate features such as realistic WW1 weaponry, authentic uniforms, horrendous gore, and maps based on the real battlefields of France and Belgium. The dynamic Frontlines game mode features 64 players taking turns to go over the top and attempt to capture the opposing trench line.\n\n[Hayden Dingman of PCWorld](https://www.pcworld.com/article/427511/verdun-review-a-thoughtful-squad-based-take-on-wwi.html) said \"Verdun's given me an excellent understanding of what a mess World War I was. Verdun's Frontlines mode really is sort of ingenious—and I think this is definitely one worth checking out.\"\n\n# Authentic WW1 Combat\n\nThe gameplay in this true WW1 battlefield experience is as immersive and gritty as it can get, with features such as optional realistic gore which portrays the true horror of the First World War and authentic weaponry including artillery and gas. Weapons need to be handled with skill - each gun handles differently and there are no floating crosshairs to aid your aim, along with realistic bullet physics to contend with.\n\nKeep your head down or quickly don your mask in the event of artillery strikes or gas attacks. This unforgiving war isn’t for the faint hearted!\n\n# Extensive Research\n\nFor Verdun, we carried out extensive field research at the battlefield itself and were advised by knowledgeable historians to make sure the individual elements in Verdun are as historically accurate as it can get. Uniforms have been recreated to the tiniest detail, the weapons are modeled to exact references and the maps use realistic props and terrain layouts. Everything has been tailored to recreate the grim atmosphere so typical of WW1, from the immersive interface and war torn maps to realistic sounds and voices that evoke the feeling of actually being there in the muddy trenches.",
+                    "shortDescription": "Merciless trench warfare immerses you and your squad in intense battles of attack and defense. Verdun is the first multiplayer FPS set in an authentic World War One setting offering a rarely seen battlefield experience.",
+                    "title": "Verdun",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-verdun-blackmillgames-ic1-400x400-0db736a1c171.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-s2-1200x1600-a4ca9a451906.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "title": "Verdun",
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-s1-2560x1440-80dfd02cf10a.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/25c7d7bc6ac14cf1885e43eb08b35aa1/25c7d7bc6ac14cf1885e43eb08b35aa1.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1c-00-1920x1080-36afa7dae6f3.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"3f2c89c69b65416f8ab99c3c21daacad\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/5e2aa7ec11794c9ebc676c62cbe95065/5e2aa7ec11794c9ebc676c62cbe95065.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1c-00-1920x1080-36afa7dae6f3.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"ad9a0a0b070343cebeb9ad11e4655ca1\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/5efa27fdf1944963a168d7d433f96bac/5efa27fdf1944963a168d7d433f96bac.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1c-00-1920x1080-36afa7dae6f3.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"34527fa9018c469fb3e21bda9393e99d\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Verdun Trailer",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-01-1920x1080-e381df7efde9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-02-1920x1080-37a4e2f0d05b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-03-1920x1080-0ef32a44e7a0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-04-1920x1080-ec5af15e7cc0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-05-1920x1080-a75a7d79d0f5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-06-1920x1080-ef19b3e2e915.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-07-1920x1080-b1132c0abef8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-08-1920x1080-250e7d2a44f3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-09-1920x1080-f94c9bfb5347.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-10-1920x1080-ac4a95730ece.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-11-1920x1080-cb6265a5c0c8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-12-1920x1080-8dc9f953a731.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2015-04-28T16:24:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-00-1920x1080-4c6a29130c5a.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-01-1920x1080-015a9b84e4d7.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-02-1920x1080-238c460b1328.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-03-1920x1080-fc76be4bfda6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-04-1280x720-0486512cdcc1.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-05-1280x720-7eb84a8ea054.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-06-1920x1080-44790d9fa8bc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "Verdun"
+            },
+            "overwriteMapping": false,
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-02-1920x1080-238c460b1328.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-01-1920x1080-e381df7efde9.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-06-1920x1080-ef19b3e2e915.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-11-1920x1080-cb6265a5c0c8.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-s2-1200x1600-a4ca9a451906.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-03-1920x1080-0ef32a44e7a0.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-blackmillgames-ic1-400x400-0db736a1c171.png",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-03-1920x1080-fc76be4bfda6.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-05-1920x1080-a75a7d79d0f5.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-08-1920x1080-250e7d2a44f3.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-02-1920x1080-37a4e2f0d05b.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-s1-2560x1440-80dfd02cf10a.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-12-1920x1080-8dc9f953a731.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-04-1920x1080-ec5af15e7cc0.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-07-1920x1080-b1132c0abef8.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-09-1920x1080-f94c9bfb5347.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-01-1920x1080-015a9b84e4d7.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-04-1280x720-0486512cdcc1.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-00-1920x1080-4c6a29130c5a.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-05-1280x720-7eb84a8ea054.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g1a-10-1920x1080-ac4a95730ece.jpg",
+                "https://cdn2.unrealengine.com/egs-verdun-m2hblackmillgames-g2-06-1920x1080-44790d9fa8bc.jpg"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "e4a2a414d46849f49a35c0f80df2903a",
+                "id": "7d26ed48c61f498189e60b282eaddbdf",
+                "hasOffer": true
+            },
+            "pageRegionBlock": "KR",
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            }
+        }
+    ]
+}

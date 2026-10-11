@@ -4,7 +4,7 @@ import requests
 
 # --- SUAS CREDENCIAIS REAIS DA STEAM ---
 API_KEY = "010187A20FDAB0733BE21A91A46BEB63"
-STEAM_ID = "76561199557190797"
+STEAM_ID = "76561198323249883"
 
 # 1. Garante que a pasta dados/raw/ existe no projeto
 os.makedirs("dados/raw", exist_ok=True)

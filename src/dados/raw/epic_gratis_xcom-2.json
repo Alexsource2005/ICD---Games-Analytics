@@ -1,0 +1,1050 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "XCOM-2",
+    "_noIndex": false,
+    "productName": "XCOM® 2",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#ADD8E6"
+        }
+    },
+    "namespace": "7ec453d446194b8f8afe82aaa9561211",
+    "theme": {
+        "buttonPrimaryBg": "#ADD8E6",
+        "customPrimaryBg": "#000000",
+        "accentColor": "#ADD8E6",
+        "_type": "Diesel Theme",
+        "colorScheme": "dark"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/xcom-2",
+    "_slug": "xcom-2",
+    "_activeDate": "2022-03-31T21:33:54.743Z",
+    "lastModified": "2022-03-31T21:37:02.719Z",
+    "_locale": "en-US",
+    "_id": "6fe6dccf-f526-439f-886c-f23537f0307d",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "XCOM® 2",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#ADD8E6"
+                }
+            },
+            "namespace": "7ec453d446194b8f8afe82aaa9561211",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/xcom-2/home",
+            "_slug": "home",
+            "_activeDate": "2022-03-31T21:41:00.999Z",
+            "lastModified": "2022-12-09T21:58:48.518Z",
+            "_locale": "en-US",
+            "_id": "7fe6887f-c6a9-47f0-bef9-70f612782610",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "7ec453d446194b8f8afe82aaa9561211",
+                "id": "04aedb34af844dc1869c1b99aa1b5541",
+                "type": "edition",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/XCOM",
+                    "linkFacebook": "https://www.facebook.com/XCOM/",
+                    "linkYoutube": "https://www.youtube.com/xcom",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow Us",
+                    "linkHomepage": "https://www.xcom.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Text: English, French, German, Spanish - Spain, Italian, Japanese, Korean, Polish, Russian, Chinese - Simplified, Chinese - Traditional",
+                        "Audio: English, French, German, Spanish - Spain, Italian"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows® 7, 64-bit",
+                                    "recommended": "Windows® 7, 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad Core 2.6 GHz",
+                                    "recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better",
+                                    "recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Version 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "45 GB",
+                                    "recommended": "45 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sound Card",
+                                    "minimum": "DirectX compatible sound card",
+                                    "recommended": "DirectX compatible sound card"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2022 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.take2games.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/xcom2-set-up-assets-1200x1600-1200x1600-3d3abef7221d.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Firaxis",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "2K",
+                    "description": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year.\n\nEarth has changed. Twenty years have passed since world leaders offered an unconditional surrender to alien forces. XCOM, the planet’s last line of defense, was left decimated and scattered. Now, in XCOM 2, the aliens rule Earth, building shining cities that promise a brilliant future for humanity on the surface, while concealing a sinister agenda and eliminating all who dissent from their new order.\n\nOnly those who live at the edges of the world have a margin of freedom. Here, a force gathers once again to stand up for humanity. Always on the run, and facing impossible odds, the remnant XCOM forces must find a way to ignite a global resistance, and eliminate the alien threat once and for all.\n\n\nXCOM ON THE RUN: Take command of the Avenger, an alien supply craft converted to XCOM’s mobile headquarters. New open-ended gameplay lets you decide where to guide your strike team, how to grow popular support, and when to combat enemy counter-operations.\n\nRECRUIT RESISTANCE FIGHTERS: Five soldier classes, each with its own skill tree, let you create specific soldiers for your tactical plan.\n\nTACTICAL GUERRILLA COMBAT: New gameplay systems offer more tactical flexibility in combat. Use concealment to ambush enemy patrols. Loot enemies for precious gear and artifacts. Rescue VIPs and save fallen comrades by carrying them to the extraction point.\n\nA NEW BREED OF ENEMY: A diverse cast of enemies from powerful new alien species to the ADVENT, enforcers of the alien regime, offer a distinct tactical challenge.\n\nRESEARCH, DEVELOP AND UPGRADE: Configure and build rooms on the Avenger to give XCOM new capabilities on the battlefield. Use your Scientists and Engineers to research, develop and upgrade weapons and armor to fit your preferred tactics.\n\nEACH MISSION IS A UNIQUE CHALLENGE: Go on missions around the world, from wildlands to the heart of the alien-controlled megacities, to the depths of alien installations. There are virtually infinite combinations of maps, missions and goals.\n\nUse of this product requires agreement to the following third party end user license agreement: http://www.take2games.com/eula/",
+                    "shortDescription": "Aliens rule Earth, but secretly hiding a sinister agenda. As the leader of a guerrilla force, you must ignite a global resistance to eliminate the alien threat and save the human race.",
+                    "title": "XCOM® 2",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "namespace": "ea73c08ac633414584e281f838b3a78c",
+                    "link": {
+                        "src": "https://store.epicgames.com/p/marvels-midnight-suns",
+                        "_type": "Diesel Link",
+                        "title": "BUY NOW"
+                    },
+                    "description": "Fight & Think like a Super Hero in Marvel's Midnight Suns, a new Tactical RPG from Firaxis Games!",
+                    "offerId": "0eef2ad2803c4ac691a820b91eefef82"
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/xcom2-set-up-assets-transparent-logo-400x400-400x400-b307f5e1156a.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/xcom2-set-up-assets-1200x1600-1200x1600-3d3abef7221d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/88e74aa1d7fc4771a3dd85f02173cb0f/88e74aa1d7fc4771a3dd85f02173cb0f.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"43de69cfc871418386f2a421406cb5ed\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/b468f6371c0146b8a8f853427ce97c2d/b468f6371c0146b8a8f853427ce97c2d.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"abac869d38824a9b91fa3590b624a410\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/b82bc83d70b641b9ab7d1e919a55635a/b82bc83d70b641b9ab7d1e919a55635a.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"17cbb0c4f17f4b87ae38a5088261a456\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-01-1920x1080-57378f19ddbe.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-02-1920x1080-327eaaaa00e8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-03-1920x1080-1d9393f7d797.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-04-1920x1080-6506972f4583.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-05-1920x1080-85970a0eeeb9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-06-1920x1080-6015c9e89ccf.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-07-1920x1080-30a2573943e3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-08-1920x1080-24ae0b5c89f2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-09-1920x1080-4044994db9a0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-10-1920x1080-30940992fdbb.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "7ec453d446194b8f8afe82aaa9561211",
+                            "description": "Aliens rule Earth, but secretly hiding a sinister agenda. As the leader of a guerrilla force, you must ignite a global resistance to eliminate the alien threat and save the human race.",
+                            "offerId": "04aedb34af844dc1869c1b99aa1b5541",
+                            "tag": "edition",
+                            "title": "XCOM® 2",
+                            "slug": "p/xcom-2"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-2560x1440-pli-2560x1440-b5a6397f3d16.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "7ec453d446194b8f8afe82aaa9561211",
+                            "description": "The XCOM® 2 Collection includes  XCOM 2, the War of the Chosen expansion, and 5 DLC packs (Resistance Warrior Pack, Anarchy’s Children, Alien Hunters, Shen’s Last Gift, Tactical Legacy Pack) for a bundled discount.",
+                            "offerId": "cdbf3bb5182b4f89ad92f513689edca0",
+                            "tag": "edition",
+                            "title": "XCOM® 2 Collection",
+                            "slug": "p/xcom-2--collection"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": true
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "BANNER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "XCOM® 2"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-01-1920x1080-57378f19ddbe.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-03-1920x1080-1d9393f7d797.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-04-1920x1080-6506972f4583.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-02-1920x1080-327eaaaa00e8.jpg",
+                "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-2560x1440-pli-2560x1440-b5a6397f3d16.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-09-1920x1080-4044994db9a0.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-07-1920x1080-30a2573943e3.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-10-1920x1080-30940992fdbb.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-08-1920x1080-24ae0b5c89f2.jpg",
+                "https://cdn2.unrealengine.com/xcom2-set-up-assets-1200x1600-1200x1600-3d3abef7221d.jpg",
+                "https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-06-1920x1080-6015c9e89ccf.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-05-1920x1080-85970a0eeeb9.jpg",
+                "https://cdn2.unrealengine.com/xcom2-set-up-assets-transparent-logo-400x400-400x400-b307f5e1156a.png"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "Collection",
+            "_noIndex": false,
+            "productName": "XCOM® 2",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#ADD8E6"
+                }
+            },
+            "namespace": "7ec453d446194b8f8afe82aaa9561211",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/xcom-2/collection",
+            "_slug": "collection",
+            "_activeDate": "2024-03-28T15:00:00.000Z",
+            "lastModified": "2024-04-04T00:41:54.916Z",
+            "_locale": "en-US",
+            "_id": "26d0bbd1-51da-4ce3-86ae-13654ebc8f73",
+            "_templateName": "productDetail",
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/XCOM",
+                    "linkFacebook": "https://www.facebook.com/XCOM/",
+                    "linkYoutube": "https://www.youtube.com/xcom",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow Us",
+                    "linkHomepage": "https://www.xcom.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Text: English, French, Italian, German, Spanish, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese",
+                        "Audio: English, French, Italian, German, Spanish"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows® 7, 64-bit",
+                                    "recommended": "Windows® 7, 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Core 2 Duo E4700 2.6 GHz or AMD",
+                                    "recommended": "3GHz Quad Core"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better",
+                                    "recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Version 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "45 GB available space",
+                                    "recommended": "45 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sound Card",
+                                    "minimum": "DirectX compatible sound card",
+                                    "recommended": "DirectX compatible sound card"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2022 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.take2games.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-1200x1600-ppi-1200x1600-735ebfc50fc6.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Firaxis",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "2K",
+                    "description": "The XCOM® 2 Collection includes the award-winning strategy game XCOM 2, the War of the Chosen expansion, and five DLC packs (Resistance Warrior Pack, Anarchy’s Children, Alien Hunters, Shen’s Last Gift, Tactical Legacy Pack) for a bundled discount.\n\nAliens rule Earth, promising a brilliant future for mankind while secretly hiding a sinister agenda. As the leader of a guerrilla force facing impossible odds, you must ignite a global resistance to eliminate the alien threat and save the human race from extinction.\n\nThe XCOM 2: War of the Chosen expansion adds extensive new content in the fight against ADVENT when additional resistance factions form in order to eliminate the alien threat on Earth. In response, a new enemy, known as the “Chosen,” emerges with one goal: recapture the Commander. The expansion includes new Hero classes to counter the “Chosen”, new enemies, missions, environments and increased depth in strategic gameplay.\n\n## XCOM 2: War of the Chosen:\nThe XCOM® 2: War of the Chosen expansion adds extensive new content in the fight against ADVENT when additional resistance factions form in order to eliminate the alien threat on Earth. In response, a new enemy, known as the “Chosen,” emerges with one goal: recapture the Commander. The expansion includes new Hero classes to counter the “Chosen”, new enemies, missions, environments and increased depth in strategic gameplay.\n\n## FIVE DLC PACKS: \n\n• Resistance Warrior Pack: Customize your squad of resistance fighters with a set of bonus outfits and head gear, as well as custom armor and face camo. Instantly unlock a survivor of the old war as a new recruit in your barracks.\n\n• Anarchy’s Children: This rebellion-themed content pack introduces more than 100 new exotic customizations for the entire arsenal of armors available to your XCOM soldiers. These options are purely cosmetic and do not alter the stats of a soldier.\n\n• Alien Hunters: Transform the soldiers of XCOM into an elite alien hunting squad with impressive new weapons and armor to face off against new alien Rulers that will pursue your squad across an entire campaign. Additional cosmetic upgrades to soldiers and the Avenger are included, as well as a new epic mission where Central Officer Bradford leads a squad with the guidance of an old friend.\n\n• Shen’s Last Gift: Investigate ADVENT’s “Lost Towers” facility where Chief Engineer Lily Shen accompanies your squad in search of her late father’s secretive final project. Discover a unique new soldier class complete with powerful new combat abilities, strategy mechanics, and customization options.\n\n• Tactical Legacy Pack: Lead your troops with this collection of new game modes, maps, weapons, armors, Photobooth options, and more that honors the legacy of the XCOM series.\n\nUse of this product requires agreement to the following third party end user license agreement: http://www.take2games.com/eula/",
+                    "shortDescription": "The XCOM® 2 Collection includes  XCOM 2, the War of the Chosen expansion, and 5 DLC packs (Resistance Warrior Pack, Anarchy’s Children, Alien Hunters, Shen’s Last Gift, Tactical Legacy Pack) for a bundled discount.",
+                    "title": "",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-400x400-tl-400x400-1dfe500254c3.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-1200x1600-ppi-1200x1600-735ebfc50fc6.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-2560x1440-pli-2560x1440-b5a6397f3d16.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-00-1920x1080-2902cbe0401d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-01-1920x1080-568e3c22bb78.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-02-1920x1080-afbcf4a9cc9f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-03-1920x1080-a2afece81d17.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-04-1920x1080-0fb79f9fbf95.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-05-1920x1080-5b5f87bab2e2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-06-1920x1080-faf967c3ac3e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-07-1920x1080-c788132bd4ee.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-08-1920x1080-e9aeb6ea190a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-09-1920x1080-9066875882e8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-10-1920x1080-2951e2e5706d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-11-1920x1080-2ab7193c3182.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-12-1920x1080-430912e12ab9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-13-1920x1080-ccdff6e951fe.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-14-1920x1080-e4faea017296.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-15-1920x1080-d582e4e8c53b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-16-1920x1080-294b5659e5b4.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": true
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "BANNER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "XCOM® 2 Collection"
+            },
+            "overwriteMapping": false,
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-07-1920x1080-c788132bd4ee.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-06-1920x1080-faf967c3ac3e.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-11-1920x1080-2ab7193c3182.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-02-1920x1080-afbcf4a9cc9f.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-05-1920x1080-5b5f87bab2e2.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-12-1920x1080-430912e12ab9.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-15-1920x1080-d582e4e8c53b.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-16-1920x1080-294b5659e5b4.jpg",
+                "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-2560x1440-pli-2560x1440-b5a6397f3d16.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-03-1920x1080-a2afece81d17.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-09-1920x1080-9066875882e8.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-01-1920x1080-568e3c22bb78.jpg",
+                "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-1200x1600-ppi-1200x1600-735ebfc50fc6.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-14-1920x1080-e4faea017296.jpg",
+                "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-400x400-tl-400x400-1dfe500254c3.png",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-10-1920x1080-2951e2e5706d.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-00-1920x1080-2902cbe0401d.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-08-1920x1080-e9aeb6ea190a.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-13-1920x1080-ccdff6e951fe.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-04-1920x1080-0fb79f9fbf95.jpg"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "7ec453d446194b8f8afe82aaa9561211",
+                "id": "cdbf3bb5182b4f89ad92f513689edca0",
+                "tag": "bundle",
+                "type": "edition",
+                "hasOffer": true
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition"
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "The Outer Worlds: Spacers Choice Edition",
+    "_noIndex": false,
+    "productName": "The Outer Worlds: Spacer's Choice Edition",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#fbae17"
+        }
+    },
+    "namespace": "dc61166eea95474e912953b163791d42",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/the-outer-worlds-spacers-choice-edition",
+    "_slug": "the-outer-worlds-spacers-choice-edition",
+    "_activeDate": "2023-03-07T15:58:00.000Z",
+    "lastModified": "2022-09-16T15:47:55.046Z",
+    "_locale": "en-US",
+    "_id": "3d9be62b-d71e-416e-b9b9-355ae2d6f587",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "The Outer Worlds: Spacer's Choice Edition",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#fbae17"
+                }
+            },
+            "namespace": "dc61166eea95474e912953b163791d42",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/the-outer-worlds-spacers-choice-edition/home",
+            "_slug": "home",
+            "_activeDate": "2023-03-07T15:58:00.000Z",
+            "lastModified": "2026-06-04T21:28:21.242Z",
+            "_locale": "en-US",
+            "_id": "f592a653-b396-4fe6-b46e-c955e6ccfe96",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "dc61166eea95474e912953b163791d42",
+                "id": "0769596f15a445b7a5ad3f8d7c7730e2",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "src": "https://www.obsidian.net/",
+                            "_type": "Diesel Link",
+                            "title": "Developer website"
+                        },
+                        {
+                            "src": "https://www.xbox.com/en-US/",
+                            "_type": "Diesel Link",
+                            "title": "Publisher website"
+                        }
+                    ]
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/outerworlds",
+                    "linkFacebook": "https://www.facebook.com/TheOuterWorlds/",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow us",
+                    "linkHomepage": "https://theouterworlds.com"
+                },
+                "requirements": {
+                    "languages": [
+                        "TEXT: English, Chinese - Simplified, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Portuguese - Brazil, Spanish - Spain, Spanish - Latin America",
+                        "AUDIO: English"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 10 64-bit",
+                                    "recommended": "Windows 10 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Core i7-6700 or AMD Ryzen 5 1600",
+                                    "recommended": "Intel Core i7-8700 or AMD Ryzen 5 3600"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "12GB",
+                                    "recommended": "16GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "62GB",
+                                    "recommended": "62GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "GeForce GTX 1060 6 GB or Radeon RX 590",
+                                    "recommended": "GeForce GTX 1080 Ti or GeForce RTX 2070 or Radeon RX 6700 XT"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2019-2022 Obsidian Entertainment, Inc. Obsidian Entertainment and the Obsidian Entertainment logo are trademarks or registered trademarks of Obsidian Entertainment, Inc. The Outer Worlds and The Outer Worlds logos are trademarks or registered trademarks of Obsidian Entertainment, Inc.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.microsoft.com/en-GB/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-s2-1200x1600-558e4bc9a08d.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Obsidian Entertainment",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Xbox Game Studios",
+                    "description": "The Outer Worlds: Spacer’s Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division.\n\nYou’ve tried the rest, now come back for the best! The Outer Worlds: Spacer’s Choice Edition includes the base game and all add-on content as the definitive way to play the beloved RPG from Obsidian Entertainment. This remastered masterpiece is optimized to be the absolute best version of The Outer Worlds… even if you choose to play this critically acclaimed RPG as the absolute worst version of your character.\n\nLost in transit while on a colonist ship bound for the edge of the galaxy, you awake decades later only to find yourself in the midst of a deep conspiracy threatening to destroy the colony. Explore the various planets and locations of Halcyon, including the mysterious Gorgon Asteroid and delightful distilleries of Eridanos. As you encounter various factions, all vying for power, the character you decide to become will determine how this player-driven story unfolds.\n\nIn the corporate equation for the colony, you are the unplanned variable.\n\nThe Complete Edition\n•\t2019’s hit RPG has been remastered with better graphics, improved performance, additional animations, higher-res environments, and a whole new feature: grenades!\n\nThe Player-Driven Story\n•\tIn keeping with the Obsidian tradition, how you approach The Outer Worlds is up to you. Your choices affect not only the way the story develops, they also affect your character build, companion stories, and end game scenarios.\n\nLead Your Companions\n•\tDuring your journey through the furthest colony, you will meet a host of characters who will want to join your crew. Armed with unique abilities, these companions all have their own missions, motivations, and ideals. It's up to you to help them achieve their goals, or exploit them to your own ends.\n\nExplore the Corporate Colony\n•\tHalcyon is a colony at the edge of the galaxy owned and operated by a corporate board. They control everything... except for the alien monsters left behind when the terraforming of the colony’s two planets didn’t exactly go according to plan. Find your ship, build your crew, and explore the settlements, space stations, and other intriguing locations throughout Halcyon.",
+                    "shortDescription": "The Outer Worlds: Spacer’s Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division. Including the base game and all DLC, this remastered masterpiece is the absolute best version of The Outer Worlds.",
+                    "title": "The Outer Worlds: Spacer's Choice Edition",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-ic1-400x400-86c3bee5e2d2.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-s2-1200x1600-558e4bc9a08d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-s1-2560x1440-bfadb305290a.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/towsce-cnv-roseway-berke-001-1920x1080-773b9c13a525.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-000-1920x1080-e9bd302cdcae.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-01-1920x1080-f0ad1f7b8d71.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-02-1920x1080-51b91c65d2ed.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-03-1920x1080-1fd07dfe05fa.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-04-1920x1080-2e8084901833.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-05-1920x1080-1e38dba9b282.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-06-1920x1080-307e8f4f536f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-07-1920x1080-b81e4a01ad2b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-08-1920x1080-9dd56a824e91.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2023-03-07T14:11:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Private Division"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Obsidian Entertainment"
+                    ],
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "PRODUCT_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "MARKDOWN",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "The Outer Worlds: Spacer's Choice Edition"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-s2-1200x1600-558e4bc9a08d.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-03-1920x1080-1fd07dfe05fa.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-000-1920x1080-e9bd302cdcae.jpg",
+                "https://cdn2.unrealengine.com/towsce-cnv-roseway-berke-001-1920x1080-773b9c13a525.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-02-1920x1080-51b91c65d2ed.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-07-1920x1080-b81e4a01ad2b.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-ic1-400x400-86c3bee5e2d2.png",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-01-1920x1080-f0ad1f7b8d71.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-04-1920x1080-2e8084901833.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-s1-2560x1440-bfadb305290a.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-08-1920x1080-9dd56a824e91.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-05-1920x1080-1e38dba9b282.jpg",
+                "https://cdn2.unrealengine.com/egs-theouterworldsspacerschoiceedition-obsidianentertainment-g1a-06-1920x1080-307e8f4f536f.jpg"
+            ]
+        }
+    ]
+}

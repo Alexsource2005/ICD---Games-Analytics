@@ -1,0 +1,477 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Automachef",
+    "_noIndex": false,
+    "productName": "Automachef",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "moon",
+            "accent": "#00FFFF"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "moon",
+            "accent": "#FFFFFF"
+        }
+    },
+    "namespace": "75ec0c7498894d1a99a5c8f02f3e4c55",
+    "theme": {
+        "buttonPrimaryBg": "#FFFFFF",
+        "accentColor": "#FFFFFF",
+        "_type": "Diesel Theme",
+        "colorScheme": "dark"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/automachef",
+    "_slug": "automachef",
+    "_activeDate": "2021-08-10T17:09:52.540Z",
+    "lastModified": "2021-08-18T22:37:21.138Z",
+    "_locale": "en-US",
+    "_id": "d596006d-d96d-4bb7-908a-1526c58f64f2",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "Automachef",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "moon",
+                    "accent": "#00FFFF"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "moon",
+                    "accent": "#FFFFFF"
+                }
+            },
+            "namespace": "75ec0c7498894d1a99a5c8f02f3e4c55",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/automachef/home",
+            "_slug": "home",
+            "_activeDate": "2021-08-10T17:14:21.202Z",
+            "lastModified": "2022-10-25T13:43:05.088Z",
+            "_locale": "en-US",
+            "_id": "3fed4adc-3410-4a24-8b68-06c1f4433225",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "75ec0c7498894d1a99a5c8f02f3e4c55",
+                "id": "c57ffe9b84324710845173de8a887feb",
+                "type": "edition",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/Team17",
+                    "linkTwitch": "https://www.twitch.tv/team17ltd",
+                    "linkFacebook": "https://www.facebook.com/Team17/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/team17",
+                    "title": "Follow Us",
+                    "linkHomepage": "https://www.team17.com/games/automachef/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Audio: English",
+                        "Text: English, French, German, Spanish - Spain, Italian, Chinese - Simplified, Japanese"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7 64-bit",
+                                    "recommended": "Windows 10 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Core i5-2300 or AMD A8-5600K",
+                                    "recommended": "Intel Core i5-4460 or Ryzen 3 2200G"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4GB RAM",
+                                    "recommended": "8GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "6GB",
+                                    "recommended": "6GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "Version 11",
+                                    "recommended": "Version 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "GeForce GTX 550 Ti or Radeon HD 7770",
+                                    "recommended": "GeForce GTX 950 or Radeon R9 290"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Automachef. Developed by Rhombico Games © 2019. Published by Team17 Digital Ltd. Team17 is a trademark or registered trademark of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.team17.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Rhombico Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Team17",
+                    "description": "Welcome to Automachef, a resource management puzzler where you design kitchens, program machinery and watch your genius come to life! It’s time to engineer tomorrow’s kitchens, today!\n\n## Plan. Position. Program:\n\nDesign and build automated restaurants, then program them to run like well-oiled machines! Do you have a can-do attitude and the know-how to conquer the world of automated restaurants?\n\n## Challenging Puzzles:\n\nFine tune your mind as you tackle intricate spatial, resource management and scenario puzzles! Not enough hot dogs? You’ll sort it! Kitchens on fire? No problem for a smart human like you!\n\n## Multiple Brain-Tickling Modes:\n\nTake on the campaign levels, traverse your way through the business world in contracts mode, or just go nuts and bolts in the sandbox test mode and play until you get your fill!\n\n## Endless Charm and Quirky Humour:\n\nAll delivered in an abundance by our helplessly misguided human protagonist- Robert Person. Who is definitely a human. Don’t ask questions.",
+                    "shortDescription": "Welcome to Automachef, a resource management puzzler where you design kitchens, program machinery and watch your genius come to life! It’s time to engineer tomorrow’s kitchen, today!",
+                    "title": "Automachef",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-ic1-400x190-e2c06a1daf12.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-s2-1200x1600-6bf85b57d38b.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-s1-2560x1440-249b445182dd.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-00-1920x1080-5f8cdd3d7fea.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-01-1920x1080-e9f26c0029fa.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-02-1920x1080-6dcf46260969.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-03-1920x1080-f5ab73be5339.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-04-1920x1080-2080f9448400.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-05-1920x1080-152bc81755fb.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-06-1920x1080-ce0e31593195.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-07-1920x1080-dd8c02f8f726.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-08-1920x1080-9ab8fc550ef1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-09-1920x1080-83b7c5bc4ff9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2019-07-23T13:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Team17"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Rhombico Games"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "INDIE",
+                        "SIMULATION",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Automachef"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-01-1920x1080-e9f26c0029fa.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-s1-2560x1440-249b445182dd.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-08-1920x1080-9ab8fc550ef1.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-03-1920x1080-f5ab73be5339.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-ic1-400x190-e2c06a1daf12.png",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-s2-1200x1600-6bf85b57d38b.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-02-1920x1080-6dcf46260969.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-04-1920x1080-2080f9448400.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-07-1920x1080-dd8c02f8f726.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-09-1920x1080-83b7c5bc4ff9.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-05-1920x1080-152bc81755fb.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-06-1920x1080-ce0e31593195.jpg",
+                "https://cdn2.unrealengine.com/egs-automachef-hermesinteractive-g1a-00-1920x1080-5f8cdd3d7fea.jpg"
+            ]
+        }
+    ]
+}

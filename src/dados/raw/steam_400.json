@@ -40,16 +40,16 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 999,
+                "currency": "BRL",
+                "initial": 3399,
+                "final": 3399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "R$ 33,99"
             },
             "packages": [
-                515,
                 204527,
+                515,
                 469
             ],
             "package_groups": [
@@ -63,34 +63,34 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 515,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Portal - $9.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 999
-                        },
-                        {
                             "packageid": 204527,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Portal - Commercial License - $9.99",
+                            "option_text": "Portal - Commercial License - R$ 20,69",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 2069
+                        },
+                        {
+                            "packageid": 515,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Portal - R$ 33,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3399
                         },
                         {
                             "packageid": 469,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Orange Box - $19.99",
+                            "option_text": "The Orange Box - R$ 63,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 6399
                         }
                     ]
                 }
@@ -265,7 +265,7 @@
                 }
             ],
             "recommendations": {
-                "total": 174591
+                "total": 174662
             },
             "achievements": {
                 "total": 15,
@@ -354,7 +354,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 10, 2007"
+                "date": "10 Oct, 2007"
             },
             "support_info": {
                 "url": "http://steamcommunity.com/app/400",

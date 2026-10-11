@@ -1,0 +1,1456 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "mortal-kombat-1",
+    "regionBlock": "KR, RU, JP, BY",
+    "_noIndex": false,
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#ffffff"
+        }
+    },
+    "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/mortal-kombat-1",
+    "_slug": "mortal-kombat-1",
+    "_activeDate": "2023-05-18T20:58:10.176Z",
+    "lastModified": "2023-08-11T16:58:16.216Z",
+    "_locale": "en-US",
+    "_id": "01acd9ee-5625-419b-99cf-845f30d78be4",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR, RU, JP, BY",
+            "_noIndex": false,
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#ffffff"
+                }
+            },
+            "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/mortal-kombat-1/home",
+            "_slug": "home",
+            "_activeDate": "2023-05-18T20:58:45.558Z",
+            "lastModified": "2026-05-18T17:57:19.669Z",
+            "_locale": "en-US",
+            "_id": "ff178054-ce3d-4cee-9506-5ba52fec6ba3",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering",
+                    "filterType": "BLACKLIST",
+                    "appliedCountries": "KR, RU, JP, BY"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+                "id": "53e1317ae6c04ca08b599bbc5d437c4b",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://www.mortalkombat.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Text: English, French, Italian, German, Spanish – Spain, Arabic, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Korean",
+                        "Audio: English, French, Italian, German, Spanish – Spain, Portuguese – Brazil, Spanish – Latin America"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 10 64-bit",
+                                    "recommended": "Windows 10/11 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel® Core™ i5-6600 (3.30 GHz) | AMD Ryzen™ 3 3100 (3.60 GHz) or Ryzen™ 5 2600 (3.40 GHz)",
+                                    "recommended": "Intel® Core™ i5-8400 (2.80 GHz) | AMD Ryzen™ 5 3600X (3.80 GHz)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "140 GB",
+                                    "recommended": "140 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "12",
+                                    "recommended": "12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Nvidia GeForce® GTX 1660| AMD Radeon™ RX 590 | Intel® Arc™ A750",
+                                    "recommended": "Nvidia GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
+                                    "recommended": "SSD, 1440p/High"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "MORTAL KOMBAT 1 Software © 2023 Warner Bros. Entertainment Inc. Developed by NetherRealm Studios. All other trademarks and copyrights are the property of their respective owners. All rights reserved.   NETHERREALM STUDIOS LOGO, MORTAL KOMBAT, THE DRAGON LOGO, and all related characters and elements are trademarks of and © 2023 Warner Bros. Entertainment Inc.    WARNER BROS. GAMES LOGO, WARNER BROS. INTERACTIVE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s23)",
+                    "privacyPolicyLink": {
+                        "src": "https://go.wbgames.com/privacy-center",
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s2-1200x1600-485355627c7e.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "NetherRealm Studios | QLOC",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Warner Bros. Games",
+                    "description": "It’s In Our Blood!\n\nDiscover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                    "shortDescription": "Discover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                    "title": "Mortal Kombat 1 ",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-ic1-400x400-4c1751186b40.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s2-1200x1600-485355627c7e.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s1-2560x1440-1d177fc23ff0.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"videoId\": \"40af9874-f35c-46f2-b043-67c0ee260ae4\",\n  \"output\": [\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/output.mp4\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/main_playlist_webm.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/main_playlist_hls.m3u8\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/main_playlist_dash.mpd\"\n  ],\n  \"thumbnail\": \"https://cdn2.unrealengine.com/3e8ac1f8-eb3b-4ebf-af11-d2e2b27fbcf0-1920x1080-5b409b25dc7d.jpeg\",\n  \"quicksilver\": true\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f282004becbd4522b1676b16c1335292/f282004becbd4522b1676b16c1335292.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-a00d4f5edeca.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"a8b60453ab7840139f722020c7b0d7b8\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/4bc744d51f724178b61f43926917bc15/4bc744d51f724178b61f43926917bc15.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-a00d4f5edeca.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"54833d2bf6ec487c84e522caa1b10fc0\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/d5566cdb9413461b8a63cf6b942d8055/d5566cdb9413461b8a63cf6b942d8055.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-a00d4f5edeca.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"88c34bbc880d4780901f2e251a32fc33\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Mortal Kombat 1 Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8ae68e2d0c504d0f978e80a4b336ed76/8ae68e2d0c504d0f978e80a4b336ed76.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-2e4558fd5fda.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2d918a6650534b219f70d54f63d6b780\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/85bd75572ed94e81967791f93919df60/85bd75572ed94e81967791f93919df60.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-2e4558fd5fda.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"92bbedb4831b4ca4a1c1689e660323eb\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/1e1fa1ac6b7d4893ae161ec1853ada05/1e1fa1ac6b7d4893ae161ec1853ada05.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-2e4558fd5fda.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"11560aa3a20848d69bf44b73c988fc95\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7eb559cfb5014b1e98f1c7284a0fbb2d/7eb559cfb5014b1e98f1c7284a0fbb2d.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-f1977e1bf821.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"a840d31eeb4d41c5a3ac3d1edb60bd2c\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/55eb636832d54179bff564da861afec2/55eb636832d54179bff564da861afec2.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-f1977e1bf821.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"02a091f1ca874dfc86a0b6603ff648c3\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/01336354fb02455088ff3152d422d424/01336354fb02455088ff3152d422d424.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-f1977e1bf821.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"deaae84376454049a5ba1a57227bfe42\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/6ba2a4c0d46f4536a5e31633cb71ee12/6ba2a4c0d46f4536a5e31633cb71ee12.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-03-1920x1080-f1af1e0571f4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"ea23cec21c2641e8a2b9e3d3a88daf59\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7c94cfe8f3aa4a15a11b02e69e8f865c/7c94cfe8f3aa4a15a11b02e69e8f865c.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-03-1920x1080-f1af1e0571f4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"590805c223b24d3e9b136b2fe63696e3\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/fcaaf55895564a1e8de222e9d3236073/fcaaf55895564a1e8de222e9d3236073.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-03-1920x1080-f1af1e0571f4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"01b7f1a26e604837bea88495f8cb195e\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f46b294bc7564646b9e087f98eea7d1b/f46b294bc7564646b9e087f98eea7d1b.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-05-1920x1080-1175b98b4fbc.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"9dae45aab523466087b11eeda1e6d181\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8885b9b016034adb80876eccc61af224/8885b9b016034adb80876eccc61af224.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-05-1920x1080-1175b98b4fbc.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"e04068601c134494b3e22ca60806539b\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/88b6a258a6ef46a882a25f2cfdfe68e9/88b6a258a6ef46a882a25f2cfdfe68e9.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-05-1920x1080-1175b98b4fbc.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"43faf90c83da423cb66dff7f067e45b0\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Mortal Kombat 1 Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-01-1920x1080-ca544dfdb1b2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-02-1920x1080-b53f251e72bc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-03-1920x1080-678718f93cfc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-04-1920x1080-87dde102ea82.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-00-1920x1080-2bb5cda6fe6b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-05-1920x1080-b2a46d0a4b30.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-12-1920x1080-4628f2073573.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-13-1920x1080-0a93b6a245bc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-14-1920x1080-78dc0d78a6fa.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-15-1920x1080-833b5ad45632.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-16-1920x1080-d4f8b653df26.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s1-2560x1440-1d177fc23ff0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+                            "description": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                            "offerId": "53e1317ae6c04ca08b599bbc5d437c4b",
+                            "tag": "edition",
+                            "title": "Mortal Kombat 1 ",
+                            "slug": "p/mortal-kombat-1"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s1-2560x1440-036e7fd92c8c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+                            "description": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! Includes access to Base Game, Story Expansion, Kombat Pack, Kombat Pack 2, Mortal Kombat and II Movie Skins, Dragon Krystals, and more!",
+                            "offerId": "d6dd1876c82847ac8f993056470a34a9",
+                            "tag": "edition",
+                            "title": "Mortal Kombat™ 1: Definitive Edition",
+                            "slug": "p/mortal-kombat-1--definitive-edition"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Mortal Kombat 1 "
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s1-2560x1440-1d177fc23ff0.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-00-1920x1080-2bb5cda6fe6b.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-14-1920x1080-78dc0d78a6fa.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-01-1920x1080-ca544dfdb1b2.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s2-1200x1600-485355627c7e.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-03-1920x1080-678718f93cfc.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-13-1920x1080-0a93b6a245bc.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-16-1920x1080-d4f8b653df26.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-ic1-400x400-4c1751186b40.png",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-12-1920x1080-4628f2073573.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-15-1920x1080-833b5ad45632.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s1-2560x1440-036e7fd92c8c.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-04-1920x1080-87dde102ea82.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-05-1920x1080-b2a46d0a4b30.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-02-1920x1080-b53f251e72bc.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "premium-edition",
+            "regionBlock": "KR, RU, JP, BY",
+            "_noIndex": false,
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#ffffff"
+                }
+            },
+            "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/mortal-kombat-1/premium-edition",
+            "_slug": "premium-edition",
+            "_activeDate": "2023-05-18T20:58:45.558Z",
+            "lastModified": "2024-09-30T17:10:24.147Z",
+            "_locale": "en-US",
+            "_id": "e8bf165f-1359-4830-953d-36515149f867",
+            "_templateName": "productDetail",
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://www.mortalkombat.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Text: English, French, Italian, German, Spanish – Spain, Arabic, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Korean",
+                        "Audio: English, French, Italian, German, Spanish – Spain, Portuguese – Brazil, Spanish – Latin America"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 10 64-bit",
+                                    "recommended": "Windows 10/11 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel® Core™ i5-6600 (3.30 GHz) | AMD Ryzen™ 3 3100 (3.60 GHz) or Ryzen™ 5 2600 (3.40 GHz)",
+                                    "recommended": "Intel® Core™ i5-8400 (2.80 GHz) | AMD Ryzen™ 5 3600X (3.80 GHz)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "140 GB",
+                                    "recommended": "140 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "12",
+                                    "recommended": "12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Nvidia GeForce® GTX 1660| AMD Radeon™ RX 590 | Intel® Arc™ A750",
+                                    "recommended": "Nvidia GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
+                                    "recommended": "SSD, 1440p/High"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "MORTAL KOMBAT 1 Software © 2023 Warner Bros. Entertainment Inc. Developed by NetherRealm Studios. All other trademarks and copyrights are the property of their respective owners. All rights reserved.   NETHERREALM STUDIOS LOGO, MORTAL KOMBAT, THE DRAGON LOGO, and all related characters and elements are trademarks of and © 2023 Warner Bros. Entertainment Inc.    WARNER BROS. GAMES LOGO, WARNER BROS. INTERACTIVE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s23)",
+                    "privacyPolicyLink": {
+                        "src": "https://go.wbgames.com/privacy-center",
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-s1-2560x1440-f897ac67cc87.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "NetherRealm Studios | QLOC",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Warner Bros. Games",
+                    "description": "# It’s In Our Blood!\n\nDiscover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!\n\n#Premium Edition Includes:\n                                                                                                                                                                                                                       - Kombat Pack: 6 New Playable Characters (Omni-Man, Quan Chi, Peacemaker, Ermac, Homelander, Takeda) and 5 New Kameo Characters (Tremor, Mavado, Janet Cage, Ferra, Khameleon)\n- 1-Week Early Access to DLC Characters\n- Jean-Claude Van Damme Skin for Johnny Cage\n- 1250 Dragon Krystals (In-game Currency)",
+                    "shortDescription": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                    "title": "Mortal Kombat 1 ",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-ic1-200x200-838dea91b718.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-s2-1200x1600-36a83c4848bb.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-s1-2560x1440-f897ac67cc87.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f282004becbd4522b1676b16c1335292/f282004becbd4522b1676b16c1335292.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-a00d4f5edeca.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"a8b60453ab7840139f722020c7b0d7b8\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/4bc744d51f724178b61f43926917bc15/4bc744d51f724178b61f43926917bc15.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-a00d4f5edeca.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"54833d2bf6ec487c84e522caa1b10fc0\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/d5566cdb9413461b8a63cf6b942d8055/d5566cdb9413461b8a63cf6b942d8055.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-a00d4f5edeca.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"88c34bbc880d4780901f2e251a32fc33\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Mortal Kombat 1 Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8ae68e2d0c504d0f978e80a4b336ed76/8ae68e2d0c504d0f978e80a4b336ed76.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-2e4558fd5fda.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2d918a6650534b219f70d54f63d6b780\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/85bd75572ed94e81967791f93919df60/85bd75572ed94e81967791f93919df60.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-2e4558fd5fda.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"92bbedb4831b4ca4a1c1689e660323eb\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/1e1fa1ac6b7d4893ae161ec1853ada05/1e1fa1ac6b7d4893ae161ec1853ada05.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-00-1920x1080-2e4558fd5fda.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"11560aa3a20848d69bf44b73c988fc95\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/20dfd13a344b4437a3f24c2ce18615c9/20dfd13a344b4437a3f24c2ce18615c9.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-b5df39ddeafa.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"875a3dd3a88045c1bf2bfcd8d70fc431\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/72a2f983ee0e4f18977c4f19387d188d/72a2f983ee0e4f18977c4f19387d188d.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-b5df39ddeafa.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"9396bbe8d64f404392fbb24f782c8391\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/98275371e3a642c7b58e362fc08a0463/98275371e3a642c7b58e362fc08a0463.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-b5df39ddeafa.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"24e9b7cf33ef44998f3eb8b15ba6113e\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7eb559cfb5014b1e98f1c7284a0fbb2d/7eb559cfb5014b1e98f1c7284a0fbb2d.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-f1977e1bf821.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"a840d31eeb4d41c5a3ac3d1edb60bd2c\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/55eb636832d54179bff564da861afec2/55eb636832d54179bff564da861afec2.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-f1977e1bf821.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"02a091f1ca874dfc86a0b6603ff648c3\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/01336354fb02455088ff3152d422d424/01336354fb02455088ff3152d422d424.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-01-1920x1080-f1977e1bf821.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"deaae84376454049a5ba1a57227bfe42\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/6ba2a4c0d46f4536a5e31633cb71ee12/6ba2a4c0d46f4536a5e31633cb71ee12.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-03-1920x1080-f1af1e0571f4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"ea23cec21c2641e8a2b9e3d3a88daf59\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7c94cfe8f3aa4a15a11b02e69e8f865c/7c94cfe8f3aa4a15a11b02e69e8f865c.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-03-1920x1080-f1af1e0571f4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"590805c223b24d3e9b136b2fe63696e3\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/fcaaf55895564a1e8de222e9d3236073/fcaaf55895564a1e8de222e9d3236073.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-03-1920x1080-f1af1e0571f4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"01b7f1a26e604837bea88495f8cb195e\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f46b294bc7564646b9e087f98eea7d1b/f46b294bc7564646b9e087f98eea7d1b.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-05-1920x1080-1175b98b4fbc.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"9dae45aab523466087b11eeda1e6d181\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8885b9b016034adb80876eccc61af224/8885b9b016034adb80876eccc61af224.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-05-1920x1080-1175b98b4fbc.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"e04068601c134494b3e22ca60806539b\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/88b6a258a6ef46a882a25f2cfdfe68e9/88b6a258a6ef46a882a25f2cfdfe68e9.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1c-05-1920x1080-1175b98b4fbc.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"43faf90c83da423cb66dff7f067e45b0\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Mortal Kombat 1 Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-04-1920x1080-87dde102ea82.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-02-1920x1080-b53f251e72bc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-03-1920x1080-678718f93cfc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-06-1920x1080-ad8cae971cfe.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-13-1920x1080-0a93b6a245bc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-14-1920x1080-78dc0d78a6fa.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-15-1920x1080-833b5ad45632.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-16-1920x1080-d4f8b653df26.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-14-1920x1080-22c429e6f137.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-15-1920x1080-fc669cafaecc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-16-1920x1080-f23a8efc1522.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-17-1920x1080-d9b7482c15d9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-18-1920x1080-46fff14c7584.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-19-1920x1080-2f0e755a18eb.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s1-2560x1440-1d177fc23ff0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+                            "description": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                            "offerId": "53e1317ae6c04ca08b599bbc5d437c4b",
+                            "tag": "edition",
+                            "title": "Mortal Kombat 1 ",
+                            "slug": "p/mortal-kombat-1"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "slug": "p/mortal-kombat-1"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Mortal Kombat 1 Premium Edition"
+            },
+            "overwriteMapping": false,
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s1-2560x1440-1d177fc23ff0.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-14-1920x1080-78dc0d78a6fa.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-15-1920x1080-fc669cafaecc.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-03-1920x1080-678718f93cfc.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-14-1920x1080-22c429e6f137.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-19-1920x1080-2f0e755a18eb.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-ic1-200x200-838dea91b718.png",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-13-1920x1080-0a93b6a245bc.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-16-1920x1080-d4f8b653df26.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-17-1920x1080-d9b7482c15d9.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-18-1920x1080-46fff14c7584.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-15-1920x1080-833b5ad45632.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-s2-1200x1600-36a83c4848bb.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-g1a-16-1920x1080-f23a8efc1522.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-06-1920x1080-ad8cae971cfe.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-04-1920x1080-87dde102ea82.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1premiumedition-netherrealmstudios-editions-s1-2560x1440-f897ac67cc87.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-02-1920x1080-b53f251e72bc.jpg"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering",
+                    "filterType": "BLACKLIST",
+                    "appliedCountries": "KR, RU, JP, BY"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+                "id": "91f71723d7e84126a8ea8e2561f93c03",
+                "hasOffer": true
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition"
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "definitive edition",
+            "regionBlock": "KR, RU, JP, BY",
+            "_noIndex": false,
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#ffffff"
+                }
+            },
+            "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/mortal-kombat-1/definitive-edition",
+            "_slug": "definitive-edition",
+            "_activeDate": "2025-05-12T13:05:28.583Z",
+            "lastModified": "2026-05-18T17:59:17.733Z",
+            "_locale": "en-US",
+            "_id": "cfc8ef5a-1c55-44d4-993f-f8230bc2f0a6",
+            "_templateName": "productDetail",
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links"
+                },
+                "requirements": {
+                    "languages": [
+                        "Text: English, French, Italian, German, Spanish – Spain, Arabic, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Korean",
+                        "Audio: English, French, Italian, German, Spanish – Spain, Portuguese – Brazil, Spanish – Latin America"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 10 64-bit",
+                                    "recommended": "Windows 10/11 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel® Core™ i5-6600 (3.30 GHz) | AMD Ryzen™ 3 3100 (3.60 GHz) or Ryzen™ 5 2600 (3.40 GHz)",
+                                    "recommended": "Intel® Core™ i5-8400 (2.80 GHz) | AMD Ryzen™ 5 3600X (3.80 GHz)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "140 GB",
+                                    "recommended": "140 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "12",
+                                    "recommended": "12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Nvidia GeForce® GTX 1660| AMD Radeon™ RX 590 | Intel® Arc™ A750",
+                                    "recommended": "Nvidia GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Other",
+                                    "minimum": "SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
+                                    "recommended": "SSD, 1440p/High"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "MORTAL KOMBAT 1 Software © 2025 Warner Bros. Entertainment Inc. Developed by NetherRealm Studios. Unreal® Engine, copyright 1998-2025 Epic Games, Inc. Unreal, Unreal Technology and the Powered by Unreal Technology logo are trademarks or registered trademarks of Epic Games, Inc. Uses Oodle Data Compression Copyright and Bink Video (C) 1997-2025 by RAD Game Tools, Inc. Motion Picture Artwork © 2025 Warner Bros. Entertainment Inc.  NETHERREALM STUDIOS LOGO, MORTAL KOMBAT, THE DRAGON LOGO, and all related characters and elements are trademarks of and © 2025 Warner Bros. Entertainment Inc. WARNER BROS. GAMES LOGO, WARNER BROS. INTERACTIVE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s25)   ©2025 Paramount Pictures. All Rights Reserved. The GHOST FACE Mask is protected by registered copyrights of Easter Unlimited Inc. GHOST FACE, THE ICON OF HALLOWEEN and GHOST FACE LIVES are trademarks and registered trademarks of Easter Unlimited, Inc. All rights reserved. Terminator 2: Judgment Day, T2, and T-1000 are trademarks of STUDIOCANAL S.A.S. All Rights Reserved. © 2025 STUDIOCANAL S.A.S. ® All Rights Reserved.   PEACEMAKER and all related characters and elements © & ™ DC and Warner Bros. Entertainment Inc. (s25). THE BOYS™ © 2025 Sony Pictures Television Inc. and Amazon Content Services LLC. All rights reserved. Based on the animated series Invincible by Amazon Content Services LLC and the comic book Invincible by Robert Kirkman, Cory Walker and Ryan Ottley. INVINCIBLE and any related images are registered or otherwise protected trademarks of Robert Kirkman, LLC. Used with permission. All Rights Reserved. SKYBOUND, SKYBOUND GAMES and any related logos are registered or otherwise protected trademarks of Skybound, LLC. Used with permission. All Rights Reserved. ",
+                    "privacyPolicyLink": {
+                        "src": "https://go.wbgames.com/privacy-center",
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s1-2560x1440-036e7fd92c8c.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "NetherRealm Studios | QLOC",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Warner Bros. Games",
+                    "description": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! \n\nIncludes: \nBase Game\n\nKhaos Reigns Story Expansion\n\nKombat Pack 2*\nNoob Saibot\nCyrax\nSektor\nGhostface (Scream Franchise)\nT-1000 (Terminator 2)\nConan the Barbarian\nMadam Bo Kameo Fighter\n\nKombat Pack:\nOmni-Man (Invincible)\nQuan Chi\nPeacemaker (DC’s Peacemaker)\nErmac\nHomelander (The Boys)\nTakeda Takahashi\n\nKameo Fighters:\nTremor\nKhameleon\nJanet Cage\nMavado\nFerra\n\nJean-Claude Van Damme Skin for Johnny Cage\n1250 Dragon Krystals\nMortal Kombat Movie Skins for Johnny Cage, Shao Kahn, Kitana, Scorpion, and Sub-Zero\nTournament Liu Kang Skin\nHavik Instant Unlock\nKameo Unlock Pack\nShang Tsung Fighter\nKhaos Reigns Pre-Order Skins (Wedding Scorpion, Ultimate MK3 Sub-Zero, Empress Mileena, Ultimate MK3 Noob Saibot)\n\n*Separate Kombat Pack 2 character bundle not available",
+                    "shortDescription": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! Includes access to Base Game, Story Expansion, Kombat Pack, Kombat Pack 2, Mortal Kombat and II Movie Skins, Dragon Krystals, and more!",
+                    "title": "Mortal Kombat™ 1: Defintive Edition",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-ic1-200x200-8a4a7b5a9d99.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s2-1200x1600-f5b253d1c576.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s1-2560x1440-036e7fd92c8c.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"videoId\": \"40af9874-f35c-46f2-b043-67c0ee260ae4\",\n  \"output\": [\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/output.mp4\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/main_playlist_webm.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/main_playlist_hls.m3u8\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/40af9874-f35c-46f2-b043-67c0ee260ae4/main_playlist_dash.mpd\"\n  ],\n  \"thumbnail\": \"https://cdn2.unrealengine.com/3e8ac1f8-eb3b-4ebf-af11-d2e2b27fbcf0-1920x1080-5b409b25dc7d.jpeg\",\n  \"quicksilver\": true\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "SummerTrailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-g1a-00-1920x1080-4de805dffaf7.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Mortal Kombat™ 1: Definitive Edition"
+            },
+            "overwriteMapping": false,
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-ic1-200x200-8a4a7b5a9d99.png",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s1-2560x1440-036e7fd92c8c.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-s2-1200x1600-f5b253d1c576.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1defintiveedition-netherrealmstudiosqloc-editions-g1a-00-1920x1080-4de805dffaf7.jpg"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+                "id": "d6dd1876c82847ac8f993056470a34a9",
+                "type": "edition",
+                "hasOffer": true
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition"
+        }
+    ]
+}

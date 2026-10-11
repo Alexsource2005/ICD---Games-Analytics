@@ -1,0 +1,955 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Kerbal Space Program",
+    "_noIndex": false,
+    "productName": "Kerbal Space Program",
+    "pageTheme": {
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection"
+        }
+    },
+    "namespace": "ca0530b485754032be50cb6f27be0c2c",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/productv2/kerbal-space-program",
+    "_slug": "kerbal-space-program",
+    "_activeDate": "2022-12-06T10:41:05.243Z",
+    "lastModified": "2022-12-14T22:34:30.124Z",
+    "_locale": "en-US",
+    "_id": "86ad92b2-d50f-4950-82cc-2420efe0bc11",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "Kerbal Space Program",
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "ca0530b485754032be50cb6f27be0c2c",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/kerbal-space-program/home",
+            "_slug": "home",
+            "_activeDate": "2023-01-05T15:55:00.000Z",
+            "lastModified": "2026-04-09T13:06:03.346Z",
+            "_locale": "en-US",
+            "_id": "153a4078-ada3-4c3d-8e8a-689db1d732b5",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "ca0530b485754032be50cb6f27be0c2c",
+                "id": "20dd3087657940f59b110d0f5ffaf41e",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/KerbalSpaceP",
+                    "linkYoutube": "https://www.youtube.com/user/kerbalspofficial/videos",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow us",
+                    "linkHomepage": "https://kerbalspaceprogram.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "AUDIO: English",
+                        "TEXT: English"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7 SP1+",
+                                    "recommended": "Windows 10 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Core 2 Duo 2.0 Ghz",
+                                    "recommended": "Core i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "3 GB",
+                                    "recommended": "4 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "DX10",
+                                    "recommended": "DX10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "DX10 (SM 4.0) capable, 512MB VRAM",
+                                    "recommended": "DX10 (SM 4.0) capable, 1GB VRAM"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "macOS 10.12+ 64-bit",
+                                    "recommended": "macOS 10.12+ 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel",
+                                    "recommended": "Intel Core i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "3 GB HD space",
+                                    "recommended": "4 GB HD space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "SM 4.0 512MB VRAM",
+                                    "recommended": "SM 4.0 1GB VRAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2011-2023 Private Division LLC. Developed by Squad. Private Division and Kerbal Space Program and their respective logos are trademarks of Private Division LLC. All other marks and trademarks are the property of their respective owners. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.privatedivision.com/",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-s2-1200x1600-8c341b1b07e0.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Squad",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "The Kerbal Company",
+                    "description": "Kerbal Space Program features three gameplay modes. In Science Mode, perform space experiments to unlock new technology and advance the knowledge of Kerbalkind. In Career Mode, oversee every aspect of the space program, including construction, strategy, funding, upgrades, and more. In Sandbox, you are free to build any spacecraft you can think of, with all parts and technology in the game. \n\n# Key Features\n\n- Take full control over your ship’s setup to execute complex flight maneuvers. \n- Manage your Kerbal crewmembers, including hiring, training, and sending them into space to become heroes. \n-  Discover a whole star system with unique moons and planets, exploring detailed terrain at a vast scale. \n- Send your Kerbal crew outside their ships for “extra-vehicular” activities.\n- Dock spacecraft together to construct space stations, massive starships, and surface bases on new planets. \n- Use satellites to scan terrain and find biomes and other anomalies.\n- Set up communications networks to communicate between your spacecraft and Kerbal Space Center.\n- Research and develop new technologies to extract valuable information and resources from all over the solar system, and much more!",
+                    "shortDescription": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+                    "title": "Kerbal Space Program",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "src": "/p/kerbal-space-program-2",
+                        "_type": "Diesel Link",
+                        "title": "Kerbal Space Program 2"
+                    },
+                    "description": "The sequel to the acclaimed space-flight simulation game Kerbal Space Program. Enter the next generation of space adventure with exciting new parts, stunning visuals, fully revamped UI and Map View, and rich new environments to explore.",
+                    "title": "Kerbal Space Program 2"
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-ic1-400x400-fc3ebf8a29b2.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-s2-1200x1600-8c341b1b07e0.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-s1-2560x1440-0e42303f3a4c.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-00-1920x1080-dd700d1a999e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-01-1920x1080-bcfad8bc81b7.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-02-1920x1080-3e181a000543.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-03-1920x1080-09a51c742616.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-04-1920x1080-ff4976a630c3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-05-1920x1080-21a5c46e6470.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-06-1920x1080-6505b5123ab9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-07-1920x1080-5c9d54df484b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-08-1920x1080-113e7bad314e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-s1-2560x1440-0e42303f3a4c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "ca0530b485754032be50cb6f27be0c2c",
+                            "description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+                            "offerId": "20dd3087657940f59b110d0f5ffaf41e",
+                            "title": "Kerbal Space Program",
+                            "slug": "/product/kerbal-space-program/home"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s1-2560x1440-5c7f0408e78f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "ca0530b485754032be50cb6f27be0c2c",
+                            "description": "The Kerbal Space Program Complete Bundle includes the heavily-awarded and ever evolving space simulation game Kerbal Space Program as well as the Making History & Breaking Ground expansions for a bundled discount.",
+                            "offerId": "a5ca17f8511c4d0aaa1d8b85043f994c",
+                            "title": "Kerbal Space Program Complete Edition",
+                            "slug": "/product/kerbal-space-program/complete-edition"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2023-01-04T22:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Private Division"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Squad"
+                    ],
+                    "customReleaseDate": "Coming Soon",
+                    "platform": [
+                        "Windows",
+                        "Mac "
+                    ],
+                    "tags": [
+                        "SIMULATION",
+                        "SPACE_SIM",
+                        "PHYSICS"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "BANNER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Kerbal Space Program"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-08-1920x1080-113e7bad314e.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s1-2560x1440-5c7f0408e78f.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-s2-1200x1600-8c341b1b07e0.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-s1-2560x1440-0e42303f3a4c.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-03-1920x1080-09a51c742616.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-05-1920x1080-21a5c46e6470.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-ic1-400x400-fc3ebf8a29b2.png",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-00-1920x1080-dd700d1a999e.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-01-1920x1080-bcfad8bc81b7.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-02-1920x1080-3e181a000543.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-04-1920x1080-ff4976a630c3.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-07-1920x1080-5c9d54df484b.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogram-squad-g1a-06-1920x1080-6505b5123ab9.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "complete-edition",
+            "_noIndex": false,
+            "productName": "Kerbal Space Program",
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "ca0530b485754032be50cb6f27be0c2c",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/productv2/kerbal-space-program/complete-edition",
+            "_slug": "complete-edition",
+            "_activeDate": "2023-01-05T15:55:00.000Z",
+            "lastModified": "2026-04-09T13:07:04.000Z",
+            "_locale": "en-US",
+            "_id": "3752fdd1-1f05-4908-bd34-5b4a84fdd989",
+            "_templateName": "productDetail",
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/KerbalSpaceP",
+                    "linkYoutube": "https://www.youtube.com/user/kerbalspofficial/videos",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow us",
+                    "linkHomepage": "https://kerbalspaceprogram.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "AUDIO: English",
+                        "TEXT: English"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "Windows 7 SP1+",
+                                    "recommended": "Windows 10 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Core 2 Duo 2.0 Ghz",
+                                    "recommended": "Core i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "3 GB",
+                                    "recommended": "4 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "DX10",
+                                    "recommended": "DX10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "DX10 (SM 4.0) capable, 512MB VRAM",
+                                    "recommended": "DX10 (SM 4.0) capable, 1GB VRAM"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "macOS 10.12+ 64-bit",
+                                    "recommended": "macOS 10.12+ 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel",
+                                    "recommended": "Intel Core i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "3 GB HD space",
+                                    "recommended": "4 GB HD space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "SM 4.0 512MB VRAM",
+                                    "recommended": "SM 4.0 1GB VRAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2011-2023 Take-Two Interactive Software, Inc. Developed by Squad. Private Division and Kerbal Space Program and their respective logos are trademarks of Take-Two Interactive Software, Inc. All other marks and trademarks are the property of their respective owners. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.take2games.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s2-1200x1600-a1aa7897ed9d.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Squad",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "The Kerbal Company",
+                    "description": "# About\n\nIn Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbal solar system, constructing bases and space stations to expand the reach of your expedition.\n\nKerbal Space Program features three gameplay modes. In Science Mode, perform space experiments to unlock new technology and advance the knowledge of Kerbalkind. In Career Mode, oversee every aspect of the space program, including construction, strategy, funding, upgrades, and more. In Sandbox, you are free to build any spacecraft you can think of, with all parts and technology in the game.",
+                    "shortDescription": "The Kerbal Space Program Complete Bundle includes the heavily-awarded and ever evolving space simulation game Kerbal Space Program as well as the Making History & Breaking Ground expansions for a bundled discount.",
+                    "title": "Kerbal Space Program Complete Edition",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "src": "https://store.epicgames.com/p/kerbal-space-program-2",
+                        "_type": "Diesel Link",
+                        "title": "Kerbal Space Program 2"
+                    },
+                    "description": "The sequel to the acclaimed space-flight simulation game Kerbal Space Program. Enter the next generation of space adventure with exciting new parts, stunning visuals, fully revamped UI and Map View, and rich new environments to explore.",
+                    "title": "Kerbal Space Program 2"
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-ic1-200x200-b37403dfd454.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s2-1200x1600-a1aa7897ed9d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s1-2560x1440-cc992a3ad8a8.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-00-1920x1080-80232c92f8d1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-01-1920x1080-0b76529a20a2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-02-1920x1080-fd9f4f80a128.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-03-1920x1080-907d6abc59dd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-04-1920x1080-05a7417bfc10.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-05-1920x1080-a038f927cb16.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-06-1920x1080-4eac1861100c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-07-1920x1080-604fd08b5d23.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "DLC",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "BANNER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Kerbal Space Program Complete Edition"
+            },
+            "overwriteMapping": false,
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-ic1-200x200-b37403dfd454.png",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-07-1920x1080-604fd08b5d23.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-06-1920x1080-4eac1861100c.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s2-1200x1600-a1aa7897ed9d.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-05-1920x1080-a038f927cb16.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-03-1920x1080-907d6abc59dd.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-00-1920x1080-80232c92f8d1.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-01-1920x1080-0b76529a20a2.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-04-1920x1080-05a7417bfc10.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-g1a-02-1920x1080-fd9f4f80a128.jpg",
+                "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s1-2560x1440-cc992a3ad8a8.jpg"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "ca0530b485754032be50cb6f27be0c2c",
+                "id": "a5ca17f8511c4d0aaa1d8b85043f994c",
+                "hasOffer": true
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition"
+        }
+    ]
+}
