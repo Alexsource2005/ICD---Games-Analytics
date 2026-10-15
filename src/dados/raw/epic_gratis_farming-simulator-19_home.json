@@ -73,24 +73,33 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
+            "discountPrice": 999,
             "originalPrice": 1999,
             "voucherDiscount": 0,
-            "discount": 0,
+            "discount": 1000,
             "currencyCode": "USD",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
                 "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "discountPrice": "$9.99",
+                "intermediatePrice": "$9.99"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": []
+                "appliedRules": [
+                    {
+                        "id": "58d4931c6f524ab6995e3f07f2ecbb3a",
+                        "endDate": "2026-10-20T15:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
             }
         ]
-    }
+    },
+    "data_aquisicao_gratis": "Janeiro 30-Fevereiro 6, 2020"
 }

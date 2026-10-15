@@ -1,0 +1,161 @@
+import json
+import os
+import re
+import pandas as pd
+
+os.makedirs("dados/processed", exist_ok=True)
+
+pasta_raw = "dados/raw"
+jogos_consolidados = {}
+
+def normalizar_nome(nome):
+    if not nome:
+        return ""
+    return re.sub(r"[^\w\s]", "", nome).lower().strip()
+
+print("Processando e cruzando ficheiros JSON de todas as três plataformas...")
+
+# Fase de extração e agrupamento por jogo
+
+for arquivo in os.listdir(pasta_raw):
+    if not arquivo.endswith(".json"):
+        continue
+
+    caminho = os.path.join(pasta_raw, arquivo)
+    try:
+        with open(caminho, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        continue
+
+    nome_jogo = None
+    origem = ""
+
+    if arquivo.startswith("steam_"):
+        origem = "steam"
+        for key, val in data.items():
+            if isinstance(val, dict) and "data" in val:
+                nome_jogo = val["data"].get("name")
+    elif arquivo.startswith("epic_"):
+        origem = "epic"
+        nome_jogo = data.get("title") or data.get("appName")
+    elif arquivo.startswith("gog_"):
+        origem = "gog"
+        nome_jogo = data.get("title")
+
+    if not nome_jogo:
+        continue
+
+    chave = normalizar_nome(nome_jogo)
+    if not chave:
+        continue
+
+    # Inicializa o dicionário do jogo se for a primeira vez que o vemos
+    if chave not in jogos_consolidados:
+        jogos_consolidados[chave] = {
+            "nome_original": nome_jogo,
+            # Steam Data
+            "steam_generos": [],
+            "steam_lancamento": None,
+            "steam_preco": None,
+            "steam_donos": "Desconhecido",
+            "steam_reviews_qtd": 0,
+            "steam_reviews_pct": None,
+            # Epic Data
+            "epic_generos": [],
+            "epic_lancamento": None,
+            "epic_preco": None,
+            "epic_gratis_data": None,
+            "epic_reviews_qtd": 0,
+            "epic_reviews_pct": None,
+            # GOG Data
+            "gog_generos": [],
+            "gog_lancamento": None,
+            "gog_preco": None,
+            "gog_reviews_qtd": 0,
+            "gog_reviews_pct": None
+        }
+
+    # Fase de transformação por plataforma
+    reg = jogos_consolidados[chave]
+
+    if origem == "steam":
+        for key, val in data.items():
+            if isinstance(val, dict) and "data" in val:
+                d = val["data"]
+                reg["steam_lancamento"] = d.get("release_date", {}).get("date")
+                if d.get("price_overview"):
+                    reg["steam_preco"] = d["price_overview"].get("final_formatted")
+                genres = d.get("genres", [])
+                if genres:
+                    reg["steam_generos"] = [g.get("description") for g in genres]
+                    # Quantidade de reviews / recomendações
+                recs = d.get("recommendations", {}).get("total", 0)
+                reg["steam_reviews_qtd"] = recs
+    
+    elif origem == "epic":
+        reg["epic_lancamento"] = data.get("effectiveDate") or data.get("releaseDate")
+        price_info = data.get("price", {}).get("totalPrice", {})
+        reg["epic_preco"] = price_info.get("fmtPrice", {}).get("intermediatePrice")
+
+        tags = data.get("tags") or data.get("categories", [])
+        tag_names = []
+        for t in tags:
+            if isinstance(t, dict):
+                tag_names.append(t.get("name") or t.get("groupName"))
+            elif isinstance(t, str):
+                tag_names.append(t)
+        if tag_names:
+            reg["epic_generos"] = [t for t in tag_names if t and not t.startswith("vfx")]
+
+        if "gratis" in arquivo:
+            reg["epic_gratis_data"] = data.get("data_aquisicao_gratis")
+
+    elif origem == "gog":
+        reg["gog_lancamento"] = data.get("release_date")
+        price_gog = data.get("price", {})
+        reg["gog_preco"] = price_gog.get("final")
+
+        genres_gog = data.get("genres", [])
+        if genres_gog:
+            reg["gog_generos"] = [g.get("name") if isinstance(g, dict) else g for g in genres_gog]
+
+# Consolidar linhas finais para o DataFrame
+linhas_tabela = []
+
+for chave, reg in jogos_consolidados.items():
+    # Define gênero primário e secundário priorizando a Steam, dps Epic, dps GOG
+    todos_generos = (reg["steam_generos"] + reg["epic_generos"] + reg["gog_generos"])
+    generos_unicos = list(dict.fromkeys(todos_generos))
+
+    genero_primario = (generos_unicos[0] if len(generos_unicos) > 0 else "Desconhecido")
+    genero_secundario = (generos_unicos[1] if len(generos_unicos) > 1 else "Não especificado")
+
+    #Data de lançamento unificada
+    lancamento = (reg["steam_lancamento"] or reg["epic_lancamento"] or reg["gog_lancamento"])
+
+    preco = reg["steam_preco"] or reg["epic_preco"] or reg["gog_preco"]
+
+    linhas_tabela.append({
+        "Jogo": reg["nome_original"],
+        "Gênero primário": genero_primario,
+        "Gênero secundário": genero_secundario,
+        "Data de lançamento": lancamento,
+        "Preço": preco,
+        "Data Aquisição Gratuita Epic": reg["epic_gratis_data"],
+        "Estimativa Donos Steam": reg["steam_donos"],
+        "Qtd Reviews Steam": reg["steam_reviews_qtd"],
+        "Qtd Reviews Epic": reg["epic_reviews_qtd"],
+        "Qtd Reviews GOG": reg["gog_reviews_qtd"],
+        "% Positivas Steam": reg["steam_reviews_pct"],
+        "% Positivas Epic": reg["epic_reviews_pct"],
+        "% Positivas GOG": reg["gog_reviews_pct"],
+    })
+
+# Criar o dataframe final
+df = pd.DataFrame(linhas_tabela)
+
+caminho_csv = "dados/processed/tabela_comparativa_jogos.csv"
+df.to_csv(caminho_csv, index=False, encoding="utf-8-sig")
+
+print(f"\n🎉 Tabela criada com sucesso com {len(df)} jogos únicos! Guardada em: {caminho_csv}")

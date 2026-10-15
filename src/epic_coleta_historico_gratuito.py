@@ -40,12 +40,19 @@ def limpar_nome_jogo(nome):
 
 nomes_jogos_epic = []
 for bloco in blocos_texto:
+  if re.search(r"repetido", bloco, re.IGNORECASE):
+    continue
+  
   # Remove a numeração inicial do item da lista (ex: "110. Jogo X" vira "Jogo X")
   bloco_sem_numero = re.sub(r"^\d+[\.\-\s]+", "", bloco).strip()
 
-  match = re.split(r"[-–\(]", bloco_sem_numero)
-  if match:
-    nome_candidato = limpar_nome_jogo(match[0])
+  partes = re.split(r"[-–\(]", bloco_sem_numero, maxsplit=1)
+  if partes:
+    nome_candidato = limpar_nome_jogo(partes[0])
+
+    data_gratis = "Desconhecida"
+    if len(partes) > 1:
+       data_gratis = partes[1].replace(")", "").strip()
 
     # Filtros rigorosos para evitar números isolados ou palavras inúteis
     if (
@@ -56,7 +63,8 @@ for bloco in blocos_texto:
         and nome_candidato not in nomes_jogos_epic
         and not nome_candidato.lower().startswith("http")
     ):
-      nomes_jogos_epic.append(nome_candidato)
+      if not any(j["nome"] == nome_candidato for j in nomes_jogos_epic):
+         nomes_jogos_epic.append({"nome": nome_candidato, "data_gratis": data_gratis})
 
 print(
     f"🔍 Identificados {len(nomes_jogos_epic)} jogos limpos para buscar na Epic"
@@ -64,8 +72,11 @@ print(
 )
 
 # Loop de bisca e download dos metadados na Epic Games Store
-for indice, nome in enumerate(nomes_jogos_epic, start=1):
-    print(f"[{indice}/{len(nomes_jogos_epic)}] Pesquisando na Epic: {nome}")
+for indice, item in enumerate(nomes_jogos_epic, start=1):
+    nome = item["nome"]
+    data_gratis = item["data_gratis"]
+
+    print(f"\n[{indice}/{len(nomes_jogos_epic)}] Pesquisando na Epic: {nome} (Data: {data_gratis})")
 
     try:
         resultados = api.fetch_store_games(keywords=nome)
@@ -131,6 +142,9 @@ for indice, nome in enumerate(nomes_jogos_epic, start=1):
                         f"   ⚠️ Slug direto não encontrado, usando catálogo básico para"
                         f" '{titulo_base}'."
                     )
+
+                if isinstance(detalhes, dict):
+                   detalhes["data_aquisicao_gratis"] = data_gratis
 
                 slug_limpo = slug.replace("/", "_")
                 caminho_saida = f"dados/raw/epic_gratis_{slug_limpo}.json"

@@ -80,6 +80,9 @@
             "id": "9547"
         },
         {
+            "id": "29899"
+        },
+        {
             "id": "9549"
         },
         {
@@ -127,24 +130,33 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 399,
+            "discountPrice": 259,
             "originalPrice": 399,
             "voucherDiscount": 0,
-            "discount": 0,
+            "discount": 140,
             "currencyCode": "USD",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
                 "originalPrice": "$3.99",
-                "discountPrice": "$3.99",
-                "intermediatePrice": "$3.99"
+                "discountPrice": "$2.59",
+                "intermediatePrice": "$2.59"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": []
+                "appliedRules": [
+                    {
+                        "id": "532b0408a6de43b89f8933b3b7718bb7",
+                        "endDate": "2026-10-20T15:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
             }
         ]
-    }
+    },
+    "data_aquisicao_gratis": "Agosto 29-Setembro 5, 2019"
 }
