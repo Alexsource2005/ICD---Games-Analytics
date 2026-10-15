@@ -41,12 +41,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/behind-the-frame-the-finest-scenery",
+    "_urlPattern": "/pt-BR/productv2/behind-the-frame-the-finest-scenery",
     "_slug": "behind-the-frame-the-finest-scenery",
     "_activeDate": "2021-08-10T15:55:00.000Z",
-    "lastModified": "2021-08-10T01:25:12.670Z",
-    "_locale": "en-US",
-    "_id": "c91c2ebb-3334-4844-820e-30f9f275a2fd",
+    "lastModified": "2021-08-09T18:26:17.143Z",
+    "_locale": "pt-BR",
+    "_id": "108832aa-2a34-4ad3-909f-04475874ae03",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -104,12 +104,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/behind-the-frame-the-finest-scenery/home",
+            "_urlPattern": "/pt-BR/productv2/behind-the-frame-the-finest-scenery/home",
             "_slug": "home",
             "_activeDate": "2021-07-30T19:09:22.897Z",
-            "lastModified": "2022-07-14T21:47:22.425Z",
-            "_locale": "en-US",
-            "_id": "f2452a8b-bd9d-46f5-bae7-a57cc01c8b13",
+            "lastModified": "2021-08-03T21:59:45.129Z",
+            "_locale": "pt-BR",
+            "_id": "fac79bb6-9bdf-4a58-8b56-db74cb9810ed",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -134,14 +134,13 @@
                     "linkFacebook": "https://www.facebook.com/SilverLiningWW/",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/akuparagames",
-                    "title": "Follow Behind the Frame: The Finest Scenery",
                     "linkHomepage": "https://silverliningstudio.co/Behindtheframe/",
                     "linkInstagram": "https://www.instagram.com/silverlining_ww/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, French, Italian, German, Spanish - Spain, Russian, Korean, Japanese, Chinese - Simplified, Chinese - Traditional"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, italiano, alemão, espanhol (Espanha), russo, coreano, japonês, chinês simplificado, chinês tradicional"
                     ],
                     "systems": [
                         {
@@ -150,33 +149,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "OS X 10.12",
                                     "recommended": "OS X 10.15"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel Core i3",
                                     "recommended": "Intel Core i7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB RAM, OpenGL 3.3",
-                                    "recommended": "4GB RAM, OpenGL 4.5"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1 GB de RAM, OpenGL 3.3",
+                                    "recommended": "4 GB de RAM, OpenGL 4.5"
                                 }
                             ]
                         },
@@ -186,33 +185,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7, 64-bit",
-                                    "recommended": "Windows 10, 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel Core i3",
                                     "recommended": "Intel Core i7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB RAM, OpenGL 3.3",
-                                    "recommended": "4GB RAM, OpenGL 4.5"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1 GB de RAM, OpenGL 3.3",
+                                    "recommended": "4 GB de RAM, OpenGL 4.5"
                                 }
                             ]
                         }
@@ -226,11 +225,8 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2021 Silver Lining Studio All rights reserved. Powered by Akatsuki Taiwan Inc.",
                     "privacyPolicyLink": {
-                        "src": "https://www.akuparagames.com/privacy-policy-of-behind-the-frame-the-finest-scenery/",
-                        "_type": "Diesel Link",
-                        "title": "Akupara Games Privacy Policy"
+                        "_type": "Diesel Link"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -242,8 +238,8 @@
                     "developerAttribution": "Silver Lining Studio",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Akupara Games",
-                    "description": "Behind the Frame is a vivid, interactive fiction about an aspiring artist on the cusp of finishing the final piece of her gallery submission.\n\nA relaxing, eloquent experience that can be played at any pace. Become immersed in a panoramic world filled with resplendent colors, beautiful hand-animated visuals, and a smooth, easy-listening soundtrack.\n\nAs a passionate artist, seek the missing colors that will bring your paintings to life — all while remembering to take the occasional coffee and breakfast breaks that keep you going. There is more than what meets the eye, for every painting has a story to tell.\n\n# Feature List\n• Paint, sketch, and retouch your artwork to complete your masterpiece and your memories\n\n• Dive into and explore beautiful panoramic, hand-animated worlds inspired by Miyazaki/Studio Ghibli visuals\n\n• Experience an evocative story, through the eyes of a passionate artist\n",
-                    "shortDescription": "Guide brush strokes and solve a variety of puzzles to help an aspiring artist complete her masterpiece. As her painting starts to take shape, uncover an emotional tale of chance and artistry revealed behind unrelated yet familiar moments.",
+                    "description": "Behind the Frame é uma ficção interativa e vital sobre uma aspirante a artista que está prestes a terminar o último trabalho de sua exposição.\n\nUma experiência relaxante e eloquente que pode ser jogada em qualquer ritmo. Mergulhe em um mundo panorâmico cheio de cores resplandecentes, lindas animações feitas à mão e uma trilha sonora leve e agradável.\n\nNo papel de uma artista apaixonada, você deve encontrar as cores que faltam para dar vida às suas pinturas, mas sem se esquecer de fazer pausas para comer ou tomar um café, o que lhe permitirá continuar trabalhando. Nem tudo é o que parece, porque cada pintura tem uma história para contar.\n\n# Lista de características\n• Pinte, desenhe e retoque sua arte para completar sua obra-prima e sua memorabilia\n\n• Explore e mergulhe em belos mundos panorâmicos animados à mão e inspirados nos designs de Hayao Miyazaki e do Studio Ghibli\n\n• Vivencie uma história evocativa através dos olhos de uma artista apaixonada\n",
+                    "shortDescription": "Guie as pinceladas e resolva quebra-cabeças para ajudar uma artista iniciante a completar sua obra-prima. À medida que sua pintura toma forma, você descobrirá uma história emocionante de oportunidade e talento revelada por trás de momentos não relacionados, mas familiares.",
                     "title": "Behind the Frame: The Finest Scenery",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -292,7 +288,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Behind the Frame: The Finest Scenery Trailer",
+                                "title": "Trailer de Behind the Frame: The Finest Scenery",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -506,10 +502,6 @@
                     },
                     {
                         "productSection": "PRODUCT_LINKS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "SOCIAL_LINKS",
                         "_type": "Diesel Product Section"
                     }
                 ],

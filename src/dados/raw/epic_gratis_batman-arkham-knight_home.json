@@ -1,21 +1,25 @@
 {
-    "title": "Batman™: Arkham Knight",
-    "id": "9714d370b31d44c68b80921b7fb994c8",
-    "namespace": "epic",
-    "description": "Batman™: Arkham Knight",
-    "effectiveDate": "2050-08-01T10:05:00.000Z",
+    "title": "Batman Arkham Knight",
+    "id": "f036adb25c9347c69344b7642cb31e64",
+    "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+    "description": "Batman™: Arkham Knight leva a premiada trilogia Arkham da Rocksteady Studios à sua conclusão épica. Desenvolvido exclusivamente para plataformas de nova geração, Batman: Arkham Knight apresenta a versão exclusiva do Batmóvel desenvolvido pela Rocksteady.",
+    "effectiveDate": "2019-09-26T15:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight-206x102-abbc3f98900fec35c91a91a5ec976771.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/batman-arkham-knight/EGS_WB_Batman_Arkham_Knight_G1_1920x1080_19_0911-1920x1080-1d69e15f00cb5ab57249f208f1f8f45d52cbbc59.jpg"
         },
         {
-            "type": "DieselStoreFrontWide",
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/e5e30c728f1947759251eb5283ffa6e3/batman_1200x1600-d557ab1e6e41d7e0f229289dd144e421"
+        },
+        {
+            "type": "OfferImageWide",
             "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_promo-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_portrait-1024x1152-78f19e73d3e889c19ca24ab5af0b5fd7.jpg"
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/e5e30c728f1947759251eb5283ffa6e3/batman_1200x1600-d557ab1e6e41d7e0f229289dd144e421"
         }
     ],
     "seller": {
@@ -23,7 +27,7 @@
         "name": "Warner Bros."
     },
     "productSlug": "batman-arkham-knight/home",
-    "urlSlug": "batman-arkham-knight",
+    "urlSlug": "cowbirdgeneralaudience",
     "url": null,
     "tags": [
         {
@@ -33,65 +37,100 @@
             "id": "1344"
         },
         {
-            "id": "1370"
+            "id": "21122"
+        },
+        {
+            "id": "1188"
+        },
+        {
+            "id": "21127"
         },
         {
             "id": "9547"
         },
         {
+            "id": "9549"
+        },
+        {
+            "id": "21138"
+        },
+        {
+            "id": "21139"
+        },
+        {
+            "id": "21140"
+        },
+        {
+            "id": "21109"
+        },
+        {
+            "id": "21141"
+        },
+        {
+            "id": "1370"
+        },
+        {
             "id": "1084"
         },
         {
-            "id": "9549"
+            "id": "21149"
+        },
+        {
+            "id": "21119"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "ae43eab8317d43c9acc5a93468dadf63",
+            "namespace": "e5e30c728f1947759251eb5283ffa6e3"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "8407"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "e5e30c728f1947759251eb5283ffa6e3"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "batman-arkham-knight/home"
+            "key": "publisherName",
+            "value": "Warner Bros."
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "f036adb25c9347c69344b7642cb31e64"
+            "key": "developerName",
+            "value": "Rocksteady Studios"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "batman-arkham-knight/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
-            "originalPrice": 1999,
+            "discountPrice": 4999,
+            "originalPrice": 4999,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "R$ 49,99",
+                "discountPrice": "R$ 49,99",
+                "intermediatePrice": "R$ 49,99"
             }
         },
         "lineOffers": [

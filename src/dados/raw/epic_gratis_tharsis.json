@@ -23,12 +23,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/tharsis",
+    "_urlPattern": "/pt-BR/productv2/tharsis",
     "_slug": "tharsis",
     "_activeDate": "2021-09-09T14:55:00.000Z",
-    "lastModified": "2021-09-09T14:28:46.249Z",
-    "_locale": "en-US",
-    "_id": "e4ac7771-2b9c-4370-bc28-fbf0a59abb25",
+    "lastModified": "2021-09-08T16:49:08.158Z",
+    "_locale": "pt-BR",
+    "_id": "a6fba8e8-e5d0-4369-827c-776b75a0e100",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -56,12 +56,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/tharsis/home",
+            "_urlPattern": "/pt-BR/productv2/tharsis/home",
             "_slug": "home",
             "_activeDate": "2021-09-08T16:49:10.205Z",
-            "lastModified": "2021-09-16T15:07:31.977Z",
-            "_locale": "en-US",
-            "_id": "1a248811-2f1f-4996-94be-bed34bfa2103",
+            "lastModified": "2021-09-08T22:53:51.183Z",
+            "_locale": "pt-BR",
+            "_id": "3adefe61-e3a0-407e-9c34-e3ac6b41d589",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -87,8 +87,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, German, Portuguese - Brazil, Spanish - Spain"
+                        "Áudio: inglês",
+                        "Texto: inglês, alemão, português (Brasil), espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -97,37 +97,37 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 7 x64",
-                                    "recommended": "Windows 7 x64"
+                                    "title": "Sistema operacional Windows",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 7 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
+                                    "title": "Processador do Windows",
                                     "minimum": "Intel Core i5 5xxx",
                                     "recommended": "Intel Core i7 5xxx"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "6 GB RAM"
+                                    "title": "Memória do Windows",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "6 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "2 GB available space"
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "2 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
-                                    "minimum": "Version 11"
+                                    "title": "DirectX no Windows",
+                                    "minimum": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "DirectX 11 compatible graphics card (Intel HD 5000, NVIDIA GeForce 400 or Radeon HD 5000)",
-                                    "recommended": "NVIDIA GeForce 6xx or Radeon HD 7xxx"
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "Placa de vídeo compatível com DirectX 11 (Intel HD 5000, NVIDIA GeForce 400 ou Radeon HD 5000)",
+                                    "recommended": "NVIDIA GeForce 6xx ou Radeon HD 7xxx"
                                 }
                             ]
                         }
@@ -155,8 +155,8 @@
                     "developerAttribution": "Choice Provisions",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Choice Provisions",
-                    "description": "A mysterious signal originating from the Tharsis region of Mars set us on a frantic mission. Who sent it? And why? Impossible questions, but in them lie the key to humanity’s survival.\n\n![image1](https://cdn2.unrealengine.com/egs-tharsis-choiceprovisions-g2-00-1000x191-ea6f6b943043.jpg)\n\nNow, millions of miles away from home, a micrometeoroid storm has left us with a severely damaged ship, two deceased crew, and the sneaking suspicion this trip was doomed from the start.\n\nTharsis is a turn-based space strategy game. With dice. And cannibalism. It puts you in control of humanity’s first mission to Mars, just as it’s struck by a micrometeoroid storm. You must guide your crew through disasters, food shortages, and the unforgiving nature of space — all while maintaining your sanity amidst cryptic signals and warnings from Mars.\n\nDefy the odds, make the difficult decisions, and embark on the most important mission in human history.",
-                    "shortDescription": "Tharsis is a turn-based space strategy game. With dice. And cannibalism. It puts you in control of humanity’s first mission to Mars, just as it’s struck by a micrometeorite storm. ",
+                    "description": "Um misterioso sinal proveniente da região de Tharsis, em Marte, nos colocou em uma missão frenética. Quem o enviou? E por quê? Perguntas difíceis, mas nelas reside a solução para a sobrevivência da humanidade.\n\n![image1](https://cdn2.unrealengine.com/egs-tharsis-choiceprovisions-g2-00-1000x191-ea6f6b943043.jpg)\n\nAgora, a milhões de quilômetros de casa, uma tempestade de micrometeoróides nos deixou com uma nave seriamente danificada, dois tripulantes mortos e a suspeita de que esta viagem estava condenada desde o início.\n\nTharsis é um jogo de estratégia espacial baseado em turnos. Com dados. E canibalismo. O jogo coloca você em controle da primeira missão da humanidade a Marte, assim que ela é atingida por uma tempestade de micrometeoróides. Você deve guiar sua tripulação através de desastres, escassez de alimentos e a natureza imperdoável do espaço, tudo isso enquanto mantém a sanidade em meio a sinais enigmáticos e avisos de Marte.\n\nDesafie as incertezas, faça escolhas difíceis e embarque na mais importante missão da história da humanidade.",
+                    "shortDescription": "Tharsis é um jogo de estratégia espacial baseado em turnos. Com dados. E canibalismo. O jogo coloca você em controle da primeira missão da humanidade a Marte, assim que ela é atingida por uma tempestade de micrometeoritos. ",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }

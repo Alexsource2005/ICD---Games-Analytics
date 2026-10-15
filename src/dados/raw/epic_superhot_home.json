@@ -1,17 +1,37 @@
 {
     "title": "SUPERHOT",
-    "id": "be60529b869c4a8dae064311aefdd1bd",
-    "namespace": "epic",
-    "description": "SUPERHOT",
+    "id": "42ccb715787e47f48648159060135ef1",
+    "namespace": "908bed122ba84c4a908ee1e14da401c3",
+    "description": "SUPERHOT é o jogo de tiro em primeira pessoa em que o tempo passa apenas quando você se move. Nada de barras de vida que se regeneram. Nada de reservas de munição convenientemente posicionadas. É apenas você, em desvantagem numérica e com menos equipamentos, pegando armas dos ...",
     "effectiveDate": "2019-12-21T16:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S1-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg"
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://128a5f2a-8939-4ee3-b388-45d141561062"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/egs-superhot-superhotteam-g1a-00-1920x1080-510833438.jpg"
+        },
+        {
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/superhot/home/EGS_SUPERHOTTeam_SUPERHOT_G1A_02-1920x1080-6f803f65d6e0ae7ad53658b346ea910fadd9180c.jpg"
+        },
+        {
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/superhot/home/EGS_SUPERHOTTeam_SUPERHOT_G1A_03-1920x1080-779d21b9444ab9cee33edf25de7f0b50d8a9ad28.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/2ac39eae-91af-4f2f-81bd-d1c51d74ddf1-1200x1600-2aee8dd73e7218a2af9ac961406530b5.jpg"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/545c9ed2-051a-4548-8203-676ea9ccc62b-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/2ac39eae-91af-4f2f-81bd-d1c51d74ddf1-1200x1600-2aee8dd73e7218a2af9ac961406530b5.jpg"
         }
     ],
     "seller": {
@@ -19,17 +39,20 @@
         "name": "SUPERHOT Sp. z.o.o"
     },
     "productSlug": "superhot/home",
-    "urlSlug": "superhot",
+    "urlSlug": "dorygeneralaudience",
     "url": null,
     "tags": [
         {
             "id": "1216"
         },
         {
-            "id": "1370"
+            "id": "21894"
         },
         {
             "id": "1210"
+        },
+        {
+            "id": "1370"
         },
         {
             "id": "9547"
@@ -43,51 +66,52 @@
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "7fa4765648cb468089b6b95f07d697a6",
+            "namespace": "908bed122ba84c4a908ee1e14da401c3"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "8999"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "908bed122ba84c4a908ee1e14da401c3"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "superhot/home"
+            "key": "publisherName",
+            "value": "SUPERHOT Team"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "42ccb715787e47f48648159060135ef1"
+            "key": "com.epicgames.app.productSlug",
+            "value": "superhot/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 2499,
-            "originalPrice": 2499,
+            "discountPrice": 6999,
+            "originalPrice": 6999,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$24.99",
-                "discountPrice": "$24.99",
-                "intermediatePrice": "$24.99"
+                "originalPrice": "R$ 69,99",
+                "discountPrice": "R$ 69,99",
+                "intermediatePrice": "R$ 69,99"
             }
         },
         "lineOffers": [

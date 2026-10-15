@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/fallout",
+    "_urlPattern": "/pt-BR/productv2/fallout",
     "_slug": "fallout",
     "_activeDate": "2022-10-20T14:50:00.000Z",
-    "lastModified": "2022-10-20T15:11:27.205Z",
-    "_locale": "en-US",
-    "_id": "6f26a81b-01df-4680-bf2c-808105753944",
+    "lastModified": "2022-10-19T19:47:27.178Z",
+    "_locale": "pt-BR",
+    "_id": "9f804e2b-ddcf-48e3-91b1-296bbc48f959",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/fallout/home",
+            "_urlPattern": "/pt-BR/productv2/fallout/home",
             "_slug": "home",
             "_activeDate": "2022-10-20T14:50:00.000Z",
-            "lastModified": "2022-10-20T16:41:46.754Z",
-            "_locale": "en-US",
-            "_id": "b0561f0d-d600-4708-8a95-fc03d7f8c90e",
+            "lastModified": "2022-10-19T19:47:34.994Z",
+            "_locale": "pt-BR",
+            "_id": "4f641350-b9f1-4db2-a58f-2a5dbee678fc",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -97,7 +97,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "TEXT: English, French, German, Spanish - Spain"
+                        "TEXTO: inglês, francês, alemão, italiano, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -106,19 +106,19 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows",
                                     "recommended": "Windows"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Pentium 90Mhz or faster",
-                                    "recommended": "Pentium 90Mhz or faster"
+                                    "title": "Processador",
+                                    "minimum": "Pentium 90Mhz ou mais rápido",
+                                    "recommended": "Pentium 90Mhz ou mais rápido"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "16 MB",
                                     "recommended": "16 MB"
                                 },
@@ -130,18 +130,18 @@
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Any DirectX"
+                                    "title": "DirectX",
+                                    "minimum": "Qualquer DirectX"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "SVGA"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "DirectSound or SoundBlaster Compatible"
+                                    "title": "Outros",
+                                    "minimum": "Compatível com DirectSound ou SoundBlaster"
                                 }
                             ]
                         }
@@ -155,7 +155,7 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 1997 Bethesda Softworks LLC, a ZeniMax Media company. Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Fallout and related logos are trademarks or registered trademarks of Bethesda Softworks LLC in the U.S. and/or other countries. All Rights Reserved.",
+                    "copy": "© 1997 Bethesda Softworks LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Fallout and related logos are trademarks or registered trademarks of Bethesda Softworks LLC in the U.S. and/or other countries. All Rights Reserved.",
                     "privacyPolicyLink": {
                         "src": "https://bethesda.net/document/privacy-policy",
                         "_type": "Diesel Link"
@@ -170,8 +170,8 @@
                     "developerAttribution": "Bethesda Game Studios",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Bethesda Softworks",
-                    "description": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. The Fallout® SPECIAL system allows drastically different types of characters, meaningful decisions and development that puts you in complete control. Explore the devastated ruins of a golden age civilization. Talk, sneak or fight your way past mutants, gangsters and robotic adversaries. Make the right decisions or you could end up as another fallen hero in the wastelands...",
-                    "shortDescription": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. Make the right decisions or you could end up as another fallen hero in the wastelands…",
+                    "description": "Você acabou de descobrir o jogo clássico de RPG pós-apocalíptico que revitalizou todo o gênero de CRPG. O sistema S.P.E.C.I.A.L. de Fallout® permite tipos de personagens drasticamente diferentes, decisões que causam impacto e completo controle do desenvolvimento. Explore as ruínas devastadas de uma civilização da era dourada. Converse, espreite ou lute com mutantes, gângsteres e adversários robóticos. Tome as decisões certas ou você poderá figurar entre os heróis caídos dos ermos...",
+                    "shortDescription": "Você acabou de descobrir o jogo clássico de RPG pós-apocalíptico que revitalizou todo o gênero de CRPG. Tome as decisões certas ou você poderá figurar entre os heróis caídos dos ermos...",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -281,7 +281,7 @@
                     "logo": {
                         "_type": "Epic Store Image"
                     },
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows"
                     ]

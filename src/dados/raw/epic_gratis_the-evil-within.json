@@ -26,12 +26,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/the-evil-within",
+    "_urlPattern": "/pt-BR/productv2/the-evil-within",
     "_slug": "the-evil-within",
     "_activeDate": "2023-08-02T14:58:00.000Z",
-    "lastModified": "2023-08-02T15:17:49.888Z",
-    "_locale": "en-US",
-    "_id": "e50961ad-58fe-4cbe-985e-e4e799710146",
+    "lastModified": "2023-07-26T09:32:22.451Z",
+    "_locale": "pt-BR",
+    "_id": "9738ee62-f327-421e-9a6b-be9165a20746",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -62,12 +62,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/the-evil-within/home",
+            "_urlPattern": "/pt-BR/productv2/the-evil-within/home",
             "_slug": "home",
             "_activeDate": "2023-08-02T14:58:00.000Z",
-            "lastModified": "2023-08-01T21:47:15.966Z",
-            "_locale": "en-US",
-            "_id": "a1e396ae-a987-45c2-ba89-f98fbaa4f1d5",
+            "lastModified": "2023-07-26T09:51:17.678Z",
+            "_locale": "pt-BR",
+            "_id": "a0e54978-c0cf-41e2-8187-54596fce1e93",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -96,8 +96,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, French, German, Italian, Spanish - Spain",
-                        "TEXT: English, French, German, Italian, Polish, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês, francês, alemão, italiano, espanhol (Espanha)",
+                        "TEXTO: inglês, francês, alemão, italiano, polonês, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -106,45 +106,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 7 SP1/Windows 8.1",
-                                    "recommended": "64-bit Windows 7 SP1/Windows 8.1"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1/Windows 8.1 de 64 bits",
+                                    "recommended": "Windows 7 SP1/Windows 8.1 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "i7 or an equivalent with four plus core processor",
-                                    "recommended": "i7 or an equivalent with four plus core processor"
+                                    "title": "Processador",
+                                    "minimum": "i7 ou equivalente com processador de quatro ou mais núcleos",
+                                    "recommended": "i7 ou equivalente com processador de quatro ou mais núcleos"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "50 GB available space",
-                                    "recommended": "50 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "50 GB de espaço disponível",
+                                    "recommended": "50 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "DirectX",
-                                    "minimum": "Version 11",
-                                    "recommended": "Version 11"
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "GTX 460 or equivalent 1 GB VRAM card",
-                                    "recommended": "GeForce GTX 670 or equivalent with 4GBs of VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GTX 460 ou placa equivalente com 1 GB de VRAM",
+                                    "recommended": "GeForce GTX 670 ou equivalente com 4 GB de VRAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": " Note: 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space",
-                                    "recommended": " Note: 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space"
+                                    "title": "Outros",
+                                    "minimum": "Observação: requer 50 GB de espaço livre para a instalação no PC. Após a conclusão da instalação, o jogo ocupará aproximadamente 41 GB de espaço no disco rígido.",
+                                    "recommended": "Observação: requer 50 GB de espaço livre para a instalação no PC. Após a conclusão da instalação, o jogo ocupará aproximadamente 41 GB de espaço no disco rígido."
                                 }
                             ]
                         }
@@ -158,7 +158,7 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2023 ZeniMax Media Inc.  All Rights Reserved.",
+                    "copy": "© 2023 ZeniMax Media Inc. All Rights Reserved.",
                     "privacyPolicyLink": {
                         "src": "https://bethesda.net/document/privacy-policy",
                         "_type": "Diesel Link"
@@ -173,8 +173,8 @@
                     "developerAttribution": "Tango Gameworks",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Bethesda Softworks",
-                    "description": "Developed by Tango Gameworks and directed by Resident Evil series creator Shinji Mikami, The Evil Within embodies pure survival horror. \n\nAs Detective Sebastian Castellanos, seek the dark truth behind a gruesome mass murder and its connection to a deranged world where hideous creatures wander among the dead. Facing unimaginable terror and fighting for survival with limited resources, Sebastian embarks on a frightening journey to uncover who - or what - is responsible.\n\nTension and anxiety heighten dramatically as you explore the game’s tortured world, facing menacing horrors, avoiding cruel traps and managing crucial supplies as you struggle to survive against overwhelming odds. Corridors, walls, doors and entire buildings change in real time, ensnaring players in a warped reality where threats can appear at any time and from any direction.\n\nKeep your wits about and aim steady, Detective..chilling horror and heart-racing action await those who step into The Evil Within.",
-                    "shortDescription": "Developed by Tango Gameworks and directed by Resident Evil series creator Shinji Mikami, The Evil Within embodies pure survival horror.   As Detective Sebastian Castellanos, fight for survival with limited resources in a twisted world of nightmares.",
+                    "description": "Desenvolvido pela Tango Gameworks e dirigido por Shinji Mikami, o criador da série Resident Evil, The Evil Within é o mais puro terror de sobrevivência. \n\nNo papel do detetive Sebastian Castellanos, investigue a verdade sombria de um terrível massacre e a ligação da tragédia com um mundo perturbador onde criaturas medonhas vagam entre os mortos. Nesta jornada assustadora, Sebastian enfrenta horrores inimagináveis com recursos escassos para descobrir quem – ou o que – está por trás de tudo.\n\nSinta a tensão aumentar à medida que explora um mundo desfigurado, encara pesadelos tenebrosos, evita armadilhas ferinas e gerencia recursos essenciais em sua luta por uma sobrevivência improvável. Corredores, paredes, portas e construções inteiras se transformam em tempo real para prender os jogadores em uma realidade distorcida onde as ameaças surgem a toda hora, de todas as direções.\n\nPresença de espírito e olhos atentos, detetive. Calafrios e adrenalina esperam por você em The Evil Within.",
+                    "shortDescription": "Desenvolvido pela Tango Gameworks e dirigido por Shinji Mikami, o criador da série Resident Evil, The Evil Within é o mais puro terror de sobrevivência.   Lute pela vida no papel do detetive Sebastian Castellanos em meio aos pesadelos de um mundo distorcido.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -346,7 +346,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "d602fd70876141ba9bf4d54809c423d1",
-                            "description": "Developed by Tango Gameworks and directed by Resident Evil series creator Shinji Mikami, The Evil Within embodies pure survival horror.   As Detective Sebastian Castellanos, fight for survival with limited resources in a twisted world of nightmares.",
+                            "description": "Desenvolvido pela Tango Gameworks e dirigido por Shinji Mikami, o criador da série Resident Evil, The Evil Within é o mais puro terror de sobrevivência.   Lute pela vida no papel do detetive Sebastian Castellanos em meio aos pesadelos de um mundo distorcido.",
                             "offerId": "087155540ecc47239c98c1265b40ba99",
                             "title": "The Evil Within",
                             "slug": "/p/the-evil-within"
@@ -361,9 +361,9 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "d602fd70876141ba9bf4d54809c423d1",
-                            "description": "Experience pure survival horror in The Evil Within, from the team at Tango Gameworks and Resident Evil series creator Shinji Mikami.\n\nThis bundle includes The Evil Within and all its Season Pass DLC: The Assignment, The Consequence and The Executioner.",
+                            "description": "Viva o mais puro terror de sobrevivência em The Evil Within, desenvolvido pela Tango Gameworks e o criador da série Resident Evil, Shinji Mikami.\n\nInclui The Evil Within e todos os DLCs do Passe de Temporada: The Assignment, The Consequence e The Executioner.",
                             "offerId": "4f1f32c56c7f472b88e314900f326600",
-                            "title": "The Evil Within Digital Bundle",
+                            "title": "The Evil Within – Pacote Digital",
                             "slug": "/p/the-evil-within--digital-bundle"
                         }
                     ],
@@ -409,6 +409,9 @@
                     },
                     {
                         "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
                         "_type": "Diesel Product Section"
                     }
                 ],
@@ -465,12 +468,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/the-evil-within/digital-bundle",
+            "_urlPattern": "/pt-BR/productv2/the-evil-within/digital-bundle",
             "_slug": "digital-bundle",
             "_activeDate": "2023-08-02T14:58:00.000Z",
-            "lastModified": "2023-07-31T20:04:00.010Z",
-            "_locale": "en-US",
-            "_id": "26cc93a6-cafe-443d-b24a-cc5c887f33c3",
+            "lastModified": "2023-07-26T10:01:27.046Z",
+            "_locale": "pt-BR",
+            "_id": "acd6b0b8-bb2d-4470-af5f-0a3610f66dac",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -489,8 +492,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, French, German, Italian, Spanish - Spain",
-                        "TEXT: English, French, German, Italian, Polish, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês, francês, alemão, italiano, espanhol (Espanha)",
+                        "TEXTO: inglês, francês, alemão, italiano, polonês, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -499,45 +502,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 7 SP1/Windows 8.1",
-                                    "recommended": "64-bit Windows 7 SP1/Windows 8.1"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1/Windows 8.1 de 64 bits",
+                                    "recommended": "Windows 7 SP1/Windows 8.1 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "i7 or an equivalent with four plus core processor",
-                                    "recommended": "i7 or an equivalent with four plus core processor"
+                                    "title": "Processador",
+                                    "minimum": "i7 ou equivalente com processador de quatro ou mais núcleos",
+                                    "recommended": "i7 ou equivalente com processador de quatro ou mais núcleos"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "50 GB available space",
-                                    "recommended": "50 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "50 GB de espaço disponível",
+                                    "recommended": "50 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "DirectX",
-                                    "minimum": "Version 11",
-                                    "recommended": "Version 11"
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "GTX 460 or equivalent 1 GB VRAM card",
-                                    "recommended": "GeForce GTX 670 or equivalent with 4GBs of VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GTX 460 ou placa equivalente com 1 GB de VRAM",
+                                    "recommended": "GeForce GTX 670 ou equivalente com 4 GB de VRAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": " Note: 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space",
-                                    "recommended": " Note: 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space"
+                                    "title": "Outros",
+                                    "minimum": "Observação: requer 50 GB de espaço livre para a instalação no PC. Após a conclusão da instalação, o jogo ocupará aproximadamente 41 GB de espaço no disco rígido.",
+                                    "recommended": "Observação: requer 50 GB de espaço livre para a instalação no PC. Após a conclusão da instalação, o jogo ocupará aproximadamente 41 GB de espaço no disco rígido."
                                 }
                             ]
                         }
@@ -551,7 +554,7 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2023 ZeniMax Media Inc.  All Rights Reserved.",
+                    "copy": "© 2023 ZeniMax Media Inc. All Rights Reserved.",
                     "privacyPolicyLink": {
                         "src": "https://bethesda.net/document/privacy-policy",
                         "_type": "Diesel Link"
@@ -566,8 +569,8 @@
                     "developerAttribution": "Tango Gameworks",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Bethesda Softworks",
-                    "description": "Developed by Tango Gameworks and directed by Resident Evil series creator Shinji Mikami, The Evil Within embodies pure survival horror. \n\nAs Detective Sebastian Castellanos, seek the dark truth behind a gruesome mass murder and its connection to a deranged world where hideous creatures wander among the dead. Facing unimaginable terror and fighting for survival with limited resources, Sebastian embarks on a frightening journey to uncover who - or what - is responsible.\n\nTension and anxiety heighten dramatically as you explore the game’s tortured world, facing menacing horrors, avoiding cruel traps and managing crucial supplies as you struggle to survive against overwhelming odds. Corridors, walls, doors and entire buildings change in real time, ensnaring players in a warped reality where threats can appear at any time and from any direction.\n\nThis Digital Bundle includes The Evil Within and all its Season Pass content: The Assignment, The Consequence and The Executioner.",
-                    "shortDescription": "Experience pure survival horror in The Evil Within, from the team at Tango Gameworks and Resident Evil series creator Shinji Mikami.  This bundle includes The Evil Within and all its Season Pass DLC: The Assignment, The Consequence and The Executioner.",
+                    "description": "Desenvolvido pela Tango Gameworks e dirigido por Shinji Mikami, o criador da série Resident Evil, The Evil Within é o mais puro terror de sobrevivência. \n\nNo papel do detetive Sebastian Castellanos, investigue a verdade sombria de um terrível massacre e a ligação da tragédia com um mundo perturbador onde criaturas medonhas vagam entre os mortos. Nesta jornada assustadora, Sebastian enfrenta horrores inimagináveis com recursos escassos para descobrir quem – ou o que – está por trás de tudo.\n\nSinta a tensão aumentar à medida que explora um mundo desfigurado, encara pesadelos tenebrosos, evita armadilhas ferinas e gerencia recursos essenciais em sua luta por uma sobrevivência improvável. Corredores, paredes, portas e construções inteiras se transformam em tempo real para prender os jogadores em uma realidade distorcida onde as ameaças surgem a toda hora, de todas as direções.\n\nInclui The Evil Within e todos os DLCs do Passe de Temporada: The Assignment, The Consequence e The Executioner.",
+                    "shortDescription": "Viva o mais puro terror de sobrevivência em The Evil Within, desenvolvido pela Tango Gameworks e o criador da série Resident Evil, Shinji Mikami.  Inclui The Evil Within e todos os DLCs do Passe de Temporada: The Assignment, The Consequence e The Executioner.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -804,7 +807,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "The Evil Within Digital Bundle"
+                "navTitle": "The Evil Within – Pacote Digital"
             },
             "overwriteMapping": false,
             "type": "offer",

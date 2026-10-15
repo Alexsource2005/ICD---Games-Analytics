@@ -37,12 +37,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/supraland",
+    "_urlPattern": "/pt-BR/productv2/supraland",
     "_slug": "supraland",
     "_activeDate": "2021-06-21T14:54:57.831Z",
     "lastModified": "2021-06-23T19:27:52.456Z",
-    "_locale": "en-US",
-    "_id": "6ce37c3b-0c12-46b3-8094-f1eeb42b8107",
+    "_locale": "pt-BR",
+    "_id": "cb3e2425-a3c6-4e94-b43e-bc5538b92e55",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -101,12 +101,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/supraland/complete-edition",
+            "_urlPattern": "/pt-BR/productv2/supraland/complete-edition",
             "_slug": "complete-edition",
             "_activeDate": "2021-06-21T15:07:14.925Z",
-            "lastModified": "2021-07-12T20:46:25.123Z",
-            "_locale": "en-US",
-            "_id": "12c19110-35ac-4147-8923-4f5eaa9426ab",
+            "lastModified": "2021-06-28T16:33:35.194Z",
+            "_locale": "pt-BR",
+            "_id": "44a88bc5-17f6-46d6-a667-0d35d8d29962",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -130,12 +130,12 @@
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/3FaTrZr",
                     "linkReddit": "https://www.reddit.com/r/supraland/",
-                    "linkHomepage": "https://www.supragames.de"
+                    "linkHomepage": "https://deathball.net/supragames/"
                 },
                 "requirements": {
                     "languages": [
-                        "Text: English, Chinese - Simplified, Chinese - Traditional, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish",
-                        "Audio: English, Chinese - Simplified, Chinese - Traditional, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                        "Texto: inglês, chinês simplificado, chinês tradicional, finlandês, francês, alemão, húngaro, italiano, japonês, coreano, polonês, português, português (Brasil), russo, espanhol (Espanha), turco",
+                        "Áudio: inglês, chinês simplificado, chinês tradicional, finlandês, francês, alemão, húngaro, italiano, japonês, coreano, polonês, português, português (Brasil), russo, espanhol (Espanha), turco"
                     ],
                     "systems": [
                         {
@@ -144,39 +144,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2Duo 2.66GHz",
-                                    "recommended": "Intel Core i5 6600 or AMD Ryzen 1600x"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core2Duo de 2,66 GHz",
+                                    "recommended": "Intel Core i5 6600 ou AMD Ryzen 1600x"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "4 GB available space",
-                                    "recommended": "4 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "4 GB de espaço disponível",
+                                    "recommended": "4 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "GTX 780",
-                                    "recommended": "NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) or AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB )"
+                                    "recommended": "NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) ou AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB)"
                                 }
                             ]
                         }
@@ -205,8 +205,8 @@
                     "developerAttribution": "Supra Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Supra Games",
-                    "description": "Supraland and the Crash DLC.\nThe Crash DLC adds a separate 2nd campaign to the basegame. Combined you gets around 25-40 hours of Exploration, Puzzles and beating up monsters.",
-                    "shortDescription": "Supraland and the Crash DLC. The Crash DLC adds a separate 2nd campaign to the basegame. Combined you gets around 25-40 hours of Exploration, Puzzles and beating up monsters.",
+                    "description": "Supraland e o DLC Crash.\nO DLC Crash adiciona uma segunda campanha separada ao jogo base. Combinadas, você tem de 25 a 40 horas de exploração, quebra-cabeças e surra em monstros.",
+                    "shortDescription": "Supraland e o DLC Crash. O DLC Crash adiciona uma segunda campanha separada ao jogo base. Combinadas, você tem de 25 a 40 horas de exploração, quebra-cabeças e surra em monstros.",
                     "title": "Supraland",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -255,7 +255,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Supraland Trailer",
+                                "title": "Trailer de Supraland",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -604,12 +604,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/supraland/home",
+            "_urlPattern": "/pt-BR/productv2/supraland/home",
             "_slug": "home",
             "_activeDate": "2021-06-21T15:07:14.925Z",
-            "lastModified": "2021-07-12T20:45:11.158Z",
-            "_locale": "en-US",
-            "_id": "b46dc4bd-26c7-43bf-a4d1-10da564e70ff",
+            "lastModified": "2021-06-28T16:33:17.644Z",
+            "_locale": "pt-BR",
+            "_id": "e413a46b-e73f-4b71-993b-20c7fdf1df1c",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -633,12 +633,12 @@
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/3FaTrZr",
                     "linkReddit": "https://www.reddit.com/r/supraland/",
-                    "linkHomepage": "https://www.supragames.de"
+                    "linkHomepage": "https://deathball.net/supragames/"
                 },
                 "requirements": {
                     "languages": [
-                        "Text: English, Chinese - Simplified, Chinese - Traditional, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish",
-                        "Audio: English, Chinese - Simplified, Chinese - Traditional, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                        "Texto: inglês, chinês simplificado, chinês tradicional, finlandês, francês, alemão, húngaro, italiano, japonês, coreano, polonês, português, português (Brasil), russo, espanhol (Espanha), turco",
+                        "Áudio: inglês, chinês simplificado, chinês tradicional, finlandês, francês, alemão, húngaro, italiano, japonês, coreano, polonês, português, português (Brasil), russo, espanhol (Espanha), turco"
                     ],
                     "systems": [
                         {
@@ -647,39 +647,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2Duo 2.66GHz",
-                                    "recommended": "Intel Core i5 6600 or AMD Ryzen 1600x"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core2Duo de 2,66 GHz",
+                                    "recommended": "Intel Core i5 6600 ou AMD Ryzen 1600x"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "4 GB available space",
-                                    "recommended": "4 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "4 GB de espaço disponível",
+                                    "recommended": "4 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "GTX 780",
-                                    "recommended": "NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) or AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB )"
+                                    "recommended": "NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) ou AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB)"
                                 }
                             ]
                         }
@@ -708,8 +708,8 @@
                     "developerAttribution": "Supra Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Supra Games",
-                    "description": "![Supraland Header](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-00-700x255-8f3418593eed.jpg)\n\n**Supraland is a First-Person Metroidvania Puzzle game. The main sources of inspiration are Zelda, Metroid and Portal.**\nSupraland assumes that you are intelligent and lets you play independently. The story is minimal, gives you an overarching goal to pursue, and then sets you free. Despite child friendly visuals, the game targets experienced players. Playtime: ~12-25h\n\n![Metroidvania](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-01-700x52-38dde3b5eb28.jpg)\n\nYou explore a large interconnected world in which most ways are at first unpassable until you find new abilities to overcome those obstacles. A cornerstone of Supraland's design was to create abilities that are so versatile, they will keep on surprising you by how many different usages they have. If you combine your abilities, the possibilities become even bigger.\n\n![Exploration](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-02-700x52-706c7e3b316f.jpg)\n![Headershot 1](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-03-700x255-905b1f653f82.jpg)\n\nMost of the game is about exploring the sandbox world to track down secrets. Often you will think you are about to get out of bounds and beat the level designer, but right there is a chest waiting for you with a very rewarding upgrade. Supraland respects your lifetime and doesn't bloat the playtime with unlimited no-brainer collectibles.\n\n![Puzzle-Design](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-04-700x52-e53e79e1c2ac.jpg)\n\nThe deeper you get into the game the more you will be facing creative puzzles you've never seen anywhere before, encouraging you to stop and think about what abilities you have and how you can use them in yet another way. Puzzle types that I already knew from other games were immediately rejected in the design process. And it's important to me that once you understand the idea behind a puzzle, you can pretty much immediately solve it instead of having to go through a cumbersome, frustrating execution.\n\n![Combat](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-05-700x52-172df9903c87.jpg)\n\nThe fighting mechanics are inspired by old-school, fast-paced shooter games like Unreal, Doom and Quake, encouraging high-speed strafing and jumping while throwing shot after shot at hordes of charging enemies without ever having to worry about weapons reloading.",
-                    "shortDescription": "A mix between Portal, Zelda and Metroid. Explore, solve puzzles, beat up monsters, find secret upgrades and new abilities that help you reach new places. Playtime 12-25h.",
+                    "description": "![Supraland Header](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-00-700x255-8f3418593eed.jpg)\n\n**Supraland é um FPS com elementos de Metroidvania e com vários quebra-cabeças. As principais inspirações foram Zelda, Metroid e Portal.**\nSupraland presume que você é inteligente o suficiente para conseguir jogar de forma independente. A história é mínima, mas suficiente para lhe dar um objetivo principal e liberdade para explorar. Apesar da estética infantil, o jogo é voltado para jogadores experientes. Tempo de jogo: de 12 a 25 horas\n\n![Metroidvania](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-01-700x52-38dde3b5eb28.jpg)\n\nVocê explora um mundo enorme e totalmente conectado por caminhos que, inicialmente, estão \"bloqueados\" até que você encontre novas habilidades que lhe permitam transpô-los. Um dos pilares do design de Supraland foi criar habilidades tão versáteis que sempre vão surpreendê-lo quanto aos seus diferentes usos. Se você combinar suas habilidades, as possibilidades tornam-se ainda maiores.\n\n![Exploration](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-02-700x52-706c7e3b316f.jpg)\n![Headershot 1](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-03-700x255-905b1f653f82.jpg)\n\nA maior parte do jogo consiste em explorar o mundo em sandbox para descobrir segredos. Não raramente, você pensará que chegou aos limites do mapa e derrotou o criador da fase, mas exatamente ali haverá um baú à sua espera com um aprimoramento valioso. Supraland respeita seu precioso tempo e não enche o jogo com intermináveis itens colecionáveis inúteis.\n\n![Puzzle-Design](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-04-700x52-e53e79e1c2ac.jpg)\n\nQuanto mais você mergulhar no jogo, mais quebra-cabeças criativos e inéditos encontrará, motivando-o a montar estratégias de como usar suas habilidades para resolvê-los. Alguns tipos de quebra-cabeça que eu já conhecia de outros jogos foram descartados logo de cara no processo de design. E é importante para mim que, assim que você entenda a ideia do quebra-cabeça, você consiga resolvê-lo numa boa, sem nenhuma dificuldade ou frustração.\n\n![Combat](https://cdn2.unrealengine.com/egs-supraland-supragames-g2-05-700x52-172df9903c87.jpg)\n\nAs mecânicas de luta foram inspiradas em jogos de tiro antigos e de ritmo acelerado como Unreal, Doom e Quake, com movimentação rápida de esquivas e pulos, enquanto atira em hordas de inimigos sem nem se preocupar com munição ou recarga da arma.",
+                    "shortDescription": "Uma mistura de Portal, Zelda e Metroid. Explore, resolva quebra-cabeças, dê uma surra em monstros, descubra aprimoramentos secretos e obtenha habilidades totalmente novas que o ajudarão a explorar novos lugares. Tempo de jogo: de 12 a 25 horas.",
                     "title": "Supraland",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -758,7 +758,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Supraland Trailer",
+                                "title": "Trailer de Supraland",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -988,7 +988,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "ae373893881044d2bf26d6f8363a120e",
-                            "description": "A mix between Portal, Zelda and Metroid. Explore, solve puzzles, beat up monsters, find secret upgrades and new abilities that help you reach new places. Playtime 12-25h.",
+                            "description": "Uma mistura de Portal, Zelda e Metroid. Explore, resolva quebra-cabeças, dê uma surra em monstros, descubra aprimoramentos secretos e obtenha habilidades totalmente novas que o ajudarão a explorar novos lugares. Tempo de jogo: de 12 a 25 horas.",
                             "offerId": "1167f711027c484cafb64899f89527ba",
                             "tag": "edition",
                             "title": "Supraland",
@@ -1004,7 +1004,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "ae373893881044d2bf26d6f8363a120e",
-                            "description": "Supraland and the Crash DLC.\nThe Crash DLC adds a separate 2nd campaign to the basegame. Combined you gets around 25-40 hours of Exploration, Puzzles and beating up monsters.",
+                            "description": "Supraland e o DLC Crash.\nO DLC Crash adiciona uma segunda campanha separada ao jogo base. Combinadas, você tem de 25 a 40 horas de exploração, quebra-cabeças e surra em monstros.",
                             "offerId": "1c8f5af8518c46369bcd66dd336aec10",
                             "tag": "edition",
                             "title": "Supraland Complete Edition",

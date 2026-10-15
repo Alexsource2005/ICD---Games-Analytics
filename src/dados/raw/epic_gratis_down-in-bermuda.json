@@ -39,12 +39,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/down-in-bermuda",
+    "_urlPattern": "/pt-BR/productv2/down-in-bermuda",
     "_slug": "down-in-bermuda",
     "_activeDate": "2021-01-14T05:00:00.000Z",
-    "lastModified": "2021-03-22T21:08:32.816Z",
-    "_locale": "en-US",
-    "_id": "546b39a6-b04a-45db-b446-27111b24d211",
+    "lastModified": "2021-01-14T04:25:57.982Z",
+    "_locale": "pt-BR",
+    "_id": "11171eca-06a2-4270-a810-0e5b14a72e8f",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -109,12 +109,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/down-in-bermuda/home",
+            "_urlPattern": "/pt-BR/productv2/down-in-bermuda/home",
             "_slug": "home",
             "_activeDate": "2021-01-14T05:00:00.000Z",
-            "lastModified": "2021-03-22T21:09:01.613Z",
-            "_locale": "en-US",
-            "_id": "23df8ab0-3c31-4ddf-bf40-83460b3276ca",
+            "lastModified": "2021-01-14T05:27:20.491Z",
+            "_locale": "pt-BR",
+            "_id": "38bf613c-d029-426e-bc33-2ab395f43ed8",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -130,20 +130,17 @@
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
                 "socialLinks": {
                     "linkTwitter": "http://twitter.com/yakandco",
                     "linkFacebook": "http://facebook.com/yakandco",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Down in Bermuda!",
+                    "title": "Siga Down in Bermuda!",
                     "linkHomepage": "http://www.downinbermuda.com"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: Arabic, English, Chinese - Simplified, Dutch, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain, Chinese - Traditional"
+                        "ÁUDIO: inglês",
+                        "TEXTO: árabe, inglês, chinês simplificado, holandês, francês, alemão, italiano, japonês, coreano, português (Brasil), russo, espanhol (Espanha), chinês tradicional"
                     ],
                     "systems": [
                         {
@@ -152,31 +149,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "macOS 10.14+",
-                                    "recommended": "macOS 10.14+"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "macOS 10.14 ou superior",
+                                    "recommended": "macOS 10.14 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel i3 2.0 GHz",
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 2,0 GHz",
                                     "recommended": "Intel i7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "1 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB Shader Model 3.0 Compatible (DirectX 9.0c)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1GB compatível com Shader Model 3.0 (DirectX 9.0c)"
                                 }
                             ]
                         },
@@ -186,36 +183,36 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64-bit",
-                                    "recommended": "Windows 10 64-bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel i3 2.0 GHz",
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 2,0 GHz",
                                     "recommended": "Intel i7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "1 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 9.0c"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 9.0c"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB Shader Model 3.0 Compatible (DirectX 9.0c)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1GB compatível com Shader Model 3.0 (DirectX 9.0c)"
                                 }
                             ]
                         }
@@ -226,6 +223,9 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -233,7 +233,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.yakandco.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -245,9 +245,9 @@
                     "developerAttribution": "Yak & Co",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Yak & Co",
-                    "description": "An unnatural storm leaves an adventurous aviator stranded for decades within the infamous Bermuda. Overcome creatures of the deep and unravel the islands secrets in search for a way back home.\n\n![image 1](https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-03-1920x1080-435720995.jpg)\n\n# Solve perplexing puzzles and escape Bermuda.\n\nDown in Bermuda is a quirky adventure filled with puzzles to solve and mysteries to uncover. Our adventurous aviator Milton finds himself trapped in a time bubble deep inside the Bermuda and needs your help to escape.\n\nCrack codes, solve puzzles, collect magic orbs and escape each of the six unique islands, each one leading to the next on a quest for a way back home.\n\nFrom the studio who brought you the suave secret agent adventure Agent A: A puzzle in disguise.",
-                    "shortDescription": "An unnatural storm leaves an adventurous aviator stranded for decades within the infamous Bermuda. Overcome creatures of the deep and unravel the islands secrets in search for a way back home.",
-                    "title": "Milton needs your help!",
+                    "description": "Uma tempestade anormal acabou deixando um aviador isolado por décadas nas famigeradas Bermudas. Derrote criaturas das profundezas e desvende os mistérios da ilha na busca pelo caminho de casa.\n\n![image 1](https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-03-1920x1080-435720995.jpg)\n\n# Resolva enigmas intrigantes e escape das Bermudas.\n\nDown in Bermuda traz uma aventura única, repleta de enigmas a resolver e mistérios a desvendar. Nosso aventureiro aviador Milton ficou preso em uma bolha no tempo nas profundezas das Bermudas e precisa de sua ajuda para escapar.\n\nDecifre códigos, resolva enigmas, colete orbes mágicos e escape das seis ilhas únicas indo de uma à outra numa missão de volta para casa.\n\nDos mesmos criadores da aventura do agente secreto Agent A: A puzzle in disguise.",
+                    "shortDescription": "Uma tempestade anormal acabou deixando um aviador isolado por décadas nas famigeradas Bermudas. Derrote criaturas das profundezas e desvende os mistérios da ilha na busca pelo caminho de casa.",
+                    "title": "Milton precisa da sua ajuda!",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -296,7 +296,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": true,
                                 "hasControls": true,
-                                "title": "Down in Bermuda Trailer",
+                                "title": "Trailer de Down in Bermuda",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true

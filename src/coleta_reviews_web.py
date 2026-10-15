@@ -51,4 +51,40 @@ for arquivo in os.listdir(pasta_raw):
             print(f"   ❌ Erro ao buscar reviews da GOG: {e}")
 
     # PROCESSAMENTO EPIC GAMES
+    elif arquivo.startswith("epic_"):
+           titulo = data.get("title", "Desconhecido")
+           slug = None
+           if "mapping" in data or "productSlug" in data:
+               slug = data.get("productSlug") or data.get("urlSlug")
    
+           if not slug:
+               slug = arquivo.replace("epic_", "").replace("epic_gratis_", "").replace(".json", "")
+   
+           print(f"\n[Epic] Analisando: {titulo} (Slug: {slug})")
+   
+           # Web scrapping na página pública da loja EPic Games
+           if slug and slug != "jogo_desconhecido":
+               url_epic_page = f"https://store.epicgames.com/en-US/p/{slug}"
+               try:
+                   resp_page = requests.get(url_epic_page, headers=headers, timeout=10)
+                   if resp_page.status_code == 200:
+                       soup = BeautifulSoup(resp_page.text, "html.parser")
+   
+                       # A Epic costuma injetar dados estruturados em JSON-LD ou blocos de rating nas páginas de produto
+                       # Procuramos por elementos que contenham contagem de avaliações ou ratings
+                       rating_elem = soup.find(string=re.compile(r"rating", re.IGNORECASE))
+   
+                       # Web scraping alternativo para texto de votação visível
+                       # (Como a Epic renderiza via client-side React em muitas páginas, o texto exato pode vir dinamicamente)
+                       print("ℹ️ Página acedida com sucesso. A verificar blocos de avaliações...")
+   
+                       #placeholder para dados extraidos da pagina
+                       data["reviews_qtd_scraping"] = 0
+                       data["reviews_pct_scrapping"] = None
+   
+                       with open(caminho, "w", encoding="utf-8") as f:
+                           json.dump(data, f, ensure_ascii=False, indent=4)
+                   else:
+                       print(f"⚠️ Não foi possível aceder à página web da Epic (Status: {resp_page.status_code})")
+               except Exception as e:
+                   print(f"❌ Erro no scraping da Epic: {e}")

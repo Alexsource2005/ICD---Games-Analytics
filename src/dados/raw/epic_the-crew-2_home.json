@@ -1,17 +1,45 @@
 {
-    "title": "The Crew 2",
-    "id": "49abc68c4a364704824736002f065600",
-    "namespace": "epic",
-    "description": "The Crew 2",
-    "effectiveDate": "2099-01-01T10:56:00.000Z",
+    "title": "The Crew 2 Standard Edition",
+    "id": "6c0aafd317da433aa709dcd6052ccd34",
+    "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+    "description": "Enfrente o cenário dos esportes automotivos americanos enquanto explora e domina a terra, o ar e o mar pelos EUA.",
+    "effectiveDate": "2019-12-04T11:00:00.000Z",
     "keyImages": [
         {
             "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/undefined/offer/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg"
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
         },
         {
             "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/undefined/offer/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-3ddf7e01cdabcb15cb44393a486c22b3.jpg"
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+        },
+        {
+            "type": "CodeRedemption_340x440",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+        },
+        {
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://d9f52f00-b5d4-4c30-864b-4d360d019464"
+        },
+        {
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://52bbc371-695b-4029-95b6-42e437043685"
+        },
+        {
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://494466aa-c922-4689-ae1c-c1bc8006e9f7"
         }
     ],
     "seller": {
@@ -19,72 +47,107 @@
         "name": "Ubisoft Entertainment"
     },
     "productSlug": "the-crew-2/home",
-    "urlSlug": "the-crew",
+    "urlSlug": "hermitgeneralaudience",
     "url": null,
     "tags": [
         {
-            "id": "1203"
+            "id": "1188"
         },
         {
-            "id": "1370"
+            "id": "21125"
         },
         {
             "id": "9547"
         },
         {
+            "id": "9549"
+        },
+        {
+            "id": "21138"
+        },
+        {
+            "id": "1203"
+        },
+        {
+            "id": "1299"
+        },
+        {
+            "id": "21139"
+        },
+        {
+            "id": "21140"
+        },
+        {
+            "id": "21141"
+        },
+        {
+            "id": "1370"
+        },
+        {
             "id": "1212"
         },
         {
-            "id": "9549"
+            "id": "21149"
+        },
+        {
+            "id": "1279"
+        },
+        {
+            "id": "21119"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "4a17f4606aa9496199f598ff25a483f0",
+            "namespace": "599d248ca46b45a8b40a3b4e484712cb"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "10000"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "599d248ca46b45a8b40a3b4e484712cb"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "CN"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "the-crew-2/home"
+            "key": "publisherName",
+            "value": "Ubisoft"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "6c0aafd317da433aa709dcd6052ccd34"
+            "key": "developerName",
+            "value": "Ivory Tower"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "the-crew-2/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 2999,
-            "originalPrice": 2999,
+            "discountPrice": 14999,
+            "originalPrice": 14999,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$29.99",
-                "discountPrice": "$29.99",
-                "intermediatePrice": "$29.99"
+                "originalPrice": "R$ 149,99",
+                "discountPrice": "R$ 149,99",
+                "intermediatePrice": "R$ 149,99"
             }
         },
         "lineOffers": [

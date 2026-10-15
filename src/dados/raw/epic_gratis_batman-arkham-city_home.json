@@ -1,21 +1,25 @@
 {
-    "title": "Batman™: Arkham City - Game of the Year Edition",
-    "id": "9602d3adbf28458284215cda7f224b28",
-    "namespace": "epic",
-    "description": "Batman™: Arkham City - Game of the Year Edition",
-    "effectiveDate": "2050-08-01T10:05:00.000Z",
+    "title": "Batman Arkham City: Edição Jogo do Ano",
+    "id": "1d96b05c04804b4e8df4b376e3c1c490",
+    "namespace": "40c34bea9cd0460589c867f6a7246342",
+    "description": "Adquira o Batman: Arkham City e todas as DLCs por um preço baixo com o lançamento da Edição GOTY!",
+    "effectiveDate": "2019-09-26T15:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/undefined/offer/batman_arkham_city-211x147-1cbd73df12315f6e365fece90479e25c.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/batman-arkham-city/EGS_WB_Batman_Arkham_City_G1_1920x1080_19_0911-1920x1080-24a7b872daf28b18cfdac0ae92e656964786a0ce.jpg"
         },
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/undefined/offer/batman_arkham_city_promo-1920x1069-a9df1792f1f418d4269c1e42033c9602.jpg"
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/40c34bea9cd0460589c867f6a7246342/batman_1200x1600-8b0280836af3953ce121cf3761ac7c14"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-city_portrait-1258x1440-c502194fea40db03d838fa0368b67427.jpg"
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/offer/40c34bea9cd0460589c867f6a7246342/batman_2560x1440-9ee43eba3f908221fcb43a0b426cf472"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/40c34bea9cd0460589c867f6a7246342/batman_1200x1600-8b0280836af3953ce121cf3761ac7c14"
         }
     ],
     "seller": {
@@ -23,7 +27,7 @@
         "name": "Warner Bros."
     },
     "productSlug": "batman-arkham-city/home",
-    "urlSlug": "batman-arkham-city-game-of-the-year-edition",
+    "urlSlug": "egretgeneralaudience",
     "url": null,
     "tags": [
         {
@@ -33,62 +37,94 @@
             "id": "1344"
         },
         {
-            "id": "1370"
+            "id": "21122"
+        },
+        {
+            "id": "1188"
         },
         {
             "id": "9547"
         },
         {
+            "id": "21138"
+        },
+        {
+            "id": "21139"
+        },
+        {
+            "id": "21140"
+        },
+        {
+            "id": "21109"
+        },
+        {
+            "id": "21141"
+        },
+        {
+            "id": "1370"
+        },
+        {
             "id": "1084"
+        },
+        {
+            "id": "21149"
+        },
+        {
+            "id": "21119"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "fdf017976cec48d9823344aad4cfd773",
+            "namespace": "40c34bea9cd0460589c867f6a7246342"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "8409"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "40c34bea9cd0460589c867f6a7246342"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "batman-arkham-city/home"
+            "key": "publisherName",
+            "value": "Warner Bros."
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "1d96b05c04804b4e8df4b376e3c1c490"
+            "key": "developerName",
+            "value": "Rocksteady Studios"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "batman-arkham-city/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
-            "originalPrice": 1999,
+            "discountPrice": 3699,
+            "originalPrice": 3699,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "R$ 36,99",
+                "discountPrice": "R$ 36,99",
+                "intermediatePrice": "R$ 36,99"
             }
         },
         "lineOffers": [

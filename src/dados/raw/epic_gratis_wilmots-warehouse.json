@@ -43,12 +43,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/wilmots-warehouse",
+    "_urlPattern": "/pt-BR/productv2/wilmots-warehouse",
     "_slug": "wilmots-warehouse",
     "_activeDate": "2020-07-22T16:30:21.065Z",
     "lastModified": "2020-07-22T18:04:20.193Z",
-    "_locale": "en-US",
-    "_id": "5789de0b-db8f-4ec9-8b52-d4cd927048e1",
+    "_locale": "pt-BR",
+    "_id": "0a569884-c594-442c-acf1-7fb0265faecf",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -107,12 +107,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/wilmots-warehouse/home",
+            "_urlPattern": "/pt-BR/productv2/wilmots-warehouse/home",
             "_slug": "home",
             "_activeDate": "2020-07-22T16:34:53.719Z",
-            "lastModified": "2020-08-03T16:02:24.730Z",
-            "_locale": "en-US",
-            "_id": "1e0cf5ef-ec5d-4354-8f5c-9f5f333826ac",
+            "lastModified": "2020-07-22T18:25:52.013Z",
+            "_locale": "pt-BR",
+            "_id": "d08198ff-49bc-44d8-be3e-9d4ad1763337",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -137,13 +137,13 @@
                     "linkFacebook": "https://www.facebook.com/FinjiCo/",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/finji",
-                    "title": "Follow Wilmot's Warehouse",
+                    "title": "Siga Wilmot's Warehouse",
                     "linkHomepage": "http://www.wilmotswarehouse.com",
                     "linkInstagram": "https://www.instagram.com/finjico/"
                 },
                 "requirements": {
                     "languages": [
-                        "English"
+                        "Inglês"
                     ],
                     "systems": [
                         {
@@ -152,30 +152,30 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7+",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 ou superior",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "AMD Athlon 64 X2 Dual Core 6400+, 3.2GHz, Intel Core2 Duo E8400, 3.0GHz",
+                                    "title": "Processador",
+                                    "minimum": "AMD Athlon 64 X2 Dual Core 6400+, 3,2 GHz, Intel Core2 Duo E8400, 3,0 GHz",
                                     "recommended": "Intel Quad-Core"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1GB",
-                                    "recommended": "2GB"
+                                    "title": "Memória",
+                                    "minimum": "1 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "100MB"
+                                    "title": "Armazenamento",
+                                    "minimum": "100 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "9800 GTX, Radeon HD 5850"
                                 }
                             ]
@@ -186,30 +186,30 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "OS12",
                                     "recommended": "OS14"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2 Duo E8400, 3.0GHz",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core2 Duo E8400, 3,0GHz",
                                     "recommended": "Intel Quad-Core"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "100MB"
+                                    "title": "Armazenamento",
+                                    "minimum": "100 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "9800 GTX, Radeon HD 5850"
                                 }
                             ]
@@ -228,7 +228,7 @@
                     "privacyPolicyLink": {
                         "src": "https://finji.co/games/wilmotswarehouse/",
                         "_type": "Diesel Link",
-                        "title": "Wilmot's Warehouse Privacy Policy"
+                        "title": "Política de Privacidade de Wilmot's Warehouse"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -240,8 +240,8 @@
                     "developerAttribution": "Hollow Ponds, Richard Hogg",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Finji",
-                    "description": "**Wilmot's Warehouse is a puzzle game about keeping a warehouse running in tip-top shape.**\n\n![Wilmots Warehouse Image](https://cdn2.unrealengine.com/egs-wilmotswarehouse-hollowpondsrichardhogg-g2-00-1920x1080-543579380.jpg)\n\nYou play as Wilmot, a hard working warehouse employee tasked with pushing, sorting and stacking a variety of products. Over time more and more truckloads of products will arrive, gradually filling up the warehouse. How you arrange them is entirely up to you - organize by color, type, the Dewey Decimal System, or some wild format that only you understand - it’s all good! Just remember where you put everything, because when the service hatch opens, you'll need to find the things people want quickly, in order to earn the coveted Performance Stars required for all manner of labor-saving upgrades.\n\n![Wilmots Warehouse Image](https://cdn2.unrealengine.com/egs-wilmotswarehouse-hollowpondsrichardhogg-g2-01-1920x1080-543579482.jpg)\n\n# Features\n\n- Unique relaxing gameplay.\n- 500 possible products to stock.\n- All manner of upgrades and perks.\n- Splitscreen 2 player co-op: Work in tandem to organize the warehouse with a friend - Customise your game with Expert Mode for an extra challenge\n- Sublime electronic music to listen to while you decide whether wellington boots belong in the footwear section, or with the umbrellas.\n\n![Wilmots Warehouse Image](https://cdn2.unrealengine.com/egs-wilmotswarehouse-hollowpondsrichardhogg-g2-02-1920x1080-543579415.jpg)\n\n**Please note that 2 player co-op mode requires at least one gamepad.**",
-                    "shortDescription": "Wilmot's Warehouse is a puzzle game about keeping a warehouse running in tip-top shape. Just remember where you put everything, because when the service hatch opens, you'll need to find the things people want quickly, to earn the coveted Performance Stars.",
+                    "description": "**Wilmot's Warehouse é um jogo de quebra-cabeça sobre como manter um armazém funcionando em condições perfeitas.**\n\n![Wilmots Warehouse Image](https://cdn2.unrealengine.com/egs-wilmotswarehouse-hollowpondsrichardhogg-g2-00-1920x1080-543579380.jpg)\n\nVocê joga como Wilmot, um dedicado funcionário do armazém, encarregado de empurrar, classificar e empilhar uma grande variedade de produtos. Com o tempo, mais e mais cargas vão chegando e vão aos poucos enchendo o armazém. O modo como você as organiza cabe inteiramente a você - organize por cor, tipo, sistema decimal de Dewey ou algum formato extravagante que só você entende - vale tudo! Mas lembre-se de onde você colocou tudo, porque quando a escotilha de serviço abrir, você vai ter que encontrar o que as pessoas querem rapidamente para ganhar as cobiçadas Estrelas de Desempenho necessárias para todos os tipos de atualização de economia de mão de obra.\n\n![Wilmots Warehouse Image](https://cdn2.unrealengine.com/egs-wilmotswarehouse-hollowpondsrichardhogg-g2-01-1920x1080-543579482.jpg)\n\n# Características\n\n- Jogo incomparavelmente relaxante.\n- 500 produtos possíveis para estocar.\n- Todo tipo de atualizações e vantagens.\n- Cooperação de 2 jogadores com tela dividida: trabalhe em conjunto para organizar o armazém com um amigo - Personalize o jogo com o modo especialista para ter um desafio extra.\n- Música eletrônica sublime para ouvir enquanto você decide se as botas Wellington pertencem à seção de calçados ou de guarda-chuvas.\n\n![Wilmots Warehouse Image](https://cdn2.unrealengine.com/egs-wilmotswarehouse-hollowpondsrichardhogg-g2-02-1920x1080-543579415.jpg)\n\n**Observe que o modo cooperativo de 2 jogadores requer pelo menos um gamepad.**",
+                    "shortDescription": "Wilmot's Warehouse é um jogo de quebra-cabeça sobre como manter um armazém funcionando em condições perfeitas. Mas lembre-se de onde você colocou tudo, porque quando a escotilha de serviço abrir, você vai ter que encontrar o que as pessoas querem rapidamente para ganhar as cobiçadas Estrelas de Desempenho.",
                     "title": "Wilmot's Warehouse",
                     "developerLogo": {
                         "_type": "Diesel Image"

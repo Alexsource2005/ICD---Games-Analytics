@@ -24,12 +24,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/black-widow-recharged",
+    "_urlPattern": "/pt-BR/productv2/black-widow-recharged",
     "_slug": "black-widow-recharged",
     "_activeDate": "2021-10-04T10:03:16.108Z",
     "lastModified": "2021-10-06T20:22:22.139Z",
-    "_locale": "en-US",
-    "_id": "afff89d1-fd29-4e72-81ec-0c9cb4aac4c2",
+    "_locale": "pt-BR",
+    "_id": "8023076c-1825-497f-9425-cade091dcee5",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -58,12 +58,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/black-widow-recharged/home",
+            "_urlPattern": "/pt-BR/productv2/black-widow-recharged/home",
             "_slug": "home",
             "_activeDate": "2021-10-04T10:04:22.296Z",
-            "lastModified": "2022-10-05T14:56:01.360Z",
-            "_locale": "en-US",
-            "_id": "ce4c87ee-3ad5-496b-8d71-c82f4e0ba292",
+            "lastModified": "2021-10-06T20:22:27.224Z",
+            "_locale": "pt-BR",
+            "_id": "9dfda737-7ac8-4721-8ac2-edcf7ad59027",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -92,8 +92,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, japonês, coreano, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -102,9 +102,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core +",
+                                    "recommended": "Dual Core +"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "4 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB de espaço disponível",
+                                    "recommended": "400 MB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "OSX 10.5+",
+                                    "recommended": "OSX 10.5+"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -115,36 +145,6 @@
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "Memory",
-                                    "minimum": "4GB",
-                                    "recommended": "4GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "400 MB available space",
-                                    "recommended": "400 MB available space"
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS",
-                                    "minimum": "OSX 10.5+",
-                                    "recommended": "OSX 10.5+"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac Processor",
-                                    "minimum": "Dual Core +",
-                                    "recommended": "Dual Core +"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac Memory",
                                     "minimum": "2GB",
                                     "recommended": "2GB"
                                 }
@@ -163,7 +163,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.atari.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Policy Link"
+                        "title": "Link da Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -175,8 +175,8 @@
                     "developerAttribution": "AdamVision, SneakyBox",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Atari",
-                    "description": "# Game Overview\n\nThe original cult classic arachnid-starring, twin-stick shooter returns! Just in time for Halloween, Black Widow: Recharged has been reimagined for modern gameplay, with vibrant visuals, powerful new abilities, and another original soundtrack from award-winning video game composer Megan McDuffee.\n\nAim for a high score in the old school arcade mode and earn bragging rights with your name at the top of the leaderboard. Or test your skills and rank on the boards in one of 30 intensely creative challenges, which twist the gameplay in new and exciting ways. \n\nCollect cash from downed enemies to charge a powerful web blast, or pick up one of a dozen new power-ups including explosive blasts, spread-shots, and fear, trapping all enemies in your web. Every mode and level is playable in local co-op mode with a friend.\n\n# Key Features\n\nOld Meets New: Classic Black Widow gameplay updated for smooth control, and visuals for modern PCs and consoles\n\nCharge and Blast: In addition to a dozen power-ups, cash picked up from downed enemies can now be used to charge a massive web blast to get you out of sticky situations\n\nChallenge: Compete in a series of 30 challenges designed to put even the most seasoned players to the test\n\nCompete: Reach the top of country global leaderboards for arcade and individual challenge modes\n\nBring a Friend: Play local co-op with a friend in every mode .. blast bugs and chase scores together\n\n\nGet in the Groove: Get into the rhythm of a good run to the original score by Megan McDuffee",
-                    "shortDescription": "Defend your spider web from an onslaught of bugs in this frenetic revival of the cult classic twin-stick shooter, all while jamming to an infectious score by Megan McDuffee. Play solo or tag in a friend for local co-op across 30 challenges or the arcade mode.",
+                    "description": "# Visão geral do jogo\n\nO clássico jogo de tiro twin-stick cult e original, estrelado por aracnídeos, está de volta! Bem a tempo para o Halloween, Black Widow: Recharged foi reimaginado para uma jogabilidade modernizada, com visuais vibrantes, novas habilidades poderosas e mais uma trilha sonora original da premiada compositora para videogames Megan McDuffee.\n\nFaça a maior pontuação no modo arcade à moda antiga e se exiba com seu nome no topo da tabela de classificação. Ou teste suas habilidades e dispute pelas maiores classificações em um dos 30 desafios intensamente criativos que renovam o jogo de forma empolgante. \n\nColete dinheiro de inimigos abatidos para lançar uma poderosa explosão de teia ou escolha um dentre uma dúzia de novos itens especiais, incluindo explosões, tiros de propagação e medo, prendendo todos os inimigos em sua teia. Todos os modos e níveis podem ser jogados no modo cooperativo local com um amigo.\n\n# Características principais\n\nUm clássico renovado: a jogabilidade clássica de Black Widow atualizada com controles fluidos e visuais para PCs e consoles modernos\n\nCarregue e exploda: além de uma dúzia de itens especiais, o dinheiro recolhido de inimigos abatidos agora pode ser usado para carregar uma explosão massiva de teia para ajudar você a sair de situações difíceis\n\nDesafio: dispute uma série de 30 desafios projetados para colocar à prova até os jogadores mais experientes\n\nDispute: alcance o topo das tabelas de classificação globais e nacionais nos modos arcade e desafio individual\n\nTraga um amigo: jogue cooperativo local com um amigo em todos os modos. Acabem com os bichos e busquem a maior pontuação juntos\n\n\nCurta a batida: entre no ritmo de uma bela partida com a trilha sonora original de Megan McDuffee",
+                    "shortDescription": "Defenda sua teia de aranha de um ataque de insetos neste frenético relançamento do clássico jogo de tiro twin-stick, tudo isso ouvindo a contagiante trilha sonora composta por Megan McDuffee. Jogue sozinho ou chame um amigo para o cooperativo local em mais de 30 desafios ou o modo arcade.",
                     "title": "Black Widow: Recharged",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -226,7 +226,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Black Widow: Recharged trailer",
+                                "title": "Trailer de Black Widow: Recharged",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true

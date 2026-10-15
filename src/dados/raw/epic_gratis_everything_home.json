@@ -1,25 +1,49 @@
 {
     "title": "Everything",
-    "id": "ca25cd054b29435c8e6e3794a27acbb2",
-    "namespace": "epic",
-    "description": "Everything",
-    "effectiveDate": "2050-08-01T10:05:00.000Z",
+    "id": "11c4b859bfd143d798bf84b8cfe1964f",
+    "namespace": "854ca270c7f04fe483212a35811e9189",
+    "description": "Seja o universo!",
+    "effectiveDate": "2019-09-20T00:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-1802x705-42c0173386db45ca262f22df51684c05.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_CAROUSEL_1-2560x1440-0e44fd03c3063cd4b95964c727335c195b516d32.jpg"
         },
         {
-            "type": "ComingSoon",
-            "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Everything-1200x476-601c1959709ae514658fea4723012316.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_CAROUSEL_2-2560x1440-2cdac2edc7b5670db117292c4195c096dd5ff1e9.jpg"
         },
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_CAROUSEL_3-2560x1440-4d2289ef24c28be99513e7a5306843c9d6240fdc.jpg"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/epic/offer/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b05.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_CAROUSEL_4-2560x1440-499d84ce5f4f179c6ef5631873526f7dbaaea3ba.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_GALLERY_01-2560x1440-c790986b6aae6e95f15b93ab148fbcd8f611f206.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_GALLERY_02-2560x1440-c59d0648bf31b314c7bd6e789230be70661a6cb0.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/everything/home/EGS_DavidOReilly_Everything_GALLERY_03-2560x1440-b19f9a399788226583618b704625ceb3f70124e9.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/854ca270c7f04fe483212a35811e9189/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b052_1200x1600-98ce3084289212576324781cf0804218"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/offer/LandscapeOfferImage-2560x1440-fbe6ae5816611701ac2e9e9f6f69104b.jpg"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/offer/CodeRedemption_Everything-332x440-f88f60ed3aefb7d0501b47cb22c33cbe.jpg"
         }
     ],
     "seller": {
@@ -27,7 +51,7 @@
         "name": "David OReilly"
     },
     "productSlug": "everything/home",
-    "urlSlug": "everything",
+    "urlSlug": "pelicangeneralaudience",
     "url": null,
     "tags": [
         {
@@ -48,51 +72,52 @@
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "6433c8a08ac34eeaa1db2bcd85b00f77",
+            "namespace": "854ca270c7f04fe483212a35811e9189"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "2019"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "854ca270c7f04fe483212a35811e9189"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "everything/home"
+            "key": "developerName",
+            "value": "David OReilly"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "11c4b859bfd143d798bf84b8cfe1964f"
+            "key": "com.epicgames.app.productSlug",
+            "value": "everything/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1499,
-            "originalPrice": 1499,
+            "discountPrice": 2799,
+            "originalPrice": 2799,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "originalPrice": "R$ 27,99",
+                "discountPrice": "R$ 27,99",
+                "intermediatePrice": "R$ 27,99"
             }
         },
         "lineOffers": [

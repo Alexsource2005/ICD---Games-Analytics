@@ -25,12 +25,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/the-last-stand-aftermath",
+    "_urlPattern": "/pt-BR/productv2/the-last-stand-aftermath",
     "_slug": "the-last-stand-aftermath",
     "_activeDate": "2021-11-16T14:55:00.000Z",
     "lastModified": "2021-11-15T22:10:52.729Z",
-    "_locale": "en-US",
-    "_id": "aa69dd19-ca95-4bcc-8b19-86b26ef09edf",
+    "_locale": "pt-BR",
+    "_id": "429d8982-cd17-4f2f-9444-5b2a4b76f1d8",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -60,12 +60,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/the-last-stand-aftermath/home",
+            "_urlPattern": "/pt-BR/productv2/the-last-stand-aftermath/home",
             "_slug": "home",
             "_activeDate": "2021-11-16T14:55:00.000Z",
             "lastModified": "2021-11-15T22:57:18.400Z",
-            "_locale": "en-US",
-            "_id": "802083a8-7fe4-4c24-ab9c-0b6283cdb88e",
+            "_locale": "pt-BR",
+            "_id": "b692c6b0-e7ea-4582-846d-59808c731935",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -93,8 +93,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Spanish - Spain, French, German, Chinese - Simplified, Portuguese - Brazil, Russian"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, espanhol (Espanha), francês, alemão, chinês simplificado, português (Brasil), russo"
                     ],
                     "systems": [
                         {
@@ -103,37 +103,37 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 10",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel i5-10400F",
                                     "recommended": "Intel i7-10700K"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Radeon RX 570",
                                     "recommended": "NVIDIA GTX 1080"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "DirectX 11",
                                     "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "5 GB",
                                     "recommended": "5 GB"
                                 }
@@ -153,7 +153,7 @@
                     "privacyPolicyLink": {
                         "src": "https://armorgamesstudios.com/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -165,8 +165,8 @@
                     "developerAttribution": "Con Artist Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Armor Games Studios",
-                    "description": "![Epic-Flamethrower](https://cdn2.unrealengine.com/egs-thelaststandaftermath-conartistgames-g2-00-700x248-c6023d772a64.jpg)\n\n\n# About This Game\n\nThe latest from veteran developer Con Artist Games, creators of The Last Stand series of games, The Last Stand: Aftermath is an all new, premium singleplayer standalone action adventure rogue-lite. Choose a survivor to set forth and explore the ruins of civilization, finding fuel to travel to new locations and gathering supplies to craft weapons and more.\n\n\n![Epic-Burster](https://cdn2.unrealengine.com/egs-thelaststandaftermath-conartistgames-g2-01-700x248-a5b28be6f0b1.jpg)\n\n\n# It's Dangerous Out There\n\nYou'll need to stay on your toes, since hordes of zombies still roam the streets, and you're no superhuman. In fact, you're one of the infected yourself, and eventually you'll die, be it from the hostile undead or the virus rampaging through your body. But when that happens, you'll pick up the game again as a new survivor, with perks and upgrades earned based on your progress from the last, and set out to try again.\n\n![Epic-GrenadeLauncher](https://cdn2.unrealengine.com/egs-thelaststandaftermath-conartistgames-g2-02-700x248-0b5cd3c170c7.jpg)\n\n# Features\n\n+ Sneak and fight your way through a dangerous post-apocalyptic wasteland\n+ Outwit hordes of rabid infected, some with deadly special abilities\n+ Scavenge for materials to craft into weapons and supplies\n+ Risk undeath by using powerful mutations to make yourself stronger\n+ When one survivor dies, start up again as another, with new unlocks based on progress\n+ A tense and moody, atmospheric zombie experience",
-                    "shortDescription": "From the creators of The Last Stand: Union City comes a new singleplayer rogue-lite action adventure. After you are infected by the zombie virus, set out to explore the apocalypse and find hope for your colony. You can make a difference. Don't give up.",
+                    "description": "![Epic-Flamethrower](https://cdn2.unrealengine.com/egs-thelaststandaftermath-conartistgames-g2-00-700x248-c6023d772a64.jpg)\n\n\n# Sobre este jogo\n\nO mais recente lançamento da desenvolvedora veterana Con Artist Games — criadora da série de jogos The Last Stand — The Last Stand: Aftermath é um jogo de aventura e ação independente premium estilo roguelite para um jogador. Escolha um sobrevivente para explorar as ruínas da civilização, encontrando combustível para viajar para novos locais, coletando suprimentos para criar armas e muito mais.\n\n\n![Epic-Burster](https://cdn2.unrealengine.com/egs-thelaststandaftermath-conartistgames-g2-01-700x248-a5b28be6f0b1.jpg)\n\n\n# É perigoso lá fora\n\nVocê terá que tomar cuidado, pois hordas de zumbis ainda perambulam pelas ruas e você não é nenhum super-humano. Na verdade, você é um dos infectados e acabará morrendo, seja nas mãos de mortos-vivos hostis, seja porque seu corpo sucumbiu ao vírus. Mas, quando isso acontecer, você pode recomeçar como um novo sobrevivente, com as vantagens e melhorias obtidas com base no progresso da última tentativa, para voltar a se aventurar.\n\n![Epic-GrenadeLauncher](https://cdn2.unrealengine.com/egs-thelaststandaftermath-conartistgames-g2-02-700x248-0b5cd3c170c7.jpg)\n\n# Características\n\n+ Esgueire-se e lute numa perigosa e devastada terra pós-apocalíptica\n+ Vença hordas de infectados raivosos, alguns com habilidades especiais letais\n+ Procure materiais para criar armas e suprimentos\n+ Arrisque-se na morte-viva usando mutações poderosas para se fortalecer\n+ Quando um sobrevivente morrer, recomece com outro em novos desbloqueios baseados no seu progresso\n+ Uma experiência atmosférica de jogo de zumbi tensa e envolvente",
+                    "shortDescription": "Dos criadores de The Last Stand: Union City, vem aí um novo jogo de aventura no estilo roguelite para um jogador. Após ser infectado pelo vírus zumbi, saia para explorar o mundo pós-apocalíptico e encontrar esperança para os sobreviventes. Você ainda pode fazer a diferença. Não desista.",
                     "title": "The Last Stand: Aftermath",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -216,7 +216,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "The Last Stand: Aftermath trailer 00",
+                                "title": "Trailer 00 de The Last Stand: Aftermath",
                                 "muted": false,
                                 "autoplay": true
                             }
@@ -232,7 +232,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "The Last Stand: Aftermath trailer 01",
+                                "title": "Trailer 01 de The Last Stand: Aftermath",
                                 "muted": false,
                                 "autoplay": true
                             }

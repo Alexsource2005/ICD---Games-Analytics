@@ -52,14 +52,438 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/aerial-knights-never-yield",
+    "_urlPattern": "/pt-BR/productv2/aerial-knights-never-yield",
     "_slug": "aerial-knights-never-yield",
     "_activeDate": "2024-02-29T15:55:00.000Z",
-    "lastModified": "2024-02-28T18:29:10.047Z",
-    "_locale": "en-US",
-    "_id": "bf0d4a42-c775-4e18-b58d-58eb72049b7a",
+    "lastModified": "2021-05-03T23:47:29.406Z",
+    "_locale": "pt-BR",
+    "_id": "40edd1d4-9402-4478-bb74-b82af50c7dc4",
     "_templateName": "productNamespace",
     "pages": [
+        {
+            "productRatings": {
+                "ratings": [
+                    {
+                        "image": {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6BL-390x450-51b50ff87f9b6c733bf6466111d925c077a8f485.png",
+                            "_type": "Epic Store Image"
+                        },
+                        "countryCodes": "DE",
+                        "_type": "Epic Store Rating",
+                        "title": "6+"
+                    },
+                    {
+                        "image": {
+                            "src": "https://cdn2.unrealengine.com/12-v-210x117-deeace2386fe.png",
+                            "_type": "Epic Store Image"
+                        },
+                        "countryCodes": "KR",
+                        "_type": "Epic Store Rating",
+                        "title": "12세이용가"
+                    }
+                ],
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s2-1200x1600-6ac5697ed7df.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s1-2560x1440-4b57f17dccb9.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-07-1920x1080-e3429c636249.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-00-1920x1080-0b4e3a9da955.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-04-1920x1080-99f9bc507c9c.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-06-1920x1080-b5cab9139607.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryielddeluxeedition-aerial-knight-bundles-s1-2560x1440-9dc9be632ca0.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-03-1920x1080-41289f340971.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-ic1-400x279-e8f5a26229c1.png",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-01-1920x1080-ffa4e9880aa9.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-05-1920x1080-8aa57b3e4e7e.jpg",
+                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-02-1920x1080-8f53360cf910.jpg"
+            ],
+            "productName": "Aerial_Knight's Never Yield",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#9a6f33"
+                }
+            },
+            "namespace": "2ed7ed64d8604265924b85bbd5670220",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/aerial-knights-never-yield/home",
+            "_slug": "home",
+            "_activeDate": "2024-02-29T15:55:00.000Z",
+            "lastModified": "2021-05-10T19:41:14.222Z",
+            "_locale": "pt-BR",
+            "_id": "4e97f822-a172-40b0-b26c-fe458747b953",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "2ed7ed64d8604265924b85bbd5670220",
+                "id": "2fecb1793ce446408cd869611400a797",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://www.aerialknight.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, francês, alemão, japonês, coreano, espanhol (Espanha), chinês tradicional"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows XP SP2",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Single core de 2,6 GHz",
+                                    "recommended": "Dual Core de 3,0 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "1 GB",
+                                    "recommended": "2 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 9.0",
+                                    "recommended": "DirectX 10.0"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 9.0c",
+                                    "recommended": "Série GeForce 8, ATI Radeon HD2xxx"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Headup GmbH, all rights reserved. © 2021 Aerial_Knight",
+                    "privacyPolicyLink": {
+                        "src": "https://www.headupgames.com/imprint.php",
+                        "_type": "Diesel Link",
+                        "title": "Política de privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s2-1200x1600-6ac5697ed7df.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Aerial_Knight",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Headup",
+                    "description": "História\n========\n\nAssuma o papel de Wally. Um personagem misterioso que recuperou o que foi tirado dele. Felizmente, você é rápido o suficiente para escapar de seus inimigos. Exponha a verdade e tente desvendar o mistério do que aconteceu com eles. Com a duração média de um filme de ação \\(cerca de uma hora e meia no modo Normal\\), você pode terminar pela primeira vez esta aventura cheia de ação em uma tarde. Depois disso, você pode melhorar sua pontuação.\n\n![Image 1](https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g2-00-800x373-7e4f9a6bc3c0.jpg)\n\nO jogo\n======\n\nAerial\\_Knight's Never Yield é um side\\-scroller em 3D que funciona muito como uma clássica corrida infinita. O jogo tem uma história interessante, que mantém os jogadores sempre em movimento. Corra, pule, deslize ou saia em disparada para fazer variações acrobáticas que criam combinações de movimentos incríveis e evite os desafios que o aguardam pelo caminho. Aerial\\_Knight's Never Yield é um jogo feito para pessoas que adoram fazer speedrun, mas sem deixar de ser uma experiência agradável para jogadores casuais.\n\n![Image 2](https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g2-01-800x373-bac099682d8f.jpg)\n\nTrilha Sonora\n=============\n\nEsta trilha sonora de Aerial\\_Knight's Never Yield é fruto do trabalho de \"Danime\\-Sama\", um artista de Detroit que usou vocais de artistas do mundo inteiro neste projeto.\n\n![Image 3](https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g2-02-800x373-097975a2d187.jpg)\n\nObservação do desenvolvedor\n===========================\n\nEste é um projeto que comecei sozinho por paixão para criar algo familiar, porém novo, para esta geração de jogadores, destacando aspectos de uma cultura que muitas vezes é esquecida. Espero sinceramente que vocês gostem do jogo assim que for lançado e acompanhem minha jornada na criação de mais jogos novos e interessantes.\n\n* Aerial\\_Knight\n\n",
+                    "shortDescription": "Assuma o papel de Wally. Um personagem misterioso que recuperou o que foi tirado dele. Felizmente, você é rápido o suficiente para escapar de seus inimigos.  Corra, pule, deslize ou saia em disparada para fazer variações acrobáticas que criam combinações de movimentos incríveis e evite os desafios que o aguardam pelo caminho.",
+                    "title": "",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "namespace": "",
+                    "link": {
+                        "src": "https://store.epicgames.com/p/aerial_knights-we-never-yield-0bdea5",
+                        "_type": "Diesel Link",
+                        "title": "Confira agora!"
+                    },
+                    "description": "Adicione a sequência à sua lista de desejos!",
+                    "offerId": "",
+                    "title": "Aerial_Knight's We Never Yield"
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-ic1-400x279-e8f5a26229c1.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s2-1200x1600-6ac5697ed7df.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s1-2560x1440-4b57f17dccb9.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s1-2560x1440-4b57f17dccb9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8b0c5d586b4c41139a7bb9d43bec31a1/8b0c5d586b4c41139a7bb9d43bec31a1.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-00-1920x1080-642fb7b9100c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"64981df55c314ad78039be819b6158ba\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/107b4304ebb343ff821c7ec6d1d0004e/107b4304ebb343ff821c7ec6d1d0004e.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-00-1920x1080-642fb7b9100c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"c32e787f10b64ee3bfe1373b5aedce87\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/5e02ded94f8a43b9bf3e17fab300e471/5e02ded94f8a43b9bf3e17fab300e471.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-00-1920x1080-642fb7b9100c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"af9ff32e71814d31b8016f2a0acde096\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": true,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/3853b187238d4fb1ba673a1172e9e80b/3853b187238d4fb1ba673a1172e9e80b.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-01-1920x1080-fc969bd43064.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"47972bf277b34c5fa5a4b2b78b134ad7\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/e06aa118f1e747ad81a464648b365b07/e06aa118f1e747ad81a464648b365b07.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-01-1920x1080-fc969bd43064.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"1a7e95aa35ad4902a070af1f45734f9d\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/841d290e47d14d7cb7c7f8536c05dfec/841d290e47d14d7cb7c7f8536c05dfec.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-01-1920x1080-fc969bd43064.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"8f622657265e4d208b9c77a3fdc7426e\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": true,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-00-1920x1080-0b4e3a9da955.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "2ed7ed64d8604265924b85bbd5670220",
+                            "description": "Assuma o papel de Wally. Um personagem misterioso que recuperou o que foi tirado dele. Felizmente, você é rápido o suficiente para escapar de seus inimigos. \n\nCorra, pule, deslize ou saia em disparada para fazer variações acrobáticas que criam combinações de movimentos incríveis e evite os desafios que o aguardam pelo caminho.",
+                            "offerId": "2fecb1793ce446408cd869611400a797",
+                            "tag": "edition",
+                            "title": "Aerial_Knight's Never Yield",
+                            "slug": "p/aerial-knights-never-yield"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryielddeluxeedition-aerial-knight-bundles-s1-2560x1440-9dc9be632ca0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "2ed7ed64d8604265924b85bbd5670220",
+                            "description": "Aerial_Knight's Never Yield + Trilha Sonora\n\nAssuma o papel de Wally. Um personagem misterioso que recuperou o que foi tirado dele. Felizmente, você é rápido o suficiente para escapar de seus inimigos. Exponha a verdade e tente desvendar o mistério do que aconteceu com eles.",
+                            "offerId": "3c2049380f8f4fe2bf7af888f1113d92",
+                            "tag": "edition",
+                            "title": "Aerial_Knight's Never Yield - Deluxe Edition",
+                            "slug": "p/aerial-knights-never-yield--deluxe-edition"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-05-19T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "ARCADE",
+                        "INDIE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "BANNER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-01-1920x1080-ffa4e9880aa9.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-02-1920x1080-8f53360cf910.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-03-1920x1080-41289f340971.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-04-1920x1080-99f9bc507c9c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-05-1920x1080-8aa57b3e4e7e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-06-1920x1080-b5cab9139607.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-07-1920x1080-e3429c636249.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "Aerial_Knight's Never Yield"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome"
+        },
         {
             "productRatings": {
                 "ratings": [
@@ -116,13 +540,23 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/aerial-knights-never-yield/deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/aerial-knights-never-yield/deluxe-edition",
             "_slug": "deluxe-edition",
             "_activeDate": "2024-02-29T15:55:00.000Z",
-            "lastModified": "2024-02-28T18:29:27.860Z",
-            "_locale": "en-US",
-            "_id": "45671390-e152-43d3-a202-478a8c0d2a6c",
+            "lastModified": "2021-05-12T14:38:34.113Z",
+            "_locale": "pt-BR",
+            "_id": "bf59d34f-d650-49ce-90aa-da016a6fd014",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "2ed7ed64d8604265924b85bbd5670220",
+                "id": "3c2049380f8f4fe2bf7af888f1113d92",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -133,11 +567,11 @@
                 },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
-                    "linkHomepage": "https://www.epicgames.com/store/en-US/p/aerial_knights_never_yield_deluxe_edition"
+                    "linkHomepage": "https://www.epicgames.com/store/pt-BR/p/aerial_knights_never_yield_deluxe_edition"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, French, German, Japanese, Korean, Spanish - Spain, Chinese - Traditional"
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, francês, alemão, japonês, coreano, espanhol (Espanha), chinês tradicional"
                     ],
                     "systems": [
                         {
@@ -146,39 +580,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows XP SP2",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.6 GHz single core",
-                                    "recommended": "3.0 GHz dual core"
+                                    "title": "Processador",
+                                    "minimum": "Single core de 2,6 GHz",
+                                    "recommended": "Dual Core de 3,0 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "1 GB",
-                                    "recommended": "2 GB"
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2 GB",
-                                    "recommended": "2 GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "DirectX 9.0",
                                     "recommended": "DirectX 10.0"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DirectX 9.0c compatible graphics card",
-                                    "recommended": "GeForce 8 series, ATI Radeon HD2xxx"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 9.0c",
+                                    "recommended": "Série GeForce 8, ATI Radeon HD2xxx"
                                 }
                             ]
                         }
@@ -196,7 +630,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.headupgames.com/imprint.php",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -208,8 +642,8 @@
                     "developerAttribution": "Aerial_Knight",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Headup",
-                    "description": "Aerial_Knight's Never Yield + Soundtrack\n\nTake the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies. Expose the truth and try to uncover the mystery of what happened to them.",
-                    "shortDescription": "Aerial_Knight's Never Yield + Soundtrack: Take the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies. Expose the truth and try to uncover the mystery of what happened to them.",
+                    "description": "Aerial\\_Knight's Never Yield \\+ Trilha Sonora\n\nAssuma o papel de Wally. Um personagem misterioso que recuperou o que foi tirado dele. Felizmente, você é rápido o suficiente para escapar de seus inimigos. Exponha a verdade e tente desvendar o mistério do que aconteceu com eles.\n\n",
+                    "shortDescription": "Aerial_Knight's Never Yield + Trilha Sonora: assuma o papel de Wally. Um personagem misterioso que recuperou o que foi tirado dele. Felizmente, você é rápido o suficiente para escapar de seus inimigos. Exponha a verdade e tente desvendar o mistério do que aconteceu com eles.",
                     "title": "Aerial_Knight's Never Yield - Deluxe Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -222,9 +656,9 @@
                     "link": {
                         "src": "https://store.epicgames.com/p/aerial_knights-we-never-yield-0bdea5",
                         "_type": "Diesel Link",
-                        "title": "Check it out now!"
+                        "title": "Confira agora!"
                     },
-                    "description": "Be sure to wishlist the upcoming sequel!",
+                    "description": "Adicione a sequência à sua lista de desejos!",
                     "offerId": "",
                     "title": "Aerial_Knight's We Never Yield"
                 },
@@ -269,9 +703,6 @@
                             }
                         }
                     ]
-                },
-                "experiences": {
-                    "_type": "Epic Store Experience"
                 },
                 "editions": {
                     "_type": "Epic Store Editions",
@@ -353,451 +784,12 @@
                 },
                 "navTitle": "Deluxe Edition"
             },
-            "overwriteMapping": false,
-            "type": "offer",
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "2ed7ed64d8604265924b85bbd5670220",
-                "id": "3c2049380f8f4fe2bf7af888f1113d92",
-                "type": "edition",
-                "hasOffer": true
-            },
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
             },
-            "tag": "edition"
-        },
-        {
-            "productRatings": {
-                "ratings": [
-                    {
-                        "image": {
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6BL-390x450-51b50ff87f9b6c733bf6466111d925c077a8f485.png",
-                            "_type": "Epic Store Image"
-                        },
-                        "countryCodes": "DE",
-                        "_type": "Epic Store Rating",
-                        "title": "6+"
-                    },
-                    {
-                        "image": {
-                            "src": "https://cdn2.unrealengine.com/12-v-210x117-deeace2386fe.png",
-                            "_type": "Epic Store Image"
-                        },
-                        "countryCodes": "KR",
-                        "_type": "Epic Store Rating",
-                        "title": "12세이용가"
-                    }
-                ],
-                "_type": "Epic Store Product Ratings"
-            },
-            "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
-            "_title": "home",
-            "regionBlock": "",
-            "_noIndex": false,
-            "_images_": [
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s2-1200x1600-6ac5697ed7df.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s1-2560x1440-4b57f17dccb9.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-07-1920x1080-e3429c636249.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-00-1920x1080-0b4e3a9da955.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-04-1920x1080-99f9bc507c9c.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-06-1920x1080-b5cab9139607.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryielddeluxeedition-aerial-knight-bundles-s1-2560x1440-9dc9be632ca0.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-03-1920x1080-41289f340971.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-ic1-400x279-e8f5a26229c1.png",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-01-1920x1080-ffa4e9880aa9.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-05-1920x1080-8aa57b3e4e7e.jpg",
-                "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-02-1920x1080-8f53360cf910.jpg"
-            ],
-            "productName": "Aerial_Knight's Never Yield",
-            "pageTheme": {
-                "preferredMode": "dark",
-                "light": {
-                    "_type": "Epic Store Page Theme Selection"
-                },
-                "_type": "Epic Store Page Theme",
-                "dark": {
-                    "_type": "Epic Store Page Theme Selection",
-                    "theme": "epic",
-                    "accent": "#9a6f33"
-                }
-            },
-            "namespace": "2ed7ed64d8604265924b85bbd5670220",
-            "theme": {
-                "_type": "Diesel Theme"
-            },
-            "reviewOptOut": false,
-            "externalNavLinks": {
-                "_type": "Epic Store Links"
-            },
-            "_urlPattern": "/productv2/aerial-knights-never-yield/home",
-            "_slug": "home",
-            "_activeDate": "2024-02-29T15:55:00.000Z",
-            "lastModified": "2024-02-28T18:29:41.121Z",
-            "_locale": "en-US",
-            "_id": "f07ac671-740d-439f-bb3c-d9ddbd0baf23",
-            "_templateName": "productDetail",
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "2ed7ed64d8604265924b85bbd5670220",
-                "id": "2fecb1793ce446408cd869611400a797",
-                "hasOffer": true
-            },
-            "item": {
-                "_type": "Diesel Product Item",
-                "hasItem": false
-            },
-            "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "_type": "Diesel Social Links",
-                    "linkHomepage": "https://www.aerialknight.com/"
-                },
-                "requirements": {
-                    "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, French, German, Japanese, Korean, Spanish - Spain, Chinese - Traditional"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows XP SP2",
-                                    "recommended": "Windows 10"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.6 GHz single core",
-                                    "recommended": "3.0 GHz dual core"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1 GB",
-                                    "recommended": "2 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2 GB",
-                                    "recommended": "2 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "DirectX 9.0",
-                                    "recommended": "DirectX 10.0"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DirectX 9.0c compatible graphics card",
-                                    "recommended": "GeForce 8 series, ATI Radeon HD2xxx"
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "NO_REQUIREMENTS",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
-                },
-                "navOrder": 1,
-                "footer": {
-                    "_type": "Diesel Product Footer",
-                    "copy": "© 2021 Headup GmbH, all rights reserved. © 2021 Aerial_Knight",
-                    "privacyPolicyLink": {
-                        "src": "https://www.headupgames.com/imprint.php",
-                        "_type": "Diesel Link",
-                        "title": "Privacy Policy"
-                    }
-                },
-                "_type": "Diesel Product Detail",
-                "about": {
-                    "image": {
-                        "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s2-1200x1600-6ac5697ed7df.jpg",
-                        "_type": "Diesel Image"
-                    },
-                    "developerAttribution": "Aerial_Knight",
-                    "_type": "Diesel Product About",
-                    "publisherAttribution": "Headup",
-                    "description": "# Story\n\nTake the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies. Expose the truth and try to uncover the mystery of what happened to them. With an average runtime of an action movie (about an hour and a half on Normal), a first run of this action-packed adventure can be enjoyed in an afternoon. Afterwards you can improve your score.\n\n![Image 1](https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g2-00-800x373-7e4f9a6bc3c0.jpg)\n\n# Gameplay\n\nAerial_Knight's Never Yield is a 3D side-scroller that plays much like a classic endless runner. The game has an interesting story that keeps players always in motion. Run, Jump, Slide or \"Dash\" for acrobatic variants leading to dope combinations and avoid the challenges that await. Aerial_Knight's Never Yield is being built for players who love to speedrun games while being an experience that casual players will enjoy as well. \n\n![Image 2](https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g2-01-800x373-bac099682d8f.jpg)\n\n# Soundtrack\n\nThis Soundtrack for Aerial_Knight's Never Yield is being done by \"Danime-Sama\" A Detroit artist with vocals from artists from all over the world.\n\n![Image 3](https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g2-02-800x373-097975a2d187.jpg)\n\n# Note from the dev\n\nThis project began as just a passion project I started on my own to create something familiar but new for this generation of gamers while highlighting aspects of a culture that is often overlooked. I really hope you enjoy the game once it's released and follow my journey to create new and interesting games\n\n- Aerial_Knight",
-                    "shortDescription": "Take the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies.  Run, Jump, Slide or Dash for acrobatic variants leading to dope combinations and avoid the challenges that await.",
-                    "title": "",
-                    "developerLogo": {
-                        "_type": "Diesel Image"
-                    }
-                },
-                "banner": {
-                    "showPromotion": false,
-                    "_type": "Epic Store Product Banner",
-                    "namespace": "",
-                    "link": {
-                        "src": "https://store.epicgames.com/p/aerial_knights-we-never-yield-0bdea5",
-                        "_type": "Diesel Link",
-                        "title": "Check it out now!"
-                    },
-                    "description": "Be sure to wishlist the upcoming sequel!",
-                    "offerId": "",
-                    "title": "Aerial_Knight's We Never Yield"
-                },
-                "hero": {
-                    "logoImage": {
-                        "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-ic1-400x279-e8f5a26229c1.png",
-                        "_type": "Diesel Image"
-                    },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s2-1200x1600-6ac5697ed7df.jpg",
-                    "_type": "Diesel Hero",
-                    "action": {
-                        "_type": "Diesel Action"
-                    },
-                    "video": {
-                        "loop": false,
-                        "_type": "Diesel Video",
-                        "hasFullScreen": false,
-                        "hasControls": false,
-                        "muted": false,
-                        "autoplay": false
-                    },
-                    "isFullBleed": false,
-                    "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s1-2560x1440-4b57f17dccb9.jpg"
-                },
-                "carousel": {
-                    "_type": "Diesel Carousel",
-                    "items": [
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-s1-2560x1440-4b57f17dccb9.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8b0c5d586b4c41139a7bb9d43bec31a1/8b0c5d586b4c41139a7bb9d43bec31a1.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-00-1920x1080-642fb7b9100c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"64981df55c314ad78039be819b6158ba\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/107b4304ebb343ff821c7ec6d1d0004e/107b4304ebb343ff821c7ec6d1d0004e.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-00-1920x1080-642fb7b9100c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"c32e787f10b64ee3bfe1373b5aedce87\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/5e02ded94f8a43b9bf3e17fab300e471/5e02ded94f8a43b9bf3e17fab300e471.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-00-1920x1080-642fb7b9100c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"af9ff32e71814d31b8016f2a0acde096\"\n    }\n  ]\n}",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": true,
-                                "hasControls": true,
-                                "type": "epicHosted",
-                                "muted": true,
-                                "autoplay": true
-                            }
-                        },
-                        {
-                            "image": {
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/3853b187238d4fb1ba673a1172e9e80b/3853b187238d4fb1ba673a1172e9e80b.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-01-1920x1080-fc969bd43064.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"47972bf277b34c5fa5a4b2b78b134ad7\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/e06aa118f1e747ad81a464648b365b07/e06aa118f1e747ad81a464648b365b07.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-01-1920x1080-fc969bd43064.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"1a7e95aa35ad4902a070af1f45734f9d\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/841d290e47d14d7cb7c7f8536c05dfec/841d290e47d14d7cb7c7f8536c05dfec.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1c-01-1920x1080-fc969bd43064.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"8f622657265e4d208b9c77a3fdc7426e\"\n    }\n  ]\n}",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": true,
-                                "hasControls": true,
-                                "type": "epicHosted",
-                                "muted": true,
-                                "autoplay": true
-                            }
-                        }
-                    ]
-                },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
-                "editions": {
-                    "editions": [
-                        {
-                            "regionRestrictions": {
-                                "_type": "Store Region Filtering"
-                            },
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-00-1920x1080-0b4e3a9da955.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Product Edition",
-                            "namespace": "2ed7ed64d8604265924b85bbd5670220",
-                            "description": "Take the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies. \n\nRun, Jump, Slide or Dash for acrobatic variants leading to dope combinations and avoid the challenges that await.",
-                            "offerId": "2fecb1793ce446408cd869611400a797",
-                            "tag": "edition",
-                            "title": "Aerial_Knight's Never Yield",
-                            "slug": "p/aerial-knights-never-yield"
-                        },
-                        {
-                            "regionRestrictions": {
-                                "_type": "Store Region Filtering"
-                            },
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryielddeluxeedition-aerial-knight-bundles-s1-2560x1440-9dc9be632ca0.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Product Edition",
-                            "namespace": "2ed7ed64d8604265924b85bbd5670220",
-                            "description": "Aerial_Knight's Never Yield + Soundtrack\n\nTake the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies. Expose the truth and try to uncover the mystery of what happened to them.",
-                            "offerId": "3c2049380f8f4fe2bf7af888f1113d92",
-                            "tag": "edition",
-                            "title": "Aerial_Knight's Never Yield - Deluxe Edition",
-                            "slug": "p/aerial-knights-never-yield--deluxe-edition"
-                        }
-                    ],
-                    "_type": "Epic Store Editions",
-                    "enableImages": false
-                },
-                "meta": {
-                    "releaseDate": "2021-05-19T15:00:00.000Z",
-                    "_type": "Epic Store Meta",
-                    "logo": {
-                        "_type": "Epic Store Image"
-                    },
-                    "platform": [
-                        "Windows"
-                    ],
-                    "tags": [
-                        "ACTION",
-                        "ARCADE",
-                        "INDIE"
-                    ]
-                },
-                "markdown": {
-                    "_type": "Epic Store Markdown"
-                },
-                "dlc": {
-                    "contingentOffer": {
-                        "regionRestrictions": {
-                            "_type": "Store Region Filtering"
-                        },
-                        "_type": "Diesel Offer",
-                        "hasOffer": false
-                    },
-                    "_type": "Epic Store DLC",
-                    "enableImages": false
-                },
-                "seo": {
-                    "image": {
-                        "_type": "Epic Store Image"
-                    },
-                    "twitter": {
-                        "_type": "SEO Twitter Metadata"
-                    },
-                    "_type": "Epic Store Product SEO",
-                    "og": {
-                        "_type": "SEO OG Metadata"
-                    }
-                },
-                "productSections": [
-                    {
-                        "productSection": "BANNER",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "GALLERY",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "EDITIONS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "SOCIAL_LINKS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "REQUIREMENTS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "HERO",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "FOOTER",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "CAROUSEL",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "ABOUT",
-                        "_type": "Diesel Product Section"
-                    }
-                ],
-                "gallery": {
-                    "_type": "Diesel Gallery",
-                    "galleryImages": [
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-01-1920x1080-ffa4e9880aa9.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 1
-                        },
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-02-1920x1080-8f53360cf910.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 2
-                        },
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-03-1920x1080-41289f340971.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 2
-                        },
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-04-1920x1080-99f9bc507c9c.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 3
-                        },
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-05-1920x1080-8aa57b3e4e7e.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 4
-                        },
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-06-1920x1080-b5cab9139607.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 4
-                        },
-                        {
-                            "src": "https://cdn2.unrealengine.com/egs-aerial-knightsneveryield-aerial-knight-g1a-07-1920x1080-e3429c636249.jpg",
-                            "_type": "Diesel Gallery Image",
-                            "row": 5
-                        }
-                    ]
-                },
-                "navTitle": "Aerial_Knight's Never Yield"
-            },
-            "overwriteMapping": false,
-            "ageGate": {
-                "hasAgeGate": false,
-                "_type": "Epic Store Age Gate"
-            },
-            "type": "productHome"
+            "tag": "edition",
+            "type": "offer"
         }
     ],
     "data_aquisicao_gratis": "29/02 a 07/03/24"

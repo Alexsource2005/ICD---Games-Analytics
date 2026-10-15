@@ -25,12 +25,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/ring-of-pain",
+    "_urlPattern": "/pt-BR/productv2/ring-of-pain",
     "_slug": "ring-of-pain",
     "_activeDate": "2022-06-14T18:31:39.598Z",
-    "lastModified": "2022-08-23T17:48:41.542Z",
-    "_locale": "en-US",
-    "_id": "d82abf67-e355-4da3-a3c3-d324b7ef21a8",
+    "lastModified": "2022-06-14T18:39:58.981Z",
+    "_locale": "pt-BR",
+    "_id": "4ae423c1-fcce-473c-a93e-3d290cdb0703",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -60,12 +60,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/ring-of-pain/home",
+            "_urlPattern": "/pt-BR/productv2/ring-of-pain/home",
             "_slug": "home",
             "_activeDate": "2022-06-14T18:35:21.875Z",
-            "lastModified": "2022-08-17T19:52:22.021Z",
-            "_locale": "en-US",
-            "_id": "d3f66927-6b1f-4e92-b5a9-de3cdf041d52",
+            "lastModified": "2022-08-15T19:44:35.250Z",
+            "_locale": "pt-BR",
+            "_id": "6315edbb-8bd8-4efc-936e-2277407c195e",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -93,8 +93,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Spanish - Spain, Japanese, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Polish, Portuguese - Brazil, Russian"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, espanhol (Espanha), japonês, chinês simplificado, chinês tradicional, francês, alemão, coreano, polonês, português (Brasil), russo"
                     ],
                     "systems": [
                         {
@@ -103,26 +103,26 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 8",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "2 GHz",
                                     "recommended": "2 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB",
-                                    "recommended": "4GB"
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "OpenGL 2.0 compatible with 512 MB RAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com OpenGL 2.0 com 512 MB de RAM"
                                 }
                             ]
                         }
@@ -140,7 +140,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.humblebundle.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -152,8 +152,8 @@
                     "developerAttribution": "Simon Boxer, Twice Different",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Humble Games",
-                    "description": "Delve into randomly generated ring dungeons where encounters come to you! Observe and plan your route. Will you go for the loot or backstab a creeping horror? As you scavenge, fight and sneak to new encounters, the ring reacts to your actions.\n\nPlay as fast or slow as you like in this challenging, turn-based roguelike. Just be careful where you tread - You may find yourself ambushed, or worse...\n\nSee the outcome of your choices so you can focus on decisions. \nCreatures broadcast their actions in a hostile environment, ready to erupt. Will you flee or find a way to use the dungeon against itself? \nPositioning is key to survival. You can be quickly overwhelmed...\n\nObserve the Ring and strategise.\nLearn, adapt, or face demise.\n\nMimics offer you a choice for a price. Take what you can hold and build a combination of gear with passive powers. \nMaybe you’ll be quick and evasive, with an acid soaked blade. Or maybe you’ll be a brute force juggernaut, or a fireborn damage sink with an affinity for explosions. \nBuy your way to power or adapt with what you scavenge in these unforgiving depths.\n\nDeep in the Ring of Pain you will discover new paths into the unknown. Places with new friends, powerful loot, and cryptic rhyming lore.\nFind pleasant reprieve and howling terrors best left undisturbed.\nThe brave may be rewarded for their risk... or crushed by their ambition. \n\nIn darkness, careful where you tread.\nWhat was unknown now fills with dread.\n\nFeatures:\n- 16 Core path dungeons plus 2 branching endings to test your final build.\n- Medium and Hard modes to unlock for those who thrive on pain.\n- A Daily Dungeon mode to unlock with 40+ puzzling modifiers.\n- 25+ Special dungeons to detour through, filled with loot and strange encounters.\n- 4 Environment regions with their own flavour of terror.\n- 300+ items to unlock and combine in a 15 slot inventory.\n- 50+ Creatures to learn and adapt to. Some friendly, some fierce...\n- Responsive turn-based mechanics so you can play swiftly or strategically.\n- Cryptic, poetic lore delivered in bite sized rhymes.\n- A raw graphic art style inspired by Aphantasia.\n- Cute frog friends.\n\nShadows cast a truth to see,\nIn darkness you can visit me.",
-                    "shortDescription": "Enter the Ring of Pain, a roguelike card crawler where encounters come to you. Each step around the ring a dire decision. Go for the loot or backstab a creeping horror? Choose your gear wisely to survive and discover the secrets of the Ring of Pain.",
+                    "description": "Mergulhe nos anéis de masmorras geradas aleatoriamente, nas quais os perigos vêm ao seu encontro! Observe e planeje a sua rota. Você vai pegar o espólio ou apunhalar um terror rastejante? O anel reage às suas ações enquanto você recupera itens, luta e se esgueira para realizar novos encontros.\n\nJogue na velocidade que quiser neste roguelike desafiador de turnos. Só tome cuidado onde pisa: você pode acabar sofrendo uma emboscada, ou pior...\n\nVeja o resultado das suas escolhas para poder se concentrar nas suas decisões! \nAs criaturas mostram quais ações tomarão em um mundo hostil, prontas para explodir. Você vai fugir ou vai procurar uma maneira de usar a masmorra contra ela mesma? \nO posicionamento é essencial para a sobrevivência. Você pode ser rapidamente subjugado...\n\nObserve o anel, comece a planejar.\nAprenda e adapte-se ou vai fracassar.\n\nOs imitadores oferecem escolha por um preço. Pegue tudo o que conseguir e construa uma combinação de equipamentos com poderes passivos. \nTalvez você lutará com rapidez e se esquivará bem usando uma espada cheia veneno. Ou talvez será um brutamontes colossal, ou um ser com afinidade por explosões capaz de absorver dano por fogo. \nConquiste o poder fazendo aquisições ou adapte-se com o que você encontrar nestas profundezas implacáveis.\n\nNas profundezas do Ring of Pain, você descobrirá novos caminhos que levam ao desconhecido. Lugares com novos amigos, espólios poderosos e rimas enigmáticas.\nEncontre desafogos agradáveis e monstros uivantes com os quais é melhor não se meter.\nOs corajosos podem ser recompensados por se arriscarem... ou destruídos pela ambição. \n\nNa escuridão, cuidado por onde anda.\nNo que era desconhecido, agora o medo é que manda.\n\nCaracterísticas:\n- 16 masmorras principais, além de 2 finais alternativos para testar sua versão final.\n- Aqueles que adoram grandes desafios vão querer desbloquear os modos médio e difícil.\n- O modo Masmorra Diária, que também pode ser desbloqueado, conta com mais de 40 modificadores enigmáticos.\n- Explore mais de 25 masmorras especiais, todas repletas de espólios e encontros estranhos.\n- 4 regiões com seu próprio toque de terror.\n- Mais de 300 itens para desbloquear e combinar num inventário com 15 espaços.\n- Aprenda e adapte-se a mais de 50 criaturas. Algumas são amigáveis, outras, ferozes...\n- Mecânica de turnos que se adapta para que você possa jogar de forma rápida ou estratégica.\n- História poética e enigmática, contada por meio de rimas curtas.\n- Gráficos com estilo inspirado por afantasia.\n- Faça amizade com sapos bonitinhos.\n\nDas sombras, uma verdade se revela,\nEspero por você em meio às trevas.",
+                    "shortDescription": "Entre no Ring of Pain, um jogo de cartas estilo roguelike em que os perigos vêm ao seu encontro. Cada passo em torno do anel é uma decisão complicada. Será que é melhor pegar o espólio ou apunhalar um horror rastejante? Escolha com prudência seu equipamento para sobreviver e descubra os segredos do Ring of Pain.",
                     "title": "Ring of Pain",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -422,7 +422,7 @@
                     "developer": [
                         "Simon Boxer, Twice Different"
                     ],
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows"
                     ],

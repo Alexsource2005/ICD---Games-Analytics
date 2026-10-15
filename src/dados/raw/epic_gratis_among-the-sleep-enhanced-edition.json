@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/among-the-sleep-enhanced-edition",
+    "_urlPattern": "/pt-BR/productv2/among-the-sleep-enhanced-edition",
     "_slug": "among-the-sleep-enhanced-edition",
     "_activeDate": "2021-10-05T08:20:39.262Z",
     "lastModified": "2021-10-13T16:05:59.595Z",
-    "_locale": "en-US",
-    "_id": "a20ebdff-b586-479e-9e42-67eb1917d003",
+    "_locale": "pt-BR",
+    "_id": "c6632e1c-9640-4d97-93e4-8e85c365a306",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/among-the-sleep-enhanced-edition/home",
+            "_urlPattern": "/pt-BR/productv2/among-the-sleep-enhanced-edition/home",
             "_slug": "home",
             "_activeDate": "2021-10-05T08:22:57.005Z",
             "lastModified": "2021-10-13T16:06:06.817Z",
-            "_locale": "en-US",
-            "_id": "6e152082-bef8-4125-95d0-c69bbb684a9f",
+            "_locale": "pt-BR",
+            "_id": "21601364-e5ec-4848-b8de-a93fc247de15",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -101,8 +101,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, Norwegian",
-                        "TEXT: Arabic, English, Chinese - Simplified, Chinese - Traditional, Czech, Dutch, French, German, Hungarian, Italian, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Spanish - Spain, Turkish, Ukrainian"
+                        "ÁUDIO: inglês, norueguês",
+                        "TEXTO: árabe, inglês, chinês simplificado, chinês tradicional, tcheco, holandês, francês, alemão, húngaro, italiano, japonês, norueguês, polonês, português (Brasil), russo, espanhol (Espanha), turco, ucraniano"
                     ],
                     "systems": [
                         {
@@ -111,39 +111,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "WindowsXP SP2 or higher",
-                                    "recommended": "Windows 7 or higher"
+                                    "title": "Sistema operacional",
+                                    "minimum": "WindowsXP SP2 ou superior",
+                                    "recommended": "Windows 7 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "Processor",
-                                    "minimum": "Dual core 2.4GHz",
-                                    "recommended": "Quadcore 2.5GHz"
+                                    "minimum": "Dual Core de 2,4 GHz",
+                                    "recommended": "Quad Core de 2,5 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "2048 MB",
                                     "recommended": "4096 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "9.0",
                                     "recommended": "9.0c"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Video card with 512MB of VRAM",
-                                    "recommended": "Video card with 1024MB of VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo com 512 MB de VRAM",
+                                    "recommended": "Placa de vídeo com 1024 MB de VRAM"
                                 }
                             ]
                         },
@@ -153,33 +153,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "MAC OS X v10.6 Snow Leopard or higher",
-                                    "recommended": "MAC OS X v10.6 Snow Leopard or higher"
+                                    "title": "Sistema operacional",
+                                    "minimum": "macOS X v10.6 Snow Leopard ou superior",
+                                    "recommended": "macOS X v10.6 Snow Leopard ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "Processor",
-                                    "minimum": "Dual core 2.4GHz",
-                                    "recommended": "Dual core 2.5GHz"
+                                    "minimum": "Dual Core de 2,4 GHz",
+                                    "recommended": "Dual Core de 2,5 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "2048 MB",
                                     "recommended": "4096 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Video card with 512MB of VRAM",
-                                    "recommended": "Video card with 1024MB of VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo com 512 MB de VRAM",
+                                    "recommended": "Placa de vídeo com 1024 MB de VRAM"
                                 }
                             ]
                         }
@@ -197,7 +197,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.krillbite.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -209,8 +209,8 @@
                     "developerAttribution": "Krillbite Studio AS",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Krillbite Studio AS",
-                    "description": "Among the Sleep is a first person horror adventure, in which you play a two year old child. After waking up in the middle of the night to mysterious sounds, you start exploring the dark looking for comfort.\n\nThe game explores horror through atmosphere and exploration, not with scores and combat systems. In Among the Sleep you’re vulnerable, scared, and trying to make sense of the world.\n\nController support: Works 100% with Xbox 360 controllers, might have some issues with Xbox One controllers. We are sorry about the inconvience.\n\n# What people are saying:\n\n- _\"More, please!\" _\n [Kotaku](http://kotaku.com/5914081/a-horror-game-in-which-you-play-as-a-two-year-old)\n\n- _\"... it more than succeeds in creating a wonderfully eerie atmosphere full of childlike anxiety, and along the way tackles a serious subject in a darkly poignant manner.\"_\n[IGN][http://www.ign.com/articles/2014/06/05/among-the-sleep-review/]\n\n- _\"Its depiction of a first-person horror told through the eyes and stumbling little legs of a two-year old is as intriguing as anything I've seen all year, and reminiscent of a time when games actively sought out new ways to play and new stories to tell.\"_\n[Eurogamer][http://www.eurogamer.net/articles/2012-07-03-among-the-sleep-preview-they-mostly-come-at-night]\n\n# Awards\n\n**Winner of Nordic Game Awards - Best Artistic Achievement 2015**\n\n**Winner of the Nordic Indie Sensation 2014**\n\n**Winner of Momocon Indie Game Awards - Best Game 2015**\n\n**Nominated for Best Game Audio - Indie Prize Europe 2015**\n\n**Norwegian game of the year 2014, by Gamereactor**\n\n# Reviews\n\n- [The Guardian][http://www.theguardian.com/technology/2014/jun/16/among-the-sleep-review-childhood] 8/10 \"Among the Sleep deserves a great deal of credit for its story.\"\n\n- [Joystiq][http://www.joystiq.com/2014/05/29/among-the-sleep-review-real-monsters/] 8/10 \"You can never trust what's real and what's you being a scared little kid.\"\n\n- [Game Informer][http://www.gameinformer.com/games/among_the_sleep/b/pc/archive/2014/05/30/game-informer-review-among-the-sleep-pc.aspx] 7.8/10 \"It leaves more of an impact in a distilled 3 to 4 hours than some games with 60-hour campaigns.\"",
-                    "shortDescription": "Among the Sleep: Enhanced Edition is a new and improved version of the award winning first person horror adventure. In the game you play as a small child trapped in a weird nightmare where you go looking for your mom.",
+                    "description": "Among the Sleep é uma aventura de terror em primeira pessoa, na qual você joga como uma criança de dois anos. Depois de acordar no meio da noite por causa de barulhos misteriosos, você começa a explorar o escuro em busca de conforto.\n\nO jogo aborda o terror por meio da atmosfera e da exploração, não com pontuações e sistemas de combate. Em Among the Sleep, você está vulnerável, com medo e tentando entender o mundo.\n\nCompatível com controles: funciona 100% com os controles do Xbox 360, podendo haver alguns problemas com os controles do Xbox One. Lamentamos o inconveniente.\n\n# O que dizem por aí:\n\n- _\"Mais, por favor!\"_\n [Kotaku](http://kotaku.com/5914081/a-horror-game-in-which-you-play-as-a-two-year-old)\n\n- _\"... o jogo consegue mais do que criar uma atmosfera maravilhosamente misteriosa cheia de ansiedade infantil, e ao longo do caminho aborda um assunto sério de uma maneira obscura e tocante.\"_\n[IGN][http://www.ign.com/articles/2014/06/05/among-the-sleep-review/]\n\n- _\"Sua representação de um horror em primeira pessoa contado através dos olhos e perninhas trôpegas de uma criança de dois anos é mais intrigante do que tudo que eu vi durante o ano, e uma reminiscência de uma época em que os jogos buscavam ativamente novas maneiras de serem jogados e novas histórias para contar.\"_\n[Eurogamer][http://www.eurogamer.net/articles/2012-07-03-among-the-sleep-preview-they-mostly-come-at-night]\n\n# Prêmios\n\n**Vencedor do Nordic Game Awards - Melhor Realização Artística 2015**\n\n**Vencedor do Nordic Indie Sensation 2014**\n\n**Vencedor do MomoCon Indie Game Awards - Melhor Jogo de 2015**\n\n**Indicado para Melhor Áudio de Jogo - Indie Prize Europe 2015**\n\n**Jogo norueguês do ano 2014, pela Gamereactor**\n\n# Avaliações\n\n- [The Guardian][http://www.theguardian.com/technology/2014/jun/16/among-the-sleep-review-childhood] 8/10 \"Among the Sleep merece muito crédito por sua história.\"\n\n- [Joystiq][http://www.joystiq.com/2014/05/29/among-the-sleep-review-real-monsters/] 8/10 \"Você nunca pode confiar no que é real e o que é você sendo uma criança assustada.\"\n\n- [Game Informer][http://www.gameinformer.com/games/among_the_sleep/b/pc/archive/2014/05/30/game-informer-review-among-the-sleep-pc.aspx] 7.8/10 \"O jogo causa mais impacto em 3 a 4 horas concentradas do que alguns jogos com campanhas de 60 horas.\"",
+                    "shortDescription": "Among the Sleep: Enhanced Edition é uma versão nova e aprimorada da premiada aventura de terror em primeira pessoa. Você joga como uma criança pequena presa em um pesadelo estranho em que você precisa procurar sua mãe.",
                     "title": "Among the Sleep - Enhanced Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -260,7 +260,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Among the Sleep - Enhanced Edition trailer",
+                                "title": "Trailer de Among the Sleep - Enhanced Edition",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -277,7 +277,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Among the Sleep - Enhanced Edition trailer",
+                                "title": "Trailer de Among the Sleep - Enhanced Edition",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true

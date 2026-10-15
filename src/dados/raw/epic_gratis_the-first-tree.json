@@ -54,12 +54,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/the-first-tree",
+    "_urlPattern": "/pt-BR/productv2/the-first-tree",
     "_slug": "the-first-tree",
-    "_activeDate": "2021-04-08T14:50:00.000Z",
-    "lastModified": "2021-07-26T22:32:31.724Z",
-    "_locale": "en-US",
-    "_id": "e7188c82-d488-4385-8951-dad5f0644e74",
+    "_activeDate": "2021-03-31T17:15:59.148Z",
+    "lastModified": "2021-03-31T18:44:10.118Z",
+    "_locale": "pt-BR",
+    "_id": "4fac6878-8b2f-4890-9c1a-4eda6eac92a8",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -125,12 +125,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/the-first-tree/home",
+            "_urlPattern": "/pt-BR/productv2/the-first-tree/home",
             "_slug": "home",
-            "_activeDate": "2021-04-08T14:50:00.000Z",
-            "lastModified": "2021-04-13T19:59:38.275Z",
-            "_locale": "en-US",
-            "_id": "6c7c2b31-b697-4492-b3b2-672cb24f9c9d",
+            "_activeDate": "2021-03-31T17:16:35.188Z",
+            "lastModified": "2021-03-31T18:42:48.215Z",
+            "_locale": "pt-BR",
+            "_id": "bb77b8c6-3dd1-43fb-9ab8-11ee2ac712a5",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -153,14 +153,14 @@
                     "linkTwitter": "https://twitter.com/DavidWehle",
                     "linkYoutube": "https://www.youtube.com/gamedevunlocked",
                     "_type": "Diesel Social Links",
-                    "title": "Follow The First Tree!",
+                    "title": "Siga The First Tree!",
                     "linkHomepage": "https://www.thefirsttree.com/",
                     "linkInstagram": "https://www.instagram.com/gamedevunlocked/"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "Áudio: inglês",
+                        "Texto: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, japonês, coreano, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -169,31 +169,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows 7 SP1+  (64-bit only)",
                                     "recommended": "Windows 10  (64-bit only)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "2.2GHz CPU Dual Core (SSE2 instruction set support)",
-                                    "recommended": "3.0GHz CPU"
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 2,2 GHz (suporte para o conjunto de instruções SSE2)",
+                                    "recommended": "CPU de 3,0 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "Geforce GTX 750 / Radeon R7 260X with 1GB Memory"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce GTX 750 / Radeon R7 260X com 1 GB de memória"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "6 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "TBC"
+                                    "title": "Armazenamento",
+                                    "minimum": "A confirmar"
                                 }
                             ]
                         },
@@ -203,26 +203,26 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Mac OS X 10.9+ (64-bit only)",
-                                    "recommended": "Mac OS X 11+"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Mac OS X 10.9 ou superior (apenas 64 bits)",
+                                    "recommended": "Mac OS X 11 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "2013 or newer Intel Core i5",
-                                    "recommended": "Intel Core i7 3GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 2013 ou mais recente",
+                                    "recommended": "Intel Core i7 de 3 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "TBC"
+                                    "title": "Armazenamento",
+                                    "minimum": "A confirmar"
                                 }
                             ]
                         }
@@ -240,7 +240,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.thefirsttree.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "The First Tree Privacy Policy"
+                        "title": "Política de Privacidade de The First Tree"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -252,8 +252,8 @@
                     "developerAttribution": "David Wehle",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "David Wehle",
-                    "description": "![Banner 1](https://cdn2.unrealengine.com/egs-thefirsttree-davidwehle-g2-00-1200x300-e160e84b3e02.jpg)\n\n# This Story Ends at the Beginning of Life\n\nPlayers take control of the fox on a poignant and beautiful journey that crescendos at the source of life, and perhaps result in an understanding of death. Along the way, players can uncover artifacts and stories from the son's life as he becomes intertwined in the fox’s journey towards The First Tree.\n\n# Key Features:\n\n- For fans of Journey, Firewatch, and Shelter.\n- Not a \"fox simulator,\" but an emotional, intimate story by a one-man team with an ending you won't soon forget.\n- Featuring a gorgeous soundtrack by acclaimed artists like Message to Bears, Lowercase Noises, and Josh Kramer.\n- A short game (about an hour and a half) focused on story with some light puzzle solving, platforming, and no enemies.",
-                    "shortDescription": "A beautiful, 3rd-person exploration game centered around two parallel stories: a fox trying to find her missing family, and a son reconnecting with his estranged father in Alaska. Uncover artifacts from the son's life as they  journey towards The First Tree.",
+                    "description": "![Banner 1](https://cdn2.unrealengine.com/egs-thefirsttree-davidwehle-g2-00-1200x300-e160e84b3e02.jpg)\n\n# Esta história acaba no começo da vida\n\nOs jogadores controlam a raposa em uma bela jornada comovente que chega ao ápice na origem da vida, e talvez resulte em um entendimento da morte. No caminho, os jogadores descobrem artefatos e histórias da vida do filho conforme ele se entrelaça com a jornada da raposa em direção à Primeira Árvore (The First Tree).\n\n# Características principais:\n\n- Para fãs de Journey, Firewatch e Shelter.\n- Não é um \"simulador de raposa\", é uma história íntima e cheia de emoção, com um final inesquecível e criada por uma única pessoa.\n- Com uma trilha sonora deslumbrante de artistas aclamados como Message to Bears, Lowercase Noises e Josh Kramer.\n- Um jogo curto (cerca de uma hora e meia) focado na história, com um pouco de resolução de enigmas, jogabilidade estilo plataforma e sem inimigos.",
+                    "shortDescription": "Um lindo jogo de exploração em terceira pessoa centrado em duas histórias paralelas: uma raposa que tenta encontrar sua família perdida, e um filho que busca se reconectar com seu pai no Alasca. Descubra artefatos da vida do filho conforme eles seguem rumo à Primeira Árvore (The First Tree).",
                     "title": "The First Tree",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -303,7 +303,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "The First Tree Trailer",
+                                "title": "Trailer de The First Tree",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true

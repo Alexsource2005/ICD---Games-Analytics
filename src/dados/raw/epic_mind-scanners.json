@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/mind-scanners",
+    "_urlPattern": "/pt-BR/productv2/mind-scanners",
     "_slug": "mind-scanners",
     "_activeDate": "2021-09-23T12:55:00.000Z",
-    "lastModified": "2021-09-22T19:52:40.682Z",
-    "_locale": "en-US",
-    "_id": "41b06071-b250-4a5f-ad09-aa399173c91f",
+    "lastModified": "2021-09-09T18:40:20.310Z",
+    "_locale": "pt-BR",
+    "_id": "4c3525e1-31b4-4303-94de-86667032d8c4",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mind-scanners/home",
+            "_urlPattern": "/pt-BR/productv2/mind-scanners/home",
             "_slug": "home",
             "_activeDate": "2021-09-23T12:55:00.000Z",
-            "lastModified": "2021-09-22T19:51:59.359Z",
-            "_locale": "en-US",
-            "_id": "75d3b310-6b7f-4924-8782-9e15b3c17316",
+            "lastModified": "2021-09-09T19:04:09.447Z",
+            "_locale": "pt-BR",
+            "_id": "5ef60b66-a66d-4f86-beae-6b58780d58d0",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -89,8 +89,8 @@
                     "_type": "Diesel Product Lins"
                 },
                 "socialLinks": {
-                    "linkTwitter": "https://twitter.com/BraveAtNight",
                     "linkTwitch": "https://www.twitch.tv/braveatnightgames",
+                    "linkTwitter": "https://twitter.com/BraveAtNight",
                     "linkFacebook": "https://www.facebook.com/braveatnight",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "http://discord.gg/mindscanners",
@@ -98,8 +98,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, Chinese - Simplified, Danish, French, German, Russian, Polish",
-                        "TEXT: English, Danish, French, German, Russian, Polish, Chinese - Simplified"
+                        "ÁUDIO: inglês, chinês simplificado, dinamarquês, francês, alemão, russo, polonês",
+                        "TEXTO: inglês, dinamarquês, francês, alemão, russo, polonês, chinês simplificado"
                     ],
                     "systems": [
                         {
@@ -108,31 +108,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "MacOS 10.12.6",
                                     "recommended": "MacOS 10.15.4"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel Core m3",
                                     "recommended": "Intel Core m3"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 MB RAM",
-                                    "recommended": "8 MB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 MB de RAM",
+                                    "recommended": "8 MB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "300 MB available space",
-                                    "recommended": "3 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "300 MB de espaço disponível",
+                                    "recommended": "3 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Intel HD Graphics",
                                     "recommended": "Intel HD Graphics"
                                 }
@@ -144,39 +144,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 or later",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 ou mais recente",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel Core i5",
-                                    "recommended": "High-range Intel Core i5"
+                                    "recommended": "Intel Core i5 de frequência alta"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "3 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "3 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "500 MB available space",
-                                    "recommended": "3 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "500 MB de espaço disponível",
+                                    "recommended": "3 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 11"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia Geforce GTX 550/equivalent or higher",
-                                    "recommended": "Nvidia Geforce GTX 760/equivalent or higher"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Nvidia GeForce GTX 550 - equivalente ou superior",
+                                    "recommended": "Nvidia GeForce GTX 760 - equivalente ou superior"
                                 }
                             ]
                         }
@@ -194,7 +194,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.braveatnight.co.uk/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -206,8 +206,8 @@
                     "developerAttribution": "The Outer Zone",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Brave At Night",
-                    "description": "# THE GAME\n**Mind Scanners** is a retro-futuristic psychiatry simulation in which you diagnose the citizens of a dystopian metropolis. Locate a host of other-worldly characters and use arcade-style treatment devices to help them. Manage your time and resources to keep The Structure in balance. Remember, **you** take full responsibility for your patients.\n![The Structure.] (https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g2-00-720x200-0375ec6b3d8c.jpg)\n\n# FEATURES\n- **Manage** your time and resources to aid the citizens of The Structure\n- **Diagnose** your patients by analyzing their views of the world\n- Operate and **master** a variation of arcade-style devices to treat your patients\n- Spend your ₭apok and science points to **develop** new devices\n- Face difficult **moral choices** and ethical dilemmas\n- Report the resistance group Moonrise or join them to **help their cause**\n- Gain the **trust** of The Structure if you want to see your daughter again\n![The Reflector is being used on a patient.] (https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g2-01-700x394-d468c64793eb.jpg)\n![A patient's mind is being scanned.] (https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g2-02-700x394-bdb62532a362.jpg)\n",
-                    "shortDescription": "Mind Scanners is a retro-futuristic psychiatry simulation in which you diagnose the citizens of a dystopian metropolis. Locate a host of other-worldly characters and use arcade-style treatment devices to help them. ",
+                    "description": "# O JOGO\n**Mind Scanners** é uma simulação psiquiátrica retrofuturista em que você diagnostica os cidadãos de uma metrópole distópica. Identifique uma série de personagens de outro mundo e use dispositivos de tratamento estilo arcade para ajudá-los. Gerencie seu tempo e recursos para manter o equilíbrio de The Structure (A Estrutura). Lembre-se, a responsabilidade pelos seus pacientes é toda **sua**.\n![The Structure.] (https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g2-00-720x200-0375ec6b3d8c.jpg)\n\n# CARACTERÍSTICAS\n- **Gerencie** seu tempo e recursos para ajudar os cidadãos de The Structure\n- **Diagnostique** seus pacientes analisando suas visões de mundo\n- Opere e **domine** uma variedade de dispositivos estilo arcade para tratar seus pacientes\n- Gaste seus ₭apok e pontos de ciência para **desenvolver** novos dispositivos\n- Enfrente difíceis **escolhas morais** e dilemas éticos\n- Denuncie o grupo de resistência Moonrise ou junte-se a eles e **ajude na causa**\n- Ganhe a **confiança** de The Structure caso queira ver sua filha novamente\n![The Reflector is being used on a patient.] (https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g2-01-700x394-d468c64793eb.jpg)\n![A patient's mind is being scanned.] (https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g2-02-700x394-bdb62532a362.jpg)\n",
+                    "shortDescription": "Mind Scanners é uma simulação psiquiátrica retrofuturista em que você diagnostica os cidadãos de uma metrópole distópica. Identifique uma série de personagens de outro mundo e use dispositivos de tratamento estilo arcade para ajudá-los. ",
                     "title": "Mind Scanners",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -400,7 +400,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Mind Scanners Launch Trailer",
+                                "title": "Trailer de lançamento de Mind Scanners",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true

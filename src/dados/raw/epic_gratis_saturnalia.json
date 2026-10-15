@@ -29,12 +29,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/saturnalia",
+    "_urlPattern": "/pt-BR/productv2/saturnalia",
     "_slug": "saturnalia",
     "_activeDate": "2020-03-19T19:22:23.604Z",
     "lastModified": "2020-03-19T19:23:25.372Z",
-    "_locale": "en-US",
-    "_id": "f3dd6c98-931b-4612-9924-9af7a73b4e35",
+    "_locale": "pt-BR",
+    "_id": "6dc61119-c32c-43cb-ac2a-ebcc66dc33ef",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -72,12 +72,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/saturnalia/home",
+            "_urlPattern": "/pt-BR/productv2/saturnalia/home",
             "_slug": "home",
             "_activeDate": "2020-03-19T19:23:33.769Z",
-            "lastModified": "2022-11-02T18:26:57.794Z",
-            "_locale": "en-US",
-            "_id": "457a44ec-a9e0-4da6-8b26-7124dc3533c1",
+            "lastModified": "2020-03-23T15:02:10.842Z",
+            "_locale": "pt-BR",
+            "_id": "32e454a4-845c-4d3d-b919-3528f85cb830",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -101,14 +101,14 @@
                     "linkFacebook": "https://www.facebook.com/SaturnaliaGame/",
                     "linkYoutube": "https://www.youtube.com/santaragione",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Saturnalia",
+                    "title": "Siga o Saturnalia",
                     "linkHomepage": "https://www.saturnaliagame.com/",
                     "linkInstagram": "https://www.instagram.com/saturnaliagame/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, French, German, Spanish - Spain, Italian"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, alemão, espanhol (Espanha), italiano"
                     ],
                     "systems": [
                         {
@@ -117,37 +117,37 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7+ (64 bits)",
-                                    "recommended": "Windows 7+ (64 bits)"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 ou superior (64 bits)",
+                                    "recommended": "Windows 7 ou superior (64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "X64 Dual Core CPU 2+",
-                                    "recommended": "X64 Dual Core CPU 2+"
+                                    "title": "Processador",
+                                    "minimum": "Processador dual-core 2+ X64",
+                                    "recommended": "Processador dual-core 2+ X64"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB RAM",
-                                    "recommended": "8GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "4GB",
-                                    "recommended": "4GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "4 GB",
+                                    "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "10",
                                     "recommended": "12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Radeon Pro 560X / NVIDIA GTX 960 ",
                                     "recommended": "Radeon Pro 580 / NVIDIA GTX 1060 "
                                 }
@@ -159,31 +159,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "macOS 10.10 Yosemite",
                                     "recommended": "macOS 10.15 Catalina"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.3GHz dual-core 7th gen Intel Core i5",
-                                    "recommended": "3.7GHz 6-core 9th gen Intel Core i5"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 dual-core 7a geração de 2,3 GHz",
+                                    "recommended": "Intel Core i5 6-core 9a geração de 3,7 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB RAM",
-                                    "recommended": "8GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "4GB",
-                                    "recommended": "4GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "4 GB",
+                                    "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Radeon Pro 570",
                                     "recommended": "Radeon Pro Vega 20"
                                 }
@@ -202,7 +202,7 @@
                     "privacyPolicyLink": {
                         "src": "http://www.santaragione.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Santa Ragione Privacy Policy"
+                        "title": "Política de Privacidade da Santa Ragione"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -214,8 +214,8 @@
                     "developerAttribution": "Santa Ragione",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Santa Ragione",
-                    "description": "![Saturnalia Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_G2_00-1080x394-dee3512aee49f72fe5a62975e88364f95d716efd.jpg)\n\n# A third person multi-character roguelite horror adventure.\n\nA game inspired and heavily influenced by the folklore of Sardinia, Italy (a region rich with unique traditions and culture) where you play as four characters, experiencing a deeply connected storyline that ties back to the haunting traditions of an ancient village.\n\nThe village itself is an elaborate maze with no two iterations being precisely the same - you will have to explore and solve the mysteries of the game largely unguided.\n\n# Your Weapon? A Box of Matches...\n\nDie, and watch the village reconfigure itself into a new form. Solve puzzles and open shortcuts to new areas with tools and items you find along the way, unlocking every piece of the story with different characters, each with its own power and suited for another aspect of exploration and investigation.\n\nWith a limited supply of matches to light your way and darkness encroaching, can you find your way through the fog to reveal the truth? Or will you be engulfed by the secrets this town doesn’t want you to know?\n\n# Game Features\n\n- The village structure changes each time all your characters die\n- Discover characters' special abilities, use tools and consumables to open shortcuts\n- Keep narrative and puzzle progress across game-overs (_roguelite_)\n- Manage your supply of matches to help your sight and solve puzzles\n- Non-linear progression, dynamic and adaptive narrative\n- Investigate the ritual at the heart of the game and use what you find to stop it\n- Puzzles deeply integrated with the game world and narrative (not abstract)\n- Artwork and animations inspired by stop-motion and rotoscoping film techniques",
-                    "shortDescription": "A Survival Horror Adventure: as an ensemble cast, explore an isolated village of ancient ritual – its labyrinthine roads change each time you lose all your characters.",
+                    "description": "![Saturnalia Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_G2_00-1080x394-dee3512aee49f72fe5a62975e88364f95d716efd.jpg)\n\n# Uma aventura roguelite de terror em terceira pessoa, com vários personagens.\n\nNeste jogo extremamente influenciado e inspirado no folclore da Sardenha, na Itália (uma região repleta de tradições culturais únicas), você jogará com quatro personagens e mergulhará em uma narrativa com uma conexão intensa que remete às tradições horripilantes de um vilarejo antigo.\n\nO próprio vilarejo é um labirinto complexo, e duas experiências nunca serão exatamente iguais, porque você terá que explorar o local e solucionar os mistérios do jogo sem um grande direcionamento.\n\n# Sua arma? Uma caixa de fósforos...\n\nMorra e veja o vilarejo tomar uma nova forma. Solucione quebra-cabeças e crie atalhos para novas áreas com ferramentas e itens que você encontrará durante sua jornada, revelando cada parte da história com diferentes personagens, cada qual com sua própria força, que contribuirão de diferentes formas com sua exploração e investigação.\n\nCom um número limitado de fósforos para iluminar seu caminho e combater a escuridão que se aproxima, será que você conseguirá desbravar a neblina para descobrir a verdade? Ou será que os segredos guardados a sete chaves por esta cidade conseguirão acabar com você?\n\n# Recursos do jogo\n\n* A estrutura da vila mudará sempre que todos os personagens morrerem\n* Descubra as habilidades especiais dos personagens, use ferramentas e itens consumíveis para criar atalhos\n* Mantenha o progresso da narrativa e do quebra-cabeça ao morrer (roguelite)\n* Gerencie seu estoque de fósforos para enxergar melhor e solucionar os enigmas\n* Progressão não linear, dinâmica e narrativa flexível\n* Investigue o ritual no centro do jogo e use o que encontrar para acabar com ele\n* Enigmas totalmente integrados com o mundo do jogo e a narrativa (não abstrato)\n* Arte e animações inspiradas por técnicas cinematográficas de stop motion e rotoscópio",
+                    "shortDescription": "Uma aventura de horror e sobrevivência: jogue como um elenco de personagens que explora uma vila isolada de rituais antigos – suas estradas labirínticas mudarão cada vez que você perder todos os seus personagens.",
                     "title": "Saturnalia",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -574,7 +574,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "c749cd78da34408d8434a46271f4bb79",
-                            "description": "A neon-folk survival horror adventure set in Sardinia in the late ‘80s. Play as four characters and explore a mysterious, ever-changing village during ten-to-fifteen hours of gameplay.",
+                            "description": "Uma aventura de terror de sobrevivência neon-folk ambientada na Sardenha no final dos anos 80. Jogue como quatro personagens e explore uma vila misteriosa e em constante mudança ao longo de dez a quinze horas de jogo.",
                             "offerId": "275d5915ebd2479f983f51025b22a1b8",
                             "title": "Saturnalia",
                             "slug": "p/saturnalia"
@@ -589,7 +589,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "c749cd78da34408d8434a46271f4bb79",
-                            "description": "Play the survival horror adventure, then discover Saturnalia’s soundtrack, including the extended main theme, and the exclusive digital artbook with more than a hundred illustrations.",
+                            "description": "Jogue a aventura de terror de sobrevivência e descubra a trilha sonora de Saturnalia, incluindo o tema principal estendido e o livro de arte digital exclusivo com mais de cem ilustrações.",
                             "offerId": "e9fc7e48ea0946248ab628d96de79140",
                             "tag": "edition",
                             "title": "Saturnalia Deluxe Edition",
@@ -600,8 +600,10 @@
                     "enableImages": false
                 },
                 "meta": {
-                    "releaseDate": "2022-01-30T22:00:00.000Z",
                     "_type": "Epic Store Meta",
+                    "publisher": [
+                        "The Quantum Astrophysicists Guild"
+                    ],
                     "logo": {
                         "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_IC1-1523x455-7b64870d53eaa62ef2a41905bc4e207e8ec05e86.png",
                         "_type": "Epic Store Image"
@@ -609,15 +611,15 @@
                     "developer": [
                         "Santa Ragione"
                     ],
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows",
                         "Mac"
                     ],
                     "tags": [
                         "HORROR",
-                        "SURVIVAL",
-                        "ADVENTURE"
+                        "INVESTIGATION",
+                        "INDIE"
                     ]
                 },
                 "markdown": {
@@ -643,10 +645,10 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "c749cd78da34408d8434a46271f4bb79",
-                            "description": "Listen to Saturnalia's soundscapes, including the extended main theme, “Passacaglia dei Saturnalia”. Discover more than a hundred artworks including some exclusive cut material. ",
+                            "description": "Escute as paisagens acústicas de Saturnalia, incluindo o tema principal estendido, \"Passacaglia dei Saturnalia\". Descubra mais de uma centena de obras de arte, incluindo alguns materiais em versões exclusivas. ",
                             "offerId": "e5d232ffe05d4de5bdad237e8fff0c6f",
                             "tag": "extras",
-                            "title": "Saturnalia Soundtrack and Artbook",
+                            "title": "Trilha sonora e livro de arte de Saturnalia",
                             "slug": "p/saturnalia"
                         }
                     ],

@@ -2,33 +2,9 @@
     "title": "SLUDGE LIFE",
     "id": "13f7f3e05e91444585e9be24b59fe536",
     "namespace": "158a0eaa18574bb39347c04286d118c7",
-    "description": "SLUDGE LIFE is a first-person / open-world / vandalism-centric stroll through a polluted island full of cranky idiots and a vibe so thick you can taste it. Play as upcoming tagger GHOST set on staking their claim amongst the graffiti elite.",
+    "description": "SLUDGE LIFE é um passeio em primeira pessoa, de mundo aberto e centrado em vandalismo por uma ilha poluída e cheia de idiotas esquisitos, e tem uma vibração tão densa que dá até para sentir o gosto. Jogue como o próximo grafiteiro GHOST, exigindo seus direitos em meio à elite ...",
     "effectiveDate": "2020-05-28T13:00:00.000Z",
     "keyImages": [
-        {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-        },
-        {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
-        },
-        {
-            "type": "OfferImageTall",
-            "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-        },
-        {
-            "type": "OfferImageWide",
-            "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
-        },
-        {
-            "type": "CodeRedemption_340x440",
-            "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-        },
-        {
-            "type": "Thumbnail",
-            "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-        },
         {
             "type": "featuredMedia",
             "url": "https://cdn2.unrealengine.com/Diesel/productv2/sludge-life/home/EGS_SLUDGELIFE_TerriVellmannDoseone_S3-1360x766-1105cf4796e1a06b09df99ad90ad34baa68e03f7.jpg"
@@ -108,6 +84,18 @@
         {
             "type": "GalleryImage",
             "url": "https://cdn2.unrealengine.com/Diesel/productv2/sludge-life/home/EGS_SLUDGELIFE_TerriVellmannDoseone_G1A_12-1920x1080-aa1ea12947c9bf7f083341780498aa8e9ba401d2.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
         }
     ],
     "seller": {
@@ -126,9 +114,6 @@
         },
         {
             "id": "1117"
-        },
-        {
-            "id": "38237"
         }
     ],
     "items": [
@@ -171,31 +156,23 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 374,
-            "originalPrice": 1499,
+            "discountPrice": 3499,
+            "originalPrice": 3499,
             "voucherDiscount": 0,
-            "discount": 1125,
-            "currencyCode": "USD",
+            "discount": 0,
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "$3.74",
-                "intermediatePrice": "$3.74"
+                "originalPrice": "R$ 34,99",
+                "discountPrice": "R$ 34,99",
+                "intermediatePrice": "R$ 34,99"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": [
-                    {
-                        "id": "7c44c7f467604bb69b9350ae40e36f4e",
-                        "endDate": "2026-10-15T15:00:00.000Z",
-                        "discountSetting": {
-                            "discountType": "PERCENTAGE"
-                        }
-                    }
-                ]
+                "appliedRules": []
             }
         ]
     },

@@ -31,12 +31,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/xcom-2",
+    "_urlPattern": "/pt-BR/productv2/xcom-2",
     "_slug": "xcom-2",
     "_activeDate": "2022-03-31T21:33:54.743Z",
     "lastModified": "2022-03-31T21:37:02.719Z",
-    "_locale": "en-US",
-    "_id": "6fe6dccf-f526-439f-886c-f23537f0307d",
+    "_locale": "pt-BR",
+    "_id": "6ad942cb-2561-4392-83e5-eea1c935f8eb",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -68,12 +68,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/xcom-2/home",
+            "_urlPattern": "/pt-BR/productv2/xcom-2/home",
             "_slug": "home",
             "_activeDate": "2022-03-31T21:41:00.999Z",
-            "lastModified": "2022-12-09T21:58:48.518Z",
-            "_locale": "en-US",
-            "_id": "7fe6887f-c6a9-47f0-bef9-70f612782610",
+            "lastModified": "2022-03-31T22:58:51.356Z",
+            "_locale": "pt-BR",
+            "_id": "75712c40-a34b-4db8-95a2-dffa94b8de10",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -98,13 +98,13 @@
                     "linkFacebook": "https://www.facebook.com/XCOM/",
                     "linkYoutube": "https://www.youtube.com/xcom",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Us",
-                    "linkHomepage": "https://www.xcom.com/"
+                    "title": "Siga-nos",
+                    "linkHomepage": "https://www.xcom.com/pt-BR/"
                 },
                 "requirements": {
                     "languages": [
-                        "Text: English, French, German, Spanish - Spain, Italian, Japanese, Korean, Polish, Russian, Chinese - Simplified, Chinese - Traditional",
-                        "Audio: English, French, German, Spanish - Spain, Italian"
+                        "Texto: inglês, francês, alemão, espanhol (Espanha), italiano, japonês, coreano, polonês, russo, chinês simplificado, chinês tradicional",
+                        "Áudio: inglês, francês, alemão, espanhol (Espanha), italiano"
                     ],
                     "systems": [
                         {
@@ -113,44 +113,44 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows® 7, 64-bit",
-                                    "recommended": "Windows® 7, 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows® 7 de 64 bits",
+                                    "recommended": "Windows® 7 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad Core 2.6 GHz",
-                                    "recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo E4700 de 2,6 GHz ou AMD Phenom 9950 Quad Core de 2,6 GHz",
+                                    "recommended": "ATI Radeon HD 7970 de 2 GB, NVIDIA GeForce GTX 770 de 2 GB ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better",
-                                    "recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "ATI Radeon HD 5770 de 1 GB, NVIDIA GeForce GTX 460 de 1 GB ou superior",
+                                    "recommended": "ATI Radeon HD 7970 de 2 GB, NVIDIA GeForce GTX 770 de 2 GB ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "DirectX",
-                                    "minimum": "Version 11"
+                                    "minimum": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "45 GB",
                                     "recommended": "45 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Sound Card",
-                                    "minimum": "DirectX compatible sound card",
-                                    "recommended": "DirectX compatible sound card"
+                                    "title": "Placa de som",
+                                    "minimum": "Placa de som compatível com DirectX",
+                                    "recommended": "Placa de som compatível com DirectX"
                                 }
                             ]
                         }
@@ -164,11 +164,11 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "©2022 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. All rights reserved.",
+                    "copy": "©2022 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, e seus respectivos logotipos são marcas registradas da Take-Two Interactive Software, Inc. Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://www.take2games.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -180,8 +180,8 @@
                     "developerAttribution": "Firaxis",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "2K",
-                    "description": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year.\n\nEarth has changed. Twenty years have passed since world leaders offered an unconditional surrender to alien forces. XCOM, the planet’s last line of defense, was left decimated and scattered. Now, in XCOM 2, the aliens rule Earth, building shining cities that promise a brilliant future for humanity on the surface, while concealing a sinister agenda and eliminating all who dissent from their new order.\n\nOnly those who live at the edges of the world have a margin of freedom. Here, a force gathers once again to stand up for humanity. Always on the run, and facing impossible odds, the remnant XCOM forces must find a way to ignite a global resistance, and eliminate the alien threat once and for all.\n\n\nXCOM ON THE RUN: Take command of the Avenger, an alien supply craft converted to XCOM’s mobile headquarters. New open-ended gameplay lets you decide where to guide your strike team, how to grow popular support, and when to combat enemy counter-operations.\n\nRECRUIT RESISTANCE FIGHTERS: Five soldier classes, each with its own skill tree, let you create specific soldiers for your tactical plan.\n\nTACTICAL GUERRILLA COMBAT: New gameplay systems offer more tactical flexibility in combat. Use concealment to ambush enemy patrols. Loot enemies for precious gear and artifacts. Rescue VIPs and save fallen comrades by carrying them to the extraction point.\n\nA NEW BREED OF ENEMY: A diverse cast of enemies from powerful new alien species to the ADVENT, enforcers of the alien regime, offer a distinct tactical challenge.\n\nRESEARCH, DEVELOP AND UPGRADE: Configure and build rooms on the Avenger to give XCOM new capabilities on the battlefield. Use your Scientists and Engineers to research, develop and upgrade weapons and armor to fit your preferred tactics.\n\nEACH MISSION IS A UNIQUE CHALLENGE: Go on missions around the world, from wildlands to the heart of the alien-controlled megacities, to the depths of alien installations. There are virtually infinite combinations of maps, missions and goals.\n\nUse of this product requires agreement to the following third party end user license agreement: http://www.take2games.com/eula/",
-                    "shortDescription": "Aliens rule Earth, but secretly hiding a sinister agenda. As the leader of a guerrilla force, you must ignite a global resistance to eliminate the alien threat and save the human race.",
+                    "description": "XCOM 2 é a sequência do jogo XCOM: Enemy Unknown, de 2012, vencedor do prêmio de jogo de estratégia do ano.\n\nA Terra mudou. Vinte anos se passaram desde que os líderes do mundo se renderam incondicionalmente às forças alienígenas, e a XCOM, a última linha de defesa do planeta, acabou dizimada e isolada. Agora, em XCOM 2, os alienígenas dominam a Terra, construindo cidades cintilantes que, por fora, prometem um futuro brilhante para a humanidade, mas escondem um plano sinistro, enquanto eliminam todos os que discordam de sua nova ordem.\n\nApenas aqueles que vivem nos confins do planeta tem uma chance de liberdade. Aqui, uma força se reúne mais uma vez para defender a humanidade. Sempre em ação, e com poucas chances de sucesso, as forças restantes da XCOM devem encontrar uma forma de acender a fagulha de uma resistência global e eliminar a ameaça alienígena de uma vez por todas.\n\n\nXCOM NA ATIVA: Tome o controle do Vingador, uma nave alienígena de carga convertida em quartel-general móvel da XCOM. Nova jogabilidade com múltiplas possibilidades permite que você decida para onde direcionar a sua equipe de ataque, como aumentar o apoio popular e quando combater as forças inimigas.\n\nRECRUTE GUERREIROS DA RESISTÊNCIA: Cinco classes de soldados, cada uma com sua própria árvore de talentos, permitem que você crie soldados específicos para seu plano tático.\n\nCOMBATE TÁTICO DE GUERRILHA: Novos sistemas de jogabilidade oferecem mais flexibilidade tática em combate. Use a furtividade para emboscar patrulhas inimigas. Reviste inimigos em busca de equipamentos e artefatos. Resgate pessoal VIP e salve companheiros caídos carregando-os para os pontos de extração.\n\nUMA NOVA RAÇA DE INIMIGOS: Um elenco diverso de inimigos, desde novas espécies poderosas de alienígenas até o ADVENT, agentes do regime alienígena, trazem um desafio tático diferenciado.\n\nPESQUISE, DESENVOLVA E EVOLUA: Configure e construa novas salas no Vingador para dar à XCOM novas possibilidades no campo de batalha. Use Cientistas e Engenheiros para pesquisar, desenvolver e evoluir armas e armaduras de acordo com suas táticas favoritas.\n\nCADA MISSÃO É UM DESAFIO ÚNICO: Entre em missões por todo o planeta, de áreas selvagens ao coração das megacidades controladas pelos alienígenas, até as profundezas das instalações alienígenas. Você terá infinitas combinações de mapas, missões e objetivos.\n\nO uso deste produto requer o aceite do seguinte termo de licença de usuário final de terceiros: https://www.take2games.com/eula/pt-BR",
+                    "shortDescription": "Os alienígenas dominam a Terra, mas escondem um plano secreto sinistro. Como líder de uma força de guerrilha, você deve iniciar uma resistência global para eliminar a ameaça alienígena e salvar a raça humana.",
                     "title": "XCOM® 2",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -194,9 +194,9 @@
                     "link": {
                         "src": "https://store.epicgames.com/p/marvels-midnight-suns",
                         "_type": "Diesel Link",
-                        "title": "BUY NOW"
+                        "title": "COMPRE AGORA"
                     },
-                    "description": "Fight & Think like a Super Hero in Marvel's Midnight Suns, a new Tactical RPG from Firaxis Games!",
+                    "description": "Lute e pense como um super-herói em Marvel's Midnight Suns, um novo RPG tático da Firaxis Games!",
                     "offerId": "0eef2ad2803c4ac691a820b91eefef82"
                 },
                 "hero": {
@@ -407,7 +407,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "7ec453d446194b8f8afe82aaa9561211",
-                            "description": "Aliens rule Earth, but secretly hiding a sinister agenda. As the leader of a guerrilla force, you must ignite a global resistance to eliminate the alien threat and save the human race.",
+                            "description": "Os alienígenas dominam a Terra, mas escondem um plano secreto sinistro. Como líder de uma força de guerrilha, você deve iniciar uma resistência global para eliminar a ameaça alienígena e salvar a raça humana.",
                             "offerId": "04aedb34af844dc1869c1b99aa1b5541",
                             "tag": "edition",
                             "title": "XCOM® 2",
@@ -423,7 +423,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "7ec453d446194b8f8afe82aaa9561211",
-                            "description": "The XCOM® 2 Collection includes  XCOM 2, the War of the Chosen expansion, and 5 DLC packs (Resistance Warrior Pack, Anarchy’s Children, Alien Hunters, Shen’s Last Gift, Tactical Legacy Pack) for a bundled discount.",
+                            "description": "O XCOM® 2 Collection inclui XCOM 2, a expansão War of the Chosen e cinco pacotes de DLC (Resistance Warrior Pack, Anarchy's Children, Alien Hunters, Shen's Last Gift, Tactical Legacy Pack), e o conjunto todo está com desconto.",
                             "offerId": "cdbf3bb5182b4f89ad92f513689edca0",
                             "tag": "edition",
                             "title": "XCOM® 2 Collection",
@@ -508,11 +508,11 @@
                 "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-04-1920x1080-6506972f4583.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-02-1920x1080-327eaaaa00e8.jpg",
                 "https://cdn2.unrealengine.com/xcom2-collection-set-up-assets-2560x1440-pli-2560x1440-b5a6397f3d16.jpg",
-                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-09-1920x1080-4044994db9a0.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-07-1920x1080-30a2573943e3.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-09-1920x1080-4044994db9a0.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-10-1920x1080-30940992fdbb.jpg",
-                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-08-1920x1080-24ae0b5c89f2.jpg",
                 "https://cdn2.unrealengine.com/xcom2-set-up-assets-1200x1600-1200x1600-3d3abef7221d.jpg",
+                "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-08-1920x1080-24ae0b5c89f2.jpg",
                 "https://cdn2.unrealengine.com/xcom2-set-up-assets-2560x1440-2560x1440-42cf44f0455b.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-06-1920x1080-6015c9e89ccf.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2-firaxis-g1a-05-1920x1080-85970a0eeeb9.jpg",
@@ -548,13 +548,24 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/xcom-2/collection",
+            "_urlPattern": "/pt-BR/productv2/xcom-2/collection",
             "_slug": "collection",
             "_activeDate": "2024-03-28T15:00:00.000Z",
-            "lastModified": "2024-04-04T00:41:54.916Z",
-            "_locale": "en-US",
-            "_id": "26d0bbd1-51da-4ce3-86ae-13654ebc8f73",
+            "lastModified": "2022-04-01T17:39:04.641Z",
+            "_locale": "pt-BR",
+            "_id": "0abde227-7d5b-47a7-9749-aafa8633894d",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "7ec453d446194b8f8afe82aaa9561211",
+                "id": "cdbf3bb5182b4f89ad92f513689edca0",
+                "tag": "bundle",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -568,13 +579,13 @@
                     "linkFacebook": "https://www.facebook.com/XCOM/",
                     "linkYoutube": "https://www.youtube.com/xcom",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Us",
-                    "linkHomepage": "https://www.xcom.com/"
+                    "title": "Siga-nos",
+                    "linkHomepage": "https://www.xcom.com/pt-BR/"
                 },
                 "requirements": {
                     "languages": [
-                        "Text: English, French, Italian, German, Spanish, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese",
-                        "Audio: English, French, Italian, German, Spanish"
+                        "Texto: inglês, francês, italiano, alemão, espanhol, japonês, coreano, polonês, russo, chinês simplificado, chinês tradicional",
+                        "Áudio: inglês, francês, italiano, alemão, espanhol"
                     ],
                     "systems": [
                         {
@@ -583,44 +594,44 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows® 7, 64-bit",
-                                    "recommended": "Windows® 7, 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows® 7 de 64 bits",
+                                    "recommended": "Windows® 7 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core 2 Duo E4700 2.6 GHz or AMD",
-                                    "recommended": "3GHz Quad Core"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo E4700 de 2,6 GHz ou AMD",
+                                    "recommended": "Quad Core de 3 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better",
-                                    "recommended": "2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "ATI Radeon HD 5770 de 1 GB, NVIDIA GeForce GTX 460 de 1 GB ou superior",
+                                    "recommended": "ATI Radeon HD 7970 de 2 GB, NVIDIA GeForce GTX 770 de 2 GB ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "DirectX",
-                                    "minimum": "Version 11"
+                                    "minimum": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "45 GB available space",
-                                    "recommended": "45 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "45 GB de espaço disponível",
+                                    "recommended": "45 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Sound Card",
-                                    "minimum": "DirectX compatible sound card",
-                                    "recommended": "DirectX compatible sound card"
+                                    "title": "Placa de som",
+                                    "minimum": "Placa de som compatível com DirectX",
+                                    "recommended": "Placa de som compatível com DirectX"
                                 }
                             ]
                         }
@@ -634,11 +645,11 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "©2022 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. All rights reserved.",
+                    "copy": "©2022 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, e seus respectivos logotipos são marcas registradas da Take-Two Interactive Software, Inc. Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://www.take2games.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -650,8 +661,8 @@
                     "developerAttribution": "Firaxis",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "2K",
-                    "description": "The XCOM® 2 Collection includes the award-winning strategy game XCOM 2, the War of the Chosen expansion, and five DLC packs (Resistance Warrior Pack, Anarchy’s Children, Alien Hunters, Shen’s Last Gift, Tactical Legacy Pack) for a bundled discount.\n\nAliens rule Earth, promising a brilliant future for mankind while secretly hiding a sinister agenda. As the leader of a guerrilla force facing impossible odds, you must ignite a global resistance to eliminate the alien threat and save the human race from extinction.\n\nThe XCOM 2: War of the Chosen expansion adds extensive new content in the fight against ADVENT when additional resistance factions form in order to eliminate the alien threat on Earth. In response, a new enemy, known as the “Chosen,” emerges with one goal: recapture the Commander. The expansion includes new Hero classes to counter the “Chosen”, new enemies, missions, environments and increased depth in strategic gameplay.\n\n## XCOM 2: War of the Chosen:\nThe XCOM® 2: War of the Chosen expansion adds extensive new content in the fight against ADVENT when additional resistance factions form in order to eliminate the alien threat on Earth. In response, a new enemy, known as the “Chosen,” emerges with one goal: recapture the Commander. The expansion includes new Hero classes to counter the “Chosen”, new enemies, missions, environments and increased depth in strategic gameplay.\n\n## FIVE DLC PACKS: \n\n• Resistance Warrior Pack: Customize your squad of resistance fighters with a set of bonus outfits and head gear, as well as custom armor and face camo. Instantly unlock a survivor of the old war as a new recruit in your barracks.\n\n• Anarchy’s Children: This rebellion-themed content pack introduces more than 100 new exotic customizations for the entire arsenal of armors available to your XCOM soldiers. These options are purely cosmetic and do not alter the stats of a soldier.\n\n• Alien Hunters: Transform the soldiers of XCOM into an elite alien hunting squad with impressive new weapons and armor to face off against new alien Rulers that will pursue your squad across an entire campaign. Additional cosmetic upgrades to soldiers and the Avenger are included, as well as a new epic mission where Central Officer Bradford leads a squad with the guidance of an old friend.\n\n• Shen’s Last Gift: Investigate ADVENT’s “Lost Towers” facility where Chief Engineer Lily Shen accompanies your squad in search of her late father’s secretive final project. Discover a unique new soldier class complete with powerful new combat abilities, strategy mechanics, and customization options.\n\n• Tactical Legacy Pack: Lead your troops with this collection of new game modes, maps, weapons, armors, Photobooth options, and more that honors the legacy of the XCOM series.\n\nUse of this product requires agreement to the following third party end user license agreement: http://www.take2games.com/eula/",
-                    "shortDescription": "The XCOM® 2 Collection includes  XCOM 2, the War of the Chosen expansion, and 5 DLC packs (Resistance Warrior Pack, Anarchy’s Children, Alien Hunters, Shen’s Last Gift, Tactical Legacy Pack) for a bundled discount.",
+                    "description": "O XCOM® 2 Collection inclui o premiado jogo de estratégia XCOM 2, a expansão War of the Chosen e quatro pacotes de DLC (Resistance Warrior Pack, Anarchy's Children, Alien Hunters, Shen's Last Gift, Tactical Legacy Pack), e o conjunto todo está com desconto.\n\nOs alienígenas dominam a Terra, prometendo um futuro brilhante para a humanidade, embora tenham intenções sinistras e secretas. Como o líder de uma força de guerrilha que enfrenta chances impossíveis, você deve acender a fagulha de uma resistência global para eliminar a ameaça alienígena e salvar a raça humana da extinção.\n\nA expansão XCOM 2: War of the Chosen traz um conteúdo novo e abrangente para a luta contra o ADVENT, quando outras facções de resistência se formam para eliminar a ameaça alienígena na Terra. Em resposta, um novo inimigo, conhecido como os \"Chosen\" (Escolhidos), emerge com um único objetivo: recapturar o Comandante. A expansão inclui novas classes de heróis para combater os \"Chosen\", novos inimigos, missões, ambientes e mais profundidade na jogabilidade estratégica.\n\n## XCOM 2: War of the Chosen:\nA expansão XCOM® 2: War of the Chosen traz um conteúdo novo e abrangente para a luta contra o ADVENT, quando outras facções de resistência se formam para eliminar a ameaça alienígena na Terra. Em resposta, um novo inimigo, conhecido como os \"Chosen\" (Escolhidos), emerge com um único objetivo: recapturar o Comandante. A expansão inclui novas classes de heróis para combater os \"Chosen\", novos inimigos, missões, ambientes e mais profundidade na jogabilidade estratégica.\n\n## QUATRO PACOTES DE DLC: \n• Resistance Warrior Pack: personalize seu esquadrão de combatentes da resistência com um conjunto bônus de trajes e equipamentos de cabeça, além de uma armadura personalizada e uma camuflagem facial. Liberte instantaneamente um sobrevivente da antiga guerra como um novo recruta em seus quartéis.\n\n• Anarchy's Children: este pacote de conteúdo com tema de rebelião introduz mais de 100 personalizações exóticas para o arsenal completo de armaduras que está a disposição dos soldados da XCOM. Essas opções são puramente estéticas e não alteram os atributos dos soldados.\n\n• Alien Hunters: transforme os soldados da XCOM em um esquadrão de caça-alienígenas de elite, com novas armaduras e armas impressionantes para você enfrentar os novos governantes alienígenas que vão perseguir seu esquadrão durante uma campanha inteira. Estão incluídas melhorias estéticas adicionais para os soldados e o Vingador, bem como uma nova missão épica na qual o Oficial Central Bradford lidera um esquadrão com a orientação de um antigo amigo.\n\n• Shen's Last Gift: investigue a instalação das \"Torres Perdidas\" (Lost Towers) do ADVENT, onde a engenheira chefe Lily Shen acompanha seu esquadrão em busca do projeto final e secreto do falecido pai dela. Descubra uma classe de soldados completa e inédita com poderosas habilidades de combate, mecanismos de estratégia e opções de personalização.\n\nO uso deste produto exige a aceitação do seguinte termo de licença do usuário final de terceiros: https://www.take2games.com/eula/pt-BR",
+                    "shortDescription": "O XCOM 2 Collection inclui XCOM 2, a expansão War of the Chosen e quatro pacotes de DLC (Resistance Warrior Pack, Anarchy's Children, Alien Hunters, Shen's Last Gift), e o conjunto todo está com desconto.",
                     "title": "",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -939,9 +950,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": true
@@ -1005,7 +1013,11 @@
                 },
                 "navTitle": "XCOM® 2 Collection"
             },
-            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
             "type": "offer",
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-07-1920x1080-c788132bd4ee.jpg",
@@ -1028,23 +1040,7 @@
                 "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-08-1920x1080-e9aeb6ea190a.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-13-1920x1080-ccdff6e951fe.jpg",
                 "https://cdn2.unrealengine.com/egs-xcom2collection-firaxis-editions-g1a-04-1920x1080-0fb79f9fbf95.jpg"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "7ec453d446194b8f8afe82aaa9561211",
-                "id": "cdbf3bb5182b4f89ad92f513689edca0",
-                "tag": "bundle",
-                "type": "edition",
-                "hasOffer": true
-            },
-            "ageGate": {
-                "hasAgeGate": false,
-                "_type": "Epic Store Age Gate"
-            },
-            "tag": "edition"
+            ]
         }
     ],
     "data_aquisicao_gratis": "14 de Abril de 2022 a 21 de Abril, 2022"

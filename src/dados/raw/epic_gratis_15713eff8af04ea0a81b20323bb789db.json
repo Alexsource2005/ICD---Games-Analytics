@@ -2,7 +2,7 @@
     "title": "City of Gangsters",
     "id": "1518143f0eb44365a8ede8d8e38719d7",
     "namespace": "e33138cc2b964d38a42a812b83b6507e",
-    "description": "In this management tycoon game, you’ll start a criminal operation from nothing and grow it into a well-oiled money machine! Build speakeasies and illegal distilleries. Leverage favors, chase down debtors, and bribe the police to look the other way.",
+    "description": "Neste jogo de administração de negócios, você criará uma operação criminosa do zero e a transformará em uma máquina de dinheiro a todo o vapor! Construa bares clandestinos e destilarias ilegais. Ganhe favores, corra atrás dos devedores e suborne a polícia para fazer vista grossa.",
     "effectiveDate": "2022-08-11T11:00:00.000Z",
     "keyImages": [
         {
@@ -18,28 +18,12 @@
             "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-offer-5jbgv.jpg"
         },
         {
-            "type": "heroCarouselVideo",
-            "url": "com.epicgames.video://83aff74f-9722-4ce4-8ea3-05b1d0039bcb?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F148df842b2b14082be6b004f59a2765b%2Fcity-of-gangsters-video-1pouv.png"
-        },
-        {
-            "type": "heroCarouselVideo",
-            "url": "com.epicgames.video://9185d950-7f26-4e21-a497-65d5da2c7bd9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F148df842b2b14082be6b004f59a2765b%2Fcity-of-gangsters-video-1hm1q.png"
-        },
-        {
-            "type": "heroCarouselVideo",
-            "url": "com.epicgames.video://8bc378de-928e-45c3-9da8-a4f673e25311?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F148df842b2b14082be6b004f59a2765b%2Fcity-of-gangsters-video-1fjf8.png"
+            "type": "featuredMedia",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-1ifyq.png"
         },
         {
             "type": "featuredMedia",
-            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-wwivk.jpg"
-        },
-        {
-            "type": "featuredMedia",
-            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-oivn1.png"
-        },
-        {
-            "type": "featuredMedia",
-            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-smcdx.png"
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-iip4g.png"
         },
         {
             "type": "featuredMedia",
@@ -51,11 +35,27 @@
         },
         {
             "type": "featuredMedia",
-            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-1ifyq.png"
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-smcdx.png"
+        },
+        {
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://8bc378de-928e-45c3-9da8-a4f673e25311?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F148df842b2b14082be6b004f59a2765b%2Fcity-of-gangsters-video-1fjf8.png"
+        },
+        {
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://83aff74f-9722-4ce4-8ea3-05b1d0039bcb?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F148df842b2b14082be6b004f59a2765b%2Fcity-of-gangsters-video-1pouv.png"
+        },
+        {
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://9185d950-7f26-4e21-a497-65d5da2c7bd9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F148df842b2b14082be6b004f59a2765b%2Fcity-of-gangsters-video-1hm1q.png"
         },
         {
             "type": "featuredMedia",
-            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-iip4g.png"
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-wwivk.jpg"
+        },
+        {
+            "type": "featuredMedia",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-oivn1.png"
         },
         {
             "type": "featuredMedia",
@@ -156,18 +156,18 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 2999,
-            "originalPrice": 2999,
+            "discountPrice": 7300,
+            "originalPrice": 7300,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$29.99",
-                "discountPrice": "$29.99",
-                "intermediatePrice": "$29.99"
+                "originalPrice": "R$ 73,00",
+                "discountPrice": "R$ 73,00",
+                "intermediatePrice": "R$ 73,00"
             }
         },
         "lineOffers": [

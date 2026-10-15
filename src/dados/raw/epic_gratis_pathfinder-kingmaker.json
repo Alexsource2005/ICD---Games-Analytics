@@ -51,12 +51,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/pathfinder-kingmaker",
+    "_urlPattern": "/pt-BR/productv2/pathfinder-kingmaker",
     "_slug": "pathfinder-kingmaker",
     "_activeDate": "2021-04-20T22:44:46.501Z",
-    "lastModified": "2022-02-21T23:22:18.884Z",
-    "_locale": "en-US",
-    "_id": "9a6b75d2-8745-4e36-b790-90119f99bfe5",
+    "lastModified": "2022-02-21T23:22:23.407Z",
+    "_locale": "pt-BR",
+    "_id": "3753dbab-c2bc-42a1-bd68-b0246f04708e",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -117,13 +117,23 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/pathfinder-kingmaker/imperial-edition",
+            "_urlPattern": "/pt-BR/productv2/pathfinder-kingmaker/imperial-edition",
             "_slug": "imperial-edition",
             "_activeDate": "2021-04-20T22:47:40.417Z",
-            "lastModified": "2024-06-03T20:12:22.810Z",
-            "_locale": "en-US",
-            "_id": "926cb24c-f7ff-4aa8-863e-b33b2c35e790",
+            "lastModified": "2022-02-22T00:09:03.643Z",
+            "_locale": "pt-BR",
+            "_id": "5b877b44-2330-4586-baa2-3f0f74336300",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
+                "id": "8b8f6bb0adb0477eb3841748f3d95aa4",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -138,13 +148,13 @@
                     "linkFacebook": "https://www.facebook.com/PathfinderCRPG/",
                     "linkYoutube": "https://www.youtube.com/deepsilverofficial/",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Us ",
+                    "title": "Siga-nos ",
                     "linkHomepage": "https://kingmaker.owlcatgames.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, German, Russian, Chinese - Simplified"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, alemão, russo, chinês - simplificado"
                     ],
                     "systems": [
                         {
@@ -153,33 +163,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64-bit or newer",
-                                    "recommended": "Windows 7 64-bit or newer"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 de 64 bits ou mais recente",
+                                    "recommended": "Windows 7 de 64 bits ou mais recente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Celeron 1037U @ 1.80GHz",
-                                    "recommended": "Intel Core i7 CPU 920 @ 2.67GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel Celeron 1037U de 1,80 GHz",
+                                    "recommended": "Intel Core i7-920 de 2,67 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "30GB",
-                                    "recommended": "30GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "30 GB",
+                                    "recommended": "30 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Intel HD Graphics 3000",
-                                    "recommended": "ATI Radeon HD 5770 or NVIDIA GeForce GTX 960M"
+                                    "recommended": "ATI Radeon HD 5770 ou NVIDIA GeForce GTX 960M"
                                 }
                             ]
                         },
@@ -227,7 +237,7 @@
                     "privacyPolicyLink": {
                         "src": "https://documentation.my.games/terms/mygames_privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -239,9 +249,9 @@
                     "developerAttribution": "Owlcat Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "MY.GAMES",
-                    "description": "A premium edition of the Pathfinder Kingmaker experience!\n\no A premium downloadable copy of the game which contains 2 in-game items. \no All 3 full DLCs.\no Two additional portraits. Included in the gallery of portraits available upon creating a character.\no A digital Art Book. 176 pages with sketches of characters, monsters, items and the game world.\no Official soundtrack. Contains a complete set of in-game music. \no A digital module for board game adventures. \no A digital high-resolution map of the Stolen Lands. This detailed map can be used as a desktop wallpaper. \no A red panda in-game pet.\n",
-                    "shortDescription": "A premium edition of the Pathfinder Kingmaker experience!",
-                    "title": "The Imperial Bundle includes:",
+                    "description": "Uma edição premium da experiência de Pathfinder: Kingmaker!\n\no Uma cópia premium baixável do jogo, que contém 2 itens do jogo. \no Todos os 3 DLCs completos.\no Dois retratos extras. Incluídos na galeria de retratos disponível ao criar um personagem.\no Um livro de arte digital. 176 páginas com esboços de personagens, monstros, itens e o mundo do jogo.\no Trilha sonora oficial. Contém um conjunto completo de músicas do jogo. \no Um módulo digital para aventuras em jogos de tabuleiro. \no Um mapa digital em alta resolução das Stolen Lands. Este mapa detalhado pode ser usado como papel de parede da área de trabalho. \no Um panda vermelho como mascote no jogo.\n",
+                    "shortDescription": "Uma edição premium da experiência de Pathfinder: Kingmaker!",
+                    "title": "O Imperial Bundle inclui:",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -340,9 +350,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -426,23 +433,12 @@
                 },
                 "navTitle": "Pathfinder: Kingmaker - Imperial Edition"
             },
-            "overwriteMapping": false,
-            "type": "offer",
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
-                "id": "8b8f6bb0adb0477eb3841748f3d95aa4",
-                "type": "edition",
-                "hasOffer": true
-            },
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
             },
-            "tag": "edition"
+            "tag": "edition",
+            "type": "offer"
         },
         {
             "productRatings": {
@@ -503,12 +499,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/pathfinder-kingmaker/home",
+            "_urlPattern": "/pt-BR/productv2/pathfinder-kingmaker/home",
             "_slug": "home",
             "_activeDate": "2021-04-20T22:47:40.417Z",
-            "lastModified": "2025-02-05T20:55:48.698Z",
-            "_locale": "en-US",
-            "_id": "b1e63836-bbb3-4c03-918e-f71d1f0d0003",
+            "lastModified": "2022-02-22T00:09:35.557Z",
+            "_locale": "pt-BR",
+            "_id": "c5bff7d6-8906-4ea9-867d-bf454f89e331",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -528,19 +524,10 @@
                 "productLinks": {
                     "_type": "Diesel Product Lins"
                 },
-                "socialLinks": {
-                    "linkTwitter": "",
-                    "linkTwitch": "",
-                    "linkFacebook": "https://www.facebook.com/PathfinderCRPG/",
-                    "linkYoutube": "",
-                    "_type": "Diesel Social Links",
-                    "title": "Follow Us ",
-                    "linkHomepage": "https://kingmaker.owlcatgames.com/"
-                },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, German, Russian, Chinese - Simplified"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, alemão, russo, chinês - simplificado"
                     ],
                     "systems": [
                         {
@@ -549,33 +536,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64-bit or newer",
-                                    "recommended": "Windows 7 64-bit or newer"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 de 64 bits ou mais recente",
+                                    "recommended": "Windows 7 de 64 bits ou mais recente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Celeron 1037U @ 1.80GHz",
-                                    "recommended": "Intel Core i7 CPU 920 @ 2.67GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel Celeron 1037U de 1,80 GHz",
+                                    "recommended": "Intel Core i7-920 de 2,67 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "30GB",
-                                    "recommended": "30GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "30 GB",
+                                    "recommended": "30 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Intel HD Graphics 3000",
-                                    "recommended": "ATI Radeon HD 5770 or NVIDIA GeForce GTX 960M"
+                                    "recommended": "ATI Radeon HD 5770 ou NVIDIA GeForce GTX 960M"
                                 }
                             ]
                         },
@@ -622,6 +609,15 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "socialLinks": {
+                    "linkTwitter": "",
+                    "linkTwitch": "",
+                    "linkFacebook": "https://www.facebook.com/PathfinderCRPG/",
+                    "linkYoutube": "",
+                    "_type": "Diesel Social Links",
+                    "title": "Follow Us ",
+                    "linkHomepage": "https://kingmaker.owlcatgames.com/"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -629,7 +625,7 @@
                     "privacyPolicyLink": {
                         "src": "https://documentation.my.games/terms/mygames_privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -641,8 +637,8 @@
                     "developerAttribution": "Owlcat Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Knights Peak",
-                    "description": "## About the game\n\nWith the help of over 18,000 Kickstarter backers and composer Inon Zur, Owlcat Games is proud to bring you the first isometric computer RPG set in the beloved Pathfinder tabletop universe. Enjoy a classic RPG experience inspired by games like Baldur's Gate, Fallout 1 and 2 and Arcanum. Explore and conquer the Stolen Lands and make them your kingdom!\n\n# This edition includes:\n\n* Numerous gameplay-enriching content additions and dozens of quality-of-life features\n* New abilities and ways to build your character, including a brand-new class\n* New items and weaponry\n* Improved balance, especially in the beginning and last two chapters of the game\n* Enhanced kingdom management system, both in terms of balance as well as usability and player comfort\n* Increased variety of random encounters on the global map\n* Thousands of fixes and improvements made since the game's initial release",
-                    "shortDescription": "Pathfinder: Kingmaker - Enhanced Plus Edition is the first isometric party-based computer RPG set in the Pathfinder fantasy universe. Enjoy a classic RPG experience inspired by games like Baldur's Gate, Fallout 1 and 2 and Arcanum.",
+                    "description": "## Sobre o jogo\n\nCom a ajuda de mais de 18 mil apoiadores no Kickstarter e do compositor Inon Zur, a Owlcat Games tem o orgulho de trazer até você o primeiro RPG isométrico de computador ambientado no adorado universo do jogo de tabuleiro Pathfinder. Divirta-se com uma experiência clássica de RPG inspirada em jogos como Baldur's Gate, Fallout 1 e 2 e Arcanum. Explore e conquiste as Stolen Lands e expanda o seu reino!\n\nEsta edição inclui: \n\n• Conteúdo extra e dezenas de recursos incríveis para melhorar a jogabilidade\n• Novas habilidades e formas de criar seu personagem — incluindo uma nova classe\n• Novos itens e armas\n• Equilíbrio melhorado, principalmente no início e nos dois últimos capítulos do jogo\n• Um sistema de gerenciamento de reino melhorado, tanto em termos de equilíbrio quanto em usabilidade e conforto do usuário\n• Maior variedade de conflitos aleatórios no mapa do mundo\n• Diversas correções e melhorias desde o lançamento do jogo",
+                    "shortDescription": "Pathfinder: Kingmaker - Enhanced Plus Edition é o primeiro RPG isométrico de computador baseado em equipes ambientado no universo de fantasia de Pathfinder. Divirta-se com uma experiência clássica de RPG inspirada em jogos como Baldur's Gate, Fallout 1 e 2 e Arcanum.",
                     "title": "Pathfinder: Kingmaker - Enhanced Plus Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -746,9 +742,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -761,7 +754,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
-                            "description": "Pathfinder: Kingmaker - Enhanced Plus Edition is the first isometric party-based computer RPG set in the Pathfinder fantasy universe. Enjoy a classic RPG experience inspired by games like Baldur's Gate, Fallout 1 and 2 and Arcanum.",
+                            "description": "Pathfinder: Kingmaker - Enhanced Plus Edition é o primeiro RPG isométrico de computador baseado em equipes ambientado no universo de fantasia de Pathfinder. Divirta-se com uma experiência clássica de RPG inspirada em jogos como Baldur's Gate, Fallout 1 e 2 e Arcanum.",
                             "offerId": "98be9822fb7d407384cd2f85cba14f88",
                             "tag": "edition",
                             "title": "Pathfinder: Kingmaker - Enhanced Plus Edition",
@@ -777,7 +770,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
-                            "description": "A premium edition of the Pathfinder Kingmaker experience!\nA premium downloadable copy of the game which contains 2 in-game items. \nAll 3 full DLCs...",
+                            "description": "Uma edição premium da experiência de Pathfinder: Kingmaker!\nUma cópia premium baixável do jogo, que contém 2 itens do jogo. \nTodos os 3 DLCs completos...",
                             "offerId": "8b8f6bb0adb0477eb3841748f3d95aa4",
                             "tag": "edition",
                             "title": "Pathfinder: Kingmaker - Imperial Edition",
@@ -870,7 +863,6 @@
                 },
                 "navTitle": "Pathfinder: Kingmaker - Enhanced Plus Edition"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"

@@ -44,12 +44,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/super-meat-boy-forever",
+    "_urlPattern": "/pt-BR/productv2/super-meat-boy-forever",
     "_slug": "super-meat-boy-forever",
     "_activeDate": "2018-11-18T19:55:02.181Z",
-    "lastModified": "2024-02-21T10:47:20.853Z",
-    "_locale": "en-US",
-    "_id": "29f56354-ce9a-4417-9223-c259d9662a9a",
+    "lastModified": "2021-02-04T02:38:24.082Z",
+    "_locale": "pt-BR",
+    "_id": "b62c68bd-623b-4bc2-b914-daaa086760b2",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -94,8 +94,8 @@
                 "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-s1-2560x1440-3d76711c4862.jpg",
                 "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-g1a-14-1920x1080-bc51c2e86f96.jpg",
                 "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-g1a-05-1920x1080-c277fa8e3985.jpg",
-                "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-g1a-00-1920x1080-92830bc7b2a6.jpg",
-                "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-g1a-01-1920x1080-617b52d549a1.jpg"
+                "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-g1a-01-1920x1080-617b52d549a1.jpg",
+                "https://cdn2.unrealengine.com/egs-supermeatboyforever-teammeat-g1a-00-1920x1080-92830bc7b2a6.jpg"
             ],
             "productName": "Super Meat Boy Forever",
             "pageTheme": {
@@ -116,24 +116,20 @@
             "theme": {
                 "buttonPrimaryBg": "#9A0001",
                 "customPrimaryBg": "#E7E7E7",
-                "accentColor": "#E7E7E7",
                 "_type": "Diesel Theme"
             },
             "reviewOptOut": false,
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/super-meat-boy-forever/home",
+            "_urlPattern": "/pt-BR/productv2/super-meat-boy-forever/home",
             "_slug": "home",
             "_activeDate": "2018-11-18T19:56:09.022Z",
-            "lastModified": "2020-12-23T05:01:52.719Z",
-            "_locale": "en-US",
-            "_id": "d162bd10-3ea4-4131-997e-77d8bc52108e",
+            "lastModified": "2019-04-10T18:00:03.823Z",
+            "_locale": "pt-BR",
+            "_id": "9770cfc9-aaa5-478a-8564-3503bbb64767",
             "_templateName": "productDetail",
             "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
                 "_type": "Diesel Offer",
                 "namespace": "moose",
                 "id": "9ab78d8a6fe84c3f82b31215390f3c51",
@@ -154,47 +150,47 @@
                     "linkTwitter": "https://twitter.com/SuperMeatBoy",
                     "linkFacebook": "https://www.facebook.com/SuperMeatBoy",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Super Meat Boy Forever"
+                    "title": "Siga Super Meat Boy Forever"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: Arabic, Chinese - Simplified, Dutch, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish - Spain, Spanish - Latin America"
+                        "Áudio: inglês",
+                        "Texto: árabe, chinês simplificado, holandês, francês, alemão, italiano, japonês, coreano, polonês, português, russo, espanhol (Espanha), espanhol (América Latina)"
                     ],
                     "systems": [
                         {
-                            "systemType": "Windows",
                             "_type": "Diesel System Detail",
+                            "systemType": "Windows",
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64bit",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 de 64 bits",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "64bit AMD or Intel made within the last 7 years",
-                                    "recommended": "64bit AMD or Intel made within the last 3 years"
+                                    "title": "Processador",
+                                    "minimum": "AMD de 64 bits ou Intel fabricado nos últimos 7 anos",
+                                    "recommended": "AMD de 64 bits ou Intel fabricado nos últimos 3 anos"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "GeForce 780 / AMD Radeon RX 300. Integrated Intel Graphics can work, but are not officially supported. ",
-                                    "recommended": "GeForce 900 / AMD Radeon RX 400+ or better"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce 780 / AMD Radeon RX 300. Placas de vídeo Intel integradas podem funcionar, mas não são oficialmente compatíveis. ",
+                                    "recommended": "GeForce 900 / AMD Radeon RX 400 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "RAM",
-                                    "minimum": "4GB",
-                                    "recommended": "16GB"
+                                    "minimum": "4 GB",
+                                    "recommended": "16 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "6GB",
-                                    "recommended": "6GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "6 GB",
+                                    "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -217,7 +213,7 @@
                     "privacyPolicyLink": {
                         "src": "http://supermeatboy.com/privacy.html",
                         "_type": "Diesel Link",
-                        "title": "Team Meat Privacy Policy"
+                        "title": "Política de Privacidade da Team Meat"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -230,8 +226,8 @@
                     "developerAttribution": "Team Meat",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Team Meat",
-                    "description": "The challenge of Super Meat Boy returns in Super Meat Boy Forever! Levels are brutal and death is inevitable. Players will run, jump, punch and kick their way through familiar places and new worlds all while enjoying a story truly meant for the big screen.",
-                    "shortDescription": "The challenge of Super Meat Boy returns in Super Meat Boy Forever! Levels are brutal and death is inevitable. Players will run, jump, punch and kick their way through familiar places and new worlds all while enjoying a story truly meant for the big screen.",
+                    "description": "Os desafios do Super Meat Boy estão de volta em Super Meat Boy Forever! Os níveis são brutais e a morte é inevitável. Os jogadores vão correr, pular, dar socos e chutes ao longo da aventura que passará por lugares familiares e novos mundos, enquanto desfrutam de uma história verdadeiramente pensada para a telona.",
+                    "shortDescription": "Os desafios do Super Meat Boy estão de volta em Super Meat Boy Forever! Os níveis são brutais e a morte é inevitável. Os jogadores vão correr, pular, dar socos e chutes ao longo da aventura que passará por lugares familiares e novos mundos, enquanto desfrutam de uma história verdadeiramente pensada para a telona.",
                     "title": "Super Meat Boy Forever",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -319,9 +315,6 @@
                 },
                 "dlc": {
                     "contingentOffer": {
-                        "regionRestrictions": {
-                            "_type": "Store Region Filtering"
-                        },
                         "_type": "Diesel Offer",
                         "hasOffer": false
                     },

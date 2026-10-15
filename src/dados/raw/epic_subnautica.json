@@ -20,12 +20,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/subnautica",
+    "_urlPattern": "/pt-BR/productv2/subnautica",
     "_slug": "subnautica",
     "_activeDate": "2018-11-18T20:34:15.472Z",
-    "lastModified": "2019-05-13T14:51:12.716Z",
-    "_locale": "en-US",
-    "_id": "c96ab36f-0634-4c39-8127-6eaef92632fe",
+    "lastModified": "2019-08-16T18:05:57.291Z",
+    "_locale": "pt-BR",
+    "_id": "f96ab162-e236-43e4-8676-112dda17baa8",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -50,12 +50,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/subnautica/home",
+            "_urlPattern": "/pt-BR/productv2/subnautica/home",
             "_slug": "home",
             "_activeDate": "2018-11-18T20:35:10.161Z",
-            "lastModified": "2023-06-20T22:35:27.928Z",
-            "_locale": "en-US",
-            "_id": "5ccc00c7-207f-40f2-bacf-c97a6186b621",
+            "lastModified": "2023-06-20T22:32:49.311Z",
+            "_locale": "pt-BR",
+            "_id": "db94950c-603d-40f6-962d-6eac0b987d49",
             "_templateName": "productDetail",
             "item": {
                 "catalogId": "3257e06c28764231acd93049f3774ed6",
@@ -65,17 +65,6 @@
                 "hasItem": true
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/subnautica",
-                    "linkFacebook": "https://facebook.com/subnautica",
-                    "linkYoutube": "https://youtube.com/subnautica",
-                    "_type": "Diesel Social Links",
-                    "title": "Follow Subnautica",
-                    "linkInstagram": "https://instagram.com/subnautica"
-                },
                 "requirements": {
                     "systems": [
                         {
@@ -84,39 +73,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows Vista SP2 or newer, 64-bit",
-                                    "recommended": "Windows Vista SP2 or newer, 64-bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows Vista SP2 de 64 bits ou mais recente",
+                                    "recommended": "Windows Vista SP2 de 64 bits ou mais recente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "Intel Haswell 2 cores / 4 threads @2.5Ghz or equivalent",
-                                    "recommended": "Intel Haswell 4 cores / 4 threads @3.2Ghz or equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Haswell 2 cores / 4 threads de 2,5 Ghz ou equivalente",
+                                    "recommended": "Intel Haswell 4 cores / 4 threads de 3,2 Ghz ou equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Intel HD 4600 or equivalent. This includes most GPUs scoring greater than 950 points in the 3DMark Fire Strike benchmark.",
-                                    "recommended": "Nvidia GTX 550 Ti or equivalent, 2GB VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 4600 ou equivalente. Isso inclui a maioria das GPUs com pontuação superior a 950 no teste de referência Fire Strike do 3DMark.",
+                                    "recommended": "Nvidia GTX 550 Ti ou equivalente, 2 GB de VRAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "DirectX version",
+                                    "title": "Versão do DirectX",
                                     "minimum": "11",
                                     "recommended": "11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Disk space",
-                                    "minimum": "20GB",
-                                    "recommended": "20GB"
+                                    "title": "Espaço em disco",
+                                    "minimum": "20 GB",
+                                    "recommended": "20 GB"
                                 }
                             ]
                         },
@@ -126,33 +115,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "OS X 10.9 Mavericks",
                                     "recommended": "OS X 10.9 Mavericks"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "Intel Haswell 2 cores / 4 threads @2.5Ghz or equivalent",
-                                    "recommended": "Intel Haswell 4 cores / 4 threads @3.2Ghz or equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Haswell 2 cores / 4 threads de 2,5 Ghz ou equivalente",
+                                    "recommended": "Intel Haswell 4 cores / 4 threads de 3,2 Ghz ou equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Intel HD 4600 or equivalent. This includes most GPUs scoring greater than 950 points in the 3DMark Fire Strike benchmark.",
-                                    "recommended": "Nvidia GTX 550 Ti or equivalent, 2GB VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 4600 ou equivalente. Isso inclui a maioria das GPUs com pontuação superior a 950 no teste de referência Fire Strike do 3DMark.",
+                                    "recommended": "Nvidia GTX 550 Ti ou equivalente, 2 GB de VRAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Disk Space",
-                                    "minimum": "20GB",
-                                    "recommended": "20GB"
+                                    "title": "Espaço em disco",
+                                    "minimum": "20 GB",
+                                    "recommended": "20 GB"
                                 }
                             ]
                         }
@@ -163,27 +152,38 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fhome%2FSubnautica-Ratings-Footer-1-320x117-e95d8024ff23b3e0aee8b1d2fc631ac6b148a271.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "12세이용가"
+                            "title": "Classificação etária na Coreia do Sul: 12 anos"
                         },
                         {
                             "countryCodes": "KR",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fhome%2FSubnautica-Ratings-Footer-2-822x152-2414b1ee61593ddd005d40489fc0637bde137534.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "12세이용가"
+                            "title": "Classificação etária na Coreia do Sul: 12 anos"
                         },
                         {
                             "countryCodes": "US,CA",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FESRB_Subnautica-842x404-222d527547abb534075472f90fda121a1ab62d0a.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "EVERYONE 10+"
+                            "title": "Classificação etária nos Estados Unidos: 10 anos"
                         }
                     ],
                     "_type": "Diesel System Details",
                     "rating": {
                         "_type": "Diesel Rating"
                     }
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/subnautica",
+                    "linkFacebook": "https://facebook.com/subnautica",
+                    "linkYoutube": "https://youtube.com/subnautica",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga o Subnautica",
+                    "linkInstagram": "https://instagram.com/subnautica"
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
                 },
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -202,8 +202,8 @@
                     "developerAttribution": "Unknown Worlds Entertainment",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Unknown Worlds Entertainment",
-                    "description": "Subnautica is an underwater adventure game set on an alien ocean planet. A massive, open world full of wonder and peril awaits you!\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F10_SeaglidingInGrassyPlats-1920x1080-8d9db3145f7e3afb5310d454cfb8a67673c2bffb.jpg)\n\n# Dive Into a Vast Underwater World\n\nYou have crash-landed on an alien ocean world and the only way to go is down. Manage your oxygen supply as you explore kelp forests, plateaus, reefs, and winding cave systems. The water teems with life: Some of it helpful, much of it harmful.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F3_MushroomForestReaper-1920x1080-250dd117ed916fc4274d42fb986d0f6b13eab87d.jpg)\n\n# Scavenge, Craft, and Survive\n\nAfter crash landing in your Life Pod, the clock is ticking to ﬁnd water, food, and to develop the equipment you need to explore. Collect resources from the ocean around you. Craft diving gear, lights, habitat modules, and submersibles.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F5_BulbZoneBase-1920x1080-17bf74ac68b7d258b85eda4966a6287013441b11.jpg)\n\n# Construct Underwater Habitats\n\nBuild bases on the sea ﬂoor. Choose layouts and components, and manage hull-integrity as depth and pressure increase. Use your base to store resources, park vehicles, and replenish oxygen supplies as you explore the vast ocean.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F9_Lifepod6-1920x1080-1786a56585d0cd5e7fa60d7eaffda8aa77ed0f72.jpg)\n\n# Unravel the Mystery\n\nWhat happened to this planet? Signs abound that something is not right. What caused you to crash? What is infecting the sea life? Who built the mysterious structures scattered around the ocean? Can you ﬁnd a way to make it oﬀ the planet alive?\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F4_KelpForest-1920x1080-fa25b289af4b64e8c2e6160ae8135a82f0ea7c91.jpg)\n\n# Disrupt the Food Chain\n\nThe ocean teems with life: Use the ecosystem to help you. Lure and distract a threatening creature with a fresh ﬁsh, or simply swim as fast as you can to avoid gnashing jaws of roaming predators.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F6_LostRiver_Bonesfield-1920x1080-1a1c99f7b6a5580ee57c9b778e40d282f5404a4b.jpg)\n\n# Handle the Pressure\n\nBuild a Pressure Re-Active Waterproof Nanosuit, or PRAWN Suit, and explore extreme depth and heat. Modify the suit with mining drills, torpedo launchers, propulsion cannons, grappling hooks and more.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F8_CrabsquidAttack-1920x1080-8a4b82aea42128903036196c67acf8b1421201b4.jpg)\n\n# Fear the Night\n\nAs the sun goes down, the predators come out. Areas that are safe to explore during the day become treacherous at night, but also reveal a beauty that those who hide from the darkness will never see.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F7_LavaLizards-1920x1080-e4feae53f5e8c93f547d28749362aa403c51e02a.jpg)\n\n# Dive Below the Ocean Floor \n\nCave systems wind below the sea bed, from dark, tiny passages to caverns lit by bioluminescent life and burning-hot lava ﬂows. Watch your oxygen levels, and take care to avoid the threats lurking in the darkness.\n\n# About the development team\n\nSubnautica is created by Unknown Worlds, a small studio that traces its roots back to the 2002 Half-Life mod Natural Selection. The team is scattered around the globe, from the United States to the United Kingdom, France, Austria, Australia, and many more.\n\n# Warning\n\nThis game contains ﬂashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.\n",
-                    "title": "Prepare to dive",
+                    "description": "Subnautica é um jogo de aventura subaquática ambientado em um planeta oceânico alienígena. Um enorme mundo aberto, cheio de maravilhas e perigos, está à sua espera!\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F10_SeaglidingInGrassyPlats-1920x1080-8d9db3145f7e3afb5310d454cfb8a67673c2bffb.jpg)\n\n# Mergulhe em um vasto mundo subaquático\n\nVocê faz uma aterrissagem forçada em um mundo oceânico alienígena e a única maneira de avançar é descendo. Gerencie seu suprimento de oxigênio enquanto explora florestas de algas, platôs, recifes e sistemas de cavernas sinuosos. A água é repleta de formas de vida — algumas delas úteis; muitas, prejudiciais.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F3_MushroomForestReaper-1920x1080-250dd117ed916fc4274d42fb986d0f6b13eab87d.jpg)\n\n# Colete, fabrique e sobreviva\n\nApós uma aterrissagem forçada em sua Cápsula de Sobrevivência, você deve se apressar para encontrar água potável e comida, e desenvolver o equipamento necessário para explorar. Colete recursos do oceano à sua volta. Fabrique equipamentos de mergulho, luzes, módulos de habitat e submarinos.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F5_BulbZoneBase-1920x1080-17bf74ac68b7d258b85eda4966a6287013441b11.jpg)\n\n# Construa habitats subaquáticos\n\nConstrua bases no leito do oceano. Escolha layouts e componentes, e gerencie a integridade do casco conforme a profundidade e a pressão aumentam. Use sua base para armazenar recursos, estacionar veículos e reabastecer o estoque de oxigênio enquanto explora o vasto oceano.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F9_Lifepod6-1920x1080-1786a56585d0cd5e7fa60d7eaffda8aa77ed0f72.jpg)\n\n# Desvende o mistério\n\nO que aconteceu com este planeta? Há muitos sinais de que há algo de errado. O que causou sua queda? O que está infectando a vida marinha? Quem construiu as estruturas misteriosas espalhadas pelo oceano? Será que você consegue encontrar uma forma de sair do planeta vivo?\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F4_KelpForest-1920x1080-fa25b289af4b64e8c2e6160ae8135a82f0ea7c91.jpg)\n\n# Rompa a cadeia alimentar\n\nO oceano é repleto de formas de vida — use o ecossistema a seu favor. Atraia e distraia uma criatura ameaçadora com um peixe fresco ou simplesmente nade o mais rápido que puder para evitar as mandíbulas vorazes de predadores.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F6_LostRiver_Bonesfield-1920x1080-1a1c99f7b6a5580ee57c9b778e40d282f5404a4b.jpg)\n\n# Aguente a pressão\n\nConstrua um traje PRAWN (\"Nanotraje à Prova d'Água Reativo à Pressão\") e explore profundidade e calor extremos. Modifique o traje com brocas de mineração, lançadores de torpedo, canhões de propulsão, arpéus e muito mais.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F8_CrabsquidAttack-1920x1080-8a4b82aea42128903036196c67acf8b1421201b4.jpg)\n\n# Tenha medo da noite\n\nQuando o sol se põe, os predadores saem da toca. Áreas que são seguras para explorar durante o dia tornam-se traiçoeiras à noite, mas também revelam uma beleza que aqueles que se escondem da escuridão nunca verão.\n\n![Subnautica Image](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2F7_LavaLizards-1920x1080-e4feae53f5e8c93f547d28749362aa403c51e02a.jpg)\n\n# Mergulhe abaixo do leito do oceano \n\nSistemas de cavernas passam por baixo do leito marinho, com passagens escuras e minúsculas, cavernas iluminadas por vida bioluminescente e rios de lava escaldante. Observe seus níveis de oxigênio e tome cuidado para evitar as ameaças que espreitam na escuridão.\n\n# Sobre a equipe de desenvolvimento\n\nSubnautica foi criado pela Unknown Worlds, um pequeno estúdio cujas raízes remontam ao mod Natural Selection, de 2002, para Half-Life. A equipe está espalhada por todo o mundo, dos Estados Unidos ao Reino Unido, França, Áustria, Austrália e muitos outros lugares.\n\n# Aviso\n\nEste jogo contém luzes piscantes que podem torná-lo inadequado para pessoas com epilepsia fotossensível ou outros problemas de fotossensibilidade. Aconselha-se o discernimento por parte do jogador.\n",
+                    "title": "Prepare-se para mergulhar",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -256,7 +256,6 @@
                     "items": [
                         {
                             "image": {
-                                "altText": "Subnautica for PC",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_MushroomForestReaper_1920x1080-1920x1080-f6a7bc0926ffcaac499eeff7f888447e316709f6.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -272,7 +271,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Download Subnautica",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_SeaglidingInGrassyPlats__1920x1080-1920x1080-c89a83dfc6b4f808a8d98e22d97adbed3c1c9dcf.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -288,7 +286,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Subnautica Lifepod",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_Lifepod__1920x1080-1920x1080-0546ca091b05c3da38f9840390a55ce17dbc5eda.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -304,7 +301,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Subnautica Kelp Forest",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_KelpForest_1920x1080-1920x1080-078dbbec6550dc5fda06acf7f0ce96f87313cd45.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -320,7 +316,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Subnautica Base Building",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_BulbZoneBase_1920x1080-1920x1080-fda9ab7fab592e3ff02620bf10ae80eaa47dcddd.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -385,9 +380,7 @@
                     "_type": "Epic Store Product SEO",
                     "og": {
                         "_type": "SEO OG Metadata"
-                    },
-                    "description": "Download and play Subnautica for PC and macOS at the Epic Games Store. Subnautica is an underwater adventure game set on an alien ocean planet.",
-                    "title": "Subnautica | Download and Buy Subnautica for PC - Epic Games Store"
+                    }
                 },
                 "productSections": [
                     {
@@ -431,16 +424,16 @@
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fhome%2FSubnautica-Ratings-Footer-2-822x152-2414b1ee61593ddd005d40489fc0637bde137534.png",
                 "https://cdn2.unrealengine.com/sn-epicportrait-1200x1800-ea43daa48980.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FESRB_Subnautica-842x404-222d527547abb534075472f90fda121a1ab62d0a.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fsubnautica_logo_nopadding-6599x888-32867b07ad399c2ee9626206103141c8f0cce01e.png",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_KelpForest_1920x1080-1920x1080-078dbbec6550dc5fda06acf7f0ce96f87313cd45.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fsubnautica_logo_nopadding-6599x888-32867b07ad399c2ee9626206103141c8f0cce01e.png",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_BulbZoneBase_1920x1080-1920x1080-fda9ab7fab592e3ff02620bf10ae80eaa47dcddd.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fhome%2FSubnautica-Ratings-Footer-1-320x117-e95d8024ff23b3e0aee8b1d2fc631ac6b148a271.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsubnautica%2Fhome%2FDiesel_product_subnautica_Subnautica_loop_WebMvp8-6a7b3f6de1c4bafb8bec2cba4c588a9f97e05e33-52c25c6856be1d83485b55a76baf2c1a842434bd.mp4",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_SeaglidingInGrassyPlats__1920x1080-1920x1080-c89a83dfc6b4f808a8d98e22d97adbed3c1c9dcf.jpg",
-                "https://cdn2.unrealengine.com/sn-epiclandscape-2560x1440-40b2ff76f878.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsubnautica%2Fhome%2FDiesel_product_subnautica_Subnautica_loop_WebMvp8-6a7b3f6de1c4bafb8bec2cba4c588a9f97e05e33-52c25c6856be1d83485b55a76baf2c1a842434bd.mp4",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_MushroomForestReaper_1920x1080-1920x1080-f6a7bc0926ffcaac499eeff7f888447e316709f6.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2FSubnautica_loop_WebMvp8-6a7b3f6de1c4bafb8bec2cba4c588a9f97e05e33.webm",
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_Lifepod__1920x1080-1920x1080-0546ca091b05c3da38f9840390a55ce17dbc5eda.jpg"
+                "https://cdn2.unrealengine.com/sn-epiclandscape-2560x1440-40b2ff76f878.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2Fgallery%2FSubnautica_Lifepod__1920x1080-1920x1080-0546ca091b05c3da38f9840390a55ce17dbc5eda.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsubnautica%2FSubnautica_loop_WebMvp8-6a7b3f6de1c4bafb8bec2cba4c588a9f97e05e33.webm"
             ],
             "offer": {
                 "regionRestrictions": {

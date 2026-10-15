@@ -49,12 +49,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/among-us",
+    "_urlPattern": "/pt-BR/productv2/among-us",
     "_slug": "among-us",
     "_activeDate": "2020-11-30T15:51:28.088Z",
-    "lastModified": "2021-05-26T19:55:10.503Z",
-    "_locale": "en-US",
-    "_id": "157ea63e-346b-4695-986c-18d6c128a518",
+    "lastModified": "2020-12-16T19:45:49.335Z",
+    "_locale": "pt-BR",
+    "_id": "2f6f5589-2628-4f53-bee5-cc9b1f26bf3a",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -110,12 +110,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/among-us/all-in-one-pack",
+            "_urlPattern": "/pt-BR/productv2/among-us/all-in-one-pack",
             "_slug": "all-in-one-pack",
             "_activeDate": "2020-12-06T07:31:19.194Z",
-            "lastModified": "2021-05-27T15:16:11.159Z",
-            "_locale": "en-US",
-            "_id": "00170f02-3760-48db-b45b-8c9e5d6edef2",
+            "lastModified": "2021-04-20T14:27:38.947Z",
+            "_locale": "pt-BR",
+            "_id": "879f3c43-fac5-48c5-8381-0a08fc09826d",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -135,8 +135,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Portuguese - Brazil, Spanish - Latin America, Spanish - Spain, Korean, Russian"
+                        "Áudio: inglês",
+                        "Texto: inglês, português (Brasil), espanhol (América Latina), espanhol (Espanha), coreano, russo"
                     ],
                     "systems": [
                         {
@@ -145,33 +145,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 SP1+",
-                                    "recommended": "Windows 7 SP1+"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 SP1 ou superior",
+                                    "recommended": "Windows 7 SP1 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "SSE2 instruction set support",
-                                    "recommended": "SSE2 instruction set support"
+                                    "title": "Processador",
+                                    "minimum": "Suporte para o conjunto de instruções SSE2",
+                                    "recommended": "Suporte para o conjunto de instruções SSE2"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1 GB RAM",
-                                    "recommended": "1 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "250 MB available space",
-                                    "recommended": "250 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "250 MB de espaço livre",
+                                    "recommended": "250 MB de espaço livre"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 10"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
                                 }
                             ]
                         }
@@ -185,7 +185,7 @@
                 "navOrder": 3,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "(c) 2015-2020, Innersloth LLC. All rights reserved. Innersloth, the Innersloth logo, Among Us, the Among Us logo and the crewmate character are trademarks of Innersloth LLC.",
+                    "copy": "(c) 2015-2020, Innersloth LLC. Todos os direitos reservados. Innersloth, o logotipo da Innersloth, Among Us, o logotipo de Among Us e o personagem Tripulante são marcas registradas da Innersloth LLC.",
                     "privacyPolicyLink": {
                         "src": "http://www.innersloth.com/privacy.php",
                         "_type": "Diesel Link"
@@ -201,9 +201,9 @@
                     "developerAttribution": "Innersloth",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Innersloth",
-                    "description": "This version includes the Among Us game and all of the DLC items:  Airship, Polus and MIRA HQ Skins, and Hamster Pet, Bedcrab Pet, Brainslug Pet, Stickmin Pet, and Mini Crewmate bundles.\n",
-                    "shortDescription": "Support Innersloth and live life as a legend with ALL the skins and pets. Strut around in the latest space styles and choose between 10 different alien pets to accompany you on your treacherous journey. They'll love you whether or not you're an Impostor. Awww",
-                    "title": "Among Us All-in-One Pack",
+                    "description": "Esta versão inclui o jogo Among Us e todos os itens de DLC: os visuais Airship, Polus e MIRA HQ, e também os pacotes de mascotes Hamster, Bedcrab, Cérebro de Lesma, Stickmin e Minitripulante.\n\nApoie a Innersloth e viva como uma lenda com TODOS os visuais e mascotes. Exiba os mais novos estilos espaciais e escolha entre 10 mascotes alienígenas diferentes para acompanhá-lo em sua jornada perigosa. Eles vão adorar você, seja você um Impostor ou não. Own",
+                    "shortDescription": "Apoie a Innersloth e viva como uma lenda com TODOS os visuais e mascotes. Exiba os mais novos estilos espaciais e escolha entre 10 mascotes alienígenas diferentes para acompanhá-lo em sua jornada perigosa. Eles vão adorar você, seja você um Impostor ou não. Own",
+                    "title": "Among Us: Pacote All-in-One",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -234,7 +234,7 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "title": "Among Us All-in-One Pack",
+                    "title": "Among Us: Pacote All-in-One",
                     "isFullBleed": false,
                     "altContentPosition": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-amongusallinonepack-innersloth-editions-s1-2560x1440-d0bac5efb150.jpg"
@@ -313,10 +313,6 @@
                 },
                 "productSections": [
                     {
-                        "productSection": "CAROUSEL",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
                         "productSection": "SOCIAL_LINKS",
                         "_type": "Diesel Product Section"
                     },
@@ -336,7 +332,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Among Us All-in-One Pack "
+                "navTitle": "Among Us: Pacote All-in-One (novo)"
             },
             "type": "offer",
             "offer": {
@@ -408,12 +404,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/among-us/starter-pack",
+            "_urlPattern": "/pt-BR/productv2/among-us/starter-pack",
             "_slug": "starter-pack",
             "_activeDate": "2020-12-06T07:35:15.925Z",
-            "lastModified": "2021-05-27T15:23:26.019Z",
-            "_locale": "en-US",
-            "_id": "b42c07fc-18ee-4973-a415-4f545ea60219",
+            "lastModified": "2020-12-16T19:46:27.819Z",
+            "_locale": "pt-BR",
+            "_id": "7f7b8b61-88c9-45a7-815c-d492bb4d812e",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -433,8 +429,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Portuguese - Brazil, Spanish - Latin America, Spanish - Spain, Korean, Russian"
+                        "Áudio: inglês",
+                        "Texto: inglês, português (Brasil), espanhol (América Latina), espanhol (Espanha), coreano, russo"
                     ],
                     "systems": [
                         {
@@ -443,33 +439,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 SP1+",
-                                    "recommended": "Windows 7 SP1+"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1 +",
+                                    "recommended": "Windows 7 SP1 +"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "SSE2 instruction set support",
-                                    "recommended": "SSE2 instruction set support"
+                                    "title": "Processador",
+                                    "minimum": "Suporte para o conjunto de instruções SSE2",
+                                    "recommended": "Suporte para o conjunto de instruções SSE2"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1 GB RAM",
-                                    "recommended": "1 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "250 MB available space",
-                                    "recommended": "250 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "250 MB de espaço livre",
+                                    "recommended": "250 MB de espaço livre"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 10"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
                                 }
                             ]
                         }
@@ -483,7 +479,7 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "(c) 2015-2020, Innersloth LLC. All rights reserved. Innersloth, the Innersloth logo, Among Us, the Among Us logo and the crewmate character are trademarks of Innersloth LLC.",
+                    "copy": "(c) 2015-2020, Innersloth LLC. Todos os direitos reservados. Innersloth, o logotipo da Innersloth, Among Us, o logotipo de Among Us e o personagem Tripulante são marcas registradas da Innersloth LLC.",
                     "privacyPolicyLink": {
                         "src": "http://www.innersloth.com/privacy.php",
                         "_type": "Diesel Link"
@@ -498,9 +494,9 @@
                     "developerAttribution": "Innersloth",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Innersloth",
-                    "description": "This version includes the base game Among Us, Hamster Pet bundle, Polus Skins and MIRA HQ Skins.\n\nWhether you're starting life off as a Crewmate or Impostor, do it in style! Bundle up and get to work fixing (or sabotaging..?) with your Polus and MIRA HQ outfits. And don't forget to bring along the one thing you CAN trust - your new pets!",
-                    "shortDescription": "Whether you're starting life off as a Crewmate or Impostor, do it in style! Bundle up and get to work fixing (or sabotaging..?) with your Polus and MIRA HQ outfits. And don't forget to bring along the one thing you CAN trust - your new pets!",
-                    "title": "Among Us Starter Pack",
+                    "description": "Esta versão inclui o jogo base Among Us, o Pacote Hamster, Visuais Polus e Visuais MIRA HQ.\n\nQuer você esteja começando a vida como um Tripulante, quer como Impostor, não perca o estilo! Vista-se e comece o conserto (ou a sabotagem..?) com seus trajes para Polus e MIRA HQ. E não se esqueça de trazer com você a única coisa em que PODE confiar – seus novos mascotes!",
+                    "shortDescription": "Quer você esteja começando a vida como um Tripulante, quer como Impostor, não perca o estilo! Vista-se e comece o conserto (ou a sabotagem..?) com seus trajes para Polus e MIRA HQ. E não se esqueça de trazer com você a única coisa em que PODE confiar – seus novos mascotes!",
+                    "title": "Among Us: Pacote Iniciante",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -530,7 +526,7 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "title": "Among Us Starter Pack",
+                    "title": "Among Us: Pacote Iniciante",
                     "isFullBleed": false,
                     "altContentPosition": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-amongusstarterpack-innersloth-editions-s1-2560x1440-864cd6246744.jpg"
@@ -624,7 +620,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Among Us Starter Pack"
+                "navTitle": "Among Us: Pacote Iniciante"
             },
             "type": "offer",
             "offer": {
@@ -674,10 +670,11 @@
             "regionBlock": "",
             "_noIndex": false,
             "_images_": [
-                "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-04-1920x1080-beb449f0e067.jpg",
+                "https://cdn2.unrealengine.com/egs-amongus-innersloth-s1-2560x1440-675403774.jpg",
+                "https://cdn2.unrealengine.com/egs-amongus-innersloth-s6-1200x1600-675403712.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g2-02-1920x1080-caa3acd91a4a.jpg",
+                "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-04-1920x1080-beb449f0e067.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g2-00-1920x1080-fb38dc819940.jpg",
-                "https://cdn2.unrealengine.com/egs-amongus-innersloth-s2-1200x1600-40b98360da5a.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g2-03-1920x1080-738e4ef8ea93.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-12-1920x1080-7b812baed26f.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-11-1920x1080-3a90d074cf62.jpg",
@@ -686,8 +683,8 @@
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-08-1920x1080-f7c1cb574496.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g2-01-1920x1080-76030aaebf7c.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-10-1920x1080-c3d6d566321c.jpg",
-                "https://cdn2.unrealengine.com/egs-amongus-innersloth-s1-2560x1440-7d73e2bd1b8e.jpg",
-                "https://cdn2.unrealengine.com/egs-amongus-innersloth-ic1-400x400-78897c653ffe.png",
+                "https://cdn2.unrealengine.com/egs-amongus-innersloth-s2-1200x1600-675403632.jpg",
+                "https://cdn2.unrealengine.com/egs-amongus-innersloth-ic1-400x400-675402583.png",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-03-1920x1080-2b74d07d4ea1.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-09-1920x1080-e401bdaa75dd.jpg",
                 "https://cdn2.unrealengine.com/egs-amongus-innersloth-g1a-02-1920x1080-0729ec4e1291.jpg",
@@ -714,34 +711,30 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/among-us/home",
+            "_urlPattern": "/pt-BR/productv2/among-us/home",
             "_slug": "home",
             "_activeDate": "2023-06-13T16:55:00.000Z",
-            "lastModified": "2023-08-22T18:27:08.697Z",
-            "_locale": "en-US",
-            "_id": "7db7e2ed-a157-4b33-8eeb-997aa347a97d",
+            "lastModified": "2023-04-14T16:28:12.093Z",
+            "_locale": "pt-BR",
+            "_id": "0b1c9ec7-fb30-44b5-a88f-a52b44c8b358",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/AmongUsGame",
                     "linkTwitch": "https://www.twitch.tv/innerslothdevs",
                     "linkFacebook": "https://www.facebook.com/Innersloth/",
-                    "linkYoutube": "https://www.youtube.com/@Innersloth",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.com/invite/innersloth",
                     "linkHomepage": "http://www.innersloth.com/gameAmongUs.php"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Portuguese - Brazil, Spanish - Latin America, Spanish - Spain, Korean, Russian"
+                        "Áudio: inglês",
+                        "Texto: inglês, português (Brasil), espanhol (América Latina), espanhol (Espanha), coreano, russo"
                     ],
                     "systems": [
                         {
@@ -785,6 +778,42 @@
                                     "recommended": "Nvidia GTX 650"
                                 }
                             ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1 ou superior",
+                                    "recommended": "Windows 10 x64bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Suporte para o conjunto de instruções SSE2",
+                                    "recommended": "Suporte para o conjunto de instruções SSE2"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "250 MB de espaço livre",
+                                    "recommended": "250 MB de espaço livre"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
+                                }
+                            ]
                         }
                     ],
                     "accountRequirements": "EPIC_ACCOUNT",
@@ -793,10 +822,13 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": " (c) 2015-2021, Innersloth LLC. All rights reserved. Innersloth, the Innersloth logo, Among Us, the Among Us logo and the crewmate character are trademarks of Innersloth LLC.",
+                    "copy": "(c) 2015-2020, Innersloth LLC. Todos os direitos reservados. Innersloth, o logotipo da Innersloth, Among Us, o logotipo de Among Us e o personagem Tripulante são marcas registradas da Innersloth LLC.",
                     "privacyPolicyLink": {
                         "src": "http://www.innersloth.com/privacy.php",
                         "_type": "Diesel Link"
@@ -805,15 +837,14 @@
                 "_type": "Diesel Product Detail",
                 "about": {
                     "image": {
-                        "altText": "Among Us",
-                        "src": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s2-1200x1600-40b98360da5a.jpg",
+                        "src": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s6-1200x1600-675403712.jpg",
                         "_type": "Diesel Image"
                     },
                     "developerAttribution": "Innersloth ",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Innersloth ",
-                    "description": "Life as a Crewmate: Complete all your tasks on the ship to win, but watch out for Impostors! Report dead bodies and call emergency meetings to vote the Impostors out. Hope you chose correctly!\n\nPlay as an Impostor: Cause chaos, sneak around, and frame innocent bystanders! Winning involves killing off every Crewmate - think you’re a master of sabotage?\n\nCustomization: Choose how you want to play! Add more Impostors, tasks, decrease visibility and more. All in style as you get to choose your favorite color, outfit, and hat.\n\nCross-platform: play with your friends between PC, mobile, and console.\n",
-                    "shortDescription": "Play with 4-15 players online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone! ",
+                    "description": "Vida de Tripulante: cumpra todas as tarefas na nave para vencer, mas cuidado com os Impostores! Notifique corpos encontrados e convoque reuniões para votar na expulsão dos Impostores. Vote com consciência!\n\nJogue como Impostor: espalhe o caos, esconda-se pelos cantos e acuse inocentes! A vitória se conquista matando todos os Tripulantes. Será que você é mestre na arte da sabotagem?\n\nPersonalização: escolha como você quer jogar! Acrescente Impostores e tarefas, reduza a visibilidade e muito mais. Tudo com muito estilo: você escolhe sua cor, roupa e chapéu.\n\nMultiplataforma: jogue com seus amigos entre PC, Android e iOS!\n",
+                    "shortDescription": "Jogue com 4 a 15 jogadores online ou na sua rede Wi-Fi enquanto prepara sua nave para decolar, mas cuidado! Um ou mais jogadores aleatórios da Tripulação são Impostores e estão doidos pra matar geral!",
                     "title": "Among Us ",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -832,11 +863,10 @@
                 },
                 "hero": {
                     "logoImage": {
-                        "altText": "Among Us for PC",
-                        "src": "https://cdn2.unrealengine.com/egs-amongus-innersloth-ic1-400x400-78897c653ffe.png",
+                        "src": "https://cdn2.unrealengine.com/egs-amongus-innersloth-ic1-400x400-675402583.png",
                         "_type": "Diesel Image"
                     },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s2-1200x1600-40b98360da5a.jpg",
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s2-1200x1600-675403632.jpg",
                     "_type": "Diesel Hero",
                     "action": {
                         "_type": "Diesel Action"
@@ -852,7 +882,7 @@
                     "title": "Among Us ",
                     "isFullBleed": false,
                     "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s1-2560x1440-7d73e2bd1b8e.jpg"
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s1-2560x1440-675403774.jpg"
                 },
                 "carousel": {
                     "_type": "Diesel Carousel",
@@ -1107,8 +1137,8 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "description": "Download and play Among Us online with 4-10 players or via local WiFi on PC as you attempt to prepare your spaceship for departure, and beware of the Imposter!",
-                    "title": "Among Us | Download and Play Among Us Online - Epic Games Store"
+                    "description": "Baixe e jogue Among Us online com 4 a 15 jogadores ou na sua rede Wi-Fi no PC enquanto prepara sua nave para decolar, mas cuidado com o Impostor!",
+                    "title": "Among Us | Baixe e Jogue Online para PC agora - Epic Games Store"
                 },
                 "productSections": [
                     {
@@ -1116,7 +1146,15 @@
                         "_type": "Diesel Product Section"
                     },
                     {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
                         "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
                         "_type": "Diesel Product Section"
                     },
                     {

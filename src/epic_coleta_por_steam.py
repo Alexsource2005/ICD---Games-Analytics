@@ -4,7 +4,7 @@ import re
 from epicstore_api import EpicGamesStoreAPI
 
 # Inicializa a API da Epic Games
-api = EpicGamesStoreAPI()
+api = EpicGamesStoreAPI(country="BR", locale="pt-BR")
 
 os.makedirs("dados/raw", exist_ok=True)
 
@@ -22,17 +22,18 @@ pasta_steam = "dados/raw"
 jogos_para_buscar = []
 
 for arquivo in os.listdir(pasta_steam):
-  if arquivo.startswith("steam_") and arquivo.endswith(".json"):
+  if arquivo.startswith("steam_gratis_") and arquivo.endswith(".json"):
     caminho = os.path.join(pasta_steam, arquivo)
-    with open(caminho, "r", encoding="utf-8") as f:
-      conteudo = json.load(f)
-      app_id = arquivo.replace("steam_", "").replace(".json", "")
-      try:
+    try:
+      with open(caminho, "r", encoding="utf-8") as f:
+        conteudo = json.load(f)
+        app_id = arquivo.replace("steam_gratis_", "").replace(".json", "")    
         if conteudo.get(str(app_id), {}).get("success"):
           nome_jogo = conteudo[str(app_id)]["data"]["name"]
-          jogos_para_buscar.append(nome_jogo)
-      except Exception:
-        continue
+          if nome_jogo not in jogos_para_buscar:
+            jogos_para_buscar.append(nome_jogo)
+    except Exception:
+      continue
 
 print(
     f"Encontrados {len(jogos_para_buscar)} nomes de jogos da Steam para buscar na"
@@ -72,59 +73,46 @@ for indice, nome in enumerate(jogos_para_buscar, start=1):
 
     jogo_encontrado = None
     if elements:
-      # Procura na lista de resultados o item cuja correspondência de título seja mais fidedigna
-      palavra_chave_principal = nome_busca.split()[0].lower()
-      for produto in elements:
+      palavras_originais = set(nome_busca.lower().split())
+      nums_orig = re.findall(r"\d+", nome_busca)
+
+      for produto in elements[:5]:
         titulo_prod = produto.get("title", "").lower()
-        # Validação básica para evitar falsos positivos grosseiros
-        if palavra_chave_principal in titulo_prod:
+        palavras_prod = set(titulo_prod.split())
+        nums_prod = re.findall(r"\d+", titulo_prod)
+
+        if nums_orig != nums_prod:
+          continue
+
+        intersecao = palavras_originais.intersection(palavras_prod)
+        if len(intersecao) >= max(1, len(palavras_originais) - 1):
           jogo_encontrado = produto
           break
 
-    if jogo_encontrado:
-      # Lógica robusta de slug: procura em productSlug, urlSlug ou mapeamentos alternativos
-      slug = (
-          jogo_encontrado.get("productSlug")
-          or jogo_encontrado.get("urlSlug")
-          or next(
-              (
-                  m.get("pageSlug")
-                  for m in jogo_encontrado.get("mappings", [])
-                  if m.get("pageSlug")
-              ),
-              None,
-          )
-      )
+      if jogo_encontrado:
+        slug = (jogo_encontrado.get("productSlug") or jogo_encontrado.get("urlSlug") or next((m.get("pageSlug") for m in jogo_encontrado.get("mappings", []) if m.get("pageSlug")), None,))
 
-      detalhes = None
-      if slug:
-        try:
-          detalhes = api.get_product(slug)
-        except Exception as e_detalhes:
-          print(
-              f"   ⚠️ Erro ao puxar detalhes profundos ({e_detalhes}), salvando"
-              " dados ao catálogo básico"
-          )
+        detalhes = None
+        if slug:
+          try:
+            detalhes = api.get_product(slug)
+          except Exception as e_detalhes:
+            print(f"Erro ao puxar detalhes profundos ({e_detalhes}), salvando dados do catalogo basico")
+            detalhes = jogo_encontrado
+        else:
           detalhes = jogo_encontrado
+          titulo_base = jogo_encontrado.get("title", "jogo_desconhecido")
+          slug = re.sub(r"[^\w\s-]", "", titulo_base).strip().lower()
+          slug = re.sub(r"\s+", "-", slug)
+          print(f"Slug direto não encontrado, gerando slug de catálogo básicopara '{titulo_base}'.")
+
+        slug_limpo = slug.replace("/", "_")
+        caminho_saida = f"dados/raw/epic_{slug_limpo}.json"
+
+        with open(caminho_saida, "w", encoding="utf-8") as f:
+          json.dump(detalhes, f, ensure_ascii=False, indent=4)
+        print(f"💾 Salvo com sucesso: epic_{slug_limpo}.json")
       else:
-        # Se nenhum slug direto foi encontrado, utiliza os dados básicos e cria um slug de segurança
-        detalhes = jogo_encontrado
-        titulo_base = jogo_encontrado.get("title", "jogo_desconhecido")
-        slug = re.sub(r"[^\w\s-]", "", titulo_base).strip().lower()
-        slug = re.sub(r"\s+", "-", slug)
-        print(
-            f"   ⚠️ Slug direto não encontrado, gerando slug de catálogo básico"
-            f" para '{titulo_base}'."
-        )
-
-      slug_limpo = slug.replace("/", "_")
-      caminho_saida = f"dados/raw/epic_{slug_limpo}.json"
-
-      with open(caminho_saida, "w", encoding="utf-8") as f:
-        json.dump(detalhes, f, ensure_ascii=False, indent=4)
-      print(f"   💾 Salvo com sucesso: epic_{slug_limpo}.json")
-    else:
-      print(f"   ❌ Nenhum jogo encontrado na Epic para '{nome}'.")
-
+        print(f"❌ Nenhum jogo correspondente encontrado na Epic para '{nome}'.")
   except Exception as e:
-    print(f"   ❌ Erro crítico ao buscar '{nome}': {e}")
+    print(f"❌ Erro crítico ao buscar '{nome}': {e}")

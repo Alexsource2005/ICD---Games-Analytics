@@ -2,16 +2,16 @@
     "title": "CARRION",
     "id": "4e3bae011096422d92a56fadfafacd2e",
     "namespace": "7c6d889f36124ae4b6269f8e1698a547",
-    "description": "CARRION is a reverse horror game in which you assume the role of an amorphous creature of unknown origins, stalking and consuming those that imprisoned you.  STALK. CONSUME. GROW. EVOLVE.",
+    "description": "CARRION é um jogo de terror reverso no qual você assume o papel de uma criatura amorfa de origem desconhecida, perseguindo e consumindo aqueles que o aprisionaram.  PERSIGA. CONSUMA. CRESÇA. EVOLUA.",
     "effectiveDate": "2020-10-29T13:00:00.000Z",
     "keyImages": [
         {
-            "type": "OfferImageWide",
-            "url": "https://cdn1.epicgames.com/7c6d889f36124ae4b6269f8e1698a547/offer/EGS_CARRION_PhobiaGameStudio_S3-2560x1440-790cef9b876a79f75582490ebd1e6ee4.jpg"
-        },
-        {
             "type": "OfferImageTall",
             "url": "https://cdn1.epicgames.com/7c6d889f36124ae4b6269f8e1698a547/offer/EGS_CARRION_PhobiaGameStudio_S2-1200x1600-b955011351d133b0b7fd9a728375d07f.jpg"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/7c6d889f36124ae4b6269f8e1698a547/offer/EGS_CARRION_PhobiaGameStudio_S3-2560x1440-790cef9b876a79f75582490ebd1e6ee4.jpg"
         },
         {
             "type": "Thumbnail",
@@ -86,9 +86,6 @@
             "id": "9547"
         },
         {
-            "id": "38237"
-        },
-        {
             "id": "1263"
         },
         {
@@ -151,31 +148,23 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 599,
-            "originalPrice": 1999,
+            "discountPrice": 5999,
+            "originalPrice": 5999,
             "voucherDiscount": 0,
-            "discount": 1400,
-            "currencyCode": "USD",
+            "discount": 0,
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$5.99",
-                "intermediatePrice": "$5.99"
+                "originalPrice": "R$ 59,99",
+                "discountPrice": "R$ 59,99",
+                "intermediatePrice": "R$ 59,99"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": [
-                    {
-                        "id": "d644c7808f5e4776a676e9576e688114",
-                        "endDate": "2026-10-15T15:00:00.000Z",
-                        "discountSetting": {
-                            "discountType": "PERCENTAGE"
-                        }
-                    }
-                ]
+                "appliedRules": []
             }
         ]
     }

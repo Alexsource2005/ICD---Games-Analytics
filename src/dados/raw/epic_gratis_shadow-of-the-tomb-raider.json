@@ -29,12 +29,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/shadow-of-the-tomb-raider",
+    "_urlPattern": "/pt-BR/productv2/shadow-of-the-tomb-raider",
     "_slug": "shadow-of-the-tomb-raider",
     "_activeDate": "2021-10-15T12:49:03.368Z",
     "lastModified": "2021-12-25T16:45:33.972Z",
-    "_locale": "en-US",
-    "_id": "ddfcc854-af5f-4acd-b0d5-5095f1e0c21c",
+    "_locale": "pt-BR",
+    "_id": "cefc609b-5a9d-4983-b43b-6d910da7c4b2",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -68,12 +68,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/shadow-of-the-tomb-raider/home",
+            "_urlPattern": "/pt-BR/productv2/shadow-of-the-tomb-raider/home",
             "_slug": "home",
             "_activeDate": "2021-10-15T12:50:05.893Z",
-            "lastModified": "2026-02-13T01:39:06.225Z",
-            "_locale": "en-US",
-            "_id": "2aeaef2b-a633-4689-895f-c90050b9ba4b",
+            "lastModified": "2023-09-13T21:53:33.042Z",
+            "_locale": "pt-BR",
+            "_id": "8b776718-8c31-4d04-b693-4c48d83b76eb",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -89,6 +89,61 @@
                 "hasItem": false
             },
             "data": {
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês, francês, italiano, alemão, espanhol (Espanha), árabe, chinês simplificado, chinês tradicional, polonês, português (Brasil), russo",
+                        "TEXTO: inglês, francês, italiano, alemão, espanhol (Espanha), árabe, chinês simplificado, chinês tradicional, coreano, polonês, português (Brasil), russo"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel i3-3220 ou AMD equivalente",
+                                    "recommended": "Intel Core i7 4770K de 3,40 GHz ou AMD Ryzen 5 1600 de 3,20 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "40 GB",
+                                    "recommended": "40 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "11",
+                                    "recommended": "12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GTX 660/GTX 1050 ou AMD Radeon HD 7770",
+                                    "recommended": "NVIDIA GTX 1060 6GB ou AMD Radeon RX 480 de 8GB"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
                 "productLinks": {
                     "_type": "Diesel Product Lins"
                 },
@@ -101,61 +156,6 @@
                     "linkHomepage": "",
                     "linkInstagram": ""
                 },
-                "requirements": {
-                    "languages": [
-                        "AUDIO: English, French, Italian, German, Spanish - Spain, Arabic, Chinese - Simplified, Chinese - Traditional, Polish, Portuguese - Brazil, Russian",
-                        "TEXT: English, French, Italian, German, Spanish - Spain, Arabic, Chinese - Simplified, Chinese - Traditional, Korean, Polish, Portuguese - Brazil, Russian"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 bit",
-                                    "recommended": "Windows 10 64 bit"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "i3-3220 INTEL or AMD Equivalent",
-                                    "recommended": "Intel Core i7 4770K, 3.40 Ghz or AMD Ryzen 5 1600, 3.20 Ghz"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "16GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "40GB",
-                                    "recommended": "40GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "DirectX",
-                                    "minimum": "11",
-                                    "recommended": "12"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GTX 660/GTX 1050 or AMD Radeon HD 7770",
-                                    "recommended": "Nvidia GTX 1060 6GB or AMD Radeon RX 480, 8GB"
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "EPIC_ACCOUNT",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
-                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -163,7 +163,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.eidosmontreal.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Policy Link"
+                        "title": "Link da política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -175,8 +175,8 @@
                     "developerAttribution": "Eidos-Montréal, Crystal Dynamics, Nixxes Software",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Crystal Dynamics",
-                    "description": "# As Lara Croft races to save the world from a Maya apocalypse, she must become the Tomb Raider she is destined to be.\n\nIn Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.",
-                    "shortDescription": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be.",
+                    "description": "# Durante a corrida de Lara Croft para salvar o mundo de um apocalipse maia, ela terá de cumprir com seu destino e se tornar a Tomb Raider.\n\nEm Shadow of the Tomb Raider: Definitive Edition você vivenciará o último capítulo da origem de Lara, no qual ela cumprirá seu destino e se tornará a Tomb Raider. Ao combinar o jogo de base, todas as tumbas de desafios dos sete DLCs, bem como todas as armas, trajes e habilidades complementares, Shadow of the Tomb Raider: Definitive Edition é a forma definitiva de vivenciar o momento determinante de Lara.",
+                    "shortDescription": "Em Shadow of the Tomb Raider: Definitive Edition você vivenciará o último capítulo da origem de Lara, no qual ela cumprirá seu destino e se tornará a Tomb Raider.",
                     "title": "Shadow of the Tomb Raider: Definitive Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -226,8 +226,8 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Shadow of the Tomb Raider trailer",
                                 "type": "epicHosted",
+                                "title": "Trailer de Shadow of the Tomb Raider",
                                 "muted": false,
                                 "autoplay": true
                             }
@@ -324,9 +324,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -337,7 +334,7 @@
                     "logo": {
                         "_type": "Epic Store Image"
                     },
-                    "customReleaseDate": "Coming soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows"
                     ],

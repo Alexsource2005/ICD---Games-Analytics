@@ -22,7 +22,6 @@
         ],
         "_type": "Epic Store Product Ratings"
     },
-    "disableNewAddons": false,
     "modMarketplaceEnabled": false,
     "_title": "next-up-hero",
     "regionBlock": "",
@@ -54,12 +53,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/next-up-hero",
+    "_urlPattern": "/pt-BR/productv2/next-up-hero",
     "_slug": "next-up-hero",
     "_activeDate": "2019-05-20T12:32:05.563Z",
-    "lastModified": "2021-04-29T15:31:10.112Z",
-    "_locale": "en-US",
-    "_id": "9be5a0fe-b473-44ef-a27b-d766f0464013",
+    "lastModified": "2020-07-02T21:01:44.944Z",
+    "_locale": "pt-BR",
+    "_id": "28e57731-6d1b-4b37-8594-4018767af307",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -86,7 +85,6 @@
                 ],
                 "_type": "Epic Store Product Ratings"
             },
-            "disableNewAddons": false,
             "modMarketplaceEnabled": false,
             "_title": "home",
             "regionBlock": "",
@@ -97,10 +95,10 @@
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_IC1_Color-821x469-94b89208c355920874a15e262bef7ab790508933.png",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_Gallery3_WIDGET-2560x1440-a68593406eb77f929baec8630b934471dd490a60.jpg",
                 "https://cdn2.unrealengine.com/all-v-210x117-372359304.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_Gallery2_TARGETS-2560x1440-ba972dc5e4ed8814e48e3fb9a8abf1b0d3303359.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FOFLC_NextUpHero-379x161-0cf25149ac85aa6b4104e7e3580b176121e85479.jpg",
-                "https://cdn2.unrealengine.com/coderedemption-nextuphero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-372359149.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_Gallery2_TARGETS-2560x1440-ba972dc5e4ed8814e48e3fb9a8abf1b0d3303359.jpg",
                 "https://cdn2.unrealengine.com/esrb-nextuphero-842x485-897305213.png",
+                "https://cdn2.unrealengine.com/coderedemption-nextuphero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-372359149.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fpegi_7-425x520-f3a704c6522957ca395c8db342fa6abf566892da.png",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_Gallery1_CHARA-2560x1440-00718734bd551bebd3f0ac91a6ddfa20cdb8ddee.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_6-480x480-2cc23d2f3abf55ff1ca267b25c3374b2df9ceefa.png",
@@ -133,12 +131,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/next-up-hero/home",
+            "_urlPattern": "/pt-BR/productv2/next-up-hero/home",
             "_slug": "home",
             "_activeDate": "2019-05-20T12:32:44.615Z",
-            "lastModified": "2022-08-31T13:56:04.367Z",
-            "_locale": "en-US",
-            "_id": "40b30178-bf6e-4cc5-866f-c423da26fa7a",
+            "lastModified": "2022-08-30T22:31:36.311Z",
+            "_locale": "pt-BR",
+            "_id": "9b1218c7-e67d-47b3-badb-f39ad7235dfb",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -153,23 +151,13 @@
                 "catalogId": "",
                 "appName": "",
                 "_type": "Diesel Product Item",
-                "namespace": "",
-                "hasItem": false
+                "hasItem": false,
+                "namespace": ""
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/nextuphero?lang=en",
-                    "linkYoutube": "https://www.youtube.com/channel/UCeL2pLQf40T2fLaeyLr7CAg",
-                    "_type": "Diesel Social Links",
-                    "title": "Follow Next Up Hero",
-                    "linkHomepage": "https://www.nextuphero.com/"
-                },
                 "requirements": {
                     "languages": [
-                        "English, French, Italian, German, Spanish, Polish, Brazilian Portuguese, Russian, Korean, Simplified Chinese, Turkish"
+                        "Inglês, francês, italiano, alemão, espanhol, polonês, português (Brasil), russo, coreano, chinês simplificado, turco"
                     ],
                     "systems": [
                         {
@@ -178,45 +166,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7, Windows 10",
                                     "recommended": "Windows 7, Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i3 (3.4 GHz) or AMD A8-7600 (3.1 GHz)",
-                                    "recommended": "Intel Core i3 (3.4 GHz) or AMD A8-7600 (3.1 GHz)"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 (3,4 GHz) ou AMD A8-7600 (3,1 GHz)",
+                                    "recommended": "Intel Core i3 (3,4 GHz) ou AMD A8-7600 (3,1 GHz)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "AMD Radeon HD 6850 / NVIDIA GeForce 650 / Intel Iris Pro 5200",
-                                    "recommended": "AMD Radeon HD 6850 / NVIDIA GeForce 650 / Intel Iris Pro 5200"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "AMD Radeon HD 6850/NVIDIA GeForce 650/Intel Iris Pro 5200",
+                                    "recommended": "AMD Radeon HD 6850/NVIDIA GeForce 650/Intel Iris Pro 5200"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "DirectX",
-                                    "minimum": "n/a",
-                                    "recommended": "n/a"
+                                    "minimum": "n/d",
+                                    "recommended": "n/d"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "5 GB available space",
-                                    "recommended": "5 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "5 GB de espaço disponível",
+                                    "recommended": "5 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Additional Notes",
-                                    "minimum": "1 GB VRAM; Windows 8 & 8.1 are unsupported",
-                                    "recommended": "1 GB VRAM; Windows 8 & 8.1 are unsupported"
+                                    "title": "Observações adicionais",
+                                    "minimum": "1 GB de VRAM; Windows 8 e 8.1 não são compatíveis",
+                                    "recommended": "1 GB de VRAM; Windows 8 e 8.1 não são compatíveis"
                                 }
                             ]
                         }
@@ -227,35 +215,35 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/all-v-210x117-372359304.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "전체이용가"
+                            "title": "Classificação etária na Coreia do Sul: livre"
                         },
                         {
                             "countryCodes": "US,CA",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/esrb-nextuphero-842x485-897305213.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "EVERYONE 10+"
+                            "title": "Classificação etária nos Estados Unidos: 10 anos"
                         },
                         {
                             "countryCodes": "AU",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_ACB_PG-1280x489-c7f7fc389aaa07cfb468c804b2ce17ffa6e2a294.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "ACB"
+                            "title": "Classificação etária na Austrália"
                         },
                         {
                             "countryCodes": "DE",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_6-480x480-2cc23d2f3abf55ff1ca267b25c3374b2df9ceefa.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 6"
+                            "title": "Classificação etária na Alemanha: 6 anos"
                         },
                         {
                             "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fpegi_7-425x520-f3a704c6522957ca395c8db342fa6abf566892da.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 7"
+                            "title": "Classificação etária na Europa: 7 anos"
                         },
                         {
                             "countryCodes": "NZ",
@@ -270,14 +258,24 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/nextuphero?lang=en",
+                    "linkYoutube": "https://www.youtube.com/channel/UCeL2pLQf40T2fLaeyLr7CAg",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Next Up Hero",
+                    "linkHomepage": "https://www.nextuphero.com/"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2019 Aspyr Media, Inc. Next Up Hero developed by Digital Continue, published by Aspyr. Aspyr is a registered trademark of Aspyr Media, Inc., and the Aspyr star logo is a trademark of Aspyr Media. Next Up Hero is a registered trademark of Digital Continue. All other marks and logos are property of their respective owners. All rights reserved.",
+                    "copy": "© 2019 Aspyr Media, Inc. Next Up Hero desenvolvido por Digital Continue, publicado por Aspyr. Aspyr é uma marca registrada da Aspyr Media, Inc., e o logotipo de estrela da Aspyr é uma marca comercial da Aspyr Media. Next Up Hero é uma marca registrada da Digital Continue. Todos os outros logotipos e marcas comerciais pertencem a seus respectivos proprietários. Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://www.aspyr.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Aspyr Media, Inc. Privacy Policy"
+                        "title": "Política de Privacidade da Aspyr Media, Inc."
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -289,8 +287,8 @@
                     "developerAttribution": "Digital Continue",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Aspyr Media, Inc.",
-                    "description": "Next Up Hero is a dungeon crawler featuring hand-drawn heroes that hack, slash, bongo-drum, boomerang, and jet their way through Ventures. Choose your Hero and start rolling dungeons, gearing out, and maxing your stats.",
-                    "title": "Fight. Die. Win!",
+                    "description": "Next Up Hero é um dungeon crawler com heróis desenhados à mão que lutam, matam, tocam bongô, lançam bumerangues e usam jatos em suas aventuras. Escolha seu herói e comece a percorrer as masmorras, achar equipamentos e maximizar sua pontuação.",
+                    "title": "Lute. Morra. Vença!",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -324,8 +322,8 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "isFullBleed": false,
                     "altContentPosition": false,
+                    "isFullBleed": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsumac%2Fhome%2FNextUpHero_PDPPromowLogo-2560x1440-b5d275bb57dd24b237708243688da531865992de.jpg"
                 },
                 "carousel": {

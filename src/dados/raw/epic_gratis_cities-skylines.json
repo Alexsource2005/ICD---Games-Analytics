@@ -67,12 +67,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/cities-skylines",
+    "_urlPattern": "/pt-BR/productv2/cities-skylines",
     "_slug": "cities-skylines",
     "_activeDate": "2022-11-15T09:00:00.000Z",
-    "lastModified": "2022-11-14T12:01:45.046Z",
-    "_locale": "en-US",
-    "_id": "01fab59f-88b1-4137-9c10-3279645f9aa9",
+    "lastModified": "2022-03-10T15:45:10.571Z",
+    "_locale": "pt-BR",
+    "_id": "dcdcd7de-a955-46ba-bd32-fc19b916a3cc",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -113,15 +113,21 @@
             "_title": "home",
             "_noIndex": false,
             "_images_": [
-                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-04-1920x1080-ef89be303d89.jpg",
                 "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-s2-1200x1600-689706378.jpg",
                 "https://cdn2.unrealengine.com/egs-citiesskylinestheclassicsbundle-colossalorder-bundles-s1-2560x1440-544344da3e35.jpg",
                 "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-03-1920x1080-fc05a62771b1.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-01-1920x1080-689705698.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-02-1920x1080-d263ee8ebe3c.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-04-1920x1080-689705641.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-ic1-400x400-689705749.png",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-04-1920x1080-ef89be303d89.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-00-1920x1080-689705676.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-02-1920x1080-689705568.jpg",
                 "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-01-1920x1080-f590d4641349.jpg",
                 "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-s1-2560x1440-689706468.jpg",
-                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-02-1920x1080-d263ee8ebe3c.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-05-1920x1080-689705725.jpg",
+                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-03-1920x1080-689705714.jpg",
                 "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-05-1920x1080-b4b3a11c0c86.jpg",
-                "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-ic1-400x400-689705749.png",
                 "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-00-1920x1080-28c43cccdddc.jpg"
             ],
             "productName": "Cities Skylines",
@@ -151,13 +157,23 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/cities-skylines/home",
+            "_urlPattern": "/pt-BR/productv2/cities-skylines/home",
             "_slug": "home",
             "_activeDate": "2022-11-15T09:00:00.000Z",
-            "lastModified": "2026-01-08T22:36:55.887Z",
-            "_locale": "en-US",
-            "_id": "1c610b8a-f561-408e-bcfb-33d11e1ed4f0",
+            "lastModified": "2023-01-30T16:31:31.081Z",
+            "_locale": "pt-BR",
+            "_id": "8bc73eda-753f-4255-851a-a4c4114dfadd",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "6009be9994c2409099588cde6f3a5ed0",
+                "id": "bf83aee67dd1475fb6bf2c8563f14b70",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -168,7 +184,7 @@
                 },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
-                    "title": "Follow Us",
+                    "title": "Siga-nos",
                     "linkHomepage": "https://www.citiesskylines.com"
                 },
                 "requirements": {
@@ -183,39 +199,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows® 7 64 Bit | Windows® 8.1 64 Bit | Windows® 10 Home 64 Bit",
-                                    "recommended": "Windows® 10 Home 64 bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows® 7 de 64 bits | Windows® 8.1 de 64 bits | Windows® 10 Home de 64 bits",
+                                    "recommended": "Windows® 10 Home de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": " Intel® Core™ I7 930 | AMD® FX 6350",
-                                    "recommended": " Intel® Core™ I7 2700K | AMD® Ryzen 7 2700X"
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ i7 930 | AMD® FX 6350",
+                                    "recommended": "Intel® Core™ i7 2700K | AMD® Ryzen 7 2700X"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "16 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "4 GB",
                                     "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 9.0c",
-                                    "recommended": "Version 11"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 9.0c",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia® GeForce™ GTS 450 (1 GB) | AMD® R7 250 (2 GB) | Intel Iris Xe G7 (Tiger Lake)",
-                                    "recommended": "Nvidia® GeForce™ GTX 580 (1.5 GB) | AMD® Radeon™ RX 560 (4 GB)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA® GeForce™ GTS 450 (1 GB) | AMD® R7 250 (2 GB) | Intel Iris Xe G7 (Tiger Lake)",
+                                    "recommended": "NVIDIA® GeForce™ GTX 580 (1,5 GB) | AMD® Radeon™ RX 560 (4 GB)"
                                 }
                             ]
                         }
@@ -233,7 +249,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.paradoxplaza.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -245,8 +261,8 @@
                     "developerAttribution": "Colossal Order",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Paradox Interactive",
-                    "description": "## A Modern Take on the Classic City Simulation\n\nCities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. From the makers of the Cities in Motion franchise, the game boasts a fully realized transport system. It also includes the ability to mod the game to suit your play style as a fine counterbalance to the layered and challenging simulation. You’re only limited by your imagination, so take control and reach for the sky!\n\n## Multi-tiered and challenging simulation\n\nConstructing your city from the ground up is easy to learn, but hard to master. Playing as the mayor of your city you’ll be faced with balancing essential requirements such as education, water, electricity, police, fire fighting, healthcare and much more along with your citys real economy system. Citizens within your city react fluidly, with gravitas and with an air of authenticity to a multitude of game play scenarios.\n\n## Extensive local traffic simulation\n\nColossal Orders extensive experience developing the Cities in Motion series is fully utilized in fully fleshed out and well-crafted transport systems.\n\n## Districts and Policies\n\nBe more than just an administrator from city hall. Designating parts of your city as a district results in the application of policies which results in you rising to the status of Mayor for your own city.",
-                    "shortDescription": "Cities: Skylines is a modern take on the classic city simulation. It introduces new gameplay elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. ",
+                    "description": "## Uma versão moderna dos simuladores de cidade clássicos\n\nCities: Skylines é uma versão moderna dos simuladores de cidade clássicos. O jogo introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades. Dos criadores da franquia Cities in Motion, o jogo contém um sistema de transporte incrível. Também inclui a habilidade de modificar o jogo de acordo com seu próprio estilo, contrabalançando uma simulação complexa e desafiadora. Seu único limite é a sua imaginação, então assuma o controle e vá até o céu!\n\n## Simulação desafiadora e multicamadas\n\nConstruir uma cidade do zero é fácil de aprender, mas difícil de dominar. Jogando como prefeito de sua cidade, você se deparará com o equilíbrio de requisitos essenciais, como educação, água, eletricidade, polícia, bombeiros, sistema de saúde e muito mais, juntamente com o sistema econômico real da cidade. Os cidadãos em sua cidade reagem de forma séria e realista, dando um ar de autenticidade a uma infinidade de cenários de jogo.\n\n## Simulação extensiva de tráfego local\n\nA vasta experiência da Colossal Order no desenvolvimento da série Cities in Motion é colocada em prática nos sistemas de transporte totalmente desenvolvidos e bem trabalhados.\n\n## Bairros e políticas\n\nSeja mais do que apenas um administrador da cidade trabalhando na prefeitura. Designar partes da sua cidade como distritos resulta na aplicação de políticas públicas que resultam na sua ascensão a prefeito da cidade.",
+                    "shortDescription": "Cities: Skylines é uma versão moderna dos simuladores de cidade clássicos. Ele introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades. ",
                     "title": "Cities: Skylines",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -286,7 +302,6 @@
                     "items": [
                         {
                             "image": {
-                                "altText": "Cities Skylines for PC",
                                 "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-00-1920x1080-28c43cccdddc.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -302,7 +317,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Download Cities Skylines",
                                 "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-01-1920x1080-f590d4641349.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -318,7 +332,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Cities Skylines by Colossal Order",
                                 "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-02-1920x1080-d263ee8ebe3c.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -334,7 +347,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Cities Skylines",
                                 "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-03-1920x1080-fc05a62771b1.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -350,7 +362,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Cities Skylines City Simulation Game",
                                 "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-04-1920x1080-ef89be303d89.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -366,7 +377,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Cities Skylines Computer Video Game",
                                 "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-05-1920x1080-b4b3a11c0c86.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -382,9 +392,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -397,7 +404,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "6009be9994c2409099588cde6f3a5ed0",
-                            "description": "Cities: Skylines is a modern take on the classic city simulation. It introduces new gameplay elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+                            "description": "Cities: Skylines é uma versão moderna dos simuladores de cidade clássicos. Ele introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades.",
                             "offerId": "bf83aee67dd1475fb6bf2c8563f14b70",
                             "tag": "edition",
                             "title": "Cities: Skylines",
@@ -413,7 +420,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "6009be9994c2409099588cde6f3a5ed0",
-                            "description": "Get your hands on Cities: Skylines’ classical Expansions. Enjoy the nightlife in the City with After Dark, have fun in the snow with Snowfall and turn your City into a giant pedestrian area with Plazas & Promenades.",
+                            "description": "Adquira as expansões clássicas de Cities: Skylines. Aproveite a vida noturna da cidade com After Dark, divirta-se na neve com Snowfall e transforme sua cidade em uma enorme área pedestre com Plazas and Promenades.",
                             "offerId": "b8a4d209943046b2b5d68a804aa32aa3",
                             "tag": "edition",
                             "title": "Cities: Skylines - The Classics Bundle",
@@ -505,27 +512,48 @@
                     }
                 ],
                 "gallery": {
-                    "_type": "Diesel Gallery"
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-00-1920x1080-689705676.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-01-1920x1080-689705698.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-02-1920x1080-689705568.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-03-1920x1080-689705714.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-04-1920x1080-689705641.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-g1a-05-1920x1080-689705725.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        }
+                    ]
                 },
                 "navTitle": "Cities: Skylines"
-            },
-            "overwriteMapping": false,
-            "type": "productHome",
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "6009be9994c2409099588cde6f3a5ed0",
-                "id": "bf83aee67dd1475fb6bf2c8563f14b70",
-                "type": "edition",
-                "hasOffer": true
             },
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
             },
-            "tag": "edition"
+            "tag": "edition",
+            "type": "productHome"
         },
         {
             "productRatings": {
@@ -604,12 +632,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/cities-skylines/classics-bundle",
+            "_urlPattern": "/pt-BR/productv2/cities-skylines/classics-bundle",
             "_slug": "classics-bundle",
             "_activeDate": "2022-11-15T09:00:00.000Z",
             "lastModified": "2022-11-14T09:56:40.918Z",
-            "_locale": "en-US",
-            "_id": "dfa30c42-4c6f-48cd-bfc0-8241e4f5ce29",
+            "_locale": "pt-BR",
+            "_id": "753ab43c-ef38-4c74-a582-8165f797d2fd",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -631,13 +659,13 @@
                 },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
-                    "title": "Follow Us",
+                    "title": "Siga-nos",
                     "linkHomepage": "https://www.citiesskylines.com"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Chinese - Simplified, Korean, French, German, Polish, Portuguese - Brazil, Spanish - Spain, Russian"
+                        "Áudio: inglês",
+                        "Texto: inglês, chinês simplificado, coreano, francês, alemão, polonês, português (Brasil), espanhol (Espanha), russo"
                     ],
                     "systems": [
                         {
@@ -646,39 +674,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Microsoft Windows XP/Vista/7/8/8.1 (64-bit)",
-                                    "recommended": "Microsoft Windows 7/8 (64-bit)"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Microsoft Windows XP/Vista/7/8/8.1 (64 bits)",
+                                    "recommended": "Microsoft Windows 7/8 (64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": " Intel Core 2 Duo, 3.0GHz or AMD Athlon 64 X2 6400+, 3.2GHz",
-                                    "recommended": "Intel Core i5-3470, 3.20GHz or AMD FX-6300, 3.5Ghz"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo de 3,0 GHz ou AMD Athlon 64 X2 6400+ de 3,2 GHz",
+                                    "recommended": "Intel Core i5-3470 de 3,20 GHz ou AMD FX-6300 de 3,5 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "4 GB",
                                     "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 9.0c",
-                                    "recommended": "Version 11"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 9.0c",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "nVIDIA GeForce GTX 260, 512 MB or ATI Radeon HD 5670, 512 MB (Does not support Intel Integrated Graphics Cards)",
-                                    "recommended": "nVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB (Does not support Intel Integrated Graphics Cards)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 260, 512 MB ou ATI Radeon HD 5670, 512 MB (Não suporta placas de vídeo integradas Intel)",
+                                    "recommended": "NVIDIA GeForce GTX 660, 2 GB ou AMD Radeon HD 7870, 2 GB (Não suporta placas de vídeo integradas Intel)"
                                 }
                             ]
                         }
@@ -696,7 +724,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.paradoxplaza.com/privacy-policy.html",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -708,7 +736,7 @@
                     "developerAttribution": "Colossal Order",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Paradox Interactive",
-                    "description": "Get your hands on Cities: Skylines’ classical Expansions. Enjoy the nightlife in the City with After Dark, have fun in the snow with Snowfall and turn your City into a giant pedestrian area with Plazas & Promenades.",
+                    "description": "Adquira as expansões clássicas de Cities: Skylines. Aproveite a vida noturna da cidade com After Dark, divirta-se na neve com Snowfall e transforme sua cidade em uma enorme área pedestre com Plazas and Promenades.",
                     "shortDescription": "",
                     "title": "Cities: Skylines - The Classics Bundle",
                     "developerLogo": {
@@ -866,7 +894,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "6009be9994c2409099588cde6f3a5ed0",
-                            "description": "Cities: Skylines is a modern take on the classic city simulation. It introduces new gameplay elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+                            "description": "Cities: Skylines é uma versão moderna dos simuladores de cidade clássicos. Ele introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades.",
                             "offerId": "bf83aee67dd1475fb6bf2c8563f14b70",
                             "tag": "edition",
                             "title": "Cities: Skylines",
@@ -882,7 +910,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "6009be9994c2409099588cde6f3a5ed0",
-                            "description": "Get your hands on Cities: Skylines’ classical Expansions. Enjoy the nightlife in the City with After Dark, have fun in the snow with Snowfall and turn your City into a giant pedestrian area with Plazas & Promenades.",
+                            "description": "Adquira as expansões clássicas de Cities: Skylines. Aproveite a vida noturna da cidade com After Dark, divirta-se na neve com Snowfall e transforme sua cidade em uma enorme área pedestre com Plazas and Promenades.",
                             "offerId": "b8a4d209943046b2b5d68a804aa32aa3",
                             "tag": "edition",
                             "title": "Cities: Skylines - The Classics Bundle",

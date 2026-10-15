@@ -25,12 +25,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/severed-steel",
+    "_urlPattern": "/pt-BR/productv2/severed-steel",
     "_slug": "severed-steel",
     "_activeDate": "2021-09-17T16:55:00.000Z",
-    "lastModified": "2022-12-23T15:26:31.559Z",
-    "_locale": "en-US",
-    "_id": "f8dd914e-9810-4424-81d8-376fa1893df4",
+    "lastModified": "2021-09-17T16:17:42.852Z",
+    "_locale": "pt-BR",
+    "_id": "e61ca0b9-4cf6-499f-9d79-0b23e0612894",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -60,12 +60,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/severed-steel/digital-deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/severed-steel/digital-deluxe-edition",
             "_slug": "digital-deluxe-edition",
             "_activeDate": "2022-12-27T15:58:00.000Z",
-            "lastModified": "2022-12-26T15:20:07.393Z",
-            "_locale": "en-US",
-            "_id": "97f0e474-a117-4cf6-b686-3af7b7c297cc",
+            "lastModified": "2021-09-17T15:46:12.113Z",
+            "_locale": "pt-BR",
+            "_id": "6071754b-cbc1-4186-9739-5b480a07116d",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -80,13 +80,13 @@
                     "linkYoutube": "https://www.youtube.com/digeratidistribution",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/jG8JbEKzJp",
-                    "title": "Follow Severed Steel",
+                    "title": "Siga Severed Steel",
                     "linkHomepage": "https://www.digerati.games/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, Finnish, French, German, Italian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, finlandês, francês, alemão, italiano, japonês, coreano, polonês, português, português (Brasil), russo, espanhol (Espanha), turco"
                     ],
                     "systems": [
                         {
@@ -95,27 +95,27 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 10",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Dual Core",
                                     "recommended": "Dual Core"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA 750 or equivalent",
-                                    "recommended": "NVIDIA 1050 or equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 750 ou equivalente",
+                                    "recommended": "NVIDIA 1050 ou equivalente"
                                 }
                             ]
                         }
@@ -144,8 +144,8 @@
                     "developerAttribution": "Greylock Studio",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Digerati",
-                    "description": "# The Severed Steel Digital Deluxe Edition includes the following content:\n\nThe Full Game:\nA stylish single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, a unique one-armed protagonist, and a dark electronic soundtrack.\n\nSevered Steel Official Soundtrack:\nComposed and recorded by Floating Door, the soundtrack is an absorbing 2+ hour journey through a diverse selection of electronic soundscapes and tracks, ranging from spacey ambience to thumping drum and bass. Features 68 tracks and several never before heard bonus songs.",
-                    "shortDescription": "The Severed Steel Digital Deluxe Edition includes the following: Full Game: A stylish single-player FPS featuring a fluid stunt system, destructible environments & loads of bullet time. Soundtrack: Features 68 tracks and several never before heard bonus songs.",
+                    "description": "# A Severed Steel Digital Deluxe Edition inclui o seguinte conteúdo:\n\nO jogo completo:\nUm jogo de tiro em primeira pessoa para um jogador, apresentando um sistema de acrobacias fluído, ambientes em voxel destrutíveis, bastante bullet time, uma protagonista de um braço só e uma trilha sonora eletrônica sombria.\n\nTrilha sonora oficial de Severed Steel:\nComposta e gravada por Floating Door, a trilha sonora oficial de Severed Steel é uma jornada cativante de mais de duas horas, contendo uma seleção de faixas e paisagens sonoras eletrônicas que vão desde ambientação espacial ao drum and bass latejante. Ela apresenta 68 faixas e várias músicas bônus nunca antes escutadas.",
+                    "shortDescription": "A Severed Steel Digital Deluxe Edition inclui: Jogo completo - um jogo de tiro em primeira pessoa para um jogador, apresentando um sistema de acrobacias fluído, ambientes destrutíveis e bastante bullet time. Trilha sonora: apresenta 68 faixas e várias músicas bônus nunca antes escutadas.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -209,7 +209,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Out Now Trailer",
+                                "title": "Trailer já disponível",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -226,7 +226,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Release Date Trailer",
+                                "title": "Trailer da data de lançamento",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -587,12 +587,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/severed-steel/home",
+            "_urlPattern": "/pt-BR/productv2/severed-steel/home",
             "_slug": "home",
             "_activeDate": "2022-12-27T15:58:00.000Z",
-            "lastModified": "2022-12-26T15:19:43.014Z",
-            "_locale": "en-US",
-            "_id": "e30db441-392a-41aa-97dd-4edc631f4e2d",
+            "lastModified": "2021-09-17T19:02:55.041Z",
+            "_locale": "pt-BR",
+            "_id": "ec92082d-c48f-4384-abf4-c7df8abae868",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -616,13 +616,13 @@
                     "linkYoutube": "https://www.youtube.com/digeratidistribution",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/jG8JbEKzJp",
-                    "title": "Follow Severed Steel",
+                    "title": "Siga Severed Steel",
                     "linkHomepage": "https://www.digerati.games/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, Finnish, French, German, Italian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, finlandês, francês, alemão, italiano, japonês, coreano, polonês, português, português (Brasil), russo, espanhol (Espanha), turco"
                     ],
                     "systems": [
                         {
@@ -631,27 +631,27 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 10",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Dual Core",
                                     "recommended": "Dual Core"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA 750 or equivalent",
-                                    "recommended": "NVIDIA 1050 or equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 750 ou equivalente",
+                                    "recommended": "NVIDIA 1050 ou equivalente"
                                 }
                             ]
                         }
@@ -680,8 +680,8 @@
                     "developerAttribution": "Greylock Studio",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Digerati",
-                    "description": "# What is Severed Steel?\n\nSevered Steel is a single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, and a unique one-armed protagonist. It's you, your trigger finger, and a steel-toed boot against a superstructure full of bad guys. Chain together wall runs, dives, flips, and slides to take every last enemy down.\n\n![Image1](https://cdn2.unrealengine.com/egs-severedsteel-greylockstudio-g2-00-1920x1080-f4a569e0fe8d.jpg)\n\n# Key Features\n\nA Unique Fighter\nPlay as Steel, a nimble, one-armed sharpshooter on a mission. There is no reloading – pick your shots well and be ready to pry a loaded weapon from your enemies' cold dead hands.\n\nStylish Combat\nDodge bullets, leap off walls, slide kick, throw weapons – do whatever it takes to come out on top in intense and frenzied firefights.\n\nFully Destructible Environment\nPepper through plaster with sharp 4.7 mm rounds, punch through thick concrete with .50 cal slugs, or make big holes in things with your arm cannon.\n\n![Image2](https://cdn2.unrealengine.com/egs-severedsteel-greylockstudio-g2-01-1920x1080-ec08ad48f97b.jpg)\n\n# More Key Features\n\nDynamic AI\nNo two battles are the same thanks to dynamic, unscripted, squad-based AI.\n\nAccessibility\nA range of adjustable settings for features such as difficulty, visuals, audio, controls, navigation, and more.\n\nBuild levels and share them with the community. \n\n![Image3](https://cdn2.unrealengine.com/egs-severedsteel-greylockstudio-g2-02-1920x1080-fc5680041fa1.jpg)\n",
-                    "shortDescription": "A stylish single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, a unique one-armed protagonist, and a dark electronic soundtrack.",
+                    "description": "# O que é Severed Steel?\n\nSevered Steel é um jogo de tiro em primeira pessoa para um jogador, apresentando um sistema de acrobacias fluído, ambientes em voxel destrutíveis, bastante bullet time e uma protagonista de um braço só. É você, seu dedo pesado e suas botas com biqueiras de aço contra uma superestrutura repleta de caras malvados. Combine corridas em paredes, mergulhos, saltos mortais e deslizamentos para acabar com todos os inimigos.\n\n![Image1](https://cdn2.unrealengine.com/egs-severedsteel-greylockstudio-g2-00-1920x1080-f4a569e0fe8d.jpg)\n\n# Características principais\n\nUma combatente sem igual\nJogue no papel de Steel, uma atiradora de elite em uma missão. As armas não podem ser recarregadas, portanto faça cada bala valer e, quando precisar, arranque uma arma carregada das mãos geladas dos inimigos mortos.\n\nCombate estiloso\nDesvie de balas, pule das paredes, chute enquanto desliza, arremesse as próprias armas. Faça o que for preciso para sair com vida dos tiroteios frenéticos.\n\nAmbiente totalmente destrutível\nPerfure gesso com balas de 4,7 mm, atravesse concreto grosso com balas de calibre .50 ou faça grandes buracos nas coisas com o canhão em seu braço.\n\n![Image2](https://cdn2.unrealengine.com/egs-severedsteel-greylockstudio-g2-01-1920x1080-ec08ad48f97b.jpg)\n\n# Mais características principais\n\nIA dinâmica\nUma batalha nunca vai se repetir, graças a IA inimiga dinâmica, espontânea e baseada em esquadrão.\n\nAcessibilidade\nUma variedade de configurações para funcionalidades como dificuldade, gráficos, áudio, controles, navegação e mais.\n\nEditor de Níveis\nCrie e compartilhe níveis com a comunidade. \n\n![Image3](https://cdn2.unrealengine.com/egs-severedsteel-greylockstudio-g2-02-1920x1080-fc5680041fa1.jpg)\n",
+                    "shortDescription": "Um jogo de tiro em primeira pessoa para um jogador, apresentando um sistema de acrobacias fluído, ambientes em voxel destrutíveis, bastante bullet time, uma protagonista de um braço só e uma trilha sonora eletrônica sombria.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -966,7 +966,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
-                            "description": "A stylish single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, a unique one-armed protagonist, and a dark electronic soundtrack.",
+                            "description": "Um jogo de tiro em primeira pessoa para um jogador, apresentando um sistema de acrobacias fluído, ambientes em voxel destrutíveis, bastante bullet time, uma protagonista de um braço só e uma trilha sonora eletrônica sombria.",
                             "offerId": "b26543426574454e82e07624450c9022",
                             "tag": "edition",
                             "title": "Severed Steel",
@@ -982,7 +982,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
-                            "description": "The Severed Steel Digital Deluxe Edition includes the full game, official soundtrack & digital art book.\n",
+                            "description": "Severed Steel Digital Deluxe Edition inclui o jogo completo, a trilha sonora oficial e o livro de arte digital.\n",
                             "offerId": "1ef5031027e646c288d86a98c50c43df",
                             "tag": "edition",
                             "title": "Digital Deluxe Edition",

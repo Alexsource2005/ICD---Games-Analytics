@@ -79,12 +79,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/remnant-from-the-ashes",
+    "_urlPattern": "/pt-BR/productv2/remnant-from-the-ashes",
     "_slug": "remnant-from-the-ashes",
     "_activeDate": "2020-07-21T14:57:20.234Z",
-    "lastModified": "2025-02-13T15:26:04.081Z",
-    "_locale": "en-US",
-    "_id": "b9ffdfae-fa74-42e9-815e-8b5235a00c4a",
+    "lastModified": "2024-06-01T04:42:14.490Z",
+    "_locale": "pt-BR",
+    "_id": "fc76d551-c2d0-4ad5-8e15-aa6d2aaad006",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -145,10 +145,11 @@
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-g1a-01-1920x1080-622698884.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-g1c-00-1920x1080-622698340.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-g1a-05-1920x1080-622697744.jpg",
+                "https://cdn2.unrealengine.com/egs-remnantfromtheashesswampsofcorsus-gunfiregames-addon-s1-2560x1440-614123394.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-s1-2560x1440-622699092.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-s2-1200x1600-622698486.jpg",
-                "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-ic1-200x200-622697987.png",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-g1a-02-1920x1080-622698631.jpg",
+                "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-ic1-200x200-622697987.png",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-g1a-04-1920x1080-622697884.jpg"
             ],
             "productName": "Remnant: From the Ashes",
@@ -177,12 +178,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/remnant-from-the-ashes/complete-edition",
+            "_urlPattern": "/pt-BR/productv2/remnant-from-the-ashes/complete-edition",
             "_slug": "complete-edition",
             "_activeDate": "2020-07-21T15:00:23.466Z",
-            "lastModified": "2025-02-12T11:17:42.011Z",
-            "_locale": "en-US",
-            "_id": "d07335c2-5a3f-4bc1-bf1a-3680a773d53f",
+            "lastModified": "2024-04-18T22:21:01.251Z",
+            "_locale": "pt-BR",
+            "_id": "a05507e2-f0ba-4f54-bcdb-fdee38fbe1a4",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -199,14 +200,14 @@
                     "linkYoutube": "https://youtube.com/remnantgame",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discordapp.gg/remnantgame",
-                    "title": "Follow Remnant: From the Ashes",
                     "linkReddit": "https://reddit.com/r/remnantgame",
+                    "title": "Siga Remnant: From the Ashes",
                     "linkHomepage": "https://www.remnantgame.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, French, German, Italian, Russian, Spanish - Spain",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Russian, Portuguese, Spanish - Spain"
+                        "ÁUDIO: inglês, francês, alemão, italiano, russo, espanhol (Espanha)",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, russo, português, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -215,27 +216,27 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 / 8 / 10 64 bit",
-                                    "recommended": "Windows 7 / 8 / 10 64 bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 / 8 / 10 de 64 bits",
+                                    "recommended": "Windows 7 / 8 / 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i3-7350K (4.20 GHz) or better",
-                                    "recommended": "Intel Core i5-4590 (3.70 GHz) or better"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3-7350K (4,20 GHz) ou superior",
+                                    "recommended": "Intel Core i5-4590 (3,70 GHz) ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "AMD Radeon RX 470",
-                                    "recommended": "Nvidia GeForce GTX 970"
+                                    "recommended": "NVIDIA GeForce GTX 970"
                                 }
                             ]
                         }
@@ -253,7 +254,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.arcgames.com/en/about/privacy",
                         "_type": "Diesel Link",
-                        "title": "Perfect World Entertainment Privacy Policy"
+                        "title": "Política de Privacidade da Perfect World Entertainment"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -265,8 +266,8 @@
                     "developerAttribution": "Gunfire Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Arc Games",
-                    "description": "Cloud saves are not enabled on Epic. Backing up saves manually is recommended.\n\nThe Remnant: From the Ashes - Complete Edition includes:\n\n+ Remnant: From the Ashes\n+ Remnant: From the Ashes - Swamps of Corsus\n+ Remnant: From the Ashes - Subject 2923\n\nTake home the complete Remnant: From the Ashes experience, as you fight through a post-apocalyptic world overrun by monstrous creatures - fighting to restore humanity while overcoming hordes of deadly enemies and epic bosses alone, or alongside up to two other players.\n\nIn the Swamps of Corsus DLC, delve deeper into the story of the Iskal Cult on the marsh world Corsus, and take on the intense challenge of the rogue-like Survival Mode - start with a pistol and scrap, and see how long you can survive in a single playthrough against enemies and bosses that grow stronger.\n\nIn the Subject 2923 DLC, pick-up where the Remnant: From the Ashes story left off, in a brand-new campaign where you will traverse unfamiliar zones, meet unexpected allies, and conquer new threats as you seek to put an end to the Root once and for all.",
-                    "shortDescription": "The complete Remnant: From the Ashes experience. Fight through a post-apocalyptic world overrun by monstrous creatures - fighting to restore humanity while overcoming hordes of deadly enemies and epic bosses alone, or alongside up to two other players.",
+                    "description": "Salvamentos na nuvem não estão habilitados na Epic. Recomenda-se fazer backup dos salvamentos manualmente.\n\nRemnant: From the Ashes - A Edição Completa inclui:\n\n+ Remnant: From the Ashes\n+ Remnant: From the Ashes - Pântano de Corsus\n+ Remnant: From the Ashes - Paciente 2923\n\nAdquira a experiência completa de Remnant: From the Ashes e encare os desafios de um mundo pós-apocalíptico que foi invadido por criaturas monstruosas. Lute para restaurar a humanidade e enfrente hordas de inimigos letais e chefes épicos, no modo solo ou ao lado de até dois jogadores.\n\nNo DLC Pântano de Corsus, explore ainda mais a história do Culto Iskal no mundo pantanoso de Corsus e encare o intenso desafio do modo de Sobrevivência roguelike. Comece com uma pistola e uma sucata e veja por quanto tempo você consegue sobreviver em uma campanha solo contra inimigos e chefes que ficam cada vez mais fortes.\n\nNo DLC Paciente 2923, retome a história de Remnant: From the Ashes em uma nova campanha, na qual desbravará zonas desconhecidas, encontrará aliados inusitados e superará novas ameaças conforme luta para exterminar a Raiz de uma vez por todas.",
+                    "shortDescription": "A experiência completa de Remnant: From the Ashes. Lute em um mundo pós-apocalíptico dominado por criaturas monstruosas - guerreando para reconstruir a humanidade e derrotando hordas de inimigos mortais e chefes épicos sozinho ou junto com outros dois jogadores.",
                     "title": "",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -317,7 +318,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Remnant: From the Ashes - Complete Edition Trailer",
+                                "title": "Trailer de Remnant: From the Ashes - Edição Completa",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "poster": "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-g1c-00-1920x1080-622698340.jpg",
@@ -465,6 +466,24 @@
                         "hasOffer": false
                     },
                     "_type": "Epic Store DLC",
+                    "dlc": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-remnantfromtheashesswampsofcorsus-gunfiregames-addon-s1-2560x1440-614123394.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product DLC",
+                            "namespace": "663e521f2a444199be58152fd93fa66e",
+                            "description": "Comece sua jornada pelos mundos perigosos e corrompidos de Remnant: From the Ashes com um novo modo e um mapa expandido no DLC Swamps of Corsus.",
+                            "tag": "dlc",
+                            "type": "addon",
+                            "title": "Remnant: From the Ashes - Swamps of Corsus",
+                            "slug": "product/remnant-from-the-ashes/swamps-of-corsus"
+                        }
+                    ],
                     "enableImages": false
                 },
                 "seo": {
@@ -508,7 +527,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Complete Edition"
+                "navTitle": "Edição Completa"
             },
             "overwriteMapping": false,
             "type": "offer",
@@ -584,11 +603,10 @@
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-ic1-200x200-534376869.png",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s1-2560x1440-534378437.jpg",
-                "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s4-1200x1600-534378248.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashescompleteedition-gunfiregames-editions-s1-2560x1440-622699092.jpg",
-                "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s2-1200x1600-534378160.jpg",
+                "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s4-1200x1600-534378248.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-g1a-03-1920x1080-534377590.jpg",
-                "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s5-1920x1080-534378263.jpg",
+                "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s2-1200x1600-534378160.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-g1a-01-1920x1080-534377425.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-g1a-02-1920x1080-534377413.jpg",
                 "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-g1a-04-1920x1080-534377578.jpg",
@@ -620,36 +638,22 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/remnant-from-the-ashes/home",
+            "_urlPattern": "/pt-BR/productv2/remnant-from-the-ashes/home",
             "_slug": "home",
             "_activeDate": "2020-07-21T15:00:23.466Z",
-            "lastModified": "2025-02-14T11:03:55.495Z",
-            "_locale": "en-US",
-            "_id": "74296b28-72a3-4c48-abf9-252967785339",
+            "lastModified": "2024-04-18T22:20:20.423Z",
+            "_locale": "pt-BR",
+            "_id": "a1162228-6e9b-4821-9592-461c16aac2a4",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/remnant_game",
-                    "linkTwitch": "https://twitch.tv/remnantgame",
-                    "linkFacebook": "https://facebook.com/remnantgame",
-                    "linkYoutube": "https://youtube.com/remnantgame",
-                    "_type": "Diesel Social Links",
-                    "linkDiscord": "https://discordapp.gg/remnantgame",
-                    "title": "Follow Remnant: From the Ashes",
-                    "linkReddit": "https://reddit.com/r/remnantgame",
-                    "linkHomepage": "https://www.remnantgame.com/"
-                },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, French, German, Italian, Russian, Spanish - Spain",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Russian, Portuguese, Spanish - Spain"
+                        "ÁUDIO: inglês, francês, alemão, italiano, russo, espanhol (Espanha)",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, russo, português, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -658,27 +662,27 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 / 8 / 10 64 bit",
-                                    "recommended": "Windows 7 / 8 / 10 64 bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 / 8 / 10 de 64 bits",
+                                    "recommended": "Windows 7 / 8 / 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i3-7350K (4.20 GHz) or better",
-                                    "recommended": "Intel Core i5-4590 (3.70 GHz) or better"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3-7350K (4,20 GHz) ou superior",
+                                    "recommended": "Intel Core i5-4590 (3,70 GHz) ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "AMD Radeon RX 470",
-                                    "recommended": "Nvidia GeForce GTX 970"
+                                    "recommended": "NVIDIA GeForce GTX 970"
                                 }
                             ]
                         }
@@ -689,6 +693,20 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/remnant_game",
+                    "linkTwitch": "https://twitch.tv/remnantgame",
+                    "linkFacebook": "https://facebook.com/remnantgame",
+                    "linkYoutube": "https://youtube.com/remnantgame",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discordapp.gg/remnantgame",
+                    "title": "Siga Remnant: From the Ashes",
+                    "linkReddit": "https://reddit.com/r/remnantgame",
+                    "linkHomepage": "https://www.remnantgame.com/"
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -696,7 +714,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.arcgames.com/en/about/privacy",
                         "_type": "Diesel Link",
-                        "title": "Perfect World Entertainment Privacy Policy"
+                        "title": "Política de Privacidade da Perfect World Entertainment"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -708,8 +726,8 @@
                     "developerAttribution": "Gunfire Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Arc Games",
-                    "description": "Cloud saves are not enabled on Epic. Backing up saves manually is recommended.\n\nRemnant: From the Ashes is a third-person survival action shooter set in a post-apocalyptic world overrun by monstrous creatures. As one of the last remnants of humanity, you’ll set out alone or alongside up to two other players to face down hordes of deadly enemies and epic bosses, and try to carve a foothold, rebuild, and then retake what was lost.\n\n# A REMNANT OF MANKIND\n\nThe world has been thrown into chaos by an ancient evil from another dimension. Humanity is struggling to survive, but they possess the technology to open portals to other realms and alternate realities. They must travel through these portals to uncover the mystery of where the evil came from, scavenge resources to stay alive, and fight back to carve out a foothold for mankind to rebuild...\n\n# ENDLESS FANTASTIC REALMS AWAIT\n\nExplore dynamically-generated worlds that change each time you play through them, creating new maps, enemy encounters, quest opportunities, and in-world events. Each of the game’s four unique worlds is filled with monstrous denizens and environments that will provide fresh challenges with each playthrough. Adapt and explore… or die trying.\n\n# SCAVENGE. UPGRADE. SPECIALIZE.\n\nOvercome tough-as-nails enemies and epic bosses throughout hostile environments to earn experience, valuable loot and upgrade materials you can use to build a wicked arsenal of weapons, armor, and modifications to approach each encounter dozens of unique ways.\n\n# STRENGTH IN NUMBERS\n\nInvading other worlds to seek an end to the Root is dangerous and survival is far from guaranteed. Team up with up to two other players to increase your chances of survival. Teamwork is necessary to make it through the game’s toughest challenges…and unlock its greatest rewards.",
-                    "shortDescription": "The world has been thrown into chaos by an ancient evil from another dimension. As one of the last remnants of humanity, you must set out alone or alongside up to two other survivors to face down hordes of deadly enemies to retake what was lost.",
+                    "description": "Salvamentos na nuvem não estão habilitados na Epic. Recomenda-se fazer backup dos salvamentos manualmente.\n\nRemnant: From the Ashes é um jogo de sobrevivência em terceira pessoa, em um mundo pós-apocalíptico infestado de criaturas monstruosas. Você, um dos últimos remanescentes da humanidade, vai enfrentar sozinho - ou acompanhado por até dois outros sobreviventes - as hordas de inimigos mortais e os chefes épicos para tentar retomar o que foi perdido.\n\n# UM REMANESCENTE DA RAÇA HUMANA\n\nO mundo foi lançado no caos por um terror antigo de outra dimensão. A humanidade se esforça para sobreviver, porém, ela possui a tecnologia para abrir portais até outros mundos alternativos. Você precisa viajar pelos portais para descobrir a origem de todo esse mal, além de buscar recursos para sobreviver e lutar com unhas e dentes para dar à humanidade a chance de um novo começo...\n\n# INFINITOS MUNDOS FANTÁSTICOS AGUARDAM\n\nExplore mundos gerados de modo dinâmico que mudam cada vez que você joga, criando novos mapas, novos encontros com inimigos, novas oportunidades de missões e novos eventos dentro do jogo. Cada um dos quatro mundos únicos do jogo está repleto de horrores monstruosos e ambientes que vão oferecer desafios novos a cada sessão de jogo. Adapte-se e explore - ou morra tentando.\n\n# VASCULHE. MELHORE. ESPECIALIZE.\n\nSobrepuje inimigos duros de roer e chefes épicos enquanto cruza ambientes hostis para adquirir experiência, espólios valiosos e materiais de melhoria que você vai poder usar para montar um arsenal absurdo de armas, armaduras e modificações, e com elas enfrentar cada encontro de dezenas de maneiras diferentes.\n\n# A UNIÃO FAZ A FORÇA\n\nInvadir outros mundos em busca de um fim para a Raiz é um enorme risco, e a sobrevivência está longe de ser uma garantia. Una forças com até dois outros jogadores para aumentar suas chances de escapar dessa. O trabalho de equipe é necessário para vencer os desafios mais difíceis do jogo... e desbloquear suas maiores recompensas.",
+                    "shortDescription": "O mundo foi lançado no caos por um terror antigo de outra dimensão. Você, um dos últimos remanescentes da humanidade, vai enfrentar sozinho - ou acompanhado por até dois outros sobreviventes - as hordas de inimigos mortais e os chefes épicos para tentar retomar o que foi perdido.",
                     "title": "",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -740,8 +758,8 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "isFullBleed": false,
                     "altContentPosition": false,
+                    "isFullBleed": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s1-2560x1440-534378437.jpg"
                 },
                 "carousel": {
@@ -839,12 +857,12 @@
                                 "_type": "Store Region Filtering"
                             },
                             "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s5-1920x1080-534378263.jpg",
+                                "src": "https://cdn2.unrealengine.com/egs-remnantfromtheashes-gunfiregames-s1-2560x1440-534378437.jpg",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Product Edition",
                             "namespace": "663e521f2a444199be58152fd93fa66e",
-                            "description": "The world has been thrown into chaos by an ancient evil from another dimension. As one of the last remnants of humanity, you must set out alone or alongside up to two other survivors to face down hordes of deadly enemies to retake what was lost.",
+                            "description": "O mundo foi lançado no caos por um terror antigo de outra dimensão. Você, um dos últimos remanescentes da humanidade, vai enfrentar sozinho - ou acompanhado por até dois outros sobreviventes - as hordas de inimigos mortais e os chefes épicos para tentar retomar o que foi perdido.",
                             "offerId": "a0bb13a219f747f88dff4c2a50b070c0",
                             "tag": "edition",
                             "title": "Remnant: From the Ashes",
@@ -860,10 +878,10 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "663e521f2a444199be58152fd93fa66e",
-                            "description": "Take home the complete Remnant: From the Ashes experience, as you fight through a post-apocalyptic world overrun by monstrous creatures - fighting to restore humanity while overcoming hordes of deadly enemies and epic bosses alone, or alongside up to two other players.",
+                            "description": "Adquira a experiência completa de Remnant: From the Ashes e encare os desafios de um mundo pós-apocalíptico que foi invadido por criaturas monstruosas. Lute para restaurar a humanidade e enfrente hordas de inimigos letais e chefes épicos, no modo solo ou ao lado de até dois jogadores.",
                             "offerId": "c3a4300ca5fb498b91008b7e5fe5778e",
                             "tag": "edition",
-                            "title": "Remnant: From the Ashes - Complete Edition",
+                            "title": "Remnant: From the Ashes - Edição Completa",
                             "slug": "product/remnant-from-the-ashes/complete-edition"
                         }
                     ],
@@ -914,6 +932,10 @@
                 "productSections": [
                     {
                         "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "DLC",
                         "_type": "Diesel Product Section"
                     },
                     {

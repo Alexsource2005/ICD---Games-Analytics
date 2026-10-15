@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/mortal-kombat-1",
+    "_urlPattern": "/pt-BR/productv2/mortal-kombat-1",
     "_slug": "mortal-kombat-1",
     "_activeDate": "2023-05-18T20:58:10.176Z",
-    "lastModified": "2023-08-11T16:58:16.216Z",
-    "_locale": "en-US",
-    "_id": "01acd9ee-5625-419b-99cf-845f30d78be4",
+    "lastModified": "2023-05-18T22:31:45.527Z",
+    "_locale": "pt-BR",
+    "_id": "2697b6ee-93d0-468a-80e8-61b7774289fb",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mortal-kombat-1/home",
+            "_urlPattern": "/pt-BR/productv2/mortal-kombat-1/home",
             "_slug": "home",
             "_activeDate": "2023-05-18T20:58:45.558Z",
-            "lastModified": "2026-05-18T17:57:19.669Z",
-            "_locale": "en-US",
-            "_id": "ff178054-ce3d-4cee-9506-5ba52fec6ba3",
+            "lastModified": "2023-09-12T18:21:09.549Z",
+            "_locale": "pt-BR",
+            "_id": "487eab6c-777e-4c1a-bbf3-5d0248b9b8e9",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -96,8 +96,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Text: English, French, Italian, German, Spanish – Spain, Arabic, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Korean",
-                        "Audio: English, French, Italian, German, Spanish – Spain, Portuguese – Brazil, Spanish – Latin America"
+                        "Texto: inglês, francês, italiano, alemão, espanhol (Espanha), árabe, polonês, português (Brasil), russo, chinês simplificado, espanhol (América Latina), chinês tradicional, coreano",
+                        "Áudio: inglês, francês, italiano, alemão, espanhol (Espanha), português (Brasil), espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -106,45 +106,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 10 64-bit",
-                                    "recommended": "Windows 10/11 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 64 bits",
+                                    "recommended": "Windows 10/11 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel® Core™ i5-6600 (3.30 GHz) | AMD Ryzen™ 3 3100 (3.60 GHz) or Ryzen™ 5 2600 (3.40 GHz)",
-                                    "recommended": "Intel® Core™ i5-8400 (2.80 GHz) | AMD Ryzen™ 5 3600X (3.80 GHz)"
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ i5-6600 (3,30 GHz) | AMD Ryzen™ 3 3100 (3,60 GHz) ou Ryzen™ 5 2600 (3,40 GHz)",
+                                    "recommended": "Intel® Core™ i5-8400 (2,80 GHz) | AMD Ryzen™ 5 3600X (3,80 GHz)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "140 GB",
-                                    "recommended": "140 GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "140 GB",
+                                    "recommended": "140 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "12",
                                     "recommended": "12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GeForce® GTX 1660| AMD Radeon™ RX 590 | Intel® Arc™ A750",
-                                    "recommended": "Nvidia GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce® GTX 1660 | AMD Radeon™ RX 590 | Intel® Arc™ A750",
+                                    "recommended": "NVIDIA GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
-                                    "recommended": "SSD, 1440p/High"
+                                    "title": "Outros",
+                                    "minimum": "SSD (Preferencial para recursos completos de multiplataforma online), HDD (Compatível), 1080p/Baixo",
+                                    "recommended": "SSD, 1440p/Alto"
                                 }
                             ]
                         }
@@ -167,14 +167,14 @@
                 "_type": "Diesel Product Detail",
                 "about": {
                     "image": {
-                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s2-1200x1600-485355627c7e.jpg",
+                        "src": "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s3-2560x1440-7ca9c70ef1c1.jpg",
                         "_type": "Diesel Image"
                     },
                     "developerAttribution": "NetherRealm Studios | QLOC",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Warner Bros. Games",
-                    "description": "It’s In Our Blood!\n\nDiscover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
-                    "shortDescription": "Discover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                    "description": "Está no Nosso Sangue\\!\n\nDescubra um renascido Universo de Mortal Kombat criado pelo Deus do Fogo Liu Kang. Mortal Kombat 1 inaugura uma nova era da franquia icônica com um novo sistema de luta, modos de jogo e fatalities\\!\n\n",
+                    "shortDescription": "Descubra um renascido Universo de Mortal Kombat™ criado pelo Deus do Fogo Liu Kang. Mortal Kombat™ 1 inaugura uma nova era da franquia icônica com um novo sistema de luta, modos de jogo e fatalities!",
                     "title": "Mortal Kombat 1 ",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -481,9 +481,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -496,7 +493,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
-                            "description": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                            "description": "Descubra um renascido Universo de Mortal Kombat criado pelo Deus do Fogo Liu Kang. Mortal Kombat 1 inaugura uma nova era da franquia icônica com um novo sistema de luta, modos de jogo e fatalities!",
                             "offerId": "53e1317ae6c04ca08b599bbc5d437c4b",
                             "tag": "edition",
                             "title": "Mortal Kombat 1 ",
@@ -512,10 +509,10 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
-                            "description": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! Includes access to Base Game, Story Expansion, Kombat Pack, Kombat Pack 2, Mortal Kombat and II Movie Skins, Dragon Krystals, and more!",
+                            "description": "Novo no Mortal Kombat 1? Comece com a Edição Definitiva para a experiência mais completa de Mortal Kombat 1! Inclui acesso ao Jogo de Base, Expansão de História, Pacote de Kombate, Pacote de Kombate 2, Skins dos Filmes Mortal Kombat e Mortal Kombat II, Kristais de Dragão e muito mais!",
                             "offerId": "d6dd1876c82847ac8f993056470a34a9",
                             "tag": "edition",
-                            "title": "Mortal Kombat™ 1: Definitive Edition",
+                            "title": "Mortal Kombat™ 1: Edição Definitiva",
                             "slug": "p/mortal-kombat-1--definitive-edition"
                         }
                     ],
@@ -580,6 +577,7 @@
                 "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-03-1920x1080-678718f93cfc.jpg",
                 "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-13-1920x1080-0a93b6a245bc.jpg",
                 "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-16-1920x1080-d4f8b653df26.jpg",
+                "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-s3-2560x1440-7ca9c70ef1c1.jpg",
                 "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-ic1-400x400-4c1751186b40.png",
                 "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-12-1920x1080-4628f2073573.jpg",
                 "https://cdn2.unrealengine.com/egs-mortalkombat1-netherrealmstudios-g1a-15-1920x1080-833b5ad45632.jpg",
@@ -618,29 +616,29 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mortal-kombat-1/premium-edition",
+            "_urlPattern": "/pt-BR/productv2/mortal-kombat-1/premium-edition",
             "_slug": "premium-edition",
             "_activeDate": "2023-05-18T20:58:45.558Z",
-            "lastModified": "2024-09-30T17:10:24.147Z",
-            "_locale": "en-US",
-            "_id": "e8bf165f-1359-4830-953d-36515149f867",
+            "lastModified": "2023-05-18T22:48:23.368Z",
+            "_locale": "pt-BR",
+            "_id": "a11d01b8-a9aa-4aaa-bfc5-21886b49a49a",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
                     "linkHomepage": "https://www.mortalkombat.com/"
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
                 "requirements": {
                     "languages": [
-                        "Text: English, French, Italian, German, Spanish – Spain, Arabic, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Korean",
-                        "Audio: English, French, Italian, German, Spanish – Spain, Portuguese – Brazil, Spanish – Latin America"
+                        "Texto: inglês, francês, italiano, alemão, espanhol (Espanha), árabe, polonês, português (Brasil), russo, chinês simplificado, espanhol (América Latina), chinês tradicional, coreano",
+                        "Áudio: inglês, francês, italiano, alemão, espanhol (Espanha), português (Brasil), espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -649,45 +647,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 10 64-bit",
-                                    "recommended": "Windows 10/11 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10/11 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel® Core™ i5-6600 (3.30 GHz) | AMD Ryzen™ 3 3100 (3.60 GHz) or Ryzen™ 5 2600 (3.40 GHz)",
-                                    "recommended": "Intel® Core™ i5-8400 (2.80 GHz) | AMD Ryzen™ 5 3600X (3.80 GHz)"
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ i5-6600 (3,30 GHz) | AMD Ryzen™ 3 3100 (3,60 GHz) ou Ryzen™ 5 2600 (3,40 GHz)",
+                                    "recommended": "Intel® Core™ i5-8400 (2,80 GHz) | AMD Ryzen™ 5 3600X (3,80 GHz)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
-                                    "recommended": "8 GB"
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "140 GB",
-                                    "recommended": "140 GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "140 GB",
+                                    "recommended": "140 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "12",
                                     "recommended": "12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GeForce® GTX 1660| AMD Radeon™ RX 590 | Intel® Arc™ A750",
-                                    "recommended": "Nvidia GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce® GTX 980 | AMD Radeon™ RX 470 | Intel® Arc™ A750",
+                                    "recommended": "NVIDIA GeForce® GTX 1080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770 "
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
-                                    "recommended": "SSD, 1440p/High"
+                                    "title": "Outros",
+                                    "minimum": "SSD (Preferencial para recursos completos de multiplataforma online), HDD (Compatível)",
+                                    "recommended": "SSD"
                                 }
                             ]
                         }
@@ -716,8 +714,8 @@
                     "developerAttribution": "NetherRealm Studios | QLOC",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Warner Bros. Games",
-                    "description": "# It’s In Our Blood!\n\nDiscover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!\n\n#Premium Edition Includes:\n                                                                                                                                                                                                                       - Kombat Pack: 6 New Playable Characters (Omni-Man, Quan Chi, Peacemaker, Ermac, Homelander, Takeda) and 5 New Kameo Characters (Tremor, Mavado, Janet Cage, Ferra, Khameleon)\n- 1-Week Early Access to DLC Characters\n- Jean-Claude Van Damme Skin for Johnny Cage\n- 1250 Dragon Krystals (In-game Currency)",
-                    "shortDescription": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                    "description": "Está no Nosso Sangue\\!\n=======================\n\nDescubra um Universo renascido de Mortal Kombat™ criado pelo Deus do Fogo Liu Kang. Mortal Kombat™ 1 inaugura uma nova era da franquia icônica com um novo sistema de luta, modos de jogo e fatalities\\!\n\n\\#A Edição Premium inclui:\n\\- Pacote de Kombate: seis novos personagens jogáveis \\(Omni\\-Man, Quan Chi, Pacificador, Ermac, Capitão Pátria, Takeda\\) e cinco novos personagens de parceria \\(Tremor, Mavado, Janet Cage, Ferra, Khameleon\\)\n\n* 1 semana de acesso antecipado aos personagens DLC\n* Skin de Jean\\-Claude Van Damme para Johnny Cage\n* 1\\.250 Kristais de Dragão \\(moeda do jogo\\)\n\n",
+                    "shortDescription": "Descubra um Universo renascido de Mortal Kombat criado pelo Deus do Fogo Liu Kang. Mortal Kombat 1 inaugura uma nova era da franquia icônica com um novo sistema de luta, modos de jogo e fatalities!",
                     "title": "Mortal Kombat 1 ",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -1069,9 +1067,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -1084,7 +1079,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
-                            "description": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!",
+                            "description": "Descubra um Universo renascido de Mortal Kombat criado pelo Deus do Fogo Liu Kang. Mortal Kombat 1 inaugura uma nova era da franquia icônica com um novo sistema de luta, modos de jogo e fatalities!",
                             "offerId": "53e1317ae6c04ca08b599bbc5d437c4b",
                             "tag": "edition",
                             "title": "Mortal Kombat 1 ",
@@ -1145,7 +1140,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Mortal Kombat 1 Premium Edition"
+                "navTitle": "Edição Premium Mortal Kombat 1"
             },
             "overwriteMapping": false,
             "type": "offer",
@@ -1215,12 +1210,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mortal-kombat-1/definitive-edition",
+            "_urlPattern": "/pt-BR/productv2/mortal-kombat-1/definitive-edition",
             "_slug": "definitive-edition",
             "_activeDate": "2025-05-12T13:05:28.583Z",
-            "lastModified": "2026-05-18T17:59:17.733Z",
-            "_locale": "en-US",
-            "_id": "cfc8ef5a-1c55-44d4-993f-f8230bc2f0a6",
+            "lastModified": "2025-05-21T13:33:38.311Z",
+            "_locale": "pt-BR",
+            "_id": "fbb0b23b-70a9-4b76-bece-5e171ade53cc",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -1235,8 +1230,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Text: English, French, Italian, German, Spanish – Spain, Arabic, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Korean",
-                        "Audio: English, French, Italian, German, Spanish – Spain, Portuguese – Brazil, Spanish – Latin America"
+                        "Texto: inglês, francês, italiano, alemão, espanhol (Espanha), árabe, polonês, português (Brasil), russo, chinês simplificado, espanhol (América Latina), chinês tradicional, coreano",
+                        "Áudio: inglês, francês, italiano, alemão, espanhol (Espanha), português (Brasil), espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -1245,45 +1240,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 10 64-bit",
-                                    "recommended": "Windows 10/11 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10/11 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel® Core™ i5-6600 (3.30 GHz) | AMD Ryzen™ 3 3100 (3.60 GHz) or Ryzen™ 5 2600 (3.40 GHz)",
-                                    "recommended": "Intel® Core™ i5-8400 (2.80 GHz) | AMD Ryzen™ 5 3600X (3.80 GHz)"
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ i5-6600 (3,30 GHz) | AMD Ryzen™ 3 3100 (3,60 GHz) ou Ryzen™ 5 2600 (3,40 GHz)",
+                                    "recommended": "Intel® Core™ i5-8400 (2,80 GHz) | AMD Ryzen™ 5 3600X (3,80 GHz)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
-                                    "recommended": "8 GB"
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "140 GB",
-                                    "recommended": "140 GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "140 GB",
+                                    "recommended": "140 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "12",
                                     "recommended": "12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GeForce® GTX 1660| AMD Radeon™ RX 590 | Intel® Arc™ A750",
-                                    "recommended": "Nvidia GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce® GTX 1660 | AMD Radeon™ RX 590 | Intel® Arc™ A750",
+                                    "recommended": "NVIDIA GeForce® GTX 2080 Ti | AMD Radeon™ RX 5700 XT | Intel® Arc™ A770"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low",
-                                    "recommended": "SSD, 1440p/High"
+                                    "title": "Outros",
+                                    "minimum": "SSD (Preferencial para recursos completos de multiplataforma online), HDD (Compatível), 1080p/Baixo",
+                                    "recommended": "SSD, 1440p/Alto"
                                 }
                             ]
                         }
@@ -1311,9 +1306,9 @@
                     "developerAttribution": "NetherRealm Studios | QLOC",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Warner Bros. Games",
-                    "description": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! \n\nIncludes: \nBase Game\n\nKhaos Reigns Story Expansion\n\nKombat Pack 2*\nNoob Saibot\nCyrax\nSektor\nGhostface (Scream Franchise)\nT-1000 (Terminator 2)\nConan the Barbarian\nMadam Bo Kameo Fighter\n\nKombat Pack:\nOmni-Man (Invincible)\nQuan Chi\nPeacemaker (DC’s Peacemaker)\nErmac\nHomelander (The Boys)\nTakeda Takahashi\n\nKameo Fighters:\nTremor\nKhameleon\nJanet Cage\nMavado\nFerra\n\nJean-Claude Van Damme Skin for Johnny Cage\n1250 Dragon Krystals\nMortal Kombat Movie Skins for Johnny Cage, Shao Kahn, Kitana, Scorpion, and Sub-Zero\nTournament Liu Kang Skin\nHavik Instant Unlock\nKameo Unlock Pack\nShang Tsung Fighter\nKhaos Reigns Pre-Order Skins (Wedding Scorpion, Ultimate MK3 Sub-Zero, Empress Mileena, Ultimate MK3 Noob Saibot)\n\n*Separate Kombat Pack 2 character bundle not available",
-                    "shortDescription": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! Includes access to Base Game, Story Expansion, Kombat Pack, Kombat Pack 2, Mortal Kombat and II Movie Skins, Dragon Krystals, and more!",
-                    "title": "Mortal Kombat™ 1: Defintive Edition",
+                    "description": "Novo no Mortal Kombat 1? Comece com a Edição Definitiva para a experiência mais completa de Mortal Kombat 1! \n\nInclui: \nJogo de Base\n\nExpansão de História Reina o Kaos\n\nPacote de Kombate 2*\nNoob Saibot\nCyrax\nSektor\nGhostface (Franquia Pânico)\nT-1000 (O Exterminador do Futuro 2)\nConan, o Bárbaro\nSenhora Bo Lutadora de Parceria\n\nPacote de Kombate:\nOmni-Man (Invencível)\nQuan Chi\nPacificador (Pacificador da DC)\nErmac\nCapitão Pátria (The Boys)\nTakeda Takahashi\n\nLutadores de Parceria:\nTremor\nKhameleon\nJanet Cage\nMavado\nFerra\n\nSkin Jean-Claude Van Damme para Johnny Cage\n1250 Kristais de Dragão\nSkins do Filme de Mortal Kombat para Johnny Cage, Shao Kahn, Kitana, Scorpion e Sub-Zero\nSkin Liu Kang do Torneio\nDesbloqueio Instantâneo de Havik\nPacote de Desbloqueio de Parceria\nShang Tsung Lutador\nSkins de Pré-Venda de Reina o Kaos (Scorpion Casamento, Sub-Zero Ultimate MK3, Mileena Imperatriz, Noob Saibot Ultimate MK3)\n\n*Pacote de personagens do Pacote de Kombate 2 não disponível separadamente",
+                    "shortDescription": "Novo no Mortal Kombat 1? Comece com a Edição Definitiva para a experiência mais completa de Mortal Kombat 1! Inclui acesso ao Jogo de Base, Expansão de História, Pacote de Kombate, Pacote de Kombate 2, Skins dos Filmes Mortal Kombat e Mortal Kombat II, Kristais de Dragão e muito mais!",
+                    "title": "Mortal Kombat™ 1: Edição Definitiva",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -1426,7 +1421,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Mortal Kombat™ 1: Definitive Edition"
+                "navTitle": "Mortal Kombat™ 1: Edição Definitiva"
             },
             "overwriteMapping": false,
             "type": "offer",

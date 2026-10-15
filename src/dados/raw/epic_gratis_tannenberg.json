@@ -24,12 +24,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/tannenberg",
+    "_urlPattern": "/pt-BR/productv2/tannenberg",
     "_slug": "tannenberg",
     "_activeDate": "2021-07-20T05:59:51.694Z",
     "lastModified": "2021-07-22T04:27:12.286Z",
-    "_locale": "en-US",
-    "_id": "0e7ca93e-c838-41e8-9c71-43cc4dfbb90f",
+    "_locale": "pt-BR",
+    "_id": "add71f6e-54f5-4248-bd24-ae89b012b5f2",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -58,12 +58,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/tannenberg/home",
+            "_urlPattern": "/pt-BR/productv2/tannenberg/home",
             "_slug": "home",
             "_activeDate": "2021-07-20T06:01:13.549Z",
-            "lastModified": "2024-03-22T21:14:45.350Z",
-            "_locale": "en-US",
-            "_id": "e3dbf23c-a987-4c59-a0aa-01d90fe14493",
+            "lastModified": "2024-03-11T16:57:09.315Z",
+            "_locale": "pt-BR",
+            "_id": "eae479e6-0bf6-4366-aa76-688e6ba53755",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -72,6 +72,107 @@
             "data": {
                 "productLinks": {
                     "_type": "Diesel Product Lins"
+                },
+                "requirements": {
+                    "languages": [
+                        "Áudio: inglês",
+                        "Texto: inglês, chinês simplificado, francês, alemão, italiano, japonês, polonês, português (Portugal e Brasil), russo, espanhol (Espanha), turco"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "10.11 ou superior",
+                                    "recommended": "10.11 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940",
+                                    "recommended": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "16 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo de 2 GB GeForce GTX 960M, Radeon HD 7750 ou superior",
+                                    "recommended": "Placa de vídeo de 4 GB GeForce GTX 960M, Radeon HD 7750 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "minimum": "Apenas multijogador, você deve ter uma conexão à Internet rápida e estável."
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 8/10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940",
+                                    "recommended": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "16 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "10",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo de 2 GB GeForce GTX 960M, Radeon HD 7750 ou superior",
+                                    "recommended": "Placa de vídeo de 4 GB GeForce GTX 960M, Radeon HD 7750 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "minimum": "Apenas multijogador, você deve ter uma conexão à Internet rápida e estável."
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
                 },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/WW1GameSeries",
@@ -83,107 +184,6 @@
                     "linkReddit": "https://www.reddit.com/r/WW1GameSeries/",
                     "linkHomepage": "https://www.ww1gameseries.com/tannenberg/",
                     "linkInstagram": "https://www.instagram.com/blackmillgames/ "
-                },
-                "requirements": {
-                    "languages": [
-                        "Audio: English",
-                        "Text: English, Chinese - Simplified, French, German, Italian, Japanese, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "10.11+",
-                                    "recommended": "10.11+"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
-                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "16 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8 GB available space",
-                                    "recommended": "8 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 2GB video card memory",
-                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 8/10 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
-                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "16 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8 GB available space",
-                                    "recommended": "8 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "10",
-                                    "recommended": "11"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 2GB video card memory",
-                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "EPIC_ACCOUNT",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
                 },
                 "navOrder": 1,
                 "footer": {
@@ -204,8 +204,8 @@
                     "developerAttribution": "BlackMill Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "BlackMill Games",
-                    "description": "Tannenberg brings the massive battles of the Eastern Front in WW1 to life with 64 players fighting for control of key sectors of the battlefield, each one offering a distinct strategic advantage. Warfare between the Russian Empire, Germany, and their allies offers a fresh experience for first person shooter players and history enthusiasts alike.\n\nThere are seven squads, 50+ weapons, eight large maps that give players tactical freedom, and a 64 player game mode with full AI bot support so you can experience epic battles at any time!\n\n# Authentic WW1 FPS\n\nThis historical game takes place across the lakes, forests, mountains and snowy plains of the Eastern Front - it was inspired by the Battle of Tannenberg in 1914, one of the most iconic encirclement battles in history. Players will be able to master a range of authentically modelled equipment brought to the field by Russian Frontovik and Cossack squads, the renowned Latvian Riflemen, or the Roumanian infantry squad. Alternatively they can join the Central Powers to serve in an Austro-Hungarian K.u.K. unit, with the German Infanterie, or in the Bulgarian rifle section.\n\n# Maneuver Game Mode\n\nThe exciting Maneuver game mode reflecting the nature of war on the Eastern Front, as 64 players battle across large maps where the objectives and battle lines are always shifting. Survive the deadly battles by working together with your four man squad and utilizing your distinctive skills. There is a wealth of historical detail including realistic WW1 weaponry, authentic uniforms, horrendous gore, and maps based on real battlefields.\n\n# Key Features\n\n- Authentic WW1 atmosphere; accuracy in everything from maps and weaponry to uniforms\n- Tactical squad-based FPS; play as Russian, Roumanian, Latvian, Austro-Hungarian, German and Bulgarian troops\n- Wide-ranging landscapes; large maps each with weather variants from snow to summer sun\n- 64 player Maneuver game mode; capture strategic sectors in grand battles of movement\n- Never fight alone; squad gameplay and AI bots for Maneuver so you can join epic battles at any time\n\n# Carefully Researched\n\nWe recreate the atmosphere of the Eastern Front with the same level of accuracy as seen in Verdun. Extensive research has been conducted, with uniforms recreated to the tiniest detail and weapons modelled to exact references. The maps use realistic props and terrain layouts based on locations from the hilly forests of Galicia to Polish villages subjected to scorched earth tactics and more!\n\nOther games in the series are Verdun, set on the Western Front, and Isonzo, which lets players experience mountain warfare on the Italian Front!",
-                    "shortDescription": "Experience authentic First World War action with 64 player battles of maneuver on the Eastern Front. Grab your rifle, ready your sabre and keep your gas mask close as you prepare to play a part in one of the most significant conflicts in history!",
+                    "description": "Tannenberg traz à vida batalhas massivas na Frente Oriental da Primeira Guerra Mundial com 64 jogadores disputando o controle de setores-chave do campo de batalha, cada um com suas próprias vantagens estratégicas. A guerra entre o Império Russo e a Alemanha e seus aliados oferece uma experiência revigorante para jogadores de FPS e para os amantes de história.\n\nHá sete esquadrões, mais de 50 armas, oito mapas enormes que dão aos jogadores liberdade tática, e um modo de jogo para 64 jogadores, com suporte total a bots de IA para que você possa vivenciar batalhas épicas a qualquer hora!\n\n# Autêntico FPS da Primeira Guerra Mundial\n\nEsse jogo histórico se passa em lagos, florestas, montanhas e planícies nevadas na Frente Oriental — ele foi inspirado na Batalha de Tannenberg, de 1914, um dos principais cercos da história. Os jogadores podem se especializar em diversos equipamentos autênticos, trazidos a campo pelos russos com os esquadrões dos Frontoviks e dos Cossacos, pelos renomados fuzileiros letões ou pelo esquadrão de infantaria romeno. Alternativamente, eles podem se juntar às Potências Centrais para servir em uma unidade k.u.k. austro-húngara, na infantaria alemã, ou na seção de rifles búlgara.\n\n# Modo de jogo Manobra\n\nO empolgante modo de jogo Manobra reflete a natureza da guerra na Frente Oriental, enquanto 64 jogadores lutam em grandes mapas, onde os objetivos e as linhas de batalha mudam constantemente. Sobreviva a batalhas mortais cooperando com seu esquadrão de quatro homens e utilizando suas habilidades distintas. Há diversos detalhes históricos, incluindo arsenais realistas da Primeira Guerra Mundial, uniformes autênticos, muito sangue e mapas baseados em campos de batalha reais.\n\n# Características principais\n\n- Autêntica atmosfera da Primeira Guerra Mundial: precisão em tudo, desde mapas e armas até os uniformes\n- FPS tático de equipes: jogue com as tropas russas, romenas, letãs, austro-húngaras, alemãs e búlgaras\n- Paisagens extensas: mapas grandes, cada um com variações de clima, da neve ao sol do verão\n- Modo de jogo Manobra com 64 jogadores: capture setores estratégicos em grandes batalhas de posicionamento\n- Nunca lute sozinho: jogo em equipes e bots de IA para o modo Manobra, para que você participe de batalhas épicas a qualquer hora\n\n# Cuidadosamente pesquisado\n\nRecriamos a atmosfera da Frente Oriental com o mesmo nível de precisão visto em Verdun. Pesquisas profundas foram feitas, com uniformes recriados nos mínimos detalhes e armas modeladas de acordo com referências exatas. Os mapas usam objetos realistas e terrenos baseados em locais desde as florestas montanhosas da Galícia até um vilarejo polonês sujeito a táticas de terra arrasada e muito mais!",
+                    "shortDescription": "Vivencie a autêntica ação da Primeira Guerra Mundial com batalhas de manobra para 64 jogadores na Frente Oriental. Pegue seu rifle, prepare seu sabre e não se esqueça da máscara de gás quando for fazer parte de um dos conflitos mais importantes da história!",
                     "title": "Tannenberg",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -255,8 +255,8 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Tannenberg Trailer",
                                 "type": "epicHosted",
+                                "title": "Tannenberg Trailer",
                                 "muted": true,
                                 "autoplay": true
                             }
@@ -630,16 +630,16 @@
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-11-1920x1080-05d2b61b3a23.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-19-1920x1080-71da13f7fc1d.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-06-1920x1080-773cd435f898.jpg",
-                "https://cdn2.unrealengine.com/tannenberg-400-x-400-400x400-ecd08b79347f.png",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-03-1920x1080-a95f10876b9d.jpg",
+                "https://cdn2.unrealengine.com/tannenberg-400-x-400-400x400-ecd08b79347f.png",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-16-1920x1080-d8b624369e30.jpg",
-                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s2-1200x1600-5e2d4f3ae793.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-17-1920x1080-25637ae2feda.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s2-1200x1600-5e2d4f3ae793.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-13-1920x1080-7d6b24f9db52.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-14-1920x1080-dee30fcde4ac.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s1-2560x1440-b5a41ff9a55d.jpg",
-                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s4-1200x1600-d03984d2bb22.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-18-1920x1080-c7ee3374eb2e.jpg",
+                "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-s4-1200x1600-d03984d2bb22.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-01-1920x1080-49e743d06965.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-04-1920x1080-df4aecd77bac.jpg",
                 "https://cdn2.unrealengine.com/egs-tannenberg-m2hblackmillgames-g1a-09-1920x1080-59d55ddf7156.jpg",

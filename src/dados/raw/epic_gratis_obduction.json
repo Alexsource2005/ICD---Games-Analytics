@@ -47,12 +47,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/obduction",
+    "_urlPattern": "/pt-BR/productv2/obduction",
     "_slug": "obduction",
     "_activeDate": "2021-07-08T14:55:00.000Z",
-    "lastModified": "2021-07-08T14:16:51.930Z",
-    "_locale": "en-US",
-    "_id": "9648f626-87fa-4650-ba21-f4f129eb858b",
+    "lastModified": "2021-07-08T14:12:26.336Z",
+    "_locale": "pt-BR",
+    "_id": "250ff072-ba72-47fe-8678-466c0fbd66fb",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -115,12 +115,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/obduction/home",
+            "_urlPattern": "/pt-BR/productv2/obduction/home",
             "_slug": "home",
             "_activeDate": "2021-07-05T19:20:04.590Z",
             "lastModified": "2021-07-08T14:12:40.753Z",
-            "_locale": "en-US",
-            "_id": "226ead68-3d62-43c0-8ca4-b95d9695c891",
+            "_locale": "pt-BR",
+            "_id": "79bafa4a-d5ac-4212-ade5-c09957194c31",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -142,7 +142,7 @@
                         {
                             "src": "https://support.cyan.com",
                             "_type": "Diesel Link",
-                            "title": "Support"
+                            "title": "Suporte"
                         }
                     ]
                 },
@@ -156,8 +156,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, Italian, German, Spanish - Spain, Russian, Chinese - Simplified, Polish, Dutch, Portuguese - Brazil"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, italiano, alemão, espanhol (Espanha), russo, chinês simplificado, polonês, holandês, português (Brasil)"
                     ],
                     "systems": [
                         {
@@ -166,39 +166,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS",
+                                    "title": "macOS",
                                     "minimum": "Sierra 10.12.4",
                                     "recommended": "Sierra 10.12.4"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Processor",
-                                    "minimum": "Intel CPU capable of 4 or more threads",
-                                    "recommended": "Quad Core Intel"
+                                    "title": "Processador para macOS",
+                                    "minimum": "Processador Intel com suporte a 4 ou mais threads",
+                                    "recommended": "Intel Quad Core"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória para macOS",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
+                                    "title": "Armazenamento para macOS",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Graphics",
-                                    "minimum": "Intel HD Graphics 4000, Iris 5000 & 6000 family w/1 GB VRAM or better. Most Macs from 2012 on.",
-                                    "recommended": "nVidia GT 600M, 700M family / AMD R9 M family or better"
+                                    "title": "Placa de vídeo para macOS",
+                                    "minimum": "Intel HD Graphics 4000, família Iris 5000 e 6000 com 1 GB de VRAM ou mais. A maioria dos Macs de 2012 em diante.",
+                                    "recommended": "Família nVidia GT 600M, 700M / Família AMD R9 M ou melhor"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Other",
-                                    "minimum": "MacOS 10.12.4 or later is required to play Obduction. Any MacOS versions prior to this may result in random crashes. Metal support required/",
-                                    "recommended": "MacOS 10.12.4 or later is required to play Obduction. Any MacOS versions prior to this may result in random crashes. Metal support required."
+                                    "title": "macOS - Outros",
+                                    "minimum": "É necessário ter o macOS 10.12.4 ou mais recente para jogar Obduction. Qualquer versão anterior do macOS pode resultar em travamentos aleatórios. Suporte ao Metal necessário.",
+                                    "recommended": "É necessário ter o macOS 10.12.4 ou mais recente para jogar Obduction. Qualquer versão anterior do macOS pode resultar em travamentos aleatórios. Suporte ao Metal necessário."
                                 }
                             ]
                         },
@@ -208,45 +208,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 7 SP1 64 bit",
-                                    "recommended": "Windows 10 64 bit"
+                                    "title": "Sistema operacional Windows",
+                                    "minimum": "Windows 7 (SP1) de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel i5-2500 equivalent or better",
-                                    "recommended": "Intel i5 4590 equivalent or better"
+                                    "title": "Processador do Windows",
+                                    "minimum": "Intel i5-2500, equivalente ou melhor",
+                                    "recommended": "Intel i5 4590, equivalente ou melhor"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória do Windows",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
+                                    "title": "DirectX no Windows",
                                     "minimum": "DirectX 11",
                                     "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "GeForce 660 GTX w/1GB / AMD 7700 series w/1GB equivalent or better",
-                                    "recommended": "NVIDIA GTX 970 w/4 GB / AMD R9 290 w/4 GB equivalent or better"
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "GeForce 660 GTX com 1 GB / AMD série 7700 com 1 GB, equivalente ou melhor",
+                                    "recommended": "NVIDIA GTX 970 com 4 GB / AMD R9 290 com 4 GB, equivalente ou melhor"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Other",
-                                    "minimum": " For VR: NVIDIA 970 or AMD 480 (equivalent or greater)",
-                                    "recommended": "For VR: NVIDIA 980/1060 or AMD Fury (equivalent or greater)"
+                                    "title": "Windows outros",
+                                    "minimum": "Para RV: NVIDIA 970 ou AMD 480 (equivalente ou superior)",
+                                    "recommended": "Para RV: NVIDIA 980/1060 ou AMD Fury (equivalente ou superior)"
                                 }
                             ]
                         }
@@ -274,8 +274,8 @@
                     "developerAttribution": "Cyan, Inc.",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Cyan, Inc.",
-                    "description": "# ABOUT THIS GAME\nFrom Cyan, the indie studio that brought you Myst, comes a new sci-fi adventure.\n\nAs you walk beside the lake on a cloudy night, a curious, organic artifact falls from the starry sky and inexplicably, without asking permission, transports you across the universe.\n\nThe strange worlds of Obduction reveal their secrets only as you explore, discover, coax, and consider their clues. As you bask in the otherworldly beauty and explore the enigmatic landscapes, remember that the choices you make will have substantial consequences. This is your story now.\n\n# REVIEWS\n“Obduction has seemingly delivered on all of its promise”\n9 of 10 – [Attack of the Fanboy](https://store.steampowered.com/app/306760/Obduction/)\n\n“A beautiful, technically-composed game with an innovative premise that feels familiar yet completely alien.”\n9 of 10 – [Destructoid](https://store.steampowered.com/app/306760/Obduction/)\n\n“The mastery of level design on display here is staggering… Riveting.”\n10 of 10 – [War Council TV](https://store.steampowered.com/app/306760/Obduction/)\n\n# QUOTES\n“Immense and immersive… It was breathtaking… something that feels magical.” - UploadVR\n\n“Cyan has succeeded in making another adventure that feels truly timeless.” - Polygon\n\n“Obduction’s beautiful world is a worthy successor to Myst.” - Wired",
-                    "shortDescription": "A sci-fi adventure from Cyan, the creators of Myst. Abducted far across the universe, you find yourself on a broken alien landscape with odd pieces of Earth. Explore, uncover, solve, and find a way to make it home.",
+                    "description": "# SOBRE ESTE JOGO\nUma nova aventura de ficção científica da Cyan, o mesmo estúdio independente que trouxe a vocês Myst.\n\nDurante sua caminhada à beira do lago em uma noite nublada, um curioso artefato orgânico cai do céu estrelado e, inexplicavelmente, sem pedir permissão, transporta você através do universo.\n\nOs estranhos mundos de Obduction revelam seus segredos à medida que você explora, descobre, organiza e pondera suas pistas. Deleite-se com belezas sobrenaturais e explore paisagens enigmáticas, mas lembre-se de que as escolhas que você fizer terão consequências substanciais. Esta é a sua história agora.\n\n# AVALIAÇÕES\n\"Obduction parece ter cumprido tudo o que prometeu.\"\n9 de 10 – [Attack of the Fanboy](https://store.steampowered.com/app/306760/Obduction/)\n\n\"Um jogo bonito e tecnicamente composto, com uma premissa inovadora que parece familiar, mas, ainda assim, completamente estranha.\"\n9 de 10 – [Destructoid](https://store.steampowered.com/app/306760/Obduction/)\n\n\"A maestria do level design na tela é impressionante... Fascinante.\"\n10 de 10 – [War Council TV](https://store.steampowered.com/app/306760/Obduction/)\n\n# CITAÇÕES\n\"Imenso e imersivo... Foi de tirar o fôlego... Um tanto quanto mágico.\" - UploadVR\n\n\"A Cyan conseguiu fazer mais uma aventura que parece ser verdadeiramente atemporal.\" - Polygon\n\n\"O belo mundo de Obduction é um sucessor digno de Myst.\" - Wired",
+                    "shortDescription": "Uma aventura sci-fi da Cyan, criadora de Myst. Abduzido nos confins do universo, você se encontra em uma paisagem alienígena distorcida, com pedaços estranhos da Terra. Explore, descubra, solucione e encontre uma maneira de voltar para casa.",
                     "title": "Obduction",
                     "developerLogo": {
                         "_type": "Diesel Image"

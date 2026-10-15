@@ -49,12 +49,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/cris-tales",
+    "_urlPattern": "/pt-BR/productv2/cris-tales",
     "_slug": "cris-tales",
     "_activeDate": "2021-01-26T18:40:32.223Z",
-    "lastModified": "2021-05-27T14:54:04.579Z",
-    "_locale": "en-US",
-    "_id": "1910bb3c-b365-47c0-87a3-b5f99864e686",
+    "lastModified": "2021-01-28T19:26:39.336Z",
+    "_locale": "pt-BR",
+    "_id": "c64f9238-5b36-4b85-b9a0-e3617a6e2190",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -94,8 +94,8 @@
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-04-1920x1080-0651bcdc46ed.jpg",
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-06-1920x1080-77230203de28.jpg",
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-01-1920x1080-00546cfd98b5.jpg",
-                "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-03-1920x1080-9efdef2d0d83.jpg",
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-08-1920x1080-9879dc8e7a0f.jpg",
+                "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-03-1920x1080-9efdef2d0d83.jpg",
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-11-1920x1080-a5007412a463.jpg",
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-s2-1200x1600-e620d550c6b6.jpg",
                 "https://cdn2.unrealengine.com/egs-agorgeousindielovelettertoclassicjrpgs-dreamsuncorporatedsyck-g1a-10-1920x1080-7cb67927b6d9.jpg",
@@ -124,12 +124,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/cris-tales/home",
+            "_urlPattern": "/pt-BR/productv2/cris-tales/home",
             "_slug": "home",
             "_activeDate": "2021-01-26T18:41:42.931Z",
-            "lastModified": "2024-02-15T19:55:55.986Z",
-            "_locale": "en-US",
-            "_id": "0d856c14-93d1-464a-a6f2-ceff28dfe395",
+            "lastModified": "2021-01-28T19:26:32.123Z",
+            "_locale": "pt-BR",
+            "_id": "077d5767-b3c2-4581-b84c-f7da61ba435b",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -149,8 +149,8 @@
                     "_type": "Diesel Product Lins"
                 },
                 "socialLinks": {
-                    "linkTwitter": "https://twitter.com/Modus_Games",
                     "linkTwitch": "https://www.twitch.tv/modus_games",
+                    "linkTwitter": "https://twitter.com/Modus_Games",
                     "linkFacebook": "https://www.facebook.com/ModusGames",
                     "linkYoutube": "https://www.youtube.com/channel/UCdYYIsM2m513a3RUQ_zqWqQ",
                     "_type": "Diesel Social Links",
@@ -158,8 +158,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, Italian, German, Spanish, Korean, Japanese, Russian, Chinese (Traditional + Simplified)"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, italiano, alemão, espanhol, coreano, japonês, russo, chinês (tradicional e simplificado)"
                     ],
                     "systems": [
                         {
@@ -168,39 +168,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "OS Version: windows 7",
-                                    "recommended": "OS Version: windows 10"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Versão do sistema operacional: Windows 7",
+                                    "recommended": "Versão do sistema operacional: Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core at 2.5Ghz or AMD equivalent",
-                                    "recommended": "Intel Core at 2.7Ghz or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core de 2,5 GHz ou AMD equivalente",
+                                    "recommended": "Intel Core de 2,7 GHz ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "6 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "11",
                                     "recommended": "12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 650 Ti (2GB) or equivalent",
-                                    "recommended": "NVIDIA GeForce GTX 750 Ti (4GB) or equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 650 Ti (2 GB) ou equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 750 Ti (4 GB) ou equivalente"
                                 }
                             ]
                         }
@@ -229,8 +229,8 @@
                     "developerAttribution": "Dreams Uncorporated, SYCK",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Maximum Entertainment LLC",
-                    "description": "Cris Tales is a gorgeous, indie love letter to classic JRPGs with a new perspective. Peer into the past, act in the present, and watch as your choices dynamically change the future -- all on one screen as you play! Beautifully hand-drawn 2D animations bring to life a world where your choices will change both the present and the future across more than 20 hours of gameplay.\n\n# Key Features\n\n# - A Love Letter to Classic JRPGs \n\nInspired by timeless JRPGs like Chrono Trigger, Final Fantasy VI, Valkyrie Profile, and modern classics like Bravely Default and Persona 5, meet and recruit a unique cast of teammates, challenge myriad enemies, and make your way through an expansive world.    \n\n# - Experience the Past, Present, and Future Simultaneously \n\nPeer into and learn from the past, decide on actions in the present, and alter the course of the future in ways that will reshape the world dynamically depending on the choices you make. \n\n# - Master Strategic Turn-Based Combat\n\nWarp your enemies into the past or future, synchronize attacks for enhanced group abilities, and master the timing of attack and defense to go beyond your party’s limits in combat. \n\n# - Uncover a Fascinating Story & Characters\n\nThe Empress’ plot to destroy the world is complex and layered. Use your wits and recruit powerful allies throughout the world to uncover and undo her multi-faceted web and make your way to the True Ending of this enchanting tale.\n\n# - Discover a Beautiful World\n\nClimb aboard an airship or boat and traverse this handcrafted, dark fairytale world. From the shining kingdom of Crystallis to the slums of Saint Clarity, discover each unique location and shape its future.\n",
-                    "shortDescription": "Experience Past, Present, and Future simultaneously in this gorgeous, indie love letter to classic JRPGs",
+                    "description": "Cris Tales é uma linda homenagem independente aos JRPGs clássicos, trazendo uma nova perspectiva ao gênero. Analise o passado, aja no presente e observe como suas escolhas mudam dinamicamente o futuro — tudo isso em uma só tela enquanto você joga! Animações 2D lindamente desenhadas à mão dão vida a um mundo em que suas escolhas mudarão o presente e o futuro em mais de 20 horas de jogo.\n\n# Características principais\n\n# - Uma homenagem aos JRPGs clássicos \n\nInspirado por JRPGs atemporais como Chrono Trigger, Final Fantasy VI, Valkyrie Profile e clássicos modernos como Bravely Default e Persona 5, encontre e recrute um grupo único de companheiros de equipe e desafie uma infinidade de inimigos enquanto percorre seu caminho em um mundo expansivo.    \n\n# - Vivencie o passado, o presente e o futuro simultaneamente \n\nAnalise e aprenda com o passado, decida as ações no presente e altere a trajetória do futuro de maneiras que remodelarão o mundo dinamicamente, dependendo das escolhas que você fizer. \n\n# - Domine o combate estratégico baseado em turnos\n\nLance seus inimigos para o passado ou futuro, sincronize ataques para utilizar habilidades de grupo aprimoradas e domine o tempo de ataque e defesa para ir além dos limites do seu grupo em combate. \n\n# - Descubra uma história e personagens fascinantes\n\nO plano da Imperatriz (Empress) para destruir o mundo é complexo e composto por muitas etapas. Use sua inteligência e recrute aliados poderosos em todo o mundo para descobrir e desfazer a rede multifacetada criada por ela e siga seu caminho até o verdadeiro final deste conto encantador.\n\n# - Descubra um lindo mundo\n\nSuba a bordo de um dirigível ou um barco e atravesse este mundo obscuro de conto de fadas cuidadosamente elaborado. Do resplandecente reino de Crystallis aos guetos de Saint Clarity, descubra cada local único e defina seu futuro.\n",
+                    "shortDescription": "Vivencie o passado, o presente e o futuro simultaneamente nesta linda homenagem independente aos JRPGs clássicos",
                     "title": "",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -407,9 +407,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -422,7 +419,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "ef361cdf19514595a8cb0945fb66962e",
-                            "description": "Experience Past, Present, and Future simultaneously in this gorgeous, indie love letter to classic JRPGs",
+                            "description": "Vivencie o passado, o presente e o futuro simultaneamente nesta linda homenagem independente aos JRPGs clássicos",
                             "offerId": "132a0780b11d4cdf8932a239ce86aa4b",
                             "tag": "edition",
                             "title": "Cris Tales",
@@ -438,10 +435,10 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "ef361cdf19514595a8cb0945fb66962e",
-                            "description": "This bundle includes the Cris Tales full game and Original Soundtrack.\nCris Tales is a gorgeous, indie love letter to classic JRPGs with a new perspective. \nThe Original Soundtrack of Cris Tales is composed by Tyson Wernli. ",
+                            "description": "Este pacote inclui o jogo completo Cris Tales e a Trilha Sonora Original.\nCris Tales é uma linda homenagem independente aos JRPGs clássicos, trazendo uma nova perspectiva ao gênero. \nA Trilha Sonora Original de Cris Tales é composta por Tyson Wernli. ",
                             "offerId": "aef76ef632d7492e9ebf8ca735681dae",
                             "tag": "edition",
-                            "title": "Cris Tales Original Soundtrack Bundle",
+                            "title": "Pacote da Trilha Sonora Original de Cris Tales",
                             "slug": "p/cris-tales--soundtrack-bundle"
                         }
                     ],
@@ -499,10 +496,6 @@
                 "productSections": [
                     {
                         "productSection": "GALLERY",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "EDITIONS",
                         "_type": "Diesel Product Section"
                     },
                     {
@@ -572,7 +565,6 @@
                 },
                 "navTitle": "Cris Tales"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
@@ -633,13 +625,23 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/cris-tales/soundtrack-bundle",
+            "_urlPattern": "/pt-BR/productv2/cris-tales/soundtrack-bundle",
             "_slug": "soundtrack-bundle",
             "_activeDate": "2021-01-26T18:41:42.931Z",
-            "lastModified": "2024-02-15T19:56:34.878Z",
-            "_locale": "en-US",
-            "_id": "2647ee83-eb05-44b9-977b-f475de2cf6c5",
+            "lastModified": "2021-07-15T18:46:16.659Z",
+            "_locale": "pt-BR",
+            "_id": "90b18b8d-7b17-48cc-8c18-60429883cf06",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "ef361cdf19514595a8cb0945fb66962e",
+                "id": "aef76ef632d7492e9ebf8ca735681dae",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -649,8 +651,8 @@
                     "_type": "Diesel Product Lins"
                 },
                 "socialLinks": {
-                    "linkTwitter": "https://twitter.com/Modus_Games",
                     "linkTwitch": "https://www.twitch.tv/modus_games",
+                    "linkTwitter": "https://twitter.com/Modus_Games",
                     "linkFacebook": "https://www.facebook.com/ModusGames",
                     "linkYoutube": "https://www.youtube.com/channel/UCdYYIsM2m513a3RUQ_zqWqQ",
                     "_type": "Diesel Social Links",
@@ -658,8 +660,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, Italian, German, Spanish, Korean, Japanese, Russian, Chinese (Traditional + Simplified)"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, italiano, alemão, espanhol, coreano, japonês, russo, chinês (tradicional e simplificado)"
                     ],
                     "systems": [
                         {
@@ -668,39 +670,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "OS Version: windows 7",
-                                    "recommended": "OS Version: windows 10"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Versão do sistema operacional: Windows 7",
+                                    "recommended": "Versão do sistema operacional: Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core at 2.5Ghz or AMD equivalent",
-                                    "recommended": "Intel Core at 2.7Ghz or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core de 2,5 GHz ou AMD equivalente",
+                                    "recommended": "Intel Core de 2,7 GHz ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "6 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "11",
                                     "recommended": "12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 650 Ti (2GB) or equivalent",
-                                    "recommended": "NVIDIA GeForce GTX 750 Ti (4GB) or equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 650 Ti (2 GB) ou equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 750 Ti (4 GB) ou equivalente"
                                 }
                             ]
                         }
@@ -729,9 +731,9 @@
                     "developerAttribution": "Dreams Uncorporated, SYCK",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Maximum Entertainment LLC",
-                    "description": "Cris Tales is a gorgeous, indie love letter to classic JRPGs with a new perspective. Peer into the past, act in the present, and watch as your choices dynamically change the future -- all on one screen as you play\n\nThe Original Soundtrack of Cris Tales is composed by Tyson Wernli. He grew up inspired by the music of Yasunori Mitsuda, Nobuo Uematsu, and Koji Kondo. With Cris Tales, Wernli set out to create a soundtrack which paid homage to the games of his childhood while also establishing his own voice in the genre through use of leitmotifs, strong rhythms, and lyrical melodies. ",
-                    "shortDescription": "This bundle includes the Cris Tales full game and Original Soundtrack.  Cris Tales is a gorgeous, indie love letter to classic JRPGs with a new perspective.   The Original Soundtrack of Cris Tales is composed by Tyson Wernli. ",
-                    "title": "Cris Tales Original Soundtrack Bundle",
+                    "description": "Cris Tales é uma linda homenagem independente aos JRPGs clássicos, trazendo uma nova perspectiva ao gênero. Analise o passado, aja no presente e observe como suas escolhas mudam dinamicamente o futuro — tudo isso em uma só tela enquanto você joga!\n\nA Trilha Sonora Original de Cris Tales é composta por Tyson Wernli. Ele cresceu ouvindo a música de Yasunori Mitsuda, Nobuo Uematsu e Koji Kondo, que foram sua inspiração. Com Cris Tales, Wernli se propôs a criar uma trilha sonora que homenageasse os jogos de sua infância, ao mesmo tempo em que estabelecia sua própria voz no gênero por meio do uso de leitmotifs, ritmos fortes e melodias líricas. ",
+                    "shortDescription": "Este pacote inclui o jogo completo Cris Tales e a Trilha Sonora Original.  Cris Tales é uma linda homenagem independente aos JRPGs clássicos, trazendo uma nova perspectiva ao gênero.   A Trilha Sonora Original de Cris Tales é composta por Tyson Wernli. ",
+                    "title": "Pacote da Trilha Sonora Original de Cris Tales",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -761,7 +763,7 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "title": "Cris Tales Original Soundtrack Bundle",
+                    "title": "Pacote da Trilha Sonora Original de Cris Tales",
                     "isFullBleed": false,
                     "altContentPosition": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-cristalesoriginalsoundtrackbundle-dreamsuncorporatedsyck-bundles-g1a-00-1920x1080-6917dc75d62b.jpg"
@@ -785,9 +787,6 @@
                             }
                         }
                     ]
-                },
-                "experiences": {
-                    "_type": "Epic Store Experience"
                 },
                 "editions": {
                     "_type": "Epic Store Editions",
@@ -873,25 +872,14 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Cris Tales Original Soundtrack Bundle"
-            },
-            "overwriteMapping": false,
-            "type": "offer",
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "ef361cdf19514595a8cb0945fb66962e",
-                "id": "aef76ef632d7492e9ebf8ca735681dae",
-                "type": "edition",
-                "hasOffer": true
+                "navTitle": "Pacote da Trilha Sonora Original de Cris Tales"
             },
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
             },
-            "tag": "edition"
+            "tag": "edition",
+            "type": "offer"
         }
     ],
     "data_aquisicao_gratis": "24 de Fevereiro de 2022 a 03 de Março, 2022"

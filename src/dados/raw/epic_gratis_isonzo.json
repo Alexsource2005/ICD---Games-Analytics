@@ -25,12 +25,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/isonzo",
+    "_urlPattern": "/pt-BR/productv2/isonzo",
     "_slug": "isonzo",
     "_activeDate": "2022-06-14T07:55:00.000Z",
-    "lastModified": "2022-06-13T23:27:20.864Z",
-    "_locale": "en-US",
-    "_id": "729ab296-6ec7-4bf5-90e3-7bc86a4edbf0",
+    "lastModified": "2022-06-02T22:25:54.834Z",
+    "_locale": "pt-BR",
+    "_id": "a7ea2b41-73ae-4272-9749-236d25d5b5fd",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -60,12 +60,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/isonzo/home",
+            "_urlPattern": "/pt-BR/productv2/isonzo/home",
             "_slug": "home",
             "_activeDate": "2023-09-07T10:30:00.000Z",
-            "lastModified": "2024-09-06T22:24:28.544Z",
-            "_locale": "en-US",
-            "_id": "d98aaa62-49aa-4d81-b4bd-278a87de6a20",
+            "lastModified": "2024-08-29T21:52:05.767Z",
+            "_locale": "pt-BR",
+            "_id": "0b8db494-8387-4818-a72a-6842e4039f4f",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -74,6 +74,106 @@
             "data": {
                 "productLinks": {
                     "_type": "Diesel Product Lins"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, alemão, francês, japonês, polonês, português, português (Brasil), espanhol (Espanha), russo, turco, italiano"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional Windows",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador do Windows",
+                                    "minimum": "Intel Core i5-4670K / AMD Ryzen 5 1400",
+                                    "recommended": "Intel Core i7-6700K, AMD Ryzen 5 3600"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória do Windows",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Windows DirectX",
+                                    "minimum": "11",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4 GB de VRAM",
+                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8 GB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Windows – Outros",
+                                    "minimum": "Conexão à Internet de banda larga",
+                                    "recommended": "Conexão à Internet de banda larga"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "macOS",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "macOS",
+                                    "minimum": "Catalina 10.15.4 ou mais recente",
+                                    "recommended": "Ventura 13.0"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador para macOS",
+                                    "minimum": "CPU Apple M1 ou Intel Core 4-Core de 2,8 GHz ou superior",
+                                    "recommended": "CPU Apple M2 ou Intel Core i5 6-core de 3,7 GHz ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória para macOS",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento para macOS",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com Metal"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outras",
+                                    "recommended": "SSD recomendado"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
                 },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/WW1GameSeries",
@@ -86,106 +186,6 @@
                     "linkHomepage": "https://www.ww1gameseries.com/isonzo/",
                     "linkInstagram": "https://www.instagram.com/blackmillgames/ "
                 },
-                "requirements": {
-                    "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, German, French, Japanese, Polish, Portuguese, Portuguese - Brazil, Spanish - Spain, Russian, Turkish, Italian"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 10 64-Bit",
-                                    "recommended": "Windows 10 64-Bit"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel Core i5-4670K, AMD Ryzen 5 1400",
-                                    "recommended": "Intel Core i7-6700K, AMD Ryzen 5 3600"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
-                                    "minimum": "11",
-                                    "recommended": "11"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4GB VRAM",
-                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8GB VRAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Other",
-                                    "minimum": "Broadband Internet connection",
-                                    "recommended": "Broadband Internet connection"
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac OS",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS",
-                                    "minimum": "Catalina 10.15.4 or newer",
-                                    "recommended": "Ventura 13.0"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Processor",
-                                    "minimum": "Apple M1 or 4-Core Intel Core 2.8 Ghz CPU or better",
-                                    "recommended": "Apple M2 or 6-core Intel Core i5 3.7 GHz or better"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Memory",
-                                    "minimum": "4 GB",
-                                    "recommended": "8 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Storage",
-                                    "minimum": "8 GB",
-                                    "recommended": "16 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Metal compatible"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "recommended": "SSD recommended"
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "NO_REQUIREMENTS",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
-                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -193,7 +193,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.blackmillgames.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -205,8 +205,8 @@
                     "developerAttribution": "BlackMill Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "BlackMill Games",
-                    "description": "# About Isonzo\n\nFrom the makers of [Verdun ](https://store.epicgames.com/en-US/p/verdun) and [Tannenberg](https://store.epicgames.com/en-US/p/tannenberg)…\n\nTake part in historical offensives from the Sixth Battle of the Isonzo to the Strafexpedition. Reflecting the course of the actual battles, as the attackers advance the fighting will shift through vastly different landscapes within a single offensive: from hillside fortresses to mountain trenches and fierce urban combat on city streets. Everything is recreated based on research and field trips, from sound effects and uniforms down to the houses, vineyards and trenches you’ll be fighting over. \n\n![Image 1](https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-03-1920x1080-03510581bf8e.jpg)\n\n# Offensive Game Mode\n\nThe new Offensive game mode puts you right in the middle of key historical offensives on the Italian Front. Lead the charge across stunning Italian landscapes as you choose your path to victory - cut paths through barbed wire, flank your enemies by following mountain trails, or man a mortar to blast a way through. Shape a dynamic battlefield by laying sandbags and wire, placing ammo crates, deploying trench periscopes or sniper shields, and more.\n\n![Image 2](https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-08-1920x1080-d0c29ed16f79.jpg)\n\n# Authentic WW1 Combat\n\nCall in support with a unique historically accurate flare system: flare guns can mark targets for artillery or biplane flybys, or different colored flares can be used to guide your team. Once the big guns have softened up the enemy, finish the job at close quarters with an Arditi dagger or mountaineer’s pickaxe. Man heavy machine guns, mortars and even mountain guns for more direct fire support.\n\n# Class System\n\nChoose from six classes based on historical combat roles and build your loadout from a selection of weapons, equipment and perks linked to that class, giving flexibility and variety while staying grounded in what real soldiers might have carried.  You’ll be operating wire cutters, bandaging yourself and wounded teammates, and blowing the whistle to start an assault. One shot can kill and even lighter injuries can lead to quickly bleeding out. \n\nBeing an effective soldier in Isonzo is not just about being a good marksman. Mastering the terrain is also key - the mountain can be a friend or foe. Learn how to navigate well to maintain cover and surprise your enemies or support your allies.\n\nFinally… watch out for the dreaded poison gas. You’ve never experienced WW1 action quite like this!\n\n![Image 3](https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-05-1920x1080-ae691358746a.jpg)\n\n# Isonzo Key Features\n\n**Mountain warfare**\nAssaulting mountain fortifications, battling through ruined towns, and fording rivers are just a few of the challenges you’ll face as you fight your way through numerous enemy positions.\n\n**Tactical multiplayer FPS**\nChoose your role and loadout carefully to survive this high altitude combat - play a sniper to pick off the enemy engineers before they can cut your wire, use rifle grenades to clear enemy machine guns, and much more.\n\n**World War One Gameplay**\nHistorical Offensive game mode based on real battles and focused on the unique challenges of Alpine warfare. Fight with 30+ WW1 weapons, poisonous gas attacks, and intense artillery barrages.\n\n**Build for victory**\nPlace your own wire, sandbags, trench periscopes, and more! Whether you’re digging in or on the attack, shaping the battlefield to your advantage will be key to victory.\n\n**Faces of war**\nMake every class your own by picking from a variety of historically class-appropriate uniforms, accessories and headgear. As a finishing touch, you can even pick your mustache from several famous period-accurate styles!\n\n**Authentic WW1 atmosphere**\nAccuracy in everything from maps and weaponry to music and the uniforms – fight for the Kingdom of Italy or the Austro-Hungarian Dual Monarchy.\n\n\n",
-                    "shortDescription": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
+                    "description": "Sobre Isonzo\n============\n\nDos criadores de [Verdun](https://store.epicgames.com/en-US/p/verdun) e [Tannenberg](https://store.epicgames.com/en-US/p/tannenberg)…\n\nParticipe de ofensivas históricas desde a Sexta Batalha do Isonzo até a Batalha de Asiago. Refletindo o curso das batalhas reais, à medida que os atacantes avançam, a luta passará por paisagens muito diferentes numa única ofensiva: de fortalezas nas encostas a trincheiras nas montanhas e combates urbanos ferozes nas ruas da cidade. Tudo é recriado com base em pesquisas e viagens de campo, desde efeitos sonoros e uniformes até as casas, vinhedos e trincheiras pelas quais você lutará.\n\n![Image 1](https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-03-1920x1080-03510581bf8e.jpg)\n\nModo de jogo Ofensivo\n=====================\n\nO novo modo de jogo Ofensivo coloca você bem no meio das principais ofensivas históricas na Frente Italiana. Conduza o ataque por paisagens italianas deslumbrantes enquanto escolhe o seu caminho para a vitória — corte caminhos pelo arame farpado, flanqueie os inimigos por trilhas nas montanhas ou use um morteiro para abrir caminho. Molde um campo de batalha dinâmico com sacos de areia e arame, caixas de munição, periscópios de trincheira ou escudos de atiradores de elite e muito mais.\n\n![Image 2](https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-08-1920x1080-d0c29ed16f79.jpg)\n\nCombate autêntico da Primeira Guerra Mundial\n============================================\n\nChame o apoio com um sistema de sinalizadores único e historicamente preciso: pistolas sinalizadoras podem marcar alvos para artilharia ou sobrevoos de biplanos, ou sinalizadores de cores diferentes podem ser usados para guiar sua equipe. Depois que as grandes armas abrandarem o inimigo, termine o trabalho de perto com uma adaga Arditi ou uma picareta de alpinista. Use metralhadoras pesadas, morteiros e até artilharia de montanha para um fogo de apoio mais direto.\n\nSistema de classes\n==================\n\nEscolha entre seis classes com base em funções históricas de combate e construa seu arsenal a partir de uma seleção de armas, equipamentos e vantagens vinculadas à classe, oferecendo flexibilidade e variedade enquanto permanece fundamentado no que soldados reais podem ter carregado.  Você operará alicates, enfaixará colegas de equipe feridos e apitará para iniciar um assalto. Um tiro pode matar e até ferimentos leves podem levar a um sangramento rápido.\n\nPara ser um soldado eficaz em Isonzo não basta ser bom atirador: dominar o terreno também é fundamental — a montanha pode ser amiga ou inimiga. Aprenda a se deslocar para manter a cobertura e surpreender inimigos ou apoiar aliados.\n\nPor fim, cuidado com o temido gás venenoso. Você nunca experimentou a Primeira Guerra Mundial nesse nível\\!\n\n![Image 3](https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-05-1920x1080-ae691358746a.jpg)\n\nPrincipais características de Isonzo\n====================================\n\n**Guerra nas montanhas**\nAtacar fortificações nas montanhas, lutar por cidades em ruínas e atravessar rios são apenas alguns dos desafios enfrentados para abrir caminho através de inúmeras posições inimigas.\n\n**FPS multijogador tático**\nEscolha sua função e seu arsenal com cuidado para sobreviver a este combate de alta altitude — jogue com um franco\\-atirador para matar os engenheiros inimigos antes que eles possam cortar o seu arame farpado, use granadas de rifle para eliminar metralhadoras inimigas e muito mais.\n\n**Jogabilidade de Primeira Guerra Mundial**\nModo de jogo ofensivo histórico baseado em batalhas reais e concentrado nos desafios únicos da guerra alpina. Lute com mais de 30 armas da Primeira Guerra Mundial, ataques de gás venenoso e intensas barragens de artilharia.\n\n**Construído para a vitória**\nColoque seu próprio arame farpado, sacos de areia, periscópios de trincheira e muito mais\\! Seja cavando trincheiras ou atacando, moldar o campo de batalha a seu favor será a chave para a vitória.\n\n**Rostos da guerra**\nAssuma cada classe ao selecionar entre uma variedade de uniformes, acessórios e capacetes historicamente apropriados para cada uma. Como toque final, você pode até escolher seu bigode entre vários estilos famosos com precisão de época\\!\n\n**Atmosfera autêntica da Primeira Guerra Mundial**\nPrecisão em tudo, desde mapas e armas até música e uniformes — lute pelo Reino da Itália ou pela Monarquia Dupla Austro\\-Húngara.\n\n",
+                    "shortDescription": "A feroz guerra nos Alpes testará suas habilidades táticas neste autêntico jogo de tiro em primeira pessoa da Primeira Guerra Mundial. Lute em meio a picos com cenários dramáticos, vales escarpados e cidades idílicas do norte da Itália. A Grande Guerra na Frente Italiana ganha vida em alturas inesperadas!",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -547,7 +547,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
-                            "description": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
+                            "description": "A feroz guerra nos Alpes testará suas habilidades táticas neste autêntico jogo de tiro em primeira pessoa da Primeira Guerra Mundial. Lute em meio a picos com cenários dramáticos, vales escarpados e cidades idílicas do norte da Itália. A Grande Guerra na Frente Italiana ganha vida em alturas inesperadas!",
                             "offerId": "4889207626a44fed973f5e72ae79ce9d",
                             "title": "Isonzo",
                             "slug": "p/isonzo"
@@ -562,7 +562,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
-                            "description": "The Isonzo: Deluxe Edition includes the base game plus the ‘Veteran Units’ pack to give you a battle-hardened appearance and the ‘Reserve Units’ pack with determined reservist and military police uniforms.",
+                            "description": "Isonzo: Deluxe Edition inclui o jogo de base mais o pacote \"Unidades de Veteranos\", para dar uma aparência endurecida pela batalha, e o pacote \"Unidades da Reserva\" com uniformes de policiais militares e reservistas determinados.",
                             "offerId": "6553228b2f8249d9ad4b47bac689af64",
                             "tag": "edition",
                             "title": "Isonzo: Deluxe Edition",
@@ -578,10 +578,10 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
-                            "description": "The Isonzo First Wave Edition includes a huge array of visual customization options: 140 items from four DLCs: ‘Elite Units’, ‘Veteran Units’, ‘Reserve Units’, and ‘Alpine Units’.",
+                            "description": "A Edição Primeira Onda de Isonzo abrange uma enorme variedade de opções de personalização visual: 140 itens de quatro DLCs: \"Unidades de Elite\", \"Unidades de Veteranos\", \"Unidades da Reserva\" e \"Unidades Alpinas\".",
                             "offerId": "cf8cd7a586fd4459b0d54ae43b60e249",
                             "tag": "edition",
-                            "title": "Isonzo - First Wave Edition",
+                            "title": "Isonzo - Edição Primeira Onda",
                             "slug": "p/isonzo--first-wave-edition"
                         },
                         {
@@ -594,10 +594,10 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
-                            "description": "The Isonzo Ultimate Edition includes every visual customization option the game has to offer: items from 10 DLCs - including the ‘Avanti Savoia!’ bonus DLC. With dozens of uniforms, accessories and mustaches to choose from, you can really stand out!",
+                            "description": "A Edição Definitiva de Isonzo inclui todas as opções de personalização no jogo: itens de dez DLCs — incluindo o DLC bônus Avanti Savoia.Com dezenas de uniformes, acessórios e bigodes para escolher, você realmente pode se destacar no campo de batalha!",
                             "offerId": "8e9f34613c4946c08e40f81e16baf508",
                             "tag": "edition",
-                            "title": "Isonzo: Ultimate Edition",
+                            "title": "Isonzo: Edição Definitiva",
                             "slug": "p/isonzo--ultimate-edition"
                         }
                     ],
@@ -744,12 +744,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/isonzo/deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/isonzo/deluxe-edition",
             "_slug": "deluxe-edition",
             "_activeDate": "2023-09-07T10:30:00.000Z",
-            "lastModified": "2024-05-07T20:43:01.567Z",
-            "_locale": "en-US",
-            "_id": "33fca215-f63c-4b4c-ba67-def324fdcac3",
+            "lastModified": "2024-05-07T18:33:04.561Z",
+            "_locale": "pt-BR",
+            "_id": "c6046910-643a-4ec2-bcdc-6e8819dff9b9",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -771,96 +771,6 @@
                     "linkInstagram": "https://www.instagram.com/blackmillgames/ "
                 },
                 "requirements": {
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 10 64-Bit",
-                                    "recommended": "Windows 10 64-Bit"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel Core i5-4670K, AMD Ryzen 5 1400",
-                                    "recommended": "Intel Core i7-6700K, AMD Ryzen 5 3600"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
-                                    "minimum": "11",
-                                    "recommended": "11"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4GB VRAM",
-                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8GB VRAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Other",
-                                    "minimum": "Broadband Internet connection",
-                                    "recommended": "Broadband Internet connection"
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac OS",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS",
-                                    "minimum": "Catalina 10.15.4 or newer",
-                                    "recommended": "Ventura 13.0"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Processor",
-                                    "minimum": "Apple M1 or 4-Core Intel Core 2.8 Ghz CPU or better",
-                                    "recommended": "Apple M2 or 6-core Intel Core i5 3.7 GHz or better"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Memory",
-                                    "minimum": "4 GB",
-                                    "recommended": "8 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Storage",
-                                    "minimum": "8 GB",
-                                    "recommended": "16 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Metal compatible"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "recommended": "SSD recommended"
-                                }
-                            ]
-                        }
-                    ],
                     "accountRequirements": "NO_REQUIREMENTS",
                     "_type": "Diesel System Details",
                     "rating": {
@@ -874,7 +784,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.blackmillgames.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -886,8 +796,8 @@
                     "developerAttribution": "BlackMill Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "BlackMill Games",
-                    "description": "The Isonzo: Deluxe Edition includes the ‘Veteran Units’ pack to give you a battle-hardened appearance and the ‘Reserve Units’ pack with determined reservist and military police uniforms.\n\n# Veteran Units Pack\nThe ‘Veteran Units’ pack contains battle-worn uniforms from some of the most iconic units seen on the Italian Front, from the Italian Sardinian brigade and Bersaglieri to the Austro-Hungarian Honved. There are five mustaches and four facial items, plus one face for each faction.\n\n![image1](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-00-1920x1080-f45e05c1d4a8.jpg)\n![image2](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-01-1920x1080-4ae2f3a5f242.jpg)\n\n# Reserve Units Pack\nThe ‘Reserve Units’ pack contains the unique uniforms of units that were mainly deployed in the rear-lines, from the Italian \"Carabinieri Reali\" military police (seen above) to the Austro-Hungarian “Standschützen” who were called up to defend the mountains of Tyrol. There are four mustaches and four facial items, plus one face for each faction.\n\n![image3](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-02-1920x1080-03bd279e7438.jpg)\n![image4](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-03-1920x1080-6146eb29247b.jpg)\n",
-                    "shortDescription": "The Isonzo: Deluxe Edition includes the base game plus the ‘Veteran Units’ pack to give you a battle-hardened appearance and the ‘Reserve Units’ pack with determined reservist and military police uniforms.",
+                    "description": "Isonzo: Deluxe Edition inclui o pacote \"Unidades de Veteranos\", para dar uma aparência endurecida pela batalha, e o pacote \"Unidades da Reserva\" com uniformes de policiais militares e reservistas determinados.\n\nPacote Unidades de Veteranos\n============================\n\nO pacote \"Unidades de Veteranos\" contém uniformes usados em batalha de algumas das unidades mais emblemáticas da Frente Italiana, desde a brigada italiana da Sardenha e Bersaglieri até o Honved austro\\-húngaro. Há cinco bigodes e quatro itens faciais, além de um rosto para cada facção.\n\n![image1](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-00-1920x1080-f45e05c1d4a8.jpg)\n![image2](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-01-1920x1080-4ae2f3a5f242.jpg)\n\nPacote Unidades da Reserva\n==========================\n\nO pacote \"Unidades da Reserva\" contém os uniformes exclusivos de unidades mobilizadas principalmente nas linhas de retaguarda, desde a polícia militar italiana \"Carabinieri Reali\" \\(vista acima\\) até os \"Standschützen\" austro\\-húngaros, convocados para defender as montanhas do Tirol. Há quatro bigodes e quatro itens faciais, além de um rosto para cada facção.\n\n![image3](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-02-1920x1080-03bd279e7438.jpg)\n![image4](https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g2-03-1920x1080-6146eb29247b.jpg)\n\n",
+                    "shortDescription": "Isonzo: Deluxe Edition inclui o jogo de base mais o pacote \"Unidades de Veteranos\", para dar uma aparência endurecida pela batalha, e o pacote \"Unidades da Reserva\" com uniformes de policiais militares e reservistas determinados.",
                     "title": "Isonzo: Deluxe Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -936,7 +846,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": true,
                                 "hasControls": true,
-                                "title": "New trailer for Ascent event",
+                                "title": "Novo trailer do evento Ascent",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -1308,14 +1218,14 @@
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-blackmillgamesm2h-bundles-g1a-03-1920x1080-251ad457a05c.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzo-blackmillgamesm2h-g1a-06-1920x1080-74e1a6116c4b.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-03-1920x1080-e2045404d46e.jpg",
-                "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-blackmillgames-bundles-s2-1200x1600-241a07c8483e.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-01-1920x1080-4216d71d1b87.jpg",
+                "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-blackmillgames-bundles-s2-1200x1600-241a07c8483e.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzo-m2hblackmillgames-g1a-03-1920x1080-03510581bf8e.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzo-blackmillgamesm2h-g1a-05-1920x1080-d50db088aae9.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-04-1920x1080-1188859ae1ca.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzo-blackmillgamesm2h-g1a-080-1920x1080-457077e20890.jpg",
-                "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-blackmillgames-bundles-s1-2560x1440-36a09be56455.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-08-1920x1080-80d820965e07.jpg",
+                "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-blackmillgames-bundles-s1-2560x1440-36a09be56455.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-12-1920x1080-25dce9c97f89.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-07-1920x1080-c9e4e504a904.jpg",
                 "https://cdn2.unrealengine.com/egs-isonzodeluxeedition-m2hblackmillgames-bundles-g1a-02-1920x1080-216696e787ef.jpg",
@@ -1368,12 +1278,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/isonzo/first-wave-edition",
+            "_urlPattern": "/pt-BR/productv2/isonzo/first-wave-edition",
             "_slug": "first-wave-edition",
             "_activeDate": "2023-09-07T10:30:00.000Z",
-            "lastModified": "2024-09-06T22:29:50.051Z",
-            "_locale": "en-US",
-            "_id": "6cfb5a84-ea57-4b4d-a349-808b53a71764",
+            "lastModified": "2024-08-29T21:45:45.073Z",
+            "_locale": "pt-BR",
+            "_id": "8ca28f63-2b0e-4fff-aaf5-9dfa2b95b8de",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -1396,7 +1306,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, German, French, Japanese, Polish, Portuguese, Portuguese - Brazil, Spanish - Spain, Russian, Turkish, Italian"
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, alemão, francês, japonês, polonês, português, português (Brasil), espanhol (Espanha), russo, turco, italiano"
                     ],
                     "systems": [
                         {
@@ -1405,85 +1315,85 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 10 64-Bit",
-                                    "recommended": "Windows 10 64-Bit"
+                                    "title": "Sistema Operacional Windows",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel Core i5-4670K, AMD Ryzen 5 1400",
+                                    "title": "Processador do Windows",
+                                    "minimum": "Intel Core i5-4670K / AMD Ryzen 5 1400",
                                     "recommended": "Intel Core i7-6700K, AMD Ryzen 5 3600"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória do Windows",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
+                                    "title": "DirectX no Windows",
                                     "minimum": "11",
                                     "recommended": "11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4GB VRAM",
-                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8GB VRAM"
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4 GB de VRAM",
+                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8 GB de VRAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Other",
-                                    "minimum": "Broadband Internet connection",
-                                    "recommended": "Broadband Internet connection"
+                                    "title": "Windows – Outros",
+                                    "minimum": "Conexão à Internet de banda larga",
+                                    "recommended": "Conexão à Internet de banda larga"
                                 }
                             ]
                         },
                         {
                             "_type": "Diesel System Detail",
-                            "systemType": "Mac OS",
+                            "systemType": "macOS",
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS",
-                                    "minimum": "Catalina 10.15.4 or newer",
+                                    "title": "macOS",
+                                    "minimum": "Catalina 10.15.4 ou mais recente",
                                     "recommended": "Ventura 13.0"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Processor",
-                                    "minimum": "Apple M1 or 4-Core Intel Core 2.8 Ghz CPU or better",
-                                    "recommended": "Apple M2 or 6-core Intel Core i5 3.7 GHz or better"
+                                    "title": "Processador para macOS",
+                                    "minimum": "CPU Apple M1 ou Intel Core 4-Core de 2,8 GHz ou superior",
+                                    "recommended": "CPU Apple M2 ou Intel Core i5 6-core de 3,7 GHz ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Memory",
+                                    "title": "Memória para macOS",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Storage",
+                                    "title": "Armazenamento para macOS",
                                     "minimum": "8 GB",
                                     "recommended": "16 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Metal compatible"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com Metal"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "recommended": "SSD recommended"
+                                    "title": "Outros",
+                                    "recommended": "SSD recomendado"
                                 }
                             ]
                         }
@@ -1500,7 +1410,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.blackmillgames.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -1512,9 +1422,9 @@
                     "developerAttribution": "BlackMill Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "BlackMill Games",
-                    "description": "The Isonzo First Wave Edition includes a huge array of visual customization options: 140 items from four DLCs: ‘Elite Units’, ‘Veteran Units’, ‘Reserve Units’, and ‘Alpine Units’. With dozens of uniforms, accessories and mustaches to choose from, you can really stand out on the battlefield.\n\n**Elite Units Pack**\nThe ‘Elite Units’ pack has some of the most historic units seen on the Italian Front, many of which come with eye-catching specialized backpacks! From Bersaglieri cyclists to the intimidating Austro-Hungarian “Bosniaks” and more, along with five mustaches and three facial items. \n\n\n![EGS_IsonzoFirstWaveEdition_BlackMillGames_Bundles_G2_00](https://cdn2.unrealengine.com/egs-isonzofirstwaveedition-blackmillgames-bundles-g2-00-1920x1080-083eabe25399.jpg)\n![image2](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-01-1920x1080-61e0bfb4a009.jpg)\n\n**Veteran Units Pack**\nThe ‘Veteran Units’ pack contains battle-worn uniforms from some of the most iconic units seen on the Italian Front, from the Italian Sardinian brigade and Bersaglieri to the Austro-Hungarian Honved. There are five mustaches and four facial items, plus one face for each faction.\n\n![image3](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-02-1920x1080-503480bb82ac.jpg)\n![image4](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-03-1920x1080-fb4e9f3a4763.jpg)\n\n**Alpine Units Pack**\nThe ‘Alpine Units’ pack contains uniforms and gear worn by units in the winter as well as a range of rough beards! Italian troops enjoy white winter camo, while the Austro-Hungarians button up with heavy greatcoats. There are five mustaches and beards, with three facial items, plus one face for each faction.\n\n![image5](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-04-1920x1080-b61a6d595d1f.jpg)\n![image6](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-05-1920x1080-e38ebca7fb7d.jpg)\n\n**Reserve Units Pack**\nThe ‘Reserve Units’ pack contains the unique uniforms of units that were mainly deployed in the rear-lines, from the Italian \"Carabinieri Reali\" military police to the Austro-Hungarian “Standschützen” who were called up to defend the mountains of Tyrol. There are four mustaches and four facial items, plus one face for each faction.\n\n![image7](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-06-1920x1080-c80730d56198.jpg)\n![image8](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-07-1920x1080-43626058742f.jpg)\n",
-                    "shortDescription": "The Isonzo First Wave Edition includes a huge array of visual customization options: 140 items from four DLCs: ‘Elite Units’, ‘Veteran Units’, ‘Reserve Units’, and ‘Alpine Units’.",
-                    "title": "Isonzo - First Wave Edition",
+                    "description": "A Edição Primeira Onda de Isonzo abrange uma enorme variedade de opções de personalização visual: 140 itens de quatro DLCs: \"Unidades de Elite\", \"Unidades de Veteranos\", \"Unidades da Reserva\" e \"Unidades Alpinas\". Com dezenas de uniformes, acessórios e bigodes para escolher, você realmente pode se destacar no campo de batalha.\n\n**Pacote Unidades de Elite**\nO pacote \"Unidades de Elite\" tem algumas das unidades mais históricas vistas na Frente Italiana, muitas das quais com mochilas especializadas interessantes\\! De ciclistas Bersaglieri aos intimidantes \"Bosniaks\" austro\\-húngaros e muito mais, além de cinco bigodes e três itens faciais.\n\n![EGS_IsonzoFirstWaveEdition_BlackMillGames_Bundles_G2_00](https://cdn2.unrealengine.com/egs-isonzofirstwaveedition-blackmillgames-bundles-g2-00-1920x1080-083eabe25399.jpg)\n![image2](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-01-1920x1080-61e0bfb4a009.jpg)\n\n**Pacote Unidades de Veteranos**\nO pacote \"Unidades de Veteranos\" contém uniformes usados em batalha de algumas das unidades mais emblemáticas da Frente Italiana, desde a brigada italiana da Sardenha e Bersaglieri até o Honved austro\\-húngaro. Há cinco bigodes e quatro itens faciais, além de um rosto para cada facção.\n\n![image3](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-02-1920x1080-503480bb82ac.jpg)\n![image4](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-03-1920x1080-fb4e9f3a4763.jpg)\n\n**Pacote Unidades Alpinas**\nO pacote \"Unidades Alpinas\" contém uniformes e equipamentos usados pelas unidades no inverno, além de várias barbas cheias\\! As tropas italianas gostam de camuflagem branca de inverno, enquanto os austro\\-húngaros se abotoam com sobretudos pesados. Conta com cinco bigodes e barbas, três itens faciais e um rosto para cada facção.\n\n![image5](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-04-1920x1080-b61a6d595d1f.jpg)\n![image6](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-05-1920x1080-e38ebca7fb7d.jpg)\n\n**Pacote Unidades da Reserva**\nO pacote \"Unidades da Reserva\" contém os uniformes exclusivos de unidades mobilizadas principalmente nas linhas de retaguarda, desde a polícia militar italiana \"Carabinieri Reali\" até os \"Standschützen\" austro\\-húngaros, convocados para defender as montanhas do Tirol. Há quatro bigodes e quatro itens faciais, além de um rosto para cada facção.\n\n![image7](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-06-1920x1080-c80730d56198.jpg)\n![image8](https://cdn2.unrealengine.com/egs-isonzocollectoredition-m2hblackmillgames-bundles-g2-07-1920x1080-43626058742f.jpg)\n\n",
+                    "shortDescription": "A Edição Primeira Onda de Isonzo abrange uma enorme variedade de opções de personalização visual: 140 itens de quatro DLCs: \"Unidades de Elite\", \"Unidades de Veteranos\", \"Unidades da Reserva\" e \"Unidades Alpinas\".",
+                    "title": "Isonzo - Edição Primeira Onda",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -1909,7 +1819,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Isonzo - First Wave Edition"
+                "navTitle": "Isonzo - Edição Primeira Onda"
             },
             "overwriteMapping": false,
             "type": "offer",
@@ -1978,12 +1888,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/isonzo/ultimate-edition",
+            "_urlPattern": "/pt-BR/productv2/isonzo/ultimate-edition",
             "_slug": "ultimate-edition",
             "_activeDate": "2024-04-04T22:57:46.323Z",
-            "lastModified": "2024-05-07T20:18:06.766Z",
-            "_locale": "en-US",
-            "_id": "cce409d7-88e9-4db7-9587-d6ffe65b7459",
+            "lastModified": "2024-05-07T20:12:28.509Z",
+            "_locale": "pt-BR",
+            "_id": "cd64d572-dbe3-4ccf-8c56-058662bbcdcb",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -1992,6 +1902,106 @@
             "data": {
                 "productLinks": {
                     "_type": "Diesel Product Lins"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, alemão, francês, japonês, polonês, português, português (Brasil), espanhol (Espanha), russo, turco, italiano"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional Windows",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador do Windows",
+                                    "minimum": "Intel Core i5-4670K / AMD Ryzen 5 1400",
+                                    "recommended": "Intel Core i7-6700K, AMD Ryzen 5 3600"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória do Windows",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX no Windows",
+                                    "minimum": "11",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4 GB de VRAM",
+                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8 GB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Windows – Outros",
+                                    "minimum": "Conexão à Internet de banda larga",
+                                    "recommended": "Conexão à Internet de banda larga"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "macOS",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "macOS",
+                                    "minimum": "Catalina 10.15.4 ou mais recente",
+                                    "recommended": "Ventura 13.0"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador para macOS",
+                                    "minimum": "CPU Apple M1 ou Intel Core 4-Core de 2,8 GHz ou superior",
+                                    "recommended": "CPU Apple M2 ou Intel Core i5 6-core de 3,7 GHz ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória para macOS",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento para macOS",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com Metal"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "recommended": "SSD recomendado"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
                 },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/WW1GameSeries",
@@ -2004,106 +2014,6 @@
                     "linkHomepage": "https://www.ww1gameseries.com/isonzo/",
                     "linkInstagram": "https://www.instagram.com/blackmillgames/ "
                 },
-                "requirements": {
-                    "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, German, French, Japanese, Polish, Portuguese, Portuguese - Brazil, Spanish - Spain, Russian, Turkish, Italian"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 10 64-Bit",
-                                    "recommended": "Windows 10 64-Bit"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel Core i5-4670K, AMD Ryzen 5 1400",
-                                    "recommended": "Intel Core i7-6700K, AMD Ryzen 5 3600"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
-                                    "minimum": "11",
-                                    "recommended": "11"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "GeForce GTX 970, AMD Radeon R9 290, 4GB VRAM",
-                                    "recommended": "GeForce GTX 1070, AMD Radeon RX 580, 8GB VRAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Other",
-                                    "minimum": "Broadband Internet connection",
-                                    "recommended": "Broadband Internet connection"
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac OS",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS",
-                                    "minimum": "Catalina 10.15.4 or newer",
-                                    "recommended": "Ventura 13.0"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Processor",
-                                    "minimum": "Apple M1 or 4-Core Intel Core 2.8 Ghz CPU or better",
-                                    "recommended": "Apple M2 or 6-core Intel Core i5 3.7 GHz or better"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Memory",
-                                    "minimum": "4 GB",
-                                    "recommended": "8 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Mac OS Storage",
-                                    "minimum": "8 GB",
-                                    "recommended": "16 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Metal compatible"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "recommended": "SSD recommended"
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "NO_REQUIREMENTS",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
-                },
                 "navOrder": 4,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -2111,7 +2021,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.blackmillgames.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -2123,9 +2033,9 @@
                     "developerAttribution": "BlackMill Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "BlackMill Games",
-                    "description": "The Isonzo Ultimate Edition includes every visual customization option the game has and will have to offer: 100s of items from 8 DLCs, with 2 more coming. Containing dozens of uniforms, accessories and mustaches to choose from, you can really stand out on the battlefield. On top of that, extra content includes the soundtrack, game artwork, and Film Memoir mode!",
-                    "shortDescription": "The Isonzo Ultimate Edition includes every visual customization option the game has to offer: items from 10 DLCs - including the ‘Avanti Savoia!’ bonus DLC. With dozens of uniforms, accessories and mustaches to choose from, you can really stand out!",
-                    "title": "Isonzo: Ultimate Edition",
+                    "description": "A Edição Definitiva de Isonzo inclui todas as opções de personalização do jogo e trará: 100 itens dos 8 DLCs, com mais 2 à caminho. Com dezenas de uniformes, acessórios e bigodes para escolher, você realmente pode se destacar no campo de batalha. Além disso, o conteúdo extra inclui trilha sonora, arte do jogo e modo de lembranças de filme\\!\n\n",
+                    "shortDescription": "A Edição Definitiva de Isonzo inclui todas as opções de personalização no jogo: itens de dez DLCs — incluindo o DLC bônus Avanti Savoia. Com dezenas de uniformes, acessórios e bigodes para escolher, você realmente pode se destacar no campo de batalha!",
+                    "title": "Isonzo: Edição Definitiva",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -2517,7 +2427,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Isonzo: Ultimate Edition"
+                "navTitle": "Isonzo: Edição Definitiva"
             },
             "overwriteMapping": false,
             "type": "offer",

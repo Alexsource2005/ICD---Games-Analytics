@@ -25,12 +25,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/garden-story",
+    "_urlPattern": "/pt-BR/productv2/garden-story",
     "_slug": "garden-story",
     "_activeDate": "2021-06-10T18:25:27.829Z",
-    "lastModified": "2021-08-11T01:39:49.809Z",
-    "_locale": "en-US",
-    "_id": "4a038a2d-1ba4-4898-925f-a570502496b7",
+    "lastModified": "2021-06-10T19:11:10.369Z",
+    "_locale": "pt-BR",
+    "_id": "c6d95474-8d09-432b-bf71-a885e33b12a5",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -60,32 +60,22 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/garden-story/home",
+            "_urlPattern": "/pt-BR/productv2/garden-story/home",
             "_slug": "home",
             "_activeDate": "2021-06-10T18:25:53.974Z",
-            "lastModified": "2023-11-29T17:17:28.345Z",
-            "_locale": "en-US",
-            "_id": "e09f4b34-2b44-4449-91bf-46d892f4c625",
+            "lastModified": "2023-11-23T20:23:00.346Z",
+            "_locale": "pt-BR",
+            "_id": "7cd9390f-8fbf-46be-a37c-a7a6bc499101",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitch": "https://twitch.tv/rosecitygames",
-                    "linkTwitter": "https://twitter.com/gardenstorygame",
-                    "_type": "Diesel Social Links",
-                    "linkDiscord": "http://discord.gg/rosecitygames",
-                    "linkHomepage": "https://gardenstorygame.com"
-                },
                 "requirements": {
                     "languages": [
-                        "Audio: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain, Spanish - Latin America",
-                        "Text: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Romanian, Spanish - Spain, Spanish - Latin America"
+                        "Áudio: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, japonês, coreano, português (Brasil), russo, espanhol (Espanha), espanhol (América Latina)",
+                        "Texto: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, japonês, coreano, português (Brasil), romeno, espanhol (Espanha), espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -94,39 +84,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows Vista or greater",
-                                    "recommended": "Windows Vista or greater"
+                                    "title": "Sistema operacional Windows",
+                                    "minimum": "Windows Vista ou mais recente",
+                                    "recommended": "Windows Vista ou mais recente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "2 Ghz",
-                                    "recommended": "2 Ghz"
+                                    "title": "Processador do Windows",
+                                    "minimum": "2 GHz",
+                                    "recommended": "2 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "2 GB RAM"
+                                    "title": "Memória do Windows",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "2 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "100 MB available space",
-                                    "recommended": "100 MB available space"
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "100 MB de espaço livre",
+                                    "recommended": "100 MB de espaço livre"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 10"
+                                    "title": "DirectX no Windows",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "256 mb video memory, shader model 3.0+",
-                                    "recommended": "256 mb video memory, shader model 3.0+"
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "256 MB de memória de vídeo, shader model 3.0+",
+                                    "recommended": "256 MB de memória de vídeo, shader model 3.0+"
                                 }
                             ]
                         }
@@ -136,6 +126,16 @@
                     "rating": {
                         "_type": "Diesel Rating"
                     }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/gardenstorygame",
+                    "linkTwitch": "https://twitch.tv/rosecitygames",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "http://discord.gg/rosecitygames",
+                    "linkHomepage": "https://gardenstorygame.com"
                 },
                 "navOrder": 1,
                 "footer": {
@@ -155,8 +155,8 @@
                     "developerAttribution": "Picogram",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Rose City Games",
-                    "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
-                    "shortDescription": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!",
+                    "description": "Traga união a uma comunidade dividida no papel do recém\\-nomeado Guardião do Bosque \\(Guardian of The Grove\\). Atravesse uma ilha vibrante para combater a invasora Podridão \\(Rot\\), inspire seus habitantes e reconstrua sua casa. Você não terá que fazer isso sozinho: seus amigos frutais estão a postos para lhe dar uma mãozinha\\!\n\n",
+                    "shortDescription": "Traga união a uma comunidade dividida no papel do recém-nomeado Guardião do Bosque (Guardian of The Grove). Atravesse uma ilha vibrante para combater a invasora Podridão (Rot), inspire seus habitantes e reconstrua sua casa. Você não terá que fazer isso sozinho: seus amigos frutais estão a postos para lhe dar uma mãozinha!",
                     "title": "Garden Story",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -207,8 +207,8 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": true,
                                 "hasControls": true,
-                                "title": "Launch trailer",
                                 "type": "epicHosted",
+                                "title": "Trailer de lançamento",
                                 "muted": true,
                                 "autoplay": true
                             }
@@ -386,7 +386,7 @@
                     "twitter": {
                         "_type": "SEO Twitter Metadata"
                     },
-                    "keywords": "soundtrack,exploration,wholesome,nature,crafting,building,adventure,cute,2D,funny,relaxing,story rich,pixel graphics,family friendly",
+                    "keywords": "trilha sonora, exploração, saudável, natureza, criação, construção, aventura, fofo, 2D, engraçado, relaxante, história rica, gráficos em pixel, familiar",
                     "_type": "Epic Store Product SEO",
                     "og": {
                         "_type": "SEO OG Metadata"

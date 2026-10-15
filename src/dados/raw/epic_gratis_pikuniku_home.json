@@ -2,33 +2,9 @@
     "title": "Pikuniku",
     "id": "559d2ae2577e463eb9f914883795935e",
     "namespace": "c50f4a5c796e4abdbf8025cfbf5cff21",
-    "description": "Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a fun little revolution in this delightful dystopian adventure!",
+    "description": "Ajude personagens peculiares a superar lutas, descubra uma profunda conspiração de estado e comece uma pequena revolução divertida nesta aventura distópica incrível!",
     "effectiveDate": "2020-10-01T15:00:00.000Z",
     "keyImages": [
-        {
-            "type": "OfferImageWide",
-            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/wide-2560x1440-5c9c09d4625543a5c9ad8315fbcd08ca.jpg"
-        },
-        {
-            "type": "OfferImageTall",
-            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg"
-        },
-        {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/wide-2560x1440-5c9c09d4625543a5c9ad8315fbcd08ca.jpg"
-        },
-        {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg"
-        },
-        {
-            "type": "Thumbnail",
-            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg"
-        },
-        {
-            "type": "CodeRedemption_340x440",
-            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg"
-        },
         {
             "type": "heroCarouselVideo",
             "url": "com.epicgames.video://015b8f3b-4b64-45bf-a8f6-bd0dc5556798"
@@ -56,6 +32,18 @@
         {
             "type": "featuredMedia",
             "url": "https://cdn2.unrealengine.com/egs-pikunikuisawonderfulpuzzleexplorationgame-sectordub-g1a-05-1920x1080-845877627.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/wide-2560x1440-5c9c09d4625543a5c9ad8315fbcd08ca.jpg"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/c50f4a5c796e4abdbf8025cfbf5cff21/offer/tall-1200x1600-de47a0339ec54a2f476518b2e21ea7e2.jpg"
         }
     ],
     "seller": {
@@ -112,9 +100,6 @@
             "id": "1117"
         },
         {
-            "id": "38237"
-        },
-        {
             "id": "21149"
         },
         {
@@ -164,31 +149,23 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 324,
-            "originalPrice": 1299,
+            "discountPrice": 4199,
+            "originalPrice": 4199,
             "voucherDiscount": 0,
-            "discount": 975,
-            "currencyCode": "USD",
+            "discount": 0,
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$12.99",
-                "discountPrice": "$3.24",
-                "intermediatePrice": "$3.24"
+                "originalPrice": "R$ 41,99",
+                "discountPrice": "R$ 41,99",
+                "intermediatePrice": "R$ 41,99"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": [
-                    {
-                        "id": "2696f8a8e1224bb88374ae3279260d40",
-                        "endDate": "2026-10-15T15:00:00.000Z",
-                        "discountSetting": {
-                            "discountType": "PERCENTAGE"
-                        }
-                    }
-                ]
+                "appliedRules": []
             }
         ]
     },

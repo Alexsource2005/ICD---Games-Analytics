@@ -1,25 +1,65 @@
 {
     "title": "World of Goo",
-    "id": "5c36e7edaa91442496d9223bccce9e66",
-    "namespace": "epic",
-    "description": "World of Goo",
-    "effectiveDate": "2019-05-05T11:13:00.000Z",
+    "id": "5f82cbea3fdd42e2b9b9dfe8439b96b3",
+    "namespace": "anemone",
+    "description": "Você não pode impedir o progresso",
+    "effectiveDate": "2019-05-01T15:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg"
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/anemone/WoG_TallImage_1200x1600_1200x1600-7aa4a3d559274eec6732608a89cb483b"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg"
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/offer/anemone/WoG_WideImage_2560x1440_2560x1440-06ff8bbf3e6f98fad7b428b6b34eeba5"
         },
         {
-            "type": "ComingSoon",
-            "url": "https://cdn1.epicgames.com/epic/offer/freeTile_WorldOfGoo_noDate-900x359-de461f3c74b34622c3d2faa1d231e8b8.jpg"
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/anemone/WoG_TallImage_1200x1600_1200x1600-7aa4a3d559274eec6732608a89cb483b"
         },
         {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/epic/offer/World-of-Goo-Logo-1600x898-cab258f507e04682e45e5dafbcf47f23.png"
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://dca89d74-3f78-414f-ba9a-35eae10b34d4?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2Feba339620eee449cb655cc498c77574c%2Feba339620eee449cb655cc498c77574c-00001-thumb.png"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen7-2580x1450-9527df25d09d7b6009ead93049c1a1e5c24139df.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen6-2580x1450-d63afd61013a619126562f25e503bb4287d32de3.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen3-2580x1450-638eae25222ad96ddf5e84c35a7c20d64a477253.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen1-2580x1450-259dc95291ea9bdb67927f176e99b93a7b8bb6be.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen10-2580x1450-74bd9df39e4fbb0645750374d0775accd21d7248.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen2-2580x1450-026d4d52b6a3850964e02d05886a19efab049993.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen5-2580x1450-743a61acd49bd297d679e49894beaa3406202105.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen4-2580x1450-35a8edc358477456a03ea05c4e6e1f1fa22a62a9.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen8-2580x1450-b7371a771eeeecafed51a209b07e711265e4ab20.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fanemone%2Fhome%2FWorldOfGoo_Screen9-2580x1450-90e1d6f23be42a6a68962175b6f7ab5de18b80aa.jpg"
         }
     ],
     "seller": {
@@ -27,7 +67,7 @@
         "name": "2D Boy"
     },
     "productSlug": "world-of-goo/home",
-    "urlSlug": "world-of-goo",
+    "urlSlug": "worldofgoogeneralaudience",
     "url": null,
     "tags": [
         {
@@ -46,56 +86,83 @@
             "id": "1117"
         },
         {
+            "id": "21150"
+        },
+        {
+            "id": "10719"
+        },
+        {
             "id": "1263"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "0a79aa46e68644a0b57eb0f061121ded",
+            "namespace": "anemone"
         }
     ],
     "customAttributes": [
         {
-            "key": "com.epicgames.app.weight",
-            "value": "1"
+            "key": "autoGeneratedPrice",
+            "value": "false"
         },
         {
-            "key": "com.epicgames.app.offerNs",
-            "value": "anemone"
+            "key": "isManuallySetViewableDate",
+            "value": "true"
+        },
+        {
+            "key": "isPromotionalContentUsed",
+            "value": "false"
         },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "world-of-goo/home"
+            "key": "publisherName",
+            "value": "2D Boy"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "5f82cbea3fdd42e2b9b9dfe8439b96b3"
+            "key": "developerName",
+            "value": "2D Boy"
+        },
+        {
+            "key": "isBlockchainUsed",
+            "value": "false"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "world-of-goo/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1499,
-            "originalPrice": 1499,
+            "discountPrice": 2899,
+            "originalPrice": 2899,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "originalPrice": "R$ 28,99",
+                "discountPrice": "R$ 28,99",
+                "intermediatePrice": "R$ 28,99"
             }
         },
         "lineOffers": [

@@ -41,12 +41,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/sunless-sea",
+    "_urlPattern": "/pt-BR/productv2/sunless-sea",
     "_slug": "sunless-sea",
     "_activeDate": "2021-02-18T15:55:00.000Z",
-    "lastModified": "2022-03-29T18:37:51.892Z",
-    "_locale": "en-US",
-    "_id": "ca7f7709-475a-444c-8dc7-e9e6e1aadbc5",
+    "lastModified": "2022-03-29T17:49:47.184Z",
+    "_locale": "pt-BR",
+    "_id": "13578d10-8b84-4626-8435-7e5d20d0e6c4",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -71,6 +71,7 @@
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-06-1920x1080-201663b14645.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-04-1920x1080-812e6a4aca16.jpg",
+                "https://cdn2.unrealengine.com/egs-sunlessseazubmariner-failbettergames-dlc-s1-2560x1440-267bce943478.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-01-1920x1080-1de420388272.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-09-1920x1080-62337025f41e.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-03-1920x1080-4e292b45ca55.jpg",
@@ -79,6 +80,7 @@
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-ic1-400x170-4a277bdcfa20.png",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-s2-1200x1600-2f506585222e.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-s1-2560x1440-68e80f631bed.jpg",
+                "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1c-00-1920x1080-ca1a7787cdef.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-02-1920x1080-240035f56b4b.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-05-1920x1080-0362bebd1ca3.jpg",
                 "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1a-10-1920x1080-5aa9723ae89e.jpg",
@@ -105,12 +107,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/sunless-sea/home",
+            "_urlPattern": "/pt-BR/productv2/sunless-sea/home",
             "_slug": "home",
             "_activeDate": "2021-02-15T16:49:38.474Z",
-            "lastModified": "2022-03-29T18:36:42.797Z",
-            "_locale": "en-US",
-            "_id": "c3813007-6f9e-407f-a3ad-a3af91f74b12",
+            "lastModified": "2021-02-24T19:34:37.122Z",
+            "_locale": "pt-BR",
+            "_id": "052bcc6f-a9b6-485d-8e74-c1990b119cb3",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -132,18 +134,18 @@
                         {
                             "src": "https://www.failbettergames.com/news/",
                             "_type": "Diesel Link",
-                            "title": "Failbetter News"
+                            "title": "Notícias da Failbetter"
                         },
                         {
                             "src": "https://www.failbettergames.com/sunless/troubleshooting/",
                             "_type": "Diesel Link",
-                            "title": "Troubleshooting Guide"
+                            "title": "Guia de solução de problemas"
                         }
                     ]
                 },
                 "socialLinks": {
-                    "linkTwitter": "https://twitter.com/failbettergames",
                     "linkTwitch": "https://www.twitch.tv/failbettergames/videos/all",
+                    "linkTwitter": "https://twitter.com/failbettergames",
                     "linkFacebook": "https://www.facebook.com/FailbetterGames",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.com/invite/failbettergames",
@@ -151,7 +153,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "English"
+                        "Inglês"
                     ],
                     "systems": [
                         {
@@ -160,33 +162,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Mac OS X 10.6 or later",
-                                    "recommended": "Mac OS X 10.6 or later"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Mac OS X 10.6 ou superior",
+                                    "recommended": "Mac OS X 10.6 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2Ghz or better",
-                                    "recommended": "2Ghz or better"
+                                    "title": "Processador",
+                                    "minimum": "2 Ghz ou superior",
+                                    "recommended": "2 Ghz ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1 GB RAM",
-                                    "recommended": "1 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "700 MB available space",
-                                    "recommended": "700 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "700 MB de espaço disponível",
+                                    "recommended": "700 MB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": " 1280x768 minimum resolution",
-                                    "recommended": " 1280x768 minimum resolution"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Resolução mínima de 1280 x 768",
+                                    "recommended": "Resolução mínima de 1280 x 768"
                                 }
                             ]
                         },
@@ -196,39 +198,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows 10",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2Ghz or better",
-                                    "recommended": "2Ghz or better"
+                                    "title": "Processador",
+                                    "minimum": "2 Ghz ou superior",
+                                    "recommended": "2 Ghz ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1 GB RAM",
-                                    "recommended": "1 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "700 MB available space",
-                                    "recommended": "700 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "700 MB de espaço disponível",
+                                    "recommended": "700 MB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 9.0c",
-                                    "recommended": "Version 9.0c"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 9.0c",
+                                    "recommended": "Versão 9.0c"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1280x768 minimum resolution, DirectX 9.0c compatible graphics card",
-                                    "recommended": "1280x768 minimum resolution, DirectX 9.0c compatible graphics card"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Resolução mínima de 1280 x 768, placa de vídeo compatível com DirectX 9.0c",
+                                    "recommended": "Resolução mínima de 1280 x 768, placa de vídeo compatível com DirectX 9.0c"
                                 }
                             ]
                         }
@@ -246,7 +248,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.failbettergames.com/about/privacy-single-player",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -258,8 +260,8 @@
                     "developerAttribution": "Failbetter Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Failbetter Games",
-                    "description": "![Image 1](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-00-700x117-743f058f8c8c.jpg)\n\n# LOSE YOUR MIND. EAT YOUR CREW. DIE.\n\nSunless Sea is a Gothic Horror RPG with a focus on exploration, exquisite storytelling and frequent death.\n\n![Image 2](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-01-700x126-adcae3d1d46a.jpg)\n\n# Captain a Victorian steamship on a vast underground sea\n\nIf the giant crabs, sentient icebergs and swarms of bats don’t get you, madness and cannibalism certainly will. But that old black ocean beckons, and there’s loot for the brave souls who dare to sail her.\n\n![Image 3](https://cdn2.unrealengine.com/59dbccb4-25fc-4a9d-856e-928d1a3d0ab5-700x126-605382ba4cc2.jpeg)\n\n# Seek out intriguing individuals for your crew\n\nHire unique officers like the Haunted Doctor and the Irrepressible Cannoneer. Each has a story to tell, if you can draw it out of them.\n\n![Image 4](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-03-700x126-a90dc9f0d9e6.jpg)\n\n# Stray from the gas-lamps of civilization\n\nLight and dark, terror and madness: spend too long on the wide, dark sea and your crew will grow fearful and eventually lose their sanity.\n\n![Image 5](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-04-700x126-a8d074c73179.jpg)\n\n# Carve a life for your captain in a cruel and unique world\n\nA deep, compelling world packed with 350,000+ words of stories and secrets. Find your father’s bones. Determine London’s destiny. Defy the gods of the deep sea.\n\n![Image 6](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-05-700x126-e2ef8b413f7b.jpg)\n\n# Your captain will die.\n\nPass on resources from one generation to the next. Acquire a family home and a hoard of heirlooms. Build a legacy of zailors who braved the sea and lost - or, occasionally, won.\n\nFeatures\n- Beautiful, hand drawn art - castles of ice, prisons perched on lily pads, fog-shrouded lighthouses and the DAWN MACHINE.\n- Real-time combat against ships and Zee-beasts, spider-crewed dreadnoughts and sentient icebergs.\n- Upgrade your steamship with powerful engines, cannons and pneumatic torpedo guns. (Or buy a bigger, better ship.)\n- Trade or smuggle silk and souls, mushroom wine and hallucinogenic honey.",
-                    "shortDescription": "LOSE YOUR MIND. EAT YOUR CREW. DIE. Take the helm of your steamship and set sail for the unknown! Sunless Sea is a game of discovery, loneliness and frequent death, set in the award-winning Victorian Gothic universe of Fallen London.",
+                    "description": "![Image 1](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-00-700x117-743f058f8c8c.jpg)\n\n# PERCA A CABEÇA. COMA A SUA TRIPULAÇÃO. MORRA.\n\nSunless Sea é um RPG de terror gótico com foco na exploração, narrativa primorosa e mortes frequentes.\n\n![Image 2](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-01-700x126-adcae3d1d46a.jpg)\n\n# Comande um navio a vapor vitoriano em um vasto mar subterrâneo\n\nSe os caranguejos gigantes, icebergs inteligentes e enxames de morcegos não te pegarem, a loucura e o canibalismo certamente irão. Mas aquele velho oceano negro é convidativo e há tesouros para as almas corajosas que se atrevem a navegá-lo.\n\n![Image 3](https://cdn2.unrealengine.com/59dbccb4-25fc-4a9d-856e-928d1a3d0ab5-700x126-605382ba4cc2.jpeg)\n\n# Procure pessoas intrigantes para a sua tripulação\n\nContrate tripulantes únicos como o Doutor Assombrado (Haunted Doctor) e o Canhoneiro Irreprimível (Irrepressible Cannoneer). Cada um tem uma história para contar, se você conseguir extraí-la deles.\n\n![Image 4](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-03-700x126-a90dc9f0d9e6.jpg)\n\n# Afaste-se das lâmpadas a gás da civilização\n\nLuz e escuridão, terror e loucura: passe muito tempo na vastidão e escuridão do mar e sua tripulação ficará com medo e, eventualmente, perderá a sanidade.\n\n![Image 5](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-04-700x126-a8d074c73179.jpg)\n\n# Crie uma vida para o seu capitão em um mundo cruel e único\n\nUm mundo profundo e envolvente com mais de 350.000 palavras de histórias e segredos. Encontre os ossos do seu pai. Determine o destino de Londres. Desafie os deuses do fundo do mar.\n\n![Image 6](https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g2-05-700x126-e2ef8b413f7b.jpg)\n\n# Seu capitão morrerá\n\nPasse recursos de uma geração para a outra. Adquira uma casa de família e tesouros como relíquias de família. Construa um legado de navegadores (zailors) que enfrentaram o mar e perderam - ou, ocasionalmente, ganharam.",
+                    "shortDescription": "PERCA A CABEÇA. COMA A SUA TRIPULAÇÃO. MORRA. Assuma o comando de seu navio a vapor e navegue rumo ao desconhecido! Sunless Sea é um jogo de descoberta, solidão e morte frequente, ambientado no premiado universo gótico vitoriano de Fallen London.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -298,18 +300,17 @@
                     "items": [
                         {
                             "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-g1c-00-1920x1080-ca1a7787cdef.jpg",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "epicStillDurationSeconds": 3,
-                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"f8123be403ad465eb497bf3baf74aaf3\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"a5555fa04c2d41b09a25e94cd1cd2fe2\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"71b193f76ae74fe38db17b006612582f\"\n        }\n    ]\n}",
-                                "epicStillType": "PREPEND",
-                                "loop": false,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"836bba4a4c8f4eb4bae4988ab753040c\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"42fa8e9b0a204ee3b62551704b143dc2\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"4e2505bf54e54262afb85fcf26725442\"\n        }\n    ]\n}",
+                                "loop": true,
                                 "_type": "Diesel Video",
-                                "hasFullScreen": true,
+                                "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Sunless Sea",
+                                "title": "Sunless Sea Trailer",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -317,6 +318,7 @@
                         },
                         {
                             "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-sunlessseazubmariner-failbettergames-dlc-s1-2560x1440-267bce943478.jpg",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
@@ -324,11 +326,11 @@
                                 "epicStillDurationSeconds": 3,
                                 "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"15bf095261de445887bfdf686054796d\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c6637d56aec84777979b28fd0f37f30a\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"c955966359d84862bff33ad285aba9f9\"\n        }\n    ]\n}",
                                 "epicStillType": "PREPEND",
-                                "loop": false,
+                                "loop": true,
                                 "_type": "Diesel Video",
-                                "hasFullScreen": true,
+                                "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Zubmariner",
+                                "title": "Zubmariner Expansion Trailer",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -491,6 +493,7 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"f8123be403ad465eb497bf3baf74aaf3\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"a5555fa04c2d41b09a25e94cd1cd2fe2\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"71b193f76ae74fe38db17b006612582f\"\n        }\n    ]\n}",
                                 "loop": false,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -552,7 +555,7 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "description": "Download and Play for Free - Epic Games Store",
+                    "description": "Baixe e jogue de graça - Epic Games Store",
                     "title": "Sunless Sea"
                 },
                 "productSections": [

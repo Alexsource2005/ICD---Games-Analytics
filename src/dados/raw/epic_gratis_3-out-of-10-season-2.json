@@ -48,12 +48,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/3-out-of-10-season-2",
+    "_urlPattern": "/pt-BR/productv2/3-out-of-10-season-2",
     "_slug": "3-out-of-10-season-2",
     "_activeDate": "2021-02-24T16:45:31.564Z",
-    "lastModified": "2021-05-25T22:02:02.390Z",
-    "_locale": "en-US",
-    "_id": "0b2f6420-40a6-4733-9ab4-3484b98ee0ed",
+    "lastModified": "2021-03-02T17:47:16.703Z",
+    "_locale": "pt-BR",
+    "_id": "25b97385-1a86-481c-97db-865995855b7a",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -91,8 +91,8 @@
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-ic1-400x400-29f9868c07f0.png",
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-s2-1200x1600-87fffb099c5f.jpg",
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g1a-02-1920x1080-441cf233cc9d.jpg",
-                "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-s1-2560x1440-0d5e8298c97e.jpg",
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g1a-04-1920x1080-a4a3cf97eacc.jpg",
+                "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-s1-2560x1440-0d5e8298c97e.jpg",
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g1a-03-1920x1080-5caa8f6691ab.jpg",
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g1a-01-1920x1080-e35112c540c7.jpg",
                 "https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-05-1920x1080-0910751171b6.jpg"
@@ -114,12 +114,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/3-out-of-10-season-2/home",
+            "_urlPattern": "/pt-BR/productv2/3-out-of-10-season-2/home",
             "_slug": "home",
             "_activeDate": "2021-02-24T16:46:14.403Z",
-            "lastModified": "2021-04-29T15:48:19.381Z",
-            "_locale": "en-US",
-            "_id": "a05e68ff-455e-487b-82b1-f0b0a406b89f",
+            "lastModified": "2021-03-02T17:48:04.317Z",
+            "_locale": "pt-BR",
+            "_id": "38abbbbc-5345-4c8f-ac32-3a3be3fe79bb",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -138,23 +138,15 @@
                 "productLinks": {
                     "_type": "Diesel Product Lins"
                 },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/terribleposture?lang=en",
-                    "linkYoutube": "https://www.youtube.com/channel/UCflxX6yN2LpNitQ_qVfAVsA",
-                    "_type": "Diesel Social Links",
-                    "linkDiscord": "https://discord.gg/azmEaQf",
-                    "linkHomepage": "https://www.terribleposture.com/3-out-of-10",
-                    "linkInstagram": "https://www.instagram.com/TerriblePostureGames/"
-                },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English"
+                        "Áudio: inglês",
+                        "Texto: inglês"
                     ],
                     "systems": [
                         {
                             "_type": "Diesel System Detail",
-                            "systemType": "Windows",
+                            "systemType": "Windows ",
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -193,6 +185,48 @@
                                     "recommended": "Nvidia GTX 960 or AMD Radeon HD 7990 with 4GB VRAM"
                                 }
                             ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows ",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7/8/10 de 64 bits",
+                                    "recommended": "Windows 7/8/10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 de 3,0 GHz ou AMD FX",
+                                    "recommended": "Intel Core i5 de 3,5 GHz ou AMD FX"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB",
+                                    "recommended": "1 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GTX 660 ou AMD Radeon HD 7870 com 2 GB de VRAM",
+                                    "recommended": "NVIDIA GTX 960 ou AMD Radeon HD 7990 com 4 GB de VRAM"
+                                }
+                            ]
                         }
                     ],
                     "accountRequirements": "NO_REQUIREMENTS",
@@ -200,6 +234,14 @@
                     "rating": {
                         "_type": "Diesel Rating"
                     }
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/terribleposture?lang=en",
+                    "linkYoutube": "https://www.youtube.com/channel/UCflxX6yN2LpNitQ_qVfAVsA",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/azmEaQf",
+                    "linkHomepage": "https://www.terribleposture.com/3-out-of-10",
+                    "linkInstagram": "https://www.instagram.com/TerriblePostureGames/"
                 },
                 "navOrder": 1,
                 "footer": {
@@ -219,8 +261,8 @@
                     "developerAttribution": "Terrible Posture Games, Inc.",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Terrible Posture Games, Inc.",
-                    "description": "![More Info](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-00-1920x60-bb4823380de6.jpg)\n\n# Will Shovelworks Studios ever make a game that scores better than a 3/10?\n\nFurther antics and mis-adventures of the World’s Worst Game Developers ensue as the saga of “3 out of 10” continues. Caffeinated super-powers, sentient AIs, and rival game studios all stand in the way of Shovelworks studios as they struggle to finally make a game that scores better than “3 out of 10”. Will this be the Season that they finally do it?\n\n![Watch](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-01-1920x60-941600068572.jpg)\n\nFully animated and voiced scenes pull you into the absurd world of Shovelworks.\n\n![Play](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-02-1920x60-f92e340f6059.jpg)\n\nNarratively driven mini games take you behind the scenes for a loving, satirical look at game development.\n\n![Explore](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-03-1920x60-5ddf5232dde3.jpg)\n\nSkip, replay, rewind at any time... experience the world of 3 out of 10 at your own pace.\n\n![Season Two](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-04-1920x60-3a55e40c46fc.jpg)",
-                    "shortDescription": "Caffeinated super-powers, sentient AIs, and rival game studios all stand in the way of Shovelworks studios as they struggle to finally make a game that scores better than “3 out of 10”. Will this be the Season that they finally do it?",
+                    "description": "![More Info](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-00-1920x60-bb4823380de6.jpg)\n\n# Será que a Shovelworks Studios alguma vez fará um jogo com pontuação melhor que 3/10?\n\nOutras trapalhadas e desaventuras dos desenvolvedores no pior estúdio de videogame do mundo acontecem conforme a saga de \"3 out of 10\" continua. Superpoderes cafeinados, IAs sensíveis e estúdios de jogos rivais, todos atrapalham a Shovelworks Studios enquanto eles lutam para finalmente fazer um jogo com pontuação melhor do que \"3 out of 10\". Será que nesta temporada eles finalmente conseguirão fazer isso?\n\n![Watch](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-01-1920x60-941600068572.jpg)\n\nCenas totalmente animadas e dubladas levam você ao mundo absurdo da Shovelworks.\n\n![Play](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-02-1920x60-f92e340f6059.jpg)\n\nMinijogos conduzidos por narrativas levam você aos bastidores, para uma visão satírica e carinhosa do desenvolvimento de jogos.\n\n![Explore](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-03-1920x60-5ddf5232dde3.jpg)\n\nPule, repita, retroceda a qualquer momento... vivencie o mundo de 3 out of 10 no seu próprio ritmo.\n\n![Season Two](https://cdn2.unrealengine.com/egs-3outof10seasontwo-terribleposturegamesinc-g2-04-1920x60-3a55e40c46fc.jpg)",
+                    "shortDescription": "Superpoderes cafeinados, IAs sensíveis e estúdios de jogos rivais, todos atrapalham a Shovelworks Studios enquanto eles lutam para finalmente fazer um jogo com pontuação melhor do que \"3 out of 10\". Será que nesta temporada eles finalmente conseguirão fazer isso?",
                     "title": "3 out of 10: Season Two",
                     "developerLogo": {
                         "_type": "Diesel Image"

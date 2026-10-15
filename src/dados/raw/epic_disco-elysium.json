@@ -13,7 +13,6 @@
         ],
         "_type": "Epic Store Product Ratings"
     },
-    "disableNewAddons": false,
     "modMarketplaceEnabled": false,
     "_title": "disco-elysium",
     "regionBlock": "KR",
@@ -44,12 +43,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/disco-elysium",
+    "_urlPattern": "/pt-BR/productv2/disco-elysium",
     "_slug": "disco-elysium",
     "_activeDate": "2023-05-03T14:55:00.000Z",
-    "lastModified": "2023-05-03T07:17:56.611Z",
-    "_locale": "en-US",
-    "_id": "15eedb18-0da3-4191-9100-750f256c3f8c",
+    "lastModified": "2020-06-06T00:33:18.136Z",
+    "_locale": "pt-BR",
+    "_id": "88a4a0c0-9660-419f-a31e-84fe5930494a",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -67,7 +66,6 @@
                 ],
                 "_type": "Epic Store Product Ratings"
             },
-            "disableNewAddons": false,
             "modMarketplaceEnabled": false,
             "_title": "home",
             "regionBlock": "KR",
@@ -79,6 +77,587 @@
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_01-1920x1080-60fe24eca41d5daeb10376ac6af3c3a0da17e490.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_07-1920x1080-02041fcae8b4ceff43c09dcf58d6133c8d3bc2f3.jpg",
                 "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-landscape-640x360-cf330cce010d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_S2-1200x1600-6280f1147761adcaefd5bae77dc686b6d21c39e0.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_04-1920x1080-a703abda6397ae2118af51b1bc8a62a767dcbd2b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_09-1920x1080-acb8ebc033376ada5a9f0adca1bfa1af079fa017.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_S5-1920x1080-0eba2ad1500504e3525bfdc21ac185dd9a7e2fd0.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_03-1920x1080-b7e9f0d8c0bc6b1c3c2ff33d39a22ce48f81c179.jpg",
+                "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-ic1-400x139-b78a177f4ba1.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_06-1920x1080-fa183224e9f6cac038c2f6fd6acf4ac128e2f151.jpg",
+                "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s5-1920x1080-a77acfbfd803.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_S1-2560x1440-f4eb6b482221d3130ab79b4258f4538c2437a005.jpg",
+                "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s6-1200x1600-fbb4f443ad97.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_02-1920x1080-6b67d0f1ad535720d9c2b267e8f32a1a8609adf8.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_08-1920x1080-5b306a84e8271dad853a9235482890fbe6750a04.jpg"
+            ],
+            "productName": "Disco Elysium",
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#40e3a2"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#40e3a2"
+                }
+            },
+            "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+            "theme": {
+                "buttonPrimaryBg": "#40e3a2",
+                "customPrimaryBg": "#FFFFFF",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/disco-elysium/home",
+            "_slug": "home",
+            "_activeDate": "2023-05-03T14:55:00.000Z",
+            "lastModified": "2023-05-03T06:19:48.469Z",
+            "_locale": "pt-BR",
+            "_id": "2d86df7b-5c23-42d9-8a3f-f8c2668ab993",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "productId": "9003e1ade0b14e8688b08030e7a335fd",
+                "_type": "Diesel Offer",
+                "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+                "id": "1112adb4b6af47238cbc563ae2b1c6ab",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/studioZAUM",
+                    "linkFacebook": "https://www.facebook.com/zaumstudio/",
+                    "linkYoutube": "https://www.youtube.com/channel/UCj14g6rLgQtyXpoop2JKU7w",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/discoelysium",
+                    "title": "Siga Disco Elysium",
+                    "linkReddit": "https://www.reddit.com/r/DiscoElysium/",
+                    "linkHomepage": "https://www.discoelysium.com",
+                    "linkInstagram": "https://www.instagram.com/zaumstudio/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Áudio: inglês",
+                        "Texto: chinês simplificado, inglês, coreano, espanhol (Espanha), português (Brasil), francês, alemão, chinês tradicional, russo, polonês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo ou equivalente",
+                                    "recommended": "Intel Core i7 ou equivalente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "20 GB",
+                                    "recommended": "20 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "11",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 11 (integrada ou dedicada com memória mínima de 512 MB)",
+                                    "recommended": "NVIDIA GeForce 1060 ou equivalente"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "macOS versões 10.13.4 ou 10.14.1 ou 10.15.4 ou mais recente",
+                                    "recommended": "macOS versões 10.13.4 ou 10.14.1 ou 10.15.4 ou mais recente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "i3",
+                                    "recommended": "i5"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "20 GB",
+                                    "recommended": "20 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Uma GPU suportada por OpenGL",
+                                    "recommended": "GPU dedicada ou eGPU ou uma GPU suportada por Metal "
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Modelos",
+                                    "minimum": "MacBook Pro: a partir de meados de 2009, MacBook Air: a partir de meados de 2012, iMac: a partir do final de 2009, Mac Pro: a partir do final de 2008, Mac mini: a partir de 2009"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "https://discoelysium.com/privacy-policy",
+                    "privacyPolicyLink": {
+                        "src": "https://discoelysium.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_S2-1200x1600-6280f1147761adcaefd5bae77dc686b6d21c39e0.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "ZA/UM",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "ZA/UM",
+                    "description": "# Dublagem completa.\n\nTodas as simpáticas pessoas da cidade ganham vida com uma dublagem completa em inglês. Jogue os personagens uns contra os outros, tente ajudá-los ou se apaixone perdidamente à medida que cada palavra é dita a você com a entonação e a emoção apropriadas. \n\n# Novas missões de visão política.\n\nEncare a realidade de sua visão de mundo conforme sua bússola política o conduz por novos caminhos. Descubra mais cidadãos, toda uma área extra e paisagens monumentais ao ir atrás de seus sonhos, deixando uma marca ainda maior no mundo. \n\n# Liberdade de escolha sem precedentes.\n\nIntimide, use sua lábia, recorra à violência, escreva poesia, cante karaokê, arrase na pista de dança ou descubra o sentido da vida. Disco Elysium é a representação mais fiel de RPG de mesa em formato de videogame.\n\n# Inúmeras ferramentas para a representação de papéis.​\n\nMisture e combine 24 habilidades totalmente distintas. Desenvolva um estilo pessoal com 80 peças de roupa. Use 14 ferramentas, de pistolas a lanternas e caixas de som, ou tome um coquetel de 6 substâncias psicoativas diferentes. Desenvolva ainda mais o seu personagem com 60 pensamentos loucos para usar — tudo isso no Thought Cabinet do detetive.\n\n# Um sistema de diálogo revolucionário com personagens inesquecíveis.\n\nO mundo está vivo e com pessoas reais, não figurantes. Jogue-as umas contra as outras, tente ajudá-las ou se apaixone perdidamente. O revolucionário sistema de diálogo de Disco Elysium, com personagens completamente dublados em inglês, permite que você faça quase tudo.\n\n# Trace seu próprio caminho por toda a cidade.\n\nExplore, manipule, colete embalagens ou torne-se um milionário em um mundo aberto diferente de tudo que você já viu antes. A cidade de Revachol é sua para que você conquiste um pedacinho de cada vez. Das ruas às praias e muito além.\n\n# Se é pra mergulhar, é pra mergulhar de cabeça.\n\nMorte, sexo, impostos e discoteca — nada está descartado. Revachol é um lugar real com desafios reais. Solucione uma enorme investigação de assassinato ou relaxe com casos paralelos. O detetive decide, os cidadãos obedecem.\n\n![Badges](https://cdn2.unrealengine.com/disco-badges-1500x510-121036389.jpg)",
+                    "shortDescription": "Disco Elysium - The Final Cut é um jogo RPG inovador. Você é um detetive com um sistema de habilidades único à sua disposição. Interrogue personagens inesquecíveis, solucione casos de assassinato ou aceite subornos. Vire um herói ou um verdadeiro desastre de ser humano.",
+                    "title": "Disco Elysium",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-ic1-400x139-b78a177f4ba1.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s6-1200x1600-fbb4f443ad97.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s5-1920x1080-a77acfbfd803.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_S5-1920x1080-0eba2ad1500504e3525bfdc21ac185dd9a7e2fd0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c1ab1b01d829427cbba2c48eef00f91a\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"ca2dc2b1c79d45d089dfb7c4981396d6\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"a7450acab6824403b35365a6d07530d5\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_00-1920x1080-41330fe9b0795aa67169701fe9dc0c74005c8853.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_01-1920x1080-60fe24eca41d5daeb10376ac6af3c3a0da17e490.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_02-1920x1080-6b67d0f1ad535720d9c2b267e8f32a1a8609adf8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_03-1920x1080-b7e9f0d8c0bc6b1c3c2ff33d39a22ce48f81c179.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_04-1920x1080-a703abda6397ae2118af51b1bc8a62a767dcbd2b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_05-1920x1080-002ce0ef2ad7baa76ba8d53a04e4a264dd54f550.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_06-1920x1080-fa183224e9f6cac038c2f6fd6acf4ac128e2f151.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_07-1920x1080-02041fcae8b4ceff43c09dcf58d6133c8d3bc2f3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_08-1920x1080-5b306a84e8271dad853a9235482890fbe6750a04.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_09-1920x1080-acb8ebc033376ada5a9f0adca1bfa1af079fa017.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_10-1920x1080-ecc02ce59d150aed2eab240dfb245bd8e2a1e32e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_S1-2560x1440-f4eb6b482221d3130ab79b4258f4538c2437a005.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s5-1920x1080-a77acfbfd803.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+                            "description": "Disco Elysium - The Final Cut é um jogo RPG inovador. Você é um detetive com um sistema de habilidades único à sua disposição. Interrogue personagens inesquecíveis, solucione casos de assassinato ou aceite subornos. Vire um herói ou um verdadeiro desastre de ser humano.",
+                            "offerId": "1112adb4b6af47238cbc563ae2b1c6ab",
+                            "tag": "edition",
+                            "title": "Disco Elysium - The Final Cut",
+                            "slug": "p/disco-elysium"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-landscape-640x360-cf330cce010d.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+                            "description": "The Game + Artbook + Soundtrack",
+                            "offerId": "82a3fd7976b74a498ae92719c9a10a76",
+                            "tag": "edition",
+                            "title": " Disco Elysium - The Final Cut Bundle",
+                            "slug": "p/disco-elysium--bundle"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2019-10-15T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "ZA/UM"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "ZA/UM"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "INVESTIGATION",
+                        "RPG"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Disco Elysium - The Final Cut"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome"
+        },
+        {
+            "productRatings": {
+                "ratings": [
+                    {
+                        "image": {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_16-390x450-03d85e4c030dc1fbf9c2b90c498d751835e24272.png",
+                            "_type": "Epic Store Image"
+                        },
+                        "countryCodes": "DE",
+                        "_type": "Epic Store Rating",
+                        "title": "16+"
+                    }
+                ],
+                "_type": "Epic Store Product Ratings"
+            },
+            "modMarketplaceEnabled": false,
+            "_title": "bundle",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_05-1920x1080-002ce0ef2ad7baa76ba8d53a04e4a264dd54f550.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_10-1920x1080-ecc02ce59d150aed2eab240dfb245bd8e2a1e32e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_00-1920x1080-41330fe9b0795aa67169701fe9dc0c74005c8853.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_01-1920x1080-60fe24eca41d5daeb10376ac6af3c3a0da17e490.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_07-1920x1080-02041fcae8b4ceff43c09dcf58d6133c8d3bc2f3.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_04-1920x1080-a703abda6397ae2118af51b1bc8a62a767dcbd2b.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_09-1920x1080-acb8ebc033376ada5a9f0adca1bfa1af079fa017.jpg",
                 "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s1-2560x1440-b262c0a4ae47.jpg",
@@ -116,23 +695,13 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/disco-elysium/home",
-            "_slug": "home",
+            "_urlPattern": "/pt-BR/productv2/disco-elysium/bundle",
+            "_slug": "bundle",
             "_activeDate": "2023-05-03T14:55:00.000Z",
-            "lastModified": "2023-05-03T07:11:01.759Z",
-            "_locale": "en-US",
-            "_id": "683c4571-a517-45f7-8ac7-7091ecfa2de4",
+            "lastModified": "2023-05-03T06:42:55.321Z",
+            "_locale": "pt-BR",
+            "_id": "3f638ea0-081f-4084-975a-cb994e0dd472",
             "_templateName": "productDetail",
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "productId": "9003e1ade0b14e8688b08030e7a335fd",
-                "_type": "Diesel Offer",
-                "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
-                "id": "1112adb4b6af47238cbc563ae2b1c6ab",
-                "hasOffer": true
-            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -248,7 +817,7 @@
                         "_type": "Diesel Rating"
                     }
                 },
-                "navOrder": 1,
+                "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
                     "copy": "https://discoelysium.com/privacy-policy",
@@ -267,9 +836,9 @@
                     "developerAttribution": "ZA/UM",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "ZA/UM",
-                    "description": "# Full voice acting\n\nAll of the city's beautiful people are brought to life with full English voiceover. Play characters against each other, try to help them, or fall hopelessly in love as each word is spoken to you with the appropriate accent and emotion. \n\n# New political vision quests.\n\nFace the reality of your worldview as your political compass leads you down new paths. Discover more citizens, a whole extra area, and monumental sights as you leave an even bigger mark on the world by chasing your dreams. \n\n# Unprecedented freedom of choice​.\n\nIntimidate, sweet-talk, resort to violence, write poetry, sing karaoke, dance like a beast or solve the meaning of life. Disco Elysium is the most faithful representation of desktop role playing ever attempted in video games.\n\n# Countless tools for role playing.​\n\nMix and match from 24 wildly different skills. Develop a personal style with 80 clothes items. Wield 14 tools from guns to flashlights to a boombox, or pour yourself a cocktail of 6 different psychoactive substances. Develop your character even further with 60 wild ​thoughts ​to think – with the detective's Thought Cabinet.\n\n# A revolutionary dialogue system with unforgettable characters.\n\nThe world is alive with real people, not extras. Play them against each other, try to help them, or fall hopelessly in love. Disco Elysium's revolutionary dialogue system, with partially voiced characters, lets you do almost anything.\n\n# Carve your unique path across the city​.\n\nExplore, manipulate, collect tare or become a millionaire in an open world unlike anything you've seen before. The city of Revachol is yours for the taking, one small piece at a time. From the streets to the beaches – and beyond.\n\n# Hard boiled, hard core.\n\nDeath, sex, taxes and disco – nothing is off the table. Revachol is a real place with real challenges. Solve a massive murder investigation, or relax and kick back with sprawling side-cases. The detective decides, the citizens abide.\n\n![Badges](https://cdn2.unrealengine.com/disco-badges-1500x510-121036389.jpg)",
-                    "shortDescription": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
-                    "title": "Disco Elysium",
+                    "description": "# Dublagem completa.\n\nTodas as simpáticas pessoas da cidade ganham vida com uma dublagem completa em inglês. Jogue os personagens uns contra os outros, tente ajudá-los ou se apaixone perdidamente à medida que cada palavra é dita a você com a entonação e a emoção apropriadas. \n\n# Novas missões de visão política.\n\nEncare a realidade de sua visão de mundo conforme sua bússola política o conduz por novos caminhos. Descubra mais cidadãos, toda uma área extra e paisagens monumentais ao ir atrás de seus sonhos, deixando uma marca ainda maior no mundo. \n\n# Liberdade de escolha sem precedentes.\n\nIntimide, use sua lábia, recorra à violência, escreva poesia, cante karaokê, arrase na pista de dança ou descubra o sentido da vida. Disco Elysium é a representação mais fiel de RPG de mesa em formato de videogame.\n\n# Inúmeras ferramentas para a representação de papéis.​\n\nMisture e combine 24 habilidades totalmente distintas. Desenvolva um estilo pessoal com 80 peças de roupa. Use 14 ferramentas, de pistolas a lanternas e caixas de som, ou tome um coquetel de 6 substâncias psicoativas diferentes. Desenvolva ainda mais o seu personagem com 60 pensamentos loucos para usar — tudo isso no Thought Cabinet do detetive.\n\n# Um sistema de diálogo revolucionário com personagens inesquecíveis.\n\nO mundo está vivo e com pessoas reais, não figurantes. Jogue-as umas contra as outras, tente ajudá-las ou se apaixone perdidamente. O revolucionário sistema de diálogo de Disco Elysium, com personagens completamente dublados em inglês, permite que você faça quase tudo.\n\n# Trace seu próprio caminho por toda a cidade.\n\nExplore, manipule, colete embalagens ou torne-se um milionário em um mundo aberto diferente de tudo que você já viu antes. A cidade de Revachol é sua para que você conquiste um pedacinho de cada vez. Das ruas às praias e muito além.\n\n# Se é pra mergulhar, é pra mergulhar de cabeça.\n\nMorte, sexo, impostos e discoteca — nada está descartado. Revachol é um lugar real com desafios reais. Solucione uma enorme investigação de assassinato ou relaxe com casos paralelos. O detetive decide, os cidadãos obedecem.\n\n![Badges](https://cdn2.unrealengine.com/disco-badges-1500x510-121036389.jpg)",
+                    "shortDescription": "The Game + Artbook + Soundtrack",
+                    "title": "Disco Elysium - Completionist Pack",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -506,577 +1075,6 @@
                     ]
                 },
                 "editions": {
-                    "editions": [
-                        {
-                            "regionRestrictions": {
-                                "_type": "Store Region Filtering"
-                            },
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s5-1920x1080-a77acfbfd803.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Product Edition",
-                            "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
-                            "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
-                            "offerId": "1112adb4b6af47238cbc563ae2b1c6ab",
-                            "tag": "edition",
-                            "title": "Disco Elysium - The Final Cut",
-                            "slug": "p/disco-elysium"
-                        },
-                        {
-                            "regionRestrictions": {
-                                "_type": "Store Region Filtering"
-                            },
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-landscape-640x360-cf330cce010d.png",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Product Edition",
-                            "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
-                            "description": "The Game + Artbook + Soundtrack",
-                            "offerId": "82a3fd7976b74a498ae92719c9a10a76",
-                            "tag": "edition",
-                            "title": " Disco Elysium - The Final Cut Bundle",
-                            "slug": "p/disco-elysium--bundle"
-                        }
-                    ],
-                    "_type": "Epic Store Editions",
-                    "enableImages": false
-                },
-                "meta": {
-                    "releaseDate": "2019-10-15T15:00:00.000Z",
-                    "_type": "Epic Store Meta",
-                    "publisher": [
-                        "ZA/UM"
-                    ],
-                    "logo": {
-                        "_type": "Epic Store Image"
-                    },
-                    "developer": [
-                        "ZA/UM"
-                    ],
-                    "platform": [
-                        "Windows",
-                        "Mac"
-                    ],
-                    "tags": [
-                        "ADVENTURE",
-                        "INVESTIGATION",
-                        "RPG"
-                    ]
-                },
-                "markdown": {
-                    "_type": "Epic Store Markdown"
-                },
-                "dlc": {
-                    "contingentOffer": {
-                        "regionRestrictions": {
-                            "_type": "Store Region Filtering"
-                        },
-                        "_type": "Diesel Offer",
-                        "hasOffer": false
-                    },
-                    "_type": "Epic Store DLC",
-                    "enableImages": false
-                },
-                "seo": {
-                    "image": {
-                        "_type": "Epic Store Image"
-                    },
-                    "twitter": {
-                        "_type": "SEO Twitter Metadata"
-                    },
-                    "_type": "Epic Store Product SEO",
-                    "og": {
-                        "_type": "SEO OG Metadata"
-                    }
-                },
-                "productSections": [
-                    {
-                        "productSection": "EDITIONS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "SOCIAL_LINKS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "REQUIREMENTS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "HERO",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "FOOTER",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "CAROUSEL",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "ABOUT",
-                        "_type": "Diesel Product Section"
-                    }
-                ],
-                "gallery": {
-                    "_type": "Diesel Gallery"
-                },
-                "navTitle": "Disco Elysium - The Final Cut"
-            },
-            "overwriteMapping": false,
-            "ageGate": {
-                "hasAgeGate": false,
-                "_type": "Epic Store Age Gate"
-            },
-            "type": "productHome"
-        },
-        {
-            "productRatings": {
-                "ratings": [
-                    {
-                        "image": {
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_16-390x450-03d85e4c030dc1fbf9c2b90c498d751835e24272.png",
-                            "_type": "Epic Store Image"
-                        },
-                        "countryCodes": "DE",
-                        "_type": "Epic Store Rating",
-                        "title": "16+"
-                    }
-                ],
-                "_type": "Epic Store Product Ratings"
-            },
-            "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
-            "_title": "bundle",
-            "regionBlock": "KR",
-            "_noIndex": false,
-            "_images_": [
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_05-1920x1080-002ce0ef2ad7baa76ba8d53a04e4a264dd54f550.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_10-1920x1080-ecc02ce59d150aed2eab240dfb245bd8e2a1e32e.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_00-1920x1080-41330fe9b0795aa67169701fe9dc0c74005c8853.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_01-1920x1080-60fe24eca41d5daeb10376ac6af3c3a0da17e490.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_07-1920x1080-02041fcae8b4ceff43c09dcf58d6133c8d3bc2f3.jpg",
-                "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-portrait-480x640-a36cbe8f7bb0.png",
-                "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-landscape-640x360-cf330cce010d.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_04-1920x1080-a703abda6397ae2118af51b1bc8a62a767dcbd2b.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_09-1920x1080-acb8ebc033376ada5a9f0adca1bfa1af079fa017.jpg",
-                "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s1-2560x1440-b262c0a4ae47.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_03-1920x1080-b7e9f0d8c0bc6b1c3c2ff33d39a22ce48f81c179.jpg",
-                "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-ic1-400x139-b78a177f4ba1.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_06-1920x1080-fa183224e9f6cac038c2f6fd6acf4ac128e2f151.jpg",
-                "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s5-1920x1080-a77acfbfd803.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_02-1920x1080-6b67d0f1ad535720d9c2b267e8f32a1a8609adf8.jpg",
-                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_08-1920x1080-5b306a84e8271dad853a9235482890fbe6750a04.jpg"
-            ],
-            "productName": "Disco Elysium",
-            "pageTheme": {
-                "preferredMode": "light",
-                "light": {
-                    "_type": "Epic Store Page Theme Selection",
-                    "theme": "gray",
-                    "accent": "#40e3a2"
-                },
-                "_type": "Epic Store Page Theme",
-                "dark": {
-                    "_type": "Epic Store Page Theme Selection",
-                    "theme": "gray",
-                    "accent": "#40e3a2"
-                }
-            },
-            "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
-            "theme": {
-                "buttonPrimaryBg": "#40e3a2",
-                "customPrimaryBg": "#FFFFFF",
-                "_type": "Diesel Theme",
-                "colorScheme": "light"
-            },
-            "reviewOptOut": false,
-            "externalNavLinks": {
-                "_type": "Epic Store Links"
-            },
-            "_urlPattern": "/productv2/disco-elysium/bundle",
-            "_slug": "bundle",
-            "_activeDate": "2023-05-03T14:55:00.000Z",
-            "lastModified": "2023-05-03T07:18:17.524Z",
-            "_locale": "en-US",
-            "_id": "cce3d600-3c42-4406-be66-50366165deab",
-            "_templateName": "productDetail",
-            "item": {
-                "_type": "Diesel Product Item",
-                "hasItem": false
-            },
-            "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/studioZAUM",
-                    "linkFacebook": "https://www.facebook.com/zaumstudio/",
-                    "linkYoutube": "https://www.youtube.com/channel/UCj14g6rLgQtyXpoop2JKU7w",
-                    "_type": "Diesel Social Links",
-                    "linkDiscord": "https://discord.gg/discoelysium",
-                    "title": "Follow Disco Elysium",
-                    "linkReddit": "https://www.reddit.com/r/DiscoElysium/",
-                    "linkHomepage": "https://www.discoelysium.com",
-                    "linkInstagram": "https://www.instagram.com/zaumstudio/"
-                },
-                "requirements": {
-                    "languages": [
-                        "Audio: English",
-                        "Text: Chinese - Simplified, English, Korean, Spanish - Spain, Portuguese - Brazil, French, German, Chinese - Traditional, Russian, Polish"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7",
-                                    "recommended": "Windows 10"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core 2 Duo or equivalent",
-                                    "recommended": "Intel Core i7 or equivalent"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB",
-                                    "recommended": "8 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "20 GB",
-                                    "recommended": "20 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "DirectX",
-                                    "minimum": "11",
-                                    "recommended": "11"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DirectX 11 compatible video card (integrated or dedicated with min 512MB memory)",
-                                    "recommended": "NVIDIA Geforce 1060 or equivalent"
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "MacOS version 10.13.4 or 10.14.1 or 10.15.4 or newer",
-                                    "recommended": "MacOS version 10.13.4 or 10.14.1 or 10.15.4 or newer"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "i3",
-                                    "recommended": "i5"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB",
-                                    "recommended": "8 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "20 GB",
-                                    "recommended": "20 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "An OpenGL supported GPU",
-                                    "recommended": "Dedicated GPU or eGPU or a Metal supported GPU "
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Models",
-                                    "minimum": "MacBook Pro: from mid 2009, MacBook Air: from mid 2012, iMac: from late 2009, Mac Pro: from late 2008, Mac mini: from 2009"
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "EPIC_ACCOUNT",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
-                },
-                "navOrder": 2,
-                "footer": {
-                    "_type": "Diesel Product Footer",
-                    "copy": "https://discoelysium.com/privacy-policy",
-                    "privacyPolicyLink": {
-                        "src": "https://discoelysium.com/privacy-policy",
-                        "_type": "Diesel Link",
-                        "title": "Privacy Policy"
-                    }
-                },
-                "_type": "Diesel Product Detail",
-                "about": {
-                    "image": {
-                        "src": "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-portrait-480x640-a36cbe8f7bb0.png",
-                        "_type": "Diesel Image"
-                    },
-                    "developerAttribution": "ZA/UM",
-                    "_type": "Diesel Product About",
-                    "publisherAttribution": "ZA/UM",
-                    "description": "# Full voice acting\n\nAll of the city's beautiful people are brought to life with full English voiceover. Play characters against each other, try to help them, or fall hopelessly in love as each word is spoken to you with the appropriate accent and emotion. \n\n# New political vision quests.\n\nFace the reality of your worldview as your political compass leads you down new paths. Discover more citizens, a whole extra area, and monumental sights as you leave an even bigger mark on the world by chasing your dreams. \n\n# Unprecedented freedom of choice​.\n\nIntimidate, sweet-talk, resort to violence, write poetry, sing karaoke, dance like a beast or solve the meaning of life. Disco Elysium is the most faithful representation of desktop role playing ever attempted in video games.\n\n# Countless tools for role playing.​\n\nMix and match from 24 wildly different skills. Develop a personal style with 80 clothes items. Wield 14 tools from guns to flashlights to a boombox, or pour yourself a cocktail of 6 different psychoactive substances. Develop your character even further with 60 wild ​thoughts ​to think – with the detective's Thought Cabinet.\n\n# A revolutionary dialogue system with unforgettable characters.\n\nThe world is alive with real people, not extras. Play them against each other, try to help them, or fall hopelessly in love. Disco Elysium's revolutionary dialogue system, with partially voiced characters, lets you do almost anything.\n\n# Carve your unique path across the city​.\n\nExplore, manipulate, collect tare or become a millionaire in an open world unlike anything you've seen before. The city of Revachol is yours for the taking, one small piece at a time. From the streets to the beaches – and beyond.\n\n# Hard boiled, hard core.\n\nDeath, sex, taxes and disco – nothing is off the table. Revachol is a real place with real challenges. Solve a massive murder investigation, or relax and kick back with sprawling side-cases. The detective decides, the citizens abide.\n\n![Badges](https://cdn2.unrealengine.com/disco-badges-1500x510-121036389.jpg)",
-                    "shortDescription": "The Game + Artbook + Soundtrack",
-                    "title": "Disco Elysium - The Final Cut Bundle",
-                    "developerLogo": {
-                        "_type": "Diesel Image"
-                    }
-                },
-                "banner": {
-                    "showPromotion": false,
-                    "_type": "Epic Store Product Banner",
-                    "link": {
-                        "_type": "Diesel Link"
-                    }
-                },
-                "hero": {
-                    "logoImage": {
-                        "src": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-ic1-400x139-b78a177f4ba1.png",
-                        "_type": "Diesel Image"
-                    },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-portrait-480x640-a36cbe8f7bb0.png",
-                    "_type": "Diesel Hero",
-                    "action": {
-                        "_type": "Diesel Action"
-                    },
-                    "video": {
-                        "loop": false,
-                        "_type": "Diesel Video",
-                        "hasFullScreen": false,
-                        "hasControls": false,
-                        "muted": false,
-                        "autoplay": false
-                    },
-                    "isFullBleed": false,
-                    "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/storefront-epic-game-soundtrack-art-booklet-bundle-landscape-640x360-cf330cce010d.png"
-                },
-                "carousel": {
-                    "_type": "Diesel Carousel",
-                    "items": [
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s5-1920x1080-a77acfbfd803.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c1ab1b01d829427cbba2c48eef00f91a\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"ca2dc2b1c79d45d089dfb7c4981396d6\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"a7450acab6824403b35365a6d07530d5\"\n        }\n    ]\n}",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": true,
-                                "type": "epicHosted",
-                                "muted": false,
-                                "autoplay": true
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_00-1920x1080-41330fe9b0795aa67169701fe9dc0c74005c8853.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_01-1920x1080-60fe24eca41d5daeb10376ac6af3c3a0da17e490.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_02-1920x1080-6b67d0f1ad535720d9c2b267e8f32a1a8609adf8.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_03-1920x1080-b7e9f0d8c0bc6b1c3c2ff33d39a22ce48f81c179.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_04-1920x1080-a703abda6397ae2118af51b1bc8a62a767dcbd2b.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_05-1920x1080-002ce0ef2ad7baa76ba8d53a04e4a264dd54f550.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_06-1920x1080-fa183224e9f6cac038c2f6fd6acf4ac128e2f151.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_07-1920x1080-02041fcae8b4ceff43c09dcf58d6133c8d3bc2f3.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_08-1920x1080-5b306a84e8271dad853a9235482890fbe6750a04.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_09-1920x1080-acb8ebc033376ada5a9f0adca1bfa1af079fa017.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fdisco-elysium%2Fhome%2FEGS_DiscoElysium_ZAUM_G1A_10-1920x1080-ecc02ce59d150aed2eab240dfb245bd8e2a1e32e.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/egs-discoelysiumthefinalcut-zaum-s1-2560x1440-b262c0a4ae47.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        }
-                    ]
-                },
-                "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
                 },
@@ -1157,7 +1155,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Disco Elysium - The Final Cut Bundle"
+                "navTitle": "Disco Elysium - Completionist Pack"
             },
             "overwriteMapping": false,
             "type": "offer",

@@ -2,21 +2,9 @@
     "title": "Watch Dogs 2 Standard Edition",
     "id": "57001074e2cf4d048839e4a2ebb44d71",
     "namespace": "angelonia",
-    "description": "Welcome to San Francisco! Join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of the history.",
+    "description": "Bem-vindo a São Francisco! Junte-se ao mais famoso grupo de hackers, o DedSec. Seu objetivo: executar o maior hack da história.",
     "effectiveDate": "2019-05-06T12:00:00.000Z",
     "keyImages": [
-        {
-            "type": "OfferImageTall",
-            "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
-        },
-        {
-            "type": "OfferImageWide",
-            "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095.jpg"
-        },
-        {
-            "type": "Thumbnail",
-            "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
-        },
         {
             "type": "heroCarouselVideo",
             "url": "com.epicgames.video://6d1e6e9d-29a4-42c9-80bc-31271395cf2b"
@@ -64,6 +52,18 @@
         {
             "type": "GalleryImage",
             "url": "https://cdn2.unrealengine.com/Diesel/product/angelonia/home/Watchdogs2_Gallery1-1920x1080-1144197d1cb419a446d49ec640f27bea4c81ca51.png"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095.jpg"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
         }
     ],
     "seller": {
@@ -150,18 +150,18 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 4999,
-            "originalPrice": 4999,
+            "discountPrice": 14999,
+            "originalPrice": 14999,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$49.99",
-                "discountPrice": "$49.99",
-                "intermediatePrice": "$49.99"
+                "originalPrice": "R$ 149,99",
+                "discountPrice": "R$ 149,99",
+                "intermediatePrice": "R$ 149,99"
             }
         },
         "lineOffers": [

@@ -30,12 +30,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
+    "_urlPattern": "/pt-BR/productv2/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
     "_slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
     "_activeDate": "2021-10-28T16:47:27.717Z",
-    "lastModified": "2021-11-09T15:16:46.816Z",
-    "_locale": "en-US",
-    "_id": "65bf3091-c28e-415c-9e6b-447eedfaee95",
+    "lastModified": "2021-10-28T16:52:39.380Z",
+    "_locale": "pt-BR",
+    "_id": "fed673a3-8978-4e58-aa91-2e26388d3d41",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -67,13 +67,23 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure/home",
+            "_urlPattern": "/pt-BR/productv2/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure/home",
             "_slug": "home",
             "_activeDate": "2024-03-28T15:00:00.000Z",
-            "lastModified": "2024-04-04T00:36:34.023Z",
-            "_locale": "en-US",
-            "_id": "233dcc80-dc6f-41b3-9512-1a069da4e78f",
+            "lastModified": "2021-10-28T17:28:32.092Z",
+            "_locale": "pt-BR",
+            "_id": "1f44b12f-7ae7-4571-80fe-5bcb89232840",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "d98b6c292e224a59b359372f4f5152df",
+                "id": "e73c6b914a394bbface8847d75879492",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -84,12 +94,12 @@
                 },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
-                    "title": "Follow Us "
+                    "title": "Siga-nos "
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, French, Italian, Spanish - Spain",
-                        "Text: English, Chinese - Traditional, French, German, Italian, Japanese, Korean, Spanish - Spain"
+                        "Áudio: inglês, francês, italiano, espanhol (Espanha)",
+                        "Texto: inglês, chinês tradicional, francês, alemão, italiano, japonês, coreano, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -98,39 +108,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64-bit",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel i3 530 @2.93 GHz/AMD Phenom II X4 805 @2.5 GHz",
-                                    "recommended": "Intel i3 530 @2.93 GHz/AMD Phenom II X4 805 @2.5 GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 530 de 2,93 GHz / AMD Phenom II X4 805 de 2,5 GHz",
+                                    "recommended": "Intel i3 530 de 2,93 GHz / AMD Phenom II X4 805 de 2,5 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB",
-                                    "recommended": "4GB"
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "15GB",
-                                    "recommended": "20GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "15 GB",
+                                    "recommended": "20 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia Geforce GTX 780 @3GB/AMD Radeon HD 7970 @3GB",
-                                    "recommended": "Nvidia Geforce GTX 780 @3GB/AMD Radeon HD 7970 @3GB"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Nvidia GeForce GTX 780 de 3 GB / AMD Radeon HD 7970 de 3 GB",
+                                    "recommended": "Nvidia GeForce GTX 780 de 3 GB / AMD Radeon HD 7970 de 3 GB"
                                 }
                             ]
                         }
@@ -148,7 +158,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.take2games.com/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -160,8 +170,8 @@
                     "developerAttribution": "Gearbox Software, Stray Kite Studios",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "2K",
-                    "description": "Play Tiny Tina's Assault on Dragon Keep, then wishlist its full-size follow-up Tiny Tina's Wonderlands!\n\nSmash skeletons, defeat dragons, and battle giant golems in Tiny Tina's Assault on Dragon Keep: A Wonderlands One-Shot Adventure. Experience the acclaimed 2013 quest that started it all in this standalone campaign jam-packed with fantasy, fun, and mountains of magical loot!\n\nThe Queen's been captured and her kingdom is in peril; only you and your friends have any chance of restoring peace to this eccentric, enchanted land. Blast your way through treacherous forests, spooky crypts, and fearsome fortresses, but beware—your journey can change in an instant on account of Tina's gleefully chaotic whims. Dive into this epic tabletop romp and get ready for the fantasy fight of your life!\n\n## PICK-UP-AND-PLAY ACTION\n\nChoose your character from a roster of six unique Vault Hunters, each with their own signature abilities and powerful builds, and jump into chaotic fantasy battles right away in solo or co-op\n\n## A WORLD OF ADVENTURE & DANGER\n\nThere's no telling what'll happen next with Tina as your Bunkermaster! Be ready for anything (especially hungry Mimics masquerading as treasure chests)\n\n## WHERE SHOOTING & LOOTING MET CASTING\n\nVanquish any villains who get in your way using a huge assortment of souped-up firearms, all while firing Lightning Bolts and Fireballs from your fingertips with spellcast-style grenade mods\n\n\nUse of this product requires agreement to the following third party end user license agreement: http://www.take2games.com/eula/",
-                    "shortDescription": "Smash skeletons, defeat dragons, and battle giant golems in Tiny Tina's Assault on Dragon Keep: A Wonderlands One-Shot Adventure. Experience the acclaimed 2013 quest jam-packed with fantasy, fun, and mountains of magical loot!",
+                    "description": "Jogue Tiny Tina's Assault on Dragon Keep, depois coloque na sua lista de desejos a continuação completa: Tiny Tina's Wonderlands!\n\nDestrua esqueletos, derrote dragões e enfrente golens gigantes em Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure. Vivencie a aclamada aventura de 2013 que deu início a tudo nessa campanha independente recheada de fantasia, diversão e montanhas de itens mágicos!\n\nA Rainha foi capturada, e seu reino corre perigo. Somente você e seus amigos são capazes de restaurar a paz desta terra excêntrica e encantada. Destrua tudo o que estiver em seu caminho e desbrave florestas traiçoeiras, criptas horripilantes e fortalezas assustadoras, mas cuidado! Sua jornada pode mudar num piscar de olhos graças à imaginação vibrante e caótica da Tina. Mergulhe neste épico jogo de tabuleiro e prepare-se para a luta mais fantástica de sua vida!\n\n## AÇÃO SEM ENROLAÇÃO\n\nEscolha o seu personagem dentre um rol de seus Caça-Arcas únicos, cada um com suas habilidades características e builds poderosas, e vá direto para as batalhas fantasticamente caóticas tanto no modo solo quanto no cooperativo\n\n## UM MUNDO DE AVENTURA E PERIGOS\n\nCom Tina como a Mestra do Bunker, não dá para saber o que pode acontecer! Prepare-se para o que vier (principalmente para os Mímicos famintos que se disfarçam de baús de tesouro)\n\n## O ENCONTRO ENTRE TIROS, ESPÓLIOS E MAGIA\n\nElimine todos os vilões que se atreverem a entrar em seu caminho usando uma variedade imensa de armas de fogo turbinadas, e não esqueça dos Relâmpagos e das Bolas de Fogo que estarão nas pontas dos seus dedos graças às granadas modificadas para reproduzirem feitiços\n\n\nO uso deste produto requer o aceite do seguinte termo de licença de usuário final de terceiros: http://www.take2games.com/eula/",
+                    "shortDescription": "Destrua esqueletos, derrote dragões e enfrente golens gigantes em Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure. Vivencie a aclamada aventura de 2013 recheada de fantasia, diversão e montanhas de espólios mágicos!",
                     "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -318,9 +328,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -404,13 +411,17 @@
                 },
                 "navTitle": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure"
             },
-            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
             "type": "productHome",
             "_images_": [
                 "https://cdn2.unrealengine.com/epic-dragonkeep-shot-torgue-1920x1080-1920x1080-c13c8e737a89.jpg",
                 "https://cdn2.unrealengine.com/epic-dragonkeep-shot-ambush-1920x1080-1920x1080-4bc01f0a6467.jpg",
-                "https://cdn2.unrealengine.com/epic-dragonkeep-shot-cosmetics-1920x1080-1920x1080-9389c93bb541.jpg",
                 "https://cdn2.unrealengine.com/epic-dragonkeep-screens-zer0-salvador-1920x1080-1920x1080-b57984efafc0.jpg",
+                "https://cdn2.unrealengine.com/epic-dragonkeep-shot-cosmetics-1920x1080-1920x1080-9389c93bb541.jpg",
                 "https://cdn2.unrealengine.com/egs-tinytinasassaultondragonkeepawonderlandsoneshotadventure-gearboxsoftwarestraykitestudios-g1a-00-1920x1080-4b5d0d491cf7.jpg",
                 "https://cdn2.unrealengine.com/egs-tinytinasassaultondragonkeepawonderlandsoneshotadventure-gearboxsoftwarestraykitestudios-s2-1200x1600-807c8d80b7b4.jpg",
                 "https://cdn2.unrealengine.com/egs-tinytinasassaultondragonkeepawonderlandsoneshotadventure-gearboxsoftwarestraykitestudios-s1-2560x1440-157620c11576.jpg",
@@ -418,22 +429,7 @@
                 "https://cdn2.unrealengine.com/egs-tinytinasassaultondragonkeepawonderlandsoneshotadventure-gearboxsoftwarestraykitestudios-g1a-01-1920x1080-f2143685e69b.jpg",
                 "https://cdn2.unrealengine.com/egs-tinytinasassaultondragonkeepawonderlandsoneshotadventure-gearboxsoftwarestraykitestudios-ic1-308x156-310cfdb3d819.png",
                 "https://cdn2.unrealengine.com/epic-dragonkeep-shot-axton-1920x1080-1920x1080-a310558c65ee.jpg"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "d98b6c292e224a59b359372f4f5152df",
-                "id": "e73c6b914a394bbface8847d75879492",
-                "type": "edition",
-                "hasOffer": true
-            },
-            "ageGate": {
-                "hasAgeGate": false,
-                "_type": "Epic Store Age Gate"
-            },
-            "tag": "edition"
+            ]
         }
     ],
     "data_aquisicao_gratis": "29/05 a 05/06/25"

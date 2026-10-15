@@ -23,12 +23,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/total-war-warhammer",
+    "_urlPattern": "/pt-BR/productv2/total-war-warhammer",
     "_slug": "total-war-warhammer",
     "_activeDate": "2021-09-21T14:41:38.452Z",
     "lastModified": "2021-09-21T14:54:58.834Z",
-    "_locale": "en-US",
-    "_id": "3cc61a36-a8f4-4443-8574-ff3c26a81808",
+    "_locale": "pt-BR",
+    "_id": "c274f873-2b2f-44b1-866e-93c0d22c3f81",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -56,12 +56,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/total-war-warhammer/home",
+            "_urlPattern": "/pt-BR/productv2/total-war-warhammer/home",
             "_slug": "home",
             "_activeDate": "2021-09-21T14:55:03.420Z",
-            "lastModified": "2025-12-01T17:44:00.076Z",
-            "_locale": "en-US",
-            "_id": "160497d0-19b3-449a-9df4-91759f04f985",
+            "lastModified": "2021-11-04T15:32:04.427Z",
+            "_locale": "pt-BR",
+            "_id": "a44cbe4f-9613-4465-8bba-af9c78d254dc",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -77,16 +77,6 @@
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins",
-                    "links": [
-                        {
-                            "src": "https://www.sega.co.uk/EULA",
-                            "_type": "Diesel Link",
-                            "title": "EULA"
-                        }
-                    ]
-                },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/totalwar",
                     "linkTwitch": "https://www.twitch.tv/totalwar",
@@ -100,8 +90,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Chinese - Simplified, Chinese - Traditional, Czech, French, German, Italian, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                        "Áudio: inglês",
+                        "Texto: inglês, chinês simplificado, chinês tradicional, tcheco, francês, alemão, italiano, coreano, polonês, português (Brasil), russo, espanhol (Espanha), turco"
                     ],
                     "systems": [
                         {
@@ -110,49 +100,49 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64Bit",
-                                    "recommended": "Windows 8.1/10 64Bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 8.1/10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel® Core™ 2 Duo 3.0Ghz",
-                                    "recommended": "Intel® Core™ i5-4570 3.20GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ 2 Duo de 3,0 GHz",
+                                    "recommended": "Intel® Core™ i5-4570 de 3,2 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "3GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "3 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "35GB",
-                                    "recommended": "35GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "35 GB",
+                                    "recommended": "35 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "11",
                                     "recommended": "11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "AMD Radeon HD 5770 1024MB | NVIDIA GTS 450 1024MB | Intel HD4000 @720P",
-                                    "recommended": "AMD Radeon R9 270X 2048MB | NVIDIA GeForce GTX 760 2048MB @1080P"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "AMD Radeon HD 5770 de 1024 MB | NVIDIA GTS 450 de 1024 MB | Intel HD4000 a 720P",
+                                    "recommended": "AMD Radeon R9 270X de 2048 MB | NVIDIA GeForce GTX 760 de 2048 MB a 1080P"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "*PC Integrated graphics chipsets require 4 GB RAM, e.g. Intel HD series."
+                                    "title": "Outros",
+                                    "minimum": "*Os chipsets gráficos integrados ao PC requerem 4 GB de RAM, por exemplo,<br /> série Intel HD."
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Disclaimer",
-                                    "minimum": "Microsoft no longer supports Windows 10 or older versions"
+                                    "title": "Aviso legal",
+                                    "minimum": "A Microsoft não oferece mais suporte ao Windows 10 ou versões anteriores"
                                 }
                             ]
                         },
@@ -162,38 +152,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "10.12.4",
                                     "recommended": "10.13.6"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.0Ghz Intel Core i5",
-                                    "recommended": "2.0Ghz Intel Core i5"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 de 2,0 GHz",
+                                    "recommended": "Intel Core i5 de 2,0 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "37GB",
-                                    "recommended": "37GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "37 GB",
+                                    "recommended": "37 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "2GB Nvidia 680MX, 2GB AMD R9 M290, 1.5GB Intel Iris Graphics 540 or better ",
-                                    "recommended": "2GB Nvidia 680MX, 2GB AMD R9 M290, 1.5GB Intel Iris Graphics 540 or better "
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 680MX com 2 GB, AMD R9 M290 com 2 GB, Intel Iris Graphics 540 com 1,5 GB ou superior ",
+                                    "recommended": "NVIDIA 680MX com 2 GB, AMD R9 M290 com 2 GB, Intel Iris Graphics 540 com 1,5 GB ou superior "
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "The game is officially supported on the following Macs. To check your Mac model and when it was released, select About This Mac from the App"
+                                    "title": "Outros",
+                                    "minimum": "O jogo é oficialmente compatível com os seguintes Macs. Para verificar o modelo do seu Mac e quando ele foi lançado, selecione Sobre este Mac no menu Apple da barra de menus."
                                 }
                             ]
                         }
@@ -204,6 +194,16 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "src": "https://www.sega.co.uk/EULA",
+                            "_type": "Diesel Link",
+                            "title": "EULA"
+                        }
+                    ]
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -211,7 +211,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.sega.co.uk/Privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -223,8 +223,8 @@
                     "developerAttribution": "CREATIVE ASSEMBLY",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "SEGA",
-                    "description": "![IE_banner](https://cdn2.unrealengine.com/twwh-ie-steam-banner-616x344-616x344-b5edd6f296b5.jpg)\n\n# Buying Total War: WARHAMMER I also grants access to Immortal Empires\n\nDecide the fate of the Warhammer world in Immortal Empires, the epic culmination of the entire Total War: WARHAMMER series, now available for all *Total War WARHAMMER I and WARHAMMER II owners!\n\nCombining the campaign maps, races, and factions from all three games into a single, epic sandbox campaign across the legendary Warhammer world, Immortal Empires is the most complete and definitive Warhammer strategy experience ever conceived.\n\n*If you only own Total War: WARHAMMER I or II, you can access Immortal Empires by launching Total War: WARHAMMER III in your game library.\n\nHundreds of hours of gameplay await you at the dawn of a new era. Total War: WARHAMMER brings to life a world of legendary heroes, towering monsters, flying creatures, storms of magical power and regiments of nightmarish warriors.\n\nEmbark on campaigns of conquest as the valiant men of the Empire, the vengeful Dwarfs, the murderous Vampire Counts and the brutal Orcs and Goblins of the Greenskin tribes. Each Race is wholly different with its own unique characters, campaign mechanics, battlefield units and play style.",
-                    "shortDescription": "The critically-acclaimed Total War: WARHAMMER combines a turn-based campaign of epic empire-building with colossal and explosive real-time battles, set within the incredible world of Warhammer Fantasy Battles. ",
+                    "description": "![IE_banner](https://cdn2.unrealengine.com/twwh-ie-steam-banner-616x344-616x344-b5edd6f296b5.jpg)\n\nComprar Total War: WARHAMMER I também concede acesso a Immortal Empires\n=======================================================================\n\nDecida o destino do mundo Warhammer em Immortal Empires, o desfecho triunfal da série Total War: WARHAMMER, disponível para todos que têm \\*Total War WARHAMMER I e WARHAMMER II\\!\n\nCombinando os mapas de campanha, raças e facções dos três jogos em uma única campanha de mundo aberto épica, Immortal Empires oferece a experiência estratégica definitiva do universo lendário de Warhammer.\n\n\\*Se você tem apenas Total War: WARHAMMER I ou II, pode acessar Immortal Empires ao iniciar Total War: WARHAMMER III na sua biblioteca de jogos.\n\nDesfrute de centenas de horas de jogo na alvorada de uma nova era. Total War: WARHAMMER traz um mundo de heróis lendários, monstros colossais, criaturas voadoras, tempestades mágicas e guerreiros pavorosos.\n\nEmbarque em campanhas de conquista no papel dos honrados humanos do Império, dos vingativos Anões, dos inclementes Condes Vampiros e dos brutais Orcs e Goblins das tribos Pele\\-verdes. Cada raça proporciona experiências exclusivas em termos de personagens, mecânicas, unidades e jogabilidade.\n\n",
+                    "shortDescription": "Total War: WARHAMMER é um aclamado jogo que combina uma épica campanha de ascensão imperial com colossais batalhas em tempo real, dentro do incrível mundo de Warhammer Fantasy Battles. ",
                     "title": "Total War: WARHAMMER",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -417,9 +417,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -474,10 +471,6 @@
                 },
                 "productSections": [
                     {
-                        "productSection": "SOCIAL_LINKS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
                         "productSection": "PRODUCT_LINKS",
                         "_type": "Diesel Product Section"
                     }
@@ -487,7 +480,6 @@
                 },
                 "navTitle": "Total War: WARHAMMER"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": true,
                 "_type": "Epic Store Age Gate"

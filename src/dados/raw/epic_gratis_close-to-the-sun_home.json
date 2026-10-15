@@ -1,17 +1,53 @@
 {
-    "title": "Close to the Sun",
-    "id": "5354dc63819f416a80ef712d9d410351",
-    "namespace": "epic",
-    "description": "Close to the Sun",
-    "effectiveDate": "2020-04-09T15:00:00.000Z",
+    "title": "Close To The Sun",
+    "id": "bfcf7ca20e57436d8cc33e6d20cbac76",
+    "namespace": "silene",
+    "description": "Nas profundezas das águas internacionais, o Helios de Tesla está imóvel. Uma utopia livre para a pesquisa científica, Rose Archer sobe a bordo à procura de sua irmã e rapidamente descobre que nem tudo é o que parece ser. Há uma única palavra cobrindo a entrada… QUARENTENA!",
+    "effectiveDate": "2019-05-02T14:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg"
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://54479d0a-8a00-4e89-a71a-b8b0c8d8b703"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg"
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://4602a82f-9f44-43f9-a96a-fc72c2626cd9"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/close-to-the-sun/home/EGS_ClosetotheSun_StorminaTeacup_G1A_01-1920x1080-48fc890ecf5ace07dd52f6db26881979623a59b5.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/close-to-the-sun/home/EGS_ClosetotheSun_StorminaTeacup_G1A_02-1920x1080-79009e706e4efdbd796f356417c1a4ee432a00d9.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/close-to-the-sun/home/EGS_ClosetotheSun_StorminaTeacup_G1A_03-1920x1080-b89df14f2045b0ac52ea91c0c78edb74c130d3cc.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/close-to-the-sun/home/EGS_ClosetotheSun_StorminaTeacup_G1A_04-1920x1080-fa68f58f32f48c1ec4fb25bc46d06c2fce4d5c82.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/close-to-the-sun/home/EGS_ClosetotheSun_StorminaTeacup_G1A_05-1920x1080-92f1a1f5499085bf4d4c6ad9c98ea0c2e24e8585.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/close-to-the-sun/home/EGS_ClosetotheSun_StorminaTeacup_G1C_00-1920x1080-023a25ff182a3bc1d6a6a0867e88dca5f5973df7.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
         }
     ],
     "seller": {
@@ -19,11 +55,14 @@
         "name": "Wired Productions"
     },
     "productSlug": "close-to-the-sun/home",
-    "urlSlug": "silene",
+    "urlSlug": "close-to-the-sun-general-audience",
     "url": null,
     "tags": [
         {
             "id": "1218"
+        },
+        {
+            "id": "21894"
         },
         {
             "id": "1370"
@@ -40,26 +79,22 @@
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "f2db83aa24b24cb3b54b058d65ffa073",
+            "namespace": "silene"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "8000"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "silene"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "bfcf7ca20e57436d8cc33e6d20cbac76"
+            "key": "publisherName",
+            "value": "Wired Productions"
+        },
+        {
+            "key": "developerName",
+            "value": "Storm In A Teacup"
         },
         {
             "key": "com.epicgames.app.productSlug",
@@ -69,22 +104,31 @@
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
-            "originalPrice": 1999,
+            "discountPrice": 3799,
+            "originalPrice": 3799,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
             }
         },
         "lineOffers": [

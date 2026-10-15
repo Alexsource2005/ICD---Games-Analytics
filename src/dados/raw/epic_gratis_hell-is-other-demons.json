@@ -20,7 +20,7 @@
     "_images_": [
         "https://cdn2.unrealengine.com/12-v-h-320x117-bc5ba533b59e.png"
     ],
-    "productName": "Hell is other demons",
+    "productName": "Hell Is Other Demons",
     "pageTheme": {
         "preferredMode": "dark",
         "light": {
@@ -41,12 +41,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/hell-is-other-demons",
+    "_urlPattern": "/pt-BR/productv2/hell-is-other-demons",
     "_slug": "hell-is-other-demons",
     "_activeDate": "2021-06-10T14:50:00.000Z",
-    "lastModified": "2021-06-17T15:05:55.618Z",
-    "_locale": "en-US",
-    "_id": "01c9d03a-9e9a-49ea-b1fa-4870c6f48e13",
+    "lastModified": "2021-06-07T19:17:51.672Z",
+    "_locale": "pt-BR",
+    "_id": "e5bc0a66-224f-43ad-a894-0d1fe2308723",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -79,7 +79,7 @@
                 "https://cdn2.unrealengine.com/egs-hellisotherdemons-cuddlemonstergames-g1a-05-1920x1080-dd78f23a7821.jpg",
                 "https://cdn2.unrealengine.com/egs-hellisotherdemons-cuddlemonstergames-g1a-04-1920x1080-5025ccfc720f.jpg"
             ],
-            "productName": "Hell is other demons",
+            "productName": "Hell Is Other Demons",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -100,12 +100,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/hell-is-other-demons/home",
+            "_urlPattern": "/pt-BR/productv2/hell-is-other-demons/home",
             "_slug": "home",
             "_activeDate": "2021-06-10T14:50:00.000Z",
-            "lastModified": "2025-11-25T13:47:51.566Z",
-            "_locale": "en-US",
-            "_id": "efeef873-bd01-4dc3-b481-16a1e9d77f83",
+            "lastModified": "2021-06-07T20:00:22.538Z",
+            "_locale": "pt-BR",
+            "_id": "65ac9131-d1be-4ae2-a901-5fb160780e48",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -133,8 +133,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text:  English, French, German, Italian, Spanish - Spain, Portuguese, Japanese, Korean"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, alemão, italiano, espanhol (Espanha), português, japonês, coreano"
                     ],
                     "systems": [
                         {
@@ -143,32 +143,32 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": " Windows 7 or higher",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 ou superior",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": " Intel i3+",
-                                    "recommended": "Requires a 64-bit processor and operating system"
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 ou superior",
+                                    "recommended": "Requer um processador e sistema operacional de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "Nvidia 450 GTS / Radeon HD 5750 or better"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 450 GTS / Radeon HD 5750 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "500 mb",
-                                    "recommended": "500 mb"
+                                    "title": "Armazenamento",
+                                    "minimum": "500 MB",
+                                    "recommended": "500 MB"
                                 }
                             ]
                         },
@@ -178,31 +178,26 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "MacOS 10.9 or later",
-                                    "recommended": "MacOS 10.9 or later"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "macOS 10.9 ou mais recente",
+                                    "recommended": "macOS 10.9 ou mais recente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "Requires a 64-bit processor and operating system",
-                                    "recommended": "Requires a 64-bit processor and operating system"
+                                    "title": "Processador",
+                                    "minimum": "Requer um processador e sistema operacional de 64 bits",
+                                    "recommended": "Requer um processador e sistema operacional de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "500mb"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "OpenGL 3.2+"
+                                    "title": "Armazenamento",
+                                    "minimum": "500 MB"
                                 }
                             ]
                         }
@@ -220,7 +215,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.kongregate.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Kongregate Privacy Policy"
+                        "title": "Política de Privacidade da Kongregate"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -232,9 +227,9 @@
                     "developerAttribution": "Cuddle Monster Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Cuddle Monster AB",
-                    "description": "You grew up with the bullet hell arcade shooters which rewarded fast-decision making and creativity? Hell is Other Demons is crafted with expertly executed mechanics and bold, unforgettable style.\n\n# Reviews\n\n“A Bullet Hell Set In Hell That's Heaven To Play”\n – **Kotaku**\n\n“While some games use aesthetic to hide poorly considered gameplay, Hell is Other Demons has nothing to hide. It’s a simple concept, but it’s executed flawlessly.”\n4.5/5 – **Game Revolution**\n\n“Hell Is Other Demons goes the distance in its refined and frantic gameplay that captures the nostalgia of 8-bit arcade shooters.”\n8/10 – **Cultured Vultures**",
-                    "shortDescription": "Hell is Other Demons is an action-platform shooter, with Roguelite elements. Explore a sprawling, hand-crafted world full of demons, insanely over-the-top boss fights, and a heavy synthwave soundtrack.",
-                    "title": "Bullet Hell, in Hell, Flawlessly Executed",
+                    "description": "Você cresceu com os jogos de tiro arcade no estilo Bullet Hell que recompensavam a criatividade e a tomada de decisão rápida? Hell is Other Demons é projetado com mecânicas habilmente executadas e um estilo ousado e inesquecível.\n\n# Avaliações\n\n\"Um jogo no estilo Bullet Hell situado no inferno e que é divino para jogar\"\n – **Kotaku**\n\n\"Enquanto alguns jogos usam a estética para esconder uma jogabilidade mal considerada, Hell is Other Demons não tem nada a esconder. É um conceito simples, mas executado com perfeição.\"\n4,5/5 – **Game Revolution**\n\n\"Hell Is Other Demons vai longe em sua jogabilidade refinada e frenética que captura a nostalgia dos jogos de tiro arcade em 8 bits.\"\n8/10 – **Cultured Vultures**",
+                    "shortDescription": "Hell is Other Demons é um jogo de tiro e plataforma de ação, com elementos Roguelite. Explore um vasto mundo feito à mão, cheio de demônios e lutas contra chefes insanamente exageradas e uma trilha sonora pesada do gênero synthwave.",
+                    "title": "Um Bullet Hell que se passa no inferno e executado com perfeição",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -381,9 +376,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -465,9 +457,8 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Hell is other demons"
+                "navTitle": "Hell is Other Demons"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"

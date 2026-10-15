@@ -42,12 +42,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/loop-hero",
+    "_urlPattern": "/pt-BR/productv2/loop-hero",
     "_slug": "loop-hero",
     "_activeDate": "2021-03-02T00:12:46.502Z",
-    "lastModified": "2021-05-26T21:11:16.109Z",
-    "_locale": "en-US",
-    "_id": "d5ed4357-6d4e-434b-bae7-efe0c1b057bf",
+    "lastModified": "2021-03-02T00:16:37.889Z",
+    "_locale": "pt-BR",
+    "_id": "38fc17cf-51f4-4c79-b78d-bf6ef708069c",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -107,12 +107,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/loop-hero/home",
+            "_urlPattern": "/pt-BR/productv2/loop-hero/home",
             "_slug": "home",
             "_activeDate": "2021-03-02T00:16:42.646Z",
-            "lastModified": "2021-05-27T01:39:44.033Z",
-            "_locale": "en-US",
-            "_id": "9f48d654-de11-4047-ad4a-a136214d7921",
+            "lastModified": "2021-03-02T00:36:28.525Z",
+            "_locale": "pt-BR",
+            "_id": "d49f5616-84ff-47e9-ab8f-934b461afa93",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -141,8 +141,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English |",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Japanese, Korean, Portuguese, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês |",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, japonês, coreano, português, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -151,25 +151,25 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Mac OS X 10.11 or higher",
-                                    "recommended": "Mac OS X 10.11 or higher"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Mac OS X 10.11 ou superior",
+                                    "recommended": "Mac OS X 10.11 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2 Duo E4500 (2 * 2200) or equivalent, AMD Athlon 64 X2 Dual Core 3600+ (2 * 1910) or equivalent",
-                                    "recommended": "Intel Core2 Duo E6750 (2 * 2660) or equivalent, AMD Athlon 64 X2 Dual Core 5000+ (2 * 2600) or equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core2 Duo E4500 (2 * 2200) ou equivalente, AMD Athlon 64 X2 Dual Core 3600+ (2 * 1910) ou equivalente",
+                                    "recommended": "Intel Core2 Duo E6750 (2 * 2660) ou equivalente, AMD Athlon 64 X2 Dual Core 5000+ (2 * 2600) ou equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "200 MB",
                                     "recommended": "200 MB"
                                 }
@@ -181,33 +181,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7, 8.1, 10 x64",
-                                    "recommended": "Windows 7, 8.1, 10 x64"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7, 8.1 e 10 de 64 bits",
+                                    "recommended": "Windows 7, 8.1 e 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2 Duo E4500 (2 * 2200) or equivalent, AMD Athlon 64 X2 Dual Core 3600+ (2 * 1910) or equivalent",
-                                    "recommended": "Intel Core2 Duo E6750 (2 * 2660) or equivalent, AMD Athlon 64 X2 Dual Core 5000+ (2 * 2600) or equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core2 Duo E4500 (2 * 2200) ou equivalente, AMD Athlon 64 X2 Dual Core 3600+ (2 * 1910) ou equivalente",
+                                    "recommended": "Intel Core2 Duo E6750 (2 * 2660) ou equivalente, AMD Athlon 64 X2 Dual Core 5000+ (2 * 2600) ou equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "200 MB",
                                     "recommended": "200 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "GeForce 7300 GT (512 MB), Radeon X1300 Pro (256 MB)",
-                                    "recommended": "GeForce 8600 GT (512 MB),  Radeon HD 4650 (1024 MB)"
+                                    "recommended": "GeForce 8600 GT (512 MB), Radeon HD 4650 (1024 MB)"
                                 }
                             ]
                         }
@@ -225,7 +225,7 @@
                     "privacyPolicyLink": {
                         "src": "https://devolverdigital.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -237,9 +237,9 @@
                     "developerAttribution": "Four Quarters",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Devolver Digital",
-                    "description": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero. Recover and equip powerful loot for each class of hero for their battles and expand the survivors' camp to reinforce each adventure through the loop. Unlock new classes, new cards, and devious guardians on your quest to shatter the endless cycle of despair.\n\n# Infinite Adventure: \n\nSelect from unlockable character classes and deck cards before setting out on each expedition along a randomly generated loop path. No expedition is ever the same as the ones before it.\n\n# Plan Your Struggle:\n\nStrategically place building, terrain, and enemy cards along each loop to create your own dangerous path. Find balance between the cards to increase your chances of survival while recovering valuable loot and resources for your camp.\n\n# Loot and Upgrade:\n\nStrike down menacing creatures, recover stronger loot to equip on the fly and unlock new perks along the way.\n\n# Expand Your Camp:\n\nTurn hard-earned resources into campsite upgrades and gain valuable reinforcements with each completed loop along the expedition path.\n\n# Save the Lost World:\n\nOvercome a series of unholy guardian bosses over a grand saga to save the world and break the time loop of the Lich!",
-                    "shortDescription": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero. ",
-                    "title": "About This Game",
+                    "description": "O Lich aprisionou o mundo em um ciclo atemporal e mergulhou seus habitantes em um caos sem fim. Empunhe um deck de cards místicos em expansão e posicione inimigos, estruturas e terrenos ao longo de cada ciclo de expedição exclusivo do nosso corajoso herói. Recupere e equipe espólios poderosos para cada classe de herói para as suas batalhas e expanda o acampamento dos sobreviventes para reforçar cada aventura através do ciclo atemporal. Desbloqueie novas classes, novos cards, vantagens e ardilosos guardiões na sua missão para destruir o infinito ciclo de desespero.\n\n# Aventura infinita: \n\nfaça sua escolha dentre os cards e classes de personagens desbloqueáveis antes de embarcar em cada expedição através de um caminho cíclico gerado aleatoriamente. Nenhuma expedição é igual às anteriores.\n\n# Planeje sua luta:\n\nPosicione cards de estruturas, terrenos e inimigos de forma estratégica em cada ciclo para criar seu próprio caminho perigoso. Encontre o equilíbrio entre os cards para aumentar suas chances de sobrevivência enquanto recupera espólios e recursos valiosos para o seu acampamento.\n\n# Espólios e melhorias:\n\nDerrote criaturas ameaçadoras, recupere espólios melhores para equipar rapidamente e desbloqueie novas vantagens pelo caminho.\n\n# Expanda seu acampamento:\n\nTransforme os frutos do seu esforço em melhorias para o acampamento e se fortaleça a cada ciclo concluído ao percorrer o caminho da expedição.\n\n# Salve o mundo perdido:\n\nVença uma série de chefes guardiões nefastos em sua grande saga para salvar o mundo e destruir o ciclo atemporal do Lich!",
+                    "shortDescription": "O Lich aprisionou o mundo em um ciclo atemporal e mergulhou seus habitantes em um caos sem fim. Empunhe um deck de cards místicos em expansão e posicione inimigos, estruturas e terrenos ao longo de cada ciclo de expedição exclusivo do nosso corajoso herói. ",
+                    "title": "Sobre este jogo",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -288,7 +288,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Loop Hero Launch Trailer",
+                                "title": "Trailer de lançamento do Loop Hero",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true

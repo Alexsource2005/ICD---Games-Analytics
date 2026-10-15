@@ -24,12 +24,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/prison-architect",
+    "_urlPattern": "/pt-BR/productv2/prison-architect",
     "_slug": "prison-architect",
     "_activeDate": "2021-12-01T11:34:00.106Z",
     "lastModified": "2021-12-02T15:31:00.669Z",
-    "_locale": "en-US",
-    "_id": "71242ba9-47be-4818-9fea-dc049b511498",
+    "_locale": "pt-BR",
+    "_id": "5537a093-b543-4db5-83af-ac2ec1596055",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -58,12 +58,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/prison-architect/home",
+            "_urlPattern": "/pt-BR/productv2/prison-architect/home",
             "_slug": "home",
             "_activeDate": "2021-12-01T11:36:44.094Z",
-            "lastModified": "2022-01-19T14:22:19.703Z",
-            "_locale": "en-US",
-            "_id": "2538395e-1f6a-4472-80c4-e215b79ae444",
+            "lastModified": "2021-12-02T00:48:42.649Z",
+            "_locale": "pt-BR",
+            "_id": "5d0d6c1a-b89c-4b95-aa53-554112883a4d",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -91,8 +91,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Dutch, French, Korean, Polish, Portuguese - Brazil, Japanese, German, Russian, Spanish - Spain, Swedish, Turkish"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, holandês, francês, coreano, polonês, português (Brasil), japonês, alemão, russo, espanhol (Espanha), sueco, turco"
                     ],
                     "systems": [
                         {
@@ -101,64 +101,64 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 8"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher",
-                                    "recommended": "Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior",
+                                    "recommended": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "6 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
+                                    "title": "Armazenamento no Windows",
                                     "minimum": "400 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia 8600 / Radeon equivalent (2009 era)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 8600 / Radeon equivalente (de 2009)"
                                 }
                             ]
                         },
                         {
                             "_type": "Diesel System Detail",
-                            "systemType": "Mac OS",
+                            "systemType": "macOS",
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "10.11 (El Capitan)",
                                     "recommended": "10.11 (El Capitan)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2009 era Macbook Pro, Core2 Duo processor",
-                                    "recommended": "2009 era Macbook Pro, Core2 Duo processor"
+                                    "title": "Processador",
+                                    "minimum": "MacBook Pro (de 2009), processador Core 2 Duo",
+                                    "recommended": "MacBook Pro (de 2009), processador Core 2 Duo"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "6 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "400 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "ATI Radeon HD 4870"
                                 }
                             ]
@@ -177,7 +177,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.paradoxplaza.com/privacy-policy.html",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -189,8 +189,8 @@
                     "developerAttribution": "Double Eleven",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Paradox Interactive",
-                    "description": "# Welcome Wardens!\n\nOnly the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.\n\n# Customized Confinement\n\nAllocate resources to optimize your compound, but don’t restrict the flow of the crowd lest you encounter a flood, fire, fight, or full-blown riot.\n\n# Invest and Innovate\n\nTap federal money with grant applications & direct your funds to combat disease, gang activity, litigation, and more!\n\n# Management and Muscle\n\nEnsure your prison is *mostly* ethical and safe with top-notch staff including armed guards, psychologists, doctors, lawyers and snitches.\n\n# Detention by Design\n\nEach prisoner’s criminal history requires custom treatment programs, labor schedules, and reform workshops.\n\n# Lockdown Showdown\n\nAttempt a high-stakes escape of your own supermax prison in Escape Mode, or try Online mode to test one of 12,000 player-created prisons. Expand your empire limitlessly in Sandbox mode.",
-                    "shortDescription": "Welcome Wardens!  Only the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.",
+                    "description": "# Bem-vindos, guardas!\n\nApenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect.\n\n# Confinamento personalizado\n\nAloque recursos para otimizar seu complexo, mas não restrinja o fluxo de pessoas caso ocorram inundações, incêndios, brigas ou tumultos generalizados.\n\n# Invista e inove\n\nObtenha dinheiro federal com pedidos de subsídios e direcione fundos para combater doenças, atividades de gangues, processos e muito mais!\n\n# Gerenciamento e músculos\n\nGaranta que sua prisão seja \"ética\" e segura com funcionários de alto nível, incluindo guardas armados, psicólogos, médicos, advogados e informantes.\n\n# Detenção personalizada\n\nO histórico criminal de cada prisioneiro requer programas de tratamento personalizados, rotinas de trabalho e seminários correcionais.\n\n# Desafio de fuga\n\nTente realizar uma fuga de alto risco da sua própria prisão de segurança máxima no modo Escapar ou experimente o modo online para testar a segurança de uma das 12.000 prisões criadas por jogadores. Expanda seu império sem limites no modo \"sandbox\".",
+                    "shortDescription": "Bem-vindos, guardas!  Apenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -331,7 +331,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
-                            "description": "Welcome Wardens! Only the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.",
+                            "description": "Bem-vindos, guardas! Apenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect.",
                             "offerId": "cf42bfef8bdc4a3b9db9ae500c9bfe06",
                             "title": "Prison Architect",
                             "slug": "/p/prison-architect"
@@ -346,7 +346,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
-                            "description": "Get everything you need to run a top-notch correctional facility. Immerse yourself in the prison life with the base game, the original soundtrack + digital artbook, and a collection of Prison Architect expansions.",
+                            "description": "Obtenha tudo o que você precisa para administrar uma unidade correcional de primeira linha. Entre na vida prisional com o jogo base, a trilha sonora original + o livro de arte digital, e uma coleção de expansões do Prison Architect.",
                             "offerId": "01c211c1e19e4bf49e4fe6fd0fd59c7f",
                             "title": "Prison Architect - Total Lockdown Bundle",
                             "slug": "/p/prison-architect--total-lockdown-bundle"
@@ -364,7 +364,7 @@
                     "customReleaseDate": "",
                     "platform": [
                         "Windows",
-                        "Mac OS"
+                        "macOS"
                     ]
                 },
                 "markdown": {
@@ -452,12 +452,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/prison-architect/total-lockdown-bundle",
+            "_urlPattern": "/pt-BR/productv2/prison-architect/total-lockdown-bundle",
             "_slug": "total-lockdown-bundle",
             "_activeDate": "2021-12-01T11:36:44.094Z",
-            "lastModified": "2022-01-19T17:15:34.657Z",
-            "_locale": "en-US",
-            "_id": "f235f0d6-91d8-47b7-9dc8-5cea23e75ff8",
+            "lastModified": "2021-12-02T00:46:28.809Z",
+            "_locale": "pt-BR",
+            "_id": "d90bf9c7-0aaa-4a53-981a-3c68652b9de0",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -485,8 +485,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Dutch, French, Korean, Polish, Portuguese - Brazil, Japanese, German, Russian, Spanish - Spain, Swedish, Turkish"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, holandês, francês, coreano, polonês, português (Brasil), japonês, alemão, russo, espanhol (Espanha), sueco, turco"
                     ],
                     "systems": [
                         {
@@ -495,64 +495,64 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 8"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher",
-                                    "recommended": "Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior",
+                                    "recommended": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "6 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
+                                    "title": "Armazenamento no Windows",
                                     "minimum": "400 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia 8600 / Radeon equivalent (2009 era)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 8600 / Radeon equivalente (de 2009)"
                                 }
                             ]
                         },
                         {
                             "_type": "Diesel System Detail",
-                            "systemType": "Mac OS",
+                            "systemType": "macOS",
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "10.11 (El Capitan)",
                                     "recommended": "10.11 (El Capitan)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2009 era Macbook Pro, Core2 Duo processor",
-                                    "recommended": "2009 era Macbook Pro, Core2 Duo processor"
+                                    "title": "Processador",
+                                    "minimum": "MacBook Pro (de 2009), processador Core 2 Duo",
+                                    "recommended": "MacBook Pro (de 2009), processador Core 2 Duo"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "6 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "400 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "ATI Radeon HD 4870"
                                 }
                             ]
@@ -571,20 +571,20 @@
                     "privacyPolicyLink": {
                         "src": "https://www.paradoxplaza.com/privacy-policy.html",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
                 "about": {
                     "image": {
-                        "src": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s2-1200x1600-497a6c6852eb.jpg",
+                        "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
                         "_type": "Diesel Image"
                     },
                     "developerAttribution": "Double Eleven",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Paradox Interactive",
-                    "description": "# Prison Architect - Total Lockdown Bundle\n\nBuild and manage a maximum security prison with a collection of downloadable content.\n\nGet everything you need to run a top-notch correctional facility. Immerse yourself in the prison life with the base game, the original soundtrack + digital artbook, and a collection of Prison Architect expansions.",
-                    "shortDescription": "Get everything you need to run a top-notch correctional facility. Immerse yourself in the prison life with the base game, the original soundtrack + digital artbook, and a collection of Prison Architect expansions.",
+                    "description": "# Prison Architect - Total Lockdown Bundle\n\nConstrua e gerencie uma prisão de segurança máxima com uma coleção de conteúdo disponível para download.\n\nObtenha tudo o que você precisa para administrar uma unidade correcional de primeira linha. Entre na vida prisional com o jogo base, a trilha sonora original + o livro de arte digital, e uma coleção de expansões do Prison Architect.",
+                    "shortDescription": "Obtenha tudo o que você precisa para administrar uma unidade correcional de primeira linha. Entre na vida prisional com o jogo base, a trilha sonora original + o livro de arte digital, e uma coleção de expansões do Prison Architect.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -678,10 +678,10 @@
                     "logo": {
                         "_type": "Epic Store Image"
                     },
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows",
-                        "Mac OS"
+                        "macOS"
                     ]
                 },
                 "markdown": {
@@ -732,6 +732,7 @@
             "tag": "edition",
             "type": "offer",
             "_images_": [
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
                 "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-ic1-200x200-6ab0df7b72c2.png",
                 "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s2-1200x1600-497a6c6852eb.jpg",
                 "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-00-1920x1080-2795545ea417.jpg",

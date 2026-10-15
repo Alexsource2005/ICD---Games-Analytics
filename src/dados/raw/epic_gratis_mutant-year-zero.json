@@ -22,12 +22,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/mutant-year-zero",
+    "_urlPattern": "/pt-BR/productv2/mutant-year-zero",
     "_slug": "mutant-year-zero",
     "_activeDate": "2019-08-08T14:55:00.000Z",
-    "lastModified": "2019-08-08T14:46:59.447Z",
-    "_locale": "en-US",
-    "_id": "0c71b347-2bd6-4d19-8d66-15e1b2eb9167",
+    "lastModified": "2019-08-15T19:50:03.118Z",
+    "_locale": "pt-BR",
+    "_id": "0ec42ef0-c5f7-4cd8-b0f7-276eaeea9202",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -54,12 +54,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mutant-year-zero/dlc-1",
+            "_urlPattern": "/pt-BR/productv2/mutant-year-zero/dlc-1",
             "_slug": "dlc-1",
             "_activeDate": "2019-08-08T14:19:11.634Z",
-            "lastModified": "2019-08-16T21:08:00.542Z",
-            "_locale": "en-US",
-            "_id": "55297d5a-4123-4f9e-8ff8-7b02342a8a27",
+            "lastModified": "2019-08-15T19:50:03.572Z",
+            "_locale": "pt-BR",
+            "_id": "9baec49f-bd3c-456b-bd2d-7c9a0562bb19",
             "_templateName": "productDetail",
             "offer": {
                 "_type": "Diesel Offer",
@@ -90,7 +90,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "English, Spanish, French, Italian, German, Simplified Chinese, Polish, Brazilian, Portuguese, Russian"
+                        "Inglês, espanhol, francês, italiano, alemão, chinês simplificado, polonês, português brasileiro, russo"
                     ],
                     "systems": [
                         {
@@ -99,33 +99,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 Bit/ Windows 8 64 Bit/ Windows 10 64 Bit"
+                                    "title": "SO",
+                                    "minimum": "Windows 7 64 Bit, Windows 8 64 Bit, Windows 10 64 Bit"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5-760 / AMD Phenom II X4 965"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5-760/AMD Phenom II X4 965"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "6 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "6 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVidia GTX 580 / AMD Radeon HD 7870"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVidia GTX 580/AMD Radeon HD 7870"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "Direct X",
-                                    "minimum": "Version 11"
+                                    "minimum": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível"
                                 }
                             ]
                         }
@@ -136,7 +136,7 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmutant-year-zero%2Fhome%2FESRB_MutantYearZero_M-842x404-3969300c819176e54bebbb0f9e475e9a0cf6e7f7.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "MATURE 17+"
+                            "title": "Para maiores de 17 anos"
                         },
                         {
                             "visibility": "visibleToSpecific",
@@ -160,11 +160,11 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2018 \"Mutant: Year Zero” is a registered trademark of Game Ark, LLC. Related logos, characters, names, and distinctive likenesses thereof are trademarks or registered trademarks of Game Ark, LLC. Funcom® and Bearded Ladies™ are authorized users. © 2018 Funcom Oslo A/S. All rights reserved. Funcom® is a registered trademark of Funcom Oslo A/S.",
+                    "copy": "© 2018 \"Mutant: Year Zero\" é uma marca registrada da Game Ark, LLC. Logotipos relacionados, personagens, nomes e semelhanças reconhecíveis são marcas comerciais ou marcas registradas da Game Ark, LLC. Funcom® e Bearded Ladies™ são usuários autorizados. © 2018 Funcom Oslo A/S. Todos os direitos reservados. Funcom® é uma marca registrada da Funcom Oslo A/S.",
                     "privacyPolicyLink": {
                         "src": "https://www.funcom.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Funcom Privacy Policy"
+                        "title": "Política de Privacidade da Funcom"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -175,8 +175,8 @@
                     "developerAttribution": "The Bearded Ladies",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Funcom",
-                    "description": "Seed of Evil is an expansion to the award-winning tactical adventure game Mutant Year Zero: Road to Eden picking up where the original game ended and offering hours of more game play, new locations to visit, and a new leading character!\n\nContinue the main story and explore many hours of all new content. Expand your team with the veteran stalker Big Khan the moose and get ready to defeat a new threat to Dux, Bormin, Selma and all the others.\n\nIn Seed of Evil you must solve the mystery of the powerful and ominous roots which have taken over the Ark. Discover huge new maps, battle new enemies, improve your mutations, get your hands on all new gear, defeat foes trying to take back lost ground and face off against a vicious new adversary.\n\nTo play Seed of Evil it is highly recommended to have finished the main story in Mutant Year Zero: Road to Eden, because of story spoilers and the level range of the new content.\n\n# Continue the main story\nSee what happens after the ending of Mutant Year Zero: Road to Eden. Continue into a new future for Bormin, Dux, Pripp and all the others at the Ark. How will they deal with what they have learned?\n\n# New mutant: Big Khan\nYou can now add Big Kahn the moose to your squad of mutants. He is a veteran stalker who has been exploring the Zone alone. He is not only skilled at doing critical hits but also has the unique mutations Ground Pound and Flame Puke, which make him excellent at dealing with groups of enemies.\n\n# Face a new threat\nThe Ark has suddenly become enveloped in mysterious roots and many of its inhabitants do not seem to be their normal selves. Even the Zone Ghouls appear to have been taken over by this new menace and it is up to your team of stalkers to set things right!\n\n# Hours of new content\nTake on new enemies in places like the Hall of Electric Coffins and Mausoleum of Suburbia. The new story in Seed of Evil offers a host of new challenges and brutal fights. Get ready to rethink your tactics as you face off against brand new enemies.\n\n# Improve your mutations\nUpgrade Bormin’s Hog Rush to Bear Smash for increased power and Corpse Eater to Corpse Feaster so that regaining lost HP no longer costs an action. Upgrade Dux’s Moth Wings to Wings of the Sniper which removes all range penalties.\n\n# Retake lost territory\nRevisit places like the Spear of Heavens or Sea Titans as Zone Ghouls and police bots once again encroach upon places you have already cleared. This time they are stronger than ever!",
-                    "shortDescription": "Continue Mutant Year Zero: Road to Eden’s main story and explore many hours of all new gameplay. Expand your team with the veteran stalker Big Khan the moose and get ready to defeat a new threat to Dux, Bormin and all the others from the Ark.",
+                    "description": "Seed of Evil é a expansão do premiado jogo de aventura tática Mutant Year Zero: Road to Eden. A história continua logo após o fim do jogo original e apresenta horas de aventuras, novos locais para desbravar e um novo protagonista.\n\nContinue a história principal e explore muitas horas de novidades. Amplie sua equipe com o patrulheiro veterano Big Khan, o alce, e se prepare para vencer uma nova ameaça com Dux, Bormin, Selma e companhia.\n\nEm Seed of Evil, você resolverá o mistério das poderosas e sinistras raízes que dominaram a Arca. Descubra mapas novos e grandes, lute contra inimigos inéditos, aprimore suas mutações, adquira equipamentos diferentes, derrote aqueles que tentam recuperar o território perdido e enfrente um adversário novo e brutal.\n\nPara jogar Seed of Evil, recomendamos que termine a história principal de Mutant Year Zero: Road to Eden, pois o conteúdo novo contém spoilers e pressupõe níveis mais avançados.\n\n# Continue a história principal\nVeja o que aconteceu após o final de Mutant Year Zero: Road to Eden. Continue em um novo futuro com Bormin, Dux, Pripp e todos os demais da Arca. Como eles vão lidar com tudo o que descobriram?\n\n# Novo mutante: Big Khan\nAgora você pode acrescentar o alce Big Khan à sua seleção de mutantes. Ele é um patrulheiro veterano que explora a Zona sozinho há tempos. Além de ser excelente com acertos críticos, ele possui as mutações exclusivas Bate-estaca e Bílis Flamejante, que são ótimas contra inimigos agrupados.\n\n# Encare uma nova ameaça\nA Arca foi tomada por raízes misteriosas repentinamente, e muitos de seus habitantes estão agindo de maneira estranha. Até as Aberrações foram dominadas por esta nova ameaça, e cabe à sua equipe de patrulheiros resolver tudo.\n\n# Horas de conteúdo inédito\nEnfrente inimigos novos em lugares como o Salão dos Ataúdes Elétricos e o Mausoléu Periférico. A história de Seed of Evil apresenta novos desafios e combates viscerais. Prepare-se para repensar suas táticas, pois você lutará contra inimigos inéditos.\n\n# Aprimore suas mutações\nTransforme o Segura esse Porco! de Bormin em Esmagadura para ganhar mais poder, e Papa-defunto em Devora-defunto para recuperar os PV sem perder sua ação. Ao evoluir as Asas Lepidópteras de Dux para Asas Telescópicas, as penalidades de alcance serão eliminadas.\n\n# Recupere territórios perdidos\nRevisite lugares como a Lança Celestial ou os Titãs dos Mares, pois as Aberrações e os robôs policiais estão invadindo territórios que já eram seus. Desta vez, eles voltaram mais fortes do que nunca!",
+                    "shortDescription": "Continue a história principal de Mutant Year Zero: Road to Eden e explore muitas horas de novidades. Amplie sua equipe com o patrulheiro veterano Big Khan, o alce, e se prepare para vencer uma nova ameaça com Dux, Bormin e todos da Arca.",
                     "title": "Mutant Year Zero: Seed of Evil - DLC",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -360,12 +360,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mutant-year-zero/home",
+            "_urlPattern": "/pt-BR/productv2/mutant-year-zero/home",
             "_slug": "home",
             "_activeDate": "2019-08-08T14:55:00.000Z",
-            "lastModified": "2019-08-16T21:06:20.513Z",
-            "_locale": "en-US",
-            "_id": "f79e1ea6-0680-461d-9137-cdd8bdc93d5f",
+            "lastModified": "2019-08-15T19:50:03.271Z",
+            "_locale": "pt-BR",
+            "_id": "c4c98cd4-b051-4426-a385-87e2abc59be0",
             "_templateName": "productDetail",
             "offer": {
                 "_type": "Diesel Offer",
@@ -395,7 +395,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "English, Spanish, French, Italian, German, Simplified Chinese, Polish, Brazilian, Portuguese, Russian"
+                        "Inglês, espanhol, francês, italiano, alemão, chinês simplificado, polonês, português brasileiro, russo"
                     ],
                     "systems": [
                         {
@@ -404,33 +404,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 Bit/ Windows 8 64 Bit/ Windows 10 64 Bit"
+                                    "title": "SO",
+                                    "minimum": "Windows 7 64 Bit, Windows 8 64 Bit, Windows 10 64 Bit"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5-760 / AMD Phenom II X4 965"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5-760/AMD Phenom II X4 965"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "6 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "6 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVidia GTX 580 / AMD Radeon HD 7870"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVidia GTX 580/AMD Radeon HD 7870"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "Direct X",
-                                    "minimum": "Version 11"
+                                    "minimum": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível"
                                 }
                             ]
                         }
@@ -448,7 +448,7 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmutant-year-zero%2Fhome%2FESRB_MutantYearZero_M-842x404-3969300c819176e54bebbb0f9e475e9a0cf6e7f7.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "MATURE 17+"
+                            "title": "Para maiores de 17 anos"
                         },
                         {
                             "visibility": "visibleToSpecific",
@@ -472,11 +472,11 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2018 \"Mutant: Year Zero” is a registered trademark of Game Ark, LLC. Related logos, characters, names, and distinctive likenesses thereof are trademarks or registered trademarks of Game Ark, LLC. Funcom® and Bearded Ladies™ are authorized users. © 2018 Funcom Oslo A/S. All rights reserved. Funcom® is a registered trademark of Funcom Oslo A/S.",
+                    "copy": "© 2018 \"Mutant: Year Zero\" é uma marca registrada da Game Ark, LLC. Logotipos relacionados, personagens, nomes e semelhanças reconhecíveis são marcas comerciais ou marcas registradas da Game Ark, LLC. Funcom® e Bearded Ladies™ são usuários autorizados. © 2018 Funcom Oslo A/S. Todos os direitos reservados. Funcom® é uma marca registrada da Funcom Oslo A/S.",
                     "privacyPolicyLink": {
                         "src": "https://www.funcom.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Funcom Privacy Policy"
+                        "title": "Política de Privacidade da Funcom"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -487,9 +487,9 @@
                     "developerAttribution": "The Bearded Ladies",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Funcom",
-                    "description": "From a team including former designers of HITMAN and PAYDAY comes Mutant Year Zero: Road to Eden, a tactical game that combines the turn-based combat of XCOM with real-time stealth and exploration of a post-human world reclaimed by nature... and Mutants.\n\nOf course the world ends.\n\nNow it’s over and the Earth is still. Nature has invaded ruined cities. Wind sweeps through empty streets, turned into graveyards.\n\nThe humans are all gone. Scavenging through the remains ofcivilization are the Mutants, deformed humanoids and animals alike, searching for salvation or just something to eat. To survive, you and your companions must venture out to explore the Zone.\n\nThen again, maybe it’s all bullshit.\n\n\n\n![Mutant Year Zero Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmutant-year-zero%2Fhome%2FEGS_THEBEARDEDLADIES_MUTANTYEARZERO_CAROUSEL_1-1920x1080-ec9f4aaac522c7e8770ff55a86bd3af19a4b8563.jpg)\n\n# TACTICAL COMBAT\n\nMutant Year Zero: Road to Eden is the ultimate fix for your tactical strategy addiction. Dive into a deep, turn-based, tactical combat system inspired by the XCOM games.\n\n# EXPLORE A POST-HUMAN EARTH\n\nJourney through a post-human world of abandoned cities, crumbling highways, and overgrown countryside. Check back at the Ark, a neon-bathed oasisof ill repute and questionable characters, to restock your supplies and plan out your next adventure.\n\n# CONTROL A TEAM OF MUTANTS\n\nA duck with an attitude problem and a boar with anger issues; these aren’t your typical heroes. Get to know Dux, Bormin, Selma, and many other characters each with their own unique personality and deranged perspective on the world and their situation.\n\n# MASTER THE STEALTHY APPROACH\n\nSneak through shadows to avoid conflict or to catch enemies unaware. Real-time stealth allows you full control of approach: sneak into an enemy camp, position the team of Mutants to your advantage, and gain the element of surprise.\n\n# UNLOCK MUTATIONS\n\nUnlock new mutations and abilities for your Mutants, such as Selma’s grasping vines, Bormin’s Charge, and Dux‘ uncanny ability to sneak into a camp full of enemies unnoticed, despite being a 4-foot tall walking, talking duck with a crossbow.\n\n# DYNAMIC ENVIRONMENT\n\nUse the environment to your advantage. Stay out of floodlights, hide from line of sight, or just blast down fully destructible walls and buildings and wreak utter havoc.\n\n# LOOT, LOOT EVERYWHERE\n\nFrom makeshift slingshots to high-powered rifles and top hats to police vests, make sure you equip your Mutants for the dangers ahead. Nothing says post-human quite like a mutated boar in spiked metal armor charging at you with a blunderbuss in his hands.",
-                    "shortDescription": "Mankind has been eradicated by climate change, nuclear war, and pandemics. Will your team of mutants survive the Zone?  Mutant Year Zero: Road to Eden is a tactical adventure game combining turn-based combat with real-time exploration, story, stealth, and strategy.",
-                    "title": "EXPLORE A POST-HUMAN EARTH",
+                    "description": "Produzido por uma equipe com antigos designers de HITMAN e PAYDAY, chega Mutant Year Zero: Road to Eden, um jogo tático que combina o combate baseado em turnos do XCOM com a furtividade em tempo real e a exploração de um mundo pós-humano reivindicado pela natureza... e Mutantes.\n\nÉ claro que o mundo acaba.\n\nAgora acabou, e a Terra está silenciosa. A natureza invadiu cidades arruinadas. O vento sopra pelas ruas vazias, transformadas em cemitérios.\n\nTodos os humanos desapareceram. Vasculhando pelos restos da civilização, há os Mutantes, humanoides deformados e animais, buscando a salvação ou apenas algo para comer. Para sobreviver, você e seus companheiros precisam se aventurar para explorar a Zona.\n\nEntão, talvez seja tudo besteira mais uma vez.\n\n\n\n! [Mutant Year Zero Image] (https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmutant-year-zero%2Fhome%2FEGS_THEBEARDEDLADIES_MUTANTYEARZERO_CAROUSEL_1-1920x1080-ec9f4aaac522c7e8770ff55a86bd3af19a4b8563.jpg)\n\n# COMBATE TÁTICO\n\nMutant Year Zero: Road to Eden é a solução definitiva para o seu vício em jogos táticos de estratégia. Mergulhe em um sistema complexo de combate tático baseado em turnos que foi inspirado nos jogos da série XCOM.\n\n# EXPLORE UMA TERRA PÓS-HUMANA\n\nViaje através de um mundo pós-humano com cidades abandonadas, estradas em ruínas e campos cobertos de vegetação. Volte para a Ark, um oásis de reputação duvidosa repleto de neon e personagens suspeitos, para reabastecer seus suprimentos e planejar sua próxima aventura.\n\n# CONTROLE UM GRUPO DE MUTANTES\n\nUm pato com um problema de comportamento e um javali com problemas de raiva. Esses não são heróis normais. Conheça Dux, Bormin, Selma e muitos outros personagens, cada um com sua própria personalidade e uma opinião distorcida sobre o mundo e sua situação.\n\n# DOMINE A ABORDAGEM FURTIVA\n\nEsgueire-se pelas sombras para evitar conflitos ou para capturar inimigos desatentos. A furtividade em tempo real permite o controle total da sua forma de abordar os desafios: esgueire-se em um acampamento inimigo, posicione o grupo de Mutantes a seu favor e ganhe o elemento surpresa.\n\n# DESBLOQUEIE MUTAÇÕES\n\nDesbloqueie novas mutações e habilidades para seus Mutantes, como a videira viva de Selma, a Investida de Bormin e a incrível habilidade de Dux de invadir um campo cheio de inimigos sem ser notado, apesar de ser um pato falante com quase um metro de altura armado com uma balestra.\n\n# AMBIENTE DINÂMICO\n\nUse o ambiente a seu favor. Fique longe da luz, esconda-se da linha de visão ou simplesmente destrua paredes e prédios totalmente destrutíveis e cause o caos total.\n\n# SAQUES: SAQUEIE TODOS OS LUGARES\n\nDe estilingues improvisados a rifles de alta potência, de cartolas a coletes da polícia, equipe seus Mutantes para enfrentar os perigos que estão por vir. Nada é tão pós-humano como um javali mutante usando uma armadura de metal com espinhos e carregando um bacamarte.",
+                    "shortDescription": "A humanidade foi erradicada por mudanças climáticas, guerra nuclear e pandemias. Será que sua equipe de mutantes sobreviverá à Zona?  Mutant Year Zero: Road to Eden é um jogo de aventura tático que combina combate baseado em turnos com exploração, história, furtividade e estratégia em tempo real.",
+                    "title": "EXPLORE UMA TERRA PÓS-HUMANA",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -527,23 +527,6 @@
                 "carousel": {
                     "_type": "Diesel Carousel",
                     "items": [
-                        {
-                            "image": {
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"e7680f55d3fd4e3eb48256906d5680f9\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"24472e701ff546489c83c1e4df7d209d\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"b0a2b555d2294b63abd10521fa327fa2\"\n        }\n    ]\n}",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": true,
-                                "title": "Mutant Year Zero Trailer",
-                                "type": "epicHosted",
-                                "muted": false,
-                                "autoplay": true
-                            }
-                        },
                         {
                             "image": {
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmutant-year-zero%2Fhome%2FEGS_FUNCOM_MUTANTYEARZEROROADTOEDEN_N2_MAINKEYART-2000x1125-3d1ce59ba270f9696b2ec971dd9335407cd11a87.jpg",
@@ -628,7 +611,7 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "4756b80eb0f74d45b77922e54052cfed",
-                            "description": "Continue Mutant Year Zero: Road to Eden’s main story and explore many hours of all new gameplay. Expand your team with the veteran stalker Big Khan the moose and get ready to defeat a new threat to Dux, Bormin and all the others from the Ark.  Seed of Evil offers a ton of new content, where you can take on huge new maps and face off against a vicious new foe.",
+                            "description": "Continue a história principal de Mutant Year Zero: Road to Eden e explore muitas horas de novidades. Amplie sua equipe com o patrulheiro veterano Big Khan, o alce, e se prepare para vencer uma nova ameaça com Dux, Bormin e todos da Arca.  Seed of Evil apresenta conteúdo extra: você visitará mapas enormes e enfrentará um inimigo novo e brutal.",
                             "offerId": "ce72743eaedd40859b8af4122f096a73",
                             "tag": "dlc",
                             "title": "Seed of Evil",

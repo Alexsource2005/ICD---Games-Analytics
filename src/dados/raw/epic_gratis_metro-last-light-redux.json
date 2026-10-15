@@ -94,12 +94,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/metro-last-light-redux",
+    "_urlPattern": "/pt-BR/productv2/metro-last-light-redux",
     "_slug": "metro-last-light-redux",
     "_activeDate": "2019-02-24T03:16:58.077Z",
-    "lastModified": "2021-02-11T17:59:37.111Z",
-    "_locale": "en-US",
-    "_id": "4da4ce1e-083a-4b33-82f5-247d2848820e",
+    "lastModified": "2021-02-11T18:01:55.585Z",
+    "_locale": "pt-BR",
+    "_id": "25874c44-4f39-4a70-8461-d73f0aec782d",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -206,12 +206,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/metro-last-light-redux/home",
+            "_urlPattern": "/pt-BR/productv2/metro-last-light-redux/home",
             "_slug": "home",
             "_activeDate": "2019-02-24T03:21:23.031Z",
-            "lastModified": "2022-11-21T18:47:32.954Z",
-            "_locale": "en-US",
-            "_id": "bc659e54-e17a-4d57-9836-51ce6001a922",
+            "lastModified": "2021-02-11T17:55:50.101Z",
+            "_locale": "pt-BR",
+            "_id": "3df1648c-06d1-4de9-aa8a-0ce8281f25aa",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -240,19 +240,18 @@
                     "linkYoutube": "http://youtube.com/MetroVideoGame",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "http://discord.gg/metrovideogame",
-                    "title": "Follow Metro Last Light",
+                    "title": "Siga Metro Last Light",
                     "linkHomepage": "http://www.metrothegame.com/",
                     "linkInstagram": "http://instagram.com/MetroVideoGame"
                 },
                 "requirements": {
                     "languages": [
-                        "English",
-                        "French",
-                        "Italian",
-                        "German",
-                        "Spanish",
-                        "Russian",
-                        "Ukrainian"
+                        "Inglês",
+                        "Francês",
+                        "Italiano",
+                        "Alemão",
+                        "Espanhol",
+                        "Russo"
                     ],
                     "systems": [
                         {
@@ -261,45 +260,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows Vista, 7 or 8 (64-bit only)",
-                                    "recommended": "Windows 7 or 8 (64-bit only)"
+                                    "title": "SO",
+                                    "minimum": "Windows Vista, 7 ou 8 (apenas 64-bit)",
+                                    "recommended": "Windows 7 ou 8 (apenas 64-bit)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Dual Core CPU (2.2+ GHz Dual Core CPU or better)",
-                                    "recommended": "Any Quad Core or 3.0+ GHz Dual Core CPU"
+                                    "title": "Processador",
+                                    "minimum": "Dual Core CPU (2.2+ GHz Dual Core CPU or superior)",
+                                    "recommended": "Qualquer Quad Core ou 3.0+ GHz Dual Core CPU"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DirectX 10, Shader Model 4 compliant graphics cards (GeForce 8800 GT 512 MB, GeForce GTS 250, etc)",
-                                    "recommended": "DirectX 11 compliant graphics card (GeForce GTX 480 and above)"
+                                    "title": "Placa de Vídeo:",
+                                    "minimum": "DirectX 10, placas de vídeo compatíveis com Shader Model (GeForce 8800 GT 512 MB, GeForce GTS 250, etc)",
+                                    "recommended": "Placa de vídeo compatível com o DirectX 11 (GeForce GTX 480 e superiores)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "DirectX",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 11"
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "10 GB available space",
-                                    "recommended": "10 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "10 GB de espaço disponível",
+                                    "recommended": "10 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Additional Notes",
-                                    "minimum": "64-bit only",
-                                    "recommended": "64-bit only"
+                                    "title": "Observações adicionais",
+                                    "minimum": "Apenas 64-bit",
+                                    "recommended": "Apenas 64-bit"
                                 }
                             ]
                         }
@@ -325,7 +324,7 @@
                     "developerAttribution": "4A Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Deep Silver",
-                    "description": "It is the year 2034.\n\nBeneath the ruins of post-apocalyptic Moscow, in the tunnels of the Metro, the remnants of mankind are besieged by deadly threats from outside... and within.\n\nMutants stalk the catacombs beneath the desolate surface and hunt amidst the poisoned skies above.\n\nBut rather than stand united, the station-cities of the Metro are locked in a struggle for the ultimate power, a doomsday device from the military vaults of D6. A civil war is stirring that could wipe humanity from the face of the earth forever.\n\nAs Artyom, burdened by guilt but driven by hope, you hold the key to our survival – the last light in our darkest hour...\n\n• Immerse yourself in the Moscow Metro – witness one of the most atmospheric worlds in gaming brought to life with stunning next-gen visuals at 60FPS\n\n• Brave the horrors of the Russian apocalypse – equip your gasmask and an arsenal of hand-made weaponry as you face the threat of deadly mutants, human foes, and the terrifying environment itself \n\n• Rebuilt and Remastered for next gen – with all previous downloadable content content included, new modes and features, and many gameplay improvement, this is the definitive version of the critically acclaimed classic that fans and newcomers alike will enjoy\n\n• Two unique Play Styles : ‘Spartan’ and ‘Survival’ – approach the campaign as a slow burn Survival Horror , or tackle it with the combat skills of a Spartan Ranger in these two unique modes \n\n• The legendary Ranger Mode returns – dare you play the fearsome Ranger Mode? No HUD, UI, deadlier combat and  limited resources combine to create the ultimate immersive experience",
+                    "description": "Estamos no ano de 2034.\n\nAbaixo das ruínas da Moscou pós-apocalíptica, nos túneis de Metrô, o que sobrou da humanidade está cercado por ameaças externas... e internas também.\n\nMutantes vagam pelas catacumbas abaixo da superfície assolada e caçam sob os céus envenenados.\n\nMas, em vez de continuar unidas, as cidades-estação de Metro estão presas em uma luta pelo poder máximo, um dispositivo apocalíptico dos cofres militares de D6. Uma guerra civil que pode varrer a humanidade da face da terra para sempre.\n\nComo Artyorn, castigado pela culpa mas motivado pela esperança, você tem a chave para a sobrevivência: a última luz na hora mais escura...\n\n• Mergulhe de cabeça no Metrô de Moscou: testemunhe um dos mundos mais atmosféricos, trazido à vida com visuais de última geração em 60FPS\n\n• Encare os horrores do apocalipse russo: equipe sua máscara de gás e um arsenal de armamento feito à mão enquanto enfrenta as ameaças de mutantes letais, inimigos humanos e do próprio ambiente aterrorizador \n\n• Reconstruído e remasterizado para a próxima geração: com os conteúdos anteriores para download, novos modos e recursos e muitas melhorias de jogabilidade, esta é a versão definitiva do aclamado clássico que os fãs e principiantes vão adorar na mesma medida\n\n• Dois Estilos de Jogos únicos: \"Espartano\" e \"Sobrevivência\": desenvolva a campanha como um Horror de Sobrevivência em marcha lenta, ou encare usando suas habilidades de Patrulheiro Espartano nestes dois modos únicos \n\n• A volta do lendário Modo Patrulheiro: você ousa jogar nesse modo assustador? Sem um visor de navegação, a interface, o combate mais mortífero e os recursos limitados se combinam para criar a versão de imersão máxima",
                     "title": "Metro Last Light Redux",
                     "developerLogo": {
                         "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmetro-last-light-redux%2Fhome%2F4A-deepSilver_dark-957x445-8947cf16d89c9bad9d72bb226c314ef3836cf6d4.png",

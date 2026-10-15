@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from epicstore_api import EpicGamesStoreAPI
 import requests
 
-api = EpicGamesStoreAPI()
+api = EpicGamesStoreAPI(country="BR", locale="pt-BR")
 
 os.makedirs("dados/raw", exist_ok=True)
 

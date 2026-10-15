@@ -28,12 +28,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/hogwarts-legacy",
+    "_urlPattern": "/pt-BR/productv2/hogwarts-legacy",
     "_slug": "hogwarts-legacy",
     "_activeDate": "2022-06-23T18:49:17.574Z",
-    "lastModified": "2023-02-10T18:00:32.934Z",
-    "_locale": "en-US",
-    "_id": "4227c518-6955-4ae5-9ec9-4d78211d3b27",
+    "lastModified": "2022-06-23T18:51:15.122Z",
+    "_locale": "pt-BR",
+    "_id": "42bea261-223b-4183-8ff6-76b90c5fb0d9",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -66,17 +66,16 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/hogwarts-legacy/home",
+            "_urlPattern": "/pt-BR/productv2/hogwarts-legacy/home",
             "_slug": "home",
             "_activeDate": "2022-06-23T18:51:24.388Z",
-            "lastModified": "2026-05-15T14:02:37.340Z",
-            "_locale": "en-US",
-            "_id": "a3abc4df-11d9-4129-bcf9-0d06dca912fa",
+            "lastModified": "2022-08-30T17:11:43.793Z",
+            "_locale": "pt-BR",
+            "_id": "c7574555-c2d6-406b-8dec-226d0badf65a",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
                     "_type": "Store Region Filtering",
-                    "filterType": "BLACKLIST",
                     "appliedCountries": "RU, BY"
                 },
                 "_type": "Diesel Offer",
@@ -94,13 +93,13 @@
                 },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
-                    "title": "Follow Hogwarts Legacy",
-                    "linkHomepage": "https://www.hogwartslegacy.com"
+                    "title": "Siga Hogwarts Legacy",
+                    "linkHomepage": "https://www.hogwartslegacy.com/pt-br"
                 },
                 "requirements": {
                     "languages": [
-                        "TEXT: English, Italian, Spanish - Spain, Spanish - Latin America, Arabic, Japanese, Portuguese - Brazil, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Polish, Russian",
-                        "AUDIO: English, Italian, Spanish - Spain, Spanish - Latin America, Japanese, Portuguese - Brazil, French, German"
+                        "TEXTO: inglês, italiano, espanhol (Espanha), espanhol (América Latina), árabe, japonês, português (Brasil), chinês simplificado, chinês tradicional, francês, alemão, coreano, polonês, russo",
+                        "ÁUDIO: inglês, italiano, espanhol (Espanha), espanhol (América Latina), japonês, português (Brasil), francês, alemão"
                     ],
                     "systems": [
                         {
@@ -109,45 +108,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 10",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5-8400 OR AMD Ryzen 5 2600",
-                                    "recommended": "Intel Core i7-8700 OR AMD Ryzen 5 3600"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+                                    "recommended": "Intel Core i7-8700 ou AMD Ryzen 5 3600"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "16 GB",
                                     "recommended": "16 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "85 GB",
                                     "recommended": "85 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "DX 12",
                                     "recommended": "DX 12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 1070 or AMD RX Vega 56",
-                                    "recommended": "NVIDIA GeForce 1080 Ti or AMD RX 5700 XT"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 1070 ou AMD RX VEGA 56",
+                                    "recommended": "NVIDIA GeForce 1080 Ti ou AMD RX 5700 XT"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "SDD(Preferred), HDD (Supported), 1080p/60 fps, Low Quality Settings, Upscale Performance Setting",
-                                    "recommended": "SSD, 1080p/60 fps, High Quality Settings, Upscale Quality Setting"
+                                    "title": "Outros",
+                                    "minimum": "SDD (preferido), HDD (compatível), 1080p/60 fps, configurações de baixa qualidade, configuração de desempenho de alto nível",
+                                    "recommended": "SSD, 1080p/60 fps, configurações de alta qualidade, configuração de qualidade de alto nível"
                                 }
                             ]
                         }
@@ -165,7 +164,7 @@
                     "privacyPolicyLink": {
                         "src": "https://policies.warnerbros.com/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Warner Bros. Games Privacy Policy"
+                        "title": "Política de privacidade da Warner Bros. Games"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -177,8 +176,8 @@
                     "developerAttribution": "Avalanche Software",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Warner Bros. Games",
-                    "description": "Hogwarts Legacy is an open-world action RPG set in the world first introduced in the Harry Potter books. Embark on a journey through familiar and new locations as you explore and discover magical beasts, customize your character and craft potions, master spell casting, upgrade talents and become the wizard you want to be.\n\nExperience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. Make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten.\n\nIncludes Haunted Hogsmeade Shop Quest which grants access to an additional dungeon, Shopkeeper’s Cosmetic Set, and in-game Hogsmeade shop.\n\nNew Features Include:\n- Photo Mode\n- Talent Resets \n\nNew cosmetic items now available to all players: The Glasses That Lived, Azkaban Prisoner Uniform and Coat, Onyx Hippogriff Mount, Felix Felicis Potion Recipe, Dark Wizard Brooms (2)",
-                    "shortDescription": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+                    "description": "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto ambientado no mundo introduzido pela primeira vez nos livros do Harry Potter. Embarque em uma jornada por locais novos e familiares enquanto explora e descobre animais fantásticos, personalize seu personagem e crie poções, domine o lançamento de feitiços, aprimore talentos e torne\\-se o bruxo que deseja ser.\n\nExperimente Hogwarts da década de 1800\\. Seu personagem é um estudante com a chave de um antigo segredo que ameaça destruir o mundo bruxo. Faça aliados, lute contra os bruxos das trevas e, finalmente, decida o destino do mundo bruxo. Seu legado é o que você faz dele. Viva o Inesperado.\n\nInclui a missão da Loja Assombrada de Hogsmeade, que concede acesso a uma masmorra adicional, Conjunto de Cosméticos do Lojista e uma loja de Hogsmeade no jogo.\n\nNovos recursos incluem:\n\n* Modo Fotografia\n* Redefinir Talentos\n\nNovos itens cosméticos agora disponíveis para todos os jogadores: Os Óculos que Sobreviveram, Uniforme e Casaco do Prisioneiro de Azkaban, Hipogrifo Ônix de Montaria, Receita da Poção Felix Felicis, Vassouras do Bruxo das Trevas \\(2\\)\n\n",
+                    "shortDescription": "Hogwarts Legacy é um RPG de ação imersivo de mundo aberto. Agora você pode assumir o controle da ação e estar no centro de sua própria aventura no mundo bruxo.",
                     "title": "Hogwarts Legacy",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -239,7 +238,9 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/3a0abb397e2c4ab4b19eb4601dc5c941/3a0abb397e2c4ab4b19eb4601dc5c941.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-00-1920x1080-3f98e9656ef5.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"c0b1e7b8c5654756a052c3daa679cfcd\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/481bd2b9ab1446cb91890f57e5334a0f/481bd2b9ab1446cb91890f57e5334a0f.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-00-1920x1080-3f98e9656ef5.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"d087fd159cf74bc296d952122a376f86\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/adeac5ccf6c9493b86b9a22fa69aa901/adeac5ccf6c9493b86b9a22fa69aa901.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-00-1920x1080-3f98e9656ef5.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5583101b3ce04dc8b4435db5736ee61e\"\n    }\n  ]\n}",
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7ffbc35e7aa0454bb2aa0f4be910a75a/7ffbc35e7aa0454bb2aa0f4be910a75a.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-e9ea150bf39d.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2f0e03eafe904e4c804e9b393ce55317\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/6c5459b7ca8f4971811e6171ecdd0021/6c5459b7ca8f4971811e6171ecdd0021.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-e9ea150bf39d.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5f5822b639c74f9a82542d077718952b\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/620b2f97ba5544aa8aaf8af5cf7fe3ca/620b2f97ba5544aa8aaf8af5cf7fe3ca.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-e9ea150bf39d.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"f6bc4d01a045466a9a9a9e7d30890371\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -255,7 +256,9 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/fc92fc8df4e74233aad86cf7455b5e73/fc92fc8df4e74233aad86cf7455b5e73.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-01-1920x1080-5d3335652e7c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"3e5a03f3b556443691a023dcde15622c\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/15424d285a6448e2b8e6fece9e841c8e/15424d285a6448e2b8e6fece9e841c8e.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-01-1920x1080-5d3335652e7c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"7869b2104ab34f9abe1c9cac454d49f4\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/2b17cc3bd90145fbaff4507fb2753304/2b17cc3bd90145fbaff4507fb2753304.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-01-1920x1080-5d3335652e7c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"26cfa75d7ad54d11b216f4d541951935\"\n    }\n  ]\n}",
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/722ca037319544f9a3fb4072f924bd27/722ca037319544f9a3fb4072f924bd27.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-01-1920x1080-d60441bfc49e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"77eb6888b2a44a4e9175e49fb4641424\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/a2526615146a44e38b5fc3ea98549a77/a2526615146a44e38b5fc3ea98549a77.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-01-1920x1080-d60441bfc49e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"8af0f02d05db4429b51d3a85642c2409\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8ffd36127a734af0ae4c7dde5038bf32/8ffd36127a734af0ae4c7dde5038bf32.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-01-1920x1080-d60441bfc49e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"a2a65a4cb33b487ba466aa341cfd4865\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -339,11 +342,68 @@
                                 "muted": false,
                                 "autoplay": false
                             }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-inferi-1920x1080-1920x1080-fa0ae789d72f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-sebastian-1920x1080-1920x1080-113fd10bfba5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-spell-1920x1080-1920x1080-4e11140140b7.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-spidercombat-1920x1080-1920x1080-9c4a42fda584.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
                         }
                     ]
-                },
-                "experiences": {
-                    "_type": "Epic Store Experience"
                 },
                 "editions": {
                     "editions": [
@@ -357,7 +417,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "e97659b501af4e3981d5430dad170911",
-                            "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+                            "description": "Hogwarts Legacy é um RPG de ação imersivo de mundo aberto. Agora você pode assumir o controle da ação e estar no centro de sua própria aventura no mundo bruxo.",
                             "offerId": "a31950aa730b4ae391e42a1c3f26b839",
                             "title": "Hogwarts Legacy",
                             "slug": "p/hogwarts-legacy"
@@ -372,9 +432,9 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "e97659b501af4e3981d5430dad170911",
-                            "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+                            "description": "Hogwarts Legacy é um RPG de ação imersivo de mundo aberto. Agora você pode assumir o controle da ação e estar no centro de sua própria aventura no mundo bruxo.",
                             "offerId": "21c880aaccc04adcafeb9de7fcce85c6",
-                            "title": "Hogwarts Legacy: Digital Deluxe Edition",
+                            "title": "Hogwarts Legacy: Edição Digital Deluxe",
                             "slug": "p/hogwarts-legacy--digital-deluxe-edition"
                         },
                         {
@@ -387,9 +447,9 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "e97659b501af4e3981d5430dad170911",
-                            "description": "The Creator Kit empowers you to add your own flourishes and transformations to Hogwarts Legacy. This collection of enchanted tools invites our wizarding community to customize like never before.",
+                            "description": "O Kit do Criador lhe permite adicionar seus próprios floreios e transformações ao Hogwarts Legacy. Essa coleção de ferramentas encantadas convida nossa comunidade de bruxos a personalizar como nunca antes.",
                             "offerId": "dbdd1030954244079fde33787bb7027e",
-                            "title": "Hogwarts Legacy Creator Kit",
+                            "title": "Kit do Criador de Hogwarts Legacy",
                             "slug": "/p/hogwarts-legacy--creator-kit"
                         }
                     ],
@@ -397,7 +457,6 @@
                     "enableImages": false
                 },
                 "meta": {
-                    "releaseDate": "2023-02-10T16:00:00.000Z",
                     "_type": "Epic Store Meta",
                     "publisher": [
                         "Warner Bros. Games"
@@ -408,15 +467,9 @@
                     "developer": [
                         "Avalanche Software"
                     ],
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows"
-                    ],
-                    "tags": [
-                        "ACTION",
-                        "RPG",
-                        "ADVENTURE",
-                        "SINGLE_PLAYER"
                     ]
                 },
                 "markdown": {
@@ -460,23 +513,26 @@
                 },
                 "navTitle": "Hogwarts Legacy"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
             },
             "type": "productHome",
             "_images_": [
+                "https://cdn2.unrealengine.com/screen-darklegacy-inferi-1920x1080-1920x1080-fa0ae789d72f.jpg",
                 "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-04-1920x1080-52b6c523cebc.jpg",
                 "https://cdn2.unrealengine.com/egs-hogwartslegacycreatorkit-avalanchesoftware-editions-s1-2560x1440-68762b09453c.jpg",
                 "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-01-1920x1080-abc96a86b4f0.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-ic1-400x126-a6f1333fa900.png",
                 "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-2208afc211d1.jpg",
                 "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-s1-2560x1440-e2140033614b.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s2-1200x1600-cc116194e2fe.jpg",
+                "https://cdn2.unrealengine.com/screen-darklegacy-spell-1920x1080-1920x1080-4e11140140b7.jpg",
                 "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-00-1920x1080-6ae741e030bb.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-02-1920x1080-bfdc2c908ac6.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-03-1920x1080-112c79719791.jpg"
+                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-03-1920x1080-112c79719791.jpg",
+                "https://cdn2.unrealengine.com/screen-darklegacy-sebastian-1920x1080-1920x1080-113fd10bfba5.jpg",
+                "https://cdn2.unrealengine.com/screen-darklegacy-spidercombat-1920x1080-1920x1080-9c4a42fda584.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-ic1-400x126-a6f1333fa900.png",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s2-1200x1600-cc116194e2fe.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-02-1920x1080-bfdc2c908ac6.jpg"
             ]
         },
         {
@@ -509,13 +565,24 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/hogwarts-legacy/digital-deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/hogwarts-legacy/digital-deluxe-edition",
             "_slug": "digital-deluxe-edition",
             "_activeDate": "2022-08-16T21:16:03.284Z",
-            "lastModified": "2026-05-15T15:00:20.195Z",
-            "_locale": "en-US",
-            "_id": "984329ee-8069-41cd-8587-20918ef9cf95",
+            "lastModified": "2022-08-30T17:31:35.555Z",
+            "_locale": "pt-BR",
+            "_id": "ed424d09-7047-4ba4-a27a-fa997194f8aa",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering",
+                    "appliedCountries": "RU, BY,"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "e97659b501af4e3981d5430dad170911",
+                "id": "21c880aaccc04adcafeb9de7fcce85c6",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -529,8 +596,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "TEXT: English, Italian, Spanish - Spain, Spanish - Latin America, Arabic, Japanese, Portuguese - Brazil, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Polish, Russian",
-                        "AUDIO: English, Italian, Spanish - Spain, Spanish - Latin America, Japanese, Portuguese - Brazil, French, German"
+                        "TEXTO: inglês, italiano, espanhol (Espanha), espanhol (América Latina), árabe, japonês, português (Brasil), chinês simplificado, chinês tradicional, francês, alemão, coreano, polonês, russo",
+                        "ÁUDIO: inglês, italiano, espanhol (Espanha), espanhol (América Latina), japonês, português (Brasil), francês, alemão"
                     ],
                     "systems": [
                         {
@@ -539,45 +606,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 10",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5-8400 OR AMD Ryzen 5 2600",
-                                    "recommended": "Intel Core i7-8700 OR AMD Ryzen 5 3600"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+                                    "recommended": "Intel Core i7-8700 ou AMD Ryzen 5 3600"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "8 GB",
                                     "recommended": "16 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "85 GB",
                                     "recommended": "85 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "DX 12",
                                     "recommended": "DX 12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 1070 or AMD RX Vega 56",
-                                    "recommended": "NVIDIA GeForce 1080 Ti or AMD RX 5700 XT"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 1070 ou AMD RX VEGA 56",
+                                    "recommended": "NVIDIA GeForce 1080 Ti ou AMD RX 5700 XT"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "SDD(Preferred), HDD (Supported), 1080p/60 fps, Low Quality Settings, Upscale Performance Setting",
-                                    "recommended": "SSD, 1080p/60 fps, High Quality Settings, Upscale Quality Setting"
+                                    "title": "Outros",
+                                    "minimum": "SDD (preferido), HDD (compatível), 1080p/60 fps, configurações de baixa qualidade, configuração de desempenho de alto nível",
+                                    "recommended": "SSD, 1080p/60 fps, configurações de alta qualidade, configuração de qualidade de alto nível"
                                 }
                             ]
                         }
@@ -591,11 +658,11 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "HOGWARTS LEGACY software © 2023 Warner Bros. Entertainment Inc. Developed by Avalanche Software. WIZARDING WORLD and HARRY POTTER Publishing Rights © J.K. Rowling. PORTKEY GAMES, HOGWARTS LEGACY, WIZARDING WORLD AND HARRY POTTER characters, names and related indicia © and ™ Warner Bros. Entertainment Inc.     WARNER BROS. GAMES LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s23)",
+                    "copy": "HOGWARTS LEGACY software © 2023 Warner Bros. Entertainment Inc. Developed by Avalanche Software. WIZARDING WORLD and HARRY POTTER Publishing Rights © J.K. Rowling. PORTKEY GAMES, HOGWARTS LEGACY, WIZARDING WORLD AND HARRY POTTER characters, names and related indicia © and ™ Warner Bros. Entertainment Inc. WARNER BROS. GAMES LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s23)",
                     "privacyPolicyLink": {
                         "src": "https://policies.warnerbros.com/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Warner Bros. Games Privacy Policy"
+                        "title": "Política de privacidade da Warner Bros. Games"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -607,9 +674,9 @@
                     "developerAttribution": "Avalanche Software",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Warner Bros. Games",
-                    "description": "Hogwarts Legacy is an open-world action RPG set in the world introduced in the Harry Potter books. Explore and discover magical beasts, customize your character and craft potions, master spell casting, upgrade talents and become the wizard you want to be.  \n\nExperience Hogwarts in the 1800s. Make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten.\n\nThe Hogwarts Legacy Digital Deluxe Edition Includes:\n- Thestral Mount\n- Dark Arts Battle Arena\n- Dark Arts Cosmetic Set\n- Dark Arts Garrison Hat\n\nIncludes Haunted Hogsmeade Shop Quest which grants access to an additional dungeon, Shopkeeper’s Cosmetic Set, and in-game Hogsmeade shop.\n\nNew Features Include:\n- Photo Mode\n- Talent Resets\n\nNew cosmetic items now available to all players: The Glasses That Lived, Azkaban Prisoner Uniform and Coat, Onyx Hippogriff Mount, Felix Felicis Potion Recipe, Dark Wizard Brooms (2)",
-                    "shortDescription": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
-                    "title": "Hogwarts Legacy: Digital Deluxe Edition",
+                    "description": "Hogwarts Legacy é um RPG de ação de mundo aberto ambientado no mundo introduzido pela primeira vez nos livros do Harry Potter. Explore e descubra animais fantásticos, personalize seu personagem e crie poções, domine o lançamento de feitiços, aprimore talentos e torne\\-se o bruxo que deseja ser.\n\nExperimente Hogwarts da década de 1800\\. Faça aliados, lute contra os bruxos das trevas e, finalmente, decida o destino do mundo bruxo. Seu legado é o que você faz dele. Viva o Inesperado.\n\nA Edição Digital Deluxe de Hogwarts Legacy inclui:\n\n* Testrálio Montaria\n* Arena de Batalha das Artes das Trevas\n* Conjunto Cosmético das Artes das Trevas\n* Chapéu Militar das Artes das Trevas\n\nInclui a missão da Loja Assombrada de Hogsmeade, que concede acesso a uma masmorra adicional, Conjunto de Cosméticos do Lojista e uma loja de Hogsmeade no jogo.\n\nNovos recursos incluem:\n\n* Modo Fotografia\n* Redefinir Talentos\n\nNovos itens cosméticos agora disponíveis para todos os jogadores: Os Óculos que Sobreviveram, Uniforme e Casaco do Prisioneiro de Azkaban, Hipogrifo Ônix de Montaria, Receita da Poção Felix Felicis, Vassouras do Bruxo das Trevas \\(2\\)\n\n",
+                    "shortDescription": "Hogwarts Legacy é um RPG de ação imersivo de mundo aberto. Agora você pode assumir o controle da ação e estar no centro de sua própria aventura no mundo bruxo.",
+                    "title": "Hogwarts Legacy: Edição Digital Deluxe",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -669,7 +736,9 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/abf91b7afdad406da34c1f537dee738c/abf91b7afdad406da34c1f537dee738c.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-00-1920x1080-a9d302b8a7c4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"f87699774361483e804b0fb448dedae4\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/0d8422dc6e5745a0b3c97400b0092727/0d8422dc6e5745a0b3c97400b0092727.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-00-1920x1080-a9d302b8a7c4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"e5b585297c4d4109a8c5e533820f3d02\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/b5e91eb11940433ba356bbfaa0adfd0e/b5e91eb11940433ba356bbfaa0adfd0e.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-00-1920x1080-a9d302b8a7c4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"53efe2c9c94d4c0c91136b89b2f245f0\"\n    }\n  ]\n}",
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7ffbc35e7aa0454bb2aa0f4be910a75a/7ffbc35e7aa0454bb2aa0f4be910a75a.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-e9ea150bf39d.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2f0e03eafe904e4c804e9b393ce55317\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/6c5459b7ca8f4971811e6171ecdd0021/6c5459b7ca8f4971811e6171ecdd0021.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-e9ea150bf39d.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5f5822b639c74f9a82542d077718952b\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/620b2f97ba5544aa8aaf8af5cf7fe3ca/620b2f97ba5544aa8aaf8af5cf7fe3ca.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-s1-2560x1440-e9ea150bf39d.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"f6bc4d01a045466a9a9a9e7d30890371\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -685,7 +754,8 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8227b69afe7a48968760f23d40d046c2/8227b69afe7a48968760f23d40d046c2.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-01-1920x1080-5d3335652e7c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"bc5a888d702f41e5b2acf9f31353b6c7\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/e7fae5e8d66046a1a2b182b7845a82d4/e7fae5e8d66046a1a2b182b7845a82d4.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-01-1920x1080-5d3335652e7c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"c62b337486574707afc2780091293f7d\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/782058bc083244a3b33a359078e0ee41/782058bc083244a3b33a359078e0ee41.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1c-01-1920x1080-5d3335652e7c.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"eb7a2b725dab4badbdb2dd9d3881c37b\"\n    }\n  ]\n}",
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/722ca037319544f9a3fb4072f924bd27/722ca037319544f9a3fb4072f924bd27.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-01-1920x1080-d60441bfc49e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"77eb6888b2a44a4e9175e49fb4641424\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/a2526615146a44e38b5fc3ea98549a77/a2526615146a44e38b5fc3ea98549a77.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-01-1920x1080-d60441bfc49e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"8af0f02d05db4429b51d3a85642c2409\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/8ffd36127a734af0ae4c7dde5038bf32/8ffd36127a734af0ae4c7dde5038bf32.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1c-01-1920x1080-d60441bfc49e.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"a2a65a4cb33b487ba466aa341cfd4865\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -769,18 +839,74 @@
                                 "muted": false,
                                 "autoplay": false
                             }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-inferi-1920x1080-1920x1080-54d1fa3ecb38.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-sebastian-1920x1080-1920x1080-4c52c9e57763.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-spell-1920x1080-1920x1080-58264d2e9ba0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/screen-darklegacy-spidercombat-1920x1080-1920x1080-0cd9ed08113d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
                         }
                     ]
-                },
-                "experiences": {
-                    "_type": "Epic Store Experience"
                 },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
                 },
                 "meta": {
-                    "releaseDate": "2023-02-10T16:00:00.000Z",
                     "_type": "Epic Store Meta",
                     "publisher": [
                         "Warner Bros. Games"
@@ -791,15 +917,9 @@
                     "developer": [
                         "Avalanche Software"
                     ],
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows"
-                    ],
-                    "tags": [
-                        "ACTION",
-                        "RPG",
-                        "ADVENTURE",
-                        "SINGLE_PLAYER"
                     ]
                 },
                 "markdown": {
@@ -837,37 +957,28 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Hogwarts Legacy: Digital Deluxe Edition"
-            },
-            "overwriteMapping": false,
-            "type": "offer",
-            "_images_": [
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-ic1-200x200-cf90317beb7f.png",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-00-1920x1080-a95fff2da9f4.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-s2-1200x1600-ef48c6bce0fb.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-04-1920x1080-5fa74245e894.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-s1-2560x1440-e2140033614b.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-03-1920x1080-3fc9e28b6890.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-01-1920x1080-481b8c213776.jpg",
-                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-02-1920x1080-9ed74c2cbc02.jpg"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering",
-                    "filterType": "BLACKLIST",
-                    "appliedCountries": "RU, BY,"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "e97659b501af4e3981d5430dad170911",
-                "id": "21c880aaccc04adcafeb9de7fcce85c6",
-                "type": "edition",
-                "hasOffer": true
+                "navTitle": "Hogwarts Legacy: Edição Digital Deluxe"
             },
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
             },
-            "tag": "edition"
+            "tag": "edition",
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-ic1-200x200-cf90317beb7f.png",
+                "https://cdn2.unrealengine.com/screen-darklegacy-spidercombat-1920x1080-1920x1080-0cd9ed08113d.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-00-1920x1080-a95fff2da9f4.jpg",
+                "https://cdn2.unrealengine.com/screen-darklegacy-sebastian-1920x1080-1920x1080-4c52c9e57763.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-s2-1200x1600-ef48c6bce0fb.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-04-1920x1080-5fa74245e894.jpg",
+                "https://cdn2.unrealengine.com/screen-darklegacy-inferi-1920x1080-1920x1080-54d1fa3ecb38.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-s1-2560x1440-e2140033614b.jpg",
+                "https://cdn2.unrealengine.com/screen-darklegacy-spell-1920x1080-1920x1080-58264d2e9ba0.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-03-1920x1080-3fc9e28b6890.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-01-1920x1080-481b8c213776.jpg",
+                "https://cdn2.unrealengine.com/egs-hogwartslegacydigitaldeluxeedition-avalanchesoftware-editions-g1a-02-1920x1080-9ed74c2cbc02.jpg"
+            ]
         },
         {
             "productRatings": {
@@ -899,12 +1010,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/hogwarts-legacy/creator-kit",
+            "_urlPattern": "/pt-BR/productv2/hogwarts-legacy/creator-kit",
             "_slug": "creator-kit",
             "_activeDate": "2025-01-24T19:33:27.639Z",
-            "lastModified": "2025-02-11T17:45:26.173Z",
-            "_locale": "en-US",
-            "_id": "ffd019aa-c18f-4ac4-b8b5-81676fc14851",
+            "lastModified": "2025-01-24T19:44:19.934Z",
+            "_locale": "pt-BR",
+            "_id": "39332cd5-159f-4d54-86b6-346e0b7cf503",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -919,7 +1030,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English; Text: English"
+                        "Áudio: inglês; Texto: inglês"
                     ],
                     "systems": [
                         {
@@ -928,15 +1039,15 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 10",
-                                    "recommended": "64-bit Windows 10"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "Intel Core i7-10700K (3.80 GHz) or AMD Ryzen 7 5800X (3.80 GHz)",
-                                    "recommended": "Intel Core i7-10700K (3.80 GHz) or AMD Ryzen 7 5800X (3.80 GHz)"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i7-10700K (3,80 GHz) ou AMD Ryzen 7 5800X (3,80 GHz)",
+                                    "recommended": "Intel Core i7-10700K (3,80 GHz) ou AMD Ryzen 7 5800X (3,80 GHz)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -946,26 +1057,26 @@
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "NVIDIA GeForce RTX 2080 Ti or AMD Radeon RX 6800 XT",
-                                    "recommended": "NVIDIA GeForce RTX 3090 Ti or AMD Radeon RX 7900 XT"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce RTX 2080 Ti ou AMD Radeon RX 6800 XT",
+                                    "recommended": "NVIDIA GeForce RTX 3090 Ti ou AMD Radeon RX 7900 XT"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "DIRECTX VERSION",
+                                    "title": "VERSÃO DO DIRECTX",
                                     "minimum": "DX 12",
                                     "recommended": "DX 12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "450 GB SSD",
-                                    "recommended": "600 GB SSD"
+                                    "title": "Armazenamento",
+                                    "minimum": "SSD DE 450 GB",
+                                    "recommended": "SSD DE 600 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Notes",
-                                    "minimum": "Epic Login Required, English Only Support; WB Games/ CurseForge Account Required for Upload"
+                                    "title": "Observação",
+                                    "minimum": "É necessário fazer login na Epic, suporte somente em inglês; conta WB Games/CurseForge necessária para upload"
                                 }
                             ]
                         }
@@ -982,7 +1093,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.avalanchesoftware.com/",
                         "_type": "Diesel Link",
-                        "title": "Avalanche Software Privacy Policy"
+                        "title": "Política de Privacidade da Avalanche Software"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -993,9 +1104,9 @@
                     "developerAttribution": "Avalanche Software",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Warner Bros. Games",
-                    "description": "The Creator Kit is a comprehensive set of magical instruments designed to let you conjure new wonders and enchantments within the world of Hogwarts Legacy. These are the very spellbinding tools employed by the talented wizards at Avalanche Software, now refurbished for your use, enabling you to weave your own magic into this richly detailed world. Imagine the possibilities as you conjure: \n\nMystical characters and intriguing NPCs\nBewitching new cosmetics to make your characters stand out\nAwe-inspiring dungeons to explore \nNew quests that unravel hidden secrets\n\n…and much more! Your legacy will truly be what you make of it.",
-                    "shortDescription": "The Creator Kit empowers you to add your own flourishes and transformations to Hogwarts Legacy. This collection of enchanted tools invites our wizarding community to customize like never before.",
-                    "title": "Hogwarts Legacy Creator Kit",
+                    "description": "O Kit do Criador é um conjunto abrangente de instrumentos mágicos projetados para permitir que você conjure novas maravilhas e encantamentos no mundo de Hogwarts Legacy. Estas são as ferramentas fascinantes usadas pelos talentosos bruxos da Avalanche Software, reformuladas para uso, permitindo que você crie sua própria magia neste mundo ricamente detalhado. Imagine as possibilidades enquanto você conjura:\n\nPersonagens místicos e NPCs intrigantes\nNovos cosméticos encantadores para fazer seus personagens se destacarem\nMasmorras inspiradoras para explorar\nNovas missões que desvendam segredos ocultos\n\n...e muito mais\\! Seu legado será o que você fizer dele.\n\n",
+                    "shortDescription": "O Kit do Criador lhe permite adicionar seus próprios floreios e transformações ao Hogwarts Legacy. Essa coleção de ferramentas encantadas convida nossa comunidade de bruxos a personalizar como nunca antes.",
+                    "title": "Kit do Criador de Hogwarts Legacy",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -1221,7 +1332,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Hogwarts Legacy Creator Kit"
+                "navTitle": "Kit do Criador de Hogwarts Legacy"
             },
             "overwriteMapping": false,
             "type": "offer",

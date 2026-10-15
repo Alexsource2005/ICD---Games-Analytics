@@ -25,12 +25,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/midnight-ghost-hunt",
+    "_urlPattern": "/pt-BR/productv2/midnight-ghost-hunt",
     "_slug": "midnight-ghost-hunt",
     "_activeDate": "2023-05-08T18:21:38.286Z",
-    "lastModified": "2023-05-31T21:37:17.405Z",
-    "_locale": "en-US",
-    "_id": "e6054d59-3ba2-4e86-8758-c4144ea6e112",
+    "lastModified": "2023-05-08T18:22:18.147Z",
+    "_locale": "pt-BR",
+    "_id": "c9f4054e-f55e-4372-8e7c-e17de8e9c623",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -39,7 +39,7 @@
             },
             "disableNewAddons": false,
             "modMarketplaceEnabled": false,
-            "_title": "Home",
+            "_title": "Início",
             "regionBlock": "",
             "_noIndex": false,
             "productName": "Midnight Ghost Hunt",
@@ -60,20 +60,70 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/midnight-ghost-hunt/home",
+            "_urlPattern": "/pt-BR/productv2/midnight-ghost-hunt/home",
             "_slug": "home",
             "_activeDate": "2023-05-08T18:22:24.901Z",
-            "lastModified": "2024-03-27T18:51:47.608Z",
-            "_locale": "en-US",
-            "_id": "6bc23a62-0e9c-4926-b3a3-370bd51fa746",
+            "lastModified": "2024-03-25T03:49:48.058Z",
+            "_locale": "pt-BR",
+            "_id": "c0ec525e-34c4-4ba5-ad4d-5ee52ebd8ffa",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, francês, alemão, italiano, coreano, polonês, português (Brasil), russo, ucraniano, espanhol (Espanha)"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional Windows",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador do Windows",
+                                    "minimum": "Intel i3-4130 ou AMD Ryzen 3",
+                                    "recommended": "i5-4690 (4 núcleos ou mais)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória do Windows",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "21 GB",
+                                    "recommended": "25 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX no Windows",
+                                    "minimum": "11",
+                                    "recommended": ""
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "NVIDIA GeForce GTX 1060 / Radeon RX 580 ou equivalente com pelo menos 4 GB de VRAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
                 },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/playmgh",
@@ -84,58 +134,8 @@
                     "linkReddit": "https://www.reddit.com/r/MidnightGhostHunt/",
                     "linkHomepage": "https://midnightghosthunt.com/"
                 },
-                "requirements": {
-                    "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, French, German, Italian, Korean, Polish, Portuguese - Brazil, Russian, Ukrainian, Spanish - Spain"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 10 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel i3-4130 or AMD Ryzen 3",
-                                    "recommended": "i5-4690 (4 cores or higher)"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "8 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
-                                    "minimum": "21 GB",
-                                    "recommended": "25 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
-                                    "minimum": "11",
-                                    "recommended": ""
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 1060 / Radeon RX 580 or equivalent with at least 4GB VRAM"
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "EPIC_ACCOUNT",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
                 },
                 "navOrder": 1,
                 "footer": {
@@ -155,8 +155,8 @@
                     "developerAttribution": "Vaulted Sky Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Coffee Stain Publishing",
-                    "description": "# MIDNIGHT GHOST HUNT IS A PETRIFYING PROP HAUNT GAME TO PLAY WITH PALS!\n\nLying in wait across a series of cursed locations, relentless spirits stalk the halls. Assigned to eliminate them are the Ghost Hunters, armed to the teeth with the ghoul-busting tech to banish them to another realm! Play both Ghost and Hunter in a chaotic 4v4 struggle between the living and the dead.\n\n# TONGUE-IN-CHEEK HIDE-AND-SEEK\n\nAs a Ghost, conceal yourself inside seemingly harmless pieces of furniture to evade preying Hunters… but when their backs are turned, turn the environment against them with telekinetic bombardment. No chair, lamp, or grandfather clock is innocent in this hijinks-heavy frenzy.\n\n# MIDNIGHT MAYHEM\n\nThe fun isn’t over yet...when the clock strikes twelve, the witching hour begins, and the Hunters become the Hunted. The tables turn and Ghosts become supercharged, giving Hunters a limited amount of time to survive their vengeful wrath.\n\n# MURDEROUS 4v4 MULTIPLAYER\n\nPlay together and communicate with your team and ensure a triumphant victory, giving each other pointers on the paths enemies tend to tread. Create synergies with your team's abilities to outthink and outwit your opponents.\n\n# HARNESS SUPERNATURAL ABILITIES\n\nThe restrictions of reality don’t apply to Ghosts, of course. Claim your supernatural powers, which include turning invisible, causing furniture to float, and conjuring a dangerous Ghostly miasma. Ghosts can even hide in plain sight by masquerading as a Hunter’s doppelgänger!\n\nGhostly Perks include dramatically increasing your weight, extending your possessing range, the ability to see nearby Hunters through walls, and much more. \n\n# ARMED AND READY\n\nHunters must choose their weapons from a full range of hi-tech gadgets designed to cast out Ghosts from our plane of existence. Detect ghostly presences with the Spectrophone, Radar and Pathfinder, capture them with a Trap, and suck up their spectral remains with the Vacuum – or just blast them to smithereens with the Spectral Cannon, sledgehammers, harpoons, salt-spewing shotguns, and more.\n\nHunters can also select Perks to give them a special boost. Choose from an extra burst of speed, health-replenishing capabilities and a host of other powers to get ahead of the game.\n\n# A BEVY OF BLOOD-CURDLING MAPS\n\nExplore ten unsettling locations, including an abandoned theatre, eerie mansion and cursed carnival. Each map brings with it different tactical considerations and items to throw about… as well as plenty of opportunities to play tricks on the enemy.\n\n# FRIGHTENING NEW FEATURES\n\nAs it crept through Early Access, Midnight Ghost Hunt picked up a gaggle of game-changing features, built on the feedback of its community of Ghosts and Hunters.\n\nDedicated servers and host migration support make setting up matches a breeze, while the Progression Tier and Challenge systems bring added competition to the hunt. Looking for less of the silly and more of the scary? The Experimental Darkness game mode lends a chill to the chaos. Not to mention crossplay, full controller support, and even the GhostMaster minigame to pass the time during the van ride to your next match!",
-                    "shortDescription": "A chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight!",
+                    "description": "MIDNIGHT GHOST HUNT É UM JOGO PARALISANTE DE ASSOMBRAÇÃO PARA JOGAR COM A GALERA\\!\n===================================================================================\n\nEspalhados por vários locais amaldiçoados, espíritos impiedosos estão à espreita. Caçadores de Fantasmas armados até os dentes com tecnologia detona\\-fantasma foram encarregados de eliminá\\-los e mandá\\-los para outro plano\\! Jogue como Fantasma ou Caçador em um caótico embate 4x4 entre vivos e mortos.\n\nUM ESCONDE\\-ESCONDE IRÔNICO\n============================\n\nComo Fantasma, esconda\\-se em móveis aparentemente inofensivos para escapar dos Caçadores... Porém, quando virarem as costas, use o ambiente contra eles com um ataque telecinético. Nenhuma cadeira, abajur ou relógio antigo é inocente nessa loucura repleta de travessuras.\n\nCAOS À MEIA\\-NOITE\n===================\n\nMas a diversão não acaba por aí... Quando der meia\\-noite, a hora das bruxas começará e os Caçadores se transformarão na caça. Em uma virada de jogo, os Fantasmas ficarão superfortes e os Caçadores terão um tempo limitado para sobreviver à vingança furiosa deles.\n\nMULTIJOGADOR 4x4 MORTAL\n=======================\n\nJogue em conjunto e comunique\\-se com sua equipe para garantir a vitória, informando uns aos outros quais caminhos os inimigos devem seguir. Combine as habilidades da sua equipe para enganar e superar seus adversários.\n\nUSE HABILIDADES SOBRENATURAIS\n=============================\n\nAs restrições da realidade não se aplicam aos Fantasmas, obviamente. Use poderes sobrenaturais como invisibilidade, levitação de móveis e lançamento de um perigoso e fantasmagórico odor. Os Fantasmas podem se esconder em plena vista disfarçando\\-se de cópias dos Caçadores\\!\n\nAs vantagens fantasmagóricas incluem aumentar seu peso drasticamente, estender o alcance de possessão, a habilidade de ver Caçadores próximos através das paredes e muito mais.\n\nARMADOS E PREPARADOS\n====================\n\nOs Caçadores devem escolher suas armas entre diversos equipamentos de alta tecnologia para expulsar os Fantasmas do nosso plano existencial. Detecte a presença dos Fantasmas usando o Espectrofotômetro, o Radar e o Desbravador, capture\\-os com a Armadilha e sugue as sobras espectrais deles com o Aspirador — ou simplesmente pulverize\\-os com o Canhão Espectral, marretas, arpões, espingardas que cospem sal e muito mais.\n\nOs Caçadores também podem usar vantagens especiais. Escolha entre ter mais velocidade, habilidades de recuperação de vida e vários outros poderes que podem virar o jogo.\n\nVÁRIOS MAPAS HORRIPILANTES\n==========================\n\nExplore dez locais perturbadores, inclusive um teatro abandonado, uma mansão sombria e um parque amaldiçoado. Cada mapa conta com diferentes táticas e itens para usar... além de várias oportunidades para enganar seus inimigos.\n\nNOVOS RECURSOS DE ARREPIAR\n==========================\n\nEnquanto passou pelo Acesso Antecipado, Midnight Ghost Hunt coletou vários recursos inovadores, pautados no feedback da comunidade de Fantasmas e Caçadores.\n\nOs servidores dedicados e o suporte para migração de hosts facilitaram muito a criação de partidas, enquanto os sistemas Challenge \\(Desafio\\) e Progression Tier \\(Categorias de Progressão\\) trazem ainda mais competição para a caçada. Quer dar menos risadas e levar mais sustos? O modo de jogo Experimental Darkness \\(Escuridão Experimental\\) dá um toque de horror ao caos. E isso sem mencionar o multiplataforma, a compatibilidade com controle completa e até o minijogo GhostMaster para passar o tempo enquanto espera na van até a próxima partida\\!\n\n",
+                    "shortDescription": "Um caótico jogo de esconde-esconde multijogador. Incorpore em objetos aparentemente inofensivos como Fantasmas ou cace-os como Caçador antes que o relógio bata à meia-noite!",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -439,7 +439,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "964f58c4c2074404bf9c359483ab1a48",
-                            "description": "A chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight!",
+                            "description": "Um caótico jogo de esconde-esconde multijogador. Incorpore em objetos aparentemente inofensivos como Fantasmas ou cace-os como Caçador antes que o relógio bata à meia-noite!",
                             "offerId": "0613000f1d164fc1b5dd3e5ad1376399",
                             "title": "Midnight Ghost Hunt",
                             "slug": "p/midnight-ghost-hunt"
@@ -454,7 +454,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "964f58c4c2074404bf9c359483ab1a48",
-                            "description": "Buy the Deluxe Edition which includes both the Midnight Ghost Hunt base game as well as the full soundtrack as performed by Ghostwood Empire.",
+                            "description": "Compre a Deluxe Edition que inclui o jogo base de Midnight Ghost Hunt e também a trilha sonora completa produzida pelo Ghostwood Empire.",
                             "offerId": "2ef4adf2e33b4783b2709e800cffb2aa",
                             "tag": "edition",
                             "title": "Midnight Ghost Hunt - Deluxe Edition",
@@ -593,12 +593,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/midnight-ghost-hunt/deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/midnight-ghost-hunt/deluxe-edition",
             "_slug": "deluxe-edition",
             "_activeDate": "2023-05-08T18:22:24.901Z",
-            "lastModified": "2024-03-28T15:40:56.275Z",
-            "_locale": "en-US",
-            "_id": "481172ee-1a87-4b12-94ac-c17fb5265c81",
+            "lastModified": "2024-03-25T20:05:27.956Z",
+            "_locale": "pt-BR",
+            "_id": "e682e880-4d6b-4c95-8a26-09f110ba1c02",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -619,7 +619,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English | TEXT: English, Chinese - Simplified, French, German, Italian, Korean, Polish, Portuguese - Brazil, Russian, Ukrainian, Spanish - Spain"
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, francês, alemão, italiano, coreano, polonês, português (Brasil), russo, ucraniano, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -628,38 +628,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows OS",
-                                    "minimum": "Windows 10 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
+                                    "title": "Sistema Operacional Windows",
+                                    "minimum": "Windows 10 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Processor",
-                                    "minimum": "Intel i3-4130 or AMD Ryzen 3",
-                                    "recommended": "i5-4690 (4 cores or higher)"
+                                    "title": "Processador do Windows",
+                                    "minimum": "Intel i3-4130 ou AMD Ryzen 3",
+                                    "recommended": "i5-4690 (4 núcleos ou mais)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória do Windows",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Storage",
+                                    "title": "Armazenamento no Windows",
                                     "minimum": "21 GB",
                                     "recommended": "25 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Direct X",
+                                    "title": "DirectX no Windows",
                                     "minimum": "11",
                                     "recommended": ""
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Windows Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 1060 / Radeon RX 580 or equivalent with at least 4GB VRAM"
+                                    "title": "Placa de vídeo para Windows",
+                                    "minimum": "NVIDIA GeForce GTX 1060 / Radeon RX 580 ou equivalente com pelo menos 4 GB de VRAM"
                                 }
                             ]
                         }
@@ -688,8 +688,8 @@
                     "developerAttribution": "Vaulted Sky Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Coffee Stain Publishing",
-                    "description": "# MIDNIGHT GHOST HUNT IS A PETRIFYING PROP HAUNT GAME TO PLAY WITH PALS!\n\nLying in wait across a series of cursed locations, relentless spirits stalk the halls. Assigned to eliminate them are the Ghost Hunters, armed to the teeth with the ghoul-busting tech to banish them to another realm! Play both Ghost and Hunter in a chaotic 4v4 struggle between the living and the dead. \n\n# TONGUE-IN-CHEEK HIDE-AND-SEEK\n\nAs a Ghost, conceal yourself inside seemingly harmless pieces of furniture to evade preying Hunters… but when their backs are turned, turn the environment against them with telekinetic bombardment. No chair, lamp, or grandfather clock is innocent in this hijinks-heavy frenzy.\n\n# MIDNIGHT MAYHEM\n\nThe fun isn’t over yet...when the clock strikes twelve, the witching hour begins, and the Hunters become the Hunted. The tables turn and Ghosts become supercharged, giving Hunters a limited amount of time to survive their vengeful wrath.\n\n# MURDEROUS 4v4 MULTIPLAYER\n\nPlay together and communicate with your team and ensure a triumphant victory, giving each other pointers on the paths enemies tend to tread. Create synergies with your team's abilities to outthink and outwit your opponents.\n\n# HARNESS SUPERNATURAL ABILITIES\n\nThe restrictions of reality don’t apply to Ghosts, of course. Claim your supernatural powers, which include turning invisible, causing furniture to float, and conjuring a dangerous Ghostly miasma. Ghosts can even hide in plain sight by masquerading as a Hunter’s doppelgänger!\n\nGhostly Perks include dramatically increasing your weight, extending your possessing range, the ability to see nearby Hunters through walls, and much more. \n\n# ARMED AND READY\n\nHunters must choose their weapons from a full range of hi-tech gadgets designed to cast out Ghosts from our plane of existence. Detect ghostly presences with the Spectrophone, Radar and Pathfinder, capture them with a Trap, and suck up their spectral remains with the Vacuum – or just blast them to smithereens with the Spectral Cannon, sledgehammers, harpoons, salt-spewing shotguns, and more.\n\nHunters can also select Perks to give them a special boost. Choose from an extra burst of speed, health-replenishing capabilities and a host of other powers to get ahead of the game.\n\n# A BEVY OF BLOOD-CURDLING MAPS\n\nExplore ten unsettling locations, including an abandoned theatre, eerie mansion and cursed carnival. Each map brings with it different tactical considerations and items to throw about… as well as plenty of opportunities to play tricks on the enemy.\n\n# FRIGHTENING NEW FEATURES\n\nAs it crept through Early Access, Midnight Ghost Hunt picked up a gaggle of game-changing features, built on the feedback of its community of Ghosts and Hunters.\n\nDedicated servers and host migration support make setting up matches a breeze, while the Progression Tier and Challenge systems bring added competition to the hunt. Looking for less of the silly and more of the scary? The Experimental Darkness game mode lends a chill to the chaos. Not to mention crossplay, full controller support, and even the GhostMaster minigame to pass the time during the van ride to your next match!",
-                    "shortDescription": "Buy the Deluxe Edition which includes both the Midnight Ghost Hunt base game as well as the full soundtrack as performed by Ghostwood Empire.",
+                    "description": "MIDNIGHT GHOST HUNT É UM JOGO PARALISANTE DE ASSOMBRAÇÃO PARA JOGAR COM A GALERA\\!\n===================================================================================\n\nEspalhados por vários locais amaldiçoados, espíritos impiedosos estão à espreita. Caçadores de Fantasmas armados até os dentes com tecnologia detona\\-fantasma foram encarregados de eliminá\\-los e mandá\\-los para outro plano\\! Jogue como Fantasma ou Caçador em um caótico embate 4x4 entre vivos e mortos.\n\nUM ESCONDE\\-ESCONDE IRÔNICO\n============================\n\nComo Fantasma, esconda\\-se em móveis aparentemente inofensivos para escapar dos Caçadores... Porém, quando virarem as costas, use o ambiente contra eles com um ataque telecinético. Nenhuma cadeira, abajur ou relógio antigo é inocente nessa loucura repleta de travessuras.\n\nCAOS À MEIA\\-NOITE\n===================\n\nMas a diversão não acaba por aí... Quando der meia\\-noite, a hora das bruxas começará e os Caçadores se transformarão na caça. Em uma virada de jogo, os Fantasmas ficarão superfortes e os Caçadores terão um tempo limitado para sobreviver à vingança furiosa deles.\n\nMULTIJOGADOR 4x4 MORTAL\n=======================\n\nJogue em conjunto e comunique\\-se com sua equipe para garantir a vitória, informando uns aos outros quais caminhos os inimigos devem seguir. Combine as habilidades da sua equipe para enganar e superar seus adversários.\n\nUSE HABILIDADES SOBRENATURAIS\n=============================\n\nAs restrições da realidade não se aplicam aos Fantasmas, obviamente. Use poderes sobrenaturais como invisibilidade, levitação de móveis e lançamento de um perigoso e fantasmagórico odor. Os Fantasmas podem se esconder em plena vista disfarçando\\-se de cópias dos Caçadores\\!\n\nAs vantagens fantasmagóricas incluem aumentar seu peso drasticamente, estender o alcance de possessão, a habilidade de ver Caçadores próximos através das paredes e muito mais.\n\nARMADOS E PREPARADOS\n====================\n\nOs Caçadores devem escolher suas armas entre diversos equipamentos de alta tecnologia para expulsar os Fantasmas do nosso plano existencial. Detecte a presença dos Fantasmas usando o Espectrofotômetro, o Radar e o Desbravador, capture\\-os com a Armadilha e sugue as sobras espectrais deles com o Aspirador — ou simplesmente pulverize\\-os com o Canhão Espectral, marretas, arpões, espingardas que cospem sal e muito mais.\n\nOs Caçadores também podem usar vantagens especiais. Escolha entre ter mais velocidade, habilidades de recuperação de vida e vários outros poderes que podem virar o jogo.\n\nVÁRIOS MAPAS HORRIPILANTES\n==========================\n\nExplore dez locais perturbadores, inclusive um teatro abandonado, uma mansão sombria e um parque amaldiçoado. Cada mapa conta com diferentes táticas e itens para usar... além de várias oportunidades para enganar seus inimigos.\n\nNOVOS RECURSOS DE ARREPIAR\n==========================\n\nEnquanto passou pelo Acesso Antecipado, Midnight Ghost Hunt coletou vários recursos inovadores, pautados no feedback da comunidade de Fantasmas e Caçadores.\n\nOs servidores dedicados e o suporte para migração de hosts facilitaram muito a criação de partidas, enquanto os sistemas Challenge \\(Desafio\\) e Progression Tier \\(Categorias de Progressão\\) trazem ainda mais competição para a caçada. Quer dar menos risadas e levar mais sustos? O modo de jogo Experimental Darkness \\(Escuridão Experimental\\) dá um toque de horror ao caos. E isso sem mencionar o multiplataforma, a compatibilidade com controle completa e até o minijogo GhostMaster para passar o tempo enquanto espera na van até a próxima partida\\!\n\n",
+                    "shortDescription": "Compre a Deluxe Edition que inclui o jogo base de Midnight Ghost Hunt e também a trilha sonora completa produzida pelo Ghostwood Empire.",
                     "title": "Midnight Ghost Hunt - Deluxe Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"

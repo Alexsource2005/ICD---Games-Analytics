@@ -29,12 +29,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/mordhau",
+    "_urlPattern": "/pt-BR/productv2/mordhau",
     "_slug": "mordhau",
     "_activeDate": "2021-12-14T17:10:00.000Z",
-    "lastModified": "2023-04-06T15:07:52.877Z",
-    "_locale": "en-US",
-    "_id": "5d48771a-84db-423a-8621-9dc0dd07a376",
+    "lastModified": "2023-04-06T15:07:57.258Z",
+    "_locale": "pt-BR",
+    "_id": "aebdea4d-951a-49a2-8f04-7f80b7d3a59d",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -72,34 +72,22 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mordhau/home",
+            "_urlPattern": "/pt-BR/productv2/mordhau/home",
             "_slug": "home",
             "_activeDate": "2020-10-20T01:09:53.210Z",
-            "lastModified": "2024-10-30T09:04:47.179Z",
-            "_locale": "en-US",
-            "_id": "f0a42190-fb39-4236-9a9e-70f2f486f577",
+            "lastModified": "2024-04-25T20:28:03.885Z",
+            "_locale": "pt-BR",
+            "_id": "46bc80f4-9fad-4803-bc1d-805321fd8212",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/mordhaugame",
-                    "linkFacebook": "https://facebook.com/mordhaugame",
-                    "_type": "Diesel Social Links",
-                    "linkDiscord": "https://discord.gg/mordhau",
-                    "linkReddit": "https://reddit.com/r/mordhau",
-                    "title": "Follow MORDHAU",
-                    "linkHomepage": "https://mordhau.com"
-                },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -108,39 +96,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5 - 4670 or AMD equivalent",
-                                    "recommended": "Intel Core i5 - 6600k or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 4670 ou AMD equivalente",
+                                    "recommended": "Intel Core i5 6600k ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "40 GB available space",
-                                    "recommended": "40 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "40 GB de espaço disponível",
+                                    "recommended": "40 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 680 or AMD equivalent",
-                                    "recommended": "NVIDIA GeForce GTX 1060 or AMD equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 680 ou AMD equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 1060 ou AMD equivalente"
                                 }
                             ]
                         }
@@ -151,6 +139,18 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/mordhaugame",
+                    "linkFacebook": "https://facebook.com/mordhaugame",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/mordhau",
+                    "title": "Siga MORDHAU",
+                    "linkReddit": "https://reddit.com/r/mordhau",
+                    "linkHomepage": "https://mordhau.com"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -158,7 +158,7 @@
                     "privacyPolicyLink": {
                         "src": "https://mordhau.com/legal/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -170,9 +170,9 @@
                     "developerAttribution": "Triternion",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Triternion",
-                    "description": "MORDHAU is a medieval first & third person multiplayer slasher. Enter a hectic battlefield of up to 64 players as a mercenary in a fictional, but realistic world, where you will get to experience the brutal and satisfying melee combat that will have you always coming back for more.\n\n# Massive Battles\nFrom small-scale engagements to 64-player all-out war in modes such as Frontline and Invasion.\n\n# Cooperative & offline play\nFight waves of enemies alongside your friends in the cooperative Horde mode, or practice your skills offline against AI.\n\n# Free-form melee and ranged combat\nGain complete control over your character and attacks and develop your unique style.\n\n# In-depth character customization\nSculpt your face, create your weapon from parts, and pick out individual pieces of armor to create the perfect warrior.\n\n# Huge arsenal of weapons & equipment\nTake on enemies with a greatsword, rain arrows from above, or even sit back and build fortifications.\n\n# Fight anywhere\nExperience cavalry charges, fight on ladders, and operate siege engines such as the catapult and ballista.\n\n# Visceral and gory combat\nFeel the impact of every blow, and send limbs flying as you wreak havoc upon your foes. (Blood & gore are optional)\n\n# Believable fights\nA game where fights look believable, MORDHAU strikes a balance between gameplay and realism.",
-                    "shortDescription": "MORDHAU is a multiplayer medieval slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat, castle sieges, cavalry charges, and more.",
-                    "title": "About MORDHAU",
+                    "description": "MORDHAU é um jogo de combate medieval multijogador em primeira e terceira pessoa. Entre em um campo de batalha frenético com até 64 jogadores como um mercenário em um mundo fictício, mas realista, onde você experimentará o combate corpo a corpo brutal e satisfatório que faz você sempre querer mais.\n\nBatalhas enormes\n================\n\nDe combates em pequena escala a guerra total de 64 jogadores em modos como Frontline e Invasion.\n\nJogo cooperativo e offline\n==========================\n\nLute contra ondas de inimigos ao lado de seus amigos no modo cooperativo Horde ou pratique suas habilidades offline contra a IA.\n\nCombate corpo a corpo e à distância de forma livre\n==================================================\n\nTenha controle total sobre seu personagem e ataques e desenvolva seu estilo único.\n\nPersonalização de personagem detalhada\n======================================\n\nMolde seu rosto, crie sua arma a partir de peças e escolha partes individuais de armadura para criar o guerreiro perfeito.\n\nGrande arsenal de armas e equipamentos\n======================================\n\nEnfrente os inimigos com uma espada grande, dispare flechas do alto ou até construa fortificações.\n\nLute em qualquer lugar\n======================\n\nVivencie ataques de cavalaria, lute em escadas e opere máquinas de cerco, como a catapulta e a balista.\n\nCombate visceral e sangrento\n============================\n\nSinta o impacto de cada golpe e faça membros voarem enquanto detona seus inimigos \\(sangue e vísceras são opcionais\\).\n\nLutas autênticas\n================\n\nMORDHAU traz o equilíbrio entre jogabilidade e realismo com lutas que parecem reais.\n\n",
+                    "shortDescription": "MORDHAU é um jogo de combate medieval multijogador. Crie seu mercenário e lute em batalhas brutais com combates rápidos, cercos de castelo, ataques de cavalaria e muito mais.",
+                    "title": "Sobre MORDHAU",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -251,8 +251,8 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Mordhau trailer 1",
                                 "type": "epicHosted",
+                                "title": "Trailer 1 de MORDHAU",
                                 "muted": false,
                                 "autoplay": true
                             }
@@ -268,8 +268,8 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Mordhau trailer 2",
                                 "type": "epicHosted",
+                                "title": "Trailer 2 de MORDHAU",
                                 "muted": true,
                                 "autoplay": true
                             }
@@ -285,7 +285,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Mordhau trailer 3",
+                                "title": "Trailer 3 de MORDHAU",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -302,7 +302,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Mordhau trailer 4",
+                                "title": "Trailer 4 de MORDHAU",
                                 "muted": true,
                                 "autoplay": true
                             }
@@ -534,7 +534,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
-                            "description": "MORDHAU is a medieval first & third person multiplayer slasher. Enter a hectic battlefield of up to 80 players as a mercenary in a fictional, but realistic world, where you will get to experience the brutal and satisfying melee combat that will have you always coming back for more.\n",
+                            "description": "MORDHAU é um jogo de combate medieval multijogador em primeira e terceira pessoa. Entre em um campo de batalha frenético com até 80 jogadores como um mercenário em um mundo fictício, mas realista, onde você experimentará o combate corpo a corpo brutal e satisfatório que faz você sempre querer mais.\n",
                             "offerId": "7f89db821ab1441981adb4daf31c06db",
                             "tag": "edition",
                             "title": "MORDHAU",
@@ -550,7 +550,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
-                            "description": "MORDHAU is a multiplayer medieval slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat, castle sieges, cavalry charges, and more.",
+                            "description": "MORDHAU é um jogo de combate medieval multijogador. Crie seu mercenário e lute em batalhas brutais com combates rápidos, cercos de castelo, ataques de cavalaria e muito mais.",
                             "offerId": "efd165ad85e042bfb05a8a6e165f7031",
                             "tag": "edition",
                             "title": "Gold Edition",
@@ -566,7 +566,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
-                            "description": "MORDHAU is a multiplayer medieval slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat, castle sieges, cavalry charges, and more.",
+                            "description": "MORDHAU é um jogo de combate medieval multijogador. Crie seu mercenário e lute em batalhas brutais com combates rápidos, cercos de castelo, ataques de cavalaria e muito mais.",
                             "offerId": "66b647bf007f4613a5e4119e69345e92",
                             "tag": "edition",
                             "title": "Platinum Edition",
@@ -582,7 +582,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
-                            "description": "MORDHAU Diamond Edition contains the Main game and 8 DLC packs:\n-MORDHAU main game\n-Adventurer pack\n-Archduke Armor set\n-Dragon Armor set \n-Lion Armor set\n-Grotesque Armor set\n-Continental Voice pack 1\n-Continental Voice pack 2\n-Banisher Weapon pack",
+                            "description": "MORDHAU Diamond Edition contém o jogo principal e 8 pacotes de DLC:\n-Jogo principal de MORDHAU\n-Adventurer pack (Pacote do Aventureiro)\n-Archduke Armor set (Conjunto de armadura do Arquiduque)\n-Dragon Armor set (Conjunto de armadura do Dragão) \n-Lion Armor set (Conjunto de armadura do Leão)\n-Grotesque Armor set (Conjunto de armadura Grotesco)\n-Continental Voice pack 1 (Pacote de voz Continental 1)\n-Continental Voice pack 2 (Pacote de voz Continental 2)\n-Banisher Weapon pack (Pacote de armas do Banidor)",
                             "offerId": "5fe3bd1fe0f8413d92f772e59475dd3b",
                             "title": "MORDHAU - Diamond Edition",
                             "slug": "/p/mordhau--diamond-edition"
@@ -633,10 +633,6 @@
                 },
                 "productSections": [
                     {
-                        "productSection": "EDITIONS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
                         "productSection": "SOCIAL_LINKS",
                         "_type": "Diesel Product Section"
                     },
@@ -662,6 +658,10 @@
                     },
                     {
                         "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
                         "_type": "Diesel Product Section"
                     }
                 ],
@@ -741,12 +741,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mordhau/editor",
+            "_urlPattern": "/pt-BR/productv2/mordhau/editor",
             "_slug": "editor",
             "_activeDate": "2021-12-14T17:10:00.000Z",
-            "lastModified": "2021-12-14T17:15:14.210Z",
-            "_locale": "en-US",
-            "_id": "9643e191-124b-4452-9b67-cb702b7e3449",
+            "lastModified": "2021-07-28T15:26:34.597Z",
+            "_locale": "pt-BR",
+            "_id": "1266451d-0684-46f3-a3d4-adab7f06a241",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -777,11 +777,11 @@
                 },
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "MORDHAU Editor EULA",
+                    "copy": "EULA (Contrato de Licença de Usuário Final) do MORDHAU Editor",
                     "privacyPolicyLink": {
                         "src": "https://mordhau.com/legal/mod-editor-eula/",
                         "_type": "Diesel Link",
-                        "title": "MORDHAU Editor EULA"
+                        "title": "EULA (Contrato de Licença de Usuário Final) do MORDHAU Editor"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -793,8 +793,8 @@
                     "developerAttribution": "Triternion",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Triternion",
-                    "description": "Create MORDHAU mods and share them with other players! The MORDHAU Editor is a specialized version of the Unreal Engine 4 Editor packed with game assets that simplifies the creation and uploading of mods for MORDHAU.",
-                    "shortDescription": "Create MORDHAU mods and share them with other players! The MORDHAU Editor is a specialized version of the Unreal Engine 4 Editor packed with game assets that simplifies the creation and uploading of mods for MORDHAU.",
+                    "description": "Crie mods do MORDHAU e compartilhe-os com outros jogadores! O MORDHAU Editor é uma versão otimizada do Unreal Engine 4 Editor cheia de recursos de jogo que simplificam o processo de criação e o upload de mods para o MORDHAU.",
+                    "shortDescription": "Crie mods do MORDHAU e compartilhe-os com outros jogadores! O MORDHAU Editor é uma versão otimizada do Unreal Engine 4 Editor cheia de recursos de jogo que simplificam o processo de criação e o upload de mods para o MORDHAU.",
                     "title": "MORDHAU Editor",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -1080,12 +1080,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mordhau/gold-edition",
+            "_urlPattern": "/pt-BR/productv2/mordhau/gold-edition",
             "_slug": "gold-edition",
             "_activeDate": "2023-12-06T13:43:47.392Z",
-            "lastModified": "2024-04-24T12:27:06.363Z",
-            "_locale": "en-US",
-            "_id": "7566c4a3-f9a3-43b9-83e1-0b20a1d4e010",
+            "lastModified": "2023-12-06T14:17:12.980Z",
+            "_locale": "pt-BR",
+            "_id": "32837f8f-4a43-4b9a-8aee-36bbb5a908de",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -1100,14 +1100,14 @@
                     "linkFacebook": "https://facebook.com/mordhaugame",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/mordhau",
+                    "title": "Siga MORDHAU",
                     "linkReddit": "https://reddit.com/r/mordhau",
-                    "title": "Follow MORDHAU",
                     "linkHomepage": "https://mordhau.com"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -1116,39 +1116,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5 - 4670 or AMD equivalent",
-                                    "recommended": "Intel Core i5 - 6600k or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 4670 ou AMD equivalente",
+                                    "recommended": "Intel Core i5 6600k ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "40 GB available space",
-                                    "recommended": "40 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "40 GB de espaço disponível",
+                                    "recommended": "40 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 680 or AMD equivalent",
-                                    "recommended": "NVIDIA GeForce GTX 1060 or AMD equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 680 ou AMD equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 1060 ou AMD equivalente"
                                 }
                             ]
                         }
@@ -1166,7 +1166,7 @@
                     "privacyPolicyLink": {
                         "src": "https://mordhau.com/legal/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -1178,8 +1178,8 @@
                     "developerAttribution": "Triternion",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Triternion",
-                    "description": "# MORDHAU Gold Edition contains the Main game and 7 DLC packs\n\n- MORDHAU main game\n- Archduke Armor set\n- Dragon Armor set\n- Lion Armor set\n- Grotesque Armor set\n- Continental Voice pack 1\n- Continental Voice pack 2\n- Supporter Pack\n\n# About MORDHAU\n\nMORDHAU is a medieval first & third person multiplayer slasher. Enter a hectic battlefield of up to 64 players as a mercenary in a fictional, but realistic world, where you will get to experience the brutal and satisfying melee combat that will have you always coming back for more.\n\n# Massive Battles\n\nFrom small-scale engagements to 64-player all-out war in modes such as Frontline and Invasion.\n\n# Cooperative & offline play\n\nFight waves of enemies alongside your friends in the cooperative Horde mode, or practice your skills offline against AI.\n\n# Free-form melee and ranged combat\n\nGain complete control over your character and attacks and develop your unique style.\n\n# In-depth character customization\n\nSculpt your face, create your weapon from parts, and pick out individual pieces of armor to create the perfect warrior.\n\n# Huge arsenal of weapons & equipment\n\nTake on enemies with a greatsword, rain arrows from above, or even sit back and build fortifications.\n\n# Fight anywhere\n\nExperience cavalry charges, fight on ladders, and operate siege engines such as the catapult and ballista.\n\n# Visceral and gory combat\n\nFeel the impact of every blow, and send limbs flying as you wreak havoc upon your foes. (Blood & gore are optional)\n\n# Believable fights\n\nA game where fights look believable, MORDHAU strikes a balance between gameplay and realism.",
-                    "shortDescription": "MORDHAU is a multiplayer medieval slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat, castle sieges, cavalry charges, and more.",
+                    "description": "MORDHAU Gold Edition contém o jogo principal e 7 pacotes de DLC\n===============================================================\n\n* Jogo principal MORDHAU\n* Conjunto Archduke Armor\n* Conjunto Dragon Armor\n* Conjunto Lion Armor\n* Conjunto Grotesque Armor\n* Continental Voice pack 1\n* Continental Voice pack 2\n* Supporter Pack\n\nSobre MORDHAU\n=============\n\nMORDHAU é um jogo de combate medieval multijogador em primeira e terceira pessoa. Entre em um campo de batalha frenético com até 64 jogadores como um mercenário em um mundo fictício, mas realista, onde você experimentará o combate corpo a corpo brutal e satisfatório que faz você sempre querer mais.\n\nBatalhas enormes\n================\n\nDe combates em pequena escala a guerra total de 64 jogadores em modos como Frontline e Invasion.\n\nJogo cooperativo e offline\n==========================\n\nLute contra ondas de inimigos ao lado de seus amigos no modo cooperativo Horde ou pratique suas habilidades offline contra a IA.\n\nCombate corpo a corpo e à distância de forma livre\n==================================================\n\nTenha controle total sobre seu personagem e ataques e desenvolva seu estilo único.\n\nPersonalização de personagem detalhada\n======================================\n\nMolde seu rosto, crie sua arma a partir de peças e escolha partes individuais de armadura para criar o guerreiro perfeito.\n\nGrande arsenal de armas e equipamentos\n======================================\n\nEnfrente os inimigos com uma espada grande, dispare flechas do alto ou até construa fortificações.\n\nLute em qualquer lugar\n======================\n\nVivencie ataques de cavalaria, lute em escadas e opere máquinas de cerco, como a catapulta e a balista.\n\nCombate visceral e sangrento\n============================\n\nSinta o impacto de cada golpe e faça membros voarem enquanto detona seus inimigos \\(sangue e vísceras são opcionais\\).\n\nLutas autênticas\n================\n\nMORDHAU traz o equilíbrio entre jogabilidade e realismo com lutas que parecem reais.\n\n",
+                    "shortDescription": "MORDHAU é um jogo de combate medieval multijogador. Crie seu mercenário e lute em batalhas brutais com combates rápidos, cercos de castelo, ataques de cavalaria e muito mais.",
                     "title": "MORDHAU - Gold Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -1673,12 +1673,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mordhau/platinum-edition",
+            "_urlPattern": "/pt-BR/productv2/mordhau/platinum-edition",
             "_slug": "platinum-edition",
             "_activeDate": "2023-12-06T13:43:47.392Z",
-            "lastModified": "2024-04-25T20:16:15.096Z",
-            "_locale": "en-US",
-            "_id": "b0659c67-35e0-441e-a05a-421b767073e0",
+            "lastModified": "2024-04-25T20:16:47.117Z",
+            "_locale": "pt-BR",
+            "_id": "f8777b47-a00c-4c51-9974-6394ae5cd32e",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -1690,8 +1690,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -1700,39 +1700,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5 - 4670 or AMD equivalent",
-                                    "recommended": "Intel Core i5 - 6600k or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 4670 ou AMD equivalente",
+                                    "recommended": "Intel Core i5 6600k ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "40 GB available space",
-                                    "recommended": "40 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "40 GB de espaço disponível",
+                                    "recommended": "40 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 680 or AMD equivalent",
-                                    "recommended": "NVIDIA GeForce GTX 1060 or AMD equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 680 ou AMD equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 1060 ou AMD equivalente"
                                 }
                             ]
                         }
@@ -1749,7 +1749,7 @@
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/mordhau",
                     "linkReddit": "https://reddit.com/r/mordhau",
-                    "title": "Follow MORDHAU",
+                    "title": "Siga MORDHAU",
                     "linkHomepage": "https://mordhau.com"
                 },
                 "navOrder": 3,
@@ -1759,7 +1759,7 @@
                     "privacyPolicyLink": {
                         "src": "https://mordhau.com/legal/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -1771,8 +1771,8 @@
                     "developerAttribution": "Triternion",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Triternion",
-                    "description": "# MORDHAU Platinum Edition contains the Main game and 8 DLC packs:\n\n- MORDHAU main game\n- Adventurer Pack\n- Archduke Armor set\n- Dragon Armor set\n- Lion Armor set\n- Grotesque Armor set\n- Continental Voice pack 1\n- Continental Voice pack 2\n- Supporter Pack\n\n# About MORDHAU\n\nMORDHAU is a medieval first & third person multiplayer slasher. Enter a hectic battlefield of up to 64 players as a mercenary in a fictional, but realistic world, where you will get to experience the brutal and satisfying melee combat that will have you always coming back for more.\n\n# Massive Battles\n\nFrom small-scale engagements to 64-player all-out war in modes such as Frontline and Invasion.\n\n# Cooperative & offline play\n\nFight waves of enemies alongside your friends in the cooperative Horde mode, or practice your skills offline against AI.\n\n# Free-form melee and ranged combat\n\nGain complete control over your character and attacks and develop your unique style.\n\n# In-depth character customization\n\nSculpt your face, create your weapon from parts, and pick out individual pieces of armor to create the perfect warrior.\n\n# Huge arsenal of weapons & equipment\n\nTake on enemies with a greatsword, rain arrows from above, or even sit back and build fortifications.\n\n# Fight anywhere\n\nExperience cavalry charges, fight on ladders, and operate siege engines such as the catapult and ballista.\n\n# Visceral and gory combat\n\nFeel the impact of every blow, and send limbs flying as you wreak havoc upon your foes. (Blood & gore are optional)\n\n# Believable fights\n\nA game where fights look believable, MORDHAU strikes a balance between gameplay and realism.",
-                    "shortDescription": "MORDHAU is a multiplayer medieval slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat, castle sieges, cavalry charges, and more.",
+                    "description": "MORDHAU Platinum Edition contém o jogo principal e 8 pacotes de DLC:\n====================================================================\n\n* Jogo principal MORDHAU\n* Adventurer Pack\n* Conjunto Archduke Armor\n* Conjunto Dragon Armor\n* Conjunto Lion Armor\n* Conjunto Grotesque Armor\n* Continental Voice pack 1\n* Continental Voice pack 2\n* Supporter Pack\n\nSobre MORDHAU\n=============\n\nMORDHAU é um jogo de combate medieval multijogador em primeira e terceira pessoa. Entre em um campo de batalha frenético com até 64 jogadores como um mercenário em um mundo fictício, mas realista, onde você experimentará o combate corpo a corpo brutal e satisfatório que faz você sempre querer mais.\n\nBatalhas enormes\n================\n\nDe combates em pequena escala a guerra total de 64 jogadores em modos como Frontline e Invasion.\n\nJogo cooperativo e offline\n==========================\n\nLute contra ondas de inimigos ao lado de seus amigos no modo cooperativo Horde ou pratique suas habilidades offline contra a IA.\n\nCombate corpo a corpo e à distância de forma livre\n==================================================\n\nTenha controle total sobre seu personagem e ataques e desenvolva seu estilo único.\n\nPersonalização de personagem detalhada\n======================================\n\nMolde seu rosto, crie sua arma a partir de peças e escolha partes individuais de armadura para criar o guerreiro perfeito.\n\nGrande arsenal de armas e equipamentos\n======================================\n\nEnfrente os inimigos com uma espada grande, dispare flechas do alto ou até construa fortificações.\n\nLute em qualquer lugar\n======================\n\nVivencie ataques de cavalaria, lute em escadas e opere máquinas de cerco, como a catapulta e a balista.\n\nCombate visceral e sangrento\n============================\n\nSinta o impacto de cada golpe e faça membros voarem enquanto detona seus inimigos \\(sangue e vísceras são opcionais\\).\n\nLutas autênticas\n================\n\nMORDHAU traz o equilíbrio entre jogabilidade e realismo com lutas que parecem reais.\n\n",
+                    "shortDescription": "MORDHAU é um jogo de combate medieval multijogador. Crie seu mercenário e lute em batalhas brutais com combates rápidos, cercos de castelo, ataques de cavalaria e muito mais.",
                     "title": "MORDHAU - Platinum Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -1803,8 +1803,8 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "isFullBleed": false,
                     "altContentPosition": false,
+                    "isFullBleed": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-mordhauplatinumedition-triternion-bundles-s1-2560x1440-aa3b3f82e5e9.jpg"
                 },
                 "carousel": {
@@ -2264,12 +2264,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/mordhau/diamond-edition",
+            "_urlPattern": "/pt-BR/productv2/mordhau/diamond-edition",
             "_slug": "diamond-edition",
             "_activeDate": "2023-12-06T13:43:47.392Z",
-            "lastModified": "2024-11-05T16:58:42.638Z",
-            "_locale": "en-US",
-            "_id": "0271c47d-7de6-40a5-b003-d7a69ff8f997",
+            "lastModified": "2024-11-05T17:02:52.775Z",
+            "_locale": "pt-BR",
+            "_id": "bcf43557-04db-4b0f-9ce7-45bceee74bf4",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -2285,13 +2285,13 @@
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/mordhau",
                     "linkReddit": "https://reddit.com/r/mordhau",
-                    "title": "Follow MORDHAU",
+                    "title": "Siga MORDHAU",
                     "linkHomepage": "https://mordhau.com"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português, russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -2300,39 +2300,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64 Bit",
-                                    "recommended": "Windows 10 64 Bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5 - 4670 or AMD equivalent",
-                                    "recommended": "Intel Core i5 - 6600k or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 4670 ou AMD equivalente",
+                                    "recommended": "Intel Core i5 6600k ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "40 GB available space",
-                                    "recommended": "40 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "40 GB de espaço disponível",
+                                    "recommended": "40 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Direct X 11",
-                                    "recommended": "Direct X 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 680 or AMD equivalent",
-                                    "recommended": "NVIDIA GeForce GTX 1060 or AMD equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 680 ou AMD equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 1060 ou AMD equivalente"
                                 }
                             ]
                         }
@@ -2350,7 +2350,7 @@
                     "privacyPolicyLink": {
                         "src": "https://mordhau.com/legal/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -2362,8 +2362,8 @@
                     "developerAttribution": "Triternion",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Triternion",
-                    "description": "# MORDHAU Diamond Edition contains the Main game and 9 DLC packs\n\n- MORDHAU main game\n- Adventurer Pack\n- Archduke Armor set\n- Banisher Weapon Pack\n- Dragon Armor set\n- Lion Armor set\n- Grotesque Armor set\n- Continental Voice pack 1\n- Continental Voice pack 2\n- Supporter Pack\n\n# About MORDHAU\n\nMORDHAU is a medieval first & third person multiplayer slasher. Enter a hectic battlefield of up to 64 players as a mercenary in a fictional, but realistic world, where you will get to experience the brutal and satisfying melee combat that will have you always coming back for more.\n\n# Massive Battles\n\nFrom small-scale engagements to 64-player all-out war in modes such as Frontline and Invasion.\n\n# Cooperative & offline play\n\nFight waves of enemies alongside your friends in the cooperative Horde mode, or practice your skills offline against AI.\n\n# Free-form melee and ranged combat\n\nGain complete control over your character and attacks and develop your unique style.\n\n# In-depth character customization\n\nSculpt your face, create your weapon from parts, and pick out individual pieces of armor to create the perfect warrior.\n\n# Huge arsenal of weapons & equipment\n\nTake on enemies with a greatsword, rain arrows from above, or even sit back and build fortifications.\n\n# Fight anywhere\n\nExperience cavalry charges, fight on ladders, and operate siege engines such as the catapult and ballista.\n\n# Visceral and gory combat\n\nFeel the impact of every blow, and send limbs flying as you wreak havoc upon your foes. (Blood & gore are optional)\n\n# Believable fights\n\nA game where fights look believable, MORDHAU strikes a balance between gameplay and realism.",
-                    "shortDescription": "MORDHAU Diamond Edition contains the Main game and 8 DLC packs: -MORDHAU main game -Adventurer pack -Archduke Armor set -Dragon Armor set  -Lion Armor set -Grotesque Armor set -Continental Voice pack 1 -Continental Voice pack 2 -Banisher Weapon pack",
+                    "description": "MORDHAU Diamond Edition contém o jogo principal e 9 pacotes de DLC\n===============================================================\n\n* Jogo principal MORDHAU\n* Adventurer Pack\n* Conjunto Archduke Armor\n* Banisher Weapon Pack \\(Pacote de armas do Banidor\\)\n* Conjunto Dragon Armor\n* Conjunto Lion Armor\n* Conjunto Grotesque Armor\n* Continental Voice pack 1\n* Continental Voice pack 2\n* Supporter Pack\n\nSobre MORDHAU\n=============\n\nMORDHAU é um jogo de combate medieval multijogador em primeira e terceira pessoa. Entre em um campo de batalha frenético com até 64 jogadores como um mercenário em um mundo fictício, mas realista, onde você experimentará o combate corpo a corpo brutal e satisfatório que faz você sempre querer mais.\n\nBatalhas enormes\n================\n\nDe combates em pequena escala a guerra total de 64 jogadores em modos como Frontline e Invasion.\n\nJogo cooperativo e offline\n==========================\n\nLute contra ondas de inimigos ao lado de seus amigos no modo cooperativo Horde ou pratique suas habilidades offline contra a IA.\n\nCombate corpo a corpo e à distância de forma livre\n==================================================\n\nTenha controle total sobre seu personagem e ataques e desenvolva seu estilo único.\n\nPersonalização de personagem detalhada\n======================================\n\nMolde seu rosto, crie sua arma a partir de peças e escolha partes individuais de armadura para criar o guerreiro perfeito.\n\nGrande arsenal de armas e equipamentos\n======================================\n\nEnfrente os inimigos com uma espada grande, dispare flechas do alto ou até construa fortificações.\n\nLute em qualquer lugar\n======================\n\nVivencie ataques de cavalaria, lute em escadas e opere máquinas de cerco, como a catapulta e a balista.\n\nCombate visceral e sangrento\n============================\n\nSinta o impacto de cada golpe e faça membros voarem enquanto detona seus inimigos \\(sangue e vísceras são opcionais\\).\n\nLutas autênticas\n================\n\nMORDHAU traz o equilíbrio entre jogabilidade e realismo com lutas que parecem reais.\n\n",
+                    "shortDescription": "MORDHAU Diamond Edition contém o jogo principal e 8 pacotes de DLC: -Jogo principal de MORDHAU -Adventurer pack (Pacote do Aventureiro) -Archduke Armor set (Conjunto de armadura do Arquiduque) -Dragon Armor set (Conjunto de armadura do Dragão) -Lion Armor set (Conjunto de armadura do Leão) -Grotesque Armor set (Conjunto de armadura Grotesco) -Continental Voice pack 1 (Pacote de voz Continental 1) -Continental Voice pack 2 (Pacote de voz Continental 2) -Banisher Weapon pack (Pacote de armas do Banidor)",
                     "title": "MORDHAU - Diamond Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"

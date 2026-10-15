@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/sheltered",
+    "_urlPattern": "/pt-BR/productv2/sheltered",
     "_slug": "sheltered",
     "_activeDate": "2021-08-19T16:02:34.845Z",
     "lastModified": "2021-08-19T16:36:30.505Z",
-    "_locale": "en-US",
-    "_id": "0d7343db-c5ef-4b33-8063-f29a41130542",
+    "_locale": "pt-BR",
+    "_id": "6db09aa7-3bef-4830-b206-bd303a4848d8",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/sheltered/home",
+            "_urlPattern": "/pt-BR/productv2/sheltered/home",
             "_slug": "home",
             "_activeDate": "2021-08-19T16:05:47.646Z",
             "lastModified": "2021-08-19T16:35:33.116Z",
-            "_locale": "en-US",
-            "_id": "721e83f4-3c15-41f1-867b-d5fde6d4ab3d",
+            "_locale": "pt-BR",
+            "_id": "e701a3a8-ff79-47db-b4f6-882767558a59",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -98,8 +98,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, German, Spanish - Spain, Italian, Russian, Chinese - Simplified, Portuguese - Brazil"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, alemão, espanhol (Espanha), italiano, russo, chinês simplificado, português (Brasil)"
                     ],
                     "systems": [
                         {
@@ -108,36 +108,36 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Dual Core CPU",
-                                    "recommended": "Quad Core CPU"
+                                    "title": "Processador",
+                                    "minimum": "Processador Dual Core",
+                                    "recommended": "Processador Quad Core"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4GB RAM",
-                                    "recommended": "4GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "600MB"
+                                    "title": "Armazenamento",
+                                    "minimum": "600 MB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "9.0"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "GeForce 7800, AMD HD 4600, Intel HD Graphics 3000 or above"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce 7800, AMD HD 4600, Intel HD Graphics 3000 ou superior"
                                 }
                             ]
                         }
@@ -151,7 +151,7 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "Sheltered. Developed by Unicube and Team 17 Digital Ltd © 2015. Published by Team17. Team17 are trademarks or registered trademarks of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners.",
+                    "copy": "Sheltered. Developed by Unicube and Team17 Digital Ltd © 2015. Published by Team17. Team17 are trademarks or registered trademarks of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners.",
                     "privacyPolicyLink": {
                         "src": "https://www.team17.com/privacy-policy/",
                         "_type": "Diesel Link"
@@ -166,8 +166,8 @@
                     "developerAttribution": "Unicube",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Team17",
-                    "description": "Panting, scared, the shelter airlock smashes down behind you. You wish you did not have to go outside, but you do. It would be easier to give up. But you don’t. The hardship, the hunger, the thirst. The fear. You keep reminding yourself why you stay alive. Why you do this. Then you hear it. “Daddy you’re back.” You wife’s face lights up and you open a bag full of medical supplies. You need not tell her how you got them. You simply enjoy your small victory in this, the harshest of times.\n\nSheltered is a post-apocalyptic disaster management game that gives a whole new meaning to the term “nuclear family”. Given a head-start over the billions lost in a nuclear holocaust, you must gather as many supplies as possible en route to the concrete underground shelter that will soon become your family home for the foreseeable dreary future.\n\n![Sheltered Image](https://cdn2.unrealengine.com/egs-sheltered-unicube-g2-00-1920x1080-b78a6d0154db.jpg)\n\n# Feature List\n\n- Family comes first: Keep your family alive and protect them from the ravages of the harsh post-apocalyptic world.\n\n- Make the shelter a home: Maintain your shelter - keep it secure, habitable and make sure that the family have enough resources to survive. Protect your shelter from hazards and infiltration!\n\n- Customisation: Your family is unique to you; you decide their gender, names and their appearance.\n\n- RPG mechanics: As your family develop, their stats will adapt with an evolving experience and trauma system. Attributes, strengths and weaknesses will change based on your choices.\n",
-                    "shortDescription": "Sheltered is a deep and emotional survival management game. You take on the role of protecting four family members who, after a global apocalypse, have found their way to a deserted shelter. ",
+                    "description": "Ofegante, com medo, a tranca do abrigo quebra bem atrás de você. Você gostaria de não ter que sair, mas precisa fazer isso. Seria mais fácil desistir. Mas você não desistirá. O sofrimento, a fome, a sede. O medo. Você fica se lembrando do motivo pelo qual continua vivo. Por que você faz isso. E aí você ouve uma voz. \"Papai, você voltou.\" O rosto da sua esposa se ilumina e você abre uma sacola cheia de suprimentos médicos. Você não precisa dizer a ela como os conseguiu. Você simplesmente desfruta dessa sua pequena vitória neste momento tão difícil.\n\nSheltered é um jogo de gerenciamento de desastres pós-apocalíptico que dá um significado totalmente novo ao termo \"família nuclear\". Com uma vantagem inicial em comparação aos bilhões de pessoas perdidas em um holocausto nuclear, você deve reunir o máximo de suprimentos possível enquanto segue rumo ao abrigo subterrâneo de concreto que, em breve, se tornará o lar da sua família por um período de tempo sombrio e indeterminado.\n\n![Sheltered Image](https://cdn2.unrealengine.com/egs-sheltered-unicube-g2-00-1920x1080-b78a6d0154db.jpg)\n\n# Lista de características\n\n- Família em primeiro lugar: mantenha sua família viva e proteja-a da devastação do cruel mundo pós-apocalíptico.\n\n- Transforme o abrigo em um lar: cuide do seu abrigo – mantenha-o seguro, habitável e garanta que a sua família tenha recursos suficientes para sobreviver. Proteja o abrigo de perigos e infiltrações!\n\n- Personalização: sua família é única, e é você quem decide os gêneros, nomes e aparências de todos.\n\n- Mecânica de RPG: conforme a sua família for se desenvolvendo, as estatísticas de todos serão adaptadas usando um sistema de experiência e trauma que continua evoluindo. Atributos, além de pontos fortes e fracos, mudarão com base nas suas escolhas.\n",
+                    "shortDescription": "Sheltered é um jogo de gerenciamento de sobrevivência profundo e emocionante. Você assume o papel de proteger quatro membros da sua família que, após um apocalipse global, encontraram um abrigo deserto. ",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }

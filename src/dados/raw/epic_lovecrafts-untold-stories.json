@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/lovecrafts-untold-stories",
+    "_urlPattern": "/pt-BR/productv2/lovecrafts-untold-stories",
     "_slug": "lovecrafts-untold-stories",
     "_activeDate": "2021-07-14T19:20:55.710Z",
     "lastModified": "2021-07-14T20:51:44.606Z",
-    "_locale": "en-US",
-    "_id": "352ac7e2-9ee3-4d89-ade6-86a4de0c0db6",
+    "_locale": "pt-BR",
+    "_id": "3f292cfc-b77d-491d-ba61-5eb0b2fb90b5",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/lovecrafts-untold-stories/bundle-edition",
+            "_urlPattern": "/pt-BR/productv2/lovecrafts-untold-stories/bundle-edition",
             "_slug": "bundle-edition",
             "_activeDate": "2021-07-14T19:23:16.596Z",
-            "lastModified": "2023-09-05T13:33:37.610Z",
-            "_locale": "en-US",
-            "_id": "37635cc1-b7bf-46c7-a80a-1d4f2cd0c1a8",
+            "lastModified": "2021-07-14T20:48:12.766Z",
+            "_locale": "pt-BR",
+            "_id": "219945ac-c652-4f9b-9e9a-9a34215dc01f",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -78,17 +78,6 @@
             "data": {
                 "productLinks": {
                     "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "Twitter.com/FulqrumPub",
-                    "linkTwitch": "https://www.twitch.tv/1c_company",
-                    "linkFacebook": "Facebook.com/FulqrumPublishing",
-                    "linkYoutube": "Youtube.com/c/FulqrumPublishing",
-                    "_type": "Diesel Social Links",
-                    "linkVk": "VK.com/FulqrumPublishing",
-                    "linkDiscord": "discord.gg/FulqrumPublishing",
-                    "linkHomepage": "https://www.fulqrumpublishing.com/game/755-lovecraft-s-untold-stories",
-                    "linkInstagram": "Instagram.com/FulqrumPublishing"
                 },
                 "requirements": {
                     "languages": [
@@ -102,39 +91,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7 / Windows 8 / Windows 10",
                                     "recommended": "Windows 7 / Windows 8 / Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Dual Core CPU 2GHz or better",
-                                    "recommended": "Dual Core CPU 2,4GHz or better"
+                                    "title": "Processador",
+                                    "minimum": "CPU Dual Core de 2 GHz ou melhor",
+                                    "recommended": "CPU Dual Core de 2,4 GHz ou melhor"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2GB",
-                                    "recommended": "2GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "9.0c",
                                     "recommended": "9.0c"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT",
-                                    "recommended": "Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 3000 / AMD HD 5450 / Nvidia 9400 GT",
+                                    "recommended": "Intel HD 3000 / AMD HD 5450 / Nvidia 9400 GT"
                                 }
                             ]
                         }
@@ -144,6 +133,17 @@
                     "rating": {
                         "_type": "Diesel Rating"
                     }
+                },
+                "socialLinks": {
+                    "linkTwitter": "Twitter.com/FulqrumPub",
+                    "linkTwitch": "https://www.twitch.tv/1c_company",
+                    "linkFacebook": "Facebook.com/FulqrumPublishing",
+                    "linkYoutube": "Youtube.com/c/FulqrumPublishing",
+                    "_type": "Diesel Social Links",
+                    "linkVk": "VK.com/FulqrumPublishing",
+                    "linkDiscord": "discord.gg/FulqrumPublishing",
+                    "linkHomepage": "https://www.fulqrumpublishing.com/game/755-lovecraft-s-untold-stories",
+                    "linkInstagram": "Instagram.com/FulqrumPublishing"
                 },
                 "navOrder": 2,
                 "footer": {
@@ -163,8 +163,8 @@
                     "developerAttribution": "LLC Blini Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Fulqrum Publishing",
-                    "description": "This package includes Lovecraft's Untold Stories game, Lovecraft's Untold Stories Official Soundtrack, and Lovecraft's Untold Stories Artbook.",
-                    "shortDescription": "This package includes Lovecraft's Untold Stories game, Lovecraft's Untold Stories Official Soundtrack, and Lovecraft's Untold Stories Artbook.",
+                    "description": "Este pacote inclui o jogo Lovecraft's Untold Stories, a trilha sonora oficial de Lovecraft's Untold Stories e o livro de ilustrações de Lovecraft's Untold Stories.\n\n",
+                    "shortDescription": "Este pacote inclui o jogo Lovecraft's Untold Stories, a trilha sonora oficial de Lovecraft's Untold Stories e o livro de ilustrações de Lovecraft's Untold Stories.",
                     "title": "Lovecraft's Untold Stories",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -195,7 +195,7 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "title": "Lovecraft's Untold Stories + OST + Artbook",
+                    "title": "Lovecraft's Untold Stories + Trilha sonora + Livro de ilustrações",
                     "isFullBleed": false,
                     "altContentPosition": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-lovecraftsuntoldstoriesostartbook-llcblinigames-editions-s1-2560x1440-505414aecfcc.jpg"
@@ -214,7 +214,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Lovecraft's Untold Stories Trailer",
+                                "title": "Trailer de Lovecraft's Untold Stories",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -404,9 +404,8 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Lovecraft's Untold Stories + OST + Artbook"
+                "navTitle": "Lovecraft's Untold Stories + Trilha sonora + Livro de ilustrações"
             },
-            "overwriteMapping": false,
             "type": "offer",
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-lovecraftsuntoldstoriesostartbook-llcblinigames-editions-g1a-03-1920x1080-92978df085a1.jpg",
@@ -466,13 +465,22 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/lovecrafts-untold-stories/home",
+            "_urlPattern": "/pt-BR/productv2/lovecrafts-untold-stories/home",
             "_slug": "home",
             "_activeDate": "2021-07-14T19:23:16.596Z",
-            "lastModified": "2023-09-05T13:32:40.832Z",
-            "_locale": "en-US",
-            "_id": "e44e6d91-e628-4451-9fb9-f3901aa1ea1d",
+            "lastModified": "2021-07-14T20:47:50.492Z",
+            "_locale": "pt-BR",
+            "_id": "26921179-a4f8-4007-b089-78f64817f803",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "2395d558dcb140c69c1bfac0bd2fa28b",
+                "id": "87f6fdd48c5043838c14a68371ad69b2",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -480,17 +488,6 @@
             "data": {
                 "productLinks": {
                     "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://www.Twitter.com/FulqrumPub",
-                    "linkTwitch": "https://www.twitch.tv/1c_company",
-                    "linkFacebook": "https://www.Facebook.com/FulqrumPublishing",
-                    "linkYoutube": "https://www.Youtube.com/c/FulqrumPublishing",
-                    "_type": "Diesel Social Links",
-                    "linkVk": "https://www.VK.com/FulqrumPublishing",
-                    "linkDiscord": "https://www.discord.gg/FulqrumPublishing",
-                    "linkHomepage": "https://www.fulqrumpublishing.com/game/755-lovecraft-s-untold-stories",
-                    "linkInstagram": "https://www.Instagram.com/FulqrumPublishing"
                 },
                 "requirements": {
                     "languages": [
@@ -504,39 +501,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7 / Windows 8 / Windows 10",
                                     "recommended": "Windows 7 / Windows 8 / Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Dual Core CPU 2GHz or better",
-                                    "recommended": "Dual Core CPU 2,4GHz or better"
+                                    "title": "Processador",
+                                    "minimum": "CPU Dual Core de 2 GHz ou melhor",
+                                    "recommended": "CPU Dual Core de 2,4 GHz ou melhor"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2GB",
-                                    "recommended": "2GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "9.0c",
                                     "recommended": "9.0c"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT",
-                                    "recommended": "Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 3000 / AMD HD 5450 / Nvidia 9400 GT",
+                                    "recommended": "Intel HD 3000 / AMD HD 5450 / Nvidia 9400 GT"
                                 }
                             ]
                         }
@@ -546,6 +543,17 @@
                     "rating": {
                         "_type": "Diesel Rating"
                     }
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://www.Twitter.com/FulqrumPub",
+                    "linkTwitch": "https://www.twitch.tv/1c_company",
+                    "linkFacebook": "https://www.Facebook.com/FulqrumPublishing",
+                    "linkYoutube": "https://www.Youtube.com/c/FulqrumPublishing",
+                    "_type": "Diesel Social Links",
+                    "linkVk": "https://www.VK.com/FulqrumPublishing",
+                    "linkDiscord": "https://www.discord.gg/FulqrumPublishing",
+                    "linkHomepage": "https://www.fulqrumpublishing.com/game/755-lovecraft-s-untold-stories",
+                    "linkInstagram": "https://www.Instagram.com/FulqrumPublishing"
                 },
                 "navOrder": 1,
                 "footer": {
@@ -565,8 +573,8 @@
                     "developerAttribution": "LLC Blini Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Fulqrum Publishing",
-                    "description": "Lovecraft’s Untold Stories is an action rogue-lite with RPG elements. You explore randomly generated levels based in H.P. Lovecraft stories, fighting cultists and all kinds of monsters from the Mythos, improving your weapons and gear, solving puzzles and challenges, and looking for clues and knowledge to defeat the Great Old Ones and the Outer Gods.\n\n# LIVE H.P. LOVECRAFT’S STORIES\n\nLovecraft’s Untold Stories is based on H.P. Lovecraft’s stories. You will experience first-hand the cosmic horror created by the genius of Providence. Every character will go through an investigation that will take them through different locations, from the creepy old Victorian mansion to the abandoned hospital where forbidden experiments take place or the jungle where lost tribes celebrate forgotten rituals, just to name a few. Levels are randomly generated: it will be a different experience every time you play. \n\nAlso, they vary depending on the character you’re playing with. Look for items and clues to unlock secrets and new stories!\n\n# 5 CHARACTERS, 5 WAYS OF FIGHTING THE MYTHOS\n\nYou can play as 5 different characters, each with a different playstyle and storyline. A private detective, a witch, a thief, a professor, and even a ghoul—each with different stats, weapons, and combat moves, creating five entirely different gameplay experiences. The Detective offers a balanced playstyle, with average Health and Stamina. The Professor is a specialist in ranged combat, with less Health and a special shield granted by his weapon, the Tillinghast. The Witch does a lot of damage, has teleport abilities and elemental shields of fire and ice, but also a very low Health.\n\nThe Thief is a specialist in melée combat that takes advantage of its stealth to maximize her damage. The ghoul does a lot of melée damage, has a high Health and regenerates itself, but can’t use medkits at all.\n\n# DISCOVER THE SECRETS OF THE GREAT OLD ONES\n\nThe truth of the dark horrors that inhabit the universe is unbearable for any human mind. In the end, you can’t win against the Old Ones. Madness or death await you. But maybe you can delay the inevitable… If you face the Great Old Ones without any knowledge about them, you will go mad just by looking at their hideous features. But spread across every level you will find special items with information about the Great Old Ones. \n\nThe more you know about them, the stronger your mind shall become – but knowledge is not easy to find, and if you are not thorough in your investigation you might get to the end of a storyline without finding everything that is to know. You will have to play with all the characters if you want to find all the information about every Great Old One!\n\n# MADNESS AWAITS\n\nInsanity crawls behind every corner for those who face the Mythos. In your investigations, you will face different situations where you have to choose what to do – make the wrong decision and you will start losing your mind. In order to face the Great Old Ones, you need knowledge, and to find it you have to explore – but the more you explore the more events that shake your sanity you will find… Those who go mad under the influence of the Mythos take their own life to escape the eternal terror they are now looking at. Not all hope is lost, though – there are some ways to recover your sanity…\n\n# KEY FEATURES\n\n- Fight hundreds of different monsters from the Cthulhu Mythos in this intense action rogue-lite\n\n- Explore Lovecraft’s stories: every character has a storyline that crosses randomly generated levels set in different locations from Lovecraft’s stories, such as the hospital, the jungle, or the port city just to name a few\n\n- Face the Great Old Ones: Great Cthulhu, Nyarlathotep, Dagon, Shub-Niggurath, and Azathoth await you in special levels\n\n- Investigate thoroughly: explore every corner to find secret levels and knowledge about the Great Old Ones\n\n- Learn about the Mythos to fight them: to have a chance at fighting the Great Old Ones you need to acquire knowledge about them, or their mere presence will drive you insane\n\n- Madness awaits: in the course of your adventures you will have to make some decisions, and taking the wrong ones will shake your sanity. If it gets too low, you will start losing your mind – and if you go mad you will take your own life to escape the horror\n\n- Pick your hero: Choose between 5 different characters, detective, the thief, the professor, the witch, and the ghoul\n\n- Different playstyles: every investigator has a different combat style and skills, but levels also vary depending on who you’re playing them with – so the gameplay experience is totally different\n\n- Collect and improve weapons, items, and artifacts. Each character has a set of weapons and items, and there are hundreds of other items you can find and use!\n\n- Look for clues and special items to unlock secrets and new stories",
-                    "shortDescription": "Lovecraft’s Untold Stories is an action rogue-lite with RPG elements. Explore randomly generated levels based on Lovecraft's stories, fight cultists and monsters from the Mythos, improve your gear, solve puzzles, and find how to defeat the Great Old Ones.",
+                    "description": "Lovecraft's Untold Stories é um roguelite de ação com elementos de RPG. Você explora fases geradas aleatoriamente com base nos contos de H.P. Lovecraft, lutando contra cultistas e todos os tipos de monstros dos Mitos, melhorando suas armas e equipamentos, solucionando quebra\\-cabeças e desafios e buscando pistas e conhecimento para derrotar os Grandes Antigos e os Deuses Exteriores.\n\nVIVA OS CONTOS DE H.P. LOVECRAFT\n================================\n\nLovecraft's Untold Stories é baseado nos contos de H.P. Lovecraft. Você vivenciará em primeira mão o horror cósmico criado pelo gênio de Providence. As investigações de cada personagem os conduzirão através de diferentes locais, desde a velha mansão vitoriana assustadora até o hospital abandonado onde experimentos proibidos acontecem, ou a selva onde tribos perdidas celebram rituais esquecidos, só para citar alguns. As fases são geradas aleatoriamente — cada vez que você jogar, você terá uma experiência diferente.\n\nAlém disso, as fases variam de acordo com o personagem que você escolhe. Procure itens e pistas para revelar segredos e novas histórias\\!\n\n5 PERSONAGENS, 5 FORMAS DE LUTAR CONTRA OS MITOS\n================================================\n\nVocê pode jogar com 5 personagens diferentes, cada um com estilo de jogo e enredo próprios. Um detetive particular, uma bruxa, uma ladra, um cientista e até um espírito maligno — cada um com diferentes atributos, armas e estilo de combate, criando cinco experiências de jogo completamente diferentes. O detetive oferece um estilo de jogo equilibrado, com vida e vigor médios. O cientista é um especialista em combate à distância, com menos vida e um escudo especial criado por sua arma, a Tillinghast. A bruxa causa muito dano, tem habilidades de teletransporte e escudos elementais de fogo e gelo, mas também pouquíssima vida.\n\nA ladra é especialista em combate corpo a corpo e faz uso de sua furtividade para maximizar os danos. O espírito maligno causa muito dano no corpo a corpo, tem Vida alta e se regenera, mas não pode usar kits médicos.\n\nDESCUBRA OS SEGREDOS DOS GRANDES ANTIGOS\n========================================\n\nA verdade sobre os horrores sombrios que habitam o universo é insuportável para qualquer mente humana. No fim das contas, é impossível vencer os Grandes Antigos. Loucura ou morte esperam por você. Mas talvez você possa adiar o inevitável... Se você enfrentar os Grandes Antigos sem nenhum conhecimento sobre eles, enlouquecerá só de olhar para suas horríveis feições. Mas você encontrará espalhados por todas as fases itens especiais com informações sobre os Grandes Antigos.\n\nQuanto mais você souber sobre eles, mais forte sua mente se tornará — mas o conhecimento não é fácil de encontrar, e se você não investigar minuciosamente, você poderá chegar ao final de uma história sem encontrar tudo o que precisa saber. Você terá que jogar com todos os personagens se quiser encontrar todas as informações sobre todos os Grandes Antigos\\!\n\nA LOUCURA AGUARDA\n=================\n\nA loucura espreita em todos os cantos aqueles que enfrentam os Mitos. Em suas investigações, você enfrentará diferentes situações em que terá que tomar uma decisão, e cada escolha errada deixará você um passo mais perto da loucura. Você precisa de conhecimento para enfrentar os Grandes Antigos, e terá que explorar para encontrá\\-lo — mas, quanto mais você explorar, mais eventos ensandecedores você encontrará... Aqueles que enlouquecem sob a influência dos Mitos tiram a própria vida para escapar do terror eterno para o qual estão olhando. Mas nem toda esperança está perdida — existem maneiras de recuperar sua sanidade...\n\nCARACTERÍSTICAS PRINCIPAIS\n==========================\n\n* Lute contra centenas de monstros diferentes dos Mitos Cthulhu neste roguelite de ação intenso.\n\n* Explore os contos de Lovecraft: cada personagem tem um enredo que cruza fases geradas aleatoriamente e ambientadas em diferentes locais dos contos de Lovecraft, como o hospital, a selva ou a cidade portuária, só para citar alguns.\n\n* Enfrente os Grandes Antigos: o Grande Cthulhu, Nyarlathotep, Dagon, Shub\\-Niggurath e Azathoth esperam por você em fases especiais.\n\n* Investigue minuciosamente: explore todos os cantos para encontrar fases e conhecimentos secretos sobre os Grandes Antigos.\n\n* Aprenda sobre os Mitos para combatê\\-los: para ter uma chance de lutar contra os Grandes Antigos, é preciso adquirir conhecimento sobre eles, ou você enlouquecerá ante a mera presença deles.\n\n* A loucura aguarda: no decorrer de suas aventuras você terá que tomar algumas decisões, e fazer a escolha errada abalará sua sanidade. Se ela cair demais, você vai começar a enlouquecer — e se enlouquecer, vai tirar a própria vida para escapar do horror\n\n* Escolha o seu herói: escolha entre 5 personagens diferentes, o detetive, a ladra, o cientista, a bruxa e o espírito maligno.\n\n* Diferentes estilos de jogo: cada investigador tem estilo de combate e habilidades diferentes, mas as fases também variam de acordo com quem você escolheu para jogar, ou seja, cada experiência de jogo é completamente diferente da outra.\n\n* Colete e melhore armas, itens e artefatos. Cada personagem possui um conjunto de armas e itens, e existem centenas de outros itens que você pode encontrar e usar\\!\n\n* Procure pistas e itens especiais para revelar segredos e novas histórias.\n\n",
+                    "shortDescription": "Lovecraft's Untold Stories é um roguelite de ação com elementos de RPG. Explore fases geradas aleatoriamente baseadas nos contos de Lovecraft, lute contra cultistas e monstros dos Mitos, melhore seu equipamento, solucione quebra-cabeças e descubra como derrotar os Grandes Antigos.",
                     "title": "Lovecraft's Untold Stories",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -616,7 +624,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Lovecraft's Untold Stories Trailer",
+                                "title": "Trailer de Lovecraft's Untold Stories",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -756,7 +764,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2395d558dcb140c69c1bfac0bd2fa28b",
-                            "description": "Lovecraft’s Untold Stories is an action rogue-lite with RPG elements. Explore randomly generated levels based on Lovecraft's stories, fight cultists and monsters from the Mythos, improve your gear, solve puzzles, and find how to defeat the Great Old Ones.",
+                            "description": "Lovecraft's Untold Stories é um roguelite de ação com elementos de RPG. Explore fases geradas aleatoriamente baseadas nos contos de Lovecraft, lute contra cultistas e monstros dos Mitos, melhore seu equipamento, solucione quebra-cabeças e descubra como derrotar os Grandes Antigos.",
                             "offerId": "87f6fdd48c5043838c14a68371ad69b2",
                             "tag": "edition",
                             "title": "Lovecraft's Untold Stories",
@@ -772,10 +780,10 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2395d558dcb140c69c1bfac0bd2fa28b",
-                            "description": "This package includes Lovecraft's Untold Stories game, Lovecraft's Untold Stories Official Soundtrack, and Lovecraft's Untold Stories Artbook.",
+                            "description": "Este pacote inclui o jogo Lovecraft's Untold Stories, a trilha sonora oficial de Lovecraft's Untold Stories e o livro de ilustrações de Lovecraft's Untold Stories.",
                             "offerId": "561ca70b7760473382d69af762eab073",
                             "tag": "edition",
-                            "title": "Lovecraft's Untold Stories + OST + Artbook",
+                            "title": "Lovecraft's Untold Stories + Trilha sonora + Livro de ilustrações",
                             "slug": "p/lovecrafts-untold-stories--bundle-edition"
                         }
                     ],
@@ -846,7 +854,11 @@
                 },
                 "navTitle": "Lovecraft's Untold Stories"
             },
-            "overwriteMapping": false,
+            "pageRegionBlock": "KR",
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
             "type": "productHome",
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-lovecraftsuntoldstories-llcblinigames-g1a-02-1920x1080-5b010945a6af.jpg",
@@ -861,21 +873,7 @@
                 "https://cdn2.unrealengine.com/egs-lovecraftsuntoldstories-llcblinigames-s2-1200x1600-2f2c96ec624a.jpg",
                 "https://cdn2.unrealengine.com/egs-lovecraftsuntoldstories-llcblinigames-g1a-08-1920x1080-d0f449b58cd1.jpg",
                 "https://cdn2.unrealengine.com/egs-lovecraftsuntoldstories-llcblinigames-g1a-04-1920x1080-3a5c8203d0a8.jpg"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "2395d558dcb140c69c1bfac0bd2fa28b",
-                "id": "87f6fdd48c5043838c14a68371ad69b2",
-                "hasOffer": true
-            },
-            "pageRegionBlock": "KR",
-            "ageGate": {
-                "hasAgeGate": false,
-                "_type": "Epic Store Age Gate"
-            }
+            ]
         }
     ]
 }

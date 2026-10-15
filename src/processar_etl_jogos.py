@@ -54,6 +54,10 @@ for arquivo in os.listdir(pasta_raw):
     if chave not in jogos_consolidados:
         jogos_consolidados[chave] = {
             "nome_original": nome_jogo,
+            # Flags de presença nas plataformas
+            "tem_steam": False,
+            "tem_epic": False,
+            "tem_gog": False,
             # Steam Data
             "steam_generos": [],
             "steam_lancamento": None,
@@ -66,20 +70,17 @@ for arquivo in os.listdir(pasta_raw):
             "epic_lancamento": None,
             "epic_preco": None,
             "epic_gratis_data": None,
-            "epic_reviews_qtd": 0,
-            "epic_reviews_pct": None,
             # GOG Data
             "gog_generos": [],
             "gog_lancamento": None,
             "gog_preco": None,
-            "gog_reviews_qtd": 0,
-            "gog_reviews_pct": None
         }
 
     # Fase de transformação por plataforma
     reg = jogos_consolidados[chave]
 
     if origem == "steam":
+        reg["tem_steam"] = True
         for key, val in data.items():
             if isinstance(val, dict) and "data" in val:
                 d = val["data"]
@@ -93,6 +94,9 @@ for arquivo in os.listdir(pasta_raw):
                 recs = d.get("recommendations", {}).get("total", 0)
                 reg["steam_reviews_qtd"] = recs
 
+                if "metacritic" in d and d["metacritic"].get("score"):
+                    reg["steam_reviews_pct"] = float(d['metacritic']["score"])
+
                 # Lógica da Valve Multiplier para estimar a quantidade de donos de determinado jogo através da quantidade de reviews e um fator médio
                 if recs > 0:
                     min_donos = int(recs * 30)
@@ -102,9 +106,10 @@ for arquivo in os.listdir(pasta_raw):
                     reg["steam_donos"] = "Menos de 20000"
     
     elif origem == "epic":
+        reg["tem_epic"] = True
         reg["epic_lancamento"] = data.get("effectiveDate") or data.get("releaseDate")
         price_info = data.get("price", {}).get("totalPrice", {})
-        reg["epic_preco"] = price_info.get("fmtPrice", {}).get("intermediatePrice")
+        reg["epic_preco"] = price_info.get("fmtPrice", {}).get("intermediatePrice") or price_info.get("fmtPrice", {}).get("originalPrice") or price_info.get("fmtPrice", {}).get("discountPrice")
 
         tags = data.get("tags") or data.get("categories", [])
         tag_names = []
@@ -120,9 +125,24 @@ for arquivo in os.listdir(pasta_raw):
             reg["epic_gratis_data"] = data.get("data_aquisicao_gratis")
 
     elif origem == "gog":
+        reg["tem_gog"] = True
         reg["gog_lancamento"] = data.get("release_date")
         price_gog = data.get("price", {})
-        reg["gog_preco"] = price_gog.get("final")
+        gog_preco_val = None
+        if isinstance(price_gog, dict):
+            gog_preco_val = (price_gog.get("finalFormatted") or price_gog.get("final") or price_gog.get("amount"))
+            if not gog_preco_val and "values" in price_gog:
+                values_dict = price_gog.get("values", {})
+                if isinstance(values_dict, dict):
+                    brl_val = values_dict.get("BRL") or values_dict.get("USD")
+                    if isinstance(brl_val, dict):
+                        gog_preco_val = brl_val.get("finalFormatted") or brl_val.get("final")
+                    elif isinstance(brl_val, (int, float, str)):
+                        gog_preco_val = brl_val
+        elif isinstance(price_gog, (int, float, str)):
+            gog_preco_val = price_gog
+
+        reg["gog_preco"] = gog_preco_val
 
         genres_gog = data.get("genres", [])
         if genres_gog:
@@ -142,22 +162,21 @@ for chave, reg in jogos_consolidados.items():
     #Data de lançamento unificada
     lancamento = (reg["steam_lancamento"] or reg["epic_lancamento"] or reg["gog_lancamento"])
 
-    preco = reg["steam_preco"] or reg["epic_preco"] or reg["gog_preco"]
-
     linhas_tabela.append({
         "Jogo": reg["nome_original"],
         "Gênero primário": genero_primario,
         "Gênero secundário": genero_secundario,
         "Data de lançamento": lancamento,
-        "Preço": preco,
+        "Preço Steam": reg["steam_preco"],
+        "Preço Epic": reg["epic_preco"],
+        "Preço GOG": reg["gog_preco"],
         "Data Aquisição Gratuita Epic": reg["epic_gratis_data"],
         "Estimativa Donos Steam": reg["steam_donos"],
         "Qtd Reviews Steam": reg["steam_reviews_qtd"],
-        "Qtd Reviews Epic": reg["epic_reviews_qtd"],
-        "Qtd Reviews GOG": reg["gog_reviews_qtd"],
         "% Positivas Steam": reg["steam_reviews_pct"],
-        "% Positivas Epic": reg["epic_reviews_pct"],
-        "% Positivas GOG": reg["gog_reviews_pct"],
+        "Disponível na Steam": "Sim" if reg["tem_steam"] else "Não",
+        "Disponível na Epic": "Sim" if reg["tem_epic"] else "Não",
+        "Disponível na GOG": "Sim" if reg["tem_gog"] else "Não",
     })
 
 # Criar o dataframe final

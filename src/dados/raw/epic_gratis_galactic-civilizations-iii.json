@@ -62,12 +62,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/galactic-civilizations-iii",
+    "_urlPattern": "/pt-BR/productv2/galactic-civilizations-iii",
     "_slug": "galactic-civilizations-iii",
     "_activeDate": "2021-01-04T20:36:28.467Z",
-    "lastModified": "2021-01-14T15:51:07.025Z",
-    "_locale": "en-US",
-    "_id": "4ce62850-f0ce-4c71-af6e-08dd12a10b0d",
+    "lastModified": "2021-01-11T17:20:34.210Z",
+    "_locale": "pt-BR",
+    "_id": "f32cf1d9-1bbf-4a53-908d-ea5c8b635cdf",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -144,12 +144,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/galactic-civilizations-iii/home",
+            "_urlPattern": "/pt-BR/productv2/galactic-civilizations-iii/home",
             "_slug": "home",
             "_activeDate": "2021-01-04T20:38:00.575Z",
-            "lastModified": "2021-01-28T20:18:34.882Z",
-            "_locale": "en-US",
-            "_id": "511e2586-210b-4eb7-9c4f-ce5a1b194dca",
+            "lastModified": "2021-01-28T20:22:42.737Z",
+            "_locale": "pt-BR",
+            "_id": "ec4de6cc-e32c-46a4-b947-36eaaab9eb50",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -165,16 +165,6 @@
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins",
-                    "links": [
-                        {
-                            "src": "https://forums.galciv3.com/",
-                            "_type": "Diesel Link",
-                            "title": "Official Forum"
-                        }
-                    ]
-                },
                 "socialLinks": {
                     "linkTwitch": "https://www.twitch.tv/stardock",
                     "linkTwitter": "https://twitter.com/GalCiv",
@@ -185,7 +175,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English"
+                        "ÁUDIO: inglês"
                     ],
                     "systems": [
                         {
@@ -194,44 +184,44 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 10 / 8.x / 7",
-                                    "recommended": "64-bit Windows 10 / 8.x / 7"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 10 / 8.x /7 de 64 bits",
+                                    "recommended": "Windows 10 / 8.x /7 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "1.8 GHz Intel Core 2 Duo / AMD K10 Dual-Core",
-                                    "recommended": "2.3 GHz Intel Core i5 Processor or Equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo de 1,8 GHz / AMD K10 Dual-Core",
+                                    "recommended": "Processador Intel Core i5 de 2,3 GHz ou equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "12 GB",
                                     "recommended": "15 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "10",
                                     "recommended": "10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "512 MB DirectX 10.1 Video Card (AMD Radeon HD5x00 Series  / Nvidia GeForce 500 Series / Intel HD 4000 or later)",
-                                    "recommended": "1 GB DirectX 10.1 Video Card"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 10.1 de 512 MB (AMD Radeon Série HD5x00 / Nvidia GeForce Série 500 / Intel HD 4000 ou posterior)",
+                                    "recommended": "Placa de vídeo compatível com DirectX 10.1 de 1 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "DirectX Compatible Sound Card"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som compatível com DirectX"
                                 }
                             ]
                         }
@@ -242,6 +232,16 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "src": "https://forums.galciv3.com/",
+                            "_type": "Diesel Link",
+                            "title": "Fórum oficial"
+                        }
+                    ]
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -249,7 +249,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.stardock.com/policies/privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -261,9 +261,9 @@
                     "developerAttribution": "Stardock Entertainment",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Stardock Entertainment",
-                    "description": "What if one day, humans woke up to find that they weren’t alone in the galaxy? They make their way into space and discover other alien civilizations with their own histories and motivations looking to make a name for themselves. Choose your race - Human, Drengin, Altarian, and so many more - and lead your civilization into a golden age in one of the largest 4X strategy games ever made!\n\nResearch new technology, design starships, and colonize new worlds as you face threats and conquer challenges from new and mysterious sources. Negotiate trade and treaties, wage wars, spy on your enemies, and promote outstanding citizens. And when you've finished that, play again as one of the many included alien civilizations each with its own history, technology tree, ship components, and more.\n\nGalactic Civilizations III now bundles in the Crusade and Retribution expansions, plus the Mega Events add-on content for an even greater gameplay experience! Join the ranks of galactic leaders today, and answer the question: how will you rule your galaxy?\n\n# NEVER THE SAME GAME TWICE\n\nEach new game offers an array of options as you set it up - choose your map size, abundance of planets and resources, frequency of events, and more for a unique play experience every time. Galactic Civilizations III also removes linear victory conditions and offers you multiple objectives that you can choose to pursue in order to win, such as military conquest, cultural domination, technological ascension, or political alliances. All of this, topped with a rich and in-depth custom ship designer ensure an immersive and exciting experience as you decide how to rule your galaxy.\n\n# Features\n\n- The ultimate sandbox experience: Each game has a unique map, worlds, and challenges to face -- all on a massive scale. Play against 16 to 100 opponents.\n\n- Multiple paths to victory: Win through military conquest, cultural domination, technological ascension, or political alliance.\n\n- Massive technology tree: Research a technology tree with immense breadth and depth. Each playable faction has their own unique specializations. \n\n- Faction & Ship Customization: Create a civilization with its own look, ships, technologies, and even options for how the AI will use them.\n\n- A deep economy: Every world is unique with many different resources that can change the course of your strategy each game.\n\n- Planetary Governors: Utilize individual planetary leaders to govern your worlds, deciding what improvements to build and when, which leaves you to focus on larger strategic goals.\n\n- Artifacts: Powerful items buried on planets across the galaxy will give your civilization instant-access to new abilities.\n\n- Hypergates: Construct powerful gateways that, when linked, allow your fleets to travel even faster across hyperspace.\n\n- Espionage: Spies can steal technologies, circulate rumors to create civil unrest, sabotage enemy worlds, or even go so far as to assassinate enemy citizens.\n\n- Galactic Citizens: Shape the course of your civilization’s destiny with talented individuals called citizens. Choose from over a dozen unique roles - commander, engineer, farmer, celebrity, and more.\n\n- Galaxy-wide Events: Deal with issues on a galactic scale",
-                    "shortDescription": "Build a civilization that will stand the test of time! Choose from dozens of unique races and make a name for yourself across the galaxy through diplomacy, espionage, technological advances, and more.",
-                    "title": "About the Game",
+                    "description": "E se um dia os humanos acordassem e descobrissem que não estão sozinhos na galáxia? Eles conquistam o espaço e descobrem outras civilizações alienígenas com suas próprias histórias e motivações procurando fama e glória. Escolha sua raça - Humanos, Drengin, Altarianos e várias outras - e leve sua civilização a uma era dourada em um dos maiores jogos de estratégia 4X já produzidos!\n\nPesquise novas tecnologias, projete espaçonaves e colonize novos mundos à medida que enfrenta ameaças e supera desafios vindos de novas e misteriosas fontes. Negocie comércios e tratados, trave guerras, espione os inimigos e promova cidadãos excepcionais. E quando você terminar, jogue novamente como uma das diversas civilizações alienígenas incluídas, cada uma com sua própria história, árvore de tecnologia, componentes de nave e muito mais.\n\nGalactic Civilizations III agora vem com as expansões Crusade e Retribution, além do conteúdo adicional Mega Events, para uma experiência de jogo ainda melhor! Entre para a hierarquia dos líderes galácticos hoje mesmo e responda à pergunta: como você vai comandar a sua galáxia?\n\n# O JOGO NUNCA É O MESMO\n\nCada novo jogo oferece diversas opções conforme você o configura - escolha o tamanho do mapa, a abundância de planetas e recursos, a frequência de eventos e muito mais, para uma experiência de jogo única sempre. Galactic Civilizations III também elimina as condições de vitória lineares e oferece vários objetivos para que você possa escolher o que fazer para vencer, como conquista militar, dominação cultural, ascensão tecnológica ou alianças políticas. Tudo isso, complementado por um projetador de naves personalizado, avançado e aprofundado, garante uma experiência envolvente e empolgante à medida que você decide como comandar sua galáxia.\n\n# Características\n\n- A experiência suprema no modo sandbox: cada jogo tem um mapa único, além de mundos e de desafios para serem enfrentados - tudo em grande escala. É possível jogar contra 16 a 100 oponentes.\n\n- Vários caminhos para a vitória: vença através da conquista militar, dominação cultural, ascensão tecnológica ou aliança política.\n\n- Árvore de tecnologia gigantesca: pesquise uma árvore de tecnologia com largura e profundidade imensas. Cada facção jogável tem suas próprias especializações. \n\n- Personalização de facções e naves: crie uma civilização com seu próprio visual, naves, tecnologias e até opções próprias para determinar como a IA usará tudo isso.\n\n- Uma economia forte: cada mundo é único e tem diversos recursos que podem mudar o curso da sua estratégia a cada jogo.\n\n- Governadores Planetários: use líderes planetários para governar seus mundos e decidir que melhorias realizar e quando, permitindo que você se concentre em objetivos estratégicos maiores.\n\n- Artefatos: itens poderosos enterrados em planetas por toda a galáxia darão à sua civilização acesso instantâneo a novas habilidades.\n\n- Hiperportais (Hypergates): construa poderosos portais (gateways) que, quando conectados, permitem que suas frotas viajem ainda mais rápido pelo hiperespaço.\n\n- Espionagem: os espiões podem roubar tecnologias, fazer circular rumores para criar desordem civil, sabotar mundos inimigos ou até mesmo assassinar cidadãos inimigos.\n\n- Cidadãos Galácticos (Galactic Citizens): molde o destino de sua civilização com indivíduos talentosos chamados cidadãos. Escolha entre mais de uma dúzia de funções exclusivas - comandante, engenheiro, agricultor, celebridade e muito mais.\n\n- Eventos de toda a galáxia: enfrente problemas em escala galáctica",
+                    "shortDescription": "Construa uma civilização que resistirá ao teste do tempo! Escolha entre dezenas de raças singulares e fique famoso em toda a galáxia usando diplomacia, espionagem, avanços tecnológicos e muito mais.",
+                    "title": "Sobre o jogo",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -334,7 +334,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "3c52fbac843d4375803187739db84801",
-                            "description": "Build a civilization that will stand the test of time! Choose from dozens of unique races and make a name for yourself across the galaxy through diplomacy, espionage, technological advances, and more.",
+                            "description": "Construa uma civilização que resistirá ao teste do tempo! Escolha entre dezenas de raças singulares e fique famoso em toda a galáxia usando diplomacia, espionagem, avanços tecnológicos e muito mais.",
                             "offerId": "5d63b78c08184c10933a47874117db8c",
                             "tag": "edition",
                             "title": "Galactic Civilizations III",
@@ -350,7 +350,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "3c52fbac843d4375803187739db84801",
-                            "description": "The Galactic Civilizations III Ultimate Edition includes Galactic Civilizations III plus all of its DLCs and expansions. Choose from dozens of unique races and make a name for yourself across the galaxy!",
+                            "description": "Galactic Civilizations III Ultimate Edition inclui Galactic Civilizations III além de todos os seus DLCs e expansões. Escolha entre dezenas de raças singulares e fique famoso em toda a galáxia!",
                             "offerId": "b7bc360077eb4ecda29180057fc3f0c2",
                             "tag": "edition",
                             "title": "Galactic Civilizations III Ultimate Edition",
@@ -406,9 +406,13 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "description": "Galactic Civilizations III | Download and Buy Today - Epic Games Store"
+                    "description": "Galactic Civilizations III | Baixe e compre hoje mesmo - Epic Games Store"
                 },
                 "productSections": [
+                    {
+                        "productSection": "PRODUCT_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
                     {
                         "productSection": "EDITIONS",
                         "_type": "Diesel Product Section"
@@ -439,10 +443,6 @@
                     },
                     {
                         "productSection": "ABOUT",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "PRODUCT_LINKS",
                         "_type": "Diesel Product Section"
                     }
                 ],
@@ -558,12 +558,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/galactic-civilizations-iii/ultimate-edition",
+            "_urlPattern": "/pt-BR/productv2/galactic-civilizations-iii/ultimate-edition",
             "_slug": "ultimate-edition",
             "_activeDate": "2021-01-04T23:21:49.251Z",
-            "lastModified": "2021-01-28T20:18:45.599Z",
-            "_locale": "en-US",
-            "_id": "747747dc-bb92-4154-8425-69241b21119b",
+            "lastModified": "2021-01-28T20:22:54.038Z",
+            "_locale": "pt-BR",
+            "_id": "6d8eae76-2693-40fa-9e87-66bdaef85c7a",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -583,7 +583,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English"
+                        "ÁUDIO: inglês"
                     ],
                     "systems": [
                         {
@@ -592,44 +592,44 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 10 / 8.x / 7",
-                                    "recommended": "64-bit Windows 10 / 8.x / 7"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 10 / 8.x / 7 de 64 bits",
+                                    "recommended": "Windows 10 / 8.x / 7 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "1.8 GHz Intel Core 2 Duo / AMD K10 Dual-Core",
-                                    "recommended": "2.3 GHz Intel Core i5 Processor or Equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo de 1,8 GHz / AMD K10 Dual-Core",
+                                    "recommended": "Processador Intel Core i5 de 2,3 GHz ou equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "6 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "12 GB",
                                     "recommended": "15 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "10",
                                     "recommended": "10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "512 MB DirectX 10.1 Video Card (AMD Radeon HD5x00 Series  / Nvidia GeForce 500 Series / Intel HD 4000 or later)",
-                                    "recommended": "1 GB DirectX 10.1 Video Card"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 10.1 de 512 MB (AMD Radeon Série HD5x00 / Nvidia GeForce Série 500 / Intel HD 4000 ou posterior)",
+                                    "recommended": "Placa de vídeo compatível com DirectX 10.1 de 1 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "DirectX Compatible Sound Card"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som compatível com DirectX"
                                 }
                             ]
                         }
@@ -647,7 +647,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.stardock.com/policies/privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -659,7 +659,7 @@
                     "developerAttribution": "Stardock Entertainment",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Stardock Entertainment",
-                    "shortDescription": "The Galactic Civilizations III Ultimate Edition includes Galactic Civilizations III plus all of its DLCs and expansions. Choose from dozens of unique races and make a name for yourself across the galaxy!",
+                    "shortDescription": "Galactic Civilizations III Ultimate Edition inclui Galactic Civilizations III além de todos os seus DLCs e expansões. Escolha entre dezenas de raças singulares e fique famoso em toda a galáxia!",
                     "title": "Galactic Civilizations III Ultimate Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"

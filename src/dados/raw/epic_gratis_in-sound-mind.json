@@ -23,12 +23,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/in-sound-mind",
+    "_urlPattern": "/pt-BR/productv2/in-sound-mind",
     "_slug": "in-sound-mind",
     "_activeDate": "2021-09-15T17:41:25.911Z",
     "lastModified": "2021-09-15T17:41:49.223Z",
-    "_locale": "en-US",
-    "_id": "4fa1e12b-e060-4c14-9353-723e07c0b54a",
+    "_locale": "pt-BR",
+    "_id": "c68521e1-a9e9-4818-b217-3a9708de16d4",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -56,12 +56,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/in-sound-mind/home",
+            "_urlPattern": "/pt-BR/productv2/in-sound-mind/home",
             "_slug": "home",
             "_activeDate": "2021-09-15T17:41:53.870Z",
-            "lastModified": "2024-02-15T20:01:45.331Z",
-            "_locale": "en-US",
-            "_id": "1d996c36-5ae0-4779-b844-bd3dfd8218b9",
+            "lastModified": "2021-09-15T22:40:21.151Z",
+            "_locale": "pt-BR",
+            "_id": "af091cee-6ebb-4a18-a8f1-a181cb099f33",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -88,8 +88,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Italian, Spanish - Spain, Japanese, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese - Brazil, Russian"
+                        "Áudio: inglês",
+                        "Texto: inglês, italiano, espanhol (Espanha), japonês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português (Brasil), russo"
                     ],
                     "systems": [
                         {
@@ -98,31 +98,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 7",
-                                    "recommended": "64-bit Windows 10"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Core i5-4460 / AMD FX-6300",
                                     "recommended": "Core i7-3770 / AMD FX-9590"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Nvidia GeForce GTX 960 / AMD Radeon R9 280",
                                     "recommended": "Nvidia GeForce GTX 1060 / AMD Radeon RX 480"
                                 }
@@ -152,8 +152,8 @@
                     "developerAttribution": "We Create Stuff",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Maximum Entertainment LLC",
-                    "description": "In Sound Mind is an imaginative first-person psychological horror with frenetic puzzles, unique boss fights, and original music by The Living Tombstone. Explore and fight through a series of unsettling memories as you journey within the inner workings of the one place you can’t seem to escape—your own mind.\n",
-                    "shortDescription": "In Sound Mind is an imaginative first-person psychological horror with frenetic puzzles, unique boss fights, and original music by The Living Tombstone. Journey within the inner workings of the one place you can’t seem to escape—your own mind.",
+                    "description": "In Sound Mind é um jogo de terror psicológico em primeira pessoa, com quebra-cabeças frenéticos, lutas com chefões inigualáveis e trilha sonora original de The Living Tombstone. Explore e lute através de uma série de memórias inquietantes ao longo de sua jornada pelas engrenagens do único lugar de onde você não consegue escapar: sua própria mente.\n",
+                    "shortDescription": "In Sound Mind é um jogo de terror psicológico em primeira pessoa, com quebra-cabeças frenéticos, lutas com chefões inigualáveis e trilha sonora original de The Living Tombstone. Viaje pelas engrenagens do único lugar de onde você não consegue escapar: sua própria mente.",
                     "title": "In Sound Mind",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -389,9 +389,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -404,7 +401,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
-                            "description": "In Sound Mind is an imaginative first-person psychological horror with frenetic puzzles, unique boss fights, and original music by The Living Tombstone. Explore and fight through a series of unsettling memories as you journey within the inner workings of the one place you can’t seem to escape—your own mind.\n",
+                            "description": "In Sound Mind é um jogo de terror psicológico em primeira pessoa, com quebra-cabeças frenéticos, lutas com chefões inigualáveis e trilha sonora original de The Living Tombstone. Explore e lute através de uma série de memórias inquietantes ao longo de sua jornada pelas engrenagens do único lugar de onde você não consegue escapar: sua própria mente.\n",
                             "offerId": "9bbfe5536ecc4a1190e07cb4cbeb7ddb",
                             "title": "In Sound Mind",
                             "slug": "p/in-sound-mind"
@@ -419,7 +416,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
-                            "description": "From the creators of the cult classic Nightmare House 2 comes In Sound Mind, a witty first-person psychological horror with frenetic puzzles and unique boss fights.\n\nIn Sound Mind Digital Deluxe Edition includes the digital soundtrack by The Living Tombstone.",
+                            "description": "Dos criadores do cultuado clássico Nightmare House 2, In Sound Mind é um astuto jogo de terror psicológico em primeira pessoa com quebra-cabeças frenéticos e lutas com chefões inigualáveis.\n\nIn Sound Mind Digital Deluxe Edition inclui a trilha sonora digital de The Living Tombstone.",
                             "offerId": "bd2fd3348efc48ce8c8ff89cd05ebe8e",
                             "title": "In Sound Mind Digital Deluxe Edition",
                             "slug": "p/in-sound-mind--digital-deluxe-edition"
@@ -472,7 +469,6 @@
                 },
                 "navTitle": "In Sound Mind"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
@@ -523,13 +519,23 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/in-sound-mind/digital-deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/in-sound-mind/digital-deluxe-edition",
             "_slug": "digital-deluxe-edition",
             "_activeDate": "2021-09-15T18:07:34.369Z",
-            "lastModified": "2024-03-31T16:28:16.545Z",
-            "_locale": "en-US",
-            "_id": "b634929d-f5d4-43d5-bbcd-73992f790c5b",
+            "lastModified": "2021-09-15T22:39:59.703Z",
+            "_locale": "pt-BR",
+            "_id": "78731bf6-5ddb-4cbd-a82e-2a65b221e408",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+                "id": "bd2fd3348efc48ce8c8ff89cd05ebe8e",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
@@ -546,8 +552,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Italian, Spanish - Spain, Japanese, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese - Brazil, Russian"
+                        "Áudio: inglês",
+                        "Texto: inglês, italiano, espanhol (Espanha), japonês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português (Brasil), russo"
                     ],
                     "systems": [
                         {
@@ -556,31 +562,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "64-bit Windows 7",
-                                    "recommended": "64-bit Windows 10"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Core i5-4460 / AMD FX-6300",
                                     "recommended": "Core i7-3770 / AMD FX-9590"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "20 GB available space",
-                                    "recommended": "20 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Nvidia GeForce GTX 960 / AMD Radeon R9 280",
                                     "recommended": "Nvidia GeForce GTX 1060 / AMD Radeon RX 480"
                                 }
@@ -605,14 +611,13 @@
                 "_type": "Diesel Product Detail",
                 "about": {
                     "image": {
-                        "src": "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-s2-1200x1600-afed82c5299d.jpg",
                         "_type": "Diesel Image"
                     },
                     "developerAttribution": "We Create Stuff",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Maximum Entertainment LLC",
-                    "description": "In Sound Mind is an imaginative first-person psychological horror with frenetic puzzles, unique boss fights, and original music by The Living Tombstone. Explore and fight through a series of unsettling memories as you journey within the inner workings of the one place you can’t seem to escape—your own mind.\n\nIn Sound Mind Digital Deluxe Edition includes the digital soundtrack by The Living Tombstone.",
-                    "shortDescription": "From the creators of the cult classic Nightmare House 2 comes In Sound Mind, a witty first-person psychological horror with frenetic puzzles and unique boss fights.  In Sound Mind Digital Deluxe Edition includes the digital soundtrack by The Living Tombstone.",
+                    "description": "In Sound Mind é um jogo de terror psicológico em primeira pessoa, com quebra-cabeças frenéticos, lutas com chefões inigualáveis e trilha sonora original de The Living Tombstone. Explore e lute através de uma série de memórias inquietantes ao longo de sua jornada pelas engrenagens do único lugar de onde você não consegue escapar: sua própria mente.\n\nIn Sound Mind Digital Deluxe Edition inclui a trilha sonora digital de The Living Tombstone.",
+                    "shortDescription": "Dos criadores do cultuado clássico Nightmare House 2, In Sound Mind é um astuto jogo de terror psicológico em primeira pessoa com quebra-cabeças frenéticos e lutas com chefões inigualáveis.  In Sound Mind Digital Deluxe Edition inclui a trilha sonora digital de The Living Tombstone.",
                     "title": "In Sound Mind Digital Deluxe Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -663,7 +668,6 @@
                                 "hasControls": true,
                                 "type": "epicHosted",
                                 "muted": true,
-                                "poster": "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-s1-2560x1440-0f0537e07243.jpg",
                                 "autoplay": true
                             }
                         },
@@ -744,9 +748,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -789,33 +790,21 @@
                 },
                 "navTitle": "In Sound Mind Digital Deluxe Edition"
             },
-            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
             "type": "offer",
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-g1a-01-1920x1080-d1f84fa1b3e7.jpg",
                 "https://cdn2.unrealengine.com/languagecode-wecreatestuff-insoundmind-ic1-fullcolor-400x90-aea41eabea83.png",
                 "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-g1a-03-1920x1080-7eb3b933cc94.jpg",
-                "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-s1-2560x1440-0f0537e07243.jpg",
                 "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-s2-1200x1600-afed82c5299d.jpg",
                 "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-g1a-00-1920x1080-9507c1a361d4.jpg",
                 "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-g1a-02-1920x1080-8abd5d947111.jpg",
                 "https://cdn2.unrealengine.com/egs-insoundminddigitaldeluxeedition-wecreatestuff-bundles-g1a-04-1920x1080-61b3734cef5a.jpg"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
-                "id": "bd2fd3348efc48ce8c8ff89cd05ebe8e",
-                "type": "edition",
-                "hasOffer": true
-            },
-            "ageGate": {
-                "hasAgeGate": false,
-                "_type": "Epic Store Age Gate"
-            },
-            "tag": "edition"
+            ]
         }
     ],
     "data_aquisicao_gratis": "17 de Março de 2022 a 24 de Março, 2022"

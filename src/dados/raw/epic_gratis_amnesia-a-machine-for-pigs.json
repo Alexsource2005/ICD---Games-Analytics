@@ -43,12 +43,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/amnesia-a-machine-for-pigs",
+    "_urlPattern": "/pt-BR/productv2/amnesia-a-machine-for-pigs",
     "_slug": "amnesia-a-machine-for-pigs",
     "_activeDate": "2020-09-24T22:42:27.219Z",
     "lastModified": "2020-09-24T22:52:38.599Z",
-    "_locale": "en-US",
-    "_id": "6bc395f3-5127-4e73-8b6c-1cc44c8a474a",
+    "_locale": "pt-BR",
+    "_id": "ea67f927-5bfc-478a-8bf0-735388dbb726",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -71,6 +71,7 @@
             "_title": "home",
             "_noIndex": false,
             "_images_": [
+                "https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-s5-1360x765-147398666.jpg",
                 "https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-s2-860x1148-147398593.jpg",
                 "https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-s1-2560x1440-147399366.jpg",
                 "https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-g1a-03-1920x1080-147398634.jpg",
@@ -104,12 +105,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/amnesia-a-machine-for-pigs/home",
+            "_urlPattern": "/pt-BR/productv2/amnesia-a-machine-for-pigs/home",
             "_slug": "home",
             "_activeDate": "2020-09-24T22:46:44.625Z",
-            "lastModified": "2022-01-20T18:04:41.975Z",
-            "_locale": "en-US",
-            "_id": "cbc9362e-ea04-49af-858d-6ce7c56f15e6",
+            "lastModified": "2020-10-05T14:01:41.186Z",
+            "_locale": "pt-BR",
+            "_id": "090f1d25-5db7-445e-a1e1-d56d9d4627a9",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -135,13 +136,13 @@
                     "linkYoutube": "https://youtube.com/user/frictionalgames",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/frictionalgames",
-                    "title": "Follow Frictional Games",
+                    "title": "Siga Frictional Games",
                     "linkInstagram": "https://instagram.com/frictionalgames/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, French, Czech, German, Hungarian, Polish, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, tcheco, alemão, húngaro, polonês, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -150,38 +151,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows Vista",
                                     "recommended": "Windows 7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i3 / AMD A6 CPU or equivalent.",
-                                    "recommended": "Intel Core i5 / AMD FX CPU or equivalent."
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 / AMD A6 CPU ou equivalente.",
+                                    "recommended": "Intel Core i5 / AMD FX CPU ou equivalente."
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "5 GB",
                                     "recommended": "5 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce 200 / AMD Radeon HD 5000 or equivalent.",
-                                    "recommended": "NVIDIA GeForce 400 / AMD Radeon HD 6000 or equivalent."
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce 200 / AMD Radeon HD 5000 ou equivalente.",
+                                    "recommended": "NVIDIA GeForce 400 / AMD Radeon HD 6000 ou equivalente."
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": " Integrated Intel HD Graphics should work but is not supported; problems are generally solved with a driver update."
+                                    "title": "Outros",
+                                    "minimum": "A placa de vídeo integrada Intel HD deve funcionar, mas não é suportada; problemas geralmente são resolvidos com uma atualização de driver."
                                 }
                             ]
                         },
@@ -191,39 +192,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "OS X 10.6.8 32-bit. This product is not compatiable with macOS 10.15 Catalina or later.",
                                     "recommended": "OS X 10.7.5 32-bit. This product is not compatiable with macOS 10.15 Catalina or later."
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i3 / AMD A6 CPU or equivalent.",
-                                    "recommended": "Intel Core i5 / AMD FX CPU or equivalent."
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 / AMD A6 CPU ou equivalente.",
+                                    "recommended": "Intel Core i5 / AMD FX CPU ou equivalente."
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "5 GB",
                                     "recommended": "5 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce 200 / AMD Radeon HD 5000 or equivalent.",
-                                    "recommended": "NVIDIA GeForce 400 / AMD Radeon HD 6000 or equivalent."
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce 200 / AMD Radeon HD 5000 ou equivalente.",
+                                    "recommended": "NVIDIA GeForce 400 / AMD Radeon HD 6000 ou equivalente."
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Additional Note",
-                                    "minimum": "32-bit operating system.",
-                                    "recommended": "32-bit operating system."
+                                    "title": "Outros",
+                                    "minimum": "Sistema operacional de 32 bits."
                                 }
                             ]
                         }
@@ -241,7 +241,7 @@
                     "privacyPolicyLink": {
                         "src": "https://frictionalgames.com/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Frictional Games Privacy Policy"
+                        "title": "Política de Privacidade da Frictional Games"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -253,8 +253,8 @@
                     "developerAttribution": "The Chinese Room",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Frictional Games",
-                    "description": "_This world is a Machine. A Machine for Pigs. Fit only for the slaughtering of Pigs._\n\nThe year is 1899...\n\nWealthy industrialist Oswald Mandus awakes in his bed, wracked with fever and haunted by dreams of a dark and hellish engine. Tortured by visions of a disastrous expedition to Mexico, broken on the failing dreams of an industrial utopia, wracked with guilt and tropical disease, he wakes into a nightmare. The house is silent, the ground beneath him shaking at the will of some infernal machine: all he knows is that his children are in grave peril, and it is up to him to save them.",
-                    "shortDescription": "First-person horror that will drag you to the depths of greed, power and madness. Developed by The Chinese Room, the creators of Dear Esther, and published Frictional Games, the studio behind Amnesia: The Dark Descent.",
+                    "description": "_Este mundo é uma máquina. Uma máquina para porcos. Adequada apenas para o abate de porcos._\n\nO ano é 1899...\n\nO rico industrial Oswald Mandus acorda em sua cama, atormentado pela febre e assombrado por ter sonhado com um motor escuro e infernal. Torturado por visões de uma expedição desastrosa ao México, desiludido por sonhos fracassados de uma utopia industrial e destruído pela culpa e doenças tropicais, ele acorda em um pesadelo. A casa está silenciosa, o chão abaixo dele treme no ritmo de alguma máquina infernal. Tudo o que ele sabe é que seus filhos estão em grave perigo e cabe a ele salvá-los.",
+                    "shortDescription": "Um jogo de terror em primeira pessoa que levará você às profundezas da ganância, do poder e da loucura. Desenvolvido por The Chinese Room, os criadores de Dear Esther, e publicado por Frictional Games, o estúdio por trás de Amnesia: The Dark Descent.",
                     "title": "Amnesia: A Machine for Pigs",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -294,18 +294,19 @@
                     "items": [
                         {
                             "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-s5-1360x765-147398666.jpg",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
                                 "epicStillDurationSeconds": 3,
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/7fd5a9cb3ae14177804e819aa4207352/7fd5a9cb3ae14177804e819aa4207352.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-g1c-00-1920x1080-4ac590703010.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5e59a353d34342869a2d0333ddd7133e\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/683ebbd1756342a4ba6a113907eeb76e/683ebbd1756342a4ba6a113907eeb76e.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-g1c-00-1920x1080-4ac590703010.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"b4c054657b4d42b3909c026ce85fe45f\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f50cc2c288b74572b71ea29ef7e7107b/f50cc2c288b74572b71ea29ef7e7107b.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-amnesiaamachineforpigs-thechineseroom-g1c-00-1920x1080-4ac590703010.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"8dba5fb384b24cecb5ef104ad34fb4ef\"\n    }\n  ]\n}",
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4-noaudio\",\n            \"mediaRefId\": \"9a7c8c43efef486eb9122397faf998d6\"\n        },\n        {\n            \"recipe\": \"video-hls-noaudio\",\n            \"mediaRefId\": \"f94f1885dc804ff38aff7bba088e8489\"\n        },\n        {\n            \"recipe\": \"video-webm-noaudio\",\n            \"mediaRefId\": \"da7091cc94e648d7bb393e65297981cc\"\n        }\n    ]\n}",
                                 "epicStillType": "PREPEND",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Amnesia: A Machine for Pigs Short Trailer",
+                                "title": "Trailer curto de Amnesia: A Machine for Pigs",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true

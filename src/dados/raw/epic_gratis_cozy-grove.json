@@ -49,12 +49,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/cozy-grove",
+    "_urlPattern": "/pt-BR/productv2/cozy-grove",
     "_slug": "cozy-grove",
     "_activeDate": "2021-03-03T18:39:06.332Z",
-    "lastModified": "2021-05-25T19:26:14.696Z",
-    "_locale": "en-US",
-    "_id": "b4f55ac2-a14c-4616-ab4a-385051fa8446",
+    "lastModified": "2021-03-03T18:40:12.115Z",
+    "_locale": "pt-BR",
+    "_id": "1995c549-3bf9-4563-b132-f3369a69a72f",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -87,19 +87,18 @@
             "regionBlock": "",
             "_noIndex": false,
             "_images_": [
+                "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-ic1-400x400-9dad2b25f2d1.png",
                 "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-05-1920x1080-158a1a3f8527.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g1a-01-1920x1080-5dd6ef920da1.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-03-1920x1080-750c1dbca04e.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-06-1920x1080-b4270aee4842.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-02-1920x1080-81ca131b79bd.jpg",
-                "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-s2-1200x1600-2b1846f8bdd4.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g1a-04-1920x1080-8d62ee9dbc5f.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-ic1-400x180-ae03df848b06.png",
+                "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-s1-2560x1440-421588475c48.jpg",
                 "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-04-1920x1080-038f1415bb08.jpg",
                 "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-01-1920x1080-c9f7e40aeb1d.jpg",
+                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-03-1920x1080-750c1dbca04e.jpg",
+                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-06-1920x1080-b4270aee4842.jpg",
+                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g1a-01-1920x1080-5dd6ef920da1.jpg",
+                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-02-1920x1080-81ca131b79bd.jpg",
                 "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g2-07-1920x1080-9313a23321a5.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-s1-2560x1440-cb896dc03cb9.jpg",
-                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-s2-1200x1600-c9933a376675.jpg"
+                "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-s2-1200x1600-2b1846f8bdd4.jpg",
+                "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-g1a-04-1920x1080-8d62ee9dbc5f.jpg"
             ],
             "productName": "Cozy Grove",
             "pageTheme": {
@@ -119,12 +118,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/cozy-grove/home",
+            "_urlPattern": "/pt-BR/productv2/cozy-grove/home",
             "_slug": "home",
             "_activeDate": "2021-03-03T18:40:20.454Z",
-            "lastModified": "2021-04-08T01:16:27.113Z",
-            "_locale": "en-US",
-            "_id": "b8394c66-33d8-4ceb-99d7-838c7bd736b8",
+            "lastModified": "2021-03-03T19:23:19.603Z",
+            "_locale": "pt-BR",
+            "_id": "28592990-f84d-4051-83cd-f9277cdce5cd",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -148,7 +147,7 @@
                     "linkFacebook": "https://www.facebook.com/SpryFox/",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/NtRcvhY",
-                    "title": "Follow Cozy Grove"
+                    "title": "Siga Cozy Grove"
                 },
                 "requirements": {
                     "languages": [
@@ -191,6 +190,42 @@
                                     "recommended": "NVIDIA Geforce 10 Series or AMD Radeon RX 500 Series"
                                 }
                             ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac - Coming Soon",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "macOS 11.0 Big Sur",
+                                    "recommended": "macOS 11.0 Big Sur"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Core i5 2.5 GHz or equivalent",
+                                    "recommended": "Intel Core i7 3.0 GHz or equivalent"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "3 GB available space",
+                                    "recommended": "5 GB available space"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "GPU",
+                                    "minimum": "Intel HD Graphics 4000",
+                                    "recommended": "NVIDIA GeForce 10 Series or AMD Radeon RX 500 Series"
+                                }
+                            ]
                         }
                     ],
                     "accountRequirements": "NO_REQUIREMENTS",
@@ -217,8 +252,8 @@
                     "developerAttribution": "Spry Fox",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Spry Fox",
-                    "description": "# Welcome!\n\nWelcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts. With a little time and a lot of crafting, you'll bring color and joy back to Cozy Grove!\n\n# Features\n\n+ Beautiful, dynamic, hand-drawn landscapes that come alive when you help a spirit in need.\n+ Dozens of memorable characters and spirits for you to find and befriend. Each spirit has a unique, extensive story for you to unravel over time.\n+ Collect spirit animals, craft decorations, go fishing and more!\n+ 40+ hour campaign filled with side quests, designed to span months of playtime.\n\n",
-                    "shortDescription": "Welcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts. ",
+                    "description": "# Boas-vindas!\n\nBoas-vindas a Cozy Grove, um jogo de simulação sobre acampar numa ilha assombrada e em constante mudança. Como um escotista espectral, você percorrerá as florestas da ilha, descobrirá segredos ocultos e ajudará a trazer paz para os fantasmas locais. Com pouco tempo e muita habilidade manual, você devolverá a cor e a alegria a Cozy Grove!\n\n# Recursos\n\n+ Belíssimas paisagens dinâmicas desenhadas à mão, que ganham vida quando você ajuda um espírito perturbado.\n+ Dezenas de personagens e espíritos inesquecíveis para você encontrar e fazer amizades. Cada espírito tem uma história única e profunda para você desvendar ao longo do tempo.\n+ Colecione animais fantasmas, crie decorações, saia para pescar e muito mais!\n+ Mais de 40 horas de campanha cheia de missões paralelas, projetada para durar meses de jogo.\n\n",
+                    "shortDescription": "Boas-vindas a Cozy Grove, um jogo de simulação sobre acampar numa ilha assombrada e em constante mudança. Como um escotista espectral, você percorrerá as florestas da ilha, descobrirá segredos ocultos e ajudará a trazer paz para os fantasmas locais. ",
                     "title": "Cozy Grove",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -233,10 +268,10 @@
                 },
                 "hero": {
                     "logoImage": {
-                        "src": "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-ic1-400x180-ae03df848b06.png",
+                        "src": "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-ic1-400x400-9dad2b25f2d1.png",
                         "_type": "Diesel Image"
                     },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-s2-1200x1600-c9933a376675.jpg",
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-s2-1200x1600-2b1846f8bdd4.jpg",
                     "_type": "Diesel Hero",
                     "action": {
                         "_type": "Diesel Action"
@@ -252,7 +287,7 @@
                     "title": "Cozy Grove",
                     "isFullBleed": false,
                     "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-cozygrove-spryfox-s1-2560x1440-cb896dc03cb9.jpg"
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-gocampingonahauntedeverchangingisland-spryfox-s1-2560x1440-421588475c48.jpg"
                 },
                 "carousel": {
                     "_type": "Diesel Carousel",

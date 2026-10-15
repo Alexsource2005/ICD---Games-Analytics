@@ -24,12 +24,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/kerbal-space-program",
+    "_urlPattern": "/pt-BR/productv2/kerbal-space-program",
     "_slug": "kerbal-space-program",
     "_activeDate": "2022-12-06T10:41:05.243Z",
     "lastModified": "2022-12-14T22:34:30.124Z",
-    "_locale": "en-US",
-    "_id": "86ad92b2-d50f-4950-82cc-2420efe0bc11",
+    "_locale": "pt-BR",
+    "_id": "ecbe0e00-e666-49c8-aeca-9fcf20947a01",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -58,12 +58,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/kerbal-space-program/home",
+            "_urlPattern": "/pt-BR/productv2/kerbal-space-program/home",
             "_slug": "home",
             "_activeDate": "2023-01-05T15:55:00.000Z",
-            "lastModified": "2026-04-09T13:06:03.346Z",
-            "_locale": "en-US",
-            "_id": "153a4078-ada3-4c3d-8e8a-689db1d732b5",
+            "lastModified": "2024-04-04T00:16:43.590Z",
+            "_locale": "pt-BR",
+            "_id": "f6fa70ed-a3dc-40ac-af69-ec5ebad12352",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -82,17 +82,10 @@
                 "productLinks": {
                     "_type": "Diesel Product Lins"
                 },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/KerbalSpaceP",
-                    "linkYoutube": "https://www.youtube.com/user/kerbalspofficial/videos",
-                    "_type": "Diesel Social Links",
-                    "title": "Follow us",
-                    "linkHomepage": "https://kerbalspaceprogram.com/"
-                },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês"
                     ],
                     "systems": [
                         {
@@ -101,39 +94,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 SP1+",
-                                    "recommended": "Windows 10 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1 ou superior",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Core 2 Duo 2.0 Ghz",
+                                    "title": "Processador",
+                                    "minimum": "Core 2 Duo de 2,0 GHz",
                                     "recommended": "Core i5"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "3 GB",
                                     "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "DX10",
                                     "recommended": "DX10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DX10 (SM 4.0) capable, 512MB VRAM",
-                                    "recommended": "DX10 (SM 4.0) capable, 1GB VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com DX10 (SM 4.0) com 512 MB de VRAM",
+                                    "recommended": "Compatível com DX10 (SM 4.0) com 1 GB de VRAM"
                                 }
                             ]
                         },
@@ -143,33 +136,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "macOS 10.12+ 64-bit",
-                                    "recommended": "macOS 10.12+ 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "macOS 10.12+ de 64 bits",
+                                    "recommended": "macOS 10.12+ de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel",
                                     "recommended": "Intel Core i5"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "3 GB HD space",
-                                    "recommended": "4 GB HD space"
+                                    "title": "Armazenamento",
+                                    "minimum": "3 GB de espaço em disco",
+                                    "recommended": "4 GB de espaço em disco"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "SM 4.0 512MB VRAM",
-                                    "recommended": "SM 4.0 1GB VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "SM 4.0 com 512 MB de VRAM",
+                                    "recommended": "SM 4.0 com 1 GB de VRAM"
                                 }
                             ]
                         }
@@ -180,6 +173,13 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/KerbalSpaceP",
+                    "linkYoutube": "https://www.youtube.com/user/kerbalspofficial/videos",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://kerbalspaceprogram.com/",
+                    "title": "Siga-nos"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -187,7 +187,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.privatedivision.com/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -199,8 +199,8 @@
                     "developerAttribution": "Squad",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "The Kerbal Company",
-                    "description": "Kerbal Space Program features three gameplay modes. In Science Mode, perform space experiments to unlock new technology and advance the knowledge of Kerbalkind. In Career Mode, oversee every aspect of the space program, including construction, strategy, funding, upgrades, and more. In Sandbox, you are free to build any spacecraft you can think of, with all parts and technology in the game. \n\n# Key Features\n\n- Take full control over your ship’s setup to execute complex flight maneuvers. \n- Manage your Kerbal crewmembers, including hiring, training, and sending them into space to become heroes. \n-  Discover a whole star system with unique moons and planets, exploring detailed terrain at a vast scale. \n- Send your Kerbal crew outside their ships for “extra-vehicular” activities.\n- Dock spacecraft together to construct space stations, massive starships, and surface bases on new planets. \n- Use satellites to scan terrain and find biomes and other anomalies.\n- Set up communications networks to communicate between your spacecraft and Kerbal Space Center.\n- Research and develop new technologies to extract valuable information and resources from all over the solar system, and much more!",
-                    "shortDescription": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+                    "description": "Kerbal Space Program possui três modos de jogo. No modo Ciência, realize experimentos espaciais para liberar tecnologias novas e aumentar o conhecimento da Kerbalidade. No modo Carreira, supervisione cada aspecto do programa espacial, incluindo construção, estratégia, financiamento, melhorias e mais. No modo Sandbox, você é livre para construir qualquer espaçonave que quiser, com todas as peças e tecnologias do jogo. \n\n# Características principais\n\n- Assuma o controle total das configurações da sua nave para executar manobras de voo complexas. \n- Gerencie sua tripulação de Kerbals, incluindo contratação, treinamento e o envio deles ao espaço para se tornarem heróis. \n- Descubra um sistema solar inteiro, com luas e planetas únicos, explorando o terreno detalhado em grande escala. \n- Envie sua tripulação Kerbal para fora das naves para atividades \"extraveiculares\".\n- Acople espaçonaves umas com as outras para construir estações espaciais, naves espaciais imensas e bases na superfície de novos planetas. \n- Use satélites para escanear o terreno e encontrar biomas e outras anomalias.\n- Configure redes de comunicação para se comunicar entre a espaçonave e o Kerbal Space Center.\n– Pesquise e desenvolva novas tecnologias para extrair informações valiosas e recursos de todo o sistema solar, e muito mais!",
+                    "shortDescription": "Em Kerbal Space Program, cuide do programa espacial de uma raça alienígena, os Kerbals. Você tem acesso a uma variedade de peças para montar uma nave espacial totalmente funcional que voa (ou não), com base em aerodinâmica e física orbital de verdade.",
                     "title": "Kerbal Space Program",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -214,7 +214,7 @@
                         "_type": "Diesel Link",
                         "title": "Kerbal Space Program 2"
                     },
-                    "description": "The sequel to the acclaimed space-flight simulation game Kerbal Space Program. Enter the next generation of space adventure with exciting new parts, stunning visuals, fully revamped UI and Map View, and rich new environments to explore.",
+                    "description": "A sequência do aclamado jogo de simulação de voo espacial Kerbal Space Program. A nova geração de aventuras espaciais está chegando trazendo novas peças, um visual incrível, interface e mapa totalmente reformulados, e novos ambientes exuberantes para explorar.",
                     "title": "Kerbal Space Program 2"
                 },
                 "hero": {
@@ -394,7 +394,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "ca0530b485754032be50cb6f27be0c2c",
-                            "description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+                            "description": "Em Kerbal Space Program, cuide do programa espacial de uma raça alienígena, os Kerbals. Você tem acesso a uma variedade de peças para montar uma nave espacial totalmente funcional que voa (ou não), com base em aerodinâmica e física orbital de verdade.",
                             "offerId": "20dd3087657940f59b110d0f5ffaf41e",
                             "title": "Kerbal Space Program",
                             "slug": "/product/kerbal-space-program/home"
@@ -409,7 +409,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "ca0530b485754032be50cb6f27be0c2c",
-                            "description": "The Kerbal Space Program Complete Bundle includes the heavily-awarded and ever evolving space simulation game Kerbal Space Program as well as the Making History & Breaking Ground expansions for a bundled discount.",
+                            "description": "O Kerbal Space Program Complete Edition inclui o jogo de simulação espacial altamente premiado e em constante evolução Kerbal Space Program, bem como as expansões Making History e Breaking Ground com um desconto de pacote.",
                             "offerId": "a5ca17f8511c4d0aaa1d8b85043f994c",
                             "title": "Kerbal Space Program Complete Edition",
                             "slug": "/product/kerbal-space-program/complete-edition"
@@ -430,7 +430,7 @@
                     "developer": [
                         "Squad"
                     ],
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows",
                         "Mac "
@@ -554,32 +554,29 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/kerbal-space-program/complete-edition",
+            "_urlPattern": "/pt-BR/productv2/kerbal-space-program/complete-edition",
             "_slug": "complete-edition",
             "_activeDate": "2023-01-05T15:55:00.000Z",
-            "lastModified": "2026-04-09T13:07:04.000Z",
-            "_locale": "en-US",
-            "_id": "3752fdd1-1f05-4908-bd34-5b4a84fdd989",
+            "lastModified": "2024-04-04T00:11:10.595Z",
+            "_locale": "pt-BR",
+            "_id": "cf91b647-d237-4b01-ac71-73875dc36ef5",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/KerbalSpaceP",
                     "linkYoutube": "https://www.youtube.com/user/kerbalspofficial/videos",
                     "_type": "Diesel Social Links",
-                    "title": "Follow us",
+                    "title": "Siga-nos",
                     "linkHomepage": "https://kerbalspaceprogram.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês"
                     ],
                     "systems": [
                         {
@@ -588,39 +585,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 SP1+",
-                                    "recommended": "Windows 10 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1 ou superior",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Core 2 Duo 2.0 Ghz",
+                                    "title": "Processador",
+                                    "minimum": "Core 2 Duo de 2,0 GHz",
                                     "recommended": "Core i5"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "3 GB",
                                     "recommended": "4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "DX10",
                                     "recommended": "DX10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DX10 (SM 4.0) capable, 512MB VRAM",
-                                    "recommended": "DX10 (SM 4.0) capable, 1GB VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com DX10 (SM 4.0) com 512 MB de VRAM",
+                                    "recommended": "Compatível com DX10 (SM 4.0) com 1 GB de VRAM"
                                 }
                             ]
                         },
@@ -630,33 +627,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "macOS 10.12+ 64-bit",
-                                    "recommended": "macOS 10.12+ 64-bit"
+                                    "title": "Sistema operacional",
+                                    "minimum": "macOS 10.12+ de 64 bits",
+                                    "recommended": "macOS 10.12+ de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel",
                                     "recommended": "Intel Core i5"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "3 GB HD space",
-                                    "recommended": "4 GB HD space"
+                                    "title": "Armazenamento",
+                                    "minimum": "3 GB de espaço em disco",
+                                    "recommended": "4 GB de espaço em disco"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "SM 4.0 512MB VRAM",
-                                    "recommended": "SM 4.0 1GB VRAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "SM 4.0 com 512 MB de VRAM",
+                                    "recommended": "SM 4.0 com 1 GB de VRAM"
                                 }
                             ]
                         }
@@ -667,6 +664,9 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -674,7 +674,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.take2games.com/privacy",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -686,8 +686,8 @@
                     "developerAttribution": "Squad",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "The Kerbal Company",
-                    "description": "# About\n\nIn Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbal solar system, constructing bases and space stations to expand the reach of your expedition.\n\nKerbal Space Program features three gameplay modes. In Science Mode, perform space experiments to unlock new technology and advance the knowledge of Kerbalkind. In Career Mode, oversee every aspect of the space program, including construction, strategy, funding, upgrades, and more. In Sandbox, you are free to build any spacecraft you can think of, with all parts and technology in the game.",
-                    "shortDescription": "The Kerbal Space Program Complete Bundle includes the heavily-awarded and ever evolving space simulation game Kerbal Space Program as well as the Making History & Breaking Ground expansions for a bundled discount.",
+                    "description": "# Sobre\n\nEm Kerbal Space Program, cuide do programa espacial de uma raça alienígena, os Kerbals. Você tem acesso a uma variedade de peças para montar uma nave espacial totalmente funcional que voa (ou não), com base em aerodinâmica e física orbital de verdade. Lance sua tripulação Kerbal em órbita e além (e mantenha ela viva) para explorar luas e planetas do sistema solar Kerbal, construindo bases e estações espaciais para expandir o alcance da sua expedição.\n\nKerbal Space Program possui três modos de jogo. No modo Ciência, realize experimentos espaciais para liberar tecnologias novas e aumentar o conhecimento da Kerbalidade. No modo Carreira, supervisione cada aspecto do programa espacial, incluindo construção, estratégia, financiamento, melhorias e mais. No modo Sandbox, você é livre para construir qualquer espaçonave que quiser, com todas as peças e tecnologias do jogo.",
+                    "shortDescription": "O Kerbal Space Program Complete Edition inclui o jogo de simulação espacial altamente premiado e em constante evolução Kerbal Space Program, bem como as expansões Making History e Breaking Ground com um desconto de pacote.",
                     "title": "Kerbal Space Program Complete Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -701,7 +701,7 @@
                         "_type": "Diesel Link",
                         "title": "Kerbal Space Program 2"
                     },
-                    "description": "The sequel to the acclaimed space-flight simulation game Kerbal Space Program. Enter the next generation of space adventure with exciting new parts, stunning visuals, fully revamped UI and Map View, and rich new environments to explore.",
+                    "description": "A sequência do aclamado jogo de simulação de voo espacial Kerbal Space Program. A nova geração de aventuras espaciais está chegando trazendo novas peças, um visual incrível, interface e mapa totalmente reformulados, e novos ambientes exuberantes para explorar.",
                     "title": "Kerbal Space Program 2"
                 },
                 "hero": {
@@ -722,8 +722,8 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "isFullBleed": false,
                     "altContentPosition": false,
+                    "isFullBleed": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-kerbalspaceprogramcompleteedition-squad-editions-s1-2560x1440-cc992a3ad8a8.jpg"
                 },
                 "carousel": {

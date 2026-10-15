@@ -84,12 +84,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/borderlands-2",
+    "_urlPattern": "/pt-BR/productv2/borderlands-2",
     "_slug": "borderlands-2",
     "_activeDate": "2020-05-11T14:10:27.826Z",
-    "lastModified": "2022-05-24T15:37:34.074Z",
-    "_locale": "en-US",
-    "_id": "dc7559e6-1988-4e60-9883-2bddf181a058",
+    "lastModified": "2022-05-24T15:35:51.731Z",
+    "_locale": "pt-BR",
+    "_id": "af02f66f-8311-4635-ba53-852f169b2efc",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -193,12 +193,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/borderlands-2/home",
+            "_urlPattern": "/pt-BR/productv2/borderlands-2/home",
             "_slug": "home",
             "_activeDate": "2020-05-11T14:28:12.433Z",
-            "lastModified": "2020-05-28T15:18:24.864Z",
-            "_locale": "en-US",
-            "_id": "63514ebf-de5b-48b9-bb42-ed15a0e4ce2e",
+            "lastModified": "2020-05-27T20:50:49.064Z",
+            "_locale": "pt-BR",
+            "_id": "8c8b4c1c-fe72-40d1-a86b-cf36e4905208",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -224,14 +224,14 @@
                     "linkYoutube": "https://www.youtube.com/user/BorderlandsGame",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discordapp.com/invite/borderlands",
-                    "title": "Follow 2K",
+                    "title": "Siga 2K",
                     "linkHomepage": "https://www.2k.com",
                     "linkInstagram": "https://www.instagram.com/borderlands"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English, French, German, Italian, Spanish - Spain, Japanese",
-                        "TEXT: English, French, German, Italian, Spanish - Spain, Japanese, Korean, Chinese - Traditional"
+                        "ÁUDIO: inglês, francês, alemão, italiano, espanhol (Espanha), japonês",
+                        "TEXTO: inglês, francês, alemão, italiano, espanhol (Espanha), japonês, coreano, chinês tradicional"
                     ],
                     "systems": [
                         {
@@ -240,25 +240,25 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows XP SP3",
                                     "recommended": "Windows XP SP3/Vista/Windows 7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.4 GHz Dual Core Processor",
-                                    "recommended": "2.3 GHz Quad Core processor"
+                                    "title": "Processador",
+                                    "minimum": "Processador Dual Core 2,4 GHz",
+                                    "recommended": "Processador Quad Core 2,3 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "2 GB",
                                     "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "13 GB",
                                     "recommended": "20 GB"
                                 },
@@ -269,14 +269,14 @@
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "NVIDIA GeForce 8500/ ATI Radeon HD 2600",
                                     "recommended": "NVIDIA GeForce GTX 560 / ATI Radeon HD 5850"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Additional Notes",
-                                    "minimum": "DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C+ Redistributable 2010"
+                                    "title": "Observações adicionais",
+                                    "minimum": "DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistribuível 2005, Visual C++ Redistribuível 2008, Visual C++ Redistribuível 2010"
                                 }
                             ]
                         }
@@ -287,35 +287,35 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fborderlands-2%2F18_V-210x117-f38c8b21efca050094bf147d303f9b58fa52dff1.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "청소년이용불가"
+                            "title": "Classificação etária na Coreia do Sul: 18 anos"
                         },
                         {
                             "countryCodes": "CN",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2F800px-CERO_Z.svg-800x984-ffd454acb3d6f8fac8bdf1bf2a2d01da0d79f858.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "CERO Z"
+                            "title": "Classificação etária no Japão: 18 anos"
                         },
                         {
                             "countryCodes": "DE",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-400x400-7ac38d8b4b29de7c5f10a52ebf17f124e361279e.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 18"
+                            "title": "Classificação etária na Alemanha: 18 anos"
                         },
                         {
                             "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPegi_18_Rating_White-300x366-a982fc533753030fc6d0a09432cd828801893916.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 18"
+                            "title": "Classificação etária na Europa: 18 anos"
                         },
                         {
                             "countryCodes": "US,CA",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fborderlands-2%2FEGS_Borderlands2_GearboxSoftware_RA1-378x200-9fe62dd96f447da35afb97f48ac0166f18c1996f.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "MATURE 17+"
+                            "title": "Classificação etária nos Estados Unidos: 17 anos"
                         }
                     ],
                     "accountRequirements": "NO_REQUIREMENTS",
@@ -327,11 +327,11 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "©2017 IPerion LLC. Published and distributed by 2K. Gearbox and Borderlands, and the Gearbox Software and Borderlands logos, are registered trademarks and used courtesy of Gearbox Software, LLC. 2K and the 2K logo are trademarks of 2K in the US and/or other countries. All other trademarks are property of their respective owners. All rights reserved",
+                    "copy": "©2017 IPerion LLC. Publicado e distribuído por 2K. Gearbox e Borderlands e os logos Gearbox Software e Borderlands são marcas registradas e usadas com permissão da Gearbox Software, LLC. 2K e o logotipo da 2K são marcas comerciais da 2K nos EUA e/ou em outros países. Todas as outras marcas comerciais são de propriedade de seus respectivos detentores. Todos os direitos reservados",
                     "privacyPolicyLink": {
                         "src": "https://www.take2games.com/privacy/",
                         "_type": "Diesel Link",
-                        "title": "Take 2 Privacy Policy"
+                        "title": "Política de Privacidade da Take 2"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -343,8 +343,8 @@
                     "developerAttribution": "Gearbox Software",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "2K",
-                    "description": "A new era of shoot and loot is about to begin. Play as one of four new vault hunters facing off against a massive new world of creatures, psychos and the evil mastermind, Handsome Jack.\n\n# All-New Characters and All-New Classes: \n\nFour all new playable classes including the Siren, the Commando, the Gunzerker and the Assassin. Step into the role of the Gunzerker, whose highly deadly skills allow him to dual-wield any two weapons found in the game.\n\n# Dynamic Co-op online, and LAN\n\nShare your adventures with friends both online and via LAN. Borderlands 2 features a seamless system enabling you to drop in and drop out of a campaign without ever having to restart the game.\n\n# World Connected Story\n\nExpose the evil surrounding the Hyperion Corporation and take on the perpetrator of a universe-wide grand deception -- the nefarious Hyperion CEO, Handsome Jack.\n\n# 87 Bazillion...Everything\n\nIn addition to the new gun system, you will lust after procedurally generated shields, grenades, Relics, class mods and much, much more. And you thought the original Borderlands had a ton of loot!\n\n# Brand new environments on Pandora\n\nHunt through entirely brand new areas of Pandora that are more alive than ever! From the arctic tundra, through the dangerous grasslands, past the mysterious corrosive caverns to beyond, you’ll be surprised by the unpredictable world of Pandora at every turn!\n\n# Brand new enemies\n\nA whole slew of new enemies are out there to kill you in Borderlands 2. Hulking, gorilla-like Bullymongs, vicious predatory Stalkers and the Hyperion mechanical army, run by Handsome Jack, are just some of the new enemies in Borderlands 2.",
-                    "shortDescription": "The time is now to take out Handsome Jack.  Gather up your friends as you run rampant through the world collecting bazillions of loot and guns in an effort to save Pandora from the evil grips of the Hyperion Corporation.",
+                    "description": "Uma nova era de tiros e saques está prestes a começar. Joga com um de quatro Vault Hunters e enfrenta um mundo cheio de criaturas, psicopatas e o génio malévolo de Handsome Jack.\n\n# Personagens e classes totalmente novos: \n\nQuatro classes jogáveis e totalmente novas, incluindo Siren, Comando, Gunzerker e Assassin. Entre no papel de Gunzerker, cujas habilidades extremamente mortais lhe permitem usar duas armas encontradas no jogo.\n\n# Cooperação dinâmica on-line e em LAN\n\nCompartilhe suas aventuras com amigos on-line e via LAN. O Borderlands 2 conta com um sistema integrado que permite que você entre e saia das campanhas sem precisar reiniciar o jogo.\n\n# História de conexão mundial\n\nExponha o mal que circunda a Hyperion Corporation e enfrente o autor de uma grande fraude em todo o universo, o nefasto CEO da Hyperion, Handsome Jack.\n\n# 87 Milhões...Tudo\n\nAlém do novo sistema de armas, você desejará ardentemente escudos, granadas, relíquias, mods de classes com geração procedural e muito, muito mais. E você achava que o Borderlands original tinha uma tonelada de saques!\n\n# Novos ambientes em Pandora\n\nCace em áreas totalmente novas de Pandora que estão mais vivas do que nunca! Desde a tundra ártica, atravessando perigosas pastagens, misteriosas cavernas corrosivas até o além, você se surpreenderá com o mundo imprevisível de Pandora a cada passo!\n\n# Novos inimigos\n\nUm monte de inimigos novos estão por aí esperando para acabar com você em Borderlands 2. Enormes Bullymongs com jeito de gorila, Stalkers predadores cruéis e o exército mecânico Hyperion, dirigido por Handsome Jack, são apenas alguns dos novos inimigos de Borderlands 2.",
+                    "shortDescription": "Agora é a hora de eliminar Handsome Jack.  Reúna seus amigos para correr desenfreadamente pelo mundo coletando milhões de itens e armas em um esforço para salvar Pandora das garras do mal da Hyperion Corporation.",
                     "title": "Borderlands 2",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -356,9 +356,9 @@
                     "link": {
                         "src": "bundles/borderlands-the-handsome-collection",
                         "_type": "Diesel Link",
-                        "title": "HERE"
+                        "title": "AQUI"
                     },
-                    "description": "Shoot and loot as you explore the mayhem-filled world of Pandora in BORDERLANDS 2 and the lunar madness of BORDERLANDS: THE PRE-SEQUEL in BORDERLANDS: THE HANDSOME COLLECTION.",
+                    "description": "Dispara e apanha espólios enquanto exploras o mundo caótico de Pandora no BORDERLANDS 2 e a loucura lunar do BORDERLANDS: THE PRE-SEQUEL no BORDERLANDS: THE HANDSOME COLLECTION.",
                     "title": "Borderlands: The Handsome Collection"
                 },
                 "hero": {
@@ -451,10 +451,10 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
-                            "description": "Battle new bosses, explore new areas, collect new loot (including an entirely new tier beyond Legendary), and join up with Lilith and the Crimson Raiders to take on a deranged villain hell-bent on ruling the planet.",
+                            "description": "Lute contra novos chefes, explore novas áreas, colete novos espólios (incluindo um nível completamente novo além de Lendário) e junte-se à Lilith e aos Saqueadores Rubros contra um vilão enlouquecido determinado a dominar o planeta.",
                             "offerId": "1fd4a6bd3ae64066bbb2d9b38c0c9a0f",
                             "tag": "dlc",
-                            "title": "Commander Lilith & the Fight for Sanctuary",
+                            "title": "Commander Lilith & The Fight for Sanctuary",
                             "type": "addon",
                             "slug": "product/borderlands-2/commander-lilith"
                         },
@@ -468,10 +468,10 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
-                            "description": "Increase the visual fidelity of Borderlands 2 and its DLC with upgraded and remastered environment, character, and weapon textures.",
+                            "description": "Aumente a fidelidade visual de Borderlands 2 e de seus DLCs com texturas de ambientes, personagens e armas melhoradas e remasterizadas.",
                             "offerId": "4963b36b44574eb69fcc4da62c7c4682",
                             "tag": "dlc",
-                            "title": "Borderlands 2 Ultra HD Texture Pack",
+                            "title": "Borderlands 2 - Pacote de Texturas Ultra HD",
                             "type": "addon",
                             "slug": "product/borderlands-2/ultra-hd-pack"
                         }

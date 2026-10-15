@@ -3,11 +3,6 @@
         "_type": "Epic Store Product Ratings"
     },
     "disableNewAddons": true,
-    "modMarketplaceEnabled": false,
-    "_title": "red-dead-redemption-2",
-    "regionBlock": "",
-    "_noIndex": false,
-    "productName": "Red Dead Redemption 2",
     "pageTheme": {
         "preferredMode": "dark",
         "light": {
@@ -22,20 +17,21 @@
             "accent": "#e3322d"
         }
     },
+    "modMarketplaceEnabled": false,
     "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-    "theme": {
-        "_type": "Diesel Theme"
-    },
-    "reviewOptOut": false,
+    "_title": "red-dead-redemption-2",
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "Red Dead Redemption 2",
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/red-dead-redemption-2",
+    "_urlPattern": "/pt-BR/productv2/red-dead-redemption-2",
     "_slug": "red-dead-redemption-2",
     "_activeDate": "2019-10-14T19:49:16.070Z",
-    "lastModified": "2020-09-01T04:18:57.114Z",
-    "_locale": "en-US",
-    "_id": "d8b0d21f-42b9-4c9c-ba8a-7cb450d2e3d7",
+    "lastModified": "2019-10-16T20:14:03.678Z",
+    "_locale": "pt-BR",
+    "_id": "324f47f5-9d7e-41de-bb74-3f48c5763015",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -43,11 +39,6 @@
                 "_type": "Epic Store Product Ratings"
             },
             "disableNewAddons": true,
-            "modMarketplaceEnabled": false,
-            "_title": "home",
-            "regionBlock": "",
-            "_noIndex": false,
-            "productName": "Red Dead Redemption 2",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -62,25 +53,32 @@
                     "accent": "#e3322d"
                 }
             },
+            "modMarketplaceEnabled": false,
             "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-            "theme": {
-                "buttonPrimaryBg": "#e3322d",
-                "customPrimaryBg": "#000000",
-                "accentColor": "#e3322d",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Red Dead Redemption 2",
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/red-dead-redemption-2/home",
+            "_urlPattern": "/pt-BR/productv2/red-dead-redemption-2/home",
             "_slug": "home",
             "_activeDate": "2019-10-14T19:51:14.739Z",
-            "lastModified": "2025-05-27T19:16:11.727Z",
-            "_locale": "en-US",
-            "_id": "9b9b77d5-6936-4376-b27d-5b1e4f12bd54",
+            "lastModified": "2024-08-15T22:47:04.135Z",
+            "_locale": "pt-BR",
+            "_id": "a1bbc176-fbfb-433a-ba1c-56d4bb3011d3",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+                "id": "a3c78a5c62824677834c1008e0be9b2d",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "catalogId": "22a7b503221442daa2fb16ad37b6ccbf",
                 "appName": "Heather",
@@ -101,8 +99,9 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Voice: English ",
-                        "Text: English, Simplified Chinese, Traditional Chinese, Portuguese ( Brazilian ), French, German, Italian, Japanese, Korean, Polish, Russian, Portuguese, Spanish (Spain), and Spanish (LATAM)"
+                        "Voz: ",
+                        "inglês ",
+                        "Texto: inglês, chinês simplificado, chinês tradicional, português (brasileiro), francês, alemão, italiano, japonês, coreano, polonês, russo, português, espanhol (Espanha) e espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -111,39 +110,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 10 - April 2018 Update (v1803)",
-                                    "recommended": "Windows 10 - April 2018 Update (v1803)"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 - Atualização de abril de 2018 (v1803)",
+                                    "recommended": "Windows 10 - Atualização de abril de 2018 (v1803)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor ",
+                                    "title": "Processador ",
                                     "minimum": "Intel(R) Core(TM) i5-2500K / AMD FX-6300",
                                     "recommended": "Intel(R) Core(TM) i7-4770K / AMD Ryzen 5 1500x"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "12GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "12 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB",
-                                    "recommended": "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 770 de 2 GB / AMD Radeon R9 280 de 3 GB",
+                                    "recommended": "NVIDIA GeForce GTX 1060 de 6 GB / AMD Radeon RX 480 de 4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "150GB",
-                                    "recommended": "150GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "150 GB",
+                                    "recommended": "150 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Sound Card: DirectX Compatible",
-                                    "recommended": "Sound Card: DirectX Compatible"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som: compatível com DirectX",
+                                    "recommended": "Placa de som: compatível com DirectX"
                                 }
                             ]
                         }
@@ -161,21 +160,21 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2FESRB_M_RedDeadRedemption2-842x485-4ab59bd18e3e79db7655d8453939c545f0625417.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "MATURE 17+"
+                            "title": "Classificação etária nos Estados Unidos: 17 anos"
                         },
                         {
                             "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/pegi-18-rating-65x80-6990e36d0cc7.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 18"
+                            "title": "Classificação etária na Europa: 18 anos (PEGI 18)"
                         },
                         {
                             "countryCodes": "DE",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-400x400-7ac38d8b4b29de7c5f10a52ebf17f124e361279e.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 18"
+                            "title": "Classificação etária na Alemanha: 18 anos"
                         }
                     ],
                     "accountRequirements": "ROCKSTAR_SOCIAL_CLUB",
@@ -187,28 +186,26 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "Software license terms in game and at www.rockstargames.com/eula; online account terms at www.rockstargames.com/socialclub. Non-transferable access to special features, such as exclusive/unlockable/downloadable/multiplayer/online & bonus content/services/functions, may require single-use serial code, additional fee, and/or non-transferrable online account registration (varies 13+). Special features access may require internet connection, may not be available to all users or at all times, and may be terminated/modified/offered under different terms without notice. Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. For info, customer & tech support visit www.rockstargames.com/support. This game is fictional. It may depict people, places, companies, groups, events, buildings, and other things that are similar to those in the real world; they are not affiliated or associated in any way with this game, and such depictions are not factual. The makers/publishers/licensors of this video game do not endorse/condone/encourage any content. Unauthorized copying, alteration, reverse engineering, decompiling, transmission, public performance, rental, pay for play, or copy protection circumvention is prohibited & violates EULA. Certain limits apply to purchase, use, and redemption. See EULA www.rockstargames.com/eula and Terms of Service www.rockstargames.com/legal for details.   Rockstar Games, Inc.  ©2005-19. Rockstar Games, Red Dead Redemption, R*, Redemption, Red Dead, Dead Eye are marks/logos/copyrights of Take-Two Interactive. Dolby and the Double-D symbols are trademarks of Dolby Laboratories. The ratings icon is a trademark of the Entertainment Software Association. All other marks and trademarks are properties of their respective owners.  All rights reserved.",
+                    "copy": "Termos de licença de software no jogo e em www.rockstargames.com/eula; termos de conta online em www.rockstargames.com/socialclub. O acesso intransferível a recursos especiais, como conteúdos, serviços e funções exclusivos/desbloqueáveis/para baixar/multiplayer/online e bônus podem exigir um código de série válido de uso único, taxa adicional e/ou registro de conta online intransferível (13+). O acesso a recursos especiais pode exigir conexão à internet, pode não estar disponível para todos os usuários a todo momento e ser encerrado, modificado ou oferecido de acordo com diferentes termos, sem aviso prévio. Violação do EULA, Código de Conduta, ou demais políticas de uso poderão resultar na restrição ou cancelamento do acesso ao jogo ou à conta online. Para obter mais informações, suporte técnico e atendimento ao cliente, acesse www.rockstargames.com/support. O conteúdo deste jogo é fictício. Ele pode representar pessoas, lugares, empresas, grupos, eventos, edifícios e outras coisas semelhantes às do mundo real, mas nada disso é afiliado ou associado de forma alguma ao jogo, e essas representações não são factuais. Os criadores, distribuidores e licenciadores deste jogo não apoiam, aprovam nem incentivam a prática de qualquer comportamento exibido no jogo. Fazer cópias não autorizadas, alterar, decompilar, aplicar engenharia reversa, transmitir, apresentar publicamente, alugar, cobrar para jogar ou burlar a proteção contra cópias é estritamente proibido e viola o EULA. Certos limites se aplicam à compra, uso e resgate. Consulte o EULA em www.rockstargames.com/eula e os Termos de Serviço em www.rockstargames.com/legal para obter mais detalhes.   Rockstar Games, Inc. ©2005-19. Rockstar Games, Red Dead Redemption, R*, Redemption, Red Dead, Dead Eye são marcas/logotipos/copyrights da Take-Two Interactive. Dolby e os símbolos Double-D são marcas comerciais da Dolby Laboratories. O ícone de classificação é uma marca comercial da Entertainment Software Association. Todas as outras marcas e marcas comerciais são propriedades de seus respectivos detentores.  Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://www.rockstargames.com/eula",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
                 "about": {
                     "image": {
-                        "altText": "Red Dead Redemption 2",
                         "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_00-1920x1080-308f101576da37225c889173094f373f2afc56c1.jpg",
                         "_type": "Diesel Image"
                     },
                     "developerAttribution": "Rockstar Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Rockstar Games",
-                    "description": "America, 1899. Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him. \n\nWinner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age. \n\nRed Dead Redemption 2 also includes Red Dead Online — the multiplayer experience set in the living world of Red Dead Redemption 2 — ride solo or form a posse; run moonshine; battle lawmen, outlaw gangs, ferocious wild animals, and much more as you forge your own path on the American frontier. ",
-                    "shortDescription": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive. ",
+                    "description": "Estados Unidos, 1899\\. Arthur Morgan e a gangue Van der Linde são bandidos em fuga. Com agentes federais e os melhores caçadores de recompensa no seu encalço, a gangue precisa roubar, assaltar e lutar para sobreviver no impiedoso coração dos Estados Unidos. Conforme divisões internas profundas ameaçam despedaçar a gangue, Arthur deve fazer uma escolha entre os seus próprios ideais e a lealdade à gangue que o criou.\n\nVencedor de mais de 175 prêmios de Jogo do Ano e avaliado com mais de 250 notas máximas, Red Dead Redemption 2 é uma história épica de honra e lealdade no alvorecer dos tempos modernos.\n\nRed Dead Redemption 2 inclui também Red Dead Online, a experiência multijogador ambientada no mundo vivo de Red Dead Redemption 2: cavalgue só ou forme um Bando; produza moonshine; lute contra autoridades, gangues de fora da lei, animais silvestres ferozes e muito mais à medida que traça seu próprio caminho na fronteira dos EUA.\n\n",
+                    "shortDescription": "Arthur Morgan e a gangue Van der Linde são forçados a fugir. Com agentes federais e caçadores de recompensas no seu encalço, a gangue precisa roubar, assaltar e lutar para sobreviver no impiedoso coração dos Estados Unidos. ",
                     "title": "Red Dead Redemption 2",
                     "developerLogo": {
-                        "altText": "Red Dead Redemption 2",
                         "_type": "Diesel Image"
                     }
                 },
@@ -219,13 +216,12 @@
                     "link": {
                         "_type": "Diesel Link"
                     },
-                    "description": "This game will no longer support Windows 7 or 8 operating systems starting January 30, 2024.",
+                    "description": "Não haverá mais suporte para este jogo nos sistemas operacionais Windows 7 e 8 a partir de 30 de janeiro de 2024.",
                     "offerId": "",
                     "title": ""
                 },
                 "hero": {
                     "logoImage": {
-                        "altText": "Red Dead Redemption 2 for PC",
                         "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_IC1-625x625-38ae1bca6b89370d01ac3ed3a17daf7dd004f9f5.png",
                         "_type": "Diesel Image"
                     },
@@ -255,7 +251,7 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"9435a2dd2b784239b28469c1bc07d082\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"6f3c988457434b7986894d791e474fef\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"5732fc37c0c14e2dabc610979fa9a6be\"\n        }\n    ]\n}",
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"ed5e3b93a2974fd79b20d2af197c7b3b\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"12c6b99c280147139311f34cf5460c36\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"50a0db23f0934de190cc1b595eb1e743\"\n        }\n    ]\n}",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -267,7 +263,6 @@
                         },
                         {
                             "image": {
-                                "altText": "Red Dead Redemption 2 for PC",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_00-1920x1080-308f101576da37225c889173094f373f2afc56c1.jpg",
                                 "_type": "Diesel Image"
                             },
@@ -293,13 +288,12 @@
                                 "_type": "Store Region Filtering"
                             },
                             "image": {
-                                "altText": "Red Dead Online",
                                 "src": "https://cdn2.unrealengine.com/rdo-standalone-egs-landscapeproductimage-2560x1440-deliverable-2560x1440-676963725.jpg",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Product Edition",
                             "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-                            "description": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life in frontier America.\n\nChase down bounties, battle outlaw gangs and other players, hunt, fish and trade, search for exotic treasures, run Moonshine, and much more to discover in a world of astounding depth and detail",
+                            "description": "Entre no mundo vibrante e em constante desenvolvimento do Red Dead Online e experimente a vida na fronteira dos EUA.\n\nVá atrás de recompensas, enfrente gangues fora da lei e outros jogadores, cace, pesque e negocie, procure tesouros exóticos, toque sua destilaria de Moonshine e muito mais num mundo rico em detalhes",
                             "offerId": "38dd1f1edd9c4c0b8a74195e7d777b9e",
                             "tag": "edition",
                             "title": "Red Dead Online",
@@ -310,13 +304,12 @@
                                 "_type": "Store Region Filtering"
                             },
                             "image": {
-                                "altText": "Red Dead Redemption 2",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_IC1-625x625-38ae1bca6b89370d01ac3ed3a17daf7dd004f9f5.png",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Product Edition",
                             "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-                            "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age. \n\nIncludes Red Dead Redemption 2: Story Mode and Red Dead Online.",
+                            "description": "Vencedor de mais de 175 prêmios de Jogo do Ano e avaliado com mais de 250 notas máximas, Red Dead Redemption 2 é uma história épica de honra e lealdade no alvorecer dos tempos modernos. \n\nInclui Red Dead Redemption 2: Modo História e Red Dead Online.",
                             "offerId": "a3c78a5c62824677834c1008e0be9b2d",
                             "tag": "edition",
                             "title": "Red Dead Redemption 2",
@@ -327,16 +320,15 @@
                                 "_type": "Store Region Filtering"
                             },
                             "image": {
-                                "altText": "Red Dead Redemption 2 Ultimate Edition",
                                 "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2FRDR2_UE-_1_-625x625-0a88604250a259e93fd05f5955b1e31b784d352b.png",
                                 "_type": "Diesel Image"
                             },
                             "_type": "Product Edition",
                             "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-                            "description": "The Red Dead Redemption 2:  Ultimate Edition delivers all of the Story Mode content from the Special Edition plus additional content for online including Bonus Outfits for your online Character, Rank Bonuses, Black Chestnut Thoroughbred and free access to the Survivor Camp Theme.\n\nPlus get free access to Additional Weapons in online.",
+                            "description": "O Red Dead Redemption 2: Edição Definitiva oferece todos os conteúdos do Modo História da Edição Especial, além de conteúdo adicional para Red Dead Online, incluindo trajes adicionais para o seu personagem, bônus de nível, o Puro-Sangue Inglês Alazão Preto e acesso gratuito ao tema de acampamento de \"sobrevivente\".\n\nAlém disso, ganhe acesso gratuito a armas adicionais no modo online.",
                             "offerId": "72eeff27e5534f109f6a3438390ee38a",
                             "tag": "edition",
-                            "title": "Red Dead Redemption 2:  Ultimate Edition",
+                            "title": "Red Dead Redemption 2: Edição Definitiva",
                             "slug": "product/red-dead-redemption-2/ultimate-edition"
                         }
                     ],
@@ -380,7 +372,7 @@
                 },
                 "seo": {
                     "image": {
-                        "altText": "Red Dead Redemption 2 for PC",
+                        "altText": "Red Dead Redemption 2 para PC",
                         "_type": "Epic Store Image"
                     },
                     "twitter": {
@@ -390,8 +382,8 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "description": "Download and play Red Dead Redemption 2 for PC at the Epic Games Store. Red Dead Redemption 2 is an epic western tale of honor and loyalty at the dawn of the modern age.",
-                    "title": "Red Dead Redemption 2 | Download & Play RDR2 on PC - Epic Games Store"
+                    "description": "Baixe e jogue Red Dead Redemption 2 para PC na Epic Games Store. Red Dead Redemption 2 é uma história ocidental épica de honra e lealdade no alvorecer dos tempos modernos.",
+                    "title": "Red Dead Redemption 2 | Baixe e jogue RDR2 no PC — Epic Games Store"
                 },
                 "productSections": [
                     {
@@ -464,6 +456,24 @@
                 "navTitle": "Red Dead Redemption 2"
             },
             "overwriteMapping": false,
+            "ageGate": {
+                "regionRestrictions": [
+                    {
+                        "country": "KR",
+                        "ageLimit": 18,
+                        "_type": "Epic Store Age Gate Region"
+                    }
+                ],
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#e3322d",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#e3322d",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
             "type": "productHome",
             "_images_": [
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2FRDR2_UE-_1_-625x625-0a88604250a259e93fd05f5955b1e31b784d352b.png",
@@ -481,40 +491,13 @@
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_04-1920x1080-3e2c5e1e843eac593d1957ea22ef5f128c34b995.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_03-1920x1080-efec0a8683b70a14f5de2d281caad6267a85de44.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_05-1920x1080-6bafd36e86592a47e8aacb6899690653d6c2428d.jpg"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-                "id": "a3c78a5c62824677834c1008e0be9b2d",
-                "type": "edition",
-                "hasOffer": true
-            },
-            "ageGate": {
-                "regionRestrictions": [
-                    {
-                        "country": "KR",
-                        "ageLimit": 18,
-                        "_type": "Epic Store Age Gate Region"
-                    }
-                ],
-                "hasAgeGate": true,
-                "_type": "Epic Store Age Gate"
-            },
-            "tag": "edition"
+            ]
         },
         {
             "productRatings": {
                 "_type": "Epic Store Product Ratings"
             },
             "disableNewAddons": true,
-            "modMarketplaceEnabled": false,
-            "_title": "red-dead-online",
-            "regionBlock": "",
-            "_noIndex": false,
-            "productName": "Red Dead Redemption 2",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -529,24 +512,21 @@
                     "accent": "#e3322d"
                 }
             },
+            "modMarketplaceEnabled": false,
             "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-            "theme": {
-                "buttonPrimaryBg": "#e3322d",
-                "customPrimaryBg": "#000000",
-                "accentColor": "#e3322d",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
+            "_title": "red-dead-online",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Red Dead Redemption 2",
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/red-dead-redemption-2/red-dead-online",
+            "_urlPattern": "/pt-BR/productv2/red-dead-redemption-2/red-dead-online",
             "_slug": "red-dead-online",
             "_activeDate": "2019-10-14T19:51:14.739Z",
-            "lastModified": "2023-11-15T17:20:20.538Z",
-            "_locale": "en-US",
-            "_id": "f7b33ef2-11c0-4244-b1b5-8b86f0dd8e59",
+            "lastModified": "2023-11-15T17:20:32.950Z",
+            "_locale": "pt-BR",
+            "_id": "a42cb10f-c6b4-4d38-8f6e-14a35d22002a",
             "_templateName": "productDetail",
             "item": {
                 "catalogId": "",
@@ -559,33 +539,25 @@
                 "productLinks": {
                     "_type": "Diesel Product Lins"
                 },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/RockstarGames",
-                    "linkFacebook": "https://www.facebook.com/rockstargames",
-                    "linkYoutube": "https://www.youtube.com/user/RockstarGames",
-                    "_type": "Diesel Social Links",
-                    "title": "Follow Us",
-                    "linkInstagram": "https://www.instagram.com/rockstargames"
-                },
                 "requirements": {
                     "languages": [
-                        "Voice: ",
-                        "English ",
-                        "Text: ",
-                        "English",
-                        "Simplified Chinese ",
-                        "Traditional Chinese ",
-                        "Portuguese ( Brazilian ) ",
-                        "French",
-                        "German",
-                        "Italian ",
-                        "Japanese",
-                        "Korean ",
-                        "Polish",
-                        "Russian ",
-                        "Portuguese",
-                        "Spanish (Spain ) ",
-                        "Spanish (LATAM)"
+                        "Voz: ",
+                        "inglês ",
+                        "Texto: ",
+                        "inglês",
+                        "chinês simplificado ",
+                        "chinês tradicional ",
+                        "português (brasileiro) ",
+                        "francês",
+                        "alemão",
+                        "italiano ",
+                        "japonês",
+                        "coreano ",
+                        "polonês",
+                        "russo ",
+                        "português",
+                        "espanhol (Espanha) ",
+                        "espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -594,44 +566,44 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 10 - April 2018 Update (v1803)",
-                                    "recommended": "Windows 10 - April 2018 Update (v1803)"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 - Atualização de abril de 2018 (v1803)",
+                                    "recommended": "Windows 10 - Atualização de abril de 2018 (v1803)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor ",
+                                    "title": "Processador ",
                                     "minimum": "Intel(R) Core(TM) i5-2500K / AMD FX-6300",
                                     "recommended": "Intel(R) Core(TM) i7-4770K / AMD Ryzen 5 1500x"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "12GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "12 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB",
-                                    "recommended": "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 770 de 2 GB / AMD Radeon R9 280 de 3 GB",
+                                    "recommended": "NVIDIA GeForce GTX 1060 de 6 GB / AMD Radeon RX 480 de 4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "150GB",
-                                    "recommended": "150GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "150 GB",
+                                    "recommended": "150 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Sound Card: DirectX Compatible",
-                                    "recommended": "Sound Card: DirectX Compatible"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som: compatível com DirectX",
+                                    "recommended": "Placa de som: compatível com DirectX"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Additional Notes ",
-                                    "recommended": "Please note: an internet connection is required to play Red Dead Online"
+                                    "title": "Observações adicionais ",
+                                    "recommended": "Observação: é necessário ter conexão com a internet para jogar Red Dead Online."
                                 }
                             ]
                         }
@@ -642,14 +614,22 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/RockstarGames",
+                    "linkFacebook": "https://www.facebook.com/rockstargames",
+                    "linkYoutube": "https://www.youtube.com/user/RockstarGames",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga-nos",
+                    "linkInstagram": "https://www.instagram.com/rockstargames"
+                },
                 "navOrder": 4,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "Rockstar Games, Inc. ©2005-20. Rockstar Games, Red Dead Redemption, and R* are marks/logos/copyrights of Take-Two Interactive. All other marks and trademarks are properties of their respective owners. All rights reserved.  License rockstargames.com/eula; terms rockstargames.com/socialclub. Non-transferable access to special features such as exclusive/unlockable/downloadable/online content/services/functions, multiplayer or bonus content, may require single-use serial code, additional fee, and/or online account registration(varies 13+). Special features may require internet, may not be available to all users or at all times, and may, on 30 days notice, be terminated/modified/offered under different terms. Violation of EULA/Terms/other policies may result in restriction/termination of access to game or online account. Customer/tech support at rockstargames.com/support. This videogame is fictional. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention is strictly prohibited. Take-Two owns marks/logos/copyrights. All rights reserved",
+                    "copy": "Rockstar Games, Inc. ©2005-20. Rockstar Games, Red Dead Redemption e R* são marcas/logotipos/copyrights da Take-Two Interactive. Todas as outras marcas e marcas comerciais são propriedades de seus respectivos detentores. Todos os direitos reservados.  Licença rockstargames.com/eula; termos rockstargames.com/socialclub. O acesso intransferível a recursos especiais, como conteúdos, serviços e funções exclusivos/desbloqueáveis/para baixar/online, conteúdo multijogador ou de bônus, pode exigir um código de série válido de uso único, pagamento de tarifa adicional e/ou registro de uma conta online (13+). O acesso a recursos especiais pode exigir conexão à internet, pode não estar disponível para todos os usuários a todo momento e ser encerrado, modificado ou oferecido de acordo com novos termos com um aviso prévio de 30 dias. Violações do EULA, dos Termos ou de outras políticas podem resultar em restrição ou encerramento do acesso ao jogo ou à conta online. Atendimento ao consumidor e suporte técnico em support.rockstargames.com. Este jogo é fictício. É proibido fazer cópias, aplicar engenharia reversa, transmitir, apresentar publicamente, alugar, cobrar para jogar ou burlar a proteção contra cópias. A Take-Two é a proprietária das marcas/logotipos/copyrights. Todos os direitos reservados",
                     "privacyPolicyLink": {
                         "src": "https://www.rockstargames.com/eula",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -661,8 +641,8 @@
                     "developerAttribution": "Rockstar Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Rockstar Games",
-                    "description": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life across frontier America.\n\nForge your own path as you battle lawmen, outlaw gangs and ferocious wild animals to build a life on the American frontier. Build a camp, ride solo or form a posse and explore everything from the snowy mountains in the North to the swamps of the South, from remote outposts to busy farms and bustling towns. Chase down bounties, hunt, fish and trade, search for exotic treasures, run your own underground Moonshine distillery, or become a Naturalist to learn the secrets of the animal kingdom and much more in a world of astounding depth and detail.\n\nJoin millions of fellow players in the American West, and experience a world now packed with years’ worth of new features, gameplay and additional enhancements.\n\nIncludes Red Dead Online. Red Dead Redemption 2: Story Mode must be purchased separately.",
-                    "shortDescription": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life in frontier America.  Chase down bounties, battle outlaw gangs and other players, hunt, fish and trade, search for exotic treasures, run Moonshine, and much more to discover in a world of astounding depth and detail",
+                    "description": "Entre no mundo vibrante e em constante desenvolvimento do Red Dead Online e experimente a vida na fronteira dos EUA.\n\nTrilhe seu próprio caminho enquanto enfrenta autoridades, gangues fora da lei e animais selvagens ferozes para construir uma vida na fronteira dos Estados Unidos. Monte um acampamento, cavalgue com ou sem um bando e explore tudo, das montanhas nevadas no norte aos pântanos do sul, de postos remotos a fazendas agitadas e cidades vibrantes. Vá atrás de recompensas, cace, pesque e negocie, procure tesouros exóticos, toque sua própria destilaria clandestina de Moonshine ou se torne Naturalista para aprender os segredos do reino animal e muito mais num mundo rico em detalhes.\n\nJunte\\-se a milhões de outros jogadores no Oeste dos EUA e experiencie um mundo repleto de novos recursos, modos de jogo e melhorias adicionais.\n\nInclui Red Dead Online. Red Dead Redemption 2: Modo História deve ser comprado separadamente.\n\n",
+                    "shortDescription": "Entre no mundo vibrante e em constante desenvolvimento do Red Dead Online e experimente a vida na fronteira dos EUA.  Vá atrás de recompensas, enfrente gangues fora da lei e outros jogadores, cace, pesque e negocie, procure tesouros exóticos, toque sua destilaria de Moonshine e muito mais num mundo rico em detalhes",
                     "title": "Red Dead Online",
                     "developerLogo": {
                         "src": "https://cdn2.unrealengine.com/rdo-standalone-egs-rockstarlogo-200x200-deliverable-128x128-676962434.jpg",
@@ -676,7 +656,7 @@
                     "link": {
                         "_type": "Diesel Link"
                     },
-                    "description": "This game will no longer support Windows 7 or 8 operating systems starting January 30, 2024.",
+                    "description": "Não haverá mais suporte para este jogo nos sistemas operacionais Windows 7 e 8 a partir de 30 de janeiro de 2024.",
                     "offerId": "",
                     "title": ""
                 },
@@ -698,8 +678,8 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "isFullBleed": false,
                     "altContentPosition": false,
+                    "isFullBleed": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/rdo-standalone-egs-landscapeproductimage-2560x1440-deliverable-2560x1440-676963725.jpg"
                 },
                 "carousel": {
@@ -864,15 +844,15 @@
             "type": "offer",
             "_images_": [
                 "https://cdn2.unrealengine.com/rdo-screenshot-282-3840x2160-696232404.jpg",
+                "https://cdn2.unrealengine.com/rdo-standalone-egs-landscapeproductimage-2560x1440-deliverable-2560x1440-676963725.jpg",
+                "https://cdn2.unrealengine.com/rdo-standalone-egs-rockstarlogo-200x200-deliverable-128x128-676962434.jpg",
                 "https://cdn2.unrealengine.com/rdo-standalone-egs-featuredcarousel-1920x1080-deliverable-1920x1080-676962607.jpg",
                 "https://cdn2.unrealengine.com/rdo-screenshot-132-3840x2160-696232603.jpg",
-                "https://cdn2.unrealengine.com/rdo-standalone-egs-rockstarlogo-200x200-deliverable-128x128-676962434.jpg",
-                "https://cdn2.unrealengine.com/rdo-standalone-egs-landscapeproductimage-2560x1440-deliverable-2560x1440-676963725.jpg",
-                "https://cdn2.unrealengine.com/rdo-screenshot-169-3840x2160-696232554.jpg",
                 "https://cdn2.unrealengine.com/rdo-standalone-egs-gamelogo-400x400-deliverable-400x400-676962434.png",
+                "https://cdn2.unrealengine.com/rdo-screenshot-169-3840x2160-696232554.jpg",
                 "https://cdn2.unrealengine.com/rdo-screenshot-235-3840x2160-696232870.jpg",
-                "https://cdn2.unrealengine.com/rdo-screenshot-144-3840x2160-696232392.jpg",
-                "https://cdn2.unrealengine.com/rdo-standalone-egs-portraitproductimage-1200x1600-deliverable-1200x1600-676963376.jpg"
+                "https://cdn2.unrealengine.com/rdo-standalone-egs-portraitproductimage-1200x1600-deliverable-1200x1600-676963376.jpg",
+                "https://cdn2.unrealengine.com/rdo-screenshot-144-3840x2160-696232392.jpg"
             ],
             "offer": {
                 "regionRestrictions": {
@@ -887,13 +867,20 @@
             "ageGate": {
                 "regionRestrictions": [
                     {
-                        "country": "KR",
                         "ageLimit": 18,
+                        "country": "KR",
                         "_type": "Epic Store Age Gate Region"
                     }
                 ],
                 "hasAgeGate": true,
                 "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#e3322d",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#e3322d",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
             },
             "tag": "edition"
         },
@@ -902,11 +889,6 @@
                 "_type": "Epic Store Product Ratings"
             },
             "disableNewAddons": true,
-            "modMarketplaceEnabled": false,
-            "_title": "ultimate-edition",
-            "regionBlock": "",
-            "_noIndex": false,
-            "productName": "Red Dead Redemption 2",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -921,25 +903,32 @@
                     "accent": "#e3322d"
                 }
             },
+            "modMarketplaceEnabled": false,
             "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-            "theme": {
-                "buttonPrimaryBg": "#e3322d",
-                "customPrimaryBg": "#000000",
-                "accentColor": "#e3322d",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
+            "_title": "ultimate-edition",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Red Dead Redemption 2",
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/red-dead-redemption-2/ultimate-edition",
+            "_urlPattern": "/pt-BR/productv2/red-dead-redemption-2/ultimate-edition",
             "_slug": "ultimate-edition",
             "_activeDate": "2024-03-28T15:00:00.000Z",
-            "lastModified": "2024-04-03T23:52:36.446Z",
-            "_locale": "en-US",
-            "_id": "e96d3094-3f47-46b2-a096-99814895ad50",
+            "lastModified": "2019-12-16T21:10:19.940Z",
+            "_locale": "pt-BR",
+            "_id": "ff698bb6-12b8-43f5-93e7-0fd4c01dba72",
             "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+                "id": "72eeff27e5534f109f6a3438390ee38a",
+                "type": "edition",
+                "hasOffer": true
+            },
             "item": {
                 "catalogId": "22a7b503221442daa2fb16ad37b6ccbf",
                 "appName": "Heather",
@@ -960,23 +949,23 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Voice: ",
-                        "English ",
-                        "Text: ",
-                        "English",
-                        "Simplified Chinese ",
-                        "Traditional Chinese ",
-                        "Portuguese ( Brazilian ) ",
-                        "French",
-                        "German",
-                        "Italian ",
-                        "Japanese",
-                        "Korean ",
-                        "Polish",
-                        "Russian ",
-                        "Portuguese",
-                        "Spanish (Spain ) ",
-                        "Spanish (LATAM)"
+                        "Voz: ",
+                        "inglês ",
+                        "Texto: ",
+                        "inglês",
+                        "chinês simplificado ",
+                        "chinês tradicional ",
+                        "português (brasileiro) ",
+                        "francês",
+                        "alemão",
+                        "italiano ",
+                        "japonês",
+                        "coreano ",
+                        "polonês",
+                        "russo ",
+                        "português",
+                        "espanhol (Espanha) ",
+                        "espanhol (América Latina)"
                     ],
                     "systems": [
                         {
@@ -985,39 +974,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows 10 - April 2018 Update (v1803)",
                                     "recommended": "Windows 10 - April 2018 Update (v1803)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor ",
+                                    "title": "Processador ",
                                     "minimum": "Intel(R) Core(TM) i5-2500K / AMD FX-6300",
                                     "recommended": "Intel(R) Core(TM) i7-4770K / AMD Ryzen 5 1500x"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "12GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "12 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB",
-                                    "recommended": "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Nvidia GeForce GTX 770 2 GB / AMD Radeon R9 280 3 GB",
+                                    "recommended": "Nvidia GeForce GTX 1060 6 GB / AMD Radeon RX 480 4 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "150GB",
-                                    "recommended": "150GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "150 GB",
+                                    "recommended": "150 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Sound Card: DirectX Compatible",
-                                    "recommended": "Sound Card: DirectX Compatible"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som: compatível com DirectX",
+                                    "recommended": "Placa de som: compatível com DirectX"
                                 }
                             ]
                         }
@@ -1028,28 +1017,28 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2F18_S_V_L_D_C_M-760x117-d56453e46b285559c0cb495755c081c952ac50b1.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "청소년이용불가"
+                            "title": "Classificação etária na Coreia do Sul: 18 anos"
                         },
                         {
                             "countryCodes": "US,CA",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2FESRB_M_RedDeadRedemption2-842x485-4ab59bd18e3e79db7655d8453939c545f0625417.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "MATURE 17+"
+                            "title": "Classificação etária nos Estados Unidos: 17 anos"
                         },
                         {
                             "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/pegi-18-rating-65x80-6990e36d0cc7.jpg",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 18"
+                            "title": "Classificação etária na Europa: 18 anos"
                         },
                         {
                             "countryCodes": "DE",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-400x400-7ac38d8b4b29de7c5f10a52ebf17f124e361279e.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 18"
+                            "title": "Classificação etária na Alemanha: 18 anos"
                         }
                     ],
                     "accountRequirements": "ROCKSTAR_SOCIAL_CLUB",
@@ -1061,11 +1050,11 @@
                 "navOrder": 3,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "Software license terms in game and at www.rockstargames.com/eula; online account terms at www.rockstargames.com/socialclub. Non-transferable access to special features, such as exclusive/unlockable/downloadable/multiplayer/online & bonus content/services/functions, may require single-use serial code, additional fee, and/or non-transferrable online account registration (varies 13+). Special features access may require internet connection, may not be available to all users or at all times, and may be terminated/modified/offered under different terms without notice. Violation of EULA, Code of Conduct, or other policies may result in restriction or termination of access to game or online account. For info, customer & tech support visit www.rockstargames.com/support. This game is fictional. It may depict people, places, companies, groups, events, buildings, and other things that are similar to those in the real world; they are not affiliated or associated in any way with this game, and such depictions are not factual. The makers/publishers/licensors of this video game do not endorse/condone/encourage any content. Unauthorized copying, alteration, reverse engineering, decompiling, transmission, public performance, rental, pay for play, or copy protection circumvention is prohibited & violates EULA. Certain limits apply to purchase, use, and redemption. See EULA www.rockstargames.com/eula and Terms of Service www.rockstargames.com/legal for details.     Rockstar Games, Inc.  ©2005-19. Rockstar Games, Red Dead Redemption, R*, Redemption, Red Dead, Dead Eye are marks/logos/copyrights of Take-Two Interactive. Dolby and the Double-D symbols are trademarks of Dolby Laboratories. The ratings icon is a trademark of the Entertainment Software Association. All other marks and trademarks are properties of their respective owners.  All rights reserved",
+                    "copy": "Termos de licença de software no jogo e em www.rockstargames.com/eula; termos de conta online em www.rockstargames.com/socialclub. O acesso intransferível a recursos especiais, como conteúdos, serviços e funções exclusivos/desbloqueáveis/para baixar/multiplayer/online e bônus podem exigir um código de série válido de uso único, taxa adicional e/ou registro de conta online intransferível (13+). O acesso a recursos especiais pode exigir conexão à internet, pode não estar disponível para todos os usuários a todo momento e ser encerrado, modificado ou oferecido de acordo com diferentes termos, sem aviso prévio. Violação do EULA, Código de Conduta, ou demais políticas de uso poderão resultar na restrição ou cancelamento do acesso ao jogo ou à conta online. Para obter mais informações, suporte técnico e atendimento ao cliente, acesse www.rockstargames.com/support. O conteúdo deste jogo é fictício. Ele pode representar pessoas, lugares, empresas, grupos, eventos, edifícios e outras coisas semelhantes às do mundo real, mas nada disso é afiliado ou associado de forma alguma ao jogo, e essas representações não são factuais. Os criadores, distribuidores e licenciadores deste jogo não apoiam, aprovam nem incentivam a prática de qualquer comportamento exibido no jogo. Fazer cópias não autorizadas, alterar, decompilar, aplicar engenharia reversa, transmitir, apresentar publicamente, alugar, cobrar para jogar ou burlar a proteção contra cópias é estritamente proibido e viola o EULA. Certos limites se aplicam à compra, uso e resgate. Consulte o EULA em www.rockstargames.com/eula e os Termos de Serviço em www.rockstargames.com/legal para obter mais detalhes.     Rockstar Games, Inc. ©2005-19. Rockstar Games, Red Dead Redemption, R*, Redemption, Red Dead, Dead Eye são marcas/logotipos/copyrights da Take-Two Interactive. Dolby e os símbolos Double-D são marcas comerciais da Dolby Laboratories. O ícone de classificação é uma marca comercial da Entertainment Software Association. Todas as outras marcas e marcas comerciais são propriedades de seus respectivos detentores.  Todos os direitos reservados",
                     "privacyPolicyLink": {
                         "src": "https://www.rockstargames.com/eula",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -1077,9 +1066,9 @@
                     "developerAttribution": "Rockstar Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Rockstar Games",
-                    "description": "Includes Red Dead Redemption 2: Story Mode, Red Dead Online, plus all Special and Ultimate Edition content.\n\nWinner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age. \n\nAmerica, 1899. Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.\n\nRed Dead Redemption 2 also includes the shared living world of Red Dead Online – forge your own path as you battle lawmen, outlaw gangs and ferocious wild animals to build a life on the American frontier. Build a camp, ride solo or form a posse and explore everything from the snowy mountains in the North to the swamps of the South, from remote outposts to busy farms and bustling towns. Chase down bounties, hunt, fish and trade, search for exotic treasures, run your own underground Moonshine distillery, or become a Naturalist to learn the secrets of the animal kingdom and much more in a world of astounding depth and detail.\n\nThe Red Dead Redemption 2: Ultimate Edition delivers all of the Story Mode content from the Special Edition plus additional bonuses for Red Dead Online.\n\nExclusive Story Mode content includes:\n•        Bank Robbery Mission & Gang Hideout\n•        Dappled Black Thoroughbred\n•        Talisman & Medallion Gameplay Bonuses\n•        Gameplay Boosts, Cash Bonuses & Discounts\n•        The Nuevo Paraiso Gunslinger Outfit\n\nRed Dead Online content includes:\n•        Bonus Outfits \n•        Rank Bonuses\n•        Black Chestnut Thoroughbred\n•        Free access to the Survivor Camp Theme \n\nPlus get free access to Additional Weapons in both Story Mode and Red Dead Online.",
-                    "shortDescription": "The Red Dead Redemption 2:  Ultimate Edition delivers all of the Story Mode content from the Special Edition plus additional content for online including Bonus Outfits for your online Character, Rank Bonuses, Black Chestnut Thoroughbred and free access to the Survivor Camp Theme.  Plus get free access to Additional Weapons in online.",
-                    "title": "Red Dead Redemption 2:  Ultimate Edition",
+                    "description": "Inclui Red Dead Redemption 2: Modo História, Red Dead Online, e ainda todo o conteúdo das edições Especial e Definitiva.\n\nVencedor de mais de 175 prêmios de Jogo do Ano e avaliado com mais de 250 notas máximas, Red Dead Redemption 2 é uma história épica de honra e lealdade no alvorecer dos tempos modernos. \n\nEstados Unidos, 1899. Arthur Morgan e a gangue Van der Linde são forçados a fugir. Com agentes federais e os melhores caçadores de recompensas no seu encalço, a gangue precisa roubar, assaltar e lutar para sobreviver no impiedoso coração dos Estados Unidos. Conforme divisões internas profundas ameaçam despedaçar a gangue, Arthur deve fazer uma escolha entre os seus próprios ideais e a lealdade à gangue que o criou.\n\nRed Dead Redemption 2 também inclui o mundo compartilhado de Red Dead Online – trilhe seu próprio caminho enquanto enfrenta autoridades, gangues fora da lei e animais selvagens ferozes para construir uma vida na fronteira dos Estados Unidos. Monte um acampamento, cavalgue com ou sem um bando e explore tudo, das montanhas nevadas no norte aos pântanos do sul, de postos remotos a fazendas agitadas e cidades vibrantes. Vá atrás de recompensas, cace, pesque e negocie, procure tesouros exóticos, toque sua própria destilaria clandestina de Moonshine ou se torne Naturalista para aprender os segredos do reino animal e muito mais num mundo rico em detalhes.\n\nRed Dead Redemption 2: Edição Definitiva oferece todos os conteúdos do Modo História da Edição Especial, além de bônus adicionais para Red Dead Online.\n\nO conteúdo exclusivo do Modo História inclui:\n•        Missão de Roubo a Banco e Esconderijo de Gangue\n•        Puro-Sangue Inglês Preto Manchado\n•        Bônus de talismã e medalhão\n•        Reforços, dinheiro bônus e descontos\n•        Traje Pistoleiro de Nuevo Paraíso\n\nO conteúdo de Red Dead Online inclui:\n•        Trajes adicionais \n•        Bônus de nível\n•        Puro-Sangue Inglês Alazão Preto\n•        Acesso gratuito ao tema de acampamento de \"sobrevivente\" \n\nAlém disso, ganhe acesso gratuito a armas adicionais no Modo História e em Red Dead Online.",
+                    "shortDescription": "A Red Dead Redemption 2: Edição Definitiva oferece todos os conteúdos do Modo História da Edição Especial, além de conteúdo adicional para Red Dead Online, incluindo trajes adicionais para o seu personagem, bônus de nível, o Puro-Sangue Inglês Alazão Preto e acesso gratuito ao tema de acampamento de \"sobrevivente\".  Além disso, ganhe acesso gratuito a armas adicionais no modo online.",
+                    "title": "Red Dead Redemption 2: Edição Definitiva",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -1144,9 +1133,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": true
@@ -1190,13 +1176,7 @@
                     "image": {
                         "_type": "Epic Store Image"
                     },
-                    "twitter": {
-                        "_type": "SEO Twitter Metadata"
-                    },
-                    "_type": "Epic Store Product SEO",
-                    "og": {
-                        "_type": "SEO OG Metadata"
-                    }
+                    "_type": "Epic Store Product SEO"
                 },
                 "productSections": [
                     {
@@ -1247,9 +1227,27 @@
                         }
                     ]
                 },
-                "navTitle": "Ultimate Edition"
+                "navTitle": "Edição Definitiva"
             },
-            "overwriteMapping": false,
+            "ageGate": {
+                "regionRestrictions": [
+                    {
+                        "country": "KR",
+                        "ageLimit": 18,
+                        "_type": "Epic Store Age Gate Region"
+                    }
+                ],
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#e3322d",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#e3322d",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "tag": "edition",
             "type": "offer",
             "_images_": [
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_S2-1280x1440-f9f0acfcf17937512ea608837e0f470c482db13f.jpg",
@@ -1263,29 +1261,7 @@
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_03-1920x1080-efec0a8683b70a14f5de2d281caad6267a85de44.jpg",
                 "https://cdn2.unrealengine.com/pegi-18-rating-65x80-6990e36d0cc7.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2F18_S_V_L_D_C_M-760x117-d56453e46b285559c0cb495755c081c952ac50b1.png"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-                "id": "72eeff27e5534f109f6a3438390ee38a",
-                "type": "edition",
-                "hasOffer": true
-            },
-            "ageGate": {
-                "regionRestrictions": [
-                    {
-                        "country": "KR",
-                        "ageLimit": 18,
-                        "_type": "Epic Store Age Gate Region"
-                    }
-                ],
-                "hasAgeGate": true,
-                "_type": "Epic Store Age Gate"
-            },
-            "tag": "edition"
+            ]
         }
     ]
 }

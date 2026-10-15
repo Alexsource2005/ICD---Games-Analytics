@@ -6,12 +6,12 @@
     "effectiveDate": "2021-08-05T13:00:00.000Z",
     "keyImages": [
         {
-            "type": "OfferImageWide",
-            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
-        },
-        {
             "type": "OfferImageTall",
             "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0"
         },
         {
             "type": "Thumbnail",
@@ -126,18 +126,18 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
-            "originalPrice": 1999,
+            "discountPrice": 3799,
+            "originalPrice": 3799,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
             }
         },
         "lineOffers": [

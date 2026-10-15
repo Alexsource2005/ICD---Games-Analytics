@@ -9,15 +9,6 @@
                 "countryCodes": "KR",
                 "_type": "Epic Store Rating",
                 "title": "15세이용가"
-            },
-            {
-                "image": {
-                    "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
-                    "_type": "Epic Store Image"
-                },
-                "countryCodes": "DE",
-                "_type": "Epic Store Rating",
-                "title": "6+"
             }
         ],
         "_type": "Epic Store Product Ratings"
@@ -28,8 +19,7 @@
     "regionBlock": "",
     "_noIndex": false,
     "_images_": [
-        "https://cdn2.unrealengine.com/15-l-210x117-375806199.png",
-        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png"
+        "https://cdn2.unrealengine.com/15-l-210x117-375806199.png"
     ],
     "productName": "Tacoma",
     "pageTheme": {
@@ -54,12 +44,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/tacoma",
+    "_urlPattern": "/pt-BR/productv2/tacoma",
     "_slug": "tacoma",
     "_activeDate": "2020-07-03T05:48:19.380Z",
-    "lastModified": "2020-10-08T00:19:48.890Z",
-    "_locale": "en-US",
-    "_id": "cbbf0fa7-a844-4f8a-9e56-6402055435a9",
+    "lastModified": "2020-07-09T17:06:52.782Z",
+    "_locale": "pt-BR",
+    "_id": "85e0a811-92e5-4d6b-8e7c-122833b30ca7",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -73,15 +63,6 @@
                         "countryCodes": "KR",
                         "_type": "Epic Store Rating",
                         "title": "15세이용가"
-                    },
-                    {
-                        "image": {
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
-                            "_type": "Epic Store Image"
-                        },
-                        "countryCodes": "DE",
-                        "_type": "Epic Store Rating",
-                        "title": "6+"
                     }
                 ],
                 "_type": "Epic Store Product Ratings"
@@ -131,12 +112,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/tacoma/home",
+            "_urlPattern": "/pt-BR/productv2/tacoma/home",
             "_slug": "home",
             "_activeDate": "2020-07-03T05:50:15.832Z",
-            "lastModified": "2020-08-05T20:14:42.091Z",
-            "_locale": "en-US",
-            "_id": "89df85cc-4428-4d38-bf69-e96535884e31",
+            "lastModified": "2020-07-15T01:28:40.053Z",
+            "_locale": "pt-BR",
+            "_id": "ab17a05a-c210-4916-a849-de296652bf0e",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -158,11 +139,11 @@
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/tacomagame",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Tacoma"
+                    "title": "Siga Tacoma"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English | Text: English, Chinese - Simplified, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "Áudio: inglês | Texto: inglês, chinês simplificado, francês, alemão, italiano, japonês, coreano, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -171,31 +152,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "OS 10.14",
-                                    "recommended": "Latest version OS X"
+                                    "recommended": "Versão mais recente do OS X"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "1.6ghz processor",
-                                    "recommended": "2.4ghz processor"
+                                    "title": "Processador",
+                                    "minimum": "Processador de 1,6 GHz",
+                                    "recommended": "Processador de 2,4 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "Onboard or dedicated graphics accelerator with 2GB+ of video RAM",
-                                    "recommended": "Dedicated graphics accelerator with 4GB+ of video RAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Acelerador gráfico integrado ou dedicado com mais de 2 GB de RAM de vídeo",
+                                    "recommended": "Acelerador gráfico dedicado com mais de 4 GB de RAM de vídeo"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "RAM",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "11 GB"
                                 }
                             ]
@@ -206,31 +187,31 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 64-Bit",
-                                    "recommended": "Window 10 64-Bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "1.6ghz Intel i5-equivalent processor",
-                                    "recommended": "2.4ghz Intel i7-equivalent processor"
+                                    "title": "Processador",
+                                    "minimum": "Processador equivalente a Intel i5 de 1,6 GHz",
+                                    "recommended": "Processador equivalente a Intel i7 de 2,4 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "GPU",
-                                    "minimum": "Onboard or dedicated graphics accelerator with 2GB+ of video RAM",
-                                    "recommended": "Dedicated graphics accelerator with 4GB+ of video RAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Acelerador gráfico integrado ou dedicado com mais de 2 GB de RAM de vídeo",
+                                    "recommended": "Acelerador gráfico dedicado com mais de 4 GB de RAM de vídeo"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "RAM",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "11 GB"
                                 }
                             ]
@@ -245,11 +226,11 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "Tacoma is copyright Fullbright, 2017. All rights reserved.",
+                    "copy": "Tacoma é direito autoral da Fullbright, 2017. Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://fullbrig.ht/privacy",
                         "_type": "Diesel Link",
-                        "title": "Fullbright Privacy Policy"
+                        "title": "Política de Privacidade da Fullbright"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -261,8 +242,8 @@
                     "developerAttribution": "Fullbright",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Fullbright",
-                    "description": "# A Richly Layered Story Experience\n\nSix crewmembers lived and worked on space station Tacoma, forming relationships, experiencing love and loss, and facing crisis together. Discover not just what happened to these people, but what makes them who they are, through your role as an interactive investigator. The story is told through a series of fully voiced and animated interactive AR scenes, immersing you in the events on Tacoma.\n\n# A Groundbreaking Multi-Path Story System\n\nIn each section of the station, you are surrounded by digital representations of crewmembers following their own parallel story threads that diverge, recombine, and split off again. Rewind, fast-forward, and move through these scenes’ chronologies as they swirl around you. Your interactive tools allow you to discover the tightly-knotted narrative from every angle, and in every detail.\n\n# A Deeply Interactive Gameworld\n\nExplore Tacoma Station both physically and digitally. Unlock doors and drawers to find meaningful objects, notes, and physical artifacts, while simultaneously exploring extensive records of the crew’s digital communications and personal thoughts. Every facet of the crew’s experience on Tacoma is part of your investigation.\n\n# A Vision of the Future\n\nExperience life in the year 2088. Discover a rich fictional universe that depicts humanity’s expansion into low-Earth orbit and beyond. A deeply-imagined speculative vision of the near future from the award-winning story team behind Gone Home and BioShock 2: Minerva’s Den.\n\n# A Compact Narrative Experience\n\nTacoma is estimated to take around 2 to 5 hours to complete. How deep you dig and how much detail you find is up to you. Tacoma is a non-combat, non-puzzle-focused game. The details of the story and gameworld are there for you to discover at your own pace.",
-                    "shortDescription": "An Abandoned Space Station. A Mysterious AI. And You. The crew of Lunar Transfer Station Tacoma were going about their workaday lives when disaster threw them into chaos. Discover what fate awaits them in Fullbright's bold and innovative followup to Gone Home.",
+                    "description": "# Uma experiência narrativa rica e cheia de camadas\n\nSeis tripulantes trabalhavam e viviam na estação espacial Tacoma, onde criaram laços, viveram experiências de amor e de perda, e enfrentaram crises juntos. Na pele de uma investigadora interativa, descubra não apenas o que aconteceu com essas pessoas, mas o que as caracteriza. A história é contada em diversas cenas de animação em realidade aumentada interativas e cheia de diálogos, o que permite uma grande imersão nos eventos que ocorreram em Tacoma.\n\n# Um sistema inovador de histórias com diversos caminhos\n\nEm cada sessão da estação, você é cercado por representações digitais dos membros da tripulação, seguindo suas próprias histórias paralelas que se divergem, se recombinam e se separam novamente. Avance pelas cenas ou volte para o passado, mova-se pela cronologia que se forma a sua volta. Suas ferramentas interativas permitirão que você entenda essa narrativa extremamente entrelaçada, observando todos os ângulos possíveis e todos os detalhes.\n\n# Um mundo de jogo profundamente interativo\n\nExplore a Estação Tacoma tanto fisicamente como digitalmente. Destrave portas e passagens para encontrar objetos significativos, notas e artefatos físicos, enquanto explora simultaneamente as longas gravações das comunicações digitais da tripulação e seus pensamentos pessoais. Cada faceta da experiência vivenciada pela tripulação em Tacoma é importante para a sua investigação.\n\n# Uma visão do futuro\n\nVivencie a vida no ano de 2088. Descubra um universo ficcional rico que retrata a expansão da humanidade na órbita baixa da Terra e além. Uma visão imaginativa e especulativa profunda do futuro próximo, criada pelo grupo consagrado e premiado que criou também Gone Home e BioShock 2: Minerva's Den.\n\n# Uma experiência narrativa compacta\n\nEstima-se que a exploração de Tacoma leve entre 2 a 5 horas para ser completada. A profundidade da exploração e a quantidade de detalhes que serão encontrados dependem de você. Tacoma é um jogo cujo foco é a ausência de combates e de quebra-cabeças. Os detalhes da história e do mundo do jogo estão disponíveis para serem descobertos no seu próprio ritmo.",
+                    "shortDescription": "Uma estação espacial abandonada. Uma IA misteriosa. E você. O dia a dia da tripulação da Estação de Transferência Lunar Tacoma entra em caos quando um desastre acontece. Descubra o que o destino reserva para eles neste ousado e inovador jogo da Fullbright, os criadores de Gone Home.",
                     "title": "Tacoma",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -519,15 +500,6 @@
                         "countryCodes": "KR",
                         "_type": "Epic Store Rating",
                         "title": "15세이용가"
-                    },
-                    {
-                        "image": {
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
-                            "_type": "Epic Store Image"
-                        },
-                        "countryCodes": "DE",
-                        "_type": "Epic Store Rating",
-                        "title": "6+"
                     }
                 ],
                 "_type": "Epic Store Product Ratings"
@@ -567,12 +539,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/tacoma/faq",
+            "_urlPattern": "/pt-BR/productv2/tacoma/faq",
             "_slug": "faq",
             "_activeDate": "2020-07-16T17:48:17.198Z",
             "lastModified": "2020-07-16T17:53:59.076Z",
-            "_locale": "en-US",
-            "_id": "e5a78b13-39ef-46b8-afe9-8dbf1c9eab75",
+            "_locale": "pt-BR",
+            "_id": "d1b4ffef-8dd4-454e-ac73-58c8441f2be1",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -602,7 +574,7 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "Tacoma is copyright Fullbright, 2017. All rights reserved.",
+                    "copy": "Tacoma é direito autoral da Fullbright, 2017. Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "_type": "Diesel Link"
                     }
@@ -661,8 +633,8 @@
                 },
                 "markdown": {
                     "_type": "Epic Store Markdown",
-                    "title": "Tacoma Frequently Asked Questions & Technical Support",
-                    "content": "If you've got questions or technical issues with Tacoma, you've come to the right place!\n\n### What is Tacoma?\n\nTacoma is a first-person narrative game created by Fullbright, the folks who brought you Gone Home. You'll explore an abandoned space station, interacting with ghostly holographic recordings to uncover a sci-fi mystery. Tacoma is a game about discovering all the details of this strange place where a small tight-knit group of people lived and worked by interacting with the augmented reality recordings they left behind.\n\n### Is Tacoma a long game? Is it a horror game? Are there puzzles?\n\nTacoma isn't a horror game, or a puzzle game. The puzzle is the story itself, and how you uncover it. Tacoma is a focused narrative experience where the more you explore, the more you get out of it. There aren't jump scares. The game takes most players in the 3-5 hour range to complete. Once you finish your first playthrough, we invite you to come back and re-play the game with Commentary Mode enabled. Commentary Mode fills the station with over two hours of audio commentary from the development team, along with behind-the-scenes concept art and production photos to discover.\n\n### Help, I need Technical Support!\n\nSorry to hear it, but let's go!\n\n### The game is running way slower than I'd expect. What's up?\n\nThere are a few likely issues here. One is simply to ensure that your graphics settings are appropriate for your computer. On some Macintosh computers, the native resolution of the screen is extremely high, which can cause Tacoma to run slow. Try setting the application to \"low-resolution mode\" in your Mac OS, or go into Tacoma's graphics options and set the display resolution to something closer to 1920x1080 (standard 1080p resolution). You can also try setting the graphics to a lower preset than default to see if it helps.\n\n### It's still running slow!\n\nThere's a possibility Tacoma is using the wrong display device. If you have an integrated graphics chip as well as a dedicated graphics card, you may need to ensure the game is selecting the dedicated graphics correctly. You can do this in your graphics card's software (such as Nvidia Control Panel, or in your Mac OS settings) or by creating a desktop shortcut to Tacoma and setting its properties to use your intended graphics device.\n\nIf the game still runs slow, double-check the minimum hardware requirements on our store page and ensure your computer hardware meets those requirements.\n\n### My controls aren't working-- my camera is pointing at the ceiling, or spinning constantly. Help!\n\nTacoma officially supports mouse/trackpad & keyboard input, Xbox controllers, and PS4 Dualshock. The most common cause of control issues is having other unsupported input devices connected to the computer that send input info the game can't process. If you're having this issue, please try disconnecting/disabling any flight sticks, pedals, drawing tablets, or any virtual controllers that simulate input from software devices, or interpret input from controllers not normally supported by PC such as Gamecube or PS1 virtual controllers.\n\n### Help, I got stuck somewhere!\n\nYipes! Sorry about that. It's rare, but if you get stuck in world, force-quit the game (alt-F4 on Windows or Command-Q on Mac) and load back in. Force-quitting will cause there not to be an autosave created when you quit. When you load back in, you'll be at your most recent autosave point before force-quitting. If you're having physics issues (objects clipping into the floor, or getting stuck) ensure your graphics settings are set so that you're not playing the game at a very low framerate, which increases the likelihood of a physics glitch.\n\n### I'm having another kind of technical issue that's not answered here. Can you help me?\n\nSure! If there's something going on that you can't find an answer to here or through a web search, feel free to contact us directly at support@fullbrig.ht. We endeavor to respond within one or two business days. Thanks for your patience! We'll do everything we can to help.\n"
+                    "title": "Perguntas Frequentes e Suporte Técnico de Tacoma",
+                    "content": "Se você tiver dúvidas ou problemas técnicos com o Tacoma, veio ao lugar certo!\n\n### O que é Tacoma?\n\nTacoma é um jogo em narrativa, em primeira pessoa, criado pela Fullbright, a mesma equipe por trás de Gone Home. Você irá explorar uma estação espacial abandonada e irá interagir com gravações holográficas fantasmagóricas para descobrir um mistério de ficção científica. Em Tacoma, o jogador irá descobrir todos os detalhes desse lugar estranho onde um pequeno grupo de pessoas viveu e trabalhou, através de interações com as gravações em realidade aumentada deixadas para trás por esse mesmo grupo.\n\n### Tacoma é um jogo longo? É um jogo de terror? Há quebra-cabeças?\n\nTacoma não é um jogo de terror nem um quebra-cabeça. O quebra-cabeça é a própria história e como você a desvenda. Tacoma é uma experiência de narrativa focada, onde quanto mais você explora, mais você se beneficia dela. Não há grandes sustos. A maioria dos jogadores leva entre 3 a 5 horas para completar o jogo. Ao terminar a primeira jogada, convidamos você a voltar e jogar o jogo de novo com o modo comentário ativado. O modo comentário preenche a estação com mais de duas horas de comentários em áudio da equipe de desenvolvimento, junto com arte conceitual e fotos de produção dos bastidores para serem descobertas.\n\n### Ajuda! Preciso de suporte técnico!\n\nSinto muito, mas vamos lá!\n\n### O jogo está rodando mais lento do que o esperado. Qual é o problema?\n\nHá alguns possíveis problemas aqui. A primeira coisa é ter certeza de que as configurações gráficas sejam apropriadas para o seu computador. Em alguns computadores Macintosh, a resolução nativa da tela é extremamente alta, o que pode fazer com que o Tacoma fique lento. Tente configurar o aplicativo para o \"modo de baixa resolução\" no seu MacOS ou acesse as opções gráficas do Tacoma e defina a resolução de tela para algo mais próximo de 1920x1080 (resolução padrão de 1080p). Você também pode tentar ajustar os gráficos para uma predefinição mais baixa que o padrão para ver se isso ajuda.\n\n### Ainda está rodando devagar!\n\nExiste a possibilidade do Tacoma estar usando o dispositivo de exibição errado. Se você possui tanto um chip gráfico integrado como uma placa gráfica dedicada, talvez seja necessário assegurar-se de que o jogo esteja selecionando os gráficos dedicados corretamente. Você pode fazer isso no software da sua placa gráfica (como o Painel de controle da NVIDIA ou nas configurações do MacOS), ou criando um atalho para o Tacoma na área de trabalho e definindo suas propriedades para o uso do dispositivo gráfico desejado.\n\nSe o jogo continuar lento, verifique os requisitos mínimos de hardware na página da nossa loja e verifique se o hardware do computador atende aos requisitos.\n\n### Meus controles não estão funcionando. Minha câmera está apontando para o teto ou girando constantemente. Socorro!\n\nO Tacoma suporta oficialmente a entrada de mouse/trackpad e teclado, os controles do Xbox e o PS4 DualShock. A causa mais comum de problemas de controle é ter outros dispositivos de entrada não suportados conectados ao computador que enviam dados que o jogo não consegue processar. Se você tiver este problema, tente desconectar/desabilitar qualquer controle de voo, pedais, tablets de desenho ou qualquer controle virtual que simule a entrada de dispositivos de software ou interprete a entrada de controles que normalmente não são suportados pelo PC, como os controles virtuais do GameCube ou PS1.\n\n### Socorro, fiquei preso num lugar!\n\nOps! Mil perdões. É raro, mas se você ficar preso no mundo, force o jogo a fechar (alt-F4 no Windows ou Command-Q no Mac) e comece novamente. Forçar o jogo a fechar não irá salvar o progresso automaticamente ao sair. Ao iniciar de novo, você voltará para o progresso salvo automático mais recente antes de forçar o jogo a fechar. Se você tiver problemas de física (objetos cortando o chão ou ficando presos), verifique se as configurações gráficas estão definidas de maneira que você não jogue o jogo com uma taxa de quadros muito baixa, o que aumenta a probabilidade de uma falha física.\n\n### Estou com outro tipo de problema técnico que não foi respondido aqui. Vocês podem me ajudar?\n\nClaro! Se houver algo para o qual você não consiga encontrar uma resposta aqui e nem através de pesquisa na Internet, entre em contato conosco diretamente pelo e-mail support@fullbrig.ht. Faremos de tudo para responder em um ou dois dias úteis. Obrigado pela paciência! Faremos o possível para ajudar.\n"
                 },
                 "dlc": {
                     "contingentOffer": {
@@ -704,7 +676,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Tacoma FAQ & Tech Support"
+                "navTitle": "Perguntas Frequentes e Suporte Técnico de Tacoma"
             },
             "ageGate": {
                 "hasAgeGate": false,

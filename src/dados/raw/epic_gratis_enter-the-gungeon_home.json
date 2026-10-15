@@ -2,7 +2,7 @@
     "title": "Enter the Gungeon",
     "id": "e820a1ab24ca4bd2b725ba33194489d4",
     "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
-    "description": "Bullet, Guns, & Puns",
+    "description": "Balas, armas e trocadilhos",
     "effectiveDate": "2019-06-13T15:00:00.000Z",
     "keyImages": [
         {
@@ -127,9 +127,6 @@
             "id": "21149"
         },
         {
-            "id": "38237"
-        },
-        {
             "id": "10719"
         }
     ],
@@ -189,31 +186,23 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 299,
-            "originalPrice": 1499,
+            "discountPrice": 4699,
+            "originalPrice": 4699,
             "voucherDiscount": 0,
-            "discount": 1200,
-            "currencyCode": "USD",
+            "discount": 0,
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "$2.99",
-                "intermediatePrice": "$2.99"
+                "originalPrice": "R$ 46,99",
+                "discountPrice": "R$ 46,99",
+                "intermediatePrice": "R$ 46,99"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": [
-                    {
-                        "id": "c5365175d9d24f7ca3d7bae3e5b33718",
-                        "endDate": "2026-10-15T15:00:00.000Z",
-                        "discountSetting": {
-                            "discountType": "PERCENTAGE"
-                        }
-                    }
-                ]
+                "appliedRules": []
             }
         ]
     },

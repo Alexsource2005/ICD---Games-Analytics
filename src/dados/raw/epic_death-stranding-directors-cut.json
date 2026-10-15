@@ -28,12 +28,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/death-stranding-directors-cut",
+    "_urlPattern": "/pt-BR/productv2/death-stranding-directors-cut",
     "_slug": "death-stranding-directors-cut",
     "_activeDate": "2022-01-25T20:09:54.062Z",
-    "lastModified": "2022-01-27T17:46:58.064Z",
-    "_locale": "en-US",
-    "_id": "933d18d6-6725-4eeb-aec4-3a3934f11daa",
+    "lastModified": "2022-01-25T20:14:33.412Z",
+    "_locale": "pt-BR",
+    "_id": "c9f03cf6-aba4-4267-a9e3-30dc5e57baa5",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -66,12 +66,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/death-stranding-directors-cut/technical-support",
+            "_urlPattern": "/pt-BR/productv2/death-stranding-directors-cut/technical-support",
             "_slug": "technical-support",
             "_activeDate": "2020-07-13T18:53:29.877Z",
             "lastModified": "2022-03-28T17:17:37.468Z",
-            "_locale": "en-US",
-            "_id": "f96a3593-5ef2-4273-baa2-feda25825769",
+            "_locale": "pt-BR",
+            "_id": "22cda2c1-fd9a-4fc5-82a3-d0ed62ce5f1a",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -156,8 +156,8 @@
                 },
                 "markdown": {
                     "_type": "Epic Store Markdown",
-                    "title": "Technical Support",
-                    "content": "If you encounter an error when launching the game, please download and install the following Visual C++ 2015,2017 and 2019 Redistributable (x64 version) directly from:\n\nhttps://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads\nhttps://support.microsoft.com/ja-jp/help/2977003/the-latest-supported-visual-c-downloads\n\nIf you continue to experience issues please contact help@505games.com"
+                    "title": "Suporte técnico",
+                    "content": "Se você encontrar um erro ao iniciar o jogo, faça o download e instale o seguinte Pacote Redistribuível do Visual C++ (versão x64) para Visual Studio 2015, 2017 e 2019 diretamente de:\n\nhttps://docs.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist\nhttps://docs.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist\n\nSe continuar tendo problemas, entre em contato com help@505games.com"
                 },
                 "dlc": {
                     "contingentOffer": {
@@ -191,7 +191,7 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "Technical Support"
+                "navTitle": "Suporte técnico"
             },
             "ageGate": {
                 "hasAgeGate": true,
@@ -230,12 +230,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/death-stranding-directors-cut/home",
+            "_urlPattern": "/pt-BR/productv2/death-stranding-directors-cut/home",
             "_slug": "home",
             "_activeDate": "2022-01-25T20:12:19.963Z",
-            "lastModified": "2022-12-09T01:55:53.584Z",
-            "_locale": "en-US",
-            "_id": "d61cb5c0-bd27-4c18-b20f-6ad3400c49f6",
+            "lastModified": "2022-12-09T02:22:06.559Z",
+            "_locale": "pt-BR",
+            "_id": "230fd6d7-59da-4a50-a8b5-409c4c8d614a",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -263,8 +263,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Greek, Japanese, Polish, Portuguese - Brazil, Russian, Portuguese",
-                        "Text: English, French, Italian, German, Spanish - Spain, Arabic, Czech, Dutch, Greek, Hungarian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Chinese - Simplified, Spanish - Latin America, Chinese - Traditional, Turkish"
+                        "Áudio: inglês, francês, italiano, alemão, espanhol (Espanha), espanhol (América Latina), grego, japonês, polonês, português (Brasil), russo, português",
+                        "Texto: inglês, francês, italiano, alemão, espanhol (Espanha), árabe, tcheco, holandês, grego, húngaro, japonês, coreano, polonês, português, português (Brasil), russo, chinês simplificado, espanhol (América Latina), chinês tradicional, turco"
                     ],
                     "systems": [
                         {
@@ -273,45 +273,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows® 10",
                                     "recommended": "Windows® 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel® Core™ i5-3470 or AMD Ryzen™ 3 1200",
-                                    "recommended": "Intel™ Core i7-3770 or AMD Ryzen™ 5 1600"
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ i5-3470 ou AMD Ryzen™ 3 1200",
+                                    "recommended": "Intel™ Core i7-3770 ou AMD Ryzen™ 5 1600"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "80 GB available space",
-                                    "recommended": "80 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "80 GB de espaço disponível",
+                                    "recommended": "80 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 12",
-                                    "recommended": "Version 12"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 12",
+                                    "recommended": "Versão 12"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "GeForce GTX 1050 4 GB or AMD Radeon™ RX 560 4 GB",
-                                    "recommended": "GeForce GTX 1060 6 GB or AMD Radeon™ RX 590"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce GTX 1050 de 4 GB ou AMD Radeon™ RX 560 de 4 GB",
+                                    "recommended": "GeForce GTX 1060 de 6 GB ou AMD Radeon™ RX 590"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Additional Notes",
-                                    "minimum": " AVX instruction set required",
-                                    "recommended": " AVX instruction set required"
+                                    "title": "Observações adicionais",
+                                    "minimum": "Necessário conjunto de instruções AVX",
+                                    "recommended": "Necessário conjunto de instruções AVX"
                                 }
                             ]
                         }
@@ -325,7 +325,7 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2022 Sony Interactive Entertainment Inc. / KOJIMA PRODUCTIONS Co., Ltd. / HIDEO KOJIMA. PC version published by 505 Games. 505 Games and the 505 Games logo are trademarks or registered trademarks of 505 Games SpA or its affiliates in the U.S. and/or other countries. DEATH STRANDING is a trademark of Sony Interactive Entertainment LLC.",
+                    "copy": "© 2022 Sony Interactive Entertainment Inc. / KOJIMA PRODUCTIONS Co., Ltd. / HIDEO KOJIMA. Versão para PC publicada por 505 Games. 505 Games e o logotipo 505 Games são marcas ou marcas registradas de 505 Games SpA ou de seus afiliados nos EUA e/ou em outros países. DEATH STRANDING é uma marca da Sony Interactive Entertainment LLC.",
                     "privacyPolicyLink": {
                         "src": "https://505games.com/privacy/",
                         "_type": "Diesel Link"
@@ -340,8 +340,8 @@
                     "developerAttribution": "KOJIMA PRODUCTIONS",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "505 Games",
-                    "description": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. \n \nIn the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. \n \nAs Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. \n Can you reunite the shattered world, one step at a time? \n\nDEATH STRANDING DIRECTOR’S CUT on PC includes HIGH FRAME RATE, PHOTO MODE and ULTRA-WIDE MONITOR SUPPORT. Also includes cross-over content from Valve Corporation’s HALF-LIFE series and CD Projekt Red’s Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™.\n\n# All copies of the game will also additionally include: \n• “Selections From ‘The Art of DEATH STRANDING’” Digital Book (by Titan Books) \n• Backpack Patches \n• Bridges Special Delivery Team Suit (Gold) \n• BB pod customization (Chiral Gold) \n• Power Gloves (Gold) \n• Bridges Special Delivery Team Suit (Silver) \n• BB pod customization (Omnireflector) \n• Power Gloves (Silver)\n\n# Please make sure you purchase right version of DEATH STRANDING DIRECTOR'S CUT.\n \nIf you already own DEATH STRANDING then you can upgrade your version of the game to DEATH STRANDING DIRECTOR'S CUT for a lower price. To receive the upgrade price for DEATH STRANDING DIRECTOR'S CUT you must have previously purchased DEATH STRANDING on this platform.\n \nIf you have not purchased DEATH STRANDING then you may purchase DEATH STRANDING DIRECTOR'S CUT at the stated full price.\n\nWe recommend you do not remove DEATH STRANDING from your PC until you have completed the download of DEATH STRANDING DIRECTOR’S CUT and you have transferred your save files to DEATH STRANDING DIRECTOR’S CUT.",
-                    "shortDescription": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. ",
+                    "description": "Do lendário diretor Hideo Kojima, surge uma experiência que desafia gêneros, ainda maior em DIRECTOR'S CUT. \n \nNo futuro, um evento misterioso conhecido como Death Stranding abriu uma passagem entre os vivos e os mortos, resultando em criaturas grotescas do pós-vida andando pelo mundo arruinado, marcado por uma sociedade desolada. \n \nJogando como Sam Bridges, sua missão é entregar esperança à humanidade ao conectar os sobreviventes de uma América devastada. \n Você conseguirá reunir este mundo destruído, um passo de cada vez? \n\nDEATH STRANDING DIRECTOR'S CUT no PC inclui ALTA TAXA DE QUADROS, MODO FOTO e SUPORTE A MONITORES ULTRAWIDE. Também inclui conteúdo crossover da série HALF-LIFE, da Valve Corporation; e de Cyberpunk 2077, da CD Projekt Red. Esteja conectado a jogadores no mundo todo com o Social Strand System™.\n\n# Todas as cópias do jogo também incluirão: \n• \"Seleções do Livro Digital de arte 'The Art of DEATH STRANDING'\" (da Titan Books) \n• Adesivos para a Mochila \n• Traje da Equipe de Entregas Especial Bridges (Ouro) \n• Customização da Cápsula do BB (Ouro Quiral) \n• Luvas Energizadas (Ouro) \n• Traje da Equipe de Entregas Especial Bridges (Prata) \n• Customização da Cápsula do BB (Omnirrefletor) \n• Luvas Energizadas (Prata)\n\n# Adquira a versão correta de DEATH STRANDING DIRECTOR'S CUT.\n \nSe você já tem DEATH STRANDING, poderá fazer a melhoria da sua versão do jogo para DEATH STRANDING DIRECTOR'S CUT por um preço mais baixo. Você precisa ter comprado DEATH STRANDING DIRECTOR'S CUT anteriormente nesta plataforma.\n \nSe você não comprou DEATH STRANDING, então poderá comprar DEATH STRANDING DIRECTOR'S CUT pelo preço cheio.\n\nRecomendamos que você não remova DEATH STRANDING do seu PC até concluir o download de DEATH STRANDING DIRECTOR'S CUT e ter transferido seus arquivos de salvamento para DEATH STRANDING DIRECTOR'S CUT.",
+                    "shortDescription": "Do lendário diretor Hideo Kojima, surge uma experiência que desafia gêneros, ainda maior em DIRECTOR'S CUT. Jogando como Sam Bridges, sua missão é entregar esperança à humanidade ao conectar os sobreviventes de uma América devastada. ",
                     "title": "DEATH STRANDING DIRECTOR'S CUT",
                     "developerLogo": {
                         "_type": "Diesel Image"

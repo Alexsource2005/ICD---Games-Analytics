@@ -39,12 +39,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/yuppie-psycho",
+    "_urlPattern": "/pt-BR/productv2/yuppie-psycho",
     "_slug": "yuppie-psycho",
     "_activeDate": "2021-06-11T16:55:00.000Z",
-    "lastModified": "2021-06-10T17:59:09.402Z",
-    "_locale": "en-US",
-    "_id": "ecfda825-1696-4cb4-992b-7d3c58c2df2c",
+    "lastModified": "2021-06-09T19:20:56.724Z",
+    "_locale": "pt-BR",
+    "_id": "75de3750-9f9d-4d24-af53-71fe6309c7a8",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -101,12 +101,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/yuppie-psycho/home",
+            "_urlPattern": "/pt-BR/productv2/yuppie-psycho/home",
             "_slug": "home",
             "_activeDate": "2021-06-02T21:46:52.909Z",
-            "lastModified": "2021-06-11T18:32:54.620Z",
-            "_locale": "en-US",
-            "_id": "26a787c7-efa4-4d6e-8e35-edc293f65d02",
+            "lastModified": "2021-06-09T19:22:24.125Z",
+            "_locale": "pt-BR",
+            "_id": "9274a842-1998-463b-b2ab-c6290378f7ef",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -130,13 +130,13 @@
                     "linkFacebook": "https://www.facebook.com/neondoctrine/",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "http://Discord.gg/nd",
-                    "title": "Follow Yuppie Psycho",
+                    "title": "Siga Yuppie Psycho",
                     "linkHomepage": "https://baroquedecay.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, Spanish - Spain, German, Italian, Japanese, Korean, Russian, Portuguese - Brazil, Turkish, Ukrainian"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, japonês, coreano, russo, português (Brasil), turco, ucraniano, espanhol"
                     ],
                     "systems": [
                         {
@@ -145,33 +145,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows XP",
                                     "recommended": "Windows 7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Core 2 Duo",
                                     "recommended": "Core i3, i5, i7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2 GB available space",
-                                    "recommended": "2 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB de espaço disponível",
+                                    "recommended": "2 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Integrated GPU supporting OpenGL on the system",
-                                    "recommended": "Dedicated GPU supporting OpenGL"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo integrada com suporte a OpenGL no sistema",
+                                    "recommended": "Placa de vídeo dedicada com suporte a OpenGL"
                                 }
                             ]
                         }
@@ -189,7 +189,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.neondoctrine.com/terms-and-conditions",
                         "_type": "Diesel Link",
-                        "title": "Neon Doctrine Privacy Policy"
+                        "title": "Política de Privacidade da Neon Doctrine"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -201,8 +201,8 @@
                     "developerAttribution": "Baroque Decay",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Neon Doctrine",
-                    "description": "# ABOUT THIS GAME\n\nJoin Brian Pasternack, a young man with no future in a dystopian 90s society, on his first day at one of the world’s largest companies, Sintracorp. Uncertain, unprepared, and massively unqualified, will Pasternack have what it takes to shine in Sintracorp’s hierarchy? It all depends on how he performs on his first assignment… and whether he survives it.",
-                    "shortDescription": "Join Brian Pasternack on his first working day at Sintracorp. Uncertain, unprepared, and massively unqualified, will he have what it takes to shine in Sintracorp’s hierarchy? It all depends on how he performs on his first assignment…and whether he survives it.",
+                    "description": "# SOBRE ESTE JOGO\n\nJunte-se a Brian Pasternack — um jovem rapaz sem futuro em uma sociedade distópica dos anos 1990 — em seu primeiro dia em uma das maiores empresas do mundo, a Sintracorp. Inseguro, despreparado e absolutamente desqualificado, será que Pasternack conseguirá se destacar na hierarquia da Sintracorp? Tudo depende de como ele se sairá em sua primeira tarefa... e se ele sobreviverá a ela ou não.",
+                    "shortDescription": "Junte-se a Brian Pasternack em seu primeiro dia de trabalho na Sintracorp. Inseguro, despreparado e absolutamente desqualificado, será que ele conseguirá se destacar na hierarquia da Sintracorp? Tudo depende de como ele se sairá em sua primeira tarefa... e se ele sobreviverá a ela ou não.",
                     "title": "Yuppie Psycho: Executive Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -253,7 +253,6 @@
                                 "hasFullScreen": false,
                                 "hasControls": true,
                                 "type": "epicHosted",
-                                "title": "Yuppie Psycho Trailer",
                                 "muted": false,
                                 "autoplay": true
                             }

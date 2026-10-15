@@ -3,15 +3,6 @@
         "ratings": [
             {
                 "image": {
-                    "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12BL-390x450-8495824249a9754e9e387f915f3561b4245098a1.png",
-                    "_type": "Epic Store Image"
-                },
-                "countryCodes": "DE",
-                "_type": "Epic Store Rating",
-                "title": "12+"
-            },
-            {
-                "image": {
                     "src": "https://cdn2.unrealengine.com/15-s-v-h-l-d-c-760x117-a3d68b3d1fa4.png",
                     "_type": "Epic Store Image"
                 },
@@ -37,8 +28,7 @@
     "_noIndex": false,
     "_images_": [
         "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_12_Rating-208x254-3cd0c7f88b2407b4fd1d42ff1b8de919c85c3523.jpg",
-        "https://cdn2.unrealengine.com/15-s-v-h-l-d-c-760x117-a3d68b3d1fa4.png",
-        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12BL-390x450-8495824249a9754e9e387f915f3561b4245098a1.png"
+        "https://cdn2.unrealengine.com/15-s-v-h-l-d-c-760x117-a3d68b3d1fa4.png"
     ],
     "productName": "The Lion's Song",
     "pageTheme": {
@@ -61,26 +51,17 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/the-lions-song",
+    "_urlPattern": "/pt-BR/productv2/the-lions-song",
     "_slug": "the-lions-song",
     "_activeDate": "2021-05-04T02:10:02.584Z",
-    "lastModified": "2021-07-27T17:11:59.204Z",
-    "_locale": "en-US",
-    "_id": "1eeee1f1-b30a-4262-a422-cafdcb1cf0e3",
+    "lastModified": "2021-05-06T13:58:51.486Z",
+    "_locale": "pt-BR",
+    "_id": "8891c19d-78d5-4990-8b8b-9265f1f81daf",
     "_templateName": "productNamespace",
     "pages": [
         {
             "productRatings": {
                 "ratings": [
-                    {
-                        "image": {
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12BL-390x450-8495824249a9754e9e387f915f3561b4245098a1.png",
-                            "_type": "Epic Store Image"
-                        },
-                        "countryCodes": "DE",
-                        "_type": "Epic Store Rating",
-                        "title": "12+"
-                    },
                     {
                         "image": {
                             "src": "https://cdn2.unrealengine.com/15-s-v-h-l-d-c-760x117-a3d68b3d1fa4.png",
@@ -155,12 +136,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/the-lions-song/home",
+            "_urlPattern": "/pt-BR/productv2/the-lions-song/home",
             "_slug": "home",
             "_activeDate": "2021-05-04T02:11:05.720Z",
-            "lastModified": "2024-03-19T11:40:08.891Z",
-            "_locale": "en-US",
-            "_id": "0a7c3eff-a105-4239-bc58-29a32feb5bfb",
+            "lastModified": "2021-05-04T03:00:14.432Z",
+            "_locale": "pt-BR",
+            "_id": "4b3c6513-b0da-46c3-9681-63cc75949450",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -191,7 +172,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "TEXT: English, German, French, Spanish - Spain, Italian, Russian"
+                        "TEXTO: inglês, alemão, francês, espanhol (Espanha), italiano, russo"
                     ],
                     "systems": [
                         {
@@ -200,45 +181,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 / 8 / 10",
-                                    "recommended": "Windows 7 / 8 / 10"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7, 8 e 10",
+                                    "recommended": "Windows 7, 8 e 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2 GHZ",
-                                    "recommended": "2 GHZ"
+                                    "title": "Processador",
+                                    "minimum": "2 GHz",
+                                    "recommended": "2 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "1 GB RAM",
-                                    "recommended": "1 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "500 MB available space",
-                                    "recommended": "500 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "500 MB de espaço disponível",
+                                    "recommended": "500 MB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 10"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "DirectX 10 compatible",
-                                    "recommended": "DirectX 10 compatible"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com DirectX 10",
+                                    "recommended": "Compatível com DirectX 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Minimum resolution: 1280x720",
-                                    "recommended": "Recommended resolution: 1920x1080"
+                                    "title": "Outros",
+                                    "minimum": "Resolução mínima: 1280x720",
+                                    "recommended": "Resolução recomendada: 1920x1080"
                                 }
                             ]
                         }
@@ -267,9 +248,9 @@
                     "developerAttribution": "Mi'pu'mi Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Mi'pu'mi Games",
-                    "description": "_The Lion’s Song_ is set against the backdrop of early 20th century Austria with every episode following a different character. Each character possesses an exceptional mind & the game draws players into a story of personal struggle for creativity, human connections & inspiration: a talented composer suffering from writer's block before her breakthrough concert, an up-and-coming painter growing through his challenges & a brilliant mathematician trying to make her voice heard in a men's world. The choices players make ultimately determine if the protagonists find the success they are working for\n\n![The Lions Song Image](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-00-700x140-e1da91a5b04e.jpg)\n\n# The Lion's Song: Episode 1 - Silence\n\n_The Lion's Song: Episode 1 – Silence_ tells the story of Wilma, a talented young musician student. Put under immense pressure by her professor, Wilma succumbs to crippling writer’s block & is sent to a solitary alpine cabin to recover her inspiration & muse.\n\nSurrounded by high mountains & beset by a raging storm, searching for solitude & silence, will Wilma finally find her peace in an unexpected encounter?\n\nThe choices players make in this episode will have a direct impact on the storylines of all episodes & ultimately determine if the protagonists find the success they are working for.\n\n![The Lions Song Image 2](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-01-700x140-943ddc1f4cc4.jpg)\n\n# The Lion's Song: Episode 2 - Anthology\n\n_The Lion's Song: Episode 2 - Anthology_ advances into the depths of the human psyche, uncovered by visual artist Franz Markert. Franz is an aspiring painter at the turn of the 20th century, trying to immortalize his name within Vienna’s high society. His unique ability to perceive the flaws, fears and emotions in so-called “layers” allows him to bring them – layer by layer – onto the canvas.\n\nDoing so, Franz illustrates his very personal view on his models – quite distinctive members of Vienna’s society – as well as his perspective of the world & the time he is living in. \n\n![The Lions Song Image 3](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-02-700x140-2d45f06f7903.jpg)\n\n# The Lion's Song: Episode 3 - Derivation\n\n_The Lion’s Song: Episode 3 – Derivation_ dives into the scientific world at the beginning of the 20th century – an era of great achievements, but also dark downfalls. On the eve of World War I mathematician Emma Recniczek enters the academic stage to solve a problem revolving around “change”. In order to discuss her theory with like-minded people Emma tries to gain access to a gentlemen’s club of famous mathematicians. As her request is denied because of her being a woman, she decides to disguise as a man. \n\nWill Emil be able to prevail in the circle of leading mathematicians of this time? \n\n![The Lions Song Image 4](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-03-700x140-66bc8ced39d3.jpg)\n\n# The Lion's Song: Episode 4 - Closure\n\n_The Lion’s Song: Episode 4 – Closure_ ties the entire season together. A mysterious train ride revisits all introduced characters – Wilma, Franz & Emma - & their emotional storylines. It will take you back into their past and tell you their future destiny.\n\nTheir lives are being revisited as part of the stories of four men traveling together as strangers on a train, a journey towards an uncertain destiny. \n\n_Closure_ will help you better understand how all individual plots intertwine in the cultural world of early 20th century Austria – an era called _**Wiener Moderne**_.\n\n![The Lions Song Image 5](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-04-700x140-09019bd633a2.jpg)\n\n# Connecting narrative\n\nWhile the final Episode - Closure offers you a new angle to all previous stories, which will allow you an even deeper comprehension of the cultural, artistic as well scientific upheavals of that era – **_Wiener Moderne_**, it is nonetheless an interesting and thrilled tale itself!\n\nThe choices players make in each single episode will have a direct impact on the storylines of all episodes, connecting The Lion’s Song to one overarching narrative. The decisions made while following all 4 characters will ultimately determine if the protagonists find the success they are working for.\n\n# Reviews\n\n“charming, atmospheric and earnest” - RPS on Episode 1 of The Lion's Song”\n**RockPaperShotgun**\n\n“atmospheric and beautifully drawn”\n**PC Gamer**\n\n“...intriguing, and we can't wait to play the whole thing”\n**Pocketgamer**",
-                    "shortDescription": "\"The Lion’s Song\" is a narrative adventure game. It is steeped in early 20th century history and focusses on a cast of Austrian artists and scientists with each episode taking a closer look at their intimate struggles with creativity and inspiration.",
-                    "title": "ABOUT THIS GAME",
+                    "description": "_The Lion's Song_ tem como pano de fundo a Áustria do início do século XX, com cada episódio seguindo um personagem diferente. Cada personagem possui uma mente excepcional, e o jogo atrai os jogadores para uma história de luta pessoal por criatividade, conexões humanas e inspiração: uma talentosa compositora sofrendo de bloqueio criativo antes de seu concerto inovador, um pintor crescendo com os desafios que encontra em seu caminho e uma brilhante matemática tentando fazer com que sua voz seja ouvida num mundo dominado por homens. As escolhas que os jogadores fazem determinam, em última instância, se os protagonistas encontrarão ou não o sucesso pelo qual tanto se esforçam.\n\n![The Lions Song Image](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-00-700x140-e1da91a5b04e.jpg)\n\n# The Lion's Song: Episode 1 - Silence\n\n_The Lion's Song: Episode 1 - Silence_ conta a história de Wilma, uma jovem e talentosa estudante de música. Sob imensa pressão de seu professor, Wilma sucumbe ao incapacitante bloqueio criativo e é enviada para um chalé alpino solitário para recuperar sua inspiração e criatividade.\n\nCercada por montanhas altas e assolada por uma tempestade violenta, em busca de solidão e silêncio, será que Wilma finalmente alcançará sua paz em um encontro inesperado?\n\nAs escolhas que os jogadores fizerem neste episódio terão impacto direto nas narrativas de todos os episódios e, em última instância, determinarão se os protagonistas encontrarão ou não o sucesso pelo qual tanto se esforçam.\n\n![The Lions Song Image 2](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-01-700x140-943ddc1f4cc4.jpg)\n\n# The Lion's Song: Episode 2 - Anthology\n\n_The Lion's Song: Episode 2 - Anthology_ avança nas profundezas da psique humana, descoberta pelo artista visual Franz Markert. Franz é um aspirante a pintor na virada do século XX, tentando imortalizar seu nome na alta sociedade de Viena. Sua habilidade única de perceber as falhas, os medos e as emoções nas chamadas \"camadas\" permite que ele coloque esses sentimentos nas telas — camada por camada.\n\nAo fazer isso, Franz projeta e ilustra sua visão pessoal em seus modelos — membros bastante distintos da sociedade de Viena — bem como sua perspectiva do mundo e da época em que vive. \n\n![The Lions Song Image 3](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-02-700x140-2d45f06f7903.jpg)\n\n# The Lion's Song: Episode 3 - Derivation\n\n_The Lion's Song: Episode 3 - Derivation_ mergulha no mundo científico do início do século XX — uma era de grandes conquistas, mas também de quedas sombrias. Às vésperas da I Guerra Mundial, a matemática Emma Recniczek entra na cena acadêmica para resolver um problema que gira em torno da \"mudança\". A fim de discutir sua teoria com pessoas que pensam como ela, Emma tenta obter acesso a um clube de cavalheiros do qual fazem parte matemáticos famosos. Tendo seu pedido negado por ser mulher, ela decide se disfarçar de homem. \n\nConseguirá Emil se destacar no círculo dos principais matemáticos desta época? \n\n![The Lions Song Image 4](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-03-700x140-66bc8ced39d3.jpg)\n\n# The Lion's Song: Episode 4 - Closure\n\n_The Lion's Song: Episode 4 - Closure_ une toda a temporada. Uma misteriosa viagem de trem revisita todos os personagens apresentados — Wilma, Franz e Emma — e suas histórias emocionantes. A viagem levará você de volta ao passado e lhe contará o destino que o futuro lhes reserva.\n\nSuas vidas são revisitadas como parte das histórias de quatro pessoas que viajam juntas como estranhos em um trem, numa jornada em direção a um destino incerto. \n\n_Closure_ vai ajudar você a entender melhor como todos os enredos individuais se entrelaçam no mundo cultural da Áustria do início do século XX — uma época chamada de _**Modernismo Vienense**_.\n\n![The Lions Song Image 5](https://cdn2.unrealengine.com/egs-thelionssong-mipumigames-g2-04-700x140-09019bd633a2.jpg)\n\n# Narrativa conectada\n\nEmbora o episódio final, Closure, ofereça um novo ponto de vista sobre todas as histórias anteriores — o que permitirá uma compreensão ainda mais aprofundada da agitação cultural, artística e científica daquela época conhecida como **_Modernismo Vienense_** —, ele não deixa de ser por si só um conto interessante e encantador!\n\nAs escolhas que os jogadores fazem em cada episódio terão um impacto direto nos enredos de todos os episódios, conectando The Lion's Song em uma narrativa abrangente. As decisões tomadas ao seguir todos os 4 personagens vão determinar se os protagonistas alcançarão ou não o sucesso pelo qual tanto se esforçam.\n\n# Avaliações\n\n\"encantador, bem ambientado e intenso\" — RPS sobre o Episode 1 de The Lion's Song\n**RockPaperShotgun**\n\n\"bem ambientado e lindamente desenhado\"\n**PC Gamer**\n\n\"...intrigante, e mal podemos esperar para jogar o jogo inteiro\"\n**Pocketgamer**",
+                    "shortDescription": "\"The Lion's Song\" é um jogo de aventura narrativa. Ele é ambientado na história do início do século XX e se concentra em um elenco de artistas e cientistas austríacos, acompanhando de perto, a cada episódio, as lutas íntimas deles com a criatividade e a inspiração.",
+                    "title": "SOBRE ESTE JOGO",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -280,10 +261,10 @@
                     "link": {
                         "src": "/product/the-flower-collectors",
                         "_type": "Diesel Link",
-                        "title": "HERE"
+                        "title": "AQUI"
                     },
-                    "description": "Offer available to all owners of The Lion’s Song for a limited time. Barcelona, 1977. An ex-cop in a wheelchair witnesses a murder and teams up with an ambitious journalist to expose a vast conspiracy. With camera, binoculars and transmitter in hand, uncover the town’s secrets from your balcony in this soul-searching detective mystery! Promotion ends May 20th, 2021",
-                    "title": "Purchase The Flower Collectors for 55% off now!"
+                    "description": "Oferta disponível por tempo limitado a todos os proprietários de The Lion's Song. Barcelona, 1977. Um ex-policial em uma cadeira de rodas testemunha um assassinato e se junta a uma jornalista ambiciosa para expor uma vasta conspiração. Com câmera, binóculos e transmissor em mãos, descubra os segredos da cidade a partir da sua sacada neste mistério reflexivo de detetive! A promoção termina em 20 de maio de 2021",
+                    "title": "Compre The Flower Collectors com 55% de desconto agora!"
                 },
                 "hero": {
                     "logoImage": {
@@ -616,9 +597,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -713,7 +691,6 @@
                 },
                 "navTitle": "The Lion's Song"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"

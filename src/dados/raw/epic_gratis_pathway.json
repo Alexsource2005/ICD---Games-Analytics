@@ -53,12 +53,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/pathway",
+    "_urlPattern": "/pt-BR/productv2/pathway",
     "_slug": "pathway",
     "_activeDate": "2020-06-09T18:17:32.930Z",
-    "lastModified": "2020-06-11T14:57:01.383Z",
-    "_locale": "en-US",
-    "_id": "fc974363-2142-43fd-a22f-69ea086d2b86",
+    "lastModified": "2020-06-09T18:17:52.508Z",
+    "_locale": "pt-BR",
+    "_id": "dc1cf9b1-a3b7-4709-97a5-a754b9530c4b",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -105,8 +105,8 @@
                 "https://cdn2.unrealengine.com/egs-pathway-robotality-g1a-08-1920x1080-172738229.jpg",
                 "https://cdn2.unrealengine.com/egs-pathway-robotality-g1a-09-1920x1080-172739675.jpg",
                 "https://cdn2.unrealengine.com/egs-pathway-robotality-s6-1200x1600-251431379.jpg",
-                "https://cdn2.unrealengine.com/egs-pathway-robotality-ic1-233x75-251428859.png",
-                "https://cdn2.unrealengine.com/egs-pathway-robotality-g1a-05-1920x1080-172732572.jpg"
+                "https://cdn2.unrealengine.com/egs-pathway-robotality-g1a-05-1920x1080-172732572.jpg",
+                "https://cdn2.unrealengine.com/egs-pathway-robotality-ic1-233x75-251428859.png"
             ],
             "productName": "Pathway",
             "pageTheme": {
@@ -126,7 +126,7 @@
             "namespace": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
             "theme": {
                 "buttonPrimaryBg": "#e49328",
-                "customPrimaryBg": "#000000",
+                "customPrimaryBg": "",
                 "accentColor": "#e49328",
                 "_type": "Diesel Theme",
                 "colorScheme": "dark"
@@ -135,12 +135,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/pathway/home",
+            "_urlPattern": "/pt-BR/productv2/pathway/home",
             "_slug": "home",
             "_activeDate": "2020-06-09T18:20:57.821Z",
-            "lastModified": "2020-06-18T21:06:48.854Z",
-            "_locale": "en-US",
-            "_id": "6fd413b4-76d2-4b6e-a7d7-8e52139bdd3a",
+            "lastModified": "2020-06-18T21:02:06.215Z",
+            "_locale": "pt-BR",
+            "_id": "f9153f74-9915-4bd2-b3dd-c51ab42577d8",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -165,13 +165,13 @@
                     "linkYoutube": "https://www.youtube.com/user/robotality",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/robotality",
-                    "title": "Follow Pathway",
+                    "title": "Siga Pathway",
                     "linkHomepage": "http://www.pathway-game.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO : English",
-                        "TEXT : English, Chinese - Simplified, French, German, Japanese"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, francês, alemão, japonês"
                     ],
                     "systems": [
                         {
@@ -180,33 +180,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "MacOS 10.9 Mavericks",
                                     "recommended": "MacOS 10.13 High Sierra"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.0 Ghz DualCore CPU",
-                                    "recommended": "2.0+ Ghz QuadCore CPU"
+                                    "title": "Processador",
+                                    "minimum": "2,0 Ghz DualCore CPU",
+                                    "recommended": "2,0+ Ghz QuadCore CPU"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2GB",
-                                    "recommended": "2GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Intel HD4000 or better, OpenGL 3.3",
-                                    "recommended": "NVIDIA Geforce 660 or AMD Radeon HD 7000 Series, OpenGL 3.3"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD4000 ou superior, OpenGL 3.3",
+                                    "recommended": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7000 Series, OpenGL 3.3"
                                 }
                             ]
                         },
@@ -216,33 +216,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7 (64bits)",
                                     "recommended": "Windows 10 (64bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.0 Ghz DualCore CPU",
-                                    "recommended": "2.0+ Ghz QuadCore CPU"
+                                    "title": "Processador",
+                                    "minimum": "2,0 Ghz DualCore CPU",
+                                    "recommended": "2,0+ Ghz QuadCore CPU"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2GB",
-                                    "recommended": "2GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Intel HD4000 or better, OpenGL 3.3",
-                                    "recommended": "NVIDIA Geforce 660 or AMD Radeon HD 7000 Series, OpenGL 3.3"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD4000 ou superior, OpenGL 3.3",
+                                    "recommended": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7000 Series, OpenGL 3.3"
                                 }
                             ]
                         }
@@ -272,9 +272,9 @@
                     "developerAttribution": "Robotality",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Chucklefish",
-                    "description": "Pathway is a turn-based strategy game designed to provide players with approachable, fast-paced and fun squad skirmishes in an early 20th century pulp-adventure setting. Quickly run for cover, flank enemies and utilize your team’s special abilities to turn the tide of battle in your favor!\n\n![Village in the Desert Image](https://cdn2.unrealengine.com/egs-pathway-robotality-g2-002-1200x400-188355466.jpg)\n\n# Features:\n\n+ DYNAMIC ADVENTURES - Discover 5 different campaigns of varying difficulty, each attempt generating a new web of events...\n\n+ TOUGH CHOICES - Explored locations often present a brief, hand-crafted story event. Search the well? Save the villagers? It's up to you!\n\n+ DECISIVE CONFLICTS - Use cover and positioning in exciting turn-based squad combat. Learn to make the best use of your team's abilities and equipment in order to defeat the enemy!\n\n+ BUILD YOUR TEAM OF ADVENTURERS - Each of Pathway’s 16 unlockable characters has their own set of skills and quirks which can impact combat and story encounters.\n\n+ HIDDEN TREASURES - Trade-in your high-value loot in order to upgrade your team's arsenal with increasingly rare weapons and armor.\n\n+ RECOVER & REPLAY - Experiment with different team combinations until your foes have been vanquished!\n\n+ THRILLING VISUALS - Classic 16-bit pixel art enhanced with unprecedented depth, lighting and shadows using Pixel/Voxel Hybrid Technology.\n\n![Temple of Doom Image](https://cdn2.unrealengine.com/egs-pathway-robotality-g2-022-1200x400-188356851.jpg)\n\n",
-                    "shortDescription": "Explore the strange unknown with Pathway, a strategy adventure set in the 1930s great wilderness. Unravel long-forgotten mysteries of the occult, raid ancient tombs and outwit your foes in turn-based squad combat!",
-                    "title": "A rip-roaring adventure into the unknown...",
+                    "description": "Pathway é um jogo de estratégia em turnos em que o jogador deve controlar um esquadrão em uma série de combates rápidos e divertidos em um cenário pulp do início do século XX. Encontre cobertura, flanqueie os inimigos e utilize as habilidades especiais da sua equipe para conquistar a vitória!\n\n![Village in the Desert Image](https://cdn2.unrealengine.com/egs-pathway-robotality-g2-002-1200x400-188355466.jpg)\n\n# Recursos:\n\n+ AVENTURAS DINÂMICAS: descubra 5 campanhas diferentes de dificuldade variável, onde cada tentativa gera uma nova série de eventos...\n\n+ ESCOLHAS DIFÍCEIS: alguns eventos apresentam uma breve história que refletirá suas escolhas. Vasculhar o poço? Salvar os aldeões? A escolha é sua!\n\n+ CONFLITOS DECISIVOS: use cobertura e posicionamento em emocionantes combates em turnos com esquadrão. Aprenda a utilizar as habilidades e os equipamentos da sua equipe para derrotar os inimigos!\n\n+ MONTE SUA EQUIPE DE AVENTUREIROS: cada um dos 16 personagens desbloqueáveis de Pathway tem seu próprio conjunto de habilidades e peculiaridades que pode afetar os combates e os encontros da história.\n\n+ TESOUROS ESCONDIDOS: troque itens de alto valor para atualizar o arsenal da sua equipe com armas e armaduras cada vez mais raras.\n\n+ RECUPERE-SE E JOGUE DE NOVO: experimente diferentes equipes até que seus inimigos provem o gosto amargo da derrota!\n\n+ VISUAIS EMOCIONANTES: arte clássica em pixels de 16 bits com profundidade inédita, iluminação e sombras usando a tecnologia híbrida Pixel/Voxel.\n\n![Imagem do Templo da Perdição](https://cdn2.unrealengine.com/egs-pathway-robotality-g2-022-1200x400-188356851.jpg)\n\n",
+                    "shortDescription": "Explore o estranho desconhecido com Pathway, uma aventura de estratégia ambientada nos ermos de 1930. Desvende mistérios do ocultismo, invada túmulos ancestrais e supere seus inimigos comandando seu esquadrão em combates em turnos!",
+                    "title": "Uma aventura emocionante pelo desconhecido...",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -322,7 +322,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Pathway Trailer",
+                                "title": "Trailer do Pathway",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -339,7 +339,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Pathway Trailer Update",
+                                "title": "Trailer de atualização do Pathway",
                                 "type": "epicHosted",
                                 "muted": false,
                                 "autoplay": true
@@ -517,7 +517,6 @@
                     "enableImages": false
                 },
                 "meta": {
-                    "releaseDate": "2020-06-18T19:00:00.000Z",
                     "_type": "Epic Store Meta",
                     "publisher": [
                         "Chucklefish"

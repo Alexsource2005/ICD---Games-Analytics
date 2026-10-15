@@ -1,25 +1,41 @@
 {
     "title": "Super Meat Boy",
-    "id": "13434c6d49b742c7b195201573c146c9",
-    "namespace": "epic",
-    "description": "Super Meat Boy",
+    "id": "58f2e8dff4a84c5796ebcbdd5d10fe34",
+    "namespace": "buffalo",
+    "description": "Super Meat Boy é um jogo de plataforma osso duro de roer no qual você joga como um garotinho sem pele que precisa salvar sua namorada feita de ataduras de um feto maligno que vive em um pote de vidro e usa uma cartola e um monóculo.",
     "effectiveDate": "2018-12-28T16:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/epic/offer/SMB_PortraitPromo2-1288x1450-5da0584e428210413b9bd5e2b8f43a21.jpg"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/smboriginal/Gallery-5-1280x720-afd4c2d3b54a41113edf036e88756830cf153edd.jpg"
         },
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/epic/offer/SMB_PrimaryPromo2-2580x1456-df869e78d3d69fd36efb938501176bc0.jpg"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/smboriginal/Gallery-1-1280x720-23a154bae2708e44b5fa34b96a2580efca4f0ada.jpg"
         },
         {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/epic/offer/Logo_SMB_Original2-2526x780-f5a5990cdd6c400ba744591b7327edfa.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/smboriginal/Gallery-8-1280x720-2f6fc76c27d1bb94f64fd0286805226ebe6ab34d.jpg"
         },
         {
-            "type": "ComingSoon",
-            "url": "https://cdn1.epicgames.com/epic/offer/smbcard1-744x300-17df1723e2b17231071a5d1ec912424f.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/smboriginal/Gallery-9-1280x720-9bbbbf7f2fb0ef556aeac97a7573b5b9ca1e7208.jpg"
+        },
+        {
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/smboriginal/Gallery-6-1280x720-35966ec839cd98d4ed0241301254406d1d492048.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/buffalo/supermeatboytall_1200x1600-6e56cb53e50b2ff210a8a16482f4bda9"
+        },
+        {
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/offer/buffalo/supermeatboy_2560x1440-790f83f4a23709b6bf82cb3c22017b47"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/buffalo/supermeatboytall_1200x1600-6e56cb53e50b2ff210a8a16482f4bda9"
         }
     ],
     "seller": {
@@ -34,7 +50,16 @@
             "id": "1216"
         },
         {
-            "id": "1370"
+            "id": "21121"
+        },
+        {
+            "id": "21122"
+        },
+        {
+            "id": "21125"
+        },
+        {
+            "id": "21129"
         },
         {
             "id": "9547"
@@ -43,31 +68,44 @@
             "id": "9549"
         },
         {
+            "id": "21138"
+        },
+        {
+            "id": "21139"
+        },
+        {
+            "id": "21140"
+        },
+        {
+            "id": "21109"
+        },
+        {
+            "id": "21141"
+        },
+        {
+            "id": "1370"
+        },
+        {
+            "id": "21149"
+        },
+        {
             "id": "1151"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "942e8a7133464f0ea83179030536505e",
+            "namespace": "buffalo"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "191"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "buffalo"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "58f2e8dff4a84c5796ebcbdd5d10fe34"
+            "key": "developerName",
+            "value": "Team Meat"
         },
         {
             "key": "com.epicgames.app.productSlug",
@@ -77,22 +115,31 @@
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1499,
-            "originalPrice": 1499,
+            "discountPrice": 2499,
+            "originalPrice": 2499,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$14.99",
-                "discountPrice": "$14.99",
-                "intermediatePrice": "$14.99"
+                "originalPrice": "R$ 24,99",
+                "discountPrice": "R$ 24,99",
+                "intermediatePrice": "R$ 24,99"
             }
         },
         "lineOffers": [

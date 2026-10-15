@@ -1,13 +1,4 @@
 {
-    "productRatings": {
-        "_type": "Epic Store Product Ratings"
-    },
-    "disableNewAddons": false,
-    "modMarketplaceEnabled": false,
-    "_title": "world-war-z",
-    "regionBlock": "",
-    "_noIndex": false,
-    "productName": "World War Z",
     "pageTheme": {
         "preferredMode": "dark",
         "light": {
@@ -23,31 +14,18 @@
         }
     },
     "namespace": "wombat",
-    "theme": {
-        "_type": "Diesel Theme"
-    },
-    "reviewOptOut": false,
-    "externalNavLinks": {
-        "_type": "Epic Store Links"
-    },
-    "_urlPattern": "/productv2/world-war-z",
+    "_title": "world-war-z",
+    "regionBlock": "",
+    "productName": "World War Z",
+    "_urlPattern": "/pt-BR/productv2/world-war-z",
     "_slug": "world-war-z",
     "_activeDate": "2018-11-18T20:00:59.090Z",
-    "lastModified": "2021-04-05T18:29:54.758Z",
-    "_locale": "en-US",
-    "_id": "035c3c17-fa5d-49e2-818a-06a23aaebdf8",
+    "lastModified": "2018-12-06T23:27:58.789Z",
+    "_locale": "pt-BR",
+    "_id": "446a56da-f88d-4830-ace9-0073b45dddb4",
     "_templateName": "productNamespace",
     "pages": [
         {
-            "productRatings": {
-                "_type": "Epic Store Product Ratings"
-            },
-            "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
-            "_title": "home",
-            "regionBlock": "",
-            "_noIndex": false,
-            "productName": "World War Z",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -63,23 +41,15 @@
                 }
             },
             "namespace": "wombat",
-            "theme": {
-                "buttonPrimaryBg": "#A80000",
-                "customPrimaryBg": "#000000",
-                "accentColor": "#A80000",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
-            "externalNavLinks": {
-                "_type": "Epic Store Links"
-            },
-            "_urlPattern": "/productv2/world-war-z/home",
-            "_slug": "home",
+            "_title": "Aftermath Deluxe Edition",
+            "regionBlock": "",
+            "productName": "World War Z",
+            "_urlPattern": "/pt-BR/productv2/world-war-z/aftermath-deluxe-edition",
+            "_slug": "aftermath-deluxe-edition",
             "_activeDate": "2018-11-18T20:10:04.747Z",
-            "lastModified": "2026-06-18T03:55:03.266Z",
-            "_locale": "en-US",
-            "_id": "623ca9ba-4134-4120-85f5-415ed98dcc66",
+            "lastModified": "2021-06-12T19:41:43.139Z",
+            "_locale": "pt-BR",
+            "_id": "b56f3864-fa88-41db-b655-2f7d61e5ae25",
             "_templateName": "productDetail",
             "item": {
                 "catalogId": "",
@@ -96,14 +66,13 @@
                     "linkTwitter": "https://twitter.com/wwzthegame",
                     "linkFacebook": "https://www.facebook.com/wwzgame/",
                     "_type": "Diesel Social Links",
-                    "title": "Follow World War Z",
+                    "title": "Siga World War Z",
                     "linkInstagram": "https://www.instagram.com/wwzgame/"
                 },
                 "requirements": {
                     "languages": [
-                        "[Audio]: English",
-                        "[Subtitles]: English, Russian, German, Spanish, Italian, French, Portugalian (Brazilian), Polish, Chinese (traditional), Chinese (simplified) ",
-                        "Korean"
+                        "[Áudio]: inglês",
+                        "[Legendas]: inglês, russo, alemão, espanhol, italiano, francês, português (Brasil), polonês, chinês (tradicional), chinês (simplificado), coreano"
                     ],
                     "systems": [
                         {
@@ -112,7 +81,7 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
+                                    "title": "Processador",
                                     "minimum": "AMD A10-5700 / Core i3-3220",
                                     "recommended": "AMD Ryzen 5 2400G / Intel Core i7-3970 @ 3.50GHz"
                                 },
@@ -124,19 +93,19 @@
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 and later",
-                                    "recommended": "64 bit Windows 10, DX11"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 ou mais recente",
+                                    "recommended": "Windows 10 de 64 bits, DX11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Video Card",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Radeon HD 5870 / GF650Ti / Intel 630",
                                     "recommended": "Radeon R9 280 / GeForce GTX 960"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "45 GB",
                                     "recommended": "45 GB"
                                 }
@@ -156,14 +125,14 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 18"
+                            "title": "Classificação etária na Alemanha: 18 anos"
                         },
                         {
                             "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 18"
+                            "title": "Classificação etária na Europa: 18 anos"
                         }
                     ],
                     "_type": "Diesel System Details",
@@ -176,6 +145,441 @@
                         ]
                     }
                 },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "TM & © 2019 Paramount Pictures.  All Rights Reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://wwzgame.com/en/privacy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade de World War Z"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Saber Interactive",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Saber Interactive",
+                    "description": "## Sobre este jogo: \n\nCompre World War Z: Aftermath - Deluxe Edition e receba:\n\n• Jogo base\n• Armas bônus: a Marreta e os Cutelos Duplos\n• O pacote de visuais de arma Explorador\n\nWorld War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo inspirado no sucesso de bilheteria da Paramount Pictures, e a próxima evolução do sucesso original World War Z, que já cativou mais de 15 milhões de jogadores. Vire o jogo do apocalipse zumbi nos consoles e no PC com partidas multiplataformas completas. Junte-se a até 3 amigos ou jogue só com colegas da IA contra hordas de zumbis esfomeados em episódios intensos através de novos locais devastados por zumbis ao redor do mundo. Retome a Cidade do Vaticano em um confronto épico em Roma e una forças com os sobreviventes da congelante península de Kamchatka, na Rússia. \n\nWorld War Z: Aftermath também inclui todo o conteúdo da Game of the Year Edition de World War Z. \n\n## Novas histórias de um mundo em guerra\n\nRetome a Cidade do Vaticano em um confronto épico em Roma e una forças com os sobreviventes da congelante península de Kamchatka, na Rússia, em missões de história inéditas. Jogue com personagens novos e conhecidos ao enfrentar mortos-vivos em um novo sistema de luta corpo a corpo brutal, dizimando zekes com golpes especiais, vantagens e opções de armas de duas mãos, como a foice e o cutelo. Derrube monstruosidades inéditas de mortos-vivos, inclusive hordas de ratos famintos por carne que vão desencadear o caos na sua equipe.  \n \n## A próxima geração das hordas de zumbis\n\nJogue em gloriosos 4K|60 FPS. Resista a levas infinitas de zumbis cada vez mais difíceis no novo modo de jogo Modo Bando XL, que traz centenas de zumbis a mais na tela como nunca antes visto. O Modo Bando XL vai chegar em uma atualização pós-lançamento gratuita para PC.\n\n## Progressão profunda e uma nova perspectiva\n\nExperimente uma nova perspectiva de tirar o fôlego com a nova opção imersiva de Modo Primeira Pessoa de Aftermath. Suba de nível com oito classes exclusivas: Atirador, Infernal, Retalhador, Médico, Reparador, Exterminador, Mestre dos Drones e a novíssima Vanguarda. Cada uma com vantagens e estilos de jogo próprios. Personalize suas armas para sobreviver a qualquer desafio, e conquiste novas missões diárias com modificadores especiais por recompensas bônus.",
+                    "shortDescription": "World War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo, e a próxima evolução do sucesso original World War Z, que já cativou mais de 15 milhões de jogadores. Lute contra hordas de zumbis esfomeados em episódios intensos através de novos locais devastados por zumbis em todo o mundo.",
+                    "title": "World War Z: Aftermath - Deluxe Edition",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "src": "/product/world-war-z/lobo-bundle",
+                        "_type": "Diesel Link"
+                    },
+                    "description": "",
+                    "title": ""
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/offerlogo-wwzaftermath-de-200x200-3542991431d0.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/portrait-wwzaftermath-de-1200x1600-98ce563c8432.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"c89bd62a4b3f4b1a99f4ce5e1b849a93\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"df52b50cc06847e2af6ab879cc8407a8\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"3940c1115fda4d928b715df58e1382fd\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"07f3c7019c914793b24ab29dc428a28d\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"8622640c9045411f990e300134aef965\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"0d376c8379d74f249fd7be5142ee936f\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/1-rome-3840x2160-9cd47059f2a6.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/2-rome-3840x2160-b9e05b02b116.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/3-rome-3840x2160-19705229b15b.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/4-rome-3840x2160-7613dd48a6f5.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/5-kamch-3840x2160-7305317d4ddc.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-09-21T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Saber Interactive"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Saber Interactive"
+                    ],
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "CO_OP",
+                        "MULTIPLAYER",
+                        "SHOOTER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown",
+                    "title": "",
+                    "content": ""
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "World War Z: Aftermath - Deluxe Edition"
+            },
+            "type": "offer",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fworld-war-z%2Fhome%2FContent-Info_02_WWZ%28PC%29-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
+                "https://cdn2.unrealengine.com/offerlogo-wwzaftermath-de-200x200-3542991431d0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
+                "https://cdn2.unrealengine.com/2-rome-3840x2160-b9e05b02b116.png",
+                "https://cdn2.unrealengine.com/3-rome-3840x2160-19705229b15b.png",
+                "https://cdn2.unrealengine.com/1-rome-3840x2160-9cd47059f2a6.png",
+                "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
+                "https://cdn2.unrealengine.com/portrait-wwzaftermath-de-1200x1600-98ce563c8432.jpg",
+                "https://cdn2.unrealengine.com/4-rome-3840x2160-7613dd48a6f5.png",
+                "https://cdn2.unrealengine.com/5-kamch-3840x2160-7305317d4ddc.png"
+            ],
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "wombat",
+                "id": "d2acd2df0733431e919f912efca2bb9a",
+                "type": "edition",
+                "hasOffer": true
+            },
+            "pageRegionBlock": "",
+            "theme": {
+                "buttonPrimaryBg": "#A80000",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#A80000",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition"
+        },
+        {
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#A80000"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#A80000"
+                }
+            },
+            "namespace": "wombat",
+            "_title": "home",
+            "regionBlock": "",
+            "productName": "World War Z",
+            "_urlPattern": "/pt-BR/productv2/world-war-z/home",
+            "_slug": "home",
+            "_activeDate": "2018-11-18T20:10:04.747Z",
+            "lastModified": "2023-12-05T17:48:01.928Z",
+            "_locale": "pt-BR",
+            "_id": "d35a13b5-cd01-44fa-9924-472abfdbb05d",
+            "_templateName": "productDetail",
+            "item": {
+                "catalogId": "",
+                "appName": "",
+                "_type": "Diesel Product Item",
+                "hasItem": false,
+                "namespace": ""
+            },
+            "data": {
+                "requirements": {
+                    "languages": [
+                        "[Áudio]: inglês",
+                        "[Legendas]: inglês, russo, alemão, espanhol, italiano, francês, português (Brasil), polonês, chinês (tradicional), chinês (simplificado), coreano"
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fworld-war-z%2Fhome%2FContent-Info_02_WWZ%28PC%29-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "청소년이용불가"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Alemanha: 18 anos"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 18 anos (PEGI 18)"
+                        }
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "AMD A10-5700 / Core i3-3220",
+                                    "recommended": "AMD Ryzen 5 2400G / Intel Core i7-3970 com 3,50 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "RAM",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 ou mais recente",
+                                    "recommended": "Windows 10 de 64 bits, DX11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Radeon HD 5870 / GF650Ti / Intel 630",
+                                    "recommended": "Radeon R9 280 / GeForce GTX 960"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "45 GB",
+                                    "recommended": "45 GB"
+                                }
+                            ]
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating",
+                        "ratingImages": [
+                            {
+                                "_type": "Diesel Image"
+                            }
+                        ]
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/wwzthegame",
+                    "linkFacebook": "https://www.facebook.com/wwzgame/",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga World War Z",
+                    "linkInstagram": "https://www.instagram.com/wwzgame/"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -183,7 +587,7 @@
                     "privacyPolicyLink": {
                         "src": "https://saber.games/privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "World War Z Privacy Policy"
+                        "title": "Política de privacidade do World War Z"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -195,8 +599,8 @@
                     "developerAttribution": "Saber Interactive Inc.",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Saber Interactive Inc.",
-                    "description": "## About This Game: \n\nWorld War Z: Aftermath is the ultimate co-op zombie shooter inspired by Paramount Pictures’ blockbuster film, and the next evolution of the original hit World War Z that has now captivated over 15 million players. Turn the tide of the zombie apocalypse on consoles and PC with full cross-play. Join up to three friends or play on your own with AI teammates against hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world. Take back Vatican City in an epic confrontation in Rome, and join forces with survivors in Russia’s snowbound Kamchatka peninsula. \n\nWorld War Z: Aftermath also includes all content from the Game of the Year Edition of World War Z. Players who own the original World War Z or World War Z: GOTY Edition will be able to purchase and play the Aftermath upgrade at a discounted price of $19.99 on Sept 19th. \n\n## New Stories From a World at War\n\nTake back Vatican City in an epic confrontation in Rome, and join forces with survivors in Russia’s snowbound Kamchatka peninsula in all-new story missions. Play as both new and returning characters as you take the fight to the undead with a brutal new melee system, decimating zekes with unique moves, perks and dual-wield weapon options like the sickle and cleaver. Fend off new undead monstrosities, including swarms of flesh-hungry rats that will unleash total chaos on your team.  \n\n## The Next Generation of the Zombie Swarm\n\nPlay in glorious 4K|60 FPS. Endure endless waves of increasingly difficult zombies in the new Horde Mode XL game mode, featuring hundreds more zombies on screen than ever before possible. Horde Mode XL will arrive in a free post-launch update on PC.\n\n## Deep Progression and a New Perspective\n\nExperience a heart-pounding new perspective with Aftermath’s immersive new First-Person Mode option. Level up eight unique classes — the Gunslinger, Hellraiser, Slasher, Medic, Fixer, Exterminator, Dronemaster, and all-new Vanguard class — each with their own perks and playstyles. Customize your weapons to survive any challenge, and conquer new daily missions with special modifiers for bonus rewards.",
-                    "shortDescription": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
+                    "description": "## Sobre este jogo: \n\nWorld War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo inspirado no sucesso de bilheteria da Paramount Pictures, e a próxima evolução do sucesso original World War Z, que já cativou mais de 15 milhões de jogadores. Vire o jogo do apocalipse zumbi nos consoles e no PC com partidas multiplataformas completas. Junte-se a até 3 amigos ou jogue só com colegas da IA contra hordas de zumbis esfomeados em episódios intensos através de novos locais devastados por zumbis ao redor do mundo. Retome a Cidade do Vaticano em um confronto épico em Roma e una forças com os sobreviventes da congelante península de Kamchatka, na Rússia. \n\nWorld War Z: Aftermath também inclui todo o conteúdo da Game of the Year Edition de World War Z. Os jogadores que possuem o original de World War Z ou World War Z: GOTY Edition poderão comprar e jogar a atualização Aftermath com desconto pelo preço de US$19,99 no dia 19 de setembro. \n\n## Novas histórias de um mundo em guerra\n\nRetome a Cidade do Vaticano em um confronto épico em Roma e una forças com os sobreviventes da congelante península de Kamchatka, na Rússia, em missões de história inéditas. Jogue com personagens novos e conhecidos ao enfrentar mortos-vivos em um novo sistema de luta corpo a corpo brutal, dizimando zekes com golpes especiais, vantagens e opções de armas de duas mãos, como a foice e o cutelo. Derrube monstruosidades inéditas de mortos-vivos, inclusive hordas de ratos famintos por carne humana que vão desencadear o caos na sua equipe.  \n\n## A próxima geração das hordas de zumbis\n\nJogue em gloriosos 4K|60 FPS. Resista a levas infinitas de zumbis cada vez mais difíceis no novo modo de jogo Modo Bando XL, que traz centenas de zumbis a mais na tela como nunca antes visto. O Modo Bando XL vai chegar em uma atualização pós-lançamento gratuita para PC.\n\n## Progressão profunda e uma nova perspectiva\n\nExperimente uma nova perspectiva de tirar o fôlego com a nova opção imersiva de Modo Primeira Pessoa de Aftermath. Suba de nível com oito classes exclusivas: Atirador, Infernal, Retalhador, Médico, Reparador, Exterminador, Mestre dos Drones e a novíssima Vanguarda. Cada uma com vantagens e estilos de jogo próprios. Personalize suas armas para sobreviver a qualquer desafio, e conquiste novas missões diárias com modificadores especiais por recompensas bônus.",
+                    "shortDescription": "World War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo, e a próxima evolução do sucesso original World War Z, que já cativou mais de 15 milhões de jogadores. Lute contra hordas de zumbis esfomeados em episódios intensos através de novos locais devastados por zumbis em todo o mundo.",
                     "title": "World War Z: Aftermath",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -217,7 +621,7 @@
                         "src": "https://cdn2.unrealengine.com/offerlogo-wwzaftermath-200x200-fbed2dfa6255.png",
                         "_type": "Diesel Image"
                     },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/portrait-wwzaftermath-1200x1600-e88896a6242e.jpg",
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s2-1200x1600-774a5060594f.jpg",
                     "_type": "Diesel Hero",
                     "action": {
                         "_type": "Diesel Action"
@@ -233,7 +637,7 @@
                     },
                     "isFullBleed": false,
                     "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/landscape-wwzaftermath-2560x1440-5e4bd76724d6.jpg"
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s1-2560x1440-c087e2524f85.jpg"
                 },
                 "carousel": {
                     "_type": "Diesel Carousel",
@@ -245,22 +649,6 @@
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
                                 "recipes": "{\n  \"videoId\": \"d01dfe36-be72-4a0f-bd1e-f6d4356ed819\",\n  \"output\": [\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d01dfe36-be72-4a0f-bd1e-f6d4356ed819/output.mp4\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d01dfe36-be72-4a0f-bd1e-f6d4356ed819/main_playlist_webm.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d01dfe36-be72-4a0f-bd1e-f6d4356ed819/main_playlist_dash.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d01dfe36-be72-4a0f-bd1e-f6d4356ed819/main_playlist_hls.m3u8\"\n  ],\n  \"thumbnail\": \"https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1c-00-1920x1080-f9c9ff0e9620.jpg\",\n  \"quicksilver\": true\n}",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": true,
-                                "type": "epicHosted",
-                                "muted": true,
-                                "autoplay": true
-                            }
-                        },
-                        {
-                            "image": {
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "recipes": "{\n  \"videoId\": \"464f7dd9-23b6-4cb9-8d93-ef23392808c5\",\n  \"output\": [\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/464f7dd9-23b6-4cb9-8d93-ef23392808c5/output.mp4\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/464f7dd9-23b6-4cb9-8d93-ef23392808c5/main_playlist_webm.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/464f7dd9-23b6-4cb9-8d93-ef23392808c5/main_playlist_dash.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/464f7dd9-23b6-4cb9-8d93-ef23392808c5/main_playlist_hls.m3u8\"\n  ],\n  \"thumbnail\": \"https://cdn2.unrealengine.com/egs-worldwarzxthewalkingdead-saberinteractive-dlc-g1c-00-1920x1080-7dbcf0f9470b.jpg\",\n  \"quicksilver\": true\n}",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -566,7 +954,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "wombat",
-                            "description": "Humanity is on the brink of extinction. From New York to Moscow and Jerusalem, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.",
+                            "description": "A humanidade está à beira da extinção. De Nova York a Moscou e Jerusalém, o apocalipse zumbi continua se espalhando. Com o fim se aproximando, alguns corajosos se reúnem para derrotar a horda e sobreviver.",
                             "offerId": "3f459a6ca66245eba62819d656dd6178",
                             "tag": "edition",
                             "title": "World War Z",
@@ -582,7 +970,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "wombat",
-                            "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
+                            "description": "World War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo, e a próxima evolução do sucesso original World War Z, que já cativou mais de 15 milhões de jogadores. Lute contra hordas de zumbis esfomeados em episódios intensos através de novos locais devastados por zumbis em todo o mundo.",
                             "offerId": "05af9ab1d2dc4b78ada8b2f09724da20",
                             "tag": "edition",
                             "title": "World War Z: Aftermath",
@@ -591,7 +979,6 @@
                         {
                             "regionRestrictions": {
                                 "_type": "Store Region Filtering",
-                                "filterType": "NONE",
                                 "appliedCountries": ""
                             },
                             "image": {
@@ -600,7 +987,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "wombat",
-                            "description": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players.  Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
+                            "description": "World War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo, e a próxima evolução do sucesso original World War Z, que já cativou mais de 15 milhões de jogadores.  Lute contra hordas de zumbis esfomeados em episódios intensos através de novos locais devastados por zumbis em todo o mundo.",
                             "offerId": "d2acd2df0733431e919f912efca2bb9a",
                             "tag": "edition",
                             "title": "World War Z: Aftermath - Deluxe Edition",
@@ -657,10 +1044,10 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "wombat",
-                            "description": "This GOTY Edition Upgrade takes your standard edition of World War Z and any combination of individual DLC you might own, and upgrades you fully to the GOTY Edition.",
+                            "description": "A atualização da edição GOTY reúne sua versão padrão de World War Z e qualquer combinação de DLCs individuais que você tenha e a atualiza totalmente para a edição GOTY.",
                             "offerId": "3f196f43525d4cee86e62f933d7371bc",
                             "tag": "dlc",
-                            "title": "World War Z - GOTY Edition Upgrade",
+                            "title": "World War Z - Atualização da edição GOTY",
                             "type": "addon",
                             "slug": "product/world-war-z/goty-edition-upgrade"
                         }
@@ -669,7 +1056,7 @@
                 },
                 "seo": {
                     "image": {
-                        "altText": "World War Z Aftermath",
+                        "altText": "World War Z: Aftermath",
                         "_type": "Epic Store Image"
                     },
                     "twitter": {
@@ -679,8 +1066,8 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "description": "Download and play World War Z Aftermath for PC. World War Z: Aftermath is a co-op zombie shooter and the next evolution of the original hit World War Z.",
-                    "title": "World War Z Aftermath | Download & Play World War Z Aftermath - Epic Games Store"
+                    "description": "Baixe e jogue World War Z: Aftermath para PC. World War Z: Aftermath é o jogo de tiro cooperativo de zumbis definitivo, e a próxima evolução do sucesso original World War Z.",
+                    "title": "World War Z: Aftermath | Baixe e jogue World War Z: Aftermath - Epic Games Store"
                 },
                 "productSections": [
                     {
@@ -719,19 +1106,20 @@
             },
             "overwriteMapping": false,
             "type": "productHome",
+            "_noIndex": false,
             "_images_": [
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fworld-war-z%2Fhome%2FWWZ-GOTY-Edition_EpicGames_Desktop-Horizontal-1360x766-updatev1-1360x766-3225db5d6ddb9782a3a0847b3672ebe67cf21b31.jpg",
                 "https://cdn2.unrealengine.com/2-rome-3840x2160-b9e05b02b116.png",
                 "https://cdn2.unrealengine.com/offerlogo-wwzaftermath-200x200-fbed2dfa6255.png",
-                "https://cdn2.unrealengine.com/portrait-wwzaftermath-1200x1600-e88896a6242e.jpg",
                 "https://cdn2.unrealengine.com/1-rome-3840x2160-9cd47059f2a6.png",
+                "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s1-2560x1440-c087e2524f85.jpg",
                 "https://cdn2.unrealengine.com/landscape-wwzaftermath-2560x1440-5e4bd76724d6.jpg",
                 "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
                 "https://cdn2.unrealengine.com/egs-worldwarzaftermathvalleyofthezeke-saberinteractive-dlc-g1c-00-1920x1080-9bf085526f44.jpg",
                 "https://cdn2.unrealengine.com/4-rome-3840x2160-7613dd48a6f5.png",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fworld-war-z%2Fhome%2FContent-Info_02_WWZ%28PC%29-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
-                "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s1-2560x1440-42943dd8b40b.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
+                "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s1-2560x1440-42943dd8b40b.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s2-1200x1600-774a5060594f.jpg",
                 "https://cdn2.unrealengine.com/3-rome-3840x2160-19705229b15b.png",
@@ -742,8 +1130,8 @@
             "offer": {
                 "regionRestrictions": {
                     "_type": "Store Region Filtering",
-                    "filterType": "NONE",
-                    "appliedCountries": ""
+                    "appliedCountries": "",
+                    "filterType": "NONE"
                 },
                 "_type": "Diesel Offer",
                 "namespace": "wombat",
@@ -752,6 +1140,13 @@
                 "hasOffer": true
             },
             "pageRegionBlock": "",
+            "theme": {
+                "buttonPrimaryBg": "#A80000",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#A80000",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
             "ageGate": {
                 "hasAgeGate": true,
                 "_type": "Epic Store Age Gate"
@@ -759,15 +1154,6 @@
             "tag": "edition"
         },
         {
-            "productRatings": {
-                "_type": "Epic Store Product Ratings"
-            },
-            "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
-            "_title": "Aftermath Deluxe Edition",
-            "regionBlock": "",
-            "_noIndex": false,
-            "productName": "World War Z",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -783,468 +1169,15 @@
                 }
             },
             "namespace": "wombat",
-            "theme": {
-                "buttonPrimaryBg": "#A80000",
-                "customPrimaryBg": "#000000",
-                "accentColor": "#A80000",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
-            "externalNavLinks": {
-                "_type": "Epic Store Links"
-            },
-            "_urlPattern": "/productv2/world-war-z/aftermath-deluxe-edition",
-            "_slug": "aftermath-deluxe-edition",
-            "_activeDate": "2018-11-18T20:10:04.747Z",
-            "lastModified": "2021-10-13T21:31:36.913Z",
-            "_locale": "en-US",
-            "_id": "af6defa7-4287-4bf9-8aa1-50f50b85f810",
-            "_templateName": "productDetail",
-            "item": {
-                "catalogId": "",
-                "appName": "",
-                "_type": "Diesel Product Item",
-                "namespace": "",
-                "hasItem": false
-            },
-            "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/wwzthegame",
-                    "linkFacebook": "https://www.facebook.com/wwzgame/",
-                    "_type": "Diesel Social Links",
-                    "title": "Follow World War Z",
-                    "linkInstagram": "https://www.instagram.com/wwzgame/"
-                },
-                "requirements": {
-                    "languages": [
-                        "[Audio]: English",
-                        "[Subtitles]: English, Russian, German, Spanish, Italian, French, Portugalian (Brazilian), Polish, Chinese (traditional), Chinese (simplified) ",
-                        "Korean"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "AMD A10-5700 / Core i3-3220",
-                                    "recommended": "AMD Ryzen 5 2400G / Intel Core i7-3970 @ 3.50GHz"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "RAM",
-                                    "minimum": "8 GB",
-                                    "recommended": "16 GB"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 and later",
-                                    "recommended": "64 bit Windows 10, DX11"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Video Card",
-                                    "minimum": "Radeon HD 5870 / GF650Ti / Intel 630",
-                                    "recommended": "Radeon R9 280 / GeForce GTX 960"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "45 GB",
-                                    "recommended": "45 GB"
-                                }
-                            ]
-                        }
-                    ],
-                    "legalTags": [
-                        {
-                            "countryCodes": "KR",
-                            "visibility": "visibleToSpecific",
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fworld-war-z%2Fhome%2FContent-Info_02_WWZ%28PC%29-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
-                            "_type": "Epic Footer Legal Tag",
-                            "title": "청소년이용불가"
-                        },
-                        {
-                            "countryCodes": "DE",
-                            "visibility": "visibleToSpecific",
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
-                            "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 18"
-                        },
-                        {
-                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
-                            "visibility": "visibleToSpecific",
-                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
-                            "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 18"
-                        }
-                    ],
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating",
-                        "ratingImages": [
-                            {
-                                "_type": "Diesel Image"
-                            }
-                        ]
-                    }
-                },
-                "navOrder": 2,
-                "footer": {
-                    "_type": "Diesel Product Footer",
-                    "copy": "TM & © 2019 Paramount Pictures.  All Rights Reserved.",
-                    "privacyPolicyLink": {
-                        "src": "https://wwzgame.com/en/privacy/",
-                        "_type": "Diesel Link",
-                        "title": "World War Z Privacy Policy"
-                    }
-                },
-                "_type": "Diesel Product Detail",
-                "about": {
-                    "image": {
-                        "src": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
-                        "_type": "Diesel Image"
-                    },
-                    "developerAttribution": "Saber Interactive",
-                    "_type": "Diesel Product About",
-                    "publisherAttribution": "Saber Interactive",
-                    "description": "## About This Game: \n\nBuy World War Z: Aftermath - Deluxe Edition and get:\n\n• Base Game\n• Bonus weapons: The Sledgehammer and Dual Cleavers\n• The Explorer Weapon Skin Pack\n\nWorld War Z: Aftermath is the ultimate co-op zombie shooter inspired by Paramount Pictures’ blockbuster film, and the next evolution of the original hit World War Z that has now captivated over 15 million players. Turn the tide of the zombie apocalypse on consoles and PC with full cross-play. Join up to three friends or play on your own with AI teammates against hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world. Take back Vatican City in an epic confrontation in Rome, and join forces with survivors in Russia’s snowbound Kamchatka peninsula. \n\nWorld War Z: Aftermath also includes all content from the Game of the Year Edition of World War Z. \n\n## New Stories From a World at War\n\nTake back Vatican City in an epic confrontation in Rome, and join forces with survivors in Russia’s snowbound Kamchatka peninsula in all-new story missions. Play as both new and returning characters as you take the fight to the undead with a brutal new melee system, decimating zekes with unique moves, perks and dual-wield weapon options like the sickle and cleaver. Fend off new undead monstrosities, including swarms of flesh-hungry rats that will unleash total chaos on your team.  \n \n## The Next Generation of the Zombie Swarm\n\nPlay in glorious 4K|60 FPS. Endure endless waves of increasingly difficult zombies in the new Horde Mode XL game mode, featuring hundreds more zombies on screen than ever before possible. Horde Mode XL will arrive in a free post-launch update on PC.\n\n## Deep Progression and a New Perspective\n\nExperience a heart-pounding new perspective with Aftermath’s immersive new First-Person Mode option. Level up eight unique classes — the Gunslinger, Hellraiser, Slasher, Medic, Fixer, Exterminator, Dronemaster, and all-new Vanguard class — each with their own perks and playstyles. Customize your weapons to survive any challenge, and conquer new daily missions with special modifiers for bonus rewards.",
-                    "shortDescription": "World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.",
-                    "title": "World War Z: Aftermath - Deluxe Edition",
-                    "developerLogo": {
-                        "_type": "Diesel Image"
-                    }
-                },
-                "banner": {
-                    "showPromotion": false,
-                    "_type": "Epic Store Product Banner",
-                    "link": {
-                        "src": "/product/world-war-z/lobo-bundle",
-                        "_type": "Diesel Link"
-                    },
-                    "description": "",
-                    "title": ""
-                },
-                "hero": {
-                    "logoImage": {
-                        "src": "https://cdn2.unrealengine.com/offerlogo-wwzaftermath-de-200x200-3542991431d0.png",
-                        "_type": "Diesel Image"
-                    },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/portrait-wwzaftermath-de-1200x1600-98ce563c8432.jpg",
-                    "_type": "Diesel Hero",
-                    "action": {
-                        "_type": "Diesel Action"
-                    },
-                    "video": {
-                        "loop": false,
-                        "_type": "Diesel Video",
-                        "hasFullScreen": false,
-                        "hasControls": false,
-                        "type": "htmlVideo",
-                        "muted": false,
-                        "autoplay": false
-                    },
-                    "isFullBleed": false,
-                    "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg"
-                },
-                "carousel": {
-                    "_type": "Diesel Carousel",
-                    "items": [
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "epicStillDurationSeconds": 3,
-                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"c89bd62a4b3f4b1a99f4ce5e1b849a93\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"df52b50cc06847e2af6ab879cc8407a8\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"3940c1115fda4d928b715df58e1382fd\"\n        }\n    ]\n}",
-                                "epicStillType": "PREPEND",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": true,
-                                "type": "epicHosted",
-                                "muted": false,
-                                "autoplay": true
-                            }
-                        },
-                        {
-                            "image": {
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "epicStillDurationSeconds": 3,
-                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"07f3c7019c914793b24ab29dc428a28d\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"8622640c9045411f990e300134aef965\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"0d376c8379d74f249fd7be5142ee936f\"\n        }\n    ]\n}",
-                                "epicStillType": "PREPEND",
-                                "loop": true,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": true,
-                                "type": "epicHosted",
-                                "muted": false,
-                                "autoplay": true
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/1-rome-3840x2160-9cd47059f2a6.png",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/2-rome-3840x2160-b9e05b02b116.png",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/3-rome-3840x2160-19705229b15b.png",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/4-rome-3840x2160-7613dd48a6f5.png",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        },
-                        {
-                            "image": {
-                                "src": "https://cdn2.unrealengine.com/5-kamch-3840x2160-7305317d4ddc.png",
-                                "_type": "Diesel Image"
-                            },
-                            "_type": "Diesel Carousel Item - Image OR Video",
-                            "video": {
-                                "loop": false,
-                                "_type": "Diesel Video",
-                                "hasFullScreen": false,
-                                "hasControls": false,
-                                "muted": false,
-                                "autoplay": false
-                            }
-                        }
-                    ]
-                },
-                "editions": {
-                    "_type": "Epic Store Editions",
-                    "enableImages": false
-                },
-                "meta": {
-                    "releaseDate": "2021-09-21T15:00:00.000Z",
-                    "_type": "Epic Store Meta",
-                    "publisher": [
-                        "Saber Interactive"
-                    ],
-                    "logo": {
-                        "_type": "Epic Store Image"
-                    },
-                    "developer": [
-                        "Saber Interactive"
-                    ],
-                    "customReleaseDate": "",
-                    "platform": [
-                        "Windows"
-                    ],
-                    "tags": [
-                        "CO_OP",
-                        "MULTIPLAYER",
-                        "SHOOTER"
-                    ]
-                },
-                "markdown": {
-                    "_type": "Epic Store Markdown",
-                    "title": "",
-                    "content": ""
-                },
-                "dlc": {
-                    "contingentOffer": {
-                        "regionRestrictions": {
-                            "_type": "Store Region Filtering"
-                        },
-                        "_type": "Diesel Offer",
-                        "hasOffer": false
-                    },
-                    "_type": "Epic Store DLC",
-                    "enableImages": false
-                },
-                "seo": {
-                    "image": {
-                        "_type": "Epic Store Image"
-                    },
-                    "twitter": {
-                        "_type": "SEO Twitter Metadata"
-                    },
-                    "_type": "Epic Store Product SEO",
-                    "og": {
-                        "_type": "SEO OG Metadata"
-                    }
-                },
-                "productSections": [
-                    {
-                        "productSection": "HERO",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "ABOUT",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "SOCIAL_LINKS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "CAROUSEL",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "REQUIREMENTS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "FOOTER",
-                        "_type": "Diesel Product Section"
-                    }
-                ],
-                "gallery": {
-                    "_type": "Diesel Gallery"
-                },
-                "navTitle": "World War Z: Aftermath - Deluxe Edition"
-            },
-            "type": "offer",
-            "_images_": [
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fworld-war-z%2Fhome%2FContent-Info_02_WWZ%28PC%29-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
-                "https://cdn2.unrealengine.com/offerlogo-wwzaftermath-de-200x200-3542991431d0.png",
-                "https://cdn2.unrealengine.com/2-rome-3840x2160-b9e05b02b116.png",
-                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
-                "https://cdn2.unrealengine.com/3-rome-3840x2160-19705229b15b.png",
-                "https://cdn2.unrealengine.com/1-rome-3840x2160-9cd47059f2a6.png",
-                "https://cdn2.unrealengine.com/landscape-wwzaftermath-de-2560x1440-d2537f5956b2.jpg",
-                "https://cdn2.unrealengine.com/portrait-wwzaftermath-de-1200x1600-98ce563c8432.jpg",
-                "https://cdn2.unrealengine.com/4-rome-3840x2160-7613dd48a6f5.png",
-                "https://cdn2.unrealengine.com/5-kamch-3840x2160-7305317d4ddc.png"
-            ],
-            "offer": {
-                "regionRestrictions": {
-                    "_type": "Store Region Filtering"
-                },
-                "_type": "Diesel Offer",
-                "namespace": "wombat",
-                "id": "d2acd2df0733431e919f912efca2bb9a",
-                "type": "edition",
-                "hasOffer": true
-            },
-            "pageRegionBlock": "",
-            "ageGate": {
-                "hasAgeGate": true,
-                "_type": "Epic Store Age Gate"
-            },
-            "tag": "edition"
-        },
-        {
-            "productRatings": {
-                "_type": "Epic Store Product Ratings"
-            },
-            "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
             "_title": "base-game",
             "regionBlock": "",
-            "_noIndex": false,
             "productName": "World War Z",
-            "pageTheme": {
-                "preferredMode": "dark",
-                "light": {
-                    "_type": "Epic Store Page Theme Selection",
-                    "theme": "gray",
-                    "accent": "#A80000"
-                },
-                "_type": "Epic Store Page Theme",
-                "dark": {
-                    "_type": "Epic Store Page Theme Selection",
-                    "theme": "gray",
-                    "accent": "#A80000"
-                }
-            },
-            "namespace": "wombat",
-            "theme": {
-                "buttonPrimaryBg": "#A80000",
-                "customPrimaryBg": "#000000",
-                "accentColor": "#A80000",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
-            "externalNavLinks": {
-                "_type": "Epic Store Links"
-            },
-            "_urlPattern": "/productv2/world-war-z/base-game",
+            "_urlPattern": "/pt-BR/productv2/world-war-z/base-game",
             "_slug": "base-game",
             "_activeDate": "2018-11-18T20:10:04.747Z",
-            "lastModified": "2026-09-15T17:56:33.097Z",
-            "_locale": "en-US",
-            "_id": "95c17027-c3cb-47e0-80d1-850b0b9581d7",
+            "lastModified": "2023-04-18T10:49:52.559Z",
+            "_locale": "pt-BR",
+            "_id": "25248485-2a2d-4061-b500-ed7c56c5d1b3",
             "_templateName": "productDetail",
             "item": {
                 "catalogId": "",
@@ -1261,7 +1194,7 @@
                     "linkTwitter": "https://twitter.com/wwzthegame",
                     "linkFacebook": "https://www.facebook.com/wwzgame/",
                     "_type": "Diesel Social Links",
-                    "title": "Follow World War Z",
+                    "title": "Siga World War Z",
                     "linkInstagram": "https://www.instagram.com/wwzgame/"
                 },
                 "requirements": {
@@ -1276,9 +1209,9 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "CPU",
-                                    "minimum": "Core i3-3220/AMD A10-5700",
-                                    "recommended": "Intel Core i7-3970 @ 3.50GHz"
+                                    "title": "Processador",
+                                    "minimum": "Core i3-3220 / AMD A10-5700",
+                                    "recommended": "Intel Core i7-3970 com 3,50 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -1288,19 +1221,19 @@
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 and later",
-                                    "recommended": "64 bit Windows 10, DX11"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 ou mais recente",
+                                    "recommended": "Windows 10 de 64 bits, DX11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Video Card",
-                                    "minimum": "GF650Ti/ Intel 630/ Radeon HD 5870",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GF650Ti / Intel 630 / Radeon HD 5870",
                                     "recommended": "GeForce GTX 960 / Radeon R9 280"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "45 GB",
                                     "recommended": "45 GB"
                                 }
@@ -1320,14 +1253,14 @@
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "USK ab 18"
+                            "title": "Classificação etária na Alemanha: 18 anos"
                         },
                         {
                             "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
                             "visibility": "visibleToSpecific",
                             "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
                             "_type": "Epic Footer Legal Tag",
-                            "title": "PEGI 18"
+                            "title": "Classificação etária na Europa: 18 anos (PEGI 18)"
                         }
                     ],
                     "_type": "Diesel System Details",
@@ -1347,7 +1280,7 @@
                     "privacyPolicyLink": {
                         "src": "https://wwzgame.com/en/privacy/",
                         "_type": "Diesel Link",
-                        "title": "World War Z Privacy Policy"
+                        "title": "Política de privacidade de World War Z"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -1359,8 +1292,8 @@
                     "developerAttribution": "Saber Interactive",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Mad Dog Games",
-                    "description": "Humanity is on the brink of extinction. From New York to Moscow, through Jerusalem, Tokyo and Marseille, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.\n\nWorld War Z is a heart-pounding coop third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world.\n\n**Battle swarms of hundreds of zombies:** the Swarm Engine™ seamlessly renders hordes of zombies in incredible firefights. Advanced gore systems offer gruesomely satisfying action.\n**Coop story-driven campaigns:** survive around the world, as unique groups tell their stories of perseverance.\n**Fight other players for survival:** several intense Player vs Player vs Zombies game modes complement the coop campaigns.\n**Grow stronger: **unlock powerful weapon upgrades and level 8 character classes to take on greater challenges.\n",
-                    "shortDescription": "Humanity is on the brink of extinction. From New York to Moscow and Jerusalem, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.",
+                    "description": "A humanidade está à beira da extinção. De Nova York a Moscou, passando por Jerusalém, Tóquio e Marselha, o apocalipse zumbi continua se espalhando. Com o fim se aproximando, alguns corajosos se reúnem para derrotar a horda e sobreviver.\n\nWorld War Z é um frenético jogo de tiro em terceira pessoa para até 4 jogadores com hordas colossais com centenas de zumbis. Baseado no filme da Paramount Pictures, World War Z foca na ação e explora novas histórias por todo o mundo.\n\n**Combata hordas de centenas de zumbis em tiroteios espetaculares:** o Swarm Engine™ renderiza perfeitamente as hordas de zumbis em tiroteios incríveis. Os sistemas brutais avançados oferecem uma ação terrivelmente satisfatória.\n**Campanhas cooperativas baseadas em histórias:** sobreviva no mundo, enquanto grupos sem igual contam suas histórias de perseverança.\n**Lute contra outros jogadores pela sobrevivência:** vários modos intensos de jogo Jogador vs. Jogador vs. Zumbis complementam as campanhas cooperativas.\n**Fique mais forte: **desbloqueie melhorias de armas poderosas e classes de personagem de nível 8 para enfrentar desafios maiores.\n",
+                    "shortDescription": "A humanidade está à beira da extinção. De Nova York a Moscou e Jerusalém, o apocalipse zumbi continua se espalhando. Com o fim se aproximando, alguns corajosos se reúnem para derrotar a horda e sobreviver.",
                     "title": "",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -1408,7 +1341,7 @@
                             },
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
-                                "recipes": "{\n  \"videoId\": \"d742178f-e1a9-4e98-8325-3045b2948cac\",\n  \"output\": [\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d742178f-e1a9-4e98-8325-3045b2948cac/output.mp4\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d742178f-e1a9-4e98-8325-3045b2948cac/main_playlist_webm.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d742178f-e1a9-4e98-8325-3045b2948cac/main_playlist_hls.m3u8\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/d742178f-e1a9-4e98-8325-3045b2948cac/main_playlist_dash.mpd\"\n  ],\n  \"thumbnail\": \"https://cdn2.unrealengine.com/1egs-worldwarz-saberinteractive-editions-g1c-00-1920x1080-2a2d752a5e25.jpg\",\n  \"quicksilver\": true\n}",
+                                "recipes": "{\n  \"videoId\": \"30344d20-c4fb-48fa-8ddd-7ba50ae88c09\",\n  \"output\": [\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/30344d20-c4fb-48fa-8ddd-7ba50ae88c09/output.mp4\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/30344d20-c4fb-48fa-8ddd-7ba50ae88c09/main_playlist_webm.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/30344d20-c4fb-48fa-8ddd-7ba50ae88c09/main_playlist_dash.mpd\",\n    \"https://epic-games-store-cdn.qstv.on.epicgames.com/output/30344d20-c4fb-48fa-8ddd-7ba50ae88c09/main_playlist_hls.m3u8\"\n  ],\n  \"thumbnail\": \"https://cdn2.unrealengine.com/1egs-worldwarz-saberinteractive-editions-g1c-00-1920x1080-2a2d752a5e25.jpg\",\n  \"quicksilver\": true\n}",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
@@ -1527,9 +1460,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -1620,6 +1550,7 @@
             },
             "overwriteMapping": false,
             "type": "offer",
+            "_noIndex": false,
             "_images_": [
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fworld-war-z%2Fhome%2FContent-Info_02_WWZ%28PC%29-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1a-02-1920x1080-239909761578.jpg",
@@ -1628,8 +1559,8 @@
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-s2-1200x1600-cbb1c018a329.jpg",
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-ic1-200x200-dea82ccffae5.png",
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1a-01-1920x1080-b5904b631837.jpg",
-                "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1a-04-1920x1080-569e33448234.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-417x417-4ba69eb1fdef315aba5a81dfa7c29f16ace220bc.png",
+                "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1a-04-1920x1080-569e33448234.jpg",
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1a-00-1920x1080-52256d9dda39.jpg",
                 "https://cdn2.unrealengine.com/egs-worldwarz-saberinteractive-editions-g1a-03-1920x1080-f6a9d2489b7f.jpg"
             ],
@@ -1647,18 +1578,16 @@
                 "hasAgeGate": true,
                 "_type": "Epic Store Age Gate"
             },
+            "theme": {
+                "buttonPrimaryBg": "#A80000",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#A80000",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
             "tag": "edition"
         },
         {
-            "productRatings": {
-                "_type": "Epic Store Product Ratings"
-            },
-            "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
-            "_title": "goty-edition-upgrade",
-            "regionBlock": "",
-            "_noIndex": false,
-            "productName": "World War Z",
             "pageTheme": {
                 "preferredMode": "dark",
                 "light": {
@@ -1674,22 +1603,15 @@
                 }
             },
             "namespace": "wombat",
-            "theme": {
-                "buttonPrimaryBg": "#A80000",
-                "customPrimaryBg": "#000000",
-                "_type": "Diesel Theme",
-                "colorScheme": "dark"
-            },
-            "reviewOptOut": false,
-            "externalNavLinks": {
-                "_type": "Epic Store Links"
-            },
-            "_urlPattern": "/productv2/world-war-z/goty-edition-upgrade",
+            "_title": "goty-edition-upgrade",
+            "regionBlock": "",
+            "productName": "World War Z",
+            "_urlPattern": "/pt-BR/productv2/world-war-z/goty-edition-upgrade",
             "_slug": "goty-edition-upgrade",
             "_activeDate": "2019-06-12T17:26:50.492Z",
             "lastModified": "2020-05-04T14:23:00.528Z",
-            "_locale": "en-US",
-            "_id": "41642675-ffd6-426a-b9d0-6bf80a904f40",
+            "_locale": "pt-BR",
+            "_id": "c0f77def-83b9-4c9a-bdd8-e6d36e9402d1",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -1722,11 +1644,11 @@
                 "navOrder": 2,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "TM & © 2019 Paramount Pictures.  All Rights Reserved.",
+                    "copy": "TM & © 2019 Paramount Pictures.  Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://wwzgame.com/en/privacy/",
                         "_type": "Diesel Link",
-                        "title": "World War Z Privacy Policy"
+                        "title": "Política de Privacidade do World War Z"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -1737,8 +1659,8 @@
                     "developerAttribution": "Saber Interactive",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Mad Dog Games",
-                    "description": "Note: You must own the standard edition of World War Z in order to upgrade to the Game of the Year Edition with this pack.  If you don’t own the standard edition of World War Z, the GOTY Edition is still available to you on its separate store page.\n\nWorld War Z is a heart-pounding coop third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world.\n\nThis GOTY Edition Upgrade takes your standard edition of World War Z and any combination of individual DLC you might own, and upgrades you fully to the GOTY Edition, which includes:\n\n• Marseille Episode with 3 new PvE missions located in France\n• Many explosive game modes in PvP/PvE including the deadly Horde Mode Z\n• All character Skin Packs (The Professionals, War Heroes)\n• All weapon Skin and Variant packs (Last Aid, Special Operations, Biohazard, Lobo)\n• And one more upcoming weapon pack",
-                    "title": "World War Z - GOTY Edition Upgrade",
+                    "description": "Observação: Você precisa ter a versão padrão de World War Z para atualizar para a edição Game of the Year com este pacote.  Se você não tem a versão padrão de World War Z, ainda assim a edição GOTY está disponível em uma página separada da loja.\n\nWorld War Z é um frenético jogo de tiro em terceira pessoa para até 4 jogadores com hordas colossais com centenas de zumbis. Baseado no filme da Paramount Pictures, World War Z foca na ação e explora novas histórias por todo o mundo.\n\nEsta atualização da edição GOTY reúne sua versão padrão de World War Z e qualquer combinação de DLCs individuais que você tenha e atualiza totalmente para a edição GOTY que inclui:\n\n• Episódio Marselha com 3 novas missões PvE na França\n• Muitos modos de jogo explosivos no PvP e PvE, incluindo Modo Horda Z\n• Todos os pacotes de skin de personagem (Os Profissionais, Heróis de Guerra)\n• Todos os pacotes de skin e variantes de arma (Último Socorro, Forças Especiais, Biohazard, Lobo)\n• E mais um pacote de arma em breve",
+                    "title": "World War Z - Atualização da edição GOTY",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -1846,14 +1768,21 @@
                 "gallery": {
                     "_type": "Diesel Gallery"
                 },
-                "navTitle": "GOTY Edition Upgrade"
+                "navTitle": "Atualização da edição GOTY"
             },
             "ageGate": {
                 "hasAgeGate": true,
                 "_type": "Epic Store Age Gate"
             },
+            "theme": {
+                "buttonPrimaryBg": "#A80000",
+                "customPrimaryBg": "#000000",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
             "tag": "dlc",
             "type": "addon",
+            "_noIndex": false,
             "_images_": [
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fworld-war-z%2Fhome%2FWWZ-GOTY-Edition_EpicGames_Desktop-Horizontal-1360x766-updatev1-1360x766-3225db5d6ddb9782a3a0847b3672ebe67cf21b31.jpg",
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fworld-war-z%2Fhome%2FWWZ-GOTY-Edition_EpicGames_GameLogo-200x200-5b76ba9634480b7ed6c1efa6969124a6cbfe32e5.png",

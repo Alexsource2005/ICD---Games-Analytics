@@ -43,20 +43,18 @@
     },
     "namespace": "df37f065c3f14eadbf011177396e2966",
     "theme": {
-        "buttonPrimaryBg": "",
-        "accentColor": "",
         "_type": "Diesel Theme"
     },
     "reviewOptOut": false,
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/alien-isolation",
+    "_urlPattern": "/pt-BR/productv2/alien-isolation",
     "_slug": "alien-isolation",
-    "_activeDate": "2020-12-21T15:55:00.000Z",
-    "lastModified": "2021-05-04T20:24:30.515Z",
-    "_locale": "en-US",
-    "_id": "2f6273c7-1d12-4a8c-bf97-a3b8708440f4",
+    "_activeDate": "2020-12-10T21:09:37.768Z",
+    "lastModified": "2020-12-17T17:33:41.407Z",
+    "_locale": "pt-BR",
+    "_id": "a4d2c713-4d3d-4fae-a932-4a2b1cf02ab6",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -98,8 +96,8 @@
                 "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-01-1920x1080-b65e51b6fb2e.jpg",
                 "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g2-00-1920x1080-40e07dae74c0.jpg",
                 "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-04-1920x1080-99a3d5d4610a.jpg",
-                "https://cdn2.unrealengine.com/egs-alienisolationthecollection-creativeassembly-bundles-s1-2560x1440-4ffcdf2517d9.jpg",
-                "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-02-1920x1080-7e870d423c46.jpg"
+                "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-02-1920x1080-7e870d423c46.jpg",
+                "https://cdn2.unrealengine.com/egs-alienisolationthecollection-creativeassembly-bundles-s1-2560x1440-4ffcdf2517d9.jpg"
             ],
             "productName": "Alien: Isolation",
             "pageTheme": {
@@ -119,12 +117,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/alien-isolation/home",
+            "_urlPattern": "/pt-BR/productv2/alien-isolation/home",
             "_slug": "home",
             "_activeDate": "2020-12-10T21:10:54.045Z",
-            "lastModified": "2025-11-18T16:46:17.244Z",
-            "_locale": "en-US",
-            "_id": "608f7284-08f0-4ce9-addd-94e4ca27da4d",
+            "lastModified": "2020-12-18T15:55:52.618Z",
+            "_locale": "pt-BR",
+            "_id": "d6ca9fc1-daa2-4750-9469-71b7f8139633",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -148,8 +146,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, French, German, Italian, Portuguese - Brazil, Russian, Spanish - Spain",
-                        "Text: English, Czech, French, German, Italian, Polish, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "Áudio: inglês, francês, alemão, italiano, português (Brasil), russo, espanhol (Espanha)",
+                        "Texto: inglês, tcheco, francês, alemão, italiano, polonês, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -158,39 +156,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 (64bit)",
-                                    "recommended": "Windows 7 (64bit)"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 (64 bits)",
+                                    "recommended": "Windows 7 (64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "3.16Ghz Intel Core 2 Duo E8500",
-                                    "recommended": "AMD: Phenom II X4 955 - 4 Core, 3.2 GHz or Intel: Core 2 Quad Q9650 - 4 Core, 3.0 GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo E8500 de 3,16 GHz",
+                                    "recommended": "AMD: Phenom II X4 955 - 4 Core de 3,2 GHz ou Intel Core 2 Quad Q9650 - 4 Core de 3,0 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "35 GB available space",
-                                    "recommended": "35 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "35 GB de espaço disponível",
+                                    "recommended": "35 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": " Direct X",
-                                    "minimum": "Version 11",
-                                    "recommended": "Version 11"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)",
-                                    "recommended": "2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce GTX660)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1 GB (AMD Radeon HD 5550 ou NVIDIA GeForce GT 430)",
+                                    "recommended": "2 GB (GPU AMD: AMD Radeon R9 série 200 ou GPU NVIDIA: NVIDIA GeForce GTX 660)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -224,8 +222,8 @@
                     "developerAttribution": "Creative Assembly",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "SEGA",
-                    "description": "# HOW WILL YOU SURVIVE?\n\nWhen she left Earth, Ellen Ripley promised her daughter she would return home to celebrate her 11th birthday. She never made it.\n\nFifteen years later, Amanda Ripley learns that the flight recorder from her mother's ship has been recovered. Amanda enters Sevastopol space station to finally solve the mystery of her mother's disappearance, only to confront an unknown menace.\n\nEngage in a terrifying quest for survival as you navigate the labyrinthine Sevastopol station. Unprepared and underequipped, you will need all your wits and daring to get out alive.",
-                    "shortDescription": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger...   Created using the CATHODE™ engine.",
+                    "description": "COMO VOCÊ VAI SOBREVIVER?\n=========================\n\nQuando deixou a Terra, Ellen Ripley prometeu à filha que voltaria para casa para comemorar o 11º aniversário da menina. Ela nunca conseguiu cumprir a promessa.\n\nQuinze anos depois, Amanda Ripley descobre que o gravador de voo da nave da mãe foi recuperado. Amanda entra na estação espacial Sevastopol para finalmente resolver o mistério do desaparecimento de sua mãe e terá que enfrentar uma ameaça desconhecida.\n\nAventure\\-se em uma busca aterrorizante pela sobrevivência enquanto navega pela labiríntica estação Sevastopol. Sem a preparação e os equipamentos necessários, você precisará de toda a sua inteligência e ousadia para sobreviver.\n\n",
+                    "shortDescription": "Descubra o verdadeiro significado do medo em Alien: Isolation, um jogo de horror e sobrevivência ambientado em uma atmosfera de medo constante e perigo mortal... Criado com CATHODE™ engine.",
                     "title": "Alien: Isolation",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -251,7 +249,6 @@
                         "_type": "Diesel Action"
                     },
                     "video": {
-                        "accentColor": "",
                         "loop": false,
                         "_type": "Diesel Video",
                         "hasFullScreen": false,
@@ -275,12 +272,11 @@
                             "video": {
                                 "epicStillDurationSeconds": 3,
                                 "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"f746f60c06894b0fb59cf5047c886d77\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"a9e81d2d6ba440e2ab773614dee09ba4\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c86818dd3c69493ead55de7bb5d8396b\"\n        }\n    ]\n}",
-                                "accentColor": "",
                                 "loop": true,
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Aliens: isolation Trailer",
+                                "title": "Trailer de Alien: Isolation",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -378,9 +374,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "editions": [
                         {
@@ -393,7 +386,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "df37f065c3f14eadbf011177396e2966",
-                            "description": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger...   Created using the CATHODE™ engine.",
+                            "description": "Descubra o verdadeiro significado do medo em Alien: Isolation, um jogo de horror e sobrevivência ambientado em uma atmosfera de medo constante e perigo mortal... Criado com CATHODE™ engine.",
                             "offerId": "d37f3694e7a04edb8347f3cb6320f9d3",
                             "title": "Alien: Isolation",
                             "slug": "p/alien-isolation"
@@ -408,7 +401,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "df37f065c3f14eadbf011177396e2966",
-                            "description": "Contains the full game and seven packs of additional content: Last Survivor and Crew Expendable (featuring the original AlienTM cast), and all five Survivor mode packs, including Corporate Lockdown, Trauma, Safe Haven, Lost Contact and The Trigger.\n",
+                            "description": "Contém o jogo completo e sete pacotes de conteúdo adicional: Last Survivor e Crew Expendable (com o elenco do AlienTM original), e os cinco pacotes do modo Survivor, incluindo Corporate Lockdown, Trauma, Safe Haven, Lost Contact e The Trigger.\n",
                             "offerId": "06090b876f964d20bdebdf2bfef06e06",
                             "title": "Alien: Isolation - The Collection",
                             "slug": "p/alien-isolation--the-collection"
@@ -470,10 +463,6 @@
                         "_type": "Diesel Product Section"
                     },
                     {
-                        "productSection": "BANNER",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
                         "productSection": "ABOUT",
                         "_type": "Diesel Product Section"
                     },
@@ -496,6 +485,10 @@
                     {
                         "productSection": "REQUIREMENTS",
                         "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "BANNER",
+                        "_type": "Diesel Product Section"
                     }
                 ],
                 "gallery": {
@@ -509,7 +502,6 @@
                 },
                 "navTitle": "Alien: Isolation"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"
@@ -574,12 +566,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/alien-isolation/the-collection",
+            "_urlPattern": "/pt-BR/productv2/alien-isolation/the-collection",
             "_slug": "the-collection",
             "_activeDate": "2024-08-29T16:21:38.996Z",
-            "lastModified": "2025-11-18T16:46:59.544Z",
-            "_locale": "en-US",
-            "_id": "45b4d125-dc98-419d-8dc5-0ead604d0002",
+            "lastModified": "2024-08-30T17:16:22.710Z",
+            "_locale": "pt-BR",
+            "_id": "d55ffeda-8bfa-498d-ba26-96b6f168e20c",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -594,8 +586,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, French, German, Italian, Portuguese - Brazil, Russian, Spanish - Spain",
-                        "Text: English, Czech, French, German, Italian, Polish, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "Áudio: inglês, francês, alemão, italiano, português (Brasil), russo, espanhol (Espanha)",
+                        "Texto: inglês, tcheco, francês, alemão, italiano, polonês, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -604,39 +596,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 (64bit)",
-                                    "recommended": "Windows 7 (64bit)"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 (64 bits)",
+                                    "recommended": "Windows 7 (64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "3.16Ghz Intel Core 2 Duo E8500",
-                                    "recommended": "AMD: Phenom II X4 955 - 4 Core, 3.2 GHz or Intel: Core 2 Quad Q9650 - 4 Core, 3.0 GHz"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo E8500 de 3,16 GHz",
+                                    "recommended": "AMD: Phenom II X4 955 - 4 Core de 3,2 GHz ou Intel Core 2 Quad Q9650 - 4 Core de 3,0 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "35 GB available space",
-                                    "recommended": "35 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "35 GB de espaço disponível",
+                                    "recommended": "35 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": " Direct X",
-                                    "minimum": "Version 11",
-                                    "recommended": "Version 11"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)",
-                                    "recommended": "2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce GTX660)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1 GB (AMD Radeon HD 5550 ou NVIDIA GeForce GT 430)",
+                                    "recommended": "2 GB (GPU AMD: AMD Radeon R9 série 200 ou GPU NVIDIA: NVIDIA GeForce GTX 660)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -669,8 +661,8 @@
                     "developerAttribution": "Creative Assembly",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "SEGA",
-                    "description": "Winner of over 50 Game Of The Year awards.\n\nContains the full game and seven packs of additional content:\n- Last Survivor and Crew Expendable (featuring the original AlienTM cast)\n- All five Survivor mode packs, including Corporate Lockdown, Trauma, Safe Haven, Lost Contact and The Trigger\n\nDiscover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger. Fifteen years after the events of Alien™, Ellen Ripley’s daughter, Amanda enters a desperate battle for survival, on a mission to unravel the truth behind her mother's disappearance.\n\nAs Amanda, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked, desperate population and an unpredictable, ruthless Alien.\n\nUnderpowered and underprepared, you must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission, but to simply stay alive.\n\nCreated using the CATHODE™ engine.",
-                    "shortDescription": "Contains the full game and seven packs of additional content: Last Survivor and Crew Expendable (featuring the original AlienTM cast), and all five Survivor mode packs, including Corporate Lockdown, Trauma, Safe Haven, Lost Contact and The Trigger.",
+                    "description": "Vencedor de mais de 50 prêmios de Jogo do Ano.\n\nContém o jogo completo e sete pacotes de conteúdo adicional:\n\n* Last Survivor e Crew Expendable \\(com o elenco do AlienTM original\\)\n* Todos os cinco pacotes do modo Survivor, incluindo Corporate Lockdown, Trauma, Safe Haven, Lost Contact e The Trigger\n\nDescubra o verdadeiro significado do medo em Alien: Isolation, um jogo de horror e sobrevivência ambientado em uma atmosfera de medo constante e perigo mortal... Quinze anos após os acontecimentos de Alien™, Amanda, filha de Ellen Ripley, enfrenta uma batalha desesperada pela sobrevivência em uma missão para descobrir a verdade sobre o desaparecimento da sua mãe.\n\nComo Amanda, você andará por um mundo cada vez mais volátil, com uma população desesperada em pânico e um alienígena imprevisível e implacável cercando você.\n\nEm desvantagem em termos de poder e preparação, você terá que procurar recursos, improvisar soluções e usar sua astúcia, não só para cumprir a sua missão, mas simplesmente para se manter com vida.\n\nCriado com CATHODE™ engine.\n\n",
+                    "shortDescription": "Contém o jogo completo e sete pacotes de conteúdo adicional: Last Survivor e Crew Expendable (com o elenco do AlienTM original), e os cinco pacotes do modo Survivor, incluindo Corporate Lockdown, Trauma, Safe Haven, Lost Contact e The Trigger.",
                     "title": "Alien: Isolation - The Collection",
                     "developerLogo": {
                         "_type": "Diesel Image"

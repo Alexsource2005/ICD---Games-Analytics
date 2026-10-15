@@ -58,12 +58,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/pillars-of-eternity",
+    "_urlPattern": "/pt-BR/productv2/pillars-of-eternity",
     "_slug": "pillars-of-eternity",
     "_activeDate": "2020-11-20T16:42:06.043Z",
-    "lastModified": "2021-02-04T02:30:33.698Z",
-    "_locale": "en-US",
-    "_id": "56f84123-128a-4959-bffd-27741741f924",
+    "lastModified": "2020-11-20T16:43:14.204Z",
+    "_locale": "pt-BR",
+    "_id": "2c9410fd-e3e5-4c55-9ec6-afd894a8c538",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -133,12 +133,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/pillars-of-eternity/home",
+            "_urlPattern": "/pt-BR/productv2/pillars-of-eternity/home",
             "_slug": "home",
             "_activeDate": "2020-11-20T16:43:16.138Z",
-            "lastModified": "2021-03-05T19:58:14.776Z",
-            "_locale": "en-US",
-            "_id": "c336dc22-cb16-42fc-b06d-1def427d4109",
+            "lastModified": "2020-11-20T16:55:40.696Z",
+            "_locale": "pt-BR",
+            "_id": "9e73bdee-01b7-4873-bd98-1a29bf1783f8",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -154,24 +154,14 @@
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins",
-                    "links": [
-                        {
-                            "src": "https://www.paradoxplaza.com/support-static-info-ca.html",
-                            "_type": "Diesel Link",
-                            "title": "Customer Support"
-                        }
-                    ]
-                },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
                     "linkHomepage": "https://eternity.obsidian.net/eternity"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, French, Italian, Spanish - Spain, Russian, Polish, German"
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, italiano, espanhol (Espanha), russo, polonês, alemão"
                     ],
                     "systems": [
                         {
@@ -180,38 +170,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows Vista 64-bit or newer",
-                                    "recommended": "Windows Vista 64-bit or newer"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows Vista de 64 bits ou mais recente",
+                                    "recommended": "Windows Vista de 64 bits ou mais recente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i3-2100T @ 2.50 GHz / AMD Phenom II X3 B73",
-                                    "recommended": "Intel Core i5-2400 @ 3.10 GHz / AMD Phenom II X6 1100T"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3-2100T de 2,50 GHz / AMD Phenom II X3 B73",
+                                    "recommended": "Intel Core i5-2400 de 3,10 GHz / AMD Phenom II X6 1100T"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": " 4 GB RAM",
-                                    "recommended": " 8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": " 14 GB available space",
-                                    "recommended": " 14 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "14 GB de espaço disponível",
+                                    "recommended": "14 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "ATI Radeon HD 4850 or NVIDIA GeForce 9600 GT",
-                                    "recommended": "Radeon HD 7700 or NVIDIA GeForce GTX 570"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "ATI Radeon HD 4850 ou NVIDIA GeForce 9600 GT",
+                                    "recommended": "Radeon HD 7700 ou NVIDIA GeForce GTX 570"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": " DirectX Compatible Sound Card"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som compatível com DirectX"
                                 }
                             ]
                         }
@@ -232,6 +222,16 @@
                         ]
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "src": "https://www.paradoxplaza.com/support-static-info-ca.html",
+                            "_type": "Diesel Link",
+                            "title": "Atendimento ao Cliente"
+                        }
+                    ]
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -247,11 +247,11 @@
                         "src": "https://cdn2.unrealengine.com/egs-pillarsofeternitydefinitiveedition-obsidianentertainment-s2-1200x1600-589086636.jpg",
                         "_type": "Diesel Image"
                     },
-                    "developerAttribution": " Obsidian Entertainment",
+                    "developerAttribution": "Obsidian Entertainment",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Paradox Interactive",
-                    "description": "Obsidian Entertainment, the developer of The Outer Worlds, Fallout: New Vegas™ and South Park: The Stick of Truth™, together with Paradox Interactive present an unforgettable adventure in the incredible world of Eora where the choices you make will shape your destiny.\n\nRediscover the exhilarating sensation of exploration, the joy of a thrilling adventure, and the excitement of leading your own group of companions to discover a new fantasy realm. A realm filled with dungeons infested with monstrous creatures, lost treasures, ancient mysteries, and a thrilling tale where your choices matter. \n\nThe Definitive Edition includes the award-winning Pillars of Eternity game and expansions, The White March: Parts I & II, bonus content from the Royal Edition, and a bundle of content called the “Deadfire Pack,” inspired by the game’s sequel, Pillars of Eternity II: Deadfire.\n\n# Features of Pillars of Eternity: Definitive Edition:\n\n●\tPlay as one of six races: Human, Aumaua, Dwarf, Elf, Godlike, and Orlan.\n●\tExtensive Avatar Customization: Develop your character from one of eleven classes such as Barbarian, Chanter, Cipher, Druid, Fighter, Monk, Paladin, Priest, Ranger, Rogue, and Wizard.\n●\tShape Your Own Story: Forge alliances with various factions through a reputation system where your actions and choices will have a profound impact on the world.\n●\tExplore a rich and varied world: Breathtaking pre-rendered environments, compelling story and characters bring this fabulous kingdom to life.\n●\tGo on an expedition to new regions and meet new companions in The White March: Parts I & II, game expansions and experience never-before-seen stories and adventures.\n●\tThe all-new Deadfire Pack DLC, which includes new in-game items to earn and discover, and new portraits from the sequel, Pillars of Eternity II: Deadfire.\n●\tThe original soundtrack, a digital illustration book, and many other surprises.\n",
-                    "shortDescription": "Experience the game that revitalized the classic RPG genre in a complete and definitive package that includes every expansion, bonus, and update, presenting Pillars of Eternity at its best.",
+                    "description": "Obsidian Entertainment, o desenvolvedor de Fallout: New Vegas™ e South Park: The Stick of Truth™, e a Paradox Interactive apresentam o original e incrível mundo de Eora, e te levam para uma aventura inesquecível onde as escolhas que você faz e os caminhos que você escolhe definem o seu destino.\n\nReviva o sentido profundo da exploração, a alegria de uma aventura pulsante e a emoção de liderar o seu próprio bando de companheiros através de um novo reino de fantasia, e mergulhe nas profundezas de masmorras infestadas de monstros na busca por tesouros perdidos e mistérios ancestrais. A Definitive Edition inclui o premiado Pillars of Eternity juntamente com suas expansões, The White March: Partes I & II, assim como todo o conteúdo bônus da Royal Edition.\n\n# Pillars of Eternity: Definitive Edition apresenta:\n\nJogue como qualquer uma das seis raças: Humana (Human), Aumaua (Aumaua), Anões (Dwarf), Elfos (Elf), Divina (Godlike) e Orlan (Orlan).\nCustomização profunda de personagem: construa um personagem que seja parte de uma das onze classes, como o Bárbaro (Barbarian), Chantre (Chanter), Decifrador (Cipher), Druida (Druid), Lutador (Fighter), Monge (Monk), Paladino (Paladin), Sacerdote (Priest), Explorador (Ranger), Ladino (Rogue) e Bruxo (Wizard). \nDê forma a sua própria história: alie-se a diversas facções usando um sistema de reputação, no qual as suas ações e escolhas têm consequências significativas.\nExplore um mundo rico e diverso: lindos ambientes pré-renderizados ornados com uma história e personagens envolventes dão vida ao universo.\n\nViaje para novas regiões e conheça novos companheiros em The White March: Partes I & II, os capítulos de expansão do jogo, e encontre novas histórias para vivenciar.\nA trilha sonora original, o livro digital de colecionador, uma novela e muito, muito mais.",
+                    "shortDescription": "Vivencie o jogo que revitalizou o clássico gênero RPG em um pacote completo e definitivo que inclui todas as expansões, bônus e atualizações, apresentando Pillars of Eternity no seu melhor.",
                     "title": "Pillars of Eternity - Definitive Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -396,7 +396,7 @@
                         "_type": "Epic Store Image"
                     },
                     "developer": [
-                        " Obsidian Entertainment"
+                        "Obsidian Entertainment"
                     ],
                     "customReleaseDate": "",
                     "platform": [

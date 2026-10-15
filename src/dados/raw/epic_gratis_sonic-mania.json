@@ -73,12 +73,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/sonic-mania",
+    "_urlPattern": "/pt-BR/productv2/sonic-mania",
     "_slug": "sonic-mania",
     "_activeDate": "2020-08-12T22:49:58.519Z",
-    "lastModified": "2021-06-17T14:25:58.531Z",
-    "_locale": "en-US",
-    "_id": "a6fc8aa2-e1fd-43d8-ae50-4cf0a462dffb",
+    "lastModified": "2021-06-16T19:23:35.325Z",
+    "_locale": "pt-BR",
+    "_id": "deae89b4-6865-4b56-9da9-55fa60e94c32",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -170,12 +170,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/sonic-mania/home",
+            "_urlPattern": "/pt-BR/productv2/sonic-mania/home",
             "_slug": "home",
             "_activeDate": "2020-08-12T22:51:36.039Z",
-            "lastModified": "2025-11-18T16:56:07.176Z",
-            "_locale": "en-US",
-            "_id": "b84303ec-edf0-4249-bdd6-e918b29208f5",
+            "lastModified": "2021-06-16T18:35:02.762Z",
+            "_locale": "pt-BR",
+            "_id": "c9b0a3ae-b005-494f-a400-410c48c8ee1d",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -191,32 +191,17 @@
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins",
-                    "links": [
-                        {
-                            "src": "https://www.sega.com/sonic_mania_open_source_and_third_party_software",
-                            "_type": "Diesel Link",
-                            "title": "OSS/3rd party:"
-                        },
-                        {
-                            "src": "https://www.sega.com/EULA",
-                            "_type": "Diesel Link",
-                            "title": "EULA"
-                        }
-                    ]
-                },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/sonic_hedgehog",
                     "linkFacebook": "https://www.facebook.com/Sonic",
                     "_type": "Diesel Social Links",
-                    "title": "Follow Sonic Mania",
+                    "title": "Siga Sonic Mania",
                     "linkHomepage": "https://www.sonicthehedgehog.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, French, German, Italian, Spanish - Spain, Japanese, Korean, Chinese - Simplified, Chinese - Traditional"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, alemão, italiano, espanhol (Espanha), japonês, coreano, chinês simplificado, chinês tradicional"
                     ],
                     "systems": [
                         {
@@ -225,33 +210,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 8 /10",
-                                    "recommended": "Windows 8 /10"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 8 / 10",
+                                    "recommended": "Windows 8 / 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Core 2 Duo",
                                     "recommended": "Core 2 Duo"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "2 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "2 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "400 MB available space",
-                                    "recommended": "400 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB de espaço disponível",
+                                    "recommended": "400 MB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 9.0c",
-                                    "recommended": "Version 9.0c"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 9.0c",
+                                    "recommended": "Versão 9.0c"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
@@ -267,6 +252,21 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "src": "https://www.sega.com/sonic_mania_open_source_and_third_party_software",
+                            "_type": "Diesel Link",
+                            "title": "OSS/3rd party:"
+                        },
+                        {
+                            "src": "https://www.sega.com/EULA",
+                            "_type": "Diesel Link",
+                            "title": "EULA"
+                        }
+                    ]
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -274,7 +274,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.sega.com/Privacy",
                         "_type": "Diesel Link",
-                        "title": "SEGA Privacy Policy"
+                        "title": "Política de Privacidade da SEGA"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -286,8 +286,8 @@
                     "developerAttribution": "Lab42",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "SEGA",
-                    "description": "The ultimate celebration of past and future. An all-new adventure full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Sonic Mania brings retro fast-paced platforming into the future through pixel perfect 2D graphics running at 60FPS.",
-                    "shortDescription": "The ultimate celebration of past and future. An all-new adventure full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Sonic Mania brings retro fast-paced platforming into the future through pixel perfect 2D graphics running at 60FPS.",
+                    "description": "A maior celebração do passado e do futuro. Uma aventura novinha em folha, com chefes únicos, cenários 2D com subidas e descidas e jogabilidade clássica e divertida. Sonic Mania traz as plataformas retrô de alta velocidade para o futuro usando gráficos 2D perfeitos, exibidos a 60 FPS.",
+                    "shortDescription": "A maior celebração do passado e do futuro. Uma aventura novinha em folha, com chefes únicos, cenários 2D com subidas e descidas e jogabilidade clássica e divertida. Sonic Mania traz as plataformas retrô de alta velocidade para o futuro usando gráficos 2D perfeitos, exibidos a 60 FPS.",
                     "title": "Sonic Mania",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -389,9 +389,6 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
@@ -440,11 +437,11 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
-                            "description": "Upgrade your Sonic Mania experience with the Encore DLC pack. Get access to two new characters, four player competition mode, and all-new Encore mode that adds a fresh look to familiar locations while challenging new and veteran players alike!",
+                            "description": "Aprimore a sua experiência de Sonic Mania com o pacote DLC Encore. Acesse dois novos personagens, o modo competitivo para quatro jogadores e o novíssimo modo Encore, que dá um visual novo a lugares conhecidos, além de desafiar jogadores novos e experientes!",
                             "offerId": "93005b3ae6774dacb4c7a7f89462d3dd",
                             "tag": "dlc",
-                            "title": "Sonic Mania - Encore DLC",
                             "type": "addon",
+                            "title": "Sonic Mania - DLC Encore",
                             "slug": "product/sonic-mania/encore-dlc"
                         }
                     ],
@@ -532,7 +529,6 @@
                 },
                 "navTitle": "Sonic Mania"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"

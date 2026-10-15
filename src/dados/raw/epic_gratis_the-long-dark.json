@@ -61,12 +61,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/the-long-dark",
+    "_urlPattern": "/pt-BR/productv2/the-long-dark",
     "_slug": "the-long-dark",
     "_activeDate": "2020-12-19T15:55:00.000Z",
-    "lastModified": "2020-12-17T23:16:33.472Z",
-    "_locale": "en-US",
-    "_id": "0ee37e09-a8d2-4358-a584-345f1fe4e989",
+    "lastModified": "2020-12-17T22:30:00.742Z",
+    "_locale": "pt-BR",
+    "_id": "db8e2407-f8e1-4474-92b6-e50148ff6c83",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -108,12 +108,11 @@
             "_noIndex": false,
             "_images_": [
                 "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-03-1920x1080-4fe2276488e5.jpg",
-                "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s2-1200x1600-e71ed330d655.jpg",
-                "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-ic1-400x400-405bf82b08c0.png",
+                "https://cdn2.unrealengine.com/d1660631-674c-429d-bc47-d07f58943887-745x298-170607cd28cc.png",
                 "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-00-1920x1080-03f9b8d941e1.jpg",
                 "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-02-1920x1080-fd4270e09ceb.jpg",
                 "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-04-1920x1080-58d8a3e14755.jpg",
-                "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s1-2560x1440-07b8276ea4da.jpg",
+                "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s6-1200x1600-33694588c5cd.jpg",
                 "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-05-1920x1080-cb846d088fff.jpg",
                 "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-01-1920x1080-a8e3cbd83af4.jpg"
             ],
@@ -138,12 +137,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/the-long-dark/home",
+            "_urlPattern": "/pt-BR/productv2/the-long-dark/home",
             "_slug": "home",
             "_activeDate": "2020-12-19T15:55:00.000Z",
-            "lastModified": "2026-04-03T19:24:46.590Z",
-            "_locale": "en-US",
-            "_id": "f77d909e-b0b6-483e-bffc-f5e55bdeebef",
+            "lastModified": "2020-12-17T22:30:08.775Z",
+            "_locale": "pt-BR",
+            "_id": "28254e1c-031f-47b7-bd05-2b67339a31ae",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -163,11 +162,6 @@
                     "_type": "Diesel Product Lins",
                     "links": [
                         {
-                            "src": "https://hinterlandgames.com/",
-                            "_type": "Diesel Link",
-                            "title": "Hinterland Studio"
-                        },
-                        {
                             "src": "https://www.thelongdark.com",
                             "_type": "Diesel Link",
                             "title": "The Long Dark"
@@ -179,14 +173,14 @@
                     "linkFacebook": "https://www.facebook.com/HinterlandGames/",
                     "linkYoutube": "https://www.youtube.com/channel/UCUH0Ek73AFT3yVCh80_b8dg",
                     "_type": "Diesel Social Links",
-                    "title": "The Long Dark",
+                    "title": "Siga The Long Dark",
                     "linkHomepage": "https://www.thelongdark.com",
                     "linkInstagram": "https://www.instagram.com/hinterlandgames"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, Dutch, French, Russian, Spanish - Spain, Portuguese - Brazil, Portuguese, Spanish - Latin America, Korean, Japanese, Italian, German, Danish, Swedish, Ukrainian"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, holandês, francês, russo, espanhol (Espanha), português (Brasil), português, espanhol (América Latina), coreano, japonês, italiano, alemão, dinamarquês, sueco, ucraniano"
                     ],
                     "systems": [
                         {
@@ -195,38 +189,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Win 7",
-                                    "recommended": "Win 10"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Dual-Core Intel i5 CPU @ 2GHz+",
-                                    "recommended": "Intel i7 CPU @ 2.6GHz or higher"
+                                    "title": "Processador",
+                                    "minimum": "CPU Intel i5 dual-core de 2 GHz ou mais",
+                                    "recommended": "CPU Intel i7 de 2,6 GHz ou mais"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Directx 11"
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": " Intel 4xxx Series w/ 512MB VRAM or better",
-                                    "recommended": "nVidia GTX 1060+"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel série 4xxx com 512 MB de VRAM ou superior",
+                                    "recommended": "Nvidia GTX 1060 ou superior"
                                 }
                             ]
                         },
@@ -236,33 +230,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "OSX 10.9.3",
                                     "recommended": "OSX 10.9.3"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Core i5 @ 2.2GHz",
-                                    "recommended": "Core i7 @ 2.7GHz+"
+                                    "title": "Processador",
+                                    "minimum": "Core i5 de 2,2 GHz",
+                                    "recommended": "Core i7 de 2,7 GHz ou mais"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "Intel HD Graphics 5000",
-                                    "recommended": "Dedicated standalone GPU w/ 1GB+ VRAM"
+                                    "recommended": "Placa de vídeo dedicada com 1 GB de VRAM ou mais"
                                 }
                             ]
                         }
@@ -273,28 +267,27 @@
                         "_type": "Diesel Rating"
                     }
                 },
-                "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
                     "copy": "THE LONG DARK ©2012-2025 Hinterland Studio Inc. \"THE LONG DARK\", \"WINTERMUTE\", \"Hinterland\" and the H logo are registered trademarks or trademarks of Hinterland Studio Inc. All rights reserved.",
                     "privacyPolicyLink": {
                         "src": "https://hinterlandgames.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Hinterland Games Privacy Policy"
+                        "title": "Política de Privacidade da Hinterland Games"
                     }
                 },
                 "_type": "Diesel Product Detail",
                 "about": {
                     "image": {
-                        "src": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s2-1200x1600-e71ed330d655.jpg",
+                        "src": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s6-1200x1600-33694588c5cd.jpg",
                         "_type": "Diesel Image"
                     },
                     "developerAttribution": "Hinterland Studio Inc.",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Hinterland Studio Inc.",
-                    "description": "#Welcome to the Quiet Apocalypse\n\nBright lights flare across the night sky. The wind rages outside the thin walls of your wooden cabin. A wolf howls in the distance. You look at the meager supplies in your pack, and wish for the days before the power mysteriously went out. How much longer will you survive?\n\nWelcome to THE LONG DARK, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\".\n\nThe Long Dark is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.\n\n# WINTERMUTE\n\nThe episodic story-mode for The Long Dark, WINTERMUTE, includes two of the five episodes that form its Season One. Both episodes were given a complete overhaul in December 2018, as part of the Redux Update: new mission structure, story beats, dialogue, animations etc.\n\n# EPISODE ONE - “Do Not Go Gentle”\n\nBush pilot Will Mackenzie (player character) and Dr. Astrid Greenwood are separated after their plane crashes deep in the Northern Canadian wilderness in the aftermath of a mysterious flash of light in the sky. Struggling to survive as he desperately searches for Astrid, Mackenzie comes across the small town of Milton, where he begins to understand the scope of this quiet apocalypse.\n\n# EPISODE TWO - “Luminance Fugue”\n\nMackenzie’s search for Astrid takes him deeper into the savage Winter wilderness. A mysterious trapper may be the key to finding Astrid, but can he be trusted?\n\n# EPISODE THREE - \"Crossroads Elegy\"\n\nIn the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood (player character) from near death. Facing the blizzards of Pleasant Valley, Astrid must bring all her skills as a doctor to bear on the survivors she encounters. But will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?\n\n# EPISODE FOUR: FURY, THEN SILENCE\n\nA murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?\n\nThe four episodes of WINTERMUTE represent approximately 30 hours of gameplay. Episodes Five will be included in the price of the game, and will be unlocked for free as they are released.\n\nFeatures performances by Jennifer Hale, Mark Meer, David Hayter, and Elias Toufexis (Episode Three), and the music of Cris Velasco.\n\n# SURVIVAL MODE\n\nSurvival is your only goal, and death your only end. Make your own survival story with every game.\n\nFour distinct Experience Modes let you find a challenge level you are comfortable with, such as Pilgrim Mode, which is meant to be quiet and pensive, all the way to Interloper Mode, where only the most experienced survivors have a chance to last a week. If none of the four Experiences suits you, use Custom Mode settings to tailor your Survival Mode game to your specific tastes.\n\nFeatures the music of Sascha Dikiciyan.\n\n# CHALLENGES\n\nSeveral standalone Challenge Modes offer objective-based experiences designed to last 1-3 hours each, such as Whiteout -- the race to gather enough supplies to prepare for a monster blizzard. Or Hunted, where you need to escape a murderous Bear. Complete them to unlock Feats that provide long-term gameplay benefits in Survival Mode. Five Challenges exist at launch, with more on the way in future updates.\n\n# FUTURE UPDATES\n\nIn addition to releasing the remaining three episodes of WINTERMUTE, we intend to continue updating Survival Mode, as we have done with about 100 updates/hotfixes over the past three years of Early Access. Keep in mind that your purchase of The Long Dark entitles you to all five episodes of WINTERMUTE, as well as the free updates we release to Survival Mode along the way.",
-                    "shortDescription": "A thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. Only you, the cold, and all the threats Mother Nature can muster.",
-                    "title": "The Long Dark",
+                    "description": "Luzes intensas brilham no céu à noite. O vento forte sopra do lado de fora das paredes finas da sua cabana de madeira. Um lobo uiva ao longe. Você olha para os suprimentos escassos na sua mochila e sonha com os dias que antecederam a misteriosa queda de energia. Por mais quanto tempo você vai sobreviver?\n\nBoas-vindas a THE LONG DARK, a experiência inovadora de sobrevivência e exploração que a revista Wired chama de \"auge de um gênero inteiro\".\n\nThe Long Dark é uma experiência de sobrevivência e exploração que exige atenção e desafia os jogadores a pensar por si mesmos conforme exploram uma extensa área deserta congelada após um desastre geomagnético. Não existem zumbis, só você, o frio e todas as ameaças que a Mãe Natureza é capaz de reunir.\n\n# WINTERMUTE\n\nO modo de história em episódios de The Long Dark, WINTERMUTE, inclui dois dos cinco episódios que compõem a Primeira Temporada. Os dois episódios receberam uma reformulação completa em dezembro de 2018, como parte da Atualização Redux: nova estrutura de missões, unidades de história, diálogo, animações etc.\n\n# EPISÓDIO UM – \"Do Not Go Gentle\"\n\nO piloto Will Mackenzie (personagem do jogador) e a Dra. Astrid Greenwood se separam depois que o avião deles cai na região selvagem do norte canadense após um misterioso raio de luz no céu. Lutando para sobreviver enquanto procura por Astrid desesperadamente, Mackenzie se depara com a pequena cidade de Milton, onde começa a entender a abrangência desse apocalipse silencioso.\n\n# EPISÓDIO DOIS – \"Luminance Fugue\"\n\nA busca de Mackenzie por Astrid o leva cada vez mais para as profundezas da natureza selvagem do Inverno. Um caçador misterioso pode ser a chave para encontrar Astrid, mas será que ele é confiável?\n\n# EPISÓDIO TRÊS – \"Crossroads Elegy\"\n\nApós os eventos em Milton, um enigmático desconhecido resgata a Dra. Astrid Greenwood (personagem do jogador) que estava à beira da morte. Enfrentando as nevascas de Pleasant Valley, Astrid deve usar todas as suas habilidades médicas para ajudar os sobreviventes que encontra. Mas será que ela vai encontrar Mackenzie e aproximar-se do mistério que está levando os dois para Perseverance Mills?\n\nOs dois primeiros episódios de WINTERMUTE representam aproximadamente 15 horas de jogo. Os episódios três a cinco estão incluídos no preço do jogo e serão desbloqueados gratuitamente conforme forem lançados.\n\nCom dublagem de Jennifer Hale, Mark Meer, David Hayter e Elias Toufexis (Episódio Três), e música de Cris Velasco.\n\n# MODO DE SOBREVIVÊNCIA\n\nA sobrevivência é seu único objetivo e a morte, seu único fim. Crie sua própria história de sobrevivência a cada jogo.\n\nCom quatro Modos de Experiência diferentes, é possível encontrar um nível de desafio confortável para você, como o Modo Pilgrim, que pretende ser silencioso e pensativo, até o Modo Interloper, no qual apenas os sobreviventes mais experientes têm chance de durar uma semana. Se nenhuma das quatro Experiências for a certa para você, use o Modo de Personalização para customizar seu jogo no Modo de Sobrevivência de acordo com seus gostos.\n\nCom música de Sascha Dikiciyan.\n\n# DESAFIOS\n\nDiversos Modos de Desafio individuais oferecem experiências com base em objetivos criadas para durar de 1 a 3 horas cada, como Whiteout – a corrida para coletar suprimentos suficientes e se preparar para uma nevasca monstruosa. Ou Hunted, no qual você precisa escapar de um urso assassino. Complete os modos para desbloquear Façanhas que oferecem benefícios de longo prazo no Modo de Sobrevivência. São cinco desafios no lançamento, com mais a caminho nas próximas atualizações.\n\n# PRÓXIMAS ATUALIZAÇÕES\n\nAlém do lançamento dos três outros episódios de WINTERMUTE, pretendemos continuar atualizando o Modo de Sobrevivência, como fizemos com quase 100 atualizações/hotfixes nos últimos três anos do Acesso Antecipado. Lembre-se de que sua compra de The Long Dark dá direito aos cinco episódios de WINTERMUTE, bem como às atualizações para o Modo de Sobrevivência lançadas ao longo do tempo.",
+                    "shortDescription": "Uma experiência de sobrevivência e exploração que exige atenção e desafia os jogadores a pensar por si mesmos conforme exploram uma extensa área deserta congelada após um desastre geomagnético. Só você, o frio e todas as ameaças que a Mãe Natureza é capaz de reunir.",
+                    "title": "Boas-vindas ao Apocalipse Silencioso",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -308,10 +301,10 @@
                 },
                 "hero": {
                     "logoImage": {
-                        "src": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-ic1-400x400-405bf82b08c0.png",
+                        "src": "https://cdn2.unrealengine.com/d1660631-674c-429d-bc47-d07f58943887-745x298-170607cd28cc.png",
                         "_type": "Diesel Image"
                     },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s2-1200x1600-e71ed330d655.jpg",
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s6-1200x1600-33694588c5cd.jpg",
                     "_type": "Diesel Hero",
                     "action": {
                         "_type": "Diesel Action"
@@ -324,10 +317,9 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "title": "The Long Dark",
                     "isFullBleed": false,
                     "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s1-2560x1440-07b8276ea4da.jpg"
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-00-1920x1080-03f9b8d941e1.jpg"
                 },
                 "carousel": {
                     "_type": "Diesel Carousel",
@@ -459,15 +451,12 @@
                         }
                     ]
                 },
-                "experiences": {
-                    "_type": "Epic Store Experience"
-                },
                 "editions": {
                     "_type": "Epic Store Editions",
                     "enableImages": false
                 },
                 "meta": {
-                    "releaseDate": "2020-12-18T22:00:00.000Z",
+                    "releaseDate": "2014-09-22T15:00:00.000Z",
                     "_type": "Epic Store Meta",
                     "publisher": [
                         "Hinterland Studio Inc."
@@ -478,7 +467,6 @@
                     "developer": [
                         "Hinterland Studio Inc."
                     ],
-                    "customReleaseDate": "Coming Soon",
                     "platform": [
                         "Windows",
                         "Mac"
@@ -514,7 +502,7 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "title": "The Long Dark | Download and Buy Today - Epic Games Store"
+                    "title": "The Long Dark | Baixe e compre hoje – Epic Games Store"
                 },
                 "productSections": [
                     {
@@ -555,7 +543,6 @@
                 },
                 "navTitle": "The Long Dark"
             },
-            "overwriteMapping": false,
             "ageGate": {
                 "hasAgeGate": false,
                 "_type": "Epic Store Age Gate"

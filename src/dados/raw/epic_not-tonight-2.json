@@ -3,10 +3,6 @@
         "_type": "Epic Store Product Ratings"
     },
     "disableNewAddons": false,
-    "modMarketplaceEnabled": false,
-    "_title": "Not Tonight 2",
-    "regionBlock": "KR",
-    "_noIndex": false,
     "pageTheme": {
         "light": {
             "_type": "Epic Store Page Theme Selection"
@@ -16,20 +12,23 @@
             "_type": "Epic Store Page Theme Selection"
         }
     },
+    "modMarketplaceEnabled": false,
     "namespace": "eb815835951e4165854edf057dfbacdd",
+    "_title": "Not Tonight 2",
     "theme": {
         "_type": "Diesel Theme"
     },
+    "_noIndex": false,
     "reviewOptOut": false,
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/not-tonight-2",
+    "_urlPattern": "/pt-BR/productv2/not-tonight-2",
     "_slug": "not-tonight-2",
     "_activeDate": "2021-08-09T17:24:27.430Z",
-    "lastModified": "2022-09-08T13:39:26.256Z",
-    "_locale": "en-US",
-    "_id": "6c0f18d8-86b1-483f-b06d-d608646511dd",
+    "lastModified": "2021-08-09T17:26:01.243Z",
+    "_locale": "pt-BR",
+    "_id": "7c371f20-166f-42b4-b29d-33d84bf83d65",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -37,10 +36,6 @@
                 "_type": "Epic Store Product Ratings"
             },
             "disableNewAddons": false,
-            "modMarketplaceEnabled": false,
-            "_title": "home",
-            "regionBlock": "KR",
-            "_noIndex": false,
             "pageTheme": {
                 "light": {
                     "_type": "Epic Store Page Theme Selection"
@@ -50,20 +45,23 @@
                     "_type": "Epic Store Page Theme Selection"
                 }
             },
+            "modMarketplaceEnabled": false,
             "namespace": "eb815835951e4165854edf057dfbacdd",
+            "_title": "home",
             "theme": {
                 "_type": "Diesel Theme"
             },
+            "_noIndex": false,
             "reviewOptOut": false,
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/not-tonight-2/home",
+            "_urlPattern": "/pt-BR/productv2/not-tonight-2/home",
             "_slug": "home",
             "_activeDate": "2021-08-09T17:26:04.479Z",
-            "lastModified": "2022-02-11T17:47:04.877Z",
-            "_locale": "en-US",
-            "_id": "99a246b0-ce08-47fd-9fd5-7d05b38d11da",
+            "lastModified": "2021-08-10T19:50:19.608Z",
+            "_locale": "pt-BR",
+            "_id": "8a9bbc78-f40e-420e-bb54-e30a046e9ddf",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -90,37 +88,37 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, Chinese - Simplified, German, French, Spanish - Spain",
-                        "Text: English, Chinese - Simplified, German, French, Spanish - Spain"
+                        "Áudio: inglês, chinês simplificado, alemão, francês, espanhol (Espanha)",
+                        "Texto: inglês, chinês simplificado, alemão, francês, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
-                            "systemType": "Windows",
                             "_type": "Diesel System Detail",
+                            "systemType": "Windows",
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema Operacional",
                                     "minimum": "Windows 8",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel Core i5",
-                                    "recommended": "High-range Intel Core i5"
+                                    "recommended": "Intel Core i5 de frequência alta"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "3",
                                     "recommended": "3"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 550/equivalent or higher",
-                                    "recommended": "NVIDIA GeForce GTX 760/equivalent or higher"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 550/equivalente ou superior",
+                                    "recommended": "NVIDIA GeForce GTX 760/equivalente ou superior"
                                 }
                             ]
                         }
@@ -148,8 +146,8 @@
                     "developerAttribution": "PanicBarn",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "No More Robots",
-                    "description": "_Immigration Enforcement Case #112: You are under arrest. Unless your friends can cross a broken America, retrieve your identifying documents and stay out of trouble... this is the end of the American dream for you._\n\nIn an alternative broken America, where capitalism and political greed have taken center stage, your friend has gone missing. Snatched during a protest, Eduardo Suarez has been seized by the authorities, and now sits ready for processing in the Miami gulag.\n\nNot Tonight 2 is an American document-checking road trip, fusing a time-pressure RPG with a politically charged, dark comedy where every decision matters. Will Eduardo's friends Malik, Kevin and Mari manage to locate and deliver his documents to Miami in time, or this the end of the American dream?\n\n- Three branching stories, written by a team of POC authors\n- Make your way across America, making terrifying decisions along the way\n- Work the doors of clubs, churches, race tracks, casinos, and cults\n- Check IDS, while completing a variety of silly, poignant minigames\n- Rhythm games, word association, serving burgers, assessing religion, checking chickens, and more ",
-                    "shortDescription": "Immigration Enforcement Case #112: You are under arrest. Unless your friends can cross a broken America, retrieve your identifying documents and stay out of trouble... this is the end of the American dream for you.",
+                    "description": "_Cumprimento do caso de imigração nº 112: Você está preso. A menos que seus amigos consigam cruzar uma América destruída, recuperar seus documentos de identificação e ficar longe de problemas... este é o fim do sonho americano para você._\n\nEm uma América alternativa e corrompida, onde o capitalismo e a ganância política ocuparam o centro do palco, seu amigo desapareceu. Capturado durante um protesto, Eduardo Suarez foi preso pelas autoridades e agora está pronto para ser processado no campo de trabalhos forçados de Miami.\n\nNot Tonight 2 é uma viagem pelas estradas americanas para verificação de documentos, misturando um RPG com base na pressão de tempo e comédia de humor ácido politicamente carregado, onde todas as decisões são importantes. Será que os amigos de Eduardo, Malik, Kevin e Mari, conseguirão localizar e entregar seus documentos em Miami a tempo, ou será o fim do sonho americano?\n\n- Três histórias ramificadas, escritas por uma equipe de autores inter-raciais\n- Aventure-se através dos Estados Unidos, tomando decisões aterrorizantes ao longo do caminho\n- Trabalhe nas portas de clubes, igrejas, pistas de corrida, cassinos e cultos\n- Verifique identidades enquanto completa uma variedade de minijogos simples e comoventes\n- Desempenhe jogos de ritmo, associação de palavras, sirva hambúrgueres, avalie a religião, verifique galinhas e muito mais ",
+                    "shortDescription": "Cumprimento do caso de imigração nº 112: Você está preso. A menos que seus amigos consigam cruzar uma América destruída, recuperar seus documentos de identificação e ficar longe de problemas... este é o fim do sonho americano para você.",
                     "title": "Not Tonight 2",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -395,7 +393,7 @@
                     "logo": {
                         "_type": "Epic Store Image"
                     },
-                    "customReleaseDate": "Coming Soon"
+                    "customReleaseDate": "Em breve"
                 },
                 "markdown": {
                     "_type": "Epic Store Markdown"

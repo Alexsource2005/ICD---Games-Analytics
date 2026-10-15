@@ -24,12 +24,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/verdun",
+    "_urlPattern": "/pt-BR/productv2/verdun",
     "_slug": "verdun",
     "_activeDate": "2021-07-13T16:06:48.343Z",
     "lastModified": "2021-07-15T14:36:56.202Z",
-    "_locale": "en-US",
-    "_id": "9266b57d-4047-412e-9ac5-e86d8d5deb38",
+    "_locale": "pt-BR",
+    "_id": "9db199bb-c194-4dc4-ad85-f4e402eaa37c",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -58,27 +58,121 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/verdun/home",
+            "_urlPattern": "/pt-BR/productv2/verdun/home",
             "_slug": "home",
             "_activeDate": "2021-07-13T16:11:32.405Z",
-            "lastModified": "2024-03-13T21:14:25.232Z",
-            "_locale": "en-US",
-            "_id": "929f7b0b-eb8f-4d39-8d45-086467363b27",
+            "lastModified": "2024-03-11T16:32:15.763Z",
+            "_locale": "pt-BR",
+            "_id": "5de3519e-d7ab-4019-aca2-0baadf71e5ce",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins",
-                    "links": [
+                "requirements": {
+                    "languages": [
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, alemão, italiano, português, polonês, russo, espanhol (Espanha), chinês simplificado, japonês, turco, árabe"
+                    ],
+                    "systems": [
                         {
-                            "src": "https://www.ww1gameseries.com/",
-                            "_type": "Diesel Link",
-                            "title": "WW1 Game Series"
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "10.11 ou superior",
+                                    "recommended": "10.11 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940",
+                                    "recommended": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "12 GB de espaço disponível",
+                                    "recommended": "12 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo de 1 GB, GeForce GTX 960M, Radeon HD 7750 ou superior",
+                                    "recommended": "Placa de vídeo de 4 GB, GeForce GTX 960M, Radeon HD 7750 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "minimum": "Apenas multijogador, você deve ter uma conexão à Internet rápida e estável."
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 8/10",
+                                    "recommended": "Windows 8/10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940",
+                                    "recommended": "CPU Intel Core i5-2500K de 3,3 GHz, CPU AMD Phenom II X4 940"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "12 GB de espaço disponível",
+                                    "recommended": "12 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "10",
+                                    "recommended": "10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo de 1 GB, GeForce GTX 960M, Radeon HD 7750 ou superior",
+                                    "recommended": "Placa de vídeo de 4 GB, GeForce GTX 960M, Radeon HD 7750 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "minimum": "Apenas multijogador, você deve ter uma conexão à Internet rápida e estável."
+                                }
+                            ]
                         }
-                    ]
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
                 },
                 "socialLinks": {
                     "linkTwitter": "https://twitter.com/WW1GameSeries",
@@ -90,107 +184,6 @@
                     "linkReddit": "https://www.reddit.com/r/WW1GameSeries/",
                     "linkHomepage": "https://www.ww1gameseries.com/verdun/",
                     "linkInstagram": "https://www.instagram.com/blackmillgames/ "
-                },
-                "requirements": {
-                    "languages": [
-                        "Audio: English",
-                        "Text: English, French, German, Italian, Portuguese, Polish, Russian, Spanish - Spain, Chinese - Simplified, Japanese, Turkish, Arabic"
-                    ],
-                    "systems": [
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Mac",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "10.11+",
-                                    "recommended": "10.11+"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
-                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "12 GB available space",
-                                    "recommended": "12 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 1GB video card memory",
-                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
-                                }
-                            ]
-                        },
-                        {
-                            "_type": "Diesel System Detail",
-                            "systemType": "Windows",
-                            "details": [
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 8/10",
-                                    "recommended": "Windows 8/10"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",
-                                    "recommended": "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "12 GB available space",
-                                    "recommended": "12 GB available space"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "10",
-                                    "recommended": "10"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Geforce GTX 960M / Radeon HD 7750 or higher, 1GB video card memory",
-                                    "recommended": "Geforce GTX 960M / Radeon HD 7750 or higher, 4GB video card memory"
-                                },
-                                {
-                                    "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "Multiplayer only, make sure you have a stable and fast internet connection."
-                                }
-                            ]
-                        }
-                    ],
-                    "accountRequirements": "EPIC_ACCOUNT",
-                    "_type": "Diesel System Details",
-                    "rating": {
-                        "_type": "Diesel Rating"
-                    }
                 },
                 "navOrder": 1,
                 "footer": {
@@ -211,8 +204,8 @@
                     "developerAttribution": "BlackMill Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "BlackMill Games",
-                    "description": "# About Verdun\n\nThe game takes place on the Western Front between 1914 and 1918, in one of the bloodiest conflicts in world history - inspired by the infamous Battle of Verdun in 1916.\n\nVerdun is the first multiplayer FPS set in a realistic World War One setting, and is the game which started the WW1 Game series. The vicious close quarters nature of trench warfare means that skill with a bayonet can be as vital as good aim with a rifle. Other games in the series include Tannenberg, set on the Eastern Front, and Isonzo, featuring mountain warfare set on the Italian Front.\n\n# Key Features\n\n- Experience World War One gameplay: Accurate weaponry, poisonous gas with a claustrophobic gas mask experience, horrendous gore effects, and ferocious artillery barrages\n- Tactical squad-based FPS: 15 distinctive squad types representing soldiers from 5+ countries, each with distinct weapons and equipment\n- True trench warfare: Real-time dynamic frontline with momentum based attack and counter-attack gameplay\n- Authentic World War 1 setting: Typical WW1 music and style, historical battlefields representing the key theaters on the Western Front\n\n# Game Modes\n\nThe game offers 5 distinct game-modes with many historically accurate features such as realistic WW1 weaponry, authentic uniforms, horrendous gore, and maps based on the real battlefields of France and Belgium. The dynamic Frontlines game mode features 64 players taking turns to go over the top and attempt to capture the opposing trench line.\n\n[Hayden Dingman of PCWorld](https://www.pcworld.com/article/427511/verdun-review-a-thoughtful-squad-based-take-on-wwi.html) said \"Verdun's given me an excellent understanding of what a mess World War I was. Verdun's Frontlines mode really is sort of ingenious—and I think this is definitely one worth checking out.\"\n\n# Authentic WW1 Combat\n\nThe gameplay in this true WW1 battlefield experience is as immersive and gritty as it can get, with features such as optional realistic gore which portrays the true horror of the First World War and authentic weaponry including artillery and gas. Weapons need to be handled with skill - each gun handles differently and there are no floating crosshairs to aid your aim, along with realistic bullet physics to contend with.\n\nKeep your head down or quickly don your mask in the event of artillery strikes or gas attacks. This unforgiving war isn’t for the faint hearted!\n\n# Extensive Research\n\nFor Verdun, we carried out extensive field research at the battlefield itself and were advised by knowledgeable historians to make sure the individual elements in Verdun are as historically accurate as it can get. Uniforms have been recreated to the tiniest detail, the weapons are modeled to exact references and the maps use realistic props and terrain layouts. Everything has been tailored to recreate the grim atmosphere so typical of WW1, from the immersive interface and war torn maps to realistic sounds and voices that evoke the feeling of actually being there in the muddy trenches.",
-                    "shortDescription": "Merciless trench warfare immerses you and your squad in intense battles of attack and defense. Verdun is the first multiplayer FPS set in an authentic World War One setting offering a rarely seen battlefield experience.",
+                    "description": "# Sobre Verdun\n\nO jogo se passa na Frente Ocidental, entre 1914 e 1918, em um dos mais sangrentos conflitos da história mundial, inspirado na grande Batalha de Verdun de 1916.\n\nVerdun é o primeiro FPS multijogador em um cenário realista da Primeira Guerra Mundial e o jogo que deu início à WW1 Game Series. Os combates próximos são cruéis na guerra de trincheiras, por isso saber usar bem uma baioneta pode ser tão crucial quanto ter boa pontaria com um rifle. Outros jogos da série incluem Tannenberg, que se passa na Frente Oriental, e Isonzo, que chega em breve apresentando guerra de montanha durante a Frente Italiana.\n\n# Características principais\n\n- Experimente a jogabilidade da Primeira Guerra Mundial: armamentos realistas, experiência claustrofóbica com uma máscara para se proteger de gases venenosos, efeitos horrendos de violência e barragens de artilharia cruéis\n- FPS tático baseado em esquadrões: 15 tipos diferentes de esquadrões representando soldados de mais de cinco países, cada um com suas próprias armas e equipamentos\n- Verdadeira guerra de trincheiras: linha de frente dinâmica em tempo real com mecânica de ataques e contra-ataques que aproveitam os momentos da batalha\n- Ambientação autêntica da Primeira Guerra Mundial: música e estilo típicos da época, campos de batalha históricos que representam os principais palcos da Frente Ocidental\n\n# Modos de jogo\n\nO jogo tem cinco modos distintos com muitas características historicamente precisas da Primeira Guerra Mundial, como armas realistas, uniformes autênticos, violência e mapas baseados em campos de batalha reais da França e da Bélgica. O dinâmico modo Linhas de Frente tem 64 jogadores se revezando para dar o melhor de si e tentar capturar a trincheira adversária.\n\n# Combate autêntico da Primeira Guerra Mundial\n\nA jogabilidade nesta experiência autêntica nos campos de batalha da Primeira Guerra Mundial é totalmente imersiva e impactante, com recursos como a opção de usar detalhes sanguinolentos realistas que transmitem o verdadeiro horror da guerra e armamentos autênticos, incluindo artilharia e gás. É preciso habilidade para usar as armas. Cada uma tem sua própria forma de manuseio, e você não terá um retículo flutuante para ajudar a mirar, além de ter que lidar com uma física de projéteis realista.\n\nMantenha a cabeça baixa ou coloque rapidamente sua máscara caso a artilharia ataque ou em caso de ataque de gás. Essa guerra implacável é apenas para os fortes!\n\n# Pesquisa extensa\n\nPara o jogo Verdun, fizemos uma pesquisa de campo aprofundada no próprio campo de batalha e consultamos historiadores especialistas para garantir que cada elemento seja o mais historicamente preciso possível. Os uniformes foram recriados nos mínimos detalhes, modelamos as armas seguindo referências exatas e os mapas usam layouts de terreno e acessórios realistas. Tudo foi concebido para recriar a atmosfera sombria da Primeira Guerra Mundial, desde a interface imersiva e mapas devastados pelo combate até os sons e vozes realistas que evocam a sensação de estar de fato nas trincheiras cobertas de lama.",
+                    "shortDescription": "A impiedosa guerra de trincheiras coloca você e seu esquadrão no meio de intensas batalhas de ataque e defesa. Verdun é o primeiro FPS multijogador em um cenário realista da Primeira Guerra Mundial com uma experiência única em campo de batalha.",
                     "title": "Verdun",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -262,7 +255,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Verdun Trailer",
+                                "title": "Trailer de Verdun",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true
@@ -505,10 +498,6 @@
                     },
                     {
                         "productSection": "REQUIREMENTS",
-                        "_type": "Diesel Product Section"
-                    },
-                    {
-                        "productSection": "SOCIAL_LINKS",
                         "_type": "Diesel Product Section"
                     },
                     {

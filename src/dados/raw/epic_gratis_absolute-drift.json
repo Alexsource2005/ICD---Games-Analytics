@@ -39,12 +39,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/absolute-drift",
+    "_urlPattern": "/pt-BR/productv2/absolute-drift",
     "_slug": "absolute-drift",
     "_activeDate": "2021-02-05T20:49:08.536Z",
-    "lastModified": "2021-02-10T16:59:24.966Z",
-    "_locale": "en-US",
-    "_id": "a8ad1011-1e6d-4510-8aac-79f17b30955b",
+    "lastModified": "2021-02-05T20:49:37.658Z",
+    "_locale": "pt-BR",
+    "_id": "c2b939ba-53f7-4ce5-9962-55f08dd733d5",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -96,12 +96,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/absolute-drift/home",
+            "_urlPattern": "/pt-BR/productv2/absolute-drift/home",
             "_slug": "home",
             "_activeDate": "2021-02-05T20:49:40.305Z",
-            "lastModified": "2021-04-26T15:12:07.944Z",
-            "_locale": "en-US",
-            "_id": "ee60223c-efdc-4260-a788-1c9dc9f5d430",
+            "lastModified": "2021-02-05T21:18:08.404Z",
+            "_locale": "pt-BR",
+            "_id": "3d1332e4-9b1e-494d-bdf4-57a36a9284be",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -120,18 +120,10 @@
                 "productLinks": {
                     "_type": "Diesel Product Lins"
                 },
-                "socialLinks": {
-                    "linkTwitch": "https://www.twitch.tv/directory/game/art%20of%20rally/",
-                    "linkTwitter": "https://twitter.com/funselektor",
-                    "linkFacebook": "https://www.facebook.com/funselektor/",
-                    "_type": "Diesel Social Links",
-                    "linkDiscord": "https://discord.com/invite/TcRCrnh",
-                    "linkHomepage": "http://absolutedrift.com/"
-                },
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English"
+                        "Áudio: inglês",
+                        "Texto: inglês"
                     ],
                     "systems": [
                         {
@@ -140,33 +132,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "OSX 10.0+ (64-bit Systems Only)",
-                                    "recommended": "Requires a 64-bit processor and operating system"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "OSX 10.0+ (Apenas sistemas de 64 bits)",
+                                    "recommended": "Requer processador e sistema operacional de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2.2 GHz Dual Core",
-                                    "recommended": "2.9 GHz Dual Core"
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 2,2 GHz",
+                                    "recommended": "Dual Core de 2,9 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "350 MB of available space",
-                                    "recommended": "400 MB of available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "350 MB de espaço disponível",
+                                    "recommended": "400 MB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "512 MB RAM",
-                                    "recommended": "nVidia GeForce GT 750M GPU with 2GB GDDR5"
+                                    "title": "Outros",
+                                    "minimum": "512 MB de RAM",
+                                    "recommended": "Placa de vídeo Nvidia GeForce GT 750M com 2 GB de GDDR5"
                                 }
                             ]
                         },
@@ -176,33 +168,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows XP / Vista / 7 / 8 / 10 (64-bit Systems)",
-                                    "recommended": "Requires 64-bit processor and operating system"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows XP / Vista / 7 / 8 / 10 de 64 bits",
+                                    "recommended": "Requer processador e sistema operacional de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Inter Core i3 2.2GHz or AMD equivalent",
-                                    "recommended": "Intel Core i3 2.9 GHz or AMD equivalent"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 de 2,2 GHz ou AMD equivalente",
+                                    "recommended": "Intel Core i3 de 2,9 GHz ou AMD equivalente"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "350 MB available space",
-                                    "recommended": "400 MB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "350 MB de espaço disponível",
+                                    "recommended": "400 MB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "512 MB RAM Intel HD Graphics",
-                                    "recommended": "2 GB RAM DDR5+"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD Graphics com 512 MB de RAM",
+                                    "recommended": "2 GB de RAM DDR5+"
                                 }
                             ]
                         }
@@ -212,6 +204,14 @@
                     "rating": {
                         "_type": "Diesel Rating"
                     }
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/directory/game/art%20of%20rally/",
+                    "linkTwitter": "https://twitter.com/funselektor",
+                    "linkFacebook": "https://www.facebook.com/funselektor/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/TcRCrnh",
+                    "linkHomepage": "http://absolutedrift.com/"
                 },
                 "navOrder": 1,
                 "footer": {
@@ -231,9 +231,9 @@
                     "developerAttribution": "Funselektor Labs Inc.",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Funselektor Labs Inc.",
-                    "description": "This is a driving experience like no other. Journey from apprentice to master drifter as you hone your skill in a gorgeous minimalist world. \n\nPush yourself to the limit on drifting tracks and wild mountain roads while you work to unlock trophies and elite events. Compete against ghosts of the top players in the world, or refine your skills by out-scoring your own ghost. \n\nChill out to over 3 hours of original electronic music by C41 and NYTE as you challenge your driving skills at every turn until you finally master the art of drifting.\n\n![A divider image of a vehicle drifting around a red roundabout.](https://cdn2.unrealengine.com/egs-absolutedrift-funselektorlabsinc-g2-00-1000x250-7dfeba4e0070.jpg)\n\n# Key Features:\n\n- Drive and customize up to 6 drift cars.\n- 3 Game Modes: Driftkhana, Drifting, & Mountain Drifting with 34 levels.\n- 5 Free-Roaming areas, each with unique levels and themes, from airports and docks to a floating metropolis.\n- Online Leaderboards, replays and ghost cars. View your friends' runs or the best in the world!\n- 3+ hours of clean Drum & Bass and Electronic music by C41 and Nyte.",
-                    "shortDescription": "This is a drifting experience like no other. Journey from apprentice to master as you hone your skill in a gorgeous minimalist world. Push yourself to the limit on drifting tracks and wild mountain roads until you finally master the art of drifting.",
-                    "title": "Drifting: The Art Of Sliding Sideways.",
+                    "description": "Esta é uma experiência no volante como nenhuma outra. Comece como aprendiz e se torne um mestre em drift ao aprimorar suas habilidades nesse maravilhoso mundo minimalista. \n\nChegue ao seu limite em pistas de drift e estradas perigosas nas montanhas enquanto se esforça para desbloquear troféus e eventos de elite. Jogue contra as sombras dos melhores jogadores do mundo ou aperfeiçoe suas habilidades ultrapassando a sua própria sombra. \n\nDivirta-se com mais de 3 horas de músicas eletrônicas originais de C41 e Nyte enquanto desafia suas habilidades a cada curva até finalmente se tornar mestre na arte do drift.\n\n![A divider image of a vehicle drifting around a red roundabout.](https://cdn2.unrealengine.com/egs-absolutedrift-funselektorlabsinc-g2-00-1000x250-7dfeba4e0070.jpg)\n\n# Características principais:\n\n- Dirija e personalize até 6 carros para drift.\n- 3 modos de jogo: Driftkhana, Drifting e Drifting na Montanha (Mountain Drifting) com 34 níveis.\n- 5 áreas de passeio livre, cada uma com níveis e temas exclusivos, de aeroportos e docas a uma metrópole flutuante.\n- Tabelas de classificação on-line, replays e carros fantasmas. Veja a corrida dos seus amigos ou dos melhores do mundo!\n- Mais de 3 horas de puro Drum & Bass e músicas eletrônicas de C41 e Nyte.",
+                    "shortDescription": "Esta é uma experiência no volante como nenhuma outra. Comece como aprendiz e se torne um mestre em drift ao aprimorar suas habilidades nesse maravilhoso mundo minimalista. Chegue ao seu limite em pistas de drift e estradas perigosas nas montanhas até se tornar um mestre na arte do drift.",
+                    "title": "Drifting: A Arte da Derrapagem.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -246,7 +246,7 @@
                         "_type": "Diesel Link",
                         "title": "art of rally"
                     },
-                    "description": "If you already own Absolute Drift, get a special discount during checkout when purchasing art of rally!"
+                    "description": "Se você já tiver Absolute Drift, receba um desconto especial na finalização da compra ao adquirir art of rally!"
                 },
                 "hero": {
                     "logoImage": {
@@ -285,7 +285,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Absolute Drift Trailer",
+                                "title": "Trailer de Absolute Drift",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true

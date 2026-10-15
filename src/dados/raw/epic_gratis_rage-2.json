@@ -74,12 +74,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/rage-2",
+    "_urlPattern": "/pt-BR/productv2/rage-2",
     "_slug": "rage-2",
     "_activeDate": "2021-02-11T15:55:00.000Z",
-    "lastModified": "2021-05-24T13:09:45.025Z",
-    "_locale": "en-US",
-    "_id": "d9131a71-5e6a-47bb-ac25-620a972f3d98",
+    "lastModified": "2021-02-10T21:13:34.364Z",
+    "_locale": "pt-BR",
+    "_id": "6fbaf2a8-3d95-43c2-a1aa-8d5a9a582432",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -171,12 +171,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/rage-2/home",
+            "_urlPattern": "/pt-BR/productv2/rage-2/home",
             "_slug": "home",
             "_activeDate": "2021-02-11T15:55:00.000Z",
-            "lastModified": "2023-05-12T17:46:30.382Z",
-            "_locale": "en-US",
-            "_id": "5abcefc4-bd7e-4066-989c-cd4af04dfb3c",
+            "lastModified": "2023-05-12T17:39:57.289Z",
+            "_locale": "pt-BR",
+            "_id": "12e69c56-cfcb-48b1-b09f-9a8cd940504f",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -193,20 +193,10 @@
                 "hasItem": false
             },
             "data": {
-                "productLinks": {
-                    "_type": "Diesel Product Lins"
-                },
-                "socialLinks": {
-                    "linkTwitter": "https://twitter.com/RAGE",
-                    "linkFacebook": "https://www.facebook.com/RAGE/",
-                    "_type": "Diesel Social Links",
-                    "linkHomepage": "https://bethesda.net/en/game/rage2",
-                    "linkInstagram": "https://www.instagram.com/rage/"
-                },
                 "requirements": {
                     "languages": [
-                        "Audio: English, Italian, Spanish - Spain, French, German, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Japanese",
-                        "Text: English, French, German, Italian, Japanese, Polish, Portuguese - Brazil, Russian, Spanish - Spain, Spanish - Latin America, Chinese - Simplified, Chinese - Traditional, Korean"
+                        "Áudio: inglês, italiano, espanhol (Espanha), francês, alemão, polonês, português (Brasil), russo, espanhol (América Latina), japonês",
+                        "Texto: inglês, francês, alemão, italiano, japonês, polonês, português (Brasil), russo, espanhol (Espanha), espanhol (América Latina), chinês simplificado, chinês tradicional, coreano"
                     ],
                     "systems": [
                         {
@@ -215,33 +205,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Win7, 8.1, or 10 (64-Bit versions)",
-                                    "recommended": "Win7, 8.1, or 10 (64-Bit versions)"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7, 8.1 ou 10 (versões de 64 bits)",
+                                    "recommended": "Windows 7, 8.1 ou 10 (versões de 64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5-3570 or AMD Ryzen 3 1300X",
-                                    "recommended": "Intel Core i7-4770 or AMD Ryzen 5 1600X"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5-3570 ou AMD Ryzen 3 1300X",
+                                    "recommended": "Intel Core i7-4770 ou AMD Ryzen 5 1600X"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "50GB",
-                                    "recommended": "50GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "50 GB",
+                                    "recommended": "50 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GTX 780 3GB or AMD R9 280 3GB",
-                                    "recommended": "Nvidia GTX 1070 8GB or AMD Vega 56 8GB"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Nvidia GTX 780 de 3 GB ou AMD R9 280 de 3 GB",
+                                    "recommended": "Nvidia GTX 1070 de 8 GB ou AMD Vega 56 de 8 GB"
                                 }
                             ]
                         }
@@ -252,6 +242,16 @@
                         "_type": "Diesel Rating"
                     }
                 },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/RAGE",
+                    "linkFacebook": "https://www.facebook.com/RAGE/",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://bethesda.net/pt/game/rage2",
+                    "linkInstagram": "https://www.instagram.com/rage/"
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
@@ -259,7 +259,7 @@
                     "privacyPolicyLink": {
                         "src": "https://bethesda.net/document/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Bethesda Privacy Policy"
+                        "title": "Política de Privacidade da Bethesda"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -271,9 +271,9 @@
                     "developerAttribution": "id Software, Avalanche Studios",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Bethesda Softworks",
-                    "description": "Ruthless and bloodthirsty gangs roam the open roads and the tyrannical Authority seek to rule with an iron fist. As Walker, the last Ranger of the wasteland and a threat to their power, you have been robbed of your home and left for dead. Now you’ll have to rage for justice and freedom. With ludicrous vehicle combat, super-powered first-person mayhem, and an open world full of emergent madness, you will tear across an unforgiving wasteland battling sadistic gangs to find the tools and tech needed to crush the oppressive rule of The Authority once and for all.\n\n# WELCOME TO THE SHOOTERVERSE\n\nid Software’s shooter pedigree and Avalanche Studios’ open world prowess is dream-team-made-real for RAGE 2. It’s more than a shooter, more than an open world game – it’s a shooterverse.\n\n# THE WASTELAND AWAITS\n\nSeamlessly traverse a vast and varied landscape, from lush jungles and treacherous swamps to sun-scorched deserts in your pursuit of The Authority. The wasteland is massive, and you’ve got the arsenal to fight for every inch.\n\n# PEDAL TO THE METAL\n\nFrom monster trucks to gyrocopters, use an assortment of rugged and wasteland-ready vehicles to speed across the badlands. If you see it, you can drive it. \n\n# THE LAST RANGER\n\nBring the pain using a collection of upgradable weapons, devastating Nanotrite powers, and Overdrive, the ability to push your guns beyond their mechanical limits.\n\n# FACTIONS & FOES\n\nFight against ferocious factions for control of the wasteland, each featuring a rogue’s gallery of madmen, mutants, and monsters hungry for blood.",
-                    "shortDescription": "RAGE 2 brings together two studio powerhouses – Avalanche Studios, masters of open world insanity, and id Software, creators of the first-person shooter – to deliver a carnival of carnage where you can go anywhere, shoot anything, and explode everything.",
-                    "title": "An asteroid has annihilated 80% of the earth’s population, and humanity’s numbers are dwindling.",
+                    "description": "Gangues impiedosas e sedentas de sangue vagam pelas estradas, e a tirânica Autoridade busca dominar a todos com punhos de ferro. Como Walker, o último Ranger do Ermo e uma ameaça ao poder inimigo, seu lar foi tomado e você ficou à beira da morte. Agora, você precisa lutar pela justiça e pela liberdade. Com veículos de combate ridículos, em primeira pessoa e um mundo aberto de loucura, você cruzará uma terra inóspita implacável, lutando contra gangues sanguinolentas para encontrar as ferramentas e a tecnologia necessárias para combater a Autoridade e esmagar seu regime opressivo de uma vez por todas!\n\n# BOAS-VINDAS AO SHOOTERVERSO\n\nO pedigree em jogos de tiro da id Software e o talento em mundos abertos da Avalanche Studios: a combinação dos sonhos que se tornou realidade em RAGE 2. Mais do que um jogo de tiro, mais do que um jogo de mundo aberto, é um shooterverso.\n\n# O ERMO AGUARDA\n\nAtravesse uma paisagem vasta e variada com total liberdade, de selvas exuberantes e pântanos ardilosos a desertos escaldantes, perseguindo a Autoridade. O Ermo é enorme, e você tem o arsenal para lutar por cada centímetro dele.\n\n# PÉ NA TÁBUA\n\nDe monster trucks a girocópteros, use uma variedade de veículos resistentes e adaptados para o Ermo, para cruzar suas terras selvagens. O que você avistar, você pode pilotar. \n\n# O ÚLTIMO RANGER\n\nCause muita dor com uma coleção de armas que podem ser melhoradas, devastadores poderes de nanotritos e Sobremarcha, a habilidade de explorar suas armas além dos seus limites mecânicos.\n\n# FACÇÕES & INIMIGOS\n\nEnfrente ferozes facções pelo controle do Ermo, cada uma com uma variedade de malucos, mutantes e monstros sedentos de sangue.",
+                    "shortDescription": "RAGE 2 reúne dois grandes estúdios, a Avalanche Studios, os mestres da insanidade em mundo aberto, e a id Software, os criadores dos jogos de tiro em primeira pessoa, para proporcionar um festival de carnificina onde você pode ir aonde quiser, atirar no que for e explodir tudo que encontrar.",
+                    "title": "Um asteroide aniquilou 80% da população da Terra, e a humanidade está à beira da extinção.",
                     "developerLogo": {
                         "_type": "Diesel Image"
                     }
@@ -570,7 +570,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
-                            "description": "RAGE 2 brings together two studio powerhouses – Avalanche Studios, masters of open world insanity, and id Software, creators of the first-person shooter – to deliver a carnival of carnage where you can go anywhere, shoot anything, and explode everything.",
+                            "description": "RAGE 2 reúne dois grandes estúdios, a Avalanche Studios, os mestres da insanidade em mundo aberto, e a id Software, os criadores dos jogos de tiro em primeira pessoa, para proporcionar um festival de carnificina onde você pode ir aonde quiser, atirar no que for e explodir tudo que encontrar.",
                             "offerId": "26c8bec5ae4f44b6b942b9564e81cafc",
                             "tag": "edition",
                             "title": "RAGE 2",
@@ -586,7 +586,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
-                            "description": "The Deluxe Edition includes the following: Rise of the Ghosts Expansion, DOOM BFG, Wasteland Wizard Cheat Codes, Progress Booster, Battle Standard",
+                            "description": "Adquira a Deluxe Edition e receba uma cópia do jogo com alguns bônus da pesada: Expansão Ascenção dos Fantasmas, a BFG do Doom, Códigos de trapaça Mago do Ermo, Impulsionador de Progresso e Estandarte de Batalha",
                             "offerId": "3308d6da86d94969a5087d64e49b7b23",
                             "tag": "edition",
                             "title": "RAGE 2 - Deluxe Edition",
@@ -643,7 +643,7 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "title": "Rage 2 | Download and Buy Today - Epic Games Store"
+                    "title": "Rage 2 | Baixe e compre hoje - Epic Games Store"
                 },
                 "productSections": [
                     {
@@ -769,12 +769,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/rage-2/deluxe-edition",
+            "_urlPattern": "/pt-BR/productv2/rage-2/deluxe-edition",
             "_slug": "deluxe-edition",
             "_activeDate": "2021-02-11T15:55:00.000Z",
-            "lastModified": "2023-05-12T17:51:57.541Z",
-            "_locale": "en-US",
-            "_id": "d901a6c1-7d03-4b59-9925-81d1b5119035",
+            "lastModified": "2023-05-12T17:40:59.467Z",
+            "_locale": "pt-BR",
+            "_id": "5cbd1add-dafd-4d66-ac1d-85b9f57fa7e1",
             "_templateName": "productDetail",
             "item": {
                 "_type": "Diesel Product Item",
@@ -788,13 +788,13 @@
                     "linkTwitter": "https://twitter.com/RAGE",
                     "linkFacebook": "https://www.facebook.com/RAGE/",
                     "_type": "Diesel Social Links",
-                    "linkHomepage": "https://bethesda.net/en/game/rage2",
+                    "linkHomepage": "https://bethesda.net/pt/game/rage2",
                     "linkInstagram": "https://www.instagram.com/rage/"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, Italian, Spanish - Spain, French, German, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Japanese",
-                        "Text: English, French, German, Italian, Japanese, Polish, Portuguese - Brazil, Russian, Spanish - Spain, Spanish - Latin America, Chinese - Simplified, Chinese - Traditional, Korean"
+                        "Áudio: inglês, italiano, espanhol (Espanha), francês, alemão, polonês, português (Brasil), russo, espanhol (América Latina), japonês",
+                        "Texto: inglês, francês, alemão, italiano, japonês, polonês, português (Brasil), russo, espanhol (Espanha), espanhol (América Latina), chinês simplificado, chinês tradicional, coreano"
                     ],
                     "systems": [
                         {
@@ -803,33 +803,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Win7, 8.1, or 10 (64-Bit versions)",
-                                    "recommended": "Win7, 8.1, or 10 (64-Bit versions)"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7, 8.1 ou 10 (versões de 64 bits)",
+                                    "recommended": "Windows 7, 8.1 ou 10 (versões de 64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5-3570 or AMD Ryzen 3 1300X",
-                                    "recommended": "Intel Core i7-4770 or AMD Ryzen 5 1600X"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5-3570 ou AMD Ryzen 3 1300X",
+                                    "recommended": "Intel Core i7-4770 ou AMD Ryzen 5 1600X"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "8GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "50GB",
-                                    "recommended": "50GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "50 GB",
+                                    "recommended": "50 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Nvidia GTX 780 3GB or AMD R9 280 3GB",
-                                    "recommended": "Nvidia GTX 1070 8GB or AMD Vega 56 8GB"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Nvidia GTX 780 de 3 GB ou AMD R9 280 de 3 GB",
+                                    "recommended": "Nvidia GTX 1070 de 8 GB ou AMD Vega 56 de 8 GB"
                                 }
                             ]
                         }
@@ -847,7 +847,7 @@
                     "privacyPolicyLink": {
                         "src": "https://bethesda.net/document/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Bethesda Privacy Policy"
+                        "title": "Política de Privacidade da Bethesda"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -856,11 +856,11 @@
                         "src": "https://cdn2.unrealengine.com/egs-deluxeedition-idsoftware-editions-s2-1200x1600-d8265dc2a2c6.jpg",
                         "_type": "Diesel Image"
                     },
-                    "developerAttribution": "id Software, Avalanche Studios",
+                    "developerAttribution": "id Software, avalanche Studios",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Bethesda Softworks",
-                    "description": "The Deluxe Edition includes the following:\n* Rise of the Ghosts Expansion\n* DOOM BFG\n* Wasteland Wizard Cheat Codes\n* Progress Booster\n* Battle Standard",
-                    "shortDescription": "The Deluxe Edition includes the following: Rise of the Ghosts Expansion, DOOM BFG, Wasteland Wizard Cheat Codes, Progress Booster, Battle Standard",
+                    "description": "Adquira a Deluxe Edition e receba uma cópia do jogo com alguns bônus da pesada:\n* Expansão Ascenção dos Fantasmas\n* A BFG do Doom\n* Códigos de trapaça Mago do Ermo\n* Impulsionador de Progresso\n* Estandarte de Batalha",
+                    "shortDescription": "Adquira a Deluxe Edition e receba uma cópia do jogo com alguns bônus da pesada: Expansão Ascenção dos Fantasmas, a BFG do Doom, Códigos de trapaça Mago do Ermo, Impulsionador de Progresso e Estandarte de Batalha",
                     "title": "RAGE 2 - Deluxe Edition",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -928,7 +928,7 @@
                             },
                             "_type": "Product Edition",
                             "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
-                            "description": "Studios, masters of open world insanity, and id Software, creators of the first-person shooter – to deliver a carnival of carnage where you can go anywhere, shoot anything, and explode everything.",
+                            "description": "RAGE 2 reúne dois grandes estúdios, a Avalanche Studios, os mestres da insanidade em mundo aberto, e a id Software, os criadores dos jogos de tiro em primeira pessoa, para proporcionar um festival de carnificina onde você pode ir aonde quiser, atirar no que for e explodir tudo que encontrar.",
                             "offerId": "\t26c8bec5ae4f44b6b942b9564e81cafc",
                             "tag": "edition",
                             "title": "Rage 2",
@@ -994,7 +994,7 @@
                     "og": {
                         "_type": "SEO OG Metadata"
                     },
-                    "title": "Rage 2 | Download and Buy Today - Epic Games Store"
+                    "title": "Rage 2 | Baixe e compre hoje - Epic Games Store"
                 },
                 "productSections": [
                     {

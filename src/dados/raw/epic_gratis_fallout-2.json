@@ -27,12 +27,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/fallout-2",
+    "_urlPattern": "/pt-BR/productv2/fallout-2",
     "_slug": "fallout-2",
     "_activeDate": "2022-10-20T14:50:00.000Z",
-    "lastModified": "2022-10-20T15:09:21.972Z",
-    "_locale": "en-US",
-    "_id": "019d308d-ed3e-49f8-8d93-4498aff44c20",
+    "lastModified": "2022-10-19T19:48:25.461Z",
+    "_locale": "pt-BR",
+    "_id": "6260e631-b0f0-4e19-b254-0a82fb3c41c9",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -64,12 +64,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/fallout-2/home",
+            "_urlPattern": "/pt-BR/productv2/fallout-2/home",
             "_slug": "home",
             "_activeDate": "2022-10-20T14:50:00.000Z",
-            "lastModified": "2022-10-20T17:55:15.960Z",
-            "_locale": "en-US",
-            "_id": "372a734e-918a-4e5f-834c-f910aca42059",
+            "lastModified": "2022-10-19T19:48:33.594Z",
+            "_locale": "pt-BR",
+            "_id": "c3270099-828d-49ad-91ae-0335da37f565",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -92,12 +92,12 @@
                     "linkTwitter": "https://twitter.com/Fallout",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/bethesdastudios",
-                    "linkHomepage": "https://fallout.bethesda.net/games/fallout-2",
+                    "linkHomepage": "https://fallout.bethesda.net/pt/games/fallout-2",
                     "linkInstagram": "https://www.instagram.com/fallout/"
                 },
                 "requirements": {
                     "languages": [
-                        "TEXT: English, French, German"
+                        "TEXTO: inglês, francês, alemão"
                     ],
                     "systems": [
                         {
@@ -106,19 +106,19 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows",
                                     "recommended": "Windows"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Pentium 90Mhz or faster",
-                                    "recommended": "Pentium 90Mhz or faster"
+                                    "title": "Processador",
+                                    "minimum": "Pentium 90Mhz ou mais rápido",
+                                    "recommended": "Pentium 90Mhz ou mais rápido"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "16 MB",
                                     "recommended": "16 MB"
                                 },
@@ -130,18 +130,18 @@
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Any DirectX"
+                                    "title": "DirectX",
+                                    "minimum": "Qualquer DirectX"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "SVGA"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "DirectSound or SoundBlaster Compatible"
+                                    "title": "Outros",
+                                    "minimum": "Compatível com DirectSound ou SoundBlaster"
                                 }
                             ]
                         }
@@ -170,8 +170,8 @@
                     "developerAttribution": "Bethesda Game Studios",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Bethesda Softworks",
-                    "description": "Fallout® 2 is the sequel to the critically acclaimed game that took RPG'ing out of the dungeons and into a dynamic, apocalyptic retro-future.\n\nIt's been 80 long years since your ancestors trod across the wastelands. As you search for the Garden of Eden Creation Kit to save your primitive village, your path is strewn with crippling radiation, megalomaniac mutants, and a relentless stream of lies, deceit and treachery. You begin to wonder if anyone really stands to gain anything from this brave new world.\n\nMastering your character's skills and traits for survival, Fallout® 2 will challenge you to endure in a post-nuclear world whose future withers with every passing moment...",
-                    "shortDescription": "Fallout® 2 is the sequel to the critically acclaimed game that took RPG'ing out of the dungeons and into a dynamic, apocalyptic retro-future. Mastering your character's skills and traits for survival, Fallout® 2 challenges you to endure in a post-nuclear world",
+                    "description": "Fallout® 2 é a sequência do jogo elogiado pela crítica que tirou o RPG das masmorras e o levou a um mundo retrofuturista dinâmico e apocalíptico.\n\nFaz mais de 80 anos que seus ancestrais pisaram nos Ermos. Em sua procura pelo Kit de Criação do Jardim do Éden para salvar sua aldeia primitiva, seu caminho é repleto de radiação nociva, mutantes megalomaníacos e uma torrente implacável de mentiras, enganação e traição. Você começa a se perguntar se alguém realmente evoluiu neste admirável mundo novo.\n\nDominando as habilidades de sobrevivência de seus personagens, Fallout® 2 desafiará você a resistir em um mundo pós-nuclear onde o futuro definha a cada segundo...",
+                    "shortDescription": "Fallout® 2 é a sequência do jogo elogiado pela crítica que tirou o RPG das masmorras e o levou a um mundo retrofuturista dinâmico e apocalíptico. Dominando as habilidades de sobrevivência de seus personagens, Fallout® 2 desafiará você a resistir em um mundo pós-nuclear",
                     "title": "Fallout 2: A Post Nuclear Role Playing Game",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -311,7 +311,7 @@
                     "logo": {
                         "_type": "Epic Store Image"
                     },
-                    "customReleaseDate": "Coming Soon",
+                    "customReleaseDate": "Em breve",
                     "platform": [
                         "Windows"
                     ]

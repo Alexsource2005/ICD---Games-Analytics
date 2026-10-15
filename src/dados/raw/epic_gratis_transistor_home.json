@@ -1,25 +1,49 @@
 {
     "title": "Transistor",
-    "id": "0e3a524afe7043c39148c1c3c35dd6c7",
-    "namespace": "epic",
-    "description": "Transistor",
+    "id": "9a03fddd502943d2af8c94daeb667b04",
+    "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+    "description": "Descubra o mundo de Transistor.",
     "effectiveDate": "2019-04-18T15:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselStoreFrontWide",
+            "type": "heroCarouselVideo",
+            "url": "com.epicgames.video://490a3232-a4e1-4604-a956-00ce38e426ac"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/dill/home/EGS_Supergiant_Transistor_Gallery_01-1920x1080-d71e798d543c366a79522a8785c7b6445680d524.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/dill/home/EGS_Supergiant_Transistor_Gallery_02-1920x1080-f77a18f957e8d424b0ba428908e507324533808b.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/dill/home/EGS_Supergiant_Transistor_Gallery_03-1920x1080-9a02f03db0ab20c7b779818a77df469481cb5599.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/dill/home/EGS_Supergiant_Transistor_Gallery_04-1920x1080-561368f93bc767c5ffcc68677a8146418cbcd746.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/dill/home/EGS_Supergiant_Transistor_Gallery_05-1920x1080-6f827717fe6edfe0505c37a8c63f9b61c6dc57c8.jpg"
+        },
+        {
+            "type": "GalleryImage",
+            "url": "https://cdn2.unrealengine.com/Diesel/product/dill/home/EGS_Supergiant_Transistor_Gallery_06-1920x1080-83170a633b111eecdc76a851330d3ddd5aaebe69.jpg"
+        },
+        {
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/bc81d1e7d1794d3a94e4dbf26e92166d/transistor_1200x1600-3db06a50d2bc7f1731859a34c2bb51ce"
+        },
+        {
+            "type": "OfferImageWide",
             "url": "https://cdn1.epicgames.com/undefined/offer/Transistor_Primary_Promo-2580x1450-80b4204d1dbee38616e1484a262f1a94.jpg"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/undefined/offer/Transistor_Portrait_Promo-1280x1420-cb8c25f61f7c2b27e0c20e45859278e6.jpg"
-        },
-        {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/undefined/offer/Transistor_Logo_Color_Optimized-1920x983-0b765c8299dcd1198c2d1ebc1b94f6c5.png"
-        },
-        {
-            "type": "ComingSoon",
-            "url": "https://cdn1.epicgames.com/epic/offer/Transistor_Free_tile-2578x1028-f5e3e94e0eff6a7eca593dda7894fc66.png"
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/bc81d1e7d1794d3a94e4dbf26e92166d/transistor_1200x1600-3db06a50d2bc7f1731859a34c2bb51ce"
         }
     ],
     "seller": {
@@ -27,7 +51,7 @@
         "name": "Supergiant Games LLC"
     },
     "productSlug": "transistor/home",
-    "urlSlug": "transistor",
+    "urlSlug": "dill-general-access",
     "url": null,
     "tags": [
         {
@@ -50,55 +74,59 @@
         },
         {
             "id": "9549"
+        },
+        {
+            "id": "10719"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "27f60c87c5c145ebbe71bf9f7c669c5f",
+            "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "10355"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "bc81d1e7d1794d3a94e4dbf26e92166d"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "transistor/home"
+            "key": "developerName",
+            "value": "Supergiant Games LLC"
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "9a03fddd502943d2af8c94daeb667b04"
+            "key": "com.epicgames.app.productSlug",
+            "value": "transistor/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
-            "originalPrice": 1999,
+            "discountPrice": 3799,
+            "originalPrice": 3799,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
             }
         },
         "lineOffers": [

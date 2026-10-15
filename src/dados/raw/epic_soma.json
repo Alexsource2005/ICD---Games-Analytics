@@ -1,0 +1,492 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#ffffff"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#ffffff"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+    "_title": "soma",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "SOMA",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/soma",
+    "_slug": "soma",
+    "_activeDate": "2019-10-08T15:20:35.538Z",
+    "lastModified": "2019-10-21T12:41:26.587Z",
+    "_locale": "pt-BR",
+    "_id": "424e5086-250a-42e1-bee1-294627b89aae",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#ffffff"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#ffffff"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#ffffff",
+                "customPrimaryBg": "#ffffff",
+                "accentColor": "#ffffff",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "SOMA",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/soma/home",
+            "_slug": "home",
+            "_activeDate": "2019-10-08T15:21:07.196Z",
+            "lastModified": "2024-01-24T15:58:40.149Z",
+            "_locale": "pt-BR",
+            "_id": "29ab5d34-439f-4dbb-b88e-f8edcebb1f42",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+                "id": "4c0ccb5098414557a12a921d8c17acb2",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "2fc6b6a71a3249fca823e9c24a5b7d9c",
+                "appName": "Emu",
+                "_type": "Diesel Product Item",
+                "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+                "hasItem": true
+            },
+            "data": {
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/frictionalgames",
+                    "linkTwitch": "https://www.twitch.tv/frictionalgames",
+                    "linkFacebook": "https://www.facebook.com/frictionalgames/",
+                    "linkYoutube": "https://youtube.com/user/frictionalgames",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/frictionalgames",
+                    "title": "Siga SOMA",
+                    "linkHomepage": "https://somagame.com/",
+                    "linkInstagram": "https://instagram.com/frictionalgames/"
+                },
+                "requirements": {
+                    "languages": [
+                        "AUDIO: English",
+                        "TEXT: French, German, Italian, Portuguese (Brazil), Spanish (Spain), Russian"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "64-bit 10.9. This product is not compatiable with macOS 10.15 Catalina or later.",
+                                    "recommended": "64-bit 10.9. This product is not compatiable with macOS 10.15 Catalina or later."
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "CPU",
+                                    "minimum": "Core i3 de 2.4Ghz",
+                                    "recommended": "Core i5 de 2.4Ghz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 260 / AMD Radeon HD 5750. OpenGL 3.3",
+                                    "recommended": "NVIDIA GeForce GTX 480 / AMD Radeon HD 5970. OpenGL 3.3"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "25 GB",
+                                    "recommended": "25 GB"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows Vista de 64-bit",
+                                    "recommended": "Windows 7 de 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "CPU",
+                                    "minimum": "Core i3 / AMD A6 de 2.4Ghz",
+                                    "recommended": "Core i5 / AMD FX de 2.4Ghz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 260 / AMD Radeon HD 5750. OpenGL 3.3",
+                                    "recommended": "NVIDIA GeForce GTX 480 / AMD Radeon HD 5970. OpenGL 3.3"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "25 GB",
+                                    "recommended": "25 GB"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_16-390x450-03d85e4c030dc1fbf9c2b90c498d751835e24272.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsoma%2Fhome%2F18_S_V_H_L-540x117-ec0d6d2390e3adff5522407375c3211934cf8a6d.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "청소년이용불가"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 16 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsoma%2Fhome%2FESRB_Soma-842x404-c97093450dd3fd9ac873b6fb3378611590dec995.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: para maiores de 17 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Direitos autorais © 2006-2019 Frictional Games",
+                    "privacyPolicyLink": {
+                        "src": "https://frictionalgames.com/site/privacypolicy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Frictional Games"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Femu%2Fhome%2FEGS_FrictionalGames_SOMA_IC2-128x128-3f39ed880fdcea0195493c1f315aa9a3bd18c1fd.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Frictional Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Frictional Games",
+                    "description": "O rádio está morto, a comida está acabando e as máquinas começaram a achar que são pessoas. A instalação subaquática PATHOS-II sofreu um isolamento absurdo e você precisará tomar algumas decisões difíceis. O que faz sentido? Ainda existe algum motivo para lutar?",
+                    "shortDescription": "SOMA é um jogo de terror e ficção científica da Frictional Games, criadores de Amnesia: The Dark Descent. É uma história perturbadora sobre identidade, consciência e o que significa ser humano.",
+                    "title": "SOMA",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Femu%2Fhome%2FEGS_FrictionalGames_SOMA_IC1-200x55-9f8a8cf2713db1fc21b96de90345f018a5e6175a.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/soma-1200x1600-3e78c1427639.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Femu%2Fhome%2FEGS_FrictionalGames_SOMA_S1-2560x1440-7a3454e2c08961570513d222cb3c72c34c1aea35.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/c895d5169eb047a2b4344a42b121daad/c895d5169eb047a2b4344a42b121daad.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1c-00-1920x1080-278b0d3521fa.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"cda9f7ce37054d74b1a0ffd85e51814b\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/c3e5bb6cd3b9480097fcd63927f4c87c/c3e5bb6cd3b9480097fcd63927f4c87c.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1c-00-1920x1080-278b0d3521fa.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"ddcd4ddc95fd424c86445f7897d82e17\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/79c1de83c1524adcbdf48de2e226b2b4/79c1de83c1524adcbdf48de2e226b2b4.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1c-00-1920x1080-278b0d3521fa.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2429f2892f1044c6927f733e46a99429\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "accentColor": "#ffffff",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "title": "SOMA Trailer",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-01-1920x1080-0f68bf0293f5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-02-1920x1080-aa4c081118dd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-03-1920x1080-0121bb735014.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-04-1920x1080-7d37909d49ab.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-05-1920x1080-841851d51dda.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2015-09-22T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Frictional Games"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Frictional Games"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "SINGLE_PLAYER",
+                        "HORROR",
+                        "NARRATION"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "SOMA"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Femu%2Fhome%2FEGS_FrictionalGames_SOMA_IC2-128x128-3f39ed880fdcea0195493c1f315aa9a3bd18c1fd.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_16-390x450-03d85e4c030dc1fbf9c2b90c498d751835e24272.png",
+                "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-03-1920x1080-0121bb735014.jpg",
+                "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-05-1920x1080-841851d51dda.jpg",
+                "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-02-1920x1080-aa4c081118dd.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsoma%2Fhome%2F18_S_V_H_L-540x117-ec0d6d2390e3adff5522407375c3211934cf8a6d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Femu%2Fhome%2FEGS_FrictionalGames_SOMA_S1-2560x1440-7a3454e2c08961570513d222cb3c72c34c1aea35.jpg",
+                "https://cdn2.unrealengine.com/soma-1200x1600-3e78c1427639.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Femu%2Fhome%2FEGS_FrictionalGames_SOMA_IC1-200x55-9f8a8cf2713db1fc21b96de90345f018a5e6175a.png",
+                "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-04-1920x1080-7d37909d49ab.jpg",
+                "https://cdn2.unrealengine.com/egs-soma-frictionalgames-g1a-01-1920x1080-0f68bf0293f5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsoma%2Fhome%2FESRB_Soma-842x404-c97093450dd3fd9ac873b6fb3378611590dec995.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg"
+            ]
+        }
+    ]
+}

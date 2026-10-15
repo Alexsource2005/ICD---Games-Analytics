@@ -52,12 +52,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/spelldrifter",
+    "_urlPattern": "/pt-BR/productv2/spelldrifter",
     "_slug": "spelldrifter",
     "_activeDate": "2021-04-19T16:55:00.000Z",
-    "lastModified": "2021-07-27T16:44:15.625Z",
-    "_locale": "en-US",
-    "_id": "4efd6b7c-babf-4201-b15f-316d0d4577a1",
+    "lastModified": "2021-04-06T02:35:23.627Z",
+    "_locale": "pt-BR",
+    "_id": "b19f0cea-c033-4f7b-980b-94626b757e9c",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -122,12 +122,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/spelldrifter/home",
+            "_urlPattern": "/pt-BR/productv2/spelldrifter/home",
             "_slug": "home",
             "_activeDate": "2021-04-06T02:35:30.930Z",
-            "lastModified": "2021-04-28T20:18:36.171Z",
-            "_locale": "en-US",
-            "_id": "35c00f91-cbbe-446b-a188-771d92c8d944",
+            "lastModified": "2021-04-06T02:49:47.757Z",
+            "_locale": "pt-BR",
+            "_id": "c126f512-d8a8-48f3-9ae3-c3bc4c20c184",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -152,7 +152,7 @@
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English | TEXT: Arabic, English, Chinese - Simplified, Chinese - Traditional, Dutch, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain, Turkish"
+                        "ÁUDIO: inglês | TEXTO: árabe, inglês, chinês simplificado, chinês tradicional, holandês, francês, alemão, italiano, japonês, coreano, português (Brasil), russo, espanhol (Espanha), turco"
                     ],
                     "systems": [
                         {
@@ -161,39 +161,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7+",
-                                    "recommended": "Windows 7+"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 ou superior",
+                                    "recommended": "Windows 7 ou superior"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "2GHz+ (SSE2 instruction set support)",
-                                    "recommended": "2GHz+ (SSE2 instruction set support)"
+                                    "title": "Processador",
+                                    "minimum": "2 GHz ou superior (suporte para o conjunto de instruções SSE2)",
+                                    "recommended": "2 GHz ou superior (suporte para o conjunto de instruções SSE2)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "2GB RAM",
-                                    "recommended": "2GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "2 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "2GB",
-                                    "recommended": "2GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 10",
-                                    "recommended": "Version 10"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "1GB Video RAM",
-                                    "recommended": "1GB Video RAM"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1 GB de Vídeo RAM",
+                                    "recommended": "1 GB de Vídeo RAM"
                                 }
                             ]
                         }
@@ -211,7 +211,7 @@
                     "privacyPolicyLink": {
                         "src": "http://freerangegames.com/spelldrifter-privacy-policy/",
                         "_type": "Diesel Link",
-                        "title": "Privacy Policy"
+                        "title": "Política de Privacidade"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -223,8 +223,8 @@
                     "developerAttribution": "Free Range Games",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Free Range Games",
-                    "description": "Introducing Spelldrifter, a hybrid tactical role playing game and deck building game that features the best parts of both!\n\nSpelldrifter combines the puzzle-like positional tactics of a turn-based RPG battle with the deep customizability and replayability of a collectible card game.  The result: a hybrid, wherein players must juggle the resources at their disposal using both time and space.\n\nWith Spelldrifter's innovative Tick System, players are challenged to think of card game strategy in a new light. With each character action, the turns interweave on a single timeline.  With mastery of the timeline, players gain great advantage in battle and earn the satisfaction of decisive victory.\n\nSelect your party of heroes, build your decks, and embark on an adventure deep into Starfall as you search for the entrance to the mysterious Labyrinth!",
-                    "shortDescription": "Spelldrifter combines the puzzle-like positional tactics of a turn-based RPG with the customizability and replayability of a collectible card game.  The result: a hybrid, wherein players must juggle the resources at their disposal using both time and space.",
+                    "description": "Apresentando Spelldrifter, um RPG híbrido de jogo tático com jogo de construção de baralhos que conta com as melhores características dos dois gêneros!\n\nSpelldrifter combina as táticas de combate mentalmente desafiadoras de uma batalha de RPG baseado em turnos com a personalização profunda e a jogabilidade de um jogo de cartas colecionável.  O resultado: um jogo híbrido em que os jogadores precisar se virar para gerenciar os recursos à disposição usando o tempo e o espaço.\n\nCom o inovador Tick System de Spelldrifter, os jogadores são desafiados a encarar estratégias de jogos de cartas sob uma nova perspectiva. Com cada ação do personagem, os turnos se entrelaçam em uma única linha do tempo.  Ao dominarem essa linha do tempo, os jogadores ganham grande vantagem na batalha e obtêm a satisfação que só uma vitória decisiva proporciona.\n\nSelecione um grupo de heróis, construa seus baralhos e embarque em uma aventura nas profundezas de Starfall enquanto procura pela entrada do labirinto misterioso!",
+                    "shortDescription": "Spelldrifter combina as táticas de combate mentalmente desafiadoras de um RPG baseado em turnos com a personalização e a jogabilidade de um jogo de cartas colecionável.  O resultado: um jogo híbrido em que os jogadores precisar se virar para gerenciar os recursos à disposição usando o tempo e o espaço.",
                     "title": "Spelldrifter",
                     "developerLogo": {
                         "_type": "Diesel Image"

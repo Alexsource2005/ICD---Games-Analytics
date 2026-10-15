@@ -49,12 +49,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/jurassic-world-evolution",
+    "_urlPattern": "/pt-BR/productv2/jurassic-world-evolution",
     "_slug": "jurassic-world-evolution",
-    "_activeDate": "2020-12-31T15:55:00.000Z",
+    "_activeDate": "2020-11-16T17:22:36.958Z",
     "lastModified": "2020-12-15T19:42:50.259Z",
-    "_locale": "en-US",
-    "_id": "644e010d-c8be-450a-b329-416a2b3098bb",
+    "_locale": "pt-BR",
+    "_id": "28600746-dab6-4f21-9adf-a68ee654824d",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -121,12 +121,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/jurassic-world-evolution/home",
+            "_urlPattern": "/pt-BR/productv2/jurassic-world-evolution/home",
             "_slug": "home",
             "_activeDate": "2020-11-16T17:24:35.486Z",
-            "lastModified": "2020-12-15T19:52:27.252Z",
-            "_locale": "en-US",
-            "_id": "b1b382e2-c6d0-4982-bc4a-7f20dcfeb6a0",
+            "lastModified": "2020-11-18T14:51:14.054Z",
+            "_locale": "pt-BR",
+            "_id": "2780d920-d5d5-466d-a77e-28a2ad7c2aaf",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -148,7 +148,7 @@
                         {
                             "src": "https://frontierstore.net/jwe-legal",
                             "_type": "Diesel Link",
-                            "title": "Jurassic World Evolution EULA"
+                            "title": "Contrato de licença de usuário final Jurassic World Evolution"
                         }
                     ]
                 },
@@ -161,8 +161,8 @@
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, Italian, Spanish - Spain, French, German, Chinese - Simplified, Japanese, Portuguese - Brazil, Russian, Korean, Spanish - Latin America",
-                        "Text: English, Italian, Spanish - Spain, Japanese, Chinese - Simplified, Chinese - Traditional, French, German, Korean, Portuguese - Brazil, Russian"
+                        "Áudio: inglês, italiano, espanhol (Espanha), francês, alemão, chinês simplificado, japonês, português (Brasil), russo, coreano, espanhol (América Latina)",
+                        "Texto: inglês, italiano, espanhol (Espanha), japonês, chinês simplificado, chinês tradicional, francês, alemão, coreano, português (Brasil), russo"
                     ],
                     "systems": [
                         {
@@ -171,38 +171,38 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Windows 7 (SP1+)/8.1/10 64bit",
-                                    "recommended": "Windows 7 (SP1+) / 8.1/10 64bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 (SP1+)/8.1/10 de 64 bits",
+                                    "recommended": "Windows 7 (SP1+)/8.1/10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel i5-2300/AMD FX-4300",
                                     "recommended": "Intel i7-4770/AMD FX-8350"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8GB",
-                                    "recommended": "12GB"
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "12 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "8GB",
-                                    "recommended": "12GB"
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB",
+                                    "recommended": "12 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "11",
                                     "recommended": "11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "NVIDIA GeForce GTX 1050 (Legacy GPU: GeForce GTX 660) / AMD Radeon 7850 (2GB)",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 1050 (Legacy GPU: GeForce GTX 660) / AMD Radeon 7850 (2 GB)",
                                     "recommended": "NVIDIA GeForce GTX 1060 / AMD RX 480"
                                 }
                             ]
@@ -217,7 +217,7 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2020 Frontier Developments, plc. All rights reserved. Frontier and the Frontier Developments logo are trademarks or registered trademarks of Frontier Developments, plc. © 2018-2020 Universal City Studios LLC and Amblin Entertainment, Inc. The use of this game is subject to Frontier’s License Agreement, available at frontierstore.net/jwe-legal",
+                    "copy": "© 2020 Frontier Developments, plc. All rights reserved. Frontier and the Frontier Developments logo are trademarks or registered trademarks of Frontier Developments, plc. © 2018-2020 Universal City Studios LLC and Amblin Entertainment, Inc. The use of this game is subject to Frontier's License Agreement, available at frontierstore.net/jwe-legal",
                     "privacyPolicyLink": {
                         "src": "https://www.frontier.co.uk/legal/privacy-policy",
                         "_type": "Diesel Link"
@@ -231,8 +231,8 @@
                     "developerAttribution": "Frontier Developments",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Frontier Developments",
-                    "description": "Take charge of operations on the legendary islands of the Muertes archipelago and bring the wonder, majesty and danger of dinosaurs to life. Build for Science, Entertainment or Security interests in an uncertain world where life always finds a way.\n\nBioengineer dinosaurs that think, feel and react intelligently to the world around them. Play with life itself to give your dinosaurs unique behaviors, traits and appearances, then contain and profit from them to fund your global search for lost dinosaur DNA.\n\nControl the big picture with deep management tools or go hands-on to confront challenges on the ground or in the air. Expand your islands and choose your own journey in an all-new narrative featuring iconic characters from across the franchise and decades of Jurassic lore at your fingertips.",
-                    "shortDescription": "Take charge of operations on the legendary islands of the Muertes archipelago and bring the wonder, majesty and danger of dinosaurs to life. Build for Science, Entertainment or Security interests in an uncertain world where life always finds a way.",
+                    "description": "Assuma o comando das operações no lendário arquipélago das ilhas Muertes e dê vida a dinossauros maravilhosos, majestosos e perigosos. Construa em nome da Ciência, Diversão ou Segurança em um mundo instável, onde a vida sempre prevalece.\n\nUse bioengenharia para criar dinossauros que pensam, agem e reagem de forma inteligente em relação ao mundo que os cerca. Brinque com a vida para que seus dinossauros tenham comportamentos, características e aparências únicas. Depois, abrigue-os e lucre com eles para arcar com os custos de sua pesquisa global por DNA perdido de outros dinossauros.\n\nControle tudo com ferramentas de gerenciamento abrangentes, ou enfrente desafios na terra ou no ar individualmente. Amplie as suas ilhas e escolha a sua própria jornada em uma narrativa completamente nova que traz personagens icônicos e décadas de histórias da franquia Jurassic Park, tudo isso na ponta dos dedos.",
+                    "shortDescription": "Assuma o comando das operações no lendário arquipélago das ilhas Muertes e dê vida a dinossauros maravilhosos, majestosos e perigosos. Construa em nome da Ciência, Diversão ou Segurança em um mundo instável, onde a vida sempre prevalece.",
                     "title": "Jurassic World Evolution",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -284,7 +284,7 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
-                                "title": "Jurassic World Evolution Trailer",
+                                "title": "Trailer de Jurassic World Evolution",
                                 "type": "epicHosted",
                                 "muted": true,
                                 "autoplay": true

@@ -70,12 +70,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/railway-empire",
+    "_urlPattern": "/pt-BR/productv2/railway-empire",
     "_slug": "railway-empire",
     "_activeDate": "2020-08-24T18:35:04.461Z",
-    "lastModified": "2021-04-23T02:37:48.450Z",
-    "_locale": "en-US",
-    "_id": "b1793ca9-fe86-4df0-986e-782e5b83623a",
+    "lastModified": "2020-08-27T17:20:35.344Z",
+    "_locale": "pt-BR",
+    "_id": "f941a7df-3a30-4859-bde8-1989bacbccfa",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -139,7 +139,6 @@
                 "https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-g1c-00-1920x1080-853107899.jpg",
                 "https://cdn2.unrealengine.com/egs-downunder-gamingmindsstudios-dlc-s1-2560x1440-853605143.jpg",
                 "https://cdn2.unrealengine.com/e-829477500.svg",
-                "https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-s1-2560x1440-829441580.jpg",
                 "https://cdn2.unrealengine.com/1egs-railwayempire-gamingmindsstudios-g1a-03-1920x1080-853119534.jpg",
                 "https://cdn2.unrealengine.com/egs-northerneurope-gamingmindsstudios-dlc-s1-2560x1440-853566198.jpg",
                 "https://cdn2.unrealengine.com/1egs-railwayempire-gamingmindsstudios-g1a-04-1920x1080-853123213.jpg",
@@ -183,12 +182,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/railway-empire/home",
+            "_urlPattern": "/pt-BR/productv2/railway-empire/home",
             "_slug": "home",
             "_activeDate": "2020-08-24T18:36:19.995Z",
-            "lastModified": "2022-12-05T12:00:44.969Z",
-            "_locale": "en-US",
-            "_id": "c51abb23-0e58-42bd-9a1b-d81e17b02ebb",
+            "lastModified": "2020-08-27T16:40:01.499Z",
+            "_locale": "pt-BR",
+            "_id": "e880b35c-5e20-4c1d-a117-96314551b5f3",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -216,14 +215,12 @@
                     "linkYouku": "",
                     "_type": "Diesel Social Links",
                     "linkDiscord": "https://discord.gg/kalypsomedia",
-                    "title": "Follow Railway Empire",
-                    "linkHomepage": "https://www.kalypsomedia.com/",
-                    "linkInstagram": "https://www.instagram.com/kalypso_media/"
+                    "linkHomepage": "https://www.kalypsomedia.com/"
                 },
                 "requirements": {
                     "languages": [
-                        "Audio: English, German, French, Spanish - Spain, Russian",
-                        "Text: English, German, French, Italian, Polish, Russian, Spanish - Spain"
+                        "Áudio - inglês, alemão, francês, espanhol (Espanha), russo, japonês",
+                        "Texto - inglês, alemão, francês, italiano, polonês, russo, espanhol (Espanha), chinês simplificado, coreano, japonês"
                     ],
                     "systems": [
                         {
@@ -232,45 +229,45 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": " Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions)",
-                                    "recommended": "Windows 7 SP1 or Windows 8.1 or Windows 10(64bit versions)"
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1, Windows 8.1 ou Windows 10 (versões de 64 bits)",
+                                    "recommended": "Windows 7 SP1, Windows 8.1 ou Windows 10 (versões de 64 bits)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "Intel Core i5 750 @ 2.6 GHz or AMD",
-                                    "recommended": " Intel Core i5 2400s @ 2.5 GHz or AMD FX 4100 @ 3.6"
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i5 750 de 2,6 GHz ou equivalente da AMD",
+                                    "recommended": "Intel Core i5 2400s de 2,5 GHz ou AMD FX 4100 de 3,6 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "8 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "7",
                                     "recommended": "7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
-                                    "minimum": "Version 11",
-                                    "recommended": "Version 11"
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "nVidia GeForce GTX460 or AMD Radeon HD5870 (1024MB VRAM with Shader Model 5.0)",
-                                    "recommended": "nVidia GeForce GTX 680 or AMD Radeon HD7970 or better (2048MB VRAM or more, with Shader Model 5.0)"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX460 ou AMD Radeon HD5870 (1.024 MB de VRAM com Shader Model 5.0)",
+                                    "recommended": "NVIDIA GeForce GTX 680 ou AMD Radeon HD7970 ou superior (2.048 MB de VRAM ou superior com Shader Model 5.0)"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Other",
-                                    "minimum": "DirectX Compatible Sound Card with latest drivers",
-                                    "recommended": " DirectX Compatible Sound Card with latest drivers"
+                                    "title": "Outros",
+                                    "minimum": "Placa de som compatível com DirectX com os drivers mais recentes",
+                                    "recommended": "Placa de som compatível com DirectX com os drivers mais recentes"
                                 }
                             ]
                         }
@@ -305,8 +302,8 @@
                     "developerAttribution": "Gaming Minds Studios",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Kalypso Media",
-                    "description": "United States, 1830: ‘The New World’ is in its ascendancy. Industry is booming, and the race is on to establish the most dominant and powerful rail empire in all of North America. It’s time to outthink and outmaneuver your competitors as you lead your company into the 20th century!\n\n# Features\n\n- Exploit the economic opportunities of the United States in an extensive campaign, working your way step by step from coast to coast across this great continent.\n- Lead your Railway Empire to success by establishing a comprehensive rail network and optimizing transportation of passengers and goods.\n- Master challenges and objectives through a range of scenarios, or create your perfect railway network in construction mode without any financial pressure.\n- Over 40 historically accurate locomotives and more than 30 different wagons can be acquired over the course of the game, and must be put to use in the best way in order to take advantage of their strengths and weaknesses.\n- Compete with up to three rival companies, and even sabotage their efforts with the use of bandits and spies.\n- ‘Ride Along’ feature allows you to explore your rail network and beautiful scenery from the driver’s cab in a first person perspective.",
-                    "shortDescription": "In Railway Empire, you will create an elaborate and wide-ranging rail network, purchase over 40 different trains modelled in extraordinary detail, and buy or build railway stations, factories and attractions to keep your network ahead of the competition.",
+                    "description": "Estados Unidos, 1830: o \"Novo Mundo\" está em ascensão. A indústria está florescendo em sua corrida para estabelecer o mais dominante e poderoso império ferroviário em toda a América do Norte. É hora de frustrar e ultrapassar os concorrentes enquanto você lidera a sua empresa em direção ao século XX!\n\n# Recursos\n\n- Explore as oportunidades econômicas dos Estados Unidos em uma extensa campanha, trabalhando passo a passo e de costa a costa nesse enorme continente.\n- Estabeleça uma rede ferroviária abrangente e otimize os transportes de passageiros e mercadorias para liderar seu império ferroviário.\n- Domine os desafios e objetivos por uma série de cenários ou crie sua rede ferroviária perfeita no modo de construção sem nenhuma pressão financeira.\n- Mais de 40 locomotivas com precisão histórica e mais de 30 tipos de vagão disponíveis no decurso do jogo, dispostos na ordem ideal para tirar vantagem de seus pontos fortes e fracos.\n- Dispute com companhias rivais, até mesmo frustrando seus esforços com a ajuda de bandidos e espiões.\n- Recurso \"Ride Along\", que permite explorar a sua rede ferroviária e os lindos cenários da cabine do maquinista em uma perspectiva de primeira pessoa.",
+                    "shortDescription": "Em Railway Empire, você vai criar uma rede ferroviária elaborada e abrangente, comprar mais de 40 trens diferentes modelados com detalhes extraordinários e adquirir ou construir estações ferroviárias, fábricas e atrações para manter sua rede à frente da concorrência.",
                     "title": "Railway Empire",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -324,7 +321,6 @@
                         "src": "https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-ic1-400x211-829440586.png",
                         "_type": "Diesel Image"
                     },
-                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-s2-1200x1600-829441147.jpg",
                     "_type": "Diesel Hero",
                     "action": {
                         "_type": "Diesel Action"
@@ -338,8 +334,7 @@
                         "autoplay": false
                     },
                     "isFullBleed": false,
-                    "altContentPosition": false,
-                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-s1-2560x1440-829441580.jpg"
+                    "altContentPosition": false
                 },
                 "carousel": {
                     "_type": "Diesel Carousel",
@@ -352,7 +347,7 @@
                             "_type": "Diesel Carousel Item - Image OR Video",
                             "video": {
                                 "epicStillDurationSeconds": 3,
-                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/2e6362fa2f0c4f0381301da097cc7b3a/2e6362fa2f0c4f0381301da097cc7b3a.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-g1c-00-1920x1080-73ddd5147ef9.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"47b38fb1a8d64d4a991116358d640d1c\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/2b3328133f9b4c808b0a88455573395c/2b3328133f9b4c808b0a88455573395c.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-g1c-00-1920x1080-73ddd5147ef9.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"59c3834124ea4859bac7955d2d39b7f3\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/a7bdbe2e87cf4b50929bdb2ef8264a81/a7bdbe2e87cf4b50929bdb2ef8264a81.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-railwayempire-gamingmindsstudios-g1c-00-1920x1080-73ddd5147ef9.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"2669fcbe3ae3470bb4361d98bb644b21\"\n    }\n  ]\n}",
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"f08b3252225c43ac967a33d2e8c88ee6\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"e2f9425a7d1142c78204778fa7412598\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"976e0089747d4100865862ac95dee16c\"\n        }\n    ]\n}",
                                 "epicStillType": "OVERLAY_BR",
                                 "loop": false,
                                 "_type": "Diesel Video",
@@ -699,7 +694,7 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "The 'Railway Empire - DLC Bundle' contains all available DLCs: \nMexico, the Great Lakes, Crossing the Andes, Great Britain & Ireland, France, Germany Northern Europe and Down Under.",
+                            "description": "O \"Railway Empire - DLC Bundle\" contém todos os DLCs disponíveis: \nMexico, the Great Lakes, Crossing the Andes, Great Britain & Ireland, France, Germany, Northern Europe e Down Under.",
                             "offerId": "09ba170469614cde82d99537c7d756e2",
                             "tag": "dlc",
                             "title": "DLC Bundle",
@@ -716,7 +711,7 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "Discover the diversity of Mexico - take on challenging missions in the arid northern regions all the way to the dense jungles in the south of the country. Boost your economy in the scenario by building a thriving infrastructure and exporting to the USA.",
+                            "description": "Descubra a diversidade do México — cumpra missões desafiadoras das áridas regiões do norte até as densas selvas do sul do país. Impulsione a economia nesse cenário construindo uma infraestrutura próspera e fazendo exportações para os EUA.",
                             "offerId": "43d3a15f4ccb49019c6a5e2cd2a3f187",
                             "tag": "dlc",
                             "title": "Mexico",
@@ -733,7 +728,7 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "Canada in the 1860s is sparsely populated and only a few settlements have managed to develop into larger towns. Bridge the distance between the British colonies and reach economic independence by creating a track infrastructure for the Great Lakes region.",
+                            "description": "O Canadá da década de 1860 era escassamente povoado e apenas algumas colônias conseguiram se desenvolver e se transformar em cidades maiores. Reduza a distância entre as colônias britânicas e alcance a independência econômica, criando uma infraestrutura de trilhos para a região dos Grandes Lagos.",
                             "offerId": "0a8f0276345c4d00915ec36ca9a546f1",
                             "tag": "dlc",
                             "title": "The Great Lakes",
@@ -750,7 +745,7 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "Take on new journeys in the depths of South America in the early 20th century, where a hoard of exotic new resources are ripe for the picking and plans for crossing the Andes by train are drawing attention from investors far and wide.",
+                            "description": "Faça novas viagens às profundezas da América do Sul no início do século 20, onde uma gama de recursos novos e exóticos está pronta para ser colhida e os planos para cruzar os Andes de trem estão chamando a atenção de investidores de todo o mundo.",
                             "offerId": "2ee9765e917348f9aed11c753c370eda",
                             "tag": "dlc",
                             "title": "Crossing the Andes",
@@ -767,10 +762,10 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "England - Home of the first steam engines is experiencing an age of unprecedented progress and technological innovations. Expand your rail network across the British Isles as streets and canals cannot cope with the burgeoning requirements of industrial cities.",
+                            "description": "Inglaterra — O berço das primeiras máquinas a vapor vive uma era sem precedentes de progresso e inovações tecnológicas. Expanda sua rede ferroviária pelas Ilhas Britânicas, pois as ruas e canais não conseguem atender às crescentes necessidades das cidades industriais.",
                             "offerId": "c11ab35a2c9d4ce485a579ea345edf66",
                             "tag": "dlc",
-                            "title": "Great Britain and Ireland",
+                            "title": "Great Britain & Ireland",
                             "type": "addon",
                             "slug": "product/railway-empire/great-britain-and-ireland"
                         },
@@ -784,11 +779,11 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "Marked by the March Revolution, the German petty states are on the brink of economic collapse. However, with the appearance of the first private trains, cross-border connections are increasingly growing, linking the cities and creating industrial centers.",
+                            "description": "Marcados pela Revolução de Março, os pequenos estados alemães estão à beira de um colapso econômico. Entretanto, com o aparecimento dos primeiros trens de propriedade privada, as conexões transfronteiriças estão crescendo cada vez mais, ligando as cidades e criando centros industriais.",
                             "offerId": "af32999d3aac46dcaf859f665355ec7f",
                             "tag": "dlc",
-                            "title": "Germany",
                             "type": "addon",
+                            "title": "Germany",
                             "slug": "product/railway-empire/germany"
                         },
                         {
@@ -801,11 +796,11 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "In the wake of Emperor Napoleon III’s exile, the French monarchy has collapsed for the second time, and the Third Republic has taken its place. In the Railway Empire – France DLC you will decide your country’s industrial future.",
+                            "description": "Após o exílio do Imperador Napoleão III, a monarquia francesa entrou em colapso pela segunda vez e a Terceira República tomou seu lugar. No DLC Railway Empire - France, você decidirá o futuro industrial do país.",
                             "offerId": "f8470811788e4f9792ac6590781fec8a",
                             "tag": "dlc",
-                            "title": "France",
                             "type": "addon",
+                            "title": "France",
                             "slug": "product/railway-empire/france"
                         },
                         {
@@ -818,11 +813,11 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "Railway Empire heads to Northern Europe. Aid the Swedish Parliament and construct a national railroad to continue the far-reaching industrial advancements along the lakes and rivers that were first used by ships to provide goods to Northern Europe’s people.",
+                            "description": "O Railway Empire segue para o norte da Europa. Ajude o Parlamento sueco a construir uma ferrovia nacional e continuar os avanços industriais de longo alcance ao redor dos lagos e rios, que foram usados pela primeira vez por navios para fornecer mercadorias aos povos do norte da Europa.",
                             "offerId": "9bb878f8cc954b09a9bd67399208852a",
                             "tag": "dlc",
-                            "title": "Northern Europe",
                             "type": "addon",
+                            "title": "Northern Europe",
                             "slug": "product/railway-empire/northern-europe"
                         },
                         {
@@ -835,11 +830,11 @@
                             },
                             "_type": "Product DLC",
                             "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-                            "description": "In the Railway Empire “Down Under” DLC, it is up to you to tame the unforgiving outback and expand your railway network across its wild terrain and beyond. Are you ready to face the sun-scorched landscape of Australia’s Red Centre?",
+                            "description": "No DLC \"Down Under\" de Railway Empire, você é quem decide domar o implacável outback australiano e expandir sua rede ferroviária em todo o seu terreno selvagem e além. Você está pronto para enfrentar a paisagem ressecada pelo sol do Red Centre da Austrália?",
                             "offerId": "f2bf64312f2a4eec8abd3528f97963a9",
                             "tag": "dlc",
-                            "title": "Down Under",
                             "type": "addon",
+                            "title": "Down Under",
                             "slug": "product/railway-empire/down-under"
                         }
                     ],

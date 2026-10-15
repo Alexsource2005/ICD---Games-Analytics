@@ -1,21 +1,25 @@
 {
     "title": "LEGO® Batman™ 2: DC Super Heroes",
-    "id": "ad6b9e6c4cfc4b959ce44ecad7565c7b",
-    "namespace": "epic",
-    "description": "LEGO® Batman™ 2: DC Super Heroes",
-    "effectiveDate": "2050-08-01T10:05:00.000Z",
+    "id": "bad91db9e66044fdaf195d6a8e882cdb",
+    "namespace": "cb23c857ec0d42d89b4be34d11302959",
+    "description": "Lendas, uni-vos! A Dupla Dinâmica de Batman e Robin se unem a outros super-heróis famosos do Universo DC, como Super-Homem, Mulher Maravilha e Lanterna Verde, para salvar Gotham City da destruição pelas mãos de notórios vilões como Lex Luthor e Coringa.",
+    "effectiveDate": "2019-09-26T15:00:00.000Z",
     "keyImages": [
         {
-            "type": "DieselGameBoxLogo",
-            "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-2-207x63-b74bbaed0707a101c3e8a8cea78873df.png"
+            "type": "featuredMedia",
+            "url": "https://cdn2.unrealengine.com/Diesel/productv2/lego-batman-2/EGS_WB_LEGO_Batman_2_G1_1920x1080_19_0911-1920x1080-2dd4f86dcc1882caa2a0b82f31eedff7fec1ac2b.jpg"
         },
         {
-            "type": "DieselStoreFrontWide",
-            "url": "https://cdn1.epicgames.com/epic/offer/lego-batman-2_promo-1536x852-e28a3626558ca6cded26fa94cbdf227f.jpg"
+            "type": "OfferImageTall",
+            "url": "https://cdn1.epicgames.com/offer/cb23c857ec0d42d89b4be34d11302959/batman_1200x1600-d388972fd0a20881901f3946cb1c97f9"
         },
         {
-            "type": "DieselStoreFrontTall",
-            "url": "https://cdn1.epicgames.com/epic/offer/lego_batman_2_portrait-1024x1204-04a94a4da2bd20c866f673f7af8f1eea.jpg"
+            "type": "OfferImageWide",
+            "url": "https://cdn1.epicgames.com/offer/cb23c857ec0d42d89b4be34d11302959/batman_2560x1440-5ae4ef67a56a61d905454d75245b765b"
+        },
+        {
+            "type": "Thumbnail",
+            "url": "https://cdn1.epicgames.com/offer/cb23c857ec0d42d89b4be34d11302959/batman_1200x1600-d388972fd0a20881901f3946cb1c97f9"
         }
     ],
     "seller": {
@@ -23,14 +27,47 @@
         "name": "Warner Bros."
     },
     "productSlug": "lego-batman-2/home",
-    "urlSlug": "lego-batman-2-dc-super-heroes",
+    "urlSlug": "gracklegeneralaudience",
     "url": null,
     "tags": [
         {
             "id": "1216"
         },
         {
+            "id": "21121"
+        },
+        {
+            "id": "21122"
+        },
+        {
+            "id": "1188"
+        },
+        {
+            "id": "21130"
+        },
+        {
+            "id": "9547"
+        },
+        {
+            "id": "9549"
+        },
+        {
             "id": "1264"
+        },
+        {
+            "id": "21138"
+        },
+        {
+            "id": "21139"
+        },
+        {
+            "id": "21140"
+        },
+        {
+            "id": "21109"
+        },
+        {
+            "id": "21141"
         },
         {
             "id": "1370"
@@ -39,62 +76,70 @@
             "id": "1307"
         },
         {
-            "id": "9547"
-        },
-        {
             "id": "1117"
         },
         {
-            "id": "9549"
+            "id": "21149"
+        },
+        {
+            "id": "1183"
+        },
+        {
+            "id": "21119"
         }
     ],
     "items": [
         {
-            "id": "83564e9426d44ce2bbbab6037b80354c",
-            "namespace": "epic"
+            "id": "633995775cfa4d8aa30ead349d8c2cf6",
+            "namespace": "cb23c857ec0d42d89b4be34d11302959"
         }
     ],
     "customAttributes": [
-        {
-            "key": "com.epicgames.app.weight",
-            "value": "8401"
-        },
-        {
-            "key": "com.epicgames.app.offerNs",
-            "value": "cb23c857ec0d42d89b4be34d11302959"
-        },
         {
             "key": "com.epicgames.app.blacklist",
             "value": "{}"
         },
         {
-            "key": "com.epicgames.app.productSlug",
-            "value": "lego-batman-2/home"
+            "key": "publisherName",
+            "value": "Warner Bros."
         },
         {
-            "key": "com.epicgames.app.offerId",
-            "value": "bad91db9e66044fdaf195d6a8e882cdb"
+            "key": "developerName",
+            "value": "Traveller's Tales"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "lego-batman-2/home"
         }
     ],
     "categories": [
         {
             "path": "games"
+        },
+        {
+            "path": "games/edition"
+        },
+        {
+            "path": "games/edition/base"
+        },
+        {
+            "path": "applications"
         }
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 1999,
-            "originalPrice": 1999,
+            "discountPrice": 8999,
+            "originalPrice": 8999,
             "voucherDiscount": 0,
             "discount": 0,
-            "currencyCode": "USD",
+            "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
-                "originalPrice": "$19.99",
-                "discountPrice": "$19.99",
-                "intermediatePrice": "$19.99"
+                "originalPrice": "R$ 89,99",
+                "discountPrice": "R$ 89,99",
+                "intermediatePrice": "R$ 89,99"
             }
         },
         "lineOffers": [

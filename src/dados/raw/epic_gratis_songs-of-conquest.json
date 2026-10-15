@@ -28,12 +28,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/songs-of-conquest",
+    "_urlPattern": "/pt-BR/productv2/songs-of-conquest",
     "_slug": "songs-of-conquest",
     "_activeDate": "2021-06-13T22:50:00.000Z",
-    "lastModified": "2021-06-13T20:18:16.055Z",
-    "_locale": "en-US",
-    "_id": "d19cd7cd-e064-48a8-ab1a-ca06747e642e",
+    "lastModified": "2021-06-07T21:58:10.985Z",
+    "_locale": "pt-BR",
+    "_id": "76a1e0c0-18ad-4740-9287-725c72033eed",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -68,12 +68,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/songs-of-conquest/home",
+            "_urlPattern": "/pt-BR/productv2/songs-of-conquest/home",
             "_slug": "home",
             "_activeDate": "2022-05-10T15:55:00.000Z",
-            "lastModified": "2024-05-20T03:09:37.421Z",
-            "_locale": "en-US",
-            "_id": "1c293301-7074-416f-99ae-fa51a853470c",
+            "lastModified": "2024-05-20T03:10:11.314Z",
+            "_locale": "pt-BR",
+            "_id": "0ec9a098-6958-48e2-a0fc-ff028aa3836f",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -91,8 +91,8 @@
             "data": {
                 "requirements": {
                     "languages": [
-                        "Audio: English",
-                        "Text: English, Czech, French, German, Italian, Polish, Russian, Spanish - Spain, Chinese - Simplified, Japanese, Korean, Portuguese - Brazil, Ukrainian, Chinese - Traditional"
+                        "Áudio: inglês",
+                        "Texto: inglês, tcheco, francês, alemão, italiano, polonês, russo, espanhol (Espanha), chinês simplificado, japonês, coreano, Português (Brasil), ucraniano, chinês tradicional"
                     ],
                     "systems": [
                         {
@@ -101,39 +101,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
+                                    "title": "Sistema operacional",
                                     "minimum": "Windows 7",
                                     "recommended": "Windows 10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "i5 Dual Core or Ryzen 5",
-                                    "recommended": "i7 Quad Core or Ryzen 7"
+                                    "title": "Processador",
+                                    "minimum": "i5 Dual Core ou Ryzen 5",
+                                    "recommended": "i7 Quad Core ou Ryzen 7"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
+                                    "title": "Memória",
                                     "minimum": "4 GB",
                                     "recommended": "16 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "4 GB",
                                     "recommended": "8 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Direct X",
+                                    "title": "DirectX",
                                     "minimum": "10",
                                     "recommended": "10"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Integrated Graphics",
-                                    "recommended": "GTX 970, RX 570 or similar"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo integrada",
+                                    "recommended": "GTX 970, RX 570 ou similar"
                                 }
                             ]
                         },
@@ -143,33 +143,33 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Mac OS X 10.10 or later",
-                                    "recommended": "Mac OS X 10.13"
+                                    "title": "Sistema operacional",
+                                    "minimum": "macOS X 10.10 ou superior",
+                                    "recommended": "macOS X 10.13"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
+                                    "title": "Processador",
                                     "minimum": "Intel Core i3",
                                     "recommended": "Intel Core i5"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "8 GB RAM",
-                                    "recommended": "16 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "8 GB de RAM",
+                                    "recommended": "16 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
-                                    "minimum": "4 GB available space",
-                                    "recommended": "8 GB available space"
+                                    "title": "Armazenamento",
+                                    "minimum": "4 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
-                                    "minimum": "Radeon Pro 450 2GB, OpenGL 3.3",
-                                    "recommended": "GeForce GTX 550 or equivalent"
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Radeon Pro 450 de 2 GB, OpenGL 3.3",
+                                    "recommended": "GeForce GTX 550 ou equivalente"
                                 }
                             ]
                         }
@@ -199,7 +199,7 @@
                     "privacyPolicyLink": {
                         "src": "https://www.lavapotion.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Lavapotion Privacy Policy"
+                        "title": "Política de Privacidade da Lavapotion"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -211,8 +211,8 @@
                     "developerAttribution": "Lavapotion",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Coffee Stain Publishing",
-                    "description": "Songs of Conquest is a turn-based strategy game inspired by 90s classics. Lead powerful magicians called Wielders and venture to lands unknown. Wage battles against armies that dare oppose you, hunt for powerful artifacts and expand your territory. The world is ripe for the taking – seize it!\n\n# Adventure Awaits\n\nExplore a wide variety of maps with diverse enemies and valuable loot. Delve into contrasting biomes with unique factions, environments and battlefields.\n\n# Build an Empire\n\nManage resources, research new advancements and expand your kingdom. Plan your towns to match your playstyle – Will you enlist every archer you can to rain death from their bows, or will the eternal legions of Aurelia march to war beneath your banners?\n\n# Wage War\n\nDive into a deep combat system using troop abilities and powerful magic. Combine troops to maximize available spells and damage potential. March into epic siege battles and determine which faction matches your playstyle and strategy. There are many ways to conquer!\n\n# Play Your Way\n\nHandcrafted maps for the curious adventurer, or randomized maps for endless replayability. Conquest maps allow head-to-head battles, while Challenge maps offer strategic puzzles to hone your tactical thinking. Find a plethora of maps created by the Lavapotion team as well as our mod community.\n\n# Alone or Together\n\nVenture into the world of Aerbor on your own, team up with a friend, or enlist AI allies and enemies - the choice is yours. The majority of maps are playable in single player, co-op, or multiplayer through local hotseat or online.\n\n# Four Factions\n\nFour factions are locked in an epic conflict. Arleon, knights of old battling each other for dominance. Rana, ancient tribes fighting for survival in the swamp. Loth, necromancers raising the dead to create a glorious future. Barya, bold mercenaries and inventors dedicated to coin, gunpowder and independence.\n\n# Four Choral Campaigns\n\nListen to the bards as they celebrate your path to victory. Each campaign comes with a unique song that tells the tale of your rise and ruin. Unlock new verses as you complete missions, enjoying the full track at the end of the journey.\n\n# In-game Map Editor\n\nThe in-game map editor allows you to create your own adventures using the same tools the developers use to create campaign and skirmish maps. Script in-game events, control the soundtrack, write dialogue and share your creations with others!\n",
-                    "shortDescription": "Raise mighty armies, wield ancient magic and forge an empire. This turn-based strategy adventure game fuses strategic decision making, tactical combat and kingdom management.",
+                    "description": "Songs of Conquest é um jogo de estratégia em turnos inspirado nos clássicos dos anos 90\\. Comande poderosos feiticeiros chamados Portadores e se aventure em terras desconhecidas. Batalhe contra os exércitos que ousarem ficar em seu caminho, procure por poderosos artefatos e expanda seu território. O mundo está pronto para ser tomado, então domine\\-o\\!\n\nA aventura espera por você\n==========================\n\nExplore uma grande variedade de mapas com inimigos diversificados e itens valiosos. Aventure\\-se em biomas contrastantes com grupos únicos de inimigos, ambientes e campos de batalha.\n\nConstrua um Império\n===================\n\nGerencie recursos, pesquise inovações e amplie seu reino. Planeje suas cidades de acordo com seu estilo de jogo: você quer reunir o máximo de arqueiros possível para lançar uma chuva de flechas mortal ou quer convocar as legiões eternas de Aurelia para marchar sob seu comando?\n\nDeclare Guerras\n===============\n\nMergulhe em um sistema de combate complexo, utilizando habilidades e magias poderosas das tropas. Combine tropas para aumentar as magias disponíveis e o potencial de dano. Comande cercos épicos e determine qual facção combina melhor com sua estratégia e estilo. Todo caminho leva à conquista\\!\n\nJogue do seu jeito\n==================\n\nExperimente mapas personalizados para aventureiros curiosos ou mapas aleatórios com infinitas possibilidades de jogo. Mapas de Conquista são ideais para batalhas competitivas, enquanto Mapas de Desafio oferecem problemas estratégicos para aprimorar seu raciocínio tático. Encontre uma variedade de mapas criados pela equipe da Lavapotion ou por nossa comunidade de modificações.\n\nSó ou Com Amigos\n================\n\nAventure\\-se pelo mundo de Aerbor por conta própria, junte\\-se a um amigo ou defina aliados e inimigos de IA, a escolha é sua. A maioria dos mapas está disponível para um ou mais jogadores ou no modo cooperativo localmente ou online.\n\nQuatro Facções\n==============\n\nQuatro facções estão presas em um conflito épico: Arleon, cavaleiros antigos que lutam entre si pelo domínio; Rana, tribos ancestrais que lutam para sobreviver no pântano; Loth, necromantes que reanimam os mortos para criar um futuro glorioso; e Barya, mercenários corajosos e inventores dedicados ao dinheiro, à pólvora e à independência.\n\nQuatro Campanhas Cantadas\n=========================\n\nOuça os bardos enquanto eles celebram seu caminho rumo à vitória. Cada campanha possui uma música exclusiva que narra sua ascensão e queda. Libere novos versos ao concluir missões e desfrute da canção completa ao final da jornada.\n\nEditor de Mapas Integrado\n=========================\n\nO editor de mapas dentro do jogo permite que você crie suas próprias aventuras usando as mesmas ferramentas usadas pelos desenvolvedores ao criar os mapas de campanha e de batalha. Programe eventos dentro do jogo, controle a trilha sonora, escreva diálogos e compartilhe suas criações com outras pessoas\\!\n\n",
+                    "shortDescription": "Reúna tropas poderosas, utilize magia antiga e construa um império. Este jogo de aventura e estratégia em turnos combina tomada de decisões estratégica, combate tático e gerenciamento de reinos.",
                     "title": "Songs of Conquest",
                     "developerLogo": {
                         "_type": "Diesel Image"
@@ -227,7 +227,7 @@
                 },
                 "hero": {
                     "logoImage": {
-                        "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-ic1-400x400-6574b663bc1d.png",
+                        "src": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-ic5-400x178-f6fb401a5457.png",
                         "_type": "Diesel Image"
                     },
                     "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s2-1200x1600-2e2e2ad46dce.jpg",
@@ -243,8 +243,8 @@
                         "muted": false,
                         "autoplay": false
                     },
-                    "altContentPosition": false,
                     "isFullBleed": false,
+                    "altContentPosition": false,
                     "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s1-2560x1440-d57c50f90fda.jpg"
                 },
                 "carousel": {
@@ -261,8 +261,8 @@
                                 "_type": "Diesel Video",
                                 "hasFullScreen": false,
                                 "hasControls": true,
+                                "title": "Trailer de lançamento da 1.0",
                                 "type": "epicHosted",
-                                "title": "1.0 launch trailer",
                                 "muted": true,
                                 "autoplay": true
                             }
@@ -534,9 +534,9 @@
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-11-1920x1080-b20fdbe18f56.jpg",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-03-1920x1080-1c5947583072.jpg",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s1-2560x1440-d57c50f90fda.jpg",
+                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-ic5-400x178-f6fb401a5457.png",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-04-1920x1080-4dcfddf72fb4.jpg",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-10-1920x1080-e944b11dd48b.jpg",
-                "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-ic1-400x400-6574b663bc1d.png",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-06-1920x1080-602a0c8dbb08.jpg",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-s2-1200x1600-2e2e2ad46dce.jpg",
                 "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-3b626a4d5261.jpg",

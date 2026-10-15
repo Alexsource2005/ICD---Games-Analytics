@@ -55,13 +55,13 @@
         "light": {
             "_type": "Epic Store Page Theme Selection",
             "theme": "gray",
-            "accent": "#0000FF"
+            "accent": "#62c0ea"
         },
         "_type": "Epic Store Page Theme",
         "dark": {
             "_type": "Epic Store Page Theme Selection",
             "theme": "gray",
-            "accent": "#0000FF"
+            "accent": "#62c0ea"
         }
     },
     "namespace": "f3720f53cccb4a20841a392a8ea0457f",
@@ -72,12 +72,12 @@
     "externalNavLinks": {
         "_type": "Epic Store Links"
     },
-    "_urlPattern": "/productv2/aer-memories-of-old",
+    "_urlPattern": "/pt-BR/productv2/aer-memories-of-old",
     "_slug": "aer-memories-of-old",
     "_activeDate": "2020-06-17T21:15:04.019Z",
     "lastModified": "2020-06-17T21:40:29.184Z",
-    "_locale": "en-US",
-    "_id": "6b01dd4f-01cb-41a7-b0ff-7e817e3edb65",
+    "_locale": "pt-BR",
+    "_id": "7b790937-440a-42bf-b4fb-89b9c68ec485",
     "_templateName": "productNamespace",
     "pages": [
         {
@@ -147,20 +147,20 @@
                 "light": {
                     "_type": "Epic Store Page Theme Selection",
                     "theme": "gray",
-                    "accent": "#0000FF"
+                    "accent": "#62c0ea"
                 },
                 "_type": "Epic Store Page Theme",
                 "dark": {
                     "_type": "Epic Store Page Theme Selection",
                     "theme": "gray",
-                    "accent": "#0000FF"
+                    "accent": "#62c0ea"
                 }
             },
             "namespace": "f3720f53cccb4a20841a392a8ea0457f",
             "theme": {
-                "buttonPrimaryBg": "#0000FF",
+                "buttonPrimaryBg": "#62c0ea",
                 "customPrimaryBg": "#ffffff",
-                "accentColor": "#0000FF",
+                "accentColor": "#62c0ea",
                 "_type": "Diesel Theme",
                 "colorScheme": "light"
             },
@@ -168,12 +168,12 @@
             "externalNavLinks": {
                 "_type": "Epic Store Links"
             },
-            "_urlPattern": "/productv2/aer-memories-of-old/home",
+            "_urlPattern": "/pt-BR/productv2/aer-memories-of-old/home",
             "_slug": "home",
             "_activeDate": "2020-06-17T21:16:14.990Z",
-            "lastModified": "2020-09-22T17:28:50.398Z",
-            "_locale": "en-US",
-            "_id": "676c2946-2755-4bac-a8a0-6ff7543d4ef9",
+            "lastModified": "2020-06-17T21:31:43.859Z",
+            "_locale": "pt-BR",
+            "_id": "f4ec22a7-e30b-409b-9945-d59bd0d34d1e",
             "_templateName": "productDetail",
             "offer": {
                 "regionRestrictions": {
@@ -194,13 +194,13 @@
                 },
                 "socialLinks": {
                     "_type": "Diesel Social Links",
-                    "title": "Follow AER",
+                    "title": "Siga AER",
                     "linkHomepage": "https://www.daedalic.com/aer"
                 },
                 "requirements": {
                     "languages": [
-                        "AUDIO: English",
-                        "TEXT: English, Chinese - Simplified, Chinese - Traditional, French, German, Italian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Spain"
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, chinês tradicional, francês, alemão, italiano, japonês, coreano, polonês, português (Brasil), russo, espanhol (Espanha)"
                     ],
                     "systems": [
                         {
@@ -209,39 +209,39 @@
                             "details": [
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "OS",
-                                    "minimum": "Win 7, 8, 10, 64bit",
-                                    "recommended": "Win 7, 8, 10, 64bit"
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7, 8, 10 de 64 bits",
+                                    "recommended": "Windows 7, 8, 10 de 64 bits"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Processor",
-                                    "minimum": "3 GHz Dual Core CPU",
-                                    "recommended": "3GHz Quad Core CPU"
+                                    "title": "Processador",
+                                    "minimum": "Processador Dual Core de 3 GHz",
+                                    "recommended": "Processador Quad Core de 3 GHz"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Memory",
-                                    "minimum": "4 GB RAM",
-                                    "recommended": "4 GB RAM"
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Storage",
+                                    "title": "Armazenamento",
                                     "minimum": "3 GB",
                                     "recommended": "3 GB"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
                                     "title": "Direct X",
-                                    "minimum": "Version 11",
-                                    "recommended": "Version 11"
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
                                 },
                                 {
                                     "_type": "Diesel System Detail Item",
-                                    "title": "Graphics",
+                                    "title": "Placa de vídeo",
                                     "minimum": "GeForce GTX 560, AMD HD 6870",
-                                    "recommended": "GeForce GTX 660TI, AMD HD 7800 series"
+                                    "recommended": "GeForce GTX 660TI, AMD HD série 7800"
                                 }
                             ]
                         }
@@ -255,11 +255,11 @@
                 "navOrder": 1,
                 "footer": {
                     "_type": "Diesel Product Footer",
-                    "copy": "© 2017 Daedalic Entertainment GmbH and Forgotten Key AB. Daedalic-logo is a trademark of Daedalic Entertainment GmbH, Germany. AER Memories of Old is a trademark of Forgotten Key AB, Sweden. Developed by Forgotten Key. All rights reserved.",
+                    "copy": "© 2017 Daedalic Entertainment GmbH e Forgotten Key AB. O logo da Daedalic é uma marca comercial da Daedalic Entertainment GmbH, Alemanha. AER Memories of Old é uma marca comercial da Forgotten Key AB, Suécia. Desenvolvido por Forgotten Key. Todos os direitos reservados.",
                     "privacyPolicyLink": {
                         "src": "https://www.daedalic.com/privacy-policy",
                         "_type": "Diesel Link",
-                        "title": "Daedalic Entertainment Privacy Policy"
+                        "title": "Política de Privacidade da Daedalic Entertainment"
                     }
                 },
                 "_type": "Diesel Product Detail",
@@ -271,8 +271,8 @@
                     "developerAttribution": "Forgotten Key",
                     "_type": "Diesel Product About",
                     "publisherAttribution": "Daedalic Entertainment",
-                    "description": "**Transform into a bird** and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.\n\n**The gods of old are forgotten**, lost in the events that shattered the world, leaving only fragments of islands in the sky. This mystic world of endless skies, colorful islands and ancient ruins is in danger of falling into darkness. As one of the last few shapeshifters, you are sent on a pilgrimage to the Land of Gods. Uncover the secrets that will help save reality itself.\n\n# Features\n\n- Fly and explore by transforming into a bird at will\n- A large open world of hidden secrets and new discoveries\n- A pilgrimage of mysteries, puzzles and temples\n- Strong focus on atmosphere and aesthetics with a vibrant minimalist art style",
-                    "shortDescription": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.",
+                    "description": "**Transforme-se em um pássaro** e voe para explorar e descobrir um mundo vibrante de ilhas que flutuam no céu. Aventure-se em ruínas antigas perdidas, onde cada passo o leva para mais perto do fim do mundo.\n\n**Os deuses da antiguidade foram esquecidos**. Eles se perderam nos eventos que despedaçaram o mundo, deixando apenas fragmentos de ilhas no céu. Este mundo místico de céus sem fim, ilhas coloridas e ruínas antigas corre o risco de cair na escuridão. Como um dos últimos metamorfos, você é enviado em uma peregrinação à Terra dos Deuses. Descubra os segredos que ajudarão a salvar a própria realidade.\n\n# Recursos\n\n- Voe e explore transformando-se em um pássaro quando quiser\n- Um grande mundo aberto de segredos ocultos e novas descobertas\n- Uma peregrinação de mistérios, enigmas e templos\n- Um foco intenso na atmosfera e estética com um estilo de arte minimalista vibrante",
+                    "shortDescription": "Transforme-se em um pássaro e voe para explorar e descobrir um mundo vibrante de ilhas que flutuam no céu. Aventure-se em ruínas antigas perdidas, onde cada passo o leva para mais perto do fim do mundo.",
                     "title": "AER Memories of Old",
                     "developerLogo": {
                         "_type": "Diesel Image"

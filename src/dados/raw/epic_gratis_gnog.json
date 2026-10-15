@@ -1,0 +1,413 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#4dfc95"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#4dfc95"
+        }
+    },
+    "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+    "_title": "gnog",
+    "productName": "GNOG",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/gnog",
+    "_slug": "gnog",
+    "_activeDate": "2019-07-29T17:17:30.004Z",
+    "lastModified": "2019-08-05T15:19:20.212Z",
+    "_locale": "pt-BR",
+    "_id": "ca5db738-e39a-4aa7-bdc1-8b8c0745ea29",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#4dfc95"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#4dfc95"
+                }
+            },
+            "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+            "_title": "home",
+            "productName": "GNOG",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/gnog/home",
+            "_slug": "home",
+            "_activeDate": "2019-07-29T17:19:21.301Z",
+            "lastModified": "2022-11-03T18:45:45.397Z",
+            "_locale": "pt-BR",
+            "_id": "2b0bb401-3763-4612-b1fa-60b9431a332c",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+                "id": "dff5698e513d49f4b6823c6472f07137",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "f1e0564cd6e841679c678cef65594a2b",
+                "appName": "Penguin",
+                "_type": "Diesel Product Item",
+                "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+                "hasItem": true
+            },
+            "data": {
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, italiano, alemão, espanhol - Espanha, árabe, dinamarquês, holandês, finlandês, japonês, norueguês, polonês, português, português - Brasil, russo, sueco, turco"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7 ou mais recente",
+                                    "recommended": "Windows 10 ou mais recente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "CPU de 2 GHz e 64 bits",
+                                    "recommended": "Intel® Core™ i5-4590 ou AMD® FX 8350"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo dedicada com 1 GB de memória",
+                                    "recommended": "NVIDIA GTX 970 ou AMD Radeon R9 290 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 9.0",
+                                    "recommended": "Versão 9.0"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB de espaço disponível",
+                                    "recommended": "2 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações adicionais",
+                                    "minimum": "Requisitos recomendados para suporte a VR",
+                                    "recommended": "Requisitos recomendados para suporte a VR"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Mac OSX 10+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "CPU de 2 GHz e 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo dedicada com 1 GB de memória"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_0-390x450-c95b68b02aacc3724e07991873c5ea2b3f94b5ba.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGRAC_ALL-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "전체이용가"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FESRB_GNOG-842x404-e283f29c1936f0f8afa2052740fb4230e28f314e.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Maiores de 10 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/KOOPMode",
+                    "linkTwitch": "https://www.twitch.tv/koopmode",
+                    "linkFacebook": "https://www.facebook.com/koopmode",
+                    "linkYoutube": "https://www.youtube.com/user/KOOPMode",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga GNOG",
+                    "linkHomepage": "https://www.gnoggame.com/"
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "KO_OP Copyright 2019",
+                    "privacyPolicyLink": {
+                        "src": "https://ko-opmode.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Política de privacidade da Ko-Op"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/gnog-egs-1200x1600-1200x1600-7f954bd00b81.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Ko-Op",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Double Fine",
+                    "description": "GNOG é um jogo de quebra-cabeça 3D ambientado em um mundo tátil cheio de brinquedos e segredos. Aponte, clique, agarre, cutuque, gire, puxe e brinque com cabeças de monstros únicas e encantadoras enquanto você explora os mundos escondidos dentro delas. Com designs atraentes, interações divertidas e uma trilha sonora rica e reativa, as cabeças feitas à mão ganham vida tanto no jogo padrão quanto em realidade virtual.\n\nInspiradas em brinquedos reais, cada cabeça do GNOG é um mundo em miniatura para descobrir. Pegue e gire uma estante para revelar uma pilha escondida de moedas, puxe alavancas para navegar um navio danificado através do espaço, gire uma roda para fazer um cozido no fogão: cada interação lúdica gera respostas animadas e consequências surpreendentes. Com uma trilha sonora relaxante e dinâmica que evolui a cada nível, os mundos surreais e os quebra-cabeças alegres não vão sair da sua cabeça.\n",
+                    "title": "GNOG",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG_IC3_KOOPlogo_color-200x38-31d8687be96191ad0689e134003a60f9851db51e.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG_IC1_logo_color-200x200-ef8e162bec8356012a9f9b1386b44034adf875d1.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/gnog-egs-1200x1600-1200x1600-7f954bd00b81.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "altContentPosition": false,
+                    "isFullBleed": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/gnog-egs-2560x1440-2560x1440-498d264e3811.png"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "sources": [
+                                    {
+                                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG-EGS-Recut-Compressed-b1f05abe85aa054f4ad7aed19a8c4ce28a3c38ce.webm",
+                                        "_type": "Diesel Html Video Source",
+                                        "type": "Video/Webm"
+                                    },
+                                    {
+                                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG-EGS-Recut-Compressed-e609b9c36a454ab628acd819fb3a5b53dfd9ad6e.mp4",
+                                        "_type": "Diesel Html Video Source",
+                                        "type": "Video/MP4"
+                                    }
+                                ],
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "contentId": "",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "locale": "en",
+                                "type": "htmlVideo",
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2018-07-17T12:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Ko-Op"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Ko-Op"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "CASUAL",
+                        "INDIE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG_G2_1200_space-1200x555-f4dc5d98b84ce80b67974558c849612bd664c1ec.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        }
+                    ]
+                },
+                "navTitle": "GNOG"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#4dfc95",
+                "customPrimaryBg": "#1c1d39",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "type": "productHome",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/gnog-egs-2560x1440-2560x1440-498d264e3811.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG_IC3_KOOPlogo_color-200x38-31d8687be96191ad0689e134003a60f9851db51e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG_G2_1200_space-1200x555-f4dc5d98b84ce80b67974558c849612bd664c1ec.jpg",
+                "https://cdn2.unrealengine.com/gnog-egs-1200x1600-1200x1600-7f954bd00b81.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG_IC1_logo_color-200x200-ef8e162bec8356012a9f9b1386b44034adf875d1.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG-EGS-Recut-Compressed-e609b9c36a454ab628acd819fb3a5b53dfd9ad6e.mp4",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FGNOG-EGS-Recut-Compressed-b1f05abe85aa054f4ad7aed19a8c4ce28a3c38ce.webm",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGRAC_ALL-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgnog%2Fhome%2FESRB_GNOG-842x404-e283f29c1936f0f8afa2052740fb4230e28f314e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_0-390x450-c95b68b02aacc3724e07991873c5ea2b3f94b5ba.png"
+            ]
+        }
+    ],
+    "data_aquisicao_gratis": "Agosto 8-15, 2019"
+}
