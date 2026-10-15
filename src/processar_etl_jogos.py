@@ -127,22 +127,26 @@ for arquivo in os.listdir(pasta_raw):
     elif origem == "gog":
         reg["tem_gog"] = True
         reg["gog_lancamento"] = data.get("release_date")
-        price_gog = data.get("price", {})
-        gog_preco_val = None
-        if isinstance(price_gog, dict):
-            gog_preco_val = (price_gog.get("finalFormatted") or price_gog.get("final") or price_gog.get("amount"))
-            if not gog_preco_val and "values" in price_gog:
-                values_dict = price_gog.get("values", {})
-                if isinstance(values_dict, dict):
-                    brl_val = values_dict.get("BRL") or values_dict.get("USD")
-                    if isinstance(brl_val, dict):
-                        gog_preco_val = brl_val.get("finalFormatted") or brl_val.get("final")
-                    elif isinstance(brl_val, (int, float, str)):
-                        gog_preco_val = brl_val
-        elif isinstance(price_gog, (int, float, str)):
-            gog_preco_val = price_gog
 
-        reg["gog_preco"] = gog_preco_val
+        price_gog = data.get("price", {})
+        preco_formatado = None
+
+        if isinstance(price_gog, dict):
+            final_money = price_gog.get("finalMoney", {})
+            raw_val = (final_money.get("amount") or price_gog.get("final") or price_gog.get("amount"))
+            if raw_val is not None:
+                try:
+                    if isinstance(raw_val, str):
+                        val_float = float(raw_val.replace("$", "").strip())
+                    else:
+                        val_float = float(raw_val)
+
+                    valor_convertido = val_float * 1.934
+                    preco_formatado = (f"R$ {valor_convertido:.2f}".replace(".", ",") if valor_convertido > 0 else "Grátis")
+                except Exception:
+                    pass
+
+        reg["gog_preco"] = preco_formatado
 
         genres_gog = data.get("genres", [])
         if genres_gog:

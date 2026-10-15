@@ -1,0 +1,77 @@
+{
+    "id": 1173089864,
+    "title": "Maneater",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/maneater",
+    "slug": "maneater",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "tr": "Türkçe",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/maneater",
+        "product_card": "https://www.gog.com/game/maneater",
+        "support": "https://www.gog.com/support/maneater",
+        "forum": "https://www.gog.com/forum/maneater"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2026-08-12T14:00:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/b043b463497c0770531086a4a9378516fe50c32d2e2ae3687ea609edb656d86f.jpg",
+        "logo": "//images-1.gog-statics.com/c40e6276bcc95d639e494624e198db9c4778184bed9a4b1f990300a3882f9400_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/c40e6276bcc95d639e494624e198db9c4778184bed9a4b1f990300a3882f9400_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/667e5326ca89fa74f408038c964118c38e57b46645482ffaaeb7d8d493d17f79_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/667e5326ca89fa74f408038c964118c38e57b46645482ffaaeb7d8d493d17f79_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/667e5326ca89fa74f408038c964118c38e57b46645482ffaaeb7d8d493d17f79_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/667e5326ca89fa74f408038c964118c38e57b46645482ffaaeb7d8d493d17f79_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/667e5326ca89fa74f408038c964118c38e57b46645482ffaaeb7d8d493d17f79.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1807870657,
+                "link": "https://api.gog.com/products/1807870657",
+                "expanded_link": "https://api.gog.com/products/1807870657"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1807870657",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1807870657"
+    },
+    "price": {
+        "final": "$5.99",
+        "base": "$39.99",
+        "discount": "-85%",
+        "finalMoney": {
+            "amount": "5.99",
+            "currency": "USD",
+            "discount": "34.00"
+        },
+        "baseMoney": {
+            "amount": "39.99",
+            "currency": "USD"
+        }
+    }
+}

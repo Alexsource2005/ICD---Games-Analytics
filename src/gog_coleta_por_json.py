@@ -93,6 +93,7 @@ for indice, nome in enumerate(sorted(nomes_jogos), start=1):
             resp_detalhes = requests.get(detalhes_url, headers=headers, timeout=10)
             if resp_detalhes.status_code == 200:
                 detalhes_json = resp_detalhes.json()
+                detalhes_json["price"] = produto_gog.get("price")
             else:
                 detalhes_json = produto_gog
         except Exception:

@@ -1,0 +1,69 @@
+{
+    "id": 1325604411,
+    "title": "Thimbleweed Park",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/thimbleweed_park",
+    "slug": "thimbleweed_park",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/thimbleweed_park",
+        "product_card": "https://www.gog.com/game/thimbleweed_park",
+        "support": "https://www.gog.com/support/thimbleweed_park",
+        "forum": "https://www.gog.com/forum/thimbleweed_park"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2017-03-30T17:59:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/27246c40117d2beb0fd4fd40293408935c4a55e3a666a5e3542e3021fcc2b19c.jpg",
+        "logo": "//images-3.gog-statics.com/31e65bb51db85cdf0415a350eab784240a8490c7c0857aeba2a35c2f269c646f_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/31e65bb51db85cdf0415a350eab784240a8490c7c0857aeba2a35c2f269c646f_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/d76f6ee27c80d7e174f3f3efe11402ac16275a1f7b16b221b2bf5f7d4a46a0bc_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/d76f6ee27c80d7e174f3f3efe11402ac16275a1f7b16b221b2bf5f7d4a46a0bc_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/d76f6ee27c80d7e174f3f3efe11402ac16275a1f7b16b221b2bf5f7d4a46a0bc_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/d76f6ee27c80d7e174f3f3efe11402ac16275a1f7b16b221b2bf5f7d4a46a0bc_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/d76f6ee27c80d7e174f3f3efe11402ac16275a1f7b16b221b2bf5f7d4a46a0bc.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1858019230,
+                "link": "https://api.gog.com/products/1858019230",
+                "expanded_link": "https://api.gog.com/products/1858019230"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1858019230",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1858019230"
+    },
+    "price": {
+        "final": "$19.99",
+        "base": "$19.99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "19.99",
+            "currency": "USD",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "19.99",
+            "currency": "USD"
+        }
+    }
+}

@@ -65,5 +65,19 @@
         ],
         "all_products_url": "https://api.gog.com/products?ids=1605453432,1643977877,2122671318",
         "expanded_all_products_url": "https://api.gog.com/products?ids=1605453432,1643977877,2122671318"
+    },
+    "price": {
+        "final": "$24.99",
+        "base": "$24.99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "24.99",
+            "currency": "USD",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "24.99",
+            "currency": "USD"
+        }
     }
 }

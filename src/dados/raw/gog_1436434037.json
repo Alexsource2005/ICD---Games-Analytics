@@ -45,5 +45,19 @@
         "menuNotificationAv2": "//images-2.gog-statics.com/817ed64e857ac40a654fb8d1099a0ddf30865d5dd8c6007b04b4574555bf024f_menu_notification_av2.png",
         "icon": "//images-4.gog-statics.com/817ed64e857ac40a654fb8d1099a0ddf30865d5dd8c6007b04b4574555bf024f.png"
     },
-    "dlcs": []
+    "dlcs": [],
+    "price": {
+        "final": "$1.99",
+        "base": "$19.99",
+        "discount": "-90%",
+        "finalMoney": {
+            "amount": "1.99",
+            "currency": "USD",
+            "discount": "18.00"
+        },
+        "baseMoney": {
+            "amount": "19.99",
+            "currency": "USD"
+        }
+    }
 }

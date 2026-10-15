@@ -94,5 +94,19 @@
         ],
         "all_products_url": "https://api.gog.com/products?ids=1096243413,1413589149,1483026914,1905098617,1933329058,2025945387,2062530689,2074413949",
         "expanded_all_products_url": "https://api.gog.com/products?ids=1096243413,1413589149,1483026914,1905098617,1933329058,2025945387,2062530689,2074413949"
+    },
+    "price": {
+        "final": "$39.99",
+        "base": "$39.99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "39.99",
+            "currency": "USD",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "39.99",
+            "currency": "USD"
+        }
     }
 }
