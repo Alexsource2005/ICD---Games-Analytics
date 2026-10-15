@@ -1,0 +1,65 @@
+{
+    "id": 1785384169,
+    "title": "CARRION",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/carrion",
+    "slug": "carrion",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/carrion",
+        "product_card": "https://www.gog.com/game/carrion",
+        "support": "https://www.gog.com/support/carrion",
+        "forum": "https://www.gog.com/forum/carrion"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2020-07-23T14:50:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/77b058909cf17f0aa662e5e798e4a54a88f23aed14cfa3d829ce43f9487bad71.jpg",
+        "logo": "//images-1.gog-statics.com/fbb450bb1c6db10a6680dcbf4ceea307b0ab9c83c7f32ab52cc2e6c51d6c3f78_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/fbb450bb1c6db10a6680dcbf4ceea307b0ab9c83c7f32ab52cc2e6c51d6c3f78_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/c705a75fef7bba61daf146eafee31a4ec2a6879db512e22a8735d9fe6c8341f3_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/c705a75fef7bba61daf146eafee31a4ec2a6879db512e22a8735d9fe6c8341f3_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/c705a75fef7bba61daf146eafee31a4ec2a6879db512e22a8735d9fe6c8341f3_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/c705a75fef7bba61daf146eafee31a4ec2a6879db512e22a8735d9fe6c8341f3_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/c705a75fef7bba61daf146eafee31a4ec2a6879db512e22a8735d9fe6c8341f3.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 2032305665,
+                "link": "https://api.gog.com/products/2032305665",
+                "expanded_link": "https://api.gog.com/products/2032305665"
+            },
+            {
+                "id": 2088874455,
+                "link": "https://api.gog.com/products/2088874455",
+                "expanded_link": "https://api.gog.com/products/2088874455"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=2032305665,2088874455",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=2032305665,2088874455"
+    }
+}

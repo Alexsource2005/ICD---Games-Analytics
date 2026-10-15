@@ -1,0 +1,60 @@
+{
+    "id": 1272982663,
+    "title": "Sorry We're Closed",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/sorry_were_closed",
+    "slug": "sorry_were_closed",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "jp": "日本語",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/sorry_were_closed",
+        "product_card": "https://www.gog.com/game/sorry_were_closed",
+        "support": "https://www.gog.com/support/sorry_were_closed",
+        "forum": "https://www.gog.com/forum/sorry_were_closed"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2024-11-14T17:58:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/e04a05c438f06a30db9d3b758ba1126ae928bc8e308464a9413413e9e20097c8.jpg",
+        "logo": "//images-1.gog-statics.com/518c631b656ef6fe921abdb54c059719f259d094a50cc810176fe20ff51f7445_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/518c631b656ef6fe921abdb54c059719f259d094a50cc810176fe20ff51f7445_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/7b4350ac5f0b0b0aa78dd17006b069cbe5b0e33adc203c0ad493e9d9581476bd_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/7b4350ac5f0b0b0aa78dd17006b069cbe5b0e33adc203c0ad493e9d9581476bd_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/7b4350ac5f0b0b0aa78dd17006b069cbe5b0e33adc203c0ad493e9d9581476bd_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/7b4350ac5f0b0b0aa78dd17006b069cbe5b0e33adc203c0ad493e9d9581476bd_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/7b4350ac5f0b0b0aa78dd17006b069cbe5b0e33adc203c0ad493e9d9581476bd.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1666550246,
+                "link": "https://api.gog.com/products/1666550246",
+                "expanded_link": "https://api.gog.com/products/1666550246"
+            },
+            {
+                "id": 1844876382,
+                "link": "https://api.gog.com/products/1844876382",
+                "expanded_link": "https://api.gog.com/products/1844876382"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1666550246,1844876382",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1666550246,1844876382"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": 1444053723,
+    "title": "Little Inferno",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/little_inferno",
+    "slug": "little_inferno",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "nl": "nederlands"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/little_inferno",
+        "product_card": "https://www.gog.com/game/little_inferno",
+        "support": "https://www.gog.com/support/little_inferno",
+        "forum": "https://www.gog.com/forum/little_inferno"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2015-10-08T15:00:00+0200",
+    "images": {
+        "background": "//images-4.gog-statics.com/69ac25e85ab02266398f0b69889ad0d38ca291386cd171e1336571f9fa71055b.jpg",
+        "logo": "//images-1.gog-statics.com/6163f16d5598dd442eb9168e0357764cf81985314c46890a0c5c7a11601203e1_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/6163f16d5598dd442eb9168e0357764cf81985314c46890a0c5c7a11601203e1_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/2221ab2fd4b2d8f7cbf28282287536ba0c271293d044db3d67ec16fb1d02dbb8_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/2221ab2fd4b2d8f7cbf28282287536ba0c271293d044db3d67ec16fb1d02dbb8_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/2221ab2fd4b2d8f7cbf28282287536ba0c271293d044db3d67ec16fb1d02dbb8_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/2221ab2fd4b2d8f7cbf28282287536ba0c271293d044db3d67ec16fb1d02dbb8_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/2221ab2fd4b2d8f7cbf28282287536ba0c271293d044db3d67ec16fb1d02dbb8.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1352468745,
+                "link": "https://api.gog.com/products/1352468745",
+                "expanded_link": "https://api.gog.com/products/1352468745"
+            },
+            {
+                "id": 1521995045,
+                "link": "https://api.gog.com/products/1521995045",
+                "expanded_link": "https://api.gog.com/products/1521995045"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1352468745,1521995045",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1352468745,1521995045"
+    }
+}

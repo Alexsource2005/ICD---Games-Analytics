@@ -1,0 +1,59 @@
+{
+    "id": 1505592836,
+    "title": "Foretales",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/foretales",
+    "slug": "foretales",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/foretales",
+        "product_card": "https://www.gog.com/game/foretales",
+        "support": "https://www.gog.com/support/foretales",
+        "forum": "https://www.gog.com/forum/foretales"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2022-09-15T14:55:00+0200",
+    "images": {
+        "background": "//images-4.gog-statics.com/bc585c9c3ea0ca32339222943f304f37133487f2fc375862f041dff57b77f6a2.jpg",
+        "logo": "//images-4.gog-statics.com/d307e2073cffeb67b9cfbef6bdc612838371c102fe5eccb6ace6c02b251d1b84_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/d307e2073cffeb67b9cfbef6bdc612838371c102fe5eccb6ace6c02b251d1b84_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/df73892c8b3fd3ca2560d3076dece63a8c37b34479314926c81ac2d4a0381f75_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/df73892c8b3fd3ca2560d3076dece63a8c37b34479314926c81ac2d4a0381f75_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/df73892c8b3fd3ca2560d3076dece63a8c37b34479314926c81ac2d4a0381f75_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/df73892c8b3fd3ca2560d3076dece63a8c37b34479314926c81ac2d4a0381f75_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/df73892c8b3fd3ca2560d3076dece63a8c37b34479314926c81ac2d4a0381f75.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1834546713,
+                "link": "https://api.gog.com/products/1834546713",
+                "expanded_link": "https://api.gog.com/products/1834546713"
+            },
+            {
+                "id": 2001131400,
+                "link": "https://api.gog.com/products/2001131400",
+                "expanded_link": "https://api.gog.com/products/2001131400"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1834546713,2001131400",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1834546713,2001131400"
+    }
+}

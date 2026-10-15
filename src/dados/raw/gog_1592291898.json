@@ -1,0 +1,58 @@
+{
+    "id": 1592291898,
+    "title": "Not Tonight",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/not_tonight",
+    "slug": "not_tonight",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "es": "español",
+        "fr": "français"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/not_tonight",
+        "product_card": "https://www.gog.com/game/not_tonight",
+        "support": "https://www.gog.com/support/not_tonight",
+        "forum": "https://www.gog.com/forum/not_tonight"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2018-08-17T16:59:00+0200",
+    "images": {
+        "background": "//images-4.gog-statics.com/ba346c3023dcd337fb3dd0a65b676dcef28ebb0ad4743019023ce7c037dcbe7d.jpg",
+        "logo": "//images-2.gog-statics.com/254f44f49e1517c9d193fcc364d61f72b9b2dac60b37bd46a1973dfdc31ab1bf_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/254f44f49e1517c9d193fcc364d61f72b9b2dac60b37bd46a1973dfdc31ab1bf_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/ee7cf8177fa1b18d75540086d9fefecfaf3149b30bfb6b50e24293fe4c06031e_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/ee7cf8177fa1b18d75540086d9fefecfaf3149b30bfb6b50e24293fe4c06031e_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/ee7cf8177fa1b18d75540086d9fefecfaf3149b30bfb6b50e24293fe4c06031e_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/ee7cf8177fa1b18d75540086d9fefecfaf3149b30bfb6b50e24293fe4c06031e_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/ee7cf8177fa1b18d75540086d9fefecfaf3149b30bfb6b50e24293fe4c06031e.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1406573563,
+                "link": "https://api.gog.com/products/1406573563",
+                "expanded_link": "https://api.gog.com/products/1406573563"
+            },
+            {
+                "id": 1415486415,
+                "link": "https://api.gog.com/products/1415486415",
+                "expanded_link": "https://api.gog.com/products/1415486415"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1406573563,1415486415",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1406573563,1415486415"
+    }
+}

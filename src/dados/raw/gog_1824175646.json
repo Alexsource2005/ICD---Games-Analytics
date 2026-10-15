@@ -1,0 +1,61 @@
+{
+    "id": 1824175646,
+    "title": "Aven Colony",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/aven_colony",
+    "slug": "aven_colony",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/aven_colony",
+        "product_card": "https://www.gog.com/game/aven_colony",
+        "support": "https://www.gog.com/support/aven_colony",
+        "forum": "https://www.gog.com/forum/aven_colony"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2018-12-27T14:40:00+0100",
+    "images": {
+        "background": "//images-3.gog-statics.com/240abdd41ce9997ce0771c256508c77680ba1d5d17e48cbce7f39efd243cdb61.jpg",
+        "logo": "//images-4.gog-statics.com/ae5246a29aa1549e57aaf23c74c422fed967774a6f51806d4d6c3a767b31d116_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/ae5246a29aa1549e57aaf23c74c422fed967774a6f51806d4d6c3a767b31d116_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/06605fd58d223a60eaafa9609d38f7787e83ef3e03a239b7a6cba22608bbddbd_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/06605fd58d223a60eaafa9609d38f7787e83ef3e03a239b7a6cba22608bbddbd_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/06605fd58d223a60eaafa9609d38f7787e83ef3e03a239b7a6cba22608bbddbd_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/06605fd58d223a60eaafa9609d38f7787e83ef3e03a239b7a6cba22608bbddbd_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/06605fd58d223a60eaafa9609d38f7787e83ef3e03a239b7a6cba22608bbddbd.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1409062516,
+                "link": "https://api.gog.com/products/1409062516",
+                "expanded_link": "https://api.gog.com/products/1409062516"
+            },
+            {
+                "id": 2048133277,
+                "link": "https://api.gog.com/products/2048133277",
+                "expanded_link": "https://api.gog.com/products/2048133277"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1409062516,2048133277",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1409062516,2048133277"
+    }
+}

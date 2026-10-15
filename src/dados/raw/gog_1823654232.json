@@ -1,0 +1,64 @@
+{
+    "id": 1823654232,
+    "title": "Blair Witch",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/blair_witch",
+    "slug": "blair_witch",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "pl": "polski",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/blair_witch",
+        "product_card": "https://www.gog.com/game/blair_witch",
+        "support": "https://www.gog.com/support/blair_witch",
+        "forum": "https://www.gog.com/forum/blair_witch"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2019-10-28T14:53:00+0100",
+    "images": {
+        "background": "//images-2.gog-statics.com/f7be91a108e39f3de28d58054fe65896e414ada71b62213b06c1978e86123815.jpg",
+        "logo": "//images-1.gog-statics.com/5f015f815bdfd53430cf5839293f6255bec7435595e6b4153ba69eb6a07220d7_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/5f015f815bdfd53430cf5839293f6255bec7435595e6b4153ba69eb6a07220d7_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/88f6878bc2e0439ce5a7a23a99683ce216834cbf45e099edbe176c3ea98abf07_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/88f6878bc2e0439ce5a7a23a99683ce216834cbf45e099edbe176c3ea98abf07_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/88f6878bc2e0439ce5a7a23a99683ce216834cbf45e099edbe176c3ea98abf07_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/88f6878bc2e0439ce5a7a23a99683ce216834cbf45e099edbe176c3ea98abf07_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/88f6878bc2e0439ce5a7a23a99683ce216834cbf45e099edbe176c3ea98abf07.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1784854828,
+                "link": "https://api.gog.com/products/1784854828",
+                "expanded_link": "https://api.gog.com/products/1784854828"
+            },
+            {
+                "id": 1899596813,
+                "link": "https://api.gog.com/products/1899596813",
+                "expanded_link": "https://api.gog.com/products/1899596813"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1784854828,1899596813",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1784854828,1899596813"
+    }
+}

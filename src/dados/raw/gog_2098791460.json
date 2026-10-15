@@ -1,0 +1,52 @@
+{
+    "id": 2098791460,
+    "title": "Black Book",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/black_book",
+    "slug": "black_book",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/black_book",
+        "product_card": "https://www.gog.com/game/black_book",
+        "support": "https://www.gog.com/support/black_book",
+        "forum": "https://www.gog.com/forum/black_book"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-08-10T18:55:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/e9db8b5bb86f9b514ac2534e926d49689366d7331fcf5157d26340d8b4db4c51.jpg",
+        "logo": "//images-3.gog-statics.com/ee98ec1be84b3fa0c3e4a98c3fd7abe4727469023ac2ed4864d1c588b17a363e_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/ee98ec1be84b3fa0c3e4a98c3fd7abe4727469023ac2ed4864d1c588b17a363e_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/90404f3ae27319c70e002f1058897beacc1e16b07e7ee67ed1c0f389c19ece12_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/90404f3ae27319c70e002f1058897beacc1e16b07e7ee67ed1c0f389c19ece12_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/90404f3ae27319c70e002f1058897beacc1e16b07e7ee67ed1c0f389c19ece12_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/90404f3ae27319c70e002f1058897beacc1e16b07e7ee67ed1c0f389c19ece12_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/90404f3ae27319c70e002f1058897beacc1e16b07e7ee67ed1c0f389c19ece12.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1800288290,
+                "link": "https://api.gog.com/products/1800288290",
+                "expanded_link": "https://api.gog.com/products/1800288290"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1800288290",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1800288290"
+    }
+}

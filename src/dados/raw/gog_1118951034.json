@@ -1,0 +1,72 @@
+{
+    "id": 1118951034,
+    "title": "Brotato",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/brotato",
+    "slug": "brotato",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "tr": "Türkçe",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/brotato",
+        "product_card": "https://www.gog.com/game/brotato",
+        "support": "https://www.gog.com/support/brotato",
+        "forum": "https://www.gog.com/forum/brotato"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2026-02-25T14:50:00+0100",
+    "images": {
+        "background": "//images-2.gog-statics.com/c0a4357759698cf0aeff018cf80ee6962fb2aa7a81b746df5345bf5e70010417.jpg",
+        "logo": "//images-1.gog-statics.com/fb208c35a378dc15c00fa2cf508d0724685638a732eca8b2a27333fb906a7f7b_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/fb208c35a378dc15c00fa2cf508d0724685638a732eca8b2a27333fb906a7f7b_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/806c9c448747e6360019b2a319e6ea4ffc6a00e1d24c96ec136ed5a9bd8e1628_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/806c9c448747e6360019b2a319e6ea4ffc6a00e1d24c96ec136ed5a9bd8e1628_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/806c9c448747e6360019b2a319e6ea4ffc6a00e1d24c96ec136ed5a9bd8e1628_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/806c9c448747e6360019b2a319e6ea4ffc6a00e1d24c96ec136ed5a9bd8e1628_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/806c9c448747e6360019b2a319e6ea4ffc6a00e1d24c96ec136ed5a9bd8e1628.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1562256538,
+                "link": "https://api.gog.com/products/1562256538",
+                "expanded_link": "https://api.gog.com/products/1562256538"
+            },
+            {
+                "id": 2120276833,
+                "link": "https://api.gog.com/products/2120276833",
+                "expanded_link": "https://api.gog.com/products/2120276833"
+            },
+            {
+                "id": 2146695817,
+                "link": "https://api.gog.com/products/2146695817",
+                "expanded_link": "https://api.gog.com/products/2146695817"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1562256538,2120276833,2146695817",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1562256538,2120276833,2146695817"
+    }
+}

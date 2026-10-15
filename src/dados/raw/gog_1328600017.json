@@ -1,0 +1,60 @@
+{
+    "id": 1328600017,
+    "title": "Godlike Burger",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/godlike_burger",
+    "slug": "godlike_burger",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "jp": "日本語",
+        "ko": "한국어",
+        "ru": "русский",
+        "tr": "Türkçe",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/godlike_burger",
+        "product_card": "https://www.gog.com/game/godlike_burger",
+        "support": "https://www.gog.com/support/godlike_burger",
+        "forum": "https://www.gog.com/forum/godlike_burger"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2022-04-21T18:50:00+0200",
+    "images": {
+        "background": "//images-3.gog-statics.com/ea5368a859397a6c112cb71f8a12f0f9633169eaa06aaff32059aa9763fa1a6e.jpg",
+        "logo": "//images-3.gog-statics.com/51e943e6da05446a488aca47c2bfbba78f10a2ad312eab6336d0c3aa07d8f047_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/51e943e6da05446a488aca47c2bfbba78f10a2ad312eab6336d0c3aa07d8f047_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/ba463436559529c3cbe185a855ff3164937e89eee045b76542b4200a77a8271f_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/ba463436559529c3cbe185a855ff3164937e89eee045b76542b4200a77a8271f_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/ba463436559529c3cbe185a855ff3164937e89eee045b76542b4200a77a8271f_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/ba463436559529c3cbe185a855ff3164937e89eee045b76542b4200a77a8271f_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/ba463436559529c3cbe185a855ff3164937e89eee045b76542b4200a77a8271f.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1852617052,
+                "link": "https://api.gog.com/products/1852617052",
+                "expanded_link": "https://api.gog.com/products/1852617052"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1852617052",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1852617052"
+    }
+}

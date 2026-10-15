@@ -1,0 +1,59 @@
+{
+    "id": 1887022535,
+    "title": "Zoeti",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/zoeti",
+    "slug": "zoeti",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/zoeti",
+        "product_card": "https://www.gog.com/game/zoeti",
+        "support": "https://www.gog.com/support/zoeti",
+        "forum": "https://www.gog.com/forum/zoeti"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2023-04-20T17:55:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/1f48c691e7ef8722cc97b09843340b2664763491b5b846cb68604000be883a44.jpg",
+        "logo": "//images-3.gog-statics.com/2a0e3bff0765412f768e489407c48d9fcab7df0cfb74cf105d05a4cabcc1fdd4_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/2a0e3bff0765412f768e489407c48d9fcab7df0cfb74cf105d05a4cabcc1fdd4_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/48effb11bb76a17c8641dd26aad75c50448b2f7b5417f4572eaf0039ecf4590c_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/48effb11bb76a17c8641dd26aad75c50448b2f7b5417f4572eaf0039ecf4590c_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/48effb11bb76a17c8641dd26aad75c50448b2f7b5417f4572eaf0039ecf4590c_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/48effb11bb76a17c8641dd26aad75c50448b2f7b5417f4572eaf0039ecf4590c_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/48effb11bb76a17c8641dd26aad75c50448b2f7b5417f4572eaf0039ecf4590c.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1236854607,
+                "link": "https://api.gog.com/products/1236854607",
+                "expanded_link": "https://api.gog.com/products/1236854607"
+            },
+            {
+                "id": 1377240278,
+                "link": "https://api.gog.com/products/1377240278",
+                "expanded_link": "https://api.gog.com/products/1377240278"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1236854607,1377240278",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1236854607,1377240278"
+    }
+}

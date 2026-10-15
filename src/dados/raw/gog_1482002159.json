@@ -1,0 +1,75 @@
+{
+    "id": 1482002159,
+    "title": "XCOM® 2",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/xcom_2",
+    "slug": "xcom_2",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/xcom_2",
+        "product_card": "https://www.gog.com/game/xcom_2",
+        "support": "https://www.gog.com/support/xcom_2",
+        "forum": "https://www.gog.com/forum/xcom_2"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2020-03-16T14:55:00+0100",
+    "images": {
+        "background": "//images-3.gog-statics.com/81aa3e5ad1b095600d8563668831b50445eb7dcbccdcb33b0c2226e3050b6655.jpg",
+        "logo": "//images-2.gog-statics.com/7c1632de7498519c33b422fd7e4af30a33db1ee84529b4a5cd6c708684d56099_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/7c1632de7498519c33b422fd7e4af30a33db1ee84529b4a5cd6c708684d56099_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/4442c3aaa36efd2690b1d8286c62787d4d8e211688c6f875ebe50e56dbae0b3e_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/4442c3aaa36efd2690b1d8286c62787d4d8e211688c6f875ebe50e56dbae0b3e_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/4442c3aaa36efd2690b1d8286c62787d4d8e211688c6f875ebe50e56dbae0b3e_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/4442c3aaa36efd2690b1d8286c62787d4d8e211688c6f875ebe50e56dbae0b3e_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/4442c3aaa36efd2690b1d8286c62787d4d8e211688c6f875ebe50e56dbae0b3e.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1218319120,
+                "link": "https://api.gog.com/products/1218319120",
+                "expanded_link": "https://api.gog.com/products/1218319120"
+            },
+            {
+                "id": 1414942413,
+                "link": "https://api.gog.com/products/1414942413",
+                "expanded_link": "https://api.gog.com/products/1414942413"
+            },
+            {
+                "id": 1458833872,
+                "link": "https://api.gog.com/products/1458833872",
+                "expanded_link": "https://api.gog.com/products/1458833872"
+            },
+            {
+                "id": 1950847525,
+                "link": "https://api.gog.com/products/1950847525",
+                "expanded_link": "https://api.gog.com/products/1950847525"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1218319120,1414942413,1458833872,1950847525",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1218319120,1414942413,1458833872,1950847525"
+    }
+}

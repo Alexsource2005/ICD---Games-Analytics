@@ -1,0 +1,76 @@
+{
+    "id": 1086743022,
+    "title": "Hello Neighbor",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/hello_neighbor",
+    "slug": "hello_neighbor",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "cz": "český",
+        "da": "Dansk",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fi": "suomi",
+        "fr": "français",
+        "gk": "Ελληνικά",
+        "hu": "magyar",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "nl": "nederlands",
+        "no": "norsk",
+        "pl": "polski",
+        "pt": "português",
+        "ru": "русский",
+        "sv": "svenska",
+        "tr": "Türkçe"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/hello_neighbor",
+        "product_card": "https://www.gog.com/game/hello_neighbor",
+        "support": "https://www.gog.com/support/hello_neighbor",
+        "forum": "https://www.gog.com/forum/hello_neighbor"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2017-12-08T18:40:00+0100",
+    "images": {
+        "background": "//images-3.gog-statics.com/1cbbdd3de83a7e56c511e31a90c0feb0e1680f9b6ffe8982d03821b40187e2c0.jpg",
+        "logo": "//images-3.gog-statics.com/478c0e4e7ae07e2c3434b8f3b75dd5af8362a1d7a3463433eca267a87f4a513b_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/478c0e4e7ae07e2c3434b8f3b75dd5af8362a1d7a3463433eca267a87f4a513b_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/faa95def0db0fd4a2264b039202a71b59defe5e6e6d97634c991bfe86120cdef_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/faa95def0db0fd4a2264b039202a71b59defe5e6e6d97634c991bfe86120cdef_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/faa95def0db0fd4a2264b039202a71b59defe5e6e6d97634c991bfe86120cdef_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/faa95def0db0fd4a2264b039202a71b59defe5e6e6d97634c991bfe86120cdef_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/faa95def0db0fd4a2264b039202a71b59defe5e6e6d97634c991bfe86120cdef.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1301971066,
+                "link": "https://api.gog.com/products/1301971066",
+                "expanded_link": "https://api.gog.com/products/1301971066"
+            },
+            {
+                "id": 1659229285,
+                "link": "https://api.gog.com/products/1659229285",
+                "expanded_link": "https://api.gog.com/products/1659229285"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1301971066,1659229285",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1301971066,1659229285"
+    }
+}

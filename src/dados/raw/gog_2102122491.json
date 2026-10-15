@@ -1,0 +1,63 @@
+{
+    "id": 2102122491,
+    "title": "Gloomhaven",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/gloomhaven",
+    "slug": "gloomhaven",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/gloomhaven",
+        "product_card": "https://www.gog.com/game/gloomhaven",
+        "support": "https://www.gog.com/support/gloomhaven",
+        "forum": "https://www.gog.com/forum/gloomhaven"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-10-20T14:55:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/622e964e91b80ac46c2cf34e8d3ae5961159481f596fd78b0e701072771c8c79.jpg",
+        "logo": "//images-2.gog-statics.com/c61a1805d8a46bdc3cdd6df780e4bd919693be5b787f98df8619e7f4357147a4_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/c61a1805d8a46bdc3cdd6df780e4bd919693be5b787f98df8619e7f4357147a4_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/92cb140a2ba2cdb0aefb5a5e7b9f5ce3db4b320423a3b5a26f9dea43fba3c6ec_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/92cb140a2ba2cdb0aefb5a5e7b9f5ce3db4b320423a3b5a26f9dea43fba3c6ec_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/92cb140a2ba2cdb0aefb5a5e7b9f5ce3db4b320423a3b5a26f9dea43fba3c6ec_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/92cb140a2ba2cdb0aefb5a5e7b9f5ce3db4b320423a3b5a26f9dea43fba3c6ec_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/92cb140a2ba2cdb0aefb5a5e7b9f5ce3db4b320423a3b5a26f9dea43fba3c6ec.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1590284319,
+                "link": "https://api.gog.com/products/1590284319",
+                "expanded_link": "https://api.gog.com/products/1590284319"
+            },
+            {
+                "id": 1855458475,
+                "link": "https://api.gog.com/products/1855458475",
+                "expanded_link": "https://api.gog.com/products/1855458475"
+            },
+            {
+                "id": 1938055224,
+                "link": "https://api.gog.com/products/1938055224",
+                "expanded_link": "https://api.gog.com/products/1938055224"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1590284319,1855458475,1938055224",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1590284319,1855458475,1938055224"
+    }
+}

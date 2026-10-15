@@ -1,0 +1,64 @@
+{
+    "id": 1578751181,
+    "title": "Darkwood",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/darkwood",
+    "slug": "darkwood",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "hu": "magyar",
+        "it": "italiano",
+        "pl": "polski",
+        "ru": "русский",
+        "tr": "Türkçe"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/darkwood",
+        "product_card": "https://www.gog.com/game/darkwood",
+        "support": "https://www.gog.com/support/darkwood",
+        "forum": "https://www.gog.com/forum/darkwood"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2017-08-17T19:55:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/0793fb54c97c0e766d81c9b21c30911204d76189d4d8797a5b2031d013dfbf1f.jpg",
+        "logo": "//images-1.gog-statics.com/0241303ec5fa8ffc7b7defa8c40b70e0d1a0a3f12fb145f617dcd74014c9f6c3_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/0241303ec5fa8ffc7b7defa8c40b70e0d1a0a3f12fb145f617dcd74014c9f6c3_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/d8c39d579b57ac96c02ad96ff9972112cbbdcac12ce8147bda5bc3f279d22e7f_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/d8c39d579b57ac96c02ad96ff9972112cbbdcac12ce8147bda5bc3f279d22e7f_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/d8c39d579b57ac96c02ad96ff9972112cbbdcac12ce8147bda5bc3f279d22e7f_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/d8c39d579b57ac96c02ad96ff9972112cbbdcac12ce8147bda5bc3f279d22e7f_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/d8c39d579b57ac96c02ad96ff9972112cbbdcac12ce8147bda5bc3f279d22e7f.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1303954178,
+                "link": "https://api.gog.com/products/1303954178",
+                "expanded_link": "https://api.gog.com/products/1303954178"
+            },
+            {
+                "id": 1814492333,
+                "link": "https://api.gog.com/products/1814492333",
+                "expanded_link": "https://api.gog.com/products/1814492333"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1303954178,1814492333",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1303954178,1814492333"
+    }
+}

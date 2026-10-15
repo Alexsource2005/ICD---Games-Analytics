@@ -1,0 +1,71 @@
+{
+    "id": 1963513391,
+    "title": "Cuphead",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/cuphead",
+    "slug": "cuphead",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/cuphead",
+        "product_card": "https://www.gog.com/game/cuphead",
+        "support": "https://www.gog.com/support/cuphead",
+        "forum": "https://www.gog.com/forum/cuphead"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2017-09-29T14:55:00+0200",
+    "images": {
+        "background": "//images-3.gog-statics.com/066899d86e9527089cdfe84982463f49327fdc32a34ecadb4be17b4bab8be12b.jpg",
+        "logo": "//images-4.gog-statics.com/9e514e9d083c91567614bf68904ed9afa287987a78f342ac8598f1c7b883a57a_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/9e514e9d083c91567614bf68904ed9afa287987a78f342ac8598f1c7b883a57a_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/4fd61d414558d40d082d3548f2305aaa800a56b756411b94cc93b69777cb62d2_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/4fd61d414558d40d082d3548f2305aaa800a56b756411b94cc93b69777cb62d2_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/4fd61d414558d40d082d3548f2305aaa800a56b756411b94cc93b69777cb62d2_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/4fd61d414558d40d082d3548f2305aaa800a56b756411b94cc93b69777cb62d2_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/4fd61d414558d40d082d3548f2305aaa800a56b756411b94cc93b69777cb62d2.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1828931756,
+                "link": "https://api.gog.com/products/1828931756",
+                "expanded_link": "https://api.gog.com/products/1828931756"
+            },
+            {
+                "id": 1999621840,
+                "link": "https://api.gog.com/products/1999621840",
+                "expanded_link": "https://api.gog.com/products/1999621840"
+            },
+            {
+                "id": 2048763853,
+                "link": "https://api.gog.com/products/2048763853",
+                "expanded_link": "https://api.gog.com/products/2048763853"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1828931756,1999621840,2048763853",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1828931756,1999621840,2048763853"
+    }
+}

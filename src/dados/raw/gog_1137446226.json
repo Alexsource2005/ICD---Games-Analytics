@@ -1,0 +1,58 @@
+{
+    "id": 1137446226,
+    "title": "Citizen Sleeper",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/citizen_sleeper",
+    "slug": "citizen_sleeper",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "fr": "français",
+        "jp": "日本語"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/citizen_sleeper",
+        "product_card": "https://www.gog.com/game/citizen_sleeper",
+        "support": "https://www.gog.com/support/citizen_sleeper",
+        "forum": "https://www.gog.com/forum/citizen_sleeper"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2022-05-05T16:50:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/07c7629373b46f38eedc552c80ea604e0dd2d2bcc7a88fdfbd446d4ca2d58472.jpg",
+        "logo": "//images-3.gog-statics.com/0b5b59ebdd528f3b2d5486827a0a44676c950e697871ca85a005f50da06b06ae_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/0b5b59ebdd528f3b2d5486827a0a44676c950e697871ca85a005f50da06b06ae_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/9e7847224a824d8e132636790a1242b4554156727176d8257e24b32b14527c46_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/9e7847224a824d8e132636790a1242b4554156727176d8257e24b32b14527c46_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/9e7847224a824d8e132636790a1242b4554156727176d8257e24b32b14527c46_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/9e7847224a824d8e132636790a1242b4554156727176d8257e24b32b14527c46_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/9e7847224a824d8e132636790a1242b4554156727176d8257e24b32b14527c46.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1348010786,
+                "link": "https://api.gog.com/products/1348010786",
+                "expanded_link": "https://api.gog.com/products/1348010786"
+            },
+            {
+                "id": 1843779426,
+                "link": "https://api.gog.com/products/1843779426",
+                "expanded_link": "https://api.gog.com/products/1843779426"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1348010786,1843779426",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1348010786,1843779426"
+    }
+}

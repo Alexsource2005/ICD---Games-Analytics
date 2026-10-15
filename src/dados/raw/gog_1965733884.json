@@ -1,0 +1,59 @@
+{
+    "id": 1965733884,
+    "title": "Universe For Sale",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/universe_for_sale",
+    "slug": "universe_for_sale",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/universe_for_sale",
+        "product_card": "https://www.gog.com/game/universe_for_sale",
+        "support": "https://www.gog.com/support/universe_for_sale",
+        "forum": "https://www.gog.com/forum/universe_for_sale"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2023-11-16T17:55:00+0100",
+    "images": {
+        "background": "//images-2.gog-statics.com/0050d61c98bc0f31b95bd56d6a8d1e4d3d7c21f77a36a9d64da1dc10c35e671c.jpg",
+        "logo": "//images-3.gog-statics.com/5be3854f5e996dcce4f58651d97430adb04538b3a48f6f70b123bdab5de23161_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/5be3854f5e996dcce4f58651d97430adb04538b3a48f6f70b123bdab5de23161_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/db4d971da638c478c3b48c89c785d79e510ec755f15a862541fc3ba14a0db567_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/db4d971da638c478c3b48c89c785d79e510ec755f15a862541fc3ba14a0db567_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/db4d971da638c478c3b48c89c785d79e510ec755f15a862541fc3ba14a0db567_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/db4d971da638c478c3b48c89c785d79e510ec755f15a862541fc3ba14a0db567_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/db4d971da638c478c3b48c89c785d79e510ec755f15a862541fc3ba14a0db567.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1927953107,
+                "link": "https://api.gog.com/products/1927953107",
+                "expanded_link": "https://api.gog.com/products/1927953107"
+            },
+            {
+                "id": 2126148738,
+                "link": "https://api.gog.com/products/2126148738",
+                "expanded_link": "https://api.gog.com/products/2126148738"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1927953107,2126148738",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1927953107,2126148738"
+    }
+}
