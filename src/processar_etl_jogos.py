@@ -92,6 +92,14 @@ for arquivo in os.listdir(pasta_raw):
                     # Quantidade de reviews / recomendações
                 recs = d.get("recommendations", {}).get("total", 0)
                 reg["steam_reviews_qtd"] = recs
+
+                # Lógica da Valve Multiplier para estimar a quantidade de donos de determinado jogo através da quantidade de reviews e um fator médio
+                if recs > 0:
+                    min_donos = int(recs * 30)
+                    max_donos = int(recs*50)
+                    reg["steam_donos"] = f"`{min_donos:,} - {max_donos:,}"
+                else:
+                    reg["steam_donos"] = "Menos de 20000"
     
     elif origem == "epic":
         reg["epic_lancamento"] = data.get("effectiveDate") or data.get("releaseDate")
