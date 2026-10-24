@@ -13,6 +13,19 @@ def normalizar_nome(nome):
         return ""
     return re.sub(r"[^\w\s]", "", nome).lower().strip()
 
+def formatar_data(data):
+    if not data:
+        return None
+
+    if isinstance(data, str) and re.match(r"^\d{4}-\d{2}-\d{2}", data):
+        data_convertida = pd.to_datetime(data, errors="coerce", utc=True)
+    else:
+        data_convertida = pd.to_datetime(data, errors="coerce", dayfirst=True)
+
+    if pd.notna(data_convertida):
+        return data_convertida.strftime("%d/%m/%Y")
+    return data
+
 print("Processando e cruzando ficheiros JSON de todas as três plataformas...")
 
 # Fase de extração e agrupamento por jogo
@@ -179,9 +192,10 @@ for chave, reg in jogos_consolidados.items():
 
     genero_primario = (generos_unicos[0] if len(generos_unicos) > 0 else "Desconhecido")
     genero_secundario = (generos_unicos[1] if len(generos_unicos) > 1 else "Não especificado")
-
-    #Data de lançamento unificada
+ 
+    #Data de lançamento unificada e padronizada
     lancamento = (reg["steam_lancamento"] or reg["epic_lancamento"] or reg["gog_lancamento"])
+    lancamento = formatar_data(lancamento)
 
     linhas_tabela.append({
         "Jogo": reg["nome_original"],
