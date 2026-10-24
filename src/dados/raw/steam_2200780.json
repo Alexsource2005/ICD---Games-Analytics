@@ -173,7 +173,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6747
+                "total": 6783
             },
             "achievements": {
                 "total": 16,
@@ -294,6 +294,53 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2896,
+                    "total_negative": 326,
+                    "total_reviews": 3222
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237150064",
+                        "author": {
+                            "steamid": "76561198976966093",
+                            "num_reviews": 3,
+                            "playtime_forever": 356,
+                            "playtime_last_two_weeks": 1,
+                            "playtime_at_review": 337,
+                            "last_played": 1791698206
+                        },
+                        "language": "english",
+                        "review": "It’s just a really fun game to kick back with. Whether you're throwing together random creative spaces or actually trying to map out your real bedroom to see where your desk would look best, it totally hits the spot.\r\n\r\nSure, it's definitely not professional interior design software—you aren't drawing up blueprints or calculating exact square footage. But it's also not trying to be. It skips all the heavy, boring stuff and just lets you play around with layouts, lighting, and decor without any stress.\r\n\r\nMy only real complaint is that I wish it leaned a bit more into music gear. There’s a decent start, but I’d love to see way more studio equipment added—things like more microphone options, audio interfaces, and especially rackmount gear. It already has a server tower, but imagine having a proper modular rack with space for rackmount audio interfaces, outboard effects, or even a rackmount PC that you could actually slot right into the setup.\r\n\r\nEven with that minor wish list, if you like organizing things, tweaking aesthetics, or just zoning out with some good music, it's a great little sandbox to lose a few hours in.",
+                        "timestamp_created": 1791397802,
+                        "timestamp_updated": 1791397802,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5833333134651184,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "MacOS 27.2.0",
+                            "cpu_name": "Unknown",
+                            "adapter_description": "Apple M1 Pro",
+                            "system_ram": "32768",
+                            "vram_size": 32768
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFYVVYAAAABw99OIBw==",
+                "day_range_used": 30,
+                "total_matching": 44
             }
         }
     }

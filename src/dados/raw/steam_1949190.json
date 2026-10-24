@@ -193,7 +193,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4898
+                "total": 4899
             },
             "achievements": {
                 "total": 30,
@@ -317,6 +317,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1719,
+                    "total_negative": 329,
+                    "total_reviews": 2048
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236201045",
+                        "author": {
+                            "steamid": "76561197969568307",
+                            "num_reviews": 88,
+                            "playtime_forever": 264,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 173,
+                            "last_played": 1790394543
+                        },
+                        "language": "english",
+                        "review": "Im gonna beat the game but boy do I hate it.\n\nVery little control, insane difficulty, necessary boring grind to even do basic thing.\n\nThe game will essentially end whenever it wants, regardless of how many dudes you have (which you cant control)\n\nVery close to being a good game but still bad. The sequel is slightly better but still confusing and unnecessarily difficult.\n\nWould give it a neutral review if I could because its not terrible. Its just frustrating and poorly designed?",
+                        "timestamp_created": 1790389240,
+                        "timestamp_updated": 1790389240,
+                        "voted_up": false,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5297249555587769,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZZ88AAAAB1xYSFBw==",
+                "day_range_used": 30,
+                "total_matching": 2
             }
         }
     }

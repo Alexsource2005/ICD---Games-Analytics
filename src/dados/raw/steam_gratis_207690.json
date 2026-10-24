@@ -14,7 +14,18 @@
             "about_the_game": "Botanicula is a humor-filled adventure game created by the makers of award-winning Machinarium and Samorost series, studio Amanita Design and Czech band DVA.<br>Five friends, little tree creatures, set out on a journey to save the last seed from their home tree which is infested by evil parasites.<h2 class=\"bb_tag\" >Key Features:</h2><br><ul class=\"bb_ul\"><li>Relaxed game perfect for hardcore gamers, their partners, families and seniors.\t<br></li><li>More than 150 detailed locations to explore.\t<br></li><li>Hundreds of funny animations.\t<br></li><li>Incredible amount of hidden bonuses.<br></li><li>Fantastic music and sound effects by fantastic band DVA <br></li><li>Not one but five main characters with various skills and personalities.\t<br></li><li>No text or lengthy dialogs to bore you.<br></li><li>Bonuses for vigilant players at the end of the game.</li></ul>",
             "short_description": "Humor-filled indie adventure game created by the makers of Machinarium and Samorost.",
             "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Czech<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“An amazing and heartwarming adventure.” <strong>9.0/10</strong><br>– IGN<br><br>“Botanicula is to peer through a microscope at hidden world and feel like you've made the greatest of discoveries: one of a place that's so overflowing with imagination and so full of wonder that only a person with a heart of stone would fail to be taken in by its charms.” <strong>8.5/10</strong><br>– Gamespot<br><br>“A creation of obvious love and care, Botanicula is a must-play for those seeking a truly imaginative and entertaining adventure game.” <strong>4.5/5</strong><br>– Adventure Gamers",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 2976,
+                    "total_negative": 145,
+                    "total_reviews": 3121
+                },
+                "total_matching": 10,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207690/header.jpg?t=1791539923",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207690/capsule_231x87.jpg?t=1791539923",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207690/capsule_184x69.jpg?t=1791539923",
@@ -36,10 +47,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5499,
-                "final": 1099,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 54,99",
-                "final_formatted": "R$ 10,99"
+                "final": 5499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 54,99"
             },
             "packages": [
                 14559
@@ -56,13 +67,13 @@
                     "subs": [
                         {
                             "packageid": 14559,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Botanicula - <span class=\"discount_original_price\">R$ 54,99</span> R$ 10,99",
+                            "option_text": "Botanicula - R$ 54,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1099
+                            "price_in_cents_with_discount": 5499
                         }
                     ]
                 }
@@ -176,7 +187,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4947
+                "total": 4961
             },
             "achievements": {
                 "total": 53,

@@ -145,7 +145,7 @@
                 }
             ],
             "recommendations": {
-                "total": 518
+                "total": 530
             },
             "achievements": {
                 "total": 11,
@@ -267,6 +267,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1785,
+                    "total_negative": 131,
+                    "total_reviews": 1916
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237479646",
+                        "author": {
+                            "steamid": "76561197987177917",
+                            "num_reviews": 208,
+                            "playtime_forever": 219,
+                            "playtime_last_two_weeks": 1,
+                            "playtime_at_review": 219,
+                            "last_played": 1791736709
+                        },
+                        "language": "english",
+                        "review": "Nocturnal is an atmospheric 2d platformer with emphasis on swordplay. The controls were tight and I loved how the movement felt. The fights were exciting.  Even fleeing from an invincible enemy, in this case a shadow wall, something I usually dislike, was well done.  A little annoyance was that you couldn't look down to see what was below you, so sometimes you had to jump \"blind\". The story felt too simple at first, rescue your sister, but it got more intriguing. The pixel art was very good. I especially liked how the bodies were done and how you could \"cremate\" them. \n\nThe originality in the game was how fire was handled. Your sword was only \"fired\" up for a limited time. You constantly had to find and light torches on the walls. Why you couldn't just pick a torch yourself when you had a free hand, I don't know. In any case, the use of fire to burn up items or stay out of the dark was very good. The fire effects themselves were excellent. I hate bosses that completely regenerate their health, but they were otherwise good battles. Tough but fair. The game's length would vary between 2 to 3.5 hours depending on your skill so consider that for the price.",
+                        "timestamp_created": 1791736639,
+                        "timestamp_updated": 1791825104,
+                        "voted_up": true,
+                        "votes_up": 14,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6836062073707581,
+                        "comment_count": 3,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFWU/AAAAAB+7fSJBw==",
+                "day_range_used": 30,
+                "total_matching": 104
             }
         }
     }

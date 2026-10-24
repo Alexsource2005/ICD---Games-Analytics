@@ -261,7 +261,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2185
+                "total": 2184
             },
             "achievements": {
                 "total": 24,
@@ -402,6 +402,46 @@
                 "crl": {
                     "rating": "16"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1030,
+                    "total_negative": 226,
+                    "total_reviews": 1256
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "235108561",
+                        "author": {
+                            "steamid": "76561198028824481",
+                            "num_reviews": 990,
+                            "playtime_forever": 1121,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1121,
+                            "last_played": 1478790564
+                        },
+                        "language": "english",
+                        "review": "Decent comic-style art and a variety of choices.\n",
+                        "timestamp_created": 1789228191,
+                        "timestamp_updated": 1789228191,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5209580659866333,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZlLIAAAABxje+ABw==",
+                "day_range_used": 90,
+                "total_matching": 4
             }
         }
     }

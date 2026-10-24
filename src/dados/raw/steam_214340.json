@@ -15,7 +15,46 @@
             "about_the_game": "Daedalic Entertainment, once called “Lucasarts from Germany“ by the GameStar magazine, invites the players into a fantastic comedy adventure that revolves around a crazy love story of Rufus and Goal.<br><br>In Deponia, the world has degenerated into a vast garbage dump, in which the crotchety Rufus ekes out his sorry existence. He is part of the lowest social class, doomed to live his life in literal mountains of trash. He hopes for an opportunity to get into the world of the rich, who live in a floating city high above the clouds. Fate seems to smile on the snotty good-for-nothing when one day the attractive lady named Goal from the higher sector plummets into one of the trash heaps. Rufus decides to help the young woman out by taking her back to her husband. When he notices that Goal's husband is a dead ringer for himself, he hatches a diabolical scheme to gain access to the upper world. However, things don't work out quite as planned, since he has feelings for the beauty which limits his usual unscrupulousness.<br><br>Help Rufus, the poor boy from the junkyard, to win over the girl from heaven. Only with this rich girl from his dreams he might be able to escape Deponia and, unexpectedly, to save the planet.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Unique comic style with hand-drawn HD resolution 2D graphics<br></li><li>Bizarre characters and wacky humor<br></li><li>Challenging puzzles and hours of dialogue<br></li><li>Unique universe in the tradition of Douglas Adams (The Hitchhiker's Guide to the Galaxy), Terry Pratchett (Discworld) and Matt Groening (The Simpsons, Futurama)<br></li><li>From the creators of the award-winning games Edna &amp; Harvey: The Breakout, Edna &amp; Harvey: Harvey’s New Eyes and The Whispered World</li></ul>",
             "short_description": "In Deponia, the world has degenerated into a vast garbage dump, in which the crotchety Rufus ekes out his sorry existence.",
             "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian, French, Polish, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Bulgarian, Greek, Turkish, Czech, Portuguese - Brazil, Arabic, Korean, Traditional Chinese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "reviews": "&quot;There's only one word to describe the game: terrific! Lucasarts from Germany!&quot;<br />\r\n88/100 – GameStar<br />\r\n<br />\r\n&quot;A brilliantly absurd story, a fitting comic style and strong speakers.&quot;<br />\r\n90/100 – GamingXP<br />\r\n<br />\r\n&quot;Deponia's tale of love, loss, and all-out comedy is a beautifully constructed piece of point-and-click heaven.“<br />\r\n80/100 – Gamespot",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 3429,
+                    "total_negative": 1018,
+                    "total_reviews": 4447
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238020881",
+                        "author": {
+                            "steamid": "76561199134307536",
+                            "num_reviews": 218,
+                            "playtime_forever": 289,
+                            "playtime_last_two_weeks": 289,
+                            "playtime_at_review": 210,
+                            "last_played": 1792336098
+                        },
+                        "language": "english",
+                        "review": "This game is weird as hell, but in the best way possible 😂 The art style is awesome, the humor is pretty funny, and the puzzles can actually make you think. Rufus is a complete idiot sometimes, but that’s part of the charm.",
+                        "timestamp_created": 1792331744,
+                        "timestamp_updated": 1792331744,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5634920597076416,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYuuwAAAABxkf2LBw==",
+                "day_range_used": 30,
+                "total_matching": 45
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/header.jpg?t=1789381815",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/capsule_231x87.jpg?t=1789381815",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/capsule_184x69.jpg?t=1789381815",
@@ -41,10 +80,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 19,99"
+                "final": 199,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 19,99",
+                "final_formatted": "R$ 1,99"
             },
             "packages": [
                 15376,
@@ -64,13 +103,33 @@
                     "subs": [
                         {
                             "packageid": 15376,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-90% ",
                             "percent_savings": 0,
-                            "option_text": "Deponia - R$ 19,99",
+                            "option_text": "Deponia - <span class=\"discount_original_price\">R$ 19,99</span> R$ 1,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 199
+                        },
+                        {
+                            "packageid": 44162,
+                            "percent_savings_text": "-90% ",
+                            "percent_savings": 0,
+                            "option_text": "Daedalic Adventure Bundle - <span class=\"discount_original_price\">R$ 57,99</span> R$ 5,79",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 579
+                        },
+                        {
+                            "packageid": 55062,
+                            "percent_savings_text": "-95% ",
+                            "percent_savings": 0,
+                            "option_text": "The Daedalic Armageddon Bundle - <span class=\"discount_original_price\">R$ 209,00</span> R$ 10,45",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1045
                         },
                         {
                             "packageid": 232463,
@@ -81,26 +140,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
-                        },
-                        {
-                            "packageid": 44162,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Daedalic Adventure Bundle - R$ 57,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 5799
-                        },
-                        {
-                            "packageid": 55062,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - R$ 209,00",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 20900
                         }
                     ]
                 }
@@ -246,7 +285,7 @@
                 }
             ],
             "recommendations": {
-                "total": 10483
+                "total": 10494
             },
             "achievements": {
                 "total": 19,

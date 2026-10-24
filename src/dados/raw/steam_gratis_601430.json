@@ -12,7 +12,18 @@
             "about_the_game": "From mastermind Shinji Mikami, The Evil Within 2 is the latest evolution of survival horror. Detective Sebastian Castellanos has lost it all. But when given a chance to save his daughter, he must descend once more into the nightmarish world of STEM. Horrifying threats emerge from every corner as the world twists and warps around him. Will Sebastian face adversity head on with weapons and traps, or sneak through the shadows to survive.<br> <br><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\" >Story of Redemption</h2>Return to the nightmare to win back your life and the ones you love.<br><br></li><li><h2 class=\"bb_tag\" >Discover Horrifying Domains</h2>Explore as far or quickly as you dare, but prepare wisely.<br><br></li><li><h2 class=\"bb_tag\" >Face Disturbing Enemies</h2>Survive the onslaught of horrifying creatures determined to rip you apart.<br><br></li><li><h2 class=\"bb_tag\" >Choose How to Survive</h2>Craft traps, sneak, run and hide, or try to battle the horror with limited ammo.<br><br></li><li><h2 class=\"bb_tag\" >Visceral Horror and Suspense</h2>Enter a frightening world filled with anxiety-inducing thrills and disturbing moments.</li></ul>",
             "short_description": "Detective Sebastian Castellanos has lost everything, including his daughter, Lily. To save her, he must descend into the nightmarish world of STEM. Horrifying threats emerge from every corner, and he must rely on his wits to survive. For his one chance at redemption, the only way out is in.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Russian<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Traditional Chinese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "reviews": "“One of our favorite horror games of the year”<br>9/10 – Polygon<br><br>“An intense and exhilarating survival horror experience”<br>8/10 – IGN<br><br>“A bold, bloody evolution”<br>8/10 – PCGamesN<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 8738,
+                    "total_negative": 881,
+                    "total_reviews": 9619
+                },
+                "total_matching": 45,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601430/header.jpg?t=1750783701",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601430/capsule_231x87.jpg?t=1750783701",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601430/capsule_184x69.jpg?t=1750783701",
@@ -37,12 +48,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 15500,
-                "final": 15500,
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 2999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 155,00"
+                "final_formatted": "29,99€"
             },
             "packages": [
                 189513
@@ -61,11 +72,11 @@
                             "packageid": 189513,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Evil Within 2 - R$ 155,00",
+                            "option_text": "The Evil Within 2 - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 15500
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -266,6 +277,15 @@
                     "highlight": false
                 },
                 {
+                    "id": 256690672,
+                    "name": "Survive Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690672/movie.293x165.jpg?t=1500482316",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/601430/114310/668b18264d650ee5e004aaafad12ae69f8bf3b75/1750560296/dash_av1.mpd?t=1500482316",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/601430/114310/668b18264d650ee5e004aaafad12ae69f8bf3b75/1750560296/dash_h264.mpd?t=1500482316",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/601430/114310/668b18264d650ee5e004aaafad12ae69f8bf3b75/1750560296/hls_264_master.m3u8?t=1500482316",
+                    "highlight": false
+                },
+                {
                     "id": 256689592,
                     "name": "Gameplay Trailer",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689592/movie.293x165.jpg?t=1500477625",
@@ -285,7 +305,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19838
+                "total": 19878
             },
             "achievements": {
                 "total": 51,

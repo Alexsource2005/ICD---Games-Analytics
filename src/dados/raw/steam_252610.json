@@ -200,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 9142
+                "total": 9165
             },
             "achievements": {
                 "total": 72,
@@ -326,6 +326,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 7047,
+                    "total_negative": 388,
+                    "total_reviews": 7435
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236335924",
+                        "author": {
+                            "steamid": "76561198294682617",
+                            "num_reviews": 7,
+                            "playtime_forever": 3913,
+                            "playtime_last_two_weeks": 669,
+                            "playtime_at_review": 1428,
+                            "last_played": 1791762242
+                        },
+                        "language": "english",
+                        "review": "Very good and replayable game, just wish it had online and workshop",
+                        "timestamp_created": 1790524477,
+                        "timestamp_updated": 1790524477,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5896602272987366,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYNPEAAAAB0s8aFBw==",
+                "day_range_used": 30,
+                "total_matching": 33
             }
         }
     }

@@ -15,7 +15,18 @@
             "about_the_game": "<h2 class=\"bb_tag\" >The free major update,<strong> Into the Breach: Advanced Edition</strong> is now available! </h2><br>Nearly every aspect of the game is expanded with new content, including:<br><br><ul class=\"bb_ul\"><li><strong>New Mechs and Weapons:</strong> Five new mech squads and nearly forty new weapons.<br></li><li><strong>New Challenges:</strong> More enemies, more bosses, and more mission objectives.<br></li><li><strong>New Pilot Abilities:</strong> Four new pilots and triple the amount of pilot skills.<br></li><li><strong>“Unfair” Mode:</strong> A more challenging difficulty to test the most seasoned tacticians.</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/extras/8e0821855b39693481141c50e9d46703.poster.avif?t=1755610784\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/extras/8e0821855b39693481141c50e9d46703.webm?t=1755610784\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/extras/8e0821855b39693481141c50e9d46703.mp4?t=1755610784\" type=\"video/mp4\"></video></span><br><br>The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><strong>Defend the Cities:</strong>  Civilian buildings power your mechs. Defend them from the Vek and watch your fire!<br></li><li><strong>Perfect Your Strategy:</strong>  All enemy attacks are telegraphed in minimalistic, turn-based combat. Analyze your opponent's attack and come up with the perfect counter every turn.<br></li><li><strong>Build the Ultimate Mech:</strong> Find powerful new weapons and unique pilots as you battle the Vek infestation across Corporate-Nation islands.<br></li><li><strong>Another Chance:</strong>  Failure is not an option. When you are defeated, send help back through time to save another timeline!</li></ul>",
             "short_description": "Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Arabic<strong>*</strong>, Korean<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“Exacting, agonising, challenging, and intensely rewarding, Into the Breach delivers in the tiniest package the most perfectly formed tactics around.”<br>93 – PC Gamer<br><br>“Into The Breach is a pristine and pragmatic tactical gem with dynamic conflicts that will inspire you to jump back in again, and again, and again.”<br>90 – GameSpot<br><br>“It’s a small-looking tactics game that’s kept me playing more intently than most big ones.”<br>90 – IGN<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 14088,
+                    "total_negative": 932,
+                    "total_reviews": 15020
+                },
+                "total_matching": 58,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg?t=1755610784",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/capsule_231x87.jpg?t=1755610784",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/capsule_184x69.jpg?t=1755610784",
@@ -38,10 +49,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2899,
-                "final": 2899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 28,99"
+                "final": 1217,
+                "discount_percent": 58,
+                "initial_formatted": "R$ 28,99",
+                "final_formatted": "R$ 12,17"
             },
             "packages": [
                 153088
@@ -58,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 153088,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-58% ",
                             "percent_savings": 0,
-                            "option_text": "Into the Breach - R$ 28,99",
+                            "option_text": "Into the Breach - <span class=\"discount_original_price\">R$ 28,99</span> R$ 12,17",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2899
+                            "price_in_cents_with_discount": 1217
                         }
                     ]
                 }
@@ -188,7 +199,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19111
+                "total": 19136
             },
             "achievements": {
                 "total": 70,

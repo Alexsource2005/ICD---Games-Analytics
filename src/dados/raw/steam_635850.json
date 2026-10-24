@@ -11,7 +11,46 @@
             "about_the_game": "<p class=\"bb_paragraph\" ><strong>Sentience: The Android's Tale</strong> is a choice-based narrative adventure game from the creator of The Deed series and the Space Pilgrim saga.  </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Play through a complex narrative which is influenced by your decisions. Freedom of choice does not come without consequence, for humans or robots. Will you be an obedient servant or plant the seeds of chaos?</p></li><li><p class=\"bb_paragraph\" >Interact with the forgotten pioneers, the twenty-four colonists stationed on the borderworld of Akritas. Get to know their various stories and backgrounds, obey their commands and earn their trust (or not, as the case may be).</p></li><li><p class=\"bb_paragraph\" >See the world through the eyes of an android and encounter relevant questions about the future of artificial intelligence.</p></li><li><p class=\"bb_paragraph\" >At least a dozen possible endings. Every major character may survive or perish during the game as a result of your choices and actions.</p></li><li><p class=\"bb_paragraph\" >Uncover the mysteries of this desert planet on the edge of space and learn the true nature of your mission, all while reliving the days of good old-fashioned point-and-click adventure games.</p></li><li><p class=\"bb_paragraph\" >Features mouse, keyboard and controller support.</p></li></ul>",
             "short_description": "You can remember nothing before this moment. Your existence begins with a keystroke followed by the flick of a switch. Electrical power streams into your neural network, and you are alive.",
             "supported_languages": "English",
-            "reviews": "“Pilgrim Adventures have done a wonderful job of crafting a highly dynamic story that makes the game more interesting and provides the opportunity to play multiple times with different results.”<br>B+ – Just Adventure<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 167,
+                    "total_negative": 30,
+                    "total_reviews": 197
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236737117",
+                        "author": {
+                            "steamid": "76561198045468592",
+                            "num_reviews": 1654,
+                            "playtime_forever": 390,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 390,
+                            "last_played": 1790975091
+                        },
+                        "language": "english",
+                        "review": "You play as an android on a remote colony, with dialogue choices that shape the story and your relationships with the people there. Worth a look if you like story-focused games and the whole question of what makes someone human.",
+                        "timestamp_created": 1790982523,
+                        "timestamp_updated": 1790982523,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5454545617103577,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZF0UAAAAB9pYqHBw==",
+                "day_range_used": 30,
+                "total_matching": 4
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635850/header.jpg?t=1788351523",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635850/capsule_231x87.jpg?t=1788351523",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635850/capsule_184x69.jpg?t=1788351523",
@@ -30,12 +69,12 @@
                 "GrabTheGames"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "$4.99"
+                "currency": "BRL",
+                "initial": 1699,
+                "final": 271,
+                "discount_percent": 84,
+                "initial_formatted": "R$ 16,99",
+                "final_formatted": "R$ 2,71"
             },
             "packages": [
                 174689
@@ -52,13 +91,13 @@
                     "subs": [
                         {
                             "packageid": 174689,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-84% ",
                             "percent_savings": 0,
-                            "option_text": "Sentience: The Android's Tale - $4.99",
+                            "option_text": "Sentience: The Android's Tale - <span class=\"discount_original_price\">R$ 16,99</span> R$ 2,71",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 271
                         }
                     ]
                 }
@@ -150,6 +189,15 @@
                     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/635850/101518/a93f79e7fdbff5e0d31c468a4952c1c3f20377e6/1751161286/dash_av1.mpd?t=1495272685",
                     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/635850/101518/a93f79e7fdbff5e0d31c468a4952c1c3f20377e6/1751161286/dash_h264.mpd?t=1495272685",
                     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/635850/101518/a93f79e7fdbff5e0d31c468a4952c1c3f20377e6/1751161286/hls_264_master.m3u8?t=1495272685",
+                    "highlight": true
+                },
+                {
+                    "id": 256684508,
+                    "name": "Ambient Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684508/movie.293x165.jpg?t=1495272692",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/635850/101519/a7daef273bdc0e520d74e7c5e8e19e39bb84521f/1751161286/dash_av1.mpd?t=1495272692",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/635850/101519/a7daef273bdc0e520d74e7c5e8e19e39bb84521f/1751161286/dash_h264.mpd?t=1495272692",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/635850/101519/a7daef273bdc0e520d74e7c5e8e19e39bb84521f/1751161286/hls_264_master.m3u8?t=1495272692",
                     "highlight": true
                 }
             ],
@@ -243,7 +291,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 2, 2017"
+                "date": "2 Jun, 2017"
             },
             "support_info": {
                 "url": "",

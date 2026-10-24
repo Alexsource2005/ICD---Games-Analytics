@@ -192,6 +192,15 @@
             ],
             "movies": [
                 {
+                    "id": 256810406,
+                    "name": "The SIlent Age Steam Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256810406/movie.293x165.jpg?t=1605904739",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/352520/328161/7e82d1d9c4e7b7ef9ed20754d136a4e4b5698d40/1751274678/dash_av1.mpd?t=1605904739",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/352520/328161/7e82d1d9c4e7b7ef9ed20754d136a4e4b5698d40/1751274678/dash_h264.mpd?t=1605904739",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/352520/328161/7e82d1d9c4e7b7ef9ed20754d136a4e4b5698d40/1751274678/hls_264_master.m3u8?t=1605904739",
+                    "highlight": true
+                },
+                {
                     "id": 2039297,
                     "name": "The Silent Age Official Teaser",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039297/movie.293x165.jpg?t=1606073303",
@@ -202,7 +211,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5970
+                "total": 5971
             },
             "achievements": {
                 "total": 24,
@@ -326,6 +335,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nHoror\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3157,
+                    "total_negative": 233,
+                    "total_reviews": 3390
+                },
+                "total_matching": 3,
+                "day_range_used": 30
             }
         }
     }

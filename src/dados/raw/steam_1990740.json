@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1740,
-                "final": 1740,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 17,40"
+                "final": 174,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 17,40",
+                "final_formatted": "R$ 1,74"
             },
             "packages": [
                 718719
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 718719,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-90% ",
                             "percent_savings": 0,
-                            "option_text": "Barro GT - R$ 17,40",
+                            "option_text": "Barro GT - <span class=\"discount_original_price\">R$ 17,40</span> R$ 1,74",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1740
+                            "price_in_cents_with_discount": 174
                         }
                     ]
                 }
@@ -195,7 +195,7 @@
                 }
             ],
             "recommendations": {
-                "total": 821
+                "total": 826
             },
             "achievements": {
                 "total": 21,
@@ -316,6 +316,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 514,
+                    "total_negative": 331,
+                    "total_reviews": 845
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237431056",
+                        "author": {
+                            "steamid": "76561198855619819",
+                            "num_reviews": 166,
+                            "playtime_forever": 106,
+                            "playtime_last_two_weeks": 29,
+                            "playtime_at_review": 106,
+                            "last_played": 1791690663
+                        },
+                        "language": "english",
+                        "review": "[b] As the seventh game in the series: [/b] 6.0/10\n[h3] Okay, Let’s Take It a Little Slower [/h3]\n([i] series order: Barro → 2020 → F → Racing → 22 → F22 → GT → T23 → 2024 → F25 [/i])\n\nI was just flooring it like a maniac in [i] F22 [/i], and then SC Jogos kindly hands us [i] GT [/i].\nHey, guys, what exactly are you trying to do to us here? XDDD\n\n[i] Barro GT [/i] has its own approach to vehicles and track design, and some of its choices are noticeably different from those of the original Barro games.\n\nOne particularly interesting change is that it tones down the series’ signature jumps. Naturally, that changes how the game feels to drive.\n\nYou’re no longer just fighting the ramps. More often, you’re dealing with racing lines, speed management, and other cars.\n\nAnd when a track is packed with vehicles, the somewhat lonely, time-trial-like atmosphere of the original *Barro* can suddenly turn into a miniature traffic disaster.\n\nThere’s a car in front of you. Another beside you. More cars heading into the corner.\nAnd then everyone goes flying off the track together.\n[b] BEAUTIFUL [/b]!\n\nAt this point, you start to realize that *Barro* might never have been particularly interested in simulating real racing in the first place. Its real strength is turning racing into something casual, chaotic, and easy to restart.\n\nTaking it seriously? Nah, not necessary.\nGoing for another round? Absolutely.\n\n([i] Time to find out what the eighth game, Barro T23, has in store. [/i])",
+                        "timestamp_created": 1791691401,
+                        "timestamp_updated": 1791691401,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.52173912525177,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZkLIAAAABwkd2JBw==",
+                "day_range_used": 30,
+                "total_matching": 10
             }
         }
     }

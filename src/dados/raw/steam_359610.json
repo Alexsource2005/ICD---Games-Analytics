@@ -190,7 +190,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1111
+                "total": 1113
             },
             "achievements": {
                 "total": 18,
@@ -324,6 +324,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 252,
+                    "total_negative": 150,
+                    "total_reviews": 402
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236434477",
+                        "author": {
+                            "steamid": "76561198276759359",
+                            "num_reviews": 148,
+                            "playtime_forever": 402,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 402,
+                            "last_played": 1790478238
+                        },
+                        "language": "english",
+                        "review": "Like AC China the main selling point is the art stye that said the gameplay is about the same but the story is better it did get a really bad bug in one of hte levels and I had to replay the entire level from the beginning again which isnt the worst bug since hte levels themselves are very short",
+                        "timestamp_created": 1790639698,
+                        "timestamp_updated": 1790639698,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB9wvaFBw==",
+                "day_range_used": 30,
+                "total_matching": 2
             }
         }
     }

@@ -17,7 +17,46 @@
             "about_the_game": "<strong><h2 class=\"bb_tag\" >Goku And Friends' Fierce Battles Will Be Reborn!</h2></strong><br>FOR THE FIRST TIME EVER, THE DRAGON BALL UNIVERSE IS COMING TO STEAM!<br><br>DRAGON BALL XENOVERSE revisits famous battles from the series through your custom Avatar, who fights alongside Trunks and many other characters. Will the strength of this partnership be enough to intervene in fights and restore the Dragon Ball timeline we know? New features include the mysterious Toki Toki City, new gameplay mechanics, new character animations and many other amazing features to be unveiled soon!<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br><ul class=\"bb_ul\"><li>CUSTOM AVATAR – Players create their very own Dragon Ball character to take their place in the Dragon Ball world! Choose Earthling, Majin, Saiyan, Namekian or Frieza Clansman and start battling!<br></li><li>NEW LOCATION - A once dormant clock has started to tick again in the enigmatic and futuristic Toki Toki City!<br></li><li>NEW CHARACTERS - Mira, an android trying to become the strongest creature in the universe; Towa, a dark scientist coming from a demonic world; The Supreme Kai of Time, a deity who appeared 75,000,000 years ago and her companion bird Tokitoki, a very powerful lifeform that can produce time!<br></li><li>THE MASTER SYSTEM - Choose an original Dragon Ball character as a Master to train under. Your skill set and training excersizes will vary depending on the Master you choose. Your Master may even suddenly appear in battle to assist you!<br></li><li>STRONG IMMERSION - Inspired by one of the most famous series ever created.<br></li><li>IMPROVED GAMEPLAY - Expeience a new, fast paced, and technical battle system.</li></ul>",
             "short_description": "DRAGON BALL XENOVERSE revisits famous battles from the series through your custom Avatar and other classic characters. New features include the mysterious Toki Toki City, new gameplay mechanics, new animations and many other amazing features!",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Extraordinary experience for Dragon Ball fans.”<br>4/5 – NEO Magazine<br><br>“[…]nice graphics and high entertainment value.”<br>84/100 – Spieletipps<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 7554,
+                    "total_negative": 1196,
+                    "total_reviews": 8750
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237840830",
+                        "author": {
+                            "steamid": "76561198030085897",
+                            "num_reviews": 20,
+                            "playtime_forever": 4522,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 4522,
+                            "last_played": 1784809385
+                        },
+                        "language": "english",
+                        "review": "This is where this mysterious Dragon Ball saga began a story in which the series' familiar characters, along with a pint-sized individual who calls herself the Supreme Kai of Time, send us on errands and task us with keeping characters who possess overwhelming power in check. They completely threw the whole \"power level\" concept out the window, ¡but hey! ¡It’s certainly a lot of fun! 🤣",
+                        "timestamp_created": 1792147838,
+                        "timestamp_updated": 1792147838,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZhheAAAAB+m6WLBw==",
+                "day_range_used": 30,
+                "total_matching": 13
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/header.jpg?t=1701323766",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/capsule_231x87.jpg?t=1701323766",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/capsule_184x69.jpg?t=1701323766",
@@ -37,11 +76,11 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 7999,
-                "final": 7999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 79,99"
+                "initial": 12598,
+                "final": 1259,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 125,98",
+                "final_formatted": "R$ 12,59"
             },
             "packages": [
                 54474,
@@ -59,6 +98,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 59191,
+                            "percent_savings_text": "-90% ",
+                            "percent_savings": 0,
+                            "option_text": "DRAGONBALL XENOVERSE Bundle Edition - <span class=\"discount_original_price\">R$ 125,98</span> R$ 12,59",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1259
+                        },
+                        {
                             "packageid": 54474,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -67,16 +116,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 7999
-                        },
-                        {
-                            "packageid": 59191,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "DRAGONBALL XENOVERSE Bundle Edition - R$ 125,98",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 12598
                         },
                         {
                             "packageid": 58736,
@@ -241,7 +280,7 @@
                 }
             ],
             "recommendations": {
-                "total": 17612
+                "total": 17634
             },
             "achievements": {
                 "total": 50,

@@ -205,7 +205,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7418
+                "total": 7449
             },
             "achievements": {
                 "total": 50,
@@ -342,6 +342,46 @@
                     "use_age_gate": "true",
                     "required_age": "17"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 3751,
+                    "total_negative": 2167,
+                    "total_reviews": 5918
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236777913",
+                        "author": {
+                            "steamid": "76561198040878656",
+                            "num_reviews": 18,
+                            "playtime_forever": 389,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 389,
+                            "last_played": 1365145200
+                        },
+                        "language": "english",
+                        "review": "A strange time in gaming, when this was released many FPS games were trying to copy the success of Call of Duty, whether it fitted in with the brands identity or not.\nThe result was FEAR becoming a more action focused game to appeal to the CoD masses. F.E.A.R was already a niche franchise, this game killed it by not appealing to the games fans, but to the mass market at the time. A real shame, I hope this franchise gets rebooted someday",
+                        "timestamp_created": 1791028894,
+                        "timestamp_updated": 1791028894,
+                        "voted_up": false,
+                        "votes_up": 22,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6970887780189514,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFWDueAAAAB5m56HBw==",
+                "day_range_used": 30,
+                "total_matching": 36
             }
         }
     }

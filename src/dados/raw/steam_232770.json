@@ -5,7 +5,7 @@
             "type": "game",
             "name": "POSTAL",
             "steam_appid": 232770,
-            "required_age": 0,
+            "required_age": "18",
             "is_free": true,
             "controller_support": "full",
             "dlc": [
@@ -357,6 +357,53 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 6487,
+                    "total_negative": 548,
+                    "total_reviews": 7035
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238055261",
+                        "author": {
+                            "steamid": "76561198055279775",
+                            "num_reviews": 39,
+                            "playtime_forever": 142,
+                            "playtime_last_two_weeks": 142,
+                            "playtime_at_review": 142,
+                            "last_played": 1792359583
+                        },
+                        "language": "english",
+                        "review": "🕹️ Gameplay: ⭐⭐⭐\r\n📖 Story: ⭐⭐\r\n🎨 Visuals: ⭐⭐⭐\r\n🎵 Music: ⭐⭐\r\n🔄 Replayability: ⭐⭐\r\n❤️ Enjoyment: ⭐⭐⭐\r\n\r\nHaving played POSTAL 2 and POSTAL: Brain Damaged beforehand, I have to admit that I prefer both of their gameplay styles. The original POSTAL feels much more dated and straightforward, with its isometric perspective and repetitive objectives. While the gameplay has its moments, it didn't quite click with me in the same way as its successors.\r\n\r\nThe visuals have a distinct gritty style that fits the game's disturbing atmosphere, but the music wasn't really my thing. I can appreciate what it was going for, though, and it definitely suits the dark and unsettling tone of the game. The story also didn't leave much of an impression on me.\r\n\r\nDespite not enjoying it as much as the other entries I've played, I'm glad I experienced this piece of gaming history. I'm looking forward to playing POSTAL Redux, which should offer a more modern take on the original.\r\n\r\n⭐ Overall Rating: 2/5",
+                        "timestamp_created": 1792360520,
+                        "timestamp_updated": 1792360520,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5536662936210632,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+                            "adapter_description": "NVIDIA GeForce RTX 2080 SUPER",
+                            "system_ram": "32682",
+                            "vram_size": 7987
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFY7TsAAAAB99Y2MBw==",
+                "day_range_used": 30,
+                "total_matching": 92
             }
         }
     }

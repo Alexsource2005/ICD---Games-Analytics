@@ -63,10 +63,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 9990,
-                "final": 2497,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 99,90",
-                "final_formatted": "R$ 24,97"
+                "final": 9990,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 99,90"
             },
             "packages": [
                 804566,
@@ -84,23 +84,23 @@
                     "subs": [
                         {
                             "packageid": 804566,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "World War Z - <span class=\"discount_original_price\">R$ 99,90</span> R$ 24,97",
+                            "option_text": "World War Z - R$ 99,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2497
+                            "price_in_cents_with_discount": 9990
                         },
                         {
                             "packageid": 201132,
-                            "percent_savings_text": "-63% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "World War Z: Aftermath - <span class=\"discount_original_price\">R$ 159,90</span> R$ 59,16",
+                            "option_text": "World War Z: Aftermath - R$ 134,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5916
+                            "price_in_cents_with_discount": 13490
                         }
                     ]
                 }
@@ -291,7 +291,7 @@
                 }
             ],
             "recommendations": {
-                "total": 25134
+                "total": 25333
             },
             "achievements": {
                 "total": 35,
@@ -418,6 +418,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nKekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 8364,
+                    "total_negative": 1548,
+                    "total_reviews": 9912
+                },
+                "total_matching": 144,
+                "day_range_used": 30
             }
         }
     }

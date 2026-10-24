@@ -18,7 +18,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/extras/29b8ea40c0c847fc2ed9dadd56913497.avif?t=1744327639\" width=600 height=338 /></span><br><br>As if awakening from a deep sleep, you find yourself in a strange, contradictory world of ancient ruins and advanced technology. Tasked by your creator with solving a series of increasingly complex puzzles, you must decide whether to have faith or to ask the difficult questions: Who are you? What is your purpose? And what are you going to do about it?<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Overcome more than 120 immersive puzzles in a stunning world.<br></li><li>Divert drones, manipulate laser beams and even replicate time to prove your worth - or to find a way out.<br></li><li>Explore a story about humanity, technology and civilization. Uncover clues, devise theories, and make up your own mind.<br></li><li>Choose your own path through the game's non-linear world, solving puzzles your way.<br></li><li>But remember: choices have consequences and somebody's always watching you.</li></ul>",
             "short_description": "The Talos Principle is a first-person puzzle game in the tradition of philosophical science fiction. Made by Croteam and written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Czech<br><strong>*</strong>languages with full audio support",
-            "reviews": "“The Talos Principle is going to be something very, very special for you.”<br>9.5/10 – Jim Sterling (Jimquisition)<br><br>“The Talos Principle is an absolute joy to play.”<br>9/10 – Gamespot<br><br>“One of the best games of the year.”<br>4.5/5 – PCWorld<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 18643,
+                    "total_negative": 864,
+                    "total_reviews": 19507
+                },
+                "total_matching": 75,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg?t=1744327639",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/capsule_231x87.jpg?t=1744327639",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/capsule_184x69.jpg?t=1744327639",
@@ -46,10 +57,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8899,
-                "final": 1334,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 88,99",
-                "final_formatted": "R$ 13,34"
+                "final": 8899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 88,99"
             },
             "packages": [
                 56219
@@ -66,13 +77,13 @@
                     "subs": [
                         {
                             "packageid": 56219,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Talos Principle - <span class=\"discount_original_price\">R$ 88,99</span> R$ 13,34",
+                            "option_text": "The Talos Principle - R$ 88,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1334
+                            "price_in_cents_with_discount": 8899
                         }
                     ]
                 }
@@ -181,6 +192,15 @@
                     "highlight": true
                 },
                 {
+                    "id": 2035453,
+                    "name": "The Talos Principle Public Test - Release Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035453/movie.293x165.jpg?t=1447364933",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/257510/27351/2e04d1f89e28ac87f583c287761a0e1bf3460914/1750491215/dash_av1.mpd?t=1447364933",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/257510/27351/2e04d1f89e28ac87f583c287761a0e1bf3460914/1750491215/dash_h264.mpd?t=1447364933",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/257510/27351/2e04d1f89e28ac87f583c287761a0e1bf3460914/1750491215/hls_264_master.m3u8?t=1447364933",
+                    "highlight": true
+                },
+                {
                     "id": 2032752,
                     "name": "The Talos Principle - Teaser Video",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032752/movie.293x165.jpg?t=1447362232",
@@ -191,7 +211,7 @@
                 }
             ],
             "recommendations": {
-                "total": 29309
+                "total": 29360
             },
             "achievements": {
                 "total": 40,

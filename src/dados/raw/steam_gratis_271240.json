@@ -26,7 +26,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271240/extras/14ddddadf771aad0a59d815c0300a065.avif?t=1790866876\" width=617 height=162 /></span><br>Mars has been colonized. Now, Earth's greatest corporate titans have been invited to build companies to support it. The competition to dominate the market is fierce in this fast-paced economic RTS from Civilization IV lead Designer, Soren Johnson.<h2 class=\"bb_tag\" ><strong>Venture to Mars to Earn Your Fortune</strong></h2>With space travel becoming a reality and the easy-to-reach resources on Earth dwindling, hopeful people seeking their fortune are rushing to the next great frontier: Mars. Rekindle humanity’s adventurous spirit by leaving Earth behind and make a new name for yourself as a titan of industry on the red planet.<h2 class=\"bb_tag\" ><strong>Discover the Origin of the Major Martian Businesses</strong></h2>Determine the fate of the Martian colonization effort in the dynamic single-player campaign mode. Multiple types of CEOs, each with unique traits and abilities, deliver many hours of discovery into their motivations and how they intend to dominate the future of Mars.<h2 class=\"bb_tag\" ><strong>Experience New Adventure in Multiplayer</strong></h2>Turn your friends into frenemies! With a robust and exciting multiplayer mode that can support up to eight players, no two games of Offworld Trading Company are the same! The market fluctuates depending on which of the four starting corporations you and your opponents choose and what resources you accumulate. Strategy is key, and tenuous alliances between rivals are easily broken when the opportunity arises.<h2 class=\"bb_tag\" ><strong>Control the Market before your Competition Controls You</strong></h2>In Offworld Trading Company, market forces are your weapons, not guns or bombs. The real-time player driven market is your sword and your shield here. In order to win, you will need to make tough choices on what resources to acquire, what goods to build and sell, how to interact with the planet's thriving underworld, and what stocks to acquire and when. With over a dozen different resources available and a constantly changing market economy, no two paths of victory are alike -- each game holds a different “key” to dominating your competition.<h2 class=\"bb_tag\" ><strong>Enjoy a Rich Soundtrack from a Grammy Award Winning Composer</strong></h2>Transport yourself to Mars and immerse yourself in the battle for big business with an incredible soundtrack from composer Christopher Tin (Baba Yetu, Civilization IV). This retro-futuristic score mixes orchestra instrumentals, piano, and synthesizers while utilizing unique pitch-dives and other electronic treatments. All of these unique elements gives Offworld a truly otherworldly tone.<h2 class=\"bb_tag\" ><strong>Expand your Business to Io in the Included Jupiter’s Forge Expansion</strong></h2>If you thought turning a profit on Mars was tough, just wait until you land on Jupiter’s volcanic moon, Io. With resources that deplete over time creating fierce competition, you will have to adapt to the new environment faster than your opponents do in order to survive. Life support is so strenuous on Io that Mars will look like a paradise in comparison!<br><br><br>If community competition is your thing, you can fight for a spot on the leaderboards in the 1000 Map Challenge. Jupiter’s Forge has its own campaign and features several new maps based on Jupiter’s moon, Io. The expansion contained 2 additional factions, patents, resources, and much more.",
             "short_description": "Mars has been colonized, and Earth's corporate titans fight to dominate this new market. Competition is fierce in this fast-paced economic RTS from Civilization IV Lead Designer, Soren Johnson.",
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Offworld Trading Company is a work of genius.”<br>5/5 – Quarter to Three<br><br>“This isn’t an RTS with the combat removed - it’s Wall Street on a new frontier. It kept me engaged because every choice is part of an ongoing battle.”<br>88/100 – PC Gamer<br><br>“The core mechanic – the market that acts as a malleable foundation on which every other system is built – is close to perfect.”<br>Rock Paper Shotgun<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 3246,
+                    "total_negative": 931,
+                    "total_reviews": 4177
+                },
+                "total_matching": 6,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271240/header.jpg?t=1790866876",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271240/6507400abfe6af3dbcc68b2311d6828a82b0eba6/capsule_231x87.jpg?t=1790866876",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271240/6507400abfe6af3dbcc68b2311d6828a82b0eba6/capsule_184x69.jpg?t=1790866876",
@@ -53,10 +64,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 9999,
-                "final": 9999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 99,99"
+                "final": 2499,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 99,99",
+                "final_formatted": "R$ 24,99"
             },
             "packages": [
                 345380,
@@ -75,13 +86,13 @@
                     "subs": [
                         {
                             "packageid": 182379,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "Offworld Trading Company Core Edition - R$ 99,99",
+                            "option_text": "Offworld Trading Company Core Edition - <span class=\"discount_original_price\">R$ 99,99</span> R$ 24,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9999
+                            "price_in_cents_with_discount": 2499
                         }
                     ]
                 }
@@ -220,7 +231,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3600
+                "total": 3603
             },
             "achievements": {
                 "total": 255,

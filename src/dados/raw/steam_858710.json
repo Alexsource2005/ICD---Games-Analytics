@@ -214,7 +214,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3045
+                "total": 3056
             },
             "achievements": {
                 "total": 53,
@@ -338,6 +338,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3609,
+                    "total_negative": 283,
+                    "total_reviews": 3892
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236370906",
+                        "author": {
+                            "steamid": "76561199084539944",
+                            "num_reviews": 7,
+                            "playtime_forever": 1098,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1098,
+                            "last_played": 1790534638
+                        },
+                        "language": "english",
+                        "review": "Amazing platformer with some of the best fast-paced action you can play. The inspiration from the Mega Man games (mainly the Zero series) is super notable, but it doesn't stop it from having its own merits! The close combat is dynamic, the Grappling Hook gives such immense versatility, and in general the repertory of abilities Gravity Circuit has is nothing short of amazing. Whether it is 100%-ing the game or just speedrunning it, I'm pretty confident there is something to enjoy for every type of player.\n\nMusic and atmosphere are also pretty solid and overall, excellent game with little to no problems on my end.\n\nVery excited for the sequel!",
+                        "timestamp_created": 1790557626,
+                        "timestamp_updated": 1790557626,
+                        "voted_up": true,
+                        "votes_up": 11,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6587499976158142,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFW0zMAAAAB6vdeFBw==",
+                "day_range_used": 30,
+                "total_matching": 82
             }
         }
     }

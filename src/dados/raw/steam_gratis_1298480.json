@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 2999,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 29,99"
             },
             "packages": [
                 452967
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 452967,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "Kardboard Kings - R$ 59,99",
+                            "option_text": "Kardboard Kings - <span class=\"discount_original_price\">R$ 59,99</span> R$ 29,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -197,6 +197,24 @@
             ],
             "movies": [
                 {
+                    "id": 256872942,
+                    "name": "Kardboard Kings - Gameplay",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256872942/movie.293x165.jpg?t=1770411887",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1298480/438468/f825f572b95f4e308471b7f674d436c887f9fcbf/1751217403/dash_av1.mpd?t=1770411887",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1298480/438468/f825f572b95f4e308471b7f674d436c887f9fcbf/1751217403/dash_h264.mpd?t=1770411887",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1298480/438468/f825f572b95f4e308471b7f674d436c887f9fcbf/1751217403/hls_264_master.m3u8?t=1770411887",
+                    "highlight": true
+                },
+                {
+                    "id": 256919998,
+                    "name": "Kardboard Kings - Card Game Island",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919998/movie.293x165.jpg?t=1670518886",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1298480/520271/e0a0491549496e54bfdc18bfc5e2926c9cfc48c4/1751217409/dash_av1.mpd?t=1670518886",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1298480/520271/e0a0491549496e54bfdc18bfc5e2926c9cfc48c4/1751217409/dash_h264.mpd?t=1670518886",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1298480/520271/e0a0491549496e54bfdc18bfc5e2926c9cfc48c4/1751217409/hls_264_master.m3u8?t=1670518886",
+                    "highlight": true
+                },
+                {
                     "id": 256873226,
                     "name": "Kardboard Kings - Launch Trailer",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256873226/movie.293x165.jpg?t=1644509443",
@@ -207,7 +225,7 @@
                 }
             ],
             "recommendations": {
-                "total": 324
+                "total": 325
             },
             "achievements": {
                 "total": 19,
@@ -334,6 +352,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 210,
+                    "total_negative": 92,
+                    "total_reviews": 302
+                },
+                "total_matching": 2,
+                "day_range_used": 30
             }
         }
     }

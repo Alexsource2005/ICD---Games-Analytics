@@ -6,7 +6,7 @@
             "name": "Pony Island",
             "steam_appid": 405640,
             "required_age": 0,
-            "is_free": true,
+            "is_free": false,
             "dlc": [
                 428010
             ],
@@ -14,7 +14,46 @@
             "about_the_game": "<p class=\"bb_paragraph\" >Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. The devil detests having his puzzles solved and poor programming exposed; you will need to think outside the box to proceed and you will be insulted when you do.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >In Pony Island you will...</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Peer behind the rotting curtain of &quot;Pony Island&quot; to repair its broken code</p></li><li><p class=\"bb_paragraph\" > Be forced to play along with The Devil's demented game of ponies</p></li><li><p class=\"bb_paragraph\" > Explore the depths of the cryptic software system that runs His game</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game is about as indie as it gets.</p><p class=\"bb_paragraph\" ><i>Daniel Mullins</i> - Creator</p><p class=\"bb_paragraph\" ><i>Simon Jenkins</i> - Consulted Designer</p><p class=\"bb_paragraph\" ><i>Jonah Senzel</i> - Musician</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>@EnzoPiou</i> - French Localization</p><p class=\"bb_paragraph\" ><i>FenixTM</i> - Italian Localization</p><p class=\"bb_paragraph\" ><i>@77pali</i> - German Localization</p><p class=\"bb_paragraph\" ><i>Luis Redin (Fusti)</i> - Spanish Localization</p><p class=\"bb_paragraph\" ><i>Kenneth Mohr</i> - Danish Localization</p><p class=\"bb_paragraph\" ><i>Alan K. Cirino</i> - Portuguese Localization</p><p class=\"bb_paragraph\" ><i>Berke Oğuz Yılmaz</i> - Turkish Localization</p><p class=\"bb_paragraph\" ><i>@TomWojcik1</i> - Polish Localization</p><p class=\"bb_paragraph\" ><i>Leanne Kiksen</i> - Dutch Localization</p><p class=\"bb_paragraph\" ><i>Farhad Alyshev</i> - Russian Localization</p><p class=\"bb_paragraph\" ><i>Hex Hanslation Group</i> - Simplified Chinese Localization</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Video playthrough by LoganicYT!</p>",
             "short_description": "Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. It is not a game about ponies.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish<strong>*</strong>, Turkish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Polish<strong>*</strong>, Dutch<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“It’s a self-aware indie gem with an anarchic sensibility, where anything can happen.”<br>9/10 – IGN<br><br>“Pony Island is bloody genius.”<br>9.5/10 – Jim Sterling<br><br>“This is a game that had me both laugh out loud, and exclaim to my monitor how smart it was being.”<br>Rock, Paper, Shotgun<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 9929,
+                    "total_negative": 627,
+                    "total_reviews": 10556
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236711903",
+                        "author": {
+                            "steamid": "76561198202503919",
+                            "num_reviews": 104,
+                            "playtime_forever": 339,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 339,
+                            "last_played": 1790959470
+                        },
+                        "language": "english",
+                        "review": "[h3]Remember the dinosaur from Chrome when you don't have Internet?\nThis is him now.[/h3]\n\nFrom gameplay perspective this is mainly about ponies jumping and trying to avoid the fences. But as you know, this is a little bit cursed this time. I have played Inscryption before this game, so I knew what to expect from this developer and was not dissapointed. \n\nAt times, this game feels like proto-inscryption, with some ideas and twists already there, but with execution pretty minimalistic and simple. But anyway, that was a fun time. I didn't notice how the time passed, the same premise keeps being fun with a lot of new variations that make it not just interesting, but even...funny? \n\nThis game tries to be scary with all these fourth-wall-breaking sequences and changing shapes faster than you get bored, but these things made me smiling on how creative such a simple game can be! This is definitely a good start to Daniel Mullins Games if you have never played his games before.\n\nNow I'm waiting for Pony Island 2 and can't imagine how insane it will be!",
+                        "timestamp_created": 1790960204,
+                        "timestamp_updated": 1790960204,
+                        "voted_up": true,
+                        "votes_up": 90,
+                        "votes_funny": 21,
+                        "weighted_vote_score": 0.815072238445282,
+                        "comment_count": 2,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFTstUAAAAB//f2GBw==",
+                "day_range_used": 30,
+                "total_matching": 418
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1791477267",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/capsule_231x87.jpg?t=1791477267",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/capsule_184x69.jpg?t=1791477267",
@@ -38,15 +77,14 @@
                 "Daniel Mullins Games"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 499,
-                "discount_percent": 100,
-                "initial_formatted": "$4.99",
-                "final_formatted": "Free"
+                "currency": "BRL",
+                "initial": 1699,
+                "final": 1699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 16,99"
             },
             "packages": [
-                1857153,
                 79724,
                 1156648,
                 90016
@@ -62,44 +100,34 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 1857153,
-                            "percent_savings_text": "-100% ",
-                            "percent_savings": 0,
-                            "option_text": "Pony Island Limited Free Promotional Package - Oct 2026 - <span class=\"discount_original_price\">$0.00</span> Free",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": true,
-                            "price_in_cents_with_discount": 0
-                        },
-                        {
                             "packageid": 79724,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Pony Island - $4.99",
+                            "option_text": "Pony Island - R$ 16,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1699
                         },
                         {
                             "packageid": 1156648,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Pony Island - Commercial License - $4.99",
+                            "option_text": "Pony Island - Commercial License - R$ 16,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1699
                         },
                         {
                             "packageid": 90016,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Pony Island + Soundtrack - $5.99",
+                            "option_text": "Pony Island + Soundtrack - R$ 20,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 2049
                         }
                     ]
                 }
@@ -214,7 +242,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14851
+                "total": 14880
             },
             "achievements": {
                 "total": 20,
@@ -303,7 +331,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 4, 2016"
+                "date": "4 Jan, 2016"
             },
             "support_info": {
                 "url": "",

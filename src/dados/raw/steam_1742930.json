@@ -49,10 +49,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 6,99"
+                "final": 489,
+                "discount_percent": 30,
+                "initial_formatted": "R$ 6,99",
+                "final_formatted": "R$ 4,89"
             },
             "packages": [
                 624611
@@ -69,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 624611,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-30% ",
                             "percent_savings": 0,
-                            "option_text": "Looking Up I See Only A Ceiling - R$ 6,99",
+                            "option_text": "Looking Up I See Only A Ceiling - <span class=\"discount_original_price\">R$ 6,99</span> R$ 4,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 489
                         }
                     ]
                 }
@@ -196,7 +196,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3408
+                "total": 3421
             },
             "achievements": {
                 "total": 49,
@@ -322,6 +322,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1301,
+                    "total_negative": 130,
+                    "total_reviews": 1431
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238020494",
+                        "author": {
+                            "steamid": "76561199336682639",
+                            "num_reviews": 69,
+                            "playtime_forever": 179,
+                            "playtime_last_two_weeks": 27,
+                            "playtime_at_review": 179,
+                            "last_played": 1792317273
+                        },
+                        "language": "english",
+                        "review": "I didnt like how the game was structured like \"Now you can find out more about the lore!\" like bro, especially if this is an indie game, you shouldnt invite them you should FORCE them into it so they can decide by themselves whether or not there is a lore",
+                        "timestamp_created": 1792331400,
+                        "timestamp_updated": 1792331400,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5532779097557068,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFY7zeAAAAB++PyLBw==",
+                "day_range_used": 30,
+                "total_matching": 21
             }
         }
     }

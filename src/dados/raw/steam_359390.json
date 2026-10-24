@@ -199,7 +199,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3804
+                "total": 3857
             },
             "achievements": {
                 "total": 26,
@@ -334,6 +334,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2395,
+                    "total_negative": 235,
+                    "total_reviews": 2630
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236511564",
+                        "author": {
+                            "steamid": "76561198288659841",
+                            "num_reviews": 128,
+                            "playtime_forever": 1093,
+                            "playtime_last_two_weeks": 68,
+                            "playtime_at_review": 926,
+                            "last_played": 1792020696
+                        },
+                        "language": "english",
+                        "review": "I played this game as a kid and picked Toma and then dropped the game horrified thinking all the guys were like this and spent years avoiding this game. Good times.",
+                        "timestamp_created": 1790727771,
+                        "timestamp_updated": 1790727771,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.54356849193573,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZIO6AAAAB8lJyGBw==",
+                "day_range_used": 30,
+                "total_matching": 15
             }
         }
     }

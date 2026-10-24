@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3999,
-                "final": 3999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 39,99"
+                "final": 1399,
+                "discount_percent": 65,
+                "initial_formatted": "R$ 39,99",
+                "final_formatted": "R$ 13,99"
             },
             "packages": [
                 1064,
@@ -73,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 1064,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-65% ",
                             "percent_savings": 0,
-                            "option_text": "Bully: Scholarship Edition - R$ 39,99",
+                            "option_text": "Bully: Scholarship Edition - <span class=\"discount_original_price\">R$ 39,99</span> R$ 13,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1399
                         }
                     ]
                 }
@@ -195,7 +195,7 @@
                 }
             ],
             "recommendations": {
-                "total": 37852
+                "total": 37951
             },
             "release_date": {
                 "coming_soon": false,
@@ -246,6 +246,46 @@
                     "use_age_gate": "true",
                     "required_age": "14"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 14150,
+                    "total_negative": 3435,
+                    "total_reviews": 17585
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236274480",
+                        "author": {
+                            "steamid": "76561199745817442",
+                            "num_reviews": 33,
+                            "playtime_forever": 556,
+                            "playtime_last_two_weeks": 38,
+                            "playtime_at_review": 517,
+                            "last_played": 1792593005
+                        },
+                        "language": "english",
+                        "review": "bully is a great game but it keeps always crashing when i saved my game and exited then joined back and my progres was gone and always keeps putting me in the begginig of the game super anoying rather buy it on my ps2 than play on this shit",
+                        "timestamp_created": 1790459717,
+                        "timestamp_updated": 1790459717,
+                        "voted_up": false,
+                        "votes_up": 20,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.6760074496269226,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFWetgAAAABws6iFBw==",
+                "day_range_used": 30,
+                "total_matching": 148
             }
         }
     }

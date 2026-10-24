@@ -119,7 +119,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3122
+                "total": 3133
             },
             "release_date": {
                 "coming_soon": false,
@@ -184,6 +184,46 @@
                     "use_age_gate": "true",
                     "required_age": "15"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1511,
+                    "total_negative": 262,
+                    "total_reviews": 1773
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236645794",
+                        "author": {
+                            "steamid": "76561198310645061",
+                            "num_reviews": 92,
+                            "playtime_forever": 709,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 709,
+                            "last_played": 1790883793
+                        },
+                        "language": "english",
+                        "review": "It's a pretty old hitman game, but I still enjoyed it. Compared to the hitman games after this one it's much slower paced, with walking around making enough noise for nearby guards to look at you and the crouching speed being extremely slow. A much more methodical game where even walking past a guard with a disguise is a risk if you don't commit and plan your path properly. I enjoy the slower pace, but it can drag on some maps. The levels vary a lot in quality with a mix of ok/bad levels and really good ones. Despite a decent amount of jank I would still recommend it if you enjoy the hitman series. A tip for the first mission is that you can close the truck since the butcher will wake up and blow your cover 10min into the mission",
+                        "timestamp_created": 1790885155,
+                        "timestamp_updated": 1790885155,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5454545617103577,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZF0UAAAABy2t2GBw==",
+                "day_range_used": 30,
+                "total_matching": 20
             }
         }
     }

@@ -14,7 +14,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/extras/cd47e9e21affbf9bd9c398c08e7faab4.poster.avif?t=1791539931\" width=600 height=206 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/extras/cd47e9e21affbf9bd9c398c08e7faab4.webm?t=1791539931\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/extras/cd47e9e21affbf9bd9c398c08e7faab4.mp4?t=1791539931\" type=\"video/mp4\"></video></span><br><br><i>A little boy falls asleep to a horrible nightmare. Can you make him happy again?</i><br><br>- Brand new psychedelic horror adventure from the creators of Botanicula and CHUCHEL<br>- Endure and escape three unforgettable nightmares<br>- Solve deeply disturbing puzzles in (not so) charming environments<br>- Deal with suspicious smiley faces and pink bunnies<br>- Creepy songs and screeches from the Czech freakfolk band DVA",
             "short_description": "A little boy falls asleep to a horrible nightmare. Can you make him happy again?",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Czech<strong>*</strong>, Dutch<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“Happy Game doesn’t overstay its welcome.”<br>9 / 10 – Well Played<br><br>“Happy Game is the most enjoyable nightmare of this year.”<br>8.2 / 10 – Meristation<br><br>“Psychedelic, bizarre, disturbing, twisted-ly cute and incredibly funny at the same time.”<br>10 / 10 – Games CZ<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1249,
+                    "total_negative": 166,
+                    "total_reviews": 1415
+                },
+                "total_matching": 11,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/header.jpg?t=1791539931",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/capsule_231x87.jpg?t=1791539931",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/capsule_184x69.jpg?t=1791539931",
@@ -33,12 +44,12 @@
                 "Amanita Design"
             ],
             "price_overview": {
-                "currency": "HKD",
-                "initial": 8900,
-                "final": 1780,
-                "discount_percent": 80,
-                "initial_formatted": "HK$ 89.00",
-                "final_formatted": "HK$ 17.80"
+                "currency": "BRL",
+                "initial": 5499,
+                "final": 5499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 54,99"
             },
             "packages": [
                 416600
@@ -55,13 +66,13 @@
                     "subs": [
                         {
                             "packageid": 416600,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Happy Game - <span class=\"discount_original_price\">HK$ 89.00</span> HK$ 17.80",
+                            "option_text": "Happy Game - R$ 54,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1780
+                            "price_in_cents_with_discount": 5499
                         }
                     ]
                 }
@@ -155,7 +166,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3324
+                "total": 3341
             },
             "achievements": {
                 "total": 11,

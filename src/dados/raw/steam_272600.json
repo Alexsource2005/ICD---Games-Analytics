@@ -14,7 +14,46 @@
             "about_the_game": "Detective Grimoire has been called to investigate a murder. The owner of a small tourist attraction, found deep within the heart of the marshes, seemingly killed by the very mythical creature his attraction is based around... Explore the surrounding area, inspect the scene of the crime, grill the suspects, solve puzzles, search for clues and uncover the secret of the swamp! <br><br><u>Features</u><br><ul class=\"bb_ul\"><li>A mixture of investigating and puzzle gameplay, designed with mouse/touch in mind <br></li><li>Assemble Grimoire's thoughts to reach conclusions about the case <br></li><li>A fully voiced and animated cast of characters to interrogate <br></li><li>Beautiful digitally painted environments to explore <br></li><li>Award nominated original orchestral soundtrack</li></ul>",
             "short_description": "Detective Grimoire has been called to investigate a murder. The owner of a small tourist attraction, seemingly killed by the mythical creature his attraction is based around... Explore the area, inspect the crime scene, grill suspects, solve puzzles, hunt for clues &amp; uncover the secret of the swamp!",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“Detective Grimoire is a better detective game than the likes of, say, L.A. Noire [...] The designers knew what they wanted the game to be and ensure that nothing got in the way of it. As a result, it’s thoroughly enjoyable”<br>Indie Statik<br><br>“Definitely one of the better crime games I've played and it's a treat to experience”<br>8/10 – Pocket Gamer<br><br>“From the moment you set foot on the docks, Boggy’s Bog is engrossing, its characters alive and endearing”<br>4.5/5 – GameZebo<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 2009,
+                    "total_negative": 85,
+                    "total_reviews": 2094
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237824134",
+                        "author": {
+                            "steamid": "76561198118346943",
+                            "num_reviews": 9,
+                            "playtime_forever": 289,
+                            "playtime_last_two_weeks": 289,
+                            "playtime_at_review": 289,
+                            "last_played": 1791830992
+                        },
+                        "language": "english",
+                        "review": "I recommend this game because it lays a bit of storytelling groundwork for the 2 games that come after, \"Tangle Tower\" and \"The Mermaid Mask\" which are both fabulous! The improvement between this game and the next two was very satisfying to experience as well.",
+                        "timestamp_created": 1792121561,
+                        "timestamp_updated": 1792121561,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5572755932807922,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFY2r8AAAAB2iJ2LBw==",
+                "day_range_used": 30,
+                "total_matching": 40
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/272600/header.jpg?t=1771579460",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/272600/capsule_231x87.jpg?t=1771579460",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/272600/capsule_184x69.jpg?t=1771579460",
@@ -38,10 +77,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2350,
-                "final": 470,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 23,50",
-                "final_formatted": "R$ 4,70"
+                "final": 2350,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 23,50"
             },
             "packages": [
                 87302,
@@ -59,23 +98,23 @@
                     "subs": [
                         {
                             "packageid": 87302,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Detective Grimoire - <span class=\"discount_original_price\">R$ 23,50</span> R$ 4,70",
+                            "option_text": "Detective Grimoire - R$ 23,50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 470
+                            "price_in_cents_with_discount": 2350
                         },
                         {
                             "packageid": 36687,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Detective Grimoire - Soundtrack Edition - <span class=\"discount_original_price\">R$ 29,99</span> R$ 5,99",
+                            "option_text": "Detective Grimoire - Soundtrack Edition - R$ 29,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -157,7 +196,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2234
+                "total": 2262
             },
             "achievements": {
                 "total": 9,

@@ -34,12 +34,12 @@
                 "Little Horror Studios"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 399,
-                "final": 399,
+                "currency": "BRL",
+                "initial": 999,
+                "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final_formatted": "R$ 9,99"
             },
             "packages": [
                 1293904
@@ -58,11 +58,11 @@
                             "packageid": 1293904,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "How to Train Your Cock - 3,99€",
+                            "option_text": "How to Train Your Cock - R$ 9,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -184,7 +184,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1961
+                "total": 1980
             },
             "achievements": {
                 "total": 24,
@@ -310,6 +310,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 744,
+                    "total_negative": 105,
+                    "total_reviews": 849
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237428961",
+                        "author": {
+                            "steamid": "76561198043997379",
+                            "num_reviews": 35,
+                            "playtime_forever": 6589,
+                            "playtime_last_two_weeks": 348,
+                            "playtime_at_review": 6270,
+                            "last_played": 1791707897
+                        },
+                        "language": "english",
+                        "review": "Jumpscare when I clicked the screenshot button and it autosaved into a desktop folder called 'c*ck pics'. 10/10",
+                        "timestamp_created": 1791688833,
+                        "timestamp_updated": 1791688833,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 9,
+                        "weighted_vote_score": 0.6347070932388306,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXTk0AAAABxjtyJBw==",
+                "day_range_used": 30,
+                "total_matching": 47
             }
         }
     }

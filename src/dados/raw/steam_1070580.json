@@ -215,7 +215,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5286
+                "total": 5287
             },
             "achievements": {
                 "total": 41,
@@ -336,6 +336,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1963,
+                    "total_negative": 329,
+                    "total_reviews": 2292
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236925357",
+                        "author": {
+                            "steamid": "76561198404759628",
+                            "num_reviews": 4,
+                            "playtime_forever": 198,
+                            "playtime_last_two_weeks": 28,
+                            "playtime_at_review": 94,
+                            "last_played": 1792735207
+                        },
+                        "language": "english",
+                        "review": "Fun game to pass some time with. It’s not groundbreaking in graphics or gameplay. If you just watched initial D and are looking to drive like Takumi except drift into a wall or five, this game is for you.",
+                        "timestamp_created": 1791153830,
+                        "timestamp_updated": 1791153830,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.5419847369194031,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZKQmAAAAB9muaHBw==",
+                "day_range_used": 30,
+                "total_matching": 17
             }
         }
     }

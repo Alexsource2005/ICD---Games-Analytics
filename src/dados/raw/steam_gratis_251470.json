@@ -15,7 +15,18 @@
             "about_the_game": "TowerFall Ascension is the definitive version of the hit archery combat game. Inspired by classics from the golden age of couch multiplayer, it's a 4-player local party game centering around hilarious, intense versus matches. The core mechanics are simple and accessible, but hard to master and combat is fierce. Loot treasure chests for game-changing power-ups, master the art of catching arrows out of the air, or descend on your foes and stomp them into submission. TowerFall is best played competitively with friends, cross-legged on the floor within punching distance of each other.<br><br>New in Ascension is the 1- or 2-player co-op Quest mode. Players work together, fighting off a variety of monsters and enemy archers across the land of TowerFall. It's a new adventure to explore when you don't have more friends handy to square off against.<br><br>New features in TowerFall Ascension include:<br><ul class=\"bb_ul\"><li>Brand new 1- or 2-player co-op Quest mode<br></li><li>50 additional Versus arenas, for a total of 120 unique maps<br></li><li>More game-changing power-ups, such as Drill Arrows that burrow through walls<br></li><li>4 new unlockable, playable archers, for a total of 8<br></li><li>A huge list of variants to customize your matches - a total of 75 ways to mix things up<br></li><li>Plenty of hidden secrets and surprises to discover with your friends</li></ul>",
             "short_description": "TowerFall Ascension is the definitive version of the hit archery combat game. Inspired by classics from the golden age of couch multiplayer, it's a 4-player local party game centering around hilarious, intense versus matches. The core mechanics are simple and accessible, but hard to master and combat is fierce.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“The new gold standard in the local multiplayer renaissance”<br>9.5 / 10 – Polygon<br><br>“Aggressively focused, humbly spectacular, and nearly unimpeachable in its design”<br>10 / 10 – EGM<br><br>“Destined to be remembered as one of the best multiplayer games of all time”<br>CVG<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2090,
+                    "total_negative": 134,
+                    "total_reviews": 2224
+                },
+                "total_matching": 10,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/header.jpg?t=1715114308",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/capsule_231x87.jpg?t=1715114308",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/capsule_184x69.jpg?t=1715114308",
@@ -38,12 +49,12 @@
                 "Maddy Makes Games Inc."
             ],
             "price_overview": {
-                "currency": "HKD",
-                "initial": 8800,
-                "final": 1760,
+                "currency": "BRL",
+                "initial": 4499,
+                "final": 899,
                 "discount_percent": 80,
-                "initial_formatted": "HK$ 88.00",
-                "final_formatted": "HK$ 17.60"
+                "initial_formatted": "R$ 44,99",
+                "final_formatted": "R$ 8,99"
             },
             "packages": [
                 30725,
@@ -63,21 +74,21 @@
                             "packageid": 30725,
                             "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "TowerFall Ascension - <span class=\"discount_original_price\">HK$ 88.00</span> HK$ 17.60",
+                            "option_text": "TowerFall Ascension - <span class=\"discount_original_price\">R$ 44,99</span> R$ 8,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1760
+                            "price_in_cents_with_discount": 899
                         },
                         {
                             "packageid": 290180,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "TowerFall Ascension - Commercial License - HK$ 99.00",
+                            "option_text": "TowerFall Ascension - Commercial License - R$ 27,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9900
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
@@ -235,7 +246,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2950
+                "total": 2957
             },
             "achievements": {
                 "total": 30,

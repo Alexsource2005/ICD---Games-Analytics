@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Alan Wake's American Nightmare",
             "steam_appid": 202750,
-            "required_age": "14",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "In this brand new standalone experience, Alan Wake fights the herald of darkness, the evil Mr. Scratch! A thrilling new storyline, hordes of creepy enemies, serious firepower and beautiful Arizona locations, combined with a fun and challenging new game mode make this a must for Alan Wake veterans, and the perfect jumping on point for new players!<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><strong>Play the full-fledged Story Mode:</strong> You’ll be on the edge of your seat as you fight to stop your murderous evil double to take back your life... and change reality itself!<br></li><li><strong>Fight till dawn arcade mode:</strong> In the action-packed Arcade Mode, you’ll need to master the Fight with Light mechanic to stay alive until dawn and beat your friends on the Leaderboards. Can you survive until sunrise?<br></li><li><strong>Face the darkness:</strong> Twisted and dangerous enemies stalk you in the shadows. Dispatch them with the powerful arsenal of weapons at your disposal.</li></ul>",
@@ -30,12 +30,12 @@
                 "Remedy Entertainment"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 2999,
-                "final": 449,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 29,99",
-                "final_formatted": "R$ 4,49"
+                "currency": "EUR",
+                "initial": 879,
+                "final": 879,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,79€"
             },
             "packages": [
                 14562,
@@ -53,23 +53,23 @@
                     "subs": [
                         {
                             "packageid": 14562,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Alan Wake's American Nightmare  - <span class=\"discount_original_price\">R$ 29,99</span> R$ 4,49",
+                            "option_text": "Alan Wake's American Nightmare  - 8,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 879
                         },
                         {
                             "packageid": 15407,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Alan Wake Origins Bundle - <span class=\"discount_original_price\">R$ 69,99</span> R$ 10,49",
+                            "option_text": "Alan Wake Origins Bundle - 24,50€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1049
+                            "price_in_cents_with_discount": 2450
                         }
                     ]
                 }
@@ -165,7 +165,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8437
+                "total": 8480
             },
             "achievements": {
                 "total": 12,
@@ -289,6 +289,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 3663,
+                    "total_negative": 1145,
+                    "total_reviews": 4808
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237651271",
+                        "author": {
+                            "steamid": "76561198784559087",
+                            "num_reviews": 18,
+                            "playtime_forever": 367,
+                            "playtime_last_two_weeks": 367,
+                            "playtime_at_review": 367,
+                            "last_played": 1791920495
+                        },
+                        "language": "english",
+                        "review": "Alan Wake's American Nightmare has improved its gameplay compared to the previous entry. Everything I needed, such as Alan's stamina to be increased and lower dodging cooldown, is in this game. There are new rosters for weapons, and the flashlight recharge moves faster than the previous title. Flashlight gauge management has been much easier for me in this game. As for the story, it's not as psychologically horror in terms of the atmosphere. It does have its mystery, and it's what actually hooked me until the end. The journey as I, Alan, discover clues was fantastic because the game still has its quirky feature in storytelling. For me, it felt like a supernatural action TV show, and I have nothing much to say about its ending. Regardless, it was a fun game, and the story is engaging for a spin-off. I do think it's a good expansion of this universe. It's a 7/10 for me. Not bad but not mine-blowing in a sense. It's just right and a good game worth trying by Alan Wake fans.\n\nhttps://x.com/ShiroSaints777/status/2110097374236512663?s=20",
+                        "timestamp_created": 1791921195,
+                        "timestamp_updated": 1791921615,
+                        "voted_up": true,
+                        "votes_up": 15,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7131393551826477,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVvLqAAAAB31MiKBw==",
+                "day_range_used": 30,
+                "total_matching": 68
             }
         }
     }

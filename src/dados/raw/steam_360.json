@@ -137,7 +137,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4377
+                "total": 4389
             },
             "release_date": {
                 "coming_soon": false,
@@ -181,6 +181,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 1956,
+                    "total_negative": 604,
+                    "total_reviews": 2560
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237507774",
+                        "author": {
+                            "steamid": "76561198768461130",
+                            "num_reviews": 10,
+                            "playtime_forever": 110,
+                            "playtime_last_two_weeks": 110,
+                            "playtime_at_review": 5,
+                            "last_played": 1791846378
+                        },
+                        "language": "english",
+                        "review": "shits awesome, way better than hl2dm, too bad almost its almost empty most of the time",
+                        "timestamp_created": 1791760253,
+                        "timestamp_updated": 1791760253,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5454545617103577,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZF0UAAAAB+y4KKBw==",
+                "day_range_used": 30,
+                "total_matching": 17
             }
         }
     }

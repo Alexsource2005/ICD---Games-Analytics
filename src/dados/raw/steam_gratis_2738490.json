@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4449,
-                "final": 2980,
-                "discount_percent": 33,
-                "initial_formatted": "R$ 44,49",
-                "final_formatted": "R$ 29,80"
+                "final": 4449,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 44,49"
             },
             "packages": [
                 979827
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 979827,
-                            "percent_savings_text": "-33% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Sol Cesto - <span class=\"discount_original_price\">R$ 44,49</span> R$ 29,80",
+                            "option_text": "Sol Cesto - R$ 44,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2980
+                            "price_in_cents_with_discount": 4449
                         }
                     ]
                 }
@@ -174,7 +174,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4933
+                "total": 4971
             },
             "achievements": {
                 "total": 21,
@@ -300,6 +300,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2162,
+                    "total_negative": 252,
+                    "total_reviews": 2414
+                },
+                "total_matching": 57,
+                "day_range_used": 30
             }
         }
     }

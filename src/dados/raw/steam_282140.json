@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8899,
-                "final": 8899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 88,99"
+                "final": 1779,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 88,99",
+                "final_formatted": "R$ 17,79"
             },
             "packages": [
                 38804
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 38804,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "SOMA - R$ 88,99",
+                            "option_text": "SOMA - <span class=\"discount_original_price\">R$ 88,99</span> R$ 17,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8899
+                            "price_in_cents_with_discount": 1779
                         }
                     ]
                 }
@@ -224,7 +224,7 @@
                 }
             ],
             "recommendations": {
-                "total": 47055
+                "total": 47222
             },
             "achievements": {
                 "total": 10,
@@ -362,6 +362,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 27438,
+                    "total_negative": 1217,
+                    "total_reviews": 28655
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236146872",
+                        "author": {
+                            "steamid": "76561199811862606",
+                            "num_reviews": 26,
+                            "playtime_forever": 1248,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1248,
+                            "last_played": 1790339183
+                        },
+                        "language": "english",
+                        "review": "SOMA is a philosophically complex sci fi film disguised as a horror game. This game scratches alot of itches, claustrophobia, deep sea horror, sensory deprivation, fear of the unknown, and existential dreads, and so much more. All while telling one of the most brilliantly written story concepts I've seen. Some of the enemies alone had me feeling sickly with the stress they keep you in. 10/10 piece of art.",
+                        "timestamp_created": 1790340670,
+                        "timestamp_updated": 1790340670,
+                        "voted_up": true,
+                        "votes_up": 33,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7857413291931152,
+                        "comment_count": 3,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUSQGAAAAB4i+qEBw==",
+                "day_range_used": 30,
+                "total_matching": 223
             }
         }
     }

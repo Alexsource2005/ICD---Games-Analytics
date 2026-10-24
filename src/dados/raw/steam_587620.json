@@ -19,7 +19,46 @@
             "about_the_game": "Experience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution. Take on the role of Amaterasu, the Japanese sun goddess who inhabits the form of a legendary white wolf, on a quest to defeat Orochi, an eight-headed demon and tyrannical monster responsible for turning the world of Nippon into a ruined wasteland.<br />\r\n<br />\r\nPlayers will be able to choose between modern widescreen format or the original release’s 4:3 ratio. Interactive loading game screens from the original game are also included.",
             "short_description": "Experience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution.",
             "supported_languages": "English, French, German, Japanese",
-            "reviews": "“a fantastic game that I cannot recommend enough”<br>10/10 – Dualshockers<br><br>“sharp and crisp and beautiful in a way we could only have dreamed of when it first came out”<br>4.5/5 – Hardcore Gamer<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 5788,
+                    "total_negative": 549,
+                    "total_reviews": 6337
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237602536",
+                        "author": {
+                            "steamid": "76561198806250355",
+                            "num_reviews": 65,
+                            "playtime_forever": 3586,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 3586,
+                            "last_played": 1791163615
+                        },
+                        "language": "english",
+                        "review": "[h3]Okami is as beautiful as I remember ദ്ദി ( ᵔ ᗜ ᵔ )[/h3] \n\nThe first few hours of gameplay were horrific, because the game is super blurry (probably because it's running at a low resolution...?) and the camera controls are bad [b]BAD[/b]. And honestly, what kept me going were my memories of watching the neighbor kid play Okami a looong time ago. Now I finally get to experience it myself!\n\nI'm glad I didn't drop it, because drawing with the brush mechanics was super fun, the soundtrack is very nice, and the story is amazing. It had me sobbing by the end of it :')\n\nThe minigames were more on the frustrating side because of the weird camera angles and movement, but most of them were 100% doable with a bit of practice and a few retries, especially the digging ones! [spoiler]The race against Kai in Yoshpet Forest[/spoiler] was not only annoying af, but it also felt like every obstacle was designed to make you lose.\n[list]\n[*] MILF: [i]Man, I love fishing![/i] The fishing minigame was super fun, and the hours just flew by as I tried to complete my fishing log c:\n[/list]",
+                        "timestamp_created": 1791862437,
+                        "timestamp_updated": 1791862437,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5652173757553101,
+                        "comment_count": 2,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYshcAAAAB47rCKBw==",
+                "day_range_used": 30,
+                "total_matching": 34
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/header.jpg?t=1733787035",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/capsule_231x87.jpg?t=1733787035",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/capsule_184x69.jpg?t=1733787035",
@@ -46,10 +85,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8400,
-                "final": 8400,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 84,00"
+                "final": 4200,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 84,00",
+                "final_formatted": "R$ 42,00"
             },
             "packages": [
                 227415,
@@ -67,23 +106,23 @@
                     "subs": [
                         {
                             "packageid": 227415,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "OKAMI HD / 大神 絶景版 - R$ 84,00",
+                            "option_text": "OKAMI HD / 大神 絶景版 - <span class=\"discount_original_price\">R$ 84,00</span> R$ 42,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8400
+                            "price_in_cents_with_discount": 4200
                         },
                         {
                             "packageid": 1186207,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-30% ",
                             "percent_savings": 0,
-                            "option_text": "Okami + Kunitsu-Gami Bundle - R$ 219,00",
+                            "option_text": "Okami + Kunitsu-Gami Bundle - <span class=\"discount_original_price\">R$ 219,00</span> R$ 153,30",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 21900
+                            "price_in_cents_with_discount": 15330
                         }
                     ]
                 }
@@ -177,7 +216,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8259
+                "total": 8277
             },
             "achievements": {
                 "total": 51,

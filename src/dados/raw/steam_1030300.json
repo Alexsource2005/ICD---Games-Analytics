@@ -238,7 +238,7 @@
                 }
             ],
             "recommendations": {
-                "total": 389221
+                "total": 390276
             },
             "achievements": {
                 "total": 52,
@@ -364,6 +364,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 151731,
+                    "total_negative": 10994,
+                    "total_reviews": 162725
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236570688",
+                        "author": {
+                            "steamid": "76561198111863857",
+                            "num_reviews": 38,
+                            "playtime_forever": 6611,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 6611,
+                            "last_played": 1790791408
+                        },
+                        "language": "english",
+                        "review": "One of the Best Metroidvanias in videogame history, very challenged game\r\n\r\nultra recomended",
+                        "timestamp_created": 1790797926,
+                        "timestamp_updated": 1790797926,
+                        "voted_up": true,
+                        "votes_up": 29,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7185968160629272,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVoMiAAAABwhLmGBw==",
+                "day_range_used": 30,
+                "total_matching": 1326
             }
         }
     }

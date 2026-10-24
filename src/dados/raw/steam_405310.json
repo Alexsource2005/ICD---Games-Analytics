@@ -254,7 +254,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6051
+                "total": 6090
             },
             "achievements": {
                 "total": 70,
@@ -391,6 +391,46 @@
                 "crl": {
                     "rating": "6"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2613,
+                    "total_negative": 489,
+                    "total_reviews": 3102
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236846576",
+                        "author": {
+                            "steamid": "76561198807596887",
+                            "num_reviews": 18,
+                            "playtime_forever": 2192,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 2192,
+                            "last_played": 1791088048
+                        },
+                        "language": "english",
+                        "review": "LEGO MARVEL's Avengers 100% Achievement Review -\r\nI have never played this LEGO game before, and I had no idea I would enjoy the levels and the free mode and hubs as much as I did! The DLC were incredibly fun and really refreshing in their own ways as levels to each other, and to the base game levels. LEGO games always have really fun free mode maps, but for this game it felt greatly immersed. As a big fan of these movies, this was a great time!",
+                        "timestamp_created": 1791088193,
+                        "timestamp_updated": 1791088193,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5705521106719971,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYlsYAAAABw37+HBw==",
+                "day_range_used": 30,
+                "total_matching": 41
             }
         }
     }

@@ -181,7 +181,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8027
+                "total": 8042
             },
             "achievements": {
                 "total": 10,
@@ -327,6 +327,18 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 5123,
+                    "total_negative": 410,
+                    "total_reviews": 5533
+                },
+                "total_matching": 30,
+                "day_range_used": 30
             }
         }
     }

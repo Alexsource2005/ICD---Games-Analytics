@@ -229,7 +229,7 @@
                 }
             ],
             "recommendations": {
-                "total": 48156
+                "total": 48184
             },
             "achievements": {
                 "total": 54,
@@ -358,6 +358,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 24614,
+                    "total_negative": 1340,
+                    "total_reviews": 25954
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237587254",
+                        "author": {
+                            "steamid": "76561199849127857",
+                            "num_reviews": 2,
+                            "playtime_forever": 1691,
+                            "playtime_last_two_weeks": 526,
+                            "playtime_at_review": 1223,
+                            "last_played": 1792467774
+                        },
+                        "language": "english",
+                        "review": "Fun engineering game. The base game doesn't have much content, but mods and workshop creations more than make up for that.",
+                        "timestamp_created": 1791843556,
+                        "timestamp_updated": 1791843556,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZhheAAAAB2s6mKBw==",
+                "day_range_used": 30,
+                "total_matching": 75
             }
         }
     }

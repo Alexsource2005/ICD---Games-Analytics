@@ -15,7 +15,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/d94118f1990222580f9c5eb5bbf4c265.avif?t=1784712345\" width=616 height=147 /></span><br>Follow the grim tale of young Amicia and her little brother Hugo, in a heartrending journey through the darkest hours of history. Hunted by Inquisition soldiers and surrounded by unstoppable swarms of rats, Amicia and Hugo will come to know and trust each other. As they struggle to survive against overwhelming odds, they will fight to find purpose in this brutal, unforgiving world.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/d0755c926081c7942be430b81a42b18c.webp?t=1784712345\" width=289 height=61 /></span><br><br>1348. The plague ravages the Kingdom of France. Amicia and her younger brother Hugo are pursued by the Inquisition through villages devastated by the disease. On their way, they will have to join forces with other children, and evade swarms of rats using fire and light. Aided only by the link that binds their fates together, they will face untold horrors in their struggle to survive. As their adventure begins… the time of innocence ends. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/06f211246513719dff8fe7b61e7d5f9b.webp?t=1784712345\" width=343 height=61 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/3a763b8cdb057f94aa9fb984c347a2d7.avif?t=1784712345\" width=616 height=974 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/38f07694b9cad2310bced04c2a83f644.poster.avif?t=1784712345\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/38f07694b9cad2310bced04c2a83f644.webm?t=1784712345\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/extras/38f07694b9cad2310bced04c2a83f644.mp4?t=1784712345\" type=\"video/mp4\"></video></span>",
             "short_description": "Follow the grim tale of young Amicia and her little brother Hugo, in a heartrending journey through the darkest hours of history.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Korean, Japanese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Cinematic delights every step of the way”<br>Rock Paper Shotgun<br><br>“A Plague Tale’s story is immediately compelling”<br>IGN<br><br>“Gripping, heartbreaking”<br>Telegraph<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 24320,
+                    "total_negative": 1842,
+                    "total_reviews": 26162
+                },
+                "total_matching": 278,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg?t=1784712345",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/capsule_231x87.jpg?t=1784712345",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/capsule_184x69.jpg?t=1784712345",
@@ -47,11 +58,11 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 13990,
-                "final": 13990,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 139,90"
+                "initial": 23990,
+                "final": 5997,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 239,90",
+                "final_formatted": "R$ 59,97"
             },
             "packages": [
                 340715,
@@ -68,6 +79,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 802975,
+                            "percent_savings_text": "-75% ",
+                            "percent_savings": 0,
+                            "option_text": "A Plague Tale Bundle - <span class=\"discount_original_price\">R$ 239,90</span> R$ 59,97",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5997
+                        },
+                        {
                             "packageid": 340715,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -76,16 +97,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 13990
-                        },
-                        {
-                            "packageid": 802975,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "A Plague Tale Bundle - R$ 239,90",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 23990
                         }
                     ]
                 }
@@ -268,7 +279,7 @@
                 }
             ],
             "recommendations": {
-                "total": 63961
+                "total": 64202
             },
             "achievements": {
                 "total": 35,

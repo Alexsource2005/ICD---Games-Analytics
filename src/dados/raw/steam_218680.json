@@ -165,7 +165,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8016
+                "total": 8039
             },
             "achievements": {
                 "total": 25,
@@ -284,6 +284,46 @@
                 "fpb": {
                     "rating": "A"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 7495,
+                    "total_negative": 539,
+                    "total_reviews": 8034
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237409278",
+                        "author": {
+                            "steamid": "76561198006268674",
+                            "num_reviews": 483,
+                            "playtime_forever": 1095,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1095,
+                            "last_played": 1376545491
+                        },
+                        "language": "english",
+                        "review": "[h1]Word wizards need not apply[/h1]\r\n\r\nIf you can think of 100 words in the next 100 seconds that you want to conjure up magically. Then this is the game for you!\r\n\r\nScribblenauts Unlimited is actually limited, I mean, well you can't conjure anything you want and that's unfortunate. It's a fun word play game where you type in words to create objects to solve puzzles. The fun part is figuring out what you can summon to get the job done. Sometimes the obvious solution works, and other times you end up using the same word ten times in a row because it works.\r\n\r\nIt's a clever little game that rewards creativity and thinking outside the box. There's also a DC Comics version of Scribblenauts that has the same gameplay but with the addition of DC comic lore.\r\n\r\n[h2]8/10[/h2]\r\n\r\n[h2][url=https://store.steampowered.com/curator/45905648-Gork%2527s-Game-Grind/]Check out my curated list of games[/url][/h2]",
+                        "timestamp_created": 1791667271,
+                        "timestamp_updated": 1791667271,
+                        "voted_up": true,
+                        "votes_up": 13,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6458005309104919,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXFX+AAAAB+v9KJBw==",
+                "day_range_used": 30,
+                "total_matching": 34
             }
         }
     }

@@ -11,7 +11,46 @@
             "about_the_game": "Hylics is a recreational program with light JRPG elements.<br />\r\n<br />\r\nFeatures:<br />\r\n-Advanced graphics.<br />\r\n-RPG battles.<br />\r\n-Overuse of random text generation.<br />\r\n- ~2+ hours of content.",
             "short_description": "Hylics is a recreational program with light JRPG elements.",
             "supported_languages": "English",
-            "reviews": "“Some of Lindroth's most wonderful animation so far.”<br>Kill Screen<br><br>“Hylics is a masterwork in absurdist art and literature in game form”<br>Indie Ruckus<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 6356,
+                    "total_negative": 122,
+                    "total_reviews": 6478
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236721377",
+                        "author": {
+                            "steamid": "76561198396624073",
+                            "num_reviews": 4,
+                            "playtime_forever": 646,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 646,
+                            "last_played": 1790821233
+                        },
+                        "language": "english",
+                        "review": "bottom line; i highly recommend this game if you like surreal games with an off-brand humour, a forgiving playstyle, and vaguely uncomfortable music. and if you think you dont like those things, i still think you should play this game.\nfor the less succinct part of the review, i want to say that i bought this game when i was much younger, played it not even one time, soft-locked myself, and gave up. but it stayed with me and i thought about it often. decided to pick it back up recently and its been amazing, as it was when i didnt give it a chance the first time. this game has been with me through a lot of weird stuff, so much so that sometimes i feel like my life plays a tune too similar. i appreciate that hylics makes you slow down a bit, even when youre fighting for your life. \nanyways, ill wrap it up by saying this: remember, you can always crash on the couch.",
+                        "timestamp_created": 1790967924,
+                        "timestamp_updated": 1790967924,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5620437860488892,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYwlWAAAABxzoKHBw==",
+                "day_range_used": 30,
+                "total_matching": 50
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397740/header.jpg?t=1447377715",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397740/capsule_231x87.jpg?t=1447377715",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397740/capsule_184x69.jpg?t=1447377715",
@@ -150,7 +189,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8423
+                "total": 8459
             },
             "release_date": {
                 "coming_soon": false,

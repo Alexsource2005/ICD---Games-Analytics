@@ -18,7 +18,18 @@
             "about_the_game": "<p class=\"bb_paragraph\" >Combining furious run ‘n’ gun action and deep, roguelike mechanics, Neon Abyss pits you as a member of ‘Grim Squad’ – a task force set-up by Hades himself to infiltrate the Abyss and defeat the New Gods. Death is not the end as every time you die, you’ll find yourself more empowered than before.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/extras/6e936bb5943d6403a7544ccf9ae30e12.poster.avif?t=1791432125\" width=616 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/extras/6e936bb5943d6403a7544ccf9ae30e12.webm?t=1791432125\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/extras/6e936bb5943d6403a7544ccf9ae30e12.mp4?t=1791432125\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/extras/56b276c4c801b97bad8dc1c4b1523386.avif?t=1791432125\" width=616 height=339 /></span></p><p class=\"bb_paragraph\" >As you progress through each dungeon, random item drops will be key in helping you infiltrate the Abyss and these passive effects can stack between every item. With no limit to how many can apply; a wide variety of combinations will make each run unique.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/extras/41c22c452c8e9f2040bae7225e86c9ff.avif?t=1791432125\" width=616 height=339 /></span></p><p class=\"bb_paragraph\" >With each run, you will be able to unlock new rooms, items, bosses, special rules and even new endings! This means each dungeon is unique and expandable, being tailored to your own specific playstyle.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Hatch and Evolve Pets</h2><p class=\"bb_paragraph\" >If you need some company on your journey into the depths of the abyss, or just some additional firepower or assistance, eggs can be found which will turn into a random pet that has a special ability and will evolve the longer you survive.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Mini-Games</h2><p class=\"bb_paragraph\" >Take a short break from slaying minions and take part in random mini-games that will also bag you some loot! Jump into Piano Performances, Meditation Challenge, Dance Competitions, and more – staying alive just got a lot more interesting!</p>",
             "short_description": "Neon Abyss is a frantic, roguelite action-platformer where you run ‘n’ gun your way into the Abyss. Featuring unlimited item synergies and a unique dungeon evolution system, each run diversifies the experience and every choice alters the ruleset.",
             "supported_languages": "English, Simplified Chinese, French, Italian, German, Spanish - Spain, Japanese, Russian, Traditional Chinese",
-            "reviews": "“A deliriously entertaining mish-mash of roguelike platform shooter, mini-games and Pokemon style mechanics”<br>9/10 – PSU<br><br>“Neon Abyss is undoubtedly one of the best Rogue-likes in recent years; gorgeous, meticulously designed and a hell of a lot of fun to play”<br>8/10 – Gamespew<br><br>“The myriad pop culture references and massive array of weapons and gear will keep you blasting and laughing for hours”<br>9/10 – God is a Geek<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3683,
+                    "total_negative": 620,
+                    "total_reviews": 4303
+                },
+                "total_matching": 5,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/7105869c3cf24c4fe65284ba978e23d2f691c372/header.jpg?t=1791432125",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/capsule_231x87.jpg?t=1791432125",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/capsule_184x69.jpg?t=1791432125",
@@ -46,10 +57,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 10490,
-                "final": 2622,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 104,90",
-                "final_formatted": "R$ 26,22"
+                "final": 10490,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 104,90"
             },
             "packages": [
                 481434,
@@ -67,13 +78,13 @@
                     "subs": [
                         {
                             "packageid": 481434,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Neon Abyss - <span class=\"discount_original_price\">R$ 104,90</span> R$ 26,22",
+                            "option_text": "Neon Abyss - R$ 104,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2622
+                            "price_in_cents_with_discount": 10490
                         },
                         {
                             "packageid": 1538095,
@@ -288,7 +299,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19720
+                "total": 19728
             },
             "achievements": {
                 "total": 35,

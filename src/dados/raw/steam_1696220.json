@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3775,
-                "final": 755,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 37,75",
-                "final_formatted": "R$ 7,55"
+                "final": 3775,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 37,75"
             },
             "packages": [
                 604720
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 604720,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "FixFox - <span class=\"discount_original_price\">R$ 37,75</span> R$ 7,55",
+                            "option_text": "FixFox - R$ 37,75",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 755
+                            "price_in_cents_with_discount": 3775
                         }
                     ]
                 }
@@ -219,7 +219,7 @@
                 }
             ],
             "recommendations": {
-                "total": 369
+                "total": 370
             },
             "achievements": {
                 "total": 37,
@@ -340,6 +340,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 317,
+                    "total_negative": 51,
+                    "total_reviews": 368
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237838911",
+                        "author": {
+                            "steamid": "76561197994652012",
+                            "num_reviews": 6,
+                            "playtime_forever": 675,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 675,
+                            "last_played": 1736131601
+                        },
+                        "language": "english",
+                        "review": "First, I struggle to actually call this a puzzle game. Your hand is firmly held for the entire game. A couple of robot puzzles required me to pause, but almost always there's only one possible route to take, and all I needed to do was find it. When doing repairs, you're always told exactly what item you need, and you can always look up where exactly to find it, turning it into a fetch quest.\n\nThe idea of fixing items using random junk is cool, but the game goes nowhere with it. Your first repair is exactly the same as your 50th. The game has tools of different tiers, and after beating it I still have no idea what the tool tier does, I guess it's more durability? This is especially funny because late in the game you get an ability to skip the repair mini-game, which... okay, you took \"fix\" out of \"fixfox\". But the fact that the game considers it a reward...\n\nRepairs aside, some mechanics don't seem well-thought. You have a cable fast travel system, which you need to unlock by repairing the stations, and almost immediately after you get the item to use it, you unlock a taxi that can take you anywhere and is available at a press of a button. The alarm system is similarly pointless. After you loot/repair a bunch of objects, you're supposed to get ambushed, except you can reset the counter indefinitely, so it just ends up being busywork. And on top of that the ambush automatically gets bribed by items that are available in abundance (and, in fact, some of them you will receive against your will).\n\nWhen you go to sleep, for eight seconds straight there's absolutely nothing happening until the dialogue pops up that you need to click on. This doesn't sound like much but I hated it by the end.\n\nSpoilers for the story below.\n\n[spoiler]Most of the characters are dull. Nobody is ever allowed to just be bad. If someone's being mean, it's going to end up being either a misunderstanding, or they have some personal reason that gets resolved by the end. There's no real conflict and the story drags on and on.\n\nFrequent tonal whiplashes. You go from fixing someone's ice cream machine to a story about a doctor murdering patients to organising a rave dance party. Silly backpack companion, racism, quirky robots.\n\nThe last act of the story comes completely out of nowhere. I liked it (for one, it was something different and I was bored to death), but it would have been nice to have something more than incredibly vague foreshadowing you get.\n\nThe ending pulls out an \"it was all just a dream, OR WAS IT\" for absolutely no reason. The story is *less* resolved because of the final chapter. Was it an attempt to explain why the story is so flaccid?[/spoiler]",
+                        "timestamp_created": 1792145155,
+                        "timestamp_updated": 1792145155,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB/o6SLBw==",
+                "day_range_used": 30,
+                "total_matching": 1
             }
         }
     }

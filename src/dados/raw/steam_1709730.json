@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7399,
-                "final": 739,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 73,99",
-                "final_formatted": "R$ 7,39"
+                "final": 7399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 73,99"
             },
             "packages": [
                 612136
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 612136,
-                            "percent_savings_text": "-90% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Beyond The Edge Of Owlsgard - <span class=\"discount_original_price\">R$ 73,99</span> R$ 7,39",
+                            "option_text": "Beyond The Edge Of Owlsgard - R$ 73,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 739
+                            "price_in_cents_with_discount": 7399
                         }
                     ]
                 }
@@ -185,7 +185,7 @@
                 }
             ],
             "recommendations": {
-                "total": 296
+                "total": 303
             },
             "achievements": {
                 "total": 88,
@@ -311,6 +311,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 280,
+                    "total_negative": 15,
+                    "total_reviews": 295
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237415631",
+                        "author": {
+                            "steamid": "76561198196676931",
+                            "num_reviews": 40,
+                            "playtime_forever": 605,
+                            "playtime_last_two_weeks": 200,
+                            "playtime_at_review": 605,
+                            "last_played": 1791672280
+                        },
+                        "language": "english",
+                        "review": "Loved it.  First point and click game.  I had some issues with a couple of puzzles, but I think it is a mostly great experience.  The characters are for sure worth it.  Charming and fun.",
+                        "timestamp_created": 1791673080,
+                        "timestamp_updated": 1791673080,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5354523062705994,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZSnyAAAAB/zNWJBw==",
+                "day_range_used": 30,
+                "total_matching": 8
             }
         }
     }

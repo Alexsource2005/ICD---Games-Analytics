@@ -281,6 +281,18 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 7,
+                    "review_score_desc": "Positive",
+                    "total_positive": 41,
+                    "total_negative": 6,
+                    "total_reviews": 47
+                },
+                "total_matching": 1,
+                "day_range_used": 180
             }
         }
     }

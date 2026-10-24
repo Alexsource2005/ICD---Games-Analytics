@@ -201,7 +201,7 @@
                 }
             ],
             "recommendations": {
-                "total": 40333
+                "total": 40347
             },
             "achievements": {
                 "total": 10,
@@ -327,6 +327,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Penggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 29760,
+                    "total_negative": 2486,
+                    "total_reviews": 32246
+                },
+                "total_matching": 39,
+                "day_range_used": 30
             }
         }
     }

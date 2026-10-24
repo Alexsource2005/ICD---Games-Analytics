@@ -35,12 +35,12 @@
                 "KOEI TECMO GAMES CO., LTD."
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 24900,
-                "final": 24900,
+                "currency": "EUR",
+                "initial": 4999,
+                "final": 4999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 249,00"
+                "final_formatted": "49,99€"
             },
             "packages": [
                 109199
@@ -59,11 +59,11 @@
                             "packageid": 109199,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Nioh: Complete Edition - R$ 249,00",
+                            "option_text": "Nioh: Complete Edition - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 24900
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -203,7 +203,7 @@
                 }
             ],
             "recommendations": {
-                "total": 29698
+                "total": 29733
             },
             "achievements": {
                 "total": 79,
@@ -360,6 +360,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 9668,
+                    "total_negative": 2148,
+                    "total_reviews": 11816
+                },
+                "total_matching": 60,
+                "day_range_used": 30
             }
         }
     }

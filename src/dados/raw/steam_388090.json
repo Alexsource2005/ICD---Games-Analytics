@@ -132,7 +132,7 @@
                 }
             ],
             "recommendations": {
-                "total": 15535
+                "total": 15580
             },
             "release_date": {
                 "coming_soon": false,
@@ -148,7 +148,47 @@
                 "ids": [],
                 "notes": null
             },
-            "ratings": null
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 8969,
+                    "total_negative": 726,
+                    "total_reviews": 9695
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236186595",
+                        "author": {
+                            "steamid": "76561199001127450",
+                            "num_reviews": 37,
+                            "playtime_forever": 84,
+                            "playtime_last_two_weeks": 10,
+                            "playtime_at_review": 73,
+                            "last_played": 1792582696
+                        },
+                        "language": "english",
+                        "review": "i legit cant play this game for more then 10 minutes without wanting to grab a gun and turn this shit into resident evil",
+                        "timestamp_created": 1790372426,
+                        "timestamp_updated": 1790372426,
+                        "voted_up": true,
+                        "votes_up": 39,
+                        "votes_funny": 25,
+                        "weighted_vote_score": 0.8051972985267639,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFT5WQAAAABzvv2EBw==",
+                "day_range_used": 30,
+                "total_matching": 59
+            }
         }
     }
 }

@@ -230,7 +230,7 @@
                 }
             ],
             "recommendations": {
-                "total": 707
+                "total": 712
             },
             "achievements": {
                 "total": 43,
@@ -357,6 +357,48 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1102,
+                    "total_negative": 178,
+                    "total_reviews": 1280
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237290375",
+                        "author": {
+                            "steamid": "76561198060718434",
+                            "num_reviews": 257,
+                            "playtime_forever": 1107,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1107,
+                            "last_played": 1791557883
+                        },
+                        "language": "english",
+                        "review": "Hope the sequel is better and much less RNG-based for specific loot. I grew so frustrated over this game for spending 4 hours and NOT getting the damned too-long-named ring. Couldn't even be bothered to finish the Inferno Mode.\n\nI give it a 6/10.",
+                        "timestamp_created": 1791557965,
+                        "timestamp_updated": 1791557965,
+                        "voted_up": false,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.569040060043335,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "developer_response": "Hi, sad to hear that you struggled so much, did you look in the right place? Jump in the discord to make sure, if you have a doubt, we'll guide you. ",
+                        "timestamp_dev_responded": 1791567560,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYnoQAAAAB3uJiJBw==",
+                "day_range_used": 30,
+                "total_matching": 14
             }
         }
     }

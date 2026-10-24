@@ -170,7 +170,7 @@
                 }
             ],
             "recommendations": {
-                "total": 21096
+                "total": 21109
             },
             "achievements": {
                 "total": 80,
@@ -310,6 +310,47 @@
                     "use_age_gate": "true",
                     "required_age": "17"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 16767,
+                    "total_negative": 2185,
+                    "total_reviews": 18952
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236032612",
+                        "author": {
+                            "steamid": "76561198063876914",
+                            "num_reviews": 20,
+                            "playtime_forever": 6736,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 6736,
+                            "deck_playtime_at_review": 2434,
+                            "last_played": 1790248498
+                        },
+                        "language": "english",
+                        "review": "Masterpiece that holds up even after all these years, atmosphere unbeatable. Probably played about a whole week worth of Brick counting the enhanced edition as well. -Would do it again/10",
+                        "timestamp_created": 1790248910,
+                        "timestamp_updated": 1790248910,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5259799361228943,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZevuAAAAB0prKEBw==",
+                "day_range_used": 30,
+                "total_matching": 37
             }
         }
     }

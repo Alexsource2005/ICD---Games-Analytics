@@ -168,7 +168,7 @@
                 }
             ],
             "recommendations": {
-                "total": 67134
+                "total": 67231
             },
             "release_date": {
                 "coming_soon": false,
@@ -204,6 +204,46 @@
                 "crl": {
                     "rating": "12"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 38818,
+                    "total_negative": 3073,
+                    "total_reviews": 41891
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236289073",
+                        "author": {
+                            "steamid": "76561198262564320",
+                            "num_reviews": 5,
+                            "playtime_forever": 12303,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 11870,
+                            "last_played": 1790624163
+                        },
+                        "language": "english",
+                        "review": "i would love to see a quality update to this game. \r\n\r\njust to make it feel new. i'd play it just for the graphics update",
+                        "timestamp_created": 1790476659,
+                        "timestamp_updated": 1790476659,
+                        "voted_up": true,
+                        "votes_up": 30,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7820689678192139,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUW86AAAABxw6+FBw==",
+                "day_range_used": 30,
+                "total_matching": 210
             }
         }
     }

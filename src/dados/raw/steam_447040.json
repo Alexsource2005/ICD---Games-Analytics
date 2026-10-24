@@ -63,12 +63,12 @@
                 "Ubisoft"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 14999,
-                "final": 14999,
+                "currency": "EUR",
+                "initial": 5999,
+                "final": 5999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 149,99"
+                "final_formatted": "59,99€"
             },
             "packages": [
                 141098,
@@ -89,31 +89,31 @@
                             "packageid": 141098,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Watch_Dogs2 - R$ 149,99",
+                            "option_text": "Watch_Dogs2 - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 14999
+                            "price_in_cents_with_discount": 5999
                         },
                         {
                             "packageid": 141100,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Watch_Dogs2 Deluxe Edition - R$ 179,99",
+                            "option_text": "Watch_Dogs2 Deluxe Edition - 69,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 17999
+                            "price_in_cents_with_discount": 6999
                         },
                         {
                             "packageid": 141099,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Watch_Dogs2 Gold Edition - R$ 374,99",
+                            "option_text": "Watch_Dogs2 Gold Edition - 79,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 37499
+                            "price_in_cents_with_discount": 7999
                         }
                     ]
                 }
@@ -243,7 +243,7 @@
                 }
             ],
             "recommendations": {
-                "total": 98015
+                "total": 98639
             },
             "achievements": {
                 "total": 55,
@@ -391,6 +391,53 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 24476,
+                    "total_negative": 5467,
+                    "total_reviews": 29943
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237035607",
+                        "author": {
+                            "steamid": "76561198156022942",
+                            "num_reviews": 31,
+                            "playtime_forever": 2323,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 2323,
+                            "last_played": 1791277918
+                        },
+                        "language": "english",
+                        "review": "[h3]Great sequel, but the original still has my heart[/h3]\n\nI played the first game and loved it, so I was excited to jump into the sequel. The story in the original was noticeably stronger, but this game makes up for it with excellent graphics, a lot of extra detail in the gameplay, and some nice improvements to the gameplay itself. It's a really good game, though the first part will always be closer to my heart.\n\nIn total a really good game 7/10 :)",
+                        "timestamp_created": 1791278233,
+                        "timestamp_updated": 1791284022,
+                        "voted_up": true,
+                        "votes_up": 12,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6675537824630737,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 5 5600X 6-Core Processor             ",
+                            "adapter_description": "AMD Radeon RX 7800 XT",
+                            "system_ram": "32695",
+                            "vram_size": 16341
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFWph+AAAAB3hZyIBw==",
+                "day_range_used": 30,
+                "total_matching": 724
             }
         }
     }

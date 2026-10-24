@@ -370,7 +370,7 @@
                 }
             ],
             "recommendations": {
-                "total": 291070
+                "total": 291634
             },
             "achievements": {
                 "total": 84,
@@ -555,6 +555,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 210197,
+                    "total_negative": 52351,
+                    "total_reviews": 262548
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236895379",
+                        "author": {
+                            "steamid": "76561198189868791",
+                            "num_reviews": 4,
+                            "playtime_forever": 10726,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 10726,
+                            "last_played": 1759458379
+                        },
+                        "language": "english",
+                        "review": "The dev's keep breaking the game for modders and stealing modders original content and selling it for profit",
+                        "timestamp_created": 1791130547,
+                        "timestamp_updated": 1791130547,
+                        "voted_up": false,
+                        "votes_up": 322,
+                        "votes_funny": 11,
+                        "weighted_vote_score": 0.9131978154182434,
+                        "comment_count": 7,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFRvG0AAAABzydeHBw==",
+                "day_range_used": 30,
+                "total_matching": 902
             }
         }
     }

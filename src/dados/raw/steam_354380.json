@@ -151,7 +151,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3668
+                "total": 3674
             },
             "achievements": {
                 "total": 18,
@@ -270,6 +270,53 @@
                 "esrb": {
                     "rating": "t"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 764,
+                    "total_negative": 297,
+                    "total_reviews": 1061
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238178534",
+                        "author": {
+                            "steamid": "76561198026433869",
+                            "num_reviews": 78,
+                            "playtime_forever": 1900,
+                            "playtime_last_two_weeks": 1900,
+                            "playtime_at_review": 1900,
+                            "last_played": 1792519986
+                        },
+                        "language": "english",
+                        "review": "Assassin’s Creed Chronicles: China is a nice little spin-off with a beautiful art style and a setting that feels different from the main AC games. Playing as Shao Jun and using stealth, distractions, and the environment to get past enemies is where the game shines. The Chinese-inspired visuals and backgrounds are probably my favorite part, and the 2.5D gameplay works pretty well for what it is. Overall, a short but enjoyable AC experience, especially if you like the older stealth-focused games. Worth picking up on discount.",
+                        "timestamp_created": 1792520170,
+                        "timestamp_updated": 1792520170,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "Intel(R) Core(TM) i9-14900HX",
+                            "adapter_description": "NVIDIA GeForce RTX 4060 Laptop GPU",
+                            "system_ram": "32475",
+                            "vram_size": 7956
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB2jsqMBw==",
+                "day_range_used": 30,
+                "total_matching": 9
             }
         }
     }

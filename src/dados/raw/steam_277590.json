@@ -141,7 +141,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2926
+                "total": 2934
             },
             "achievements": {
                 "total": 12,
@@ -265,6 +265,46 @@
                 "nzoflc": {
                     "rating": "m"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 940,
+                    "total_negative": 314,
+                    "total_reviews": 1254
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236338558",
+                        "author": {
+                            "steamid": "76561198965730732",
+                            "num_reviews": 91,
+                            "playtime_forever": 474,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 474,
+                            "last_played": 1790486012
+                        },
+                        "language": "english",
+                        "review": "Honestly, nothing made me happier than seeing Adewale get his own story. Ubisoft really went all out with this one, adding new weapons, animations, and mechanics instead of just reusing Edward’s kit. The missions and story were great and the gameplay felt really well. I’d absolutely love to see a full standalone game with Adewale fighting for the revolution.",
+                        "timestamp_created": 1790526520,
+                        "timestamp_updated": 1790526520,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6071773767471313,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFX20EAAAAB+18eFBw==",
+                "day_range_used": 30,
+                "total_matching": 17
             }
         }
     }

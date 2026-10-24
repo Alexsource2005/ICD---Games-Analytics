@@ -11,7 +11,46 @@
             "about_the_game": "DEAD IN BERMUDA is a survival management game with RPG and adventure elements, in which you lead a team of 8 survivors from a plane crash on a strange island. Assign your survivors to tasks, gain experience and develop your survival skills, research and craft new items for the camp, explore the island for resources and solve the mysteries behind an ancient atlantean prophecy.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Manage the well-being of your team: they can die from Hunger, Fatigue, Sickness, Injury and Depression as well as lack of water.<br></li><li>Relationships between characters evolve! They can argue, become friends and even lovers.<br></li><li>Research &amp; Craft to upgrade your camp.<br></li><li>Deep RPG system running behind the scenes: the efficiency of every action is tied to character skill, opinions and the state of the character.<br></li><li>Exploration: 100 map areas to discover, each with its own rewards… or traps!<br></li><li>Randomized elements: the map, the items, the dialogs, the skills and traits of your characters changes every new game.<br></li><li>Special encounters in the jungle with choose-you-own-adventure like elements.<br></li><li>Easy to play, but hard to survive!</li></ul>",
             "short_description": "DEAD IN BERMUDA is a survival management game with RPG and adventure elements. Lead a team of 8 survivors from a plane crash. Assign them to tasks, gain experience, develop your survival skills, research and craft new items, explore the island and solve its mysteries.",
             "supported_languages": "English, French, Spanish - Spain, German, Russian",
-            "reviews": "“Dead In Bermuda is a survival game that looks simple on the outside, but appears to thrive on subtle human interactions.”<br>Polygon<br><br>“Whether or not you’re a sucker for Management games or totally dig Survival titles: Dead In Bermuda features something that will satisfy most audiences.”<br>8/10 – Gamer Headlines<br><br>“Dead In Bermuda surprises the player by the simplicity of its gameplay coupled with the depth of its survival management system”<br>Gamekult<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 314,
+                    "total_negative": 161,
+                    "total_reviews": 475
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237450318",
+                        "author": {
+                            "steamid": "76561198026284659",
+                            "num_reviews": 17,
+                            "playtime_forever": 1586,
+                            "playtime_last_two_weeks": 423,
+                            "playtime_at_review": 1235,
+                            "last_played": 1792159265
+                        },
+                        "language": "english",
+                        "review": "It's not bad, once you get the hang of managing your people. You need to keep in mind though that what the game considers as \"normal\" mode is, in my opinion, hard mode. And what the game considers as \"easy\" is in fact normal. \r\n\r\nThe thing to keep in mind when assigning tasks is that you shouldn't stick only to the stats each character has per skill in order to assign them somewhere. Instead, keep an eye on the relationship between these two characters. This will affect your production and survivability.\r\n\r\nOther than that, the game is simple and can become tedious once you explore around 50% of the island. When that happens, just use the need to asnwer the questions the characters of the game are also asking be your driving force. There's a lot of mystery in this game and I think it adds a lot to gameplay.",
+                        "timestamp_created": 1791713388,
+                        "timestamp_updated": 1791713388,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB+xOaJBw==",
+                "day_range_used": 30,
+                "total_matching": 4
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384310/header.jpg?t=1771540122",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384310/capsule_231x87.jpg?t=1771540122",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384310/capsule_184x69.jpg?t=1771540122",
@@ -38,10 +77,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 279,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 27,99",
-                "final_formatted": "R$ 2,79"
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 27,99"
             },
             "packages": [
                 72317
@@ -58,13 +97,13 @@
                     "subs": [
                         {
                             "packageid": 72317,
-                            "percent_savings_text": "-90% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Dead In Bermuda - <span class=\"discount_original_price\">R$ 27,99</span> R$ 2,79",
+                            "option_text": "Dead In Bermuda - R$ 27,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 279
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
@@ -181,7 +220,7 @@
                 }
             ],
             "recommendations": {
-                "total": 357
+                "total": 358
             },
             "achievements": {
                 "total": 36,

@@ -244,7 +244,7 @@
                 }
             ],
             "recommendations": {
-                "total": 200058
+                "total": 200605
             },
             "achievements": {
                 "total": 42,
@@ -382,6 +382,46 @@
                     "rating": "7",
                     "descriptors": "Fear\r\nViolence"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 71984,
+                    "total_negative": 2966,
+                    "total_reviews": 74950
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236867160",
+                        "author": {
+                            "steamid": "76561199671891293",
+                            "num_reviews": 18,
+                            "playtime_forever": 1394,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1394,
+                            "last_played": 1791597114
+                        },
+                        "language": "english",
+                        "review": "I have this weird habit of playing extremely difficult games whenever I’m feeling down.\nI don’t know why I do this. Maybe I enjoy suffering. Maybe I think it builds character. Maybe I just hate myself.\nAnd every single time I play one of these games, I somehow feel that life's not that bad or unfair(unlike this game).\n\n**10/10. 100% recommended.** give it a try. ",
+                        "timestamp_created": 1791109530,
+                        "timestamp_updated": 1792202630,
+                        "voted_up": true,
+                        "votes_up": 13,
+                        "votes_funny": 6,
+                        "weighted_vote_score": 0.6930232644081116,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXI7kAAAAB45cmHBw==",
+                "day_range_used": 30,
+                "total_matching": 566
             }
         }
     }

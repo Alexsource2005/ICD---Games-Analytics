@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 16,99"
+                "final": 339,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 16,99",
+                "final_formatted": "R$ 3,39"
             },
             "packages": [
                 342482
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 342482,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "The Textorcist - Soundtrack - R$ 16,99",
+                            "option_text": "The Textorcist - Soundtrack - <span class=\"discount_original_price\">R$ 16,99</span> R$ 3,39",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 339
                         }
                     ]
                 }
@@ -131,7 +131,19 @@
                 "ids": [],
                 "notes": null
             },
-            "ratings": null
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 6,
+                    "total_negative": 4,
+                    "total_reviews": 10
+                },
+                "total_matching": 10,
+                "day_range_used": 0
+            }
         }
     }
 }

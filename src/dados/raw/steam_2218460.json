@@ -14,7 +14,53 @@
             "about_the_game": "<p class=\"bb_paragraph\" ><strong>Climb, tumble, and rage — the ruthless obstacle race for bunnies with nerves of steel.</strong></p><p class=\"bb_paragraph\" >Play alone or online against up to 8 players: whoever reaches the top wins. Everyone else… falls down in spectacular fashion.</p><p class=\"bb_paragraph\" >Master dangerous parkour routes, dodge nasty traps, and jump with the precision of a bunny on espresso. One wrong step, one jump too early and boom, back to the start.</p><p class=\"bb_paragraph\" >Challenge your friends, chase each other through chaotic levels, and fight for a spot on the global leaderboard. Only the fastest earn the title “Golden Bunny” complete with an epic fireworks show.</p><h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Challenging climbing and parkour levels with fair checkpoints</p></li><li><p class=\"bb_paragraph\" >Online multiplayer for up to 8 players</p></li><li><p class=\"bb_paragraph\" >Global leaderboard with time comparison</p></li><li><p class=\"bb_paragraph\" >Traps, checkpoints, and wonderfully frustrating “One more try!” moments included</p></li><li><p class=\"bb_paragraph\" >Average playtime: 60–120 minutes… or hours? (highly dependent on fall rate)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >How far will <strong>YOU</strong> get — and how many times will you have to start all over again?</p><h2 class=\"bb_tag\" ><strong>Developed by a Solo Developer</strong></h2><p class=\"bb_paragraph\" >Hi! I'm <strong>Norman</strong>, the developer behind Witte Studio. Bunny Guys! is my solo developer project. What started as a simple idea turned into a pretty chaotic obstacle course where probably more bunnies fall down than actually reach the finish line.</p><p class=\"bb_paragraph\" >The game has already driven quite a few players crazy – so, as a little apology, I decided to give away <strong>over 4 million copies</strong> during a free promotion. What could possibly go wrong?</p><p class=\"bb_paragraph\" ><strong>Have fun climbing, falling, and trying again!</strong></p>",
             "short_description": "Climb, fall, curse… uh, respawn, pretend it was intentional. Bunny Guys is pure parkour chaos where one wins and everyone else fails spectacularly. Perfect for players who treat suffering, respawning, and “I can do better” as a hobby.",
             "supported_languages": "English, German, Italian, Spanish - Spain, Simplified Chinese, Russian, Turkish, Polish, Traditional Chinese, Japanese, Korean, Bulgarian, Finnish, Indonesian, Dutch, Romanian, Swedish, Hungarian, Norwegian, Czech, Ukrainian, Vietnamese, Danish, Greek, Portuguese - Portugal, French, Arabic",
-            "reviews": "“The core structure of Bunny Guys! is deceptively simple...”<br>11.5 Std. – xxadonisxx<br><br>“If you're looking for a game that will take you on an emotional roller coaster and put your reflexes to the test...”<br>71.5 Std. – realChalov<br><br>“crazy game! very fun solo or with friends!...”<br>26.2 Std. – Redz0ro<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 307,
+                    "total_negative": 257,
+                    "total_reviews": 564
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236323841",
+                        "author": {
+                            "steamid": "76561198044382331",
+                            "num_reviews": 11,
+                            "playtime_forever": 83,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 83,
+                            "last_played": 1790514438
+                        },
+                        "language": "english",
+                        "review": "Pros: \nDecent platformer\nRuns well\nHas Decent Graphics\nCheckpoints are well placed\nNot too difficult Prob Takes 2 Hours on Average\n\nCons: \nCan't change keybinds\nCamera sensitivity settings are kinda bad\nNo way to save game and continue later on, has to be done in 1 sitting\nJumping sometimes doesn't register\nFloating rocks & trees have terrible hitboxes you have to get lucky not to just slide off them instead of vaulting\nLaunching platforms such as Beds and Tires are inconsistent, all momentum is lost when you are on launching platform, so your direction only depends on what pixel of the Bed/Tire you step on.\n\nOverall not bad, decent timewaster 5/10",
+                        "timestamp_created": 1790515431,
+                        "timestamp_updated": 1790515431,
+                        "voted_up": true,
+                        "votes_up": 6,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5849056243896484,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 10",
+                            "cpu_name": "AMD Ryzen 7 7800X3D 8-Core Processor           ",
+                            "adapter_description": "NVIDIA GeForce RTX 3060 Ti",
+                            "system_ram": "15988",
+                            "vram_size": 8024
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFYTUgAAAABxwMCFBw==",
+                "day_range_used": 30,
+                "total_matching": 21
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218460/1d4db4556e9f768ca95d2d7f843f91dd3ed75a0c/header.jpg?t=1790989136",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218460/289b9aac9bc26ea4f88da11af035d1feb3b4871e/capsule_231x87.jpg?t=1790989136",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218460/289b9aac9bc26ea4f88da11af035d1feb3b4871e/capsule_184x69.jpg?t=1790989136",
@@ -38,12 +84,12 @@
                 "Witte Studio"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 499,
+                "currency": "BRL",
+                "initial": 1699,
+                "final": 1699,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$4.99"
+                "final_formatted": "R$ 16,99"
             },
             "packages": [
                 794999,
@@ -63,21 +109,21 @@
                             "packageid": 794999,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Bunny Guys! - $4.99",
+                            "option_text": "Bunny Guys! - R$ 16,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1699
                         },
                         {
                             "packageid": 1676451,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Bunny Guys! - $4.99",
+                            "option_text": "Bunny Guys! - R$ 19,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1949
                         }
                     ]
                 }
@@ -385,7 +431,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 1, 2023"
+                "date": "1 Sep, 2023"
             },
             "support_info": {
                 "url": "https://steamcommunity.com/app/2218460/discussions/",

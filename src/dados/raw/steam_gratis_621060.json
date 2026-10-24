@@ -233,10 +233,19 @@
                     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/621060/411809/4f6deed7bebe6ecff70ac16e2150e918d3102ae8/1750563490/dash_h264.mpd?t=1635412621",
                     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/621060/411809/4f6deed7bebe6ecff70ac16e2150e918d3102ae8/1750563490/hls_264_master.m3u8?t=1635412621",
                     "highlight": true
+                },
+                {
+                    "id": 256740151,
+                    "name": "Community Builds",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740151/movie.293x165.jpg?t=1548076040",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/621060/204031/e4ae3cc78d92e9c030571be51efc1adb777cf153/1750563476/dash_av1.mpd?t=1548076040",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/621060/204031/e4ae3cc78d92e9c030571be51efc1adb777cf153/1750563476/dash_h264.mpd?t=1548076040",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/621060/204031/e4ae3cc78d92e9c030571be51efc1adb777cf153/1750563476/hls_264_master.m3u8?t=1548076040",
+                    "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 42183
+                "total": 42188
             },
             "achievements": {
                 "total": 94,
@@ -362,6 +371,18 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 22977,
+                    "total_negative": 1478,
+                    "total_reviews": 24455
+                },
+                "total_matching": 42,
+                "day_range_used": 30
             }
         }
     }

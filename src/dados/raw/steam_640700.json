@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1859,
-                "final": 1859,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 18,59"
+                "final": 204,
+                "discount_percent": 89,
+                "initial_formatted": "R$ 18,59",
+                "final_formatted": "R$ 2,04"
             },
             "packages": [
                 177696
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 177696,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-89% ",
                             "percent_savings": 0,
-                            "option_text": "Narvas - R$ 18,59",
+                            "option_text": "Narvas - <span class=\"discount_original_price\">R$ 18,59</span> R$ 2,04",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1859
+                            "price_in_cents_with_discount": 204
                         }
                     ]
                 }
@@ -215,6 +215,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 68,
+                    "total_negative": 95,
+                    "total_reviews": 163
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237415137",
+                        "author": {
+                            "steamid": "76561199230350048",
+                            "num_reviews": 6,
+                            "playtime_forever": 30,
+                            "playtime_last_two_weeks": 30,
+                            "playtime_at_review": 30,
+                            "last_played": 1791672364
+                        },
+                        "language": "english",
+                        "review": "It was fun for maybe 50 seconds but the controls suck and you cant change any buttons to the mouse buttons so the controls are just uncomfortable then I get to the first boss where its almost impossible to hit him because he is so high up then if you somehow do enough damage he has a second phase where he just stays high up with a laser shooting down so the only way to hurt him is to aim up at him but you cant because the laser is always shooting straight down",
+                        "timestamp_created": 1791672581,
+                        "timestamp_updated": 1791672661,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAABxrtWJBw==",
+                "day_range_used": 30,
+                "total_matching": 2
             }
         }
     }

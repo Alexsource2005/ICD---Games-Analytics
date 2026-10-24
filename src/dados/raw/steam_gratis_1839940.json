@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 9990,
-                "final": 1998,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 99,90",
-                "final_formatted": "R$ 19,98"
+                "final": 9990,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 99,90"
             },
             "packages": [
                 778160,
@@ -64,23 +64,23 @@
                     "subs": [
                         {
                             "packageid": 778160,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Dakar Desert Rally - <span class=\"discount_original_price\">R$ 99,90</span> R$ 19,98",
+                            "option_text": "Dakar Desert Rally - R$ 99,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1998
+                            "price_in_cents_with_discount": 9990
                         },
                         {
                             "packageid": 778161,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Dakar Desert Rally - Deluxe Edition - <span class=\"discount_original_price\">R$ 179,90</span> R$ 35,98",
+                            "option_text": "Dakar Desert Rally - Deluxe Edition - R$ 169,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3598
+                            "price_in_cents_with_discount": 16990
                         }
                     ]
                 }
@@ -246,7 +246,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1483
+                "total": 1492
             },
             "achievements": {
                 "total": 55,
@@ -367,6 +367,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 319,
+                    "total_negative": 309,
+                    "total_reviews": 628
+                },
+                "total_matching": 7,
+                "day_range_used": 30
             }
         }
     }

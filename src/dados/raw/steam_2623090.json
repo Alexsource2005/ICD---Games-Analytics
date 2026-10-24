@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1049,
-                "final": 1049,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 10,49"
+                "final": 251,
+                "discount_percent": 76,
+                "initial_formatted": "R$ 10,49",
+                "final_formatted": "R$ 2,51"
             },
             "packages": [
                 940901
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 940901,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-76% ",
                             "percent_savings": 0,
-                            "option_text": "Battle Simulator: Counter Stickman - R$ 10,49",
+                            "option_text": "Battle Simulator: Counter Stickman - <span class=\"discount_original_price\">R$ 10,49</span> R$ 2,51",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1049
+                            "price_in_cents_with_discount": 251
                         }
                     ]
                 }
@@ -204,6 +204,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 95,
+                    "total_negative": 101,
+                    "total_reviews": 196
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238067998",
+                        "author": {
+                            "steamid": "76561199109896867",
+                            "num_reviews": 9,
+                            "playtime_forever": 7,
+                            "playtime_last_two_weeks": 7,
+                            "playtime_at_review": 7,
+                            "last_played": 1792377348
+                        },
+                        "language": "english",
+                        "review": "This might be the greatest fucking game oat I dont think ive ever played such a masterpiece, wallahi on my best friends life this shit is better than gta 6 will ever be. I didnt even buy the game i got it from steam family and atp I might buy everyone ik this game.",
+                        "timestamp_created": 1792377434,
+                        "timestamp_updated": 1792377434,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB+kZSMBw==",
+                "day_range_used": 30,
+                "total_matching": 6
             }
         }
     }

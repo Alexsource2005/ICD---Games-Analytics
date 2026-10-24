@@ -156,7 +156,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1323
+                "total": 1334
             },
             "achievements": {
                 "total": 53,
@@ -284,6 +284,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nHoror\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 978,
+                    "total_negative": 142,
+                    "total_reviews": 1120
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237810505",
+                        "author": {
+                            "steamid": "76561198088319189",
+                            "num_reviews": 63,
+                            "playtime_forever": 423,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 423,
+                            "last_played": 1776622481
+                        },
+                        "language": "english",
+                        "review": "As a collection, there's a good amount of variety here. While the overall quality varies between the individual games, they're all reasonably enjoyable to play. The included bonus content, such as development insights and interviews etc, is also a nice addition that gives the collection more value. Most of the games are fairly short and many of them don't have a huge amount of content, but there's enough variety and interesting bonus content here to make the collection feel worthwhile.",
+                        "timestamp_created": 1792104282,
+                        "timestamp_updated": 1792104282,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB5tJaLBw==",
+                "day_range_used": 30,
+                "total_matching": 10
             }
         }
     }

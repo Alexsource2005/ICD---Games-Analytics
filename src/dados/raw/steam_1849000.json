@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1449,
-                "final": 188,
-                "discount_percent": 87,
-                "initial_formatted": "R$ 14,49",
-                "final_formatted": "R$ 1,88"
+                "final": 1449,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 14,49"
             },
             "packages": [
                 665319
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 665319,
-                            "percent_savings_text": "-87% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "SEX with HITLER - <span class=\"discount_original_price\">R$ 14,49</span> R$ 1,88",
+                            "option_text": "SEX with HITLER - R$ 14,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 188
+                            "price_in_cents_with_discount": 1449
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3393
+                "total": 3422
             },
             "achievements": {
                 "total": 39,
@@ -369,6 +369,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2926,
+                    "total_negative": 703,
+                    "total_reviews": 3629
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237426974",
+                        "author": {
+                            "steamid": "76561198754956669",
+                            "num_reviews": 1,
+                            "playtime_forever": 11,
+                            "playtime_last_two_weeks": 11,
+                            "playtime_at_review": 11,
+                            "last_played": 1791686377
+                        },
+                        "language": "english",
+                        "review": "This game did not meet my expectations within the first 5 minutes of playing. WHEN THE FUCK DO I HAVE SEX WITh hitler !!!!!  naked girls were NOT hot, i didnt even get to see hitler dih",
+                        "timestamp_created": 1791686531,
+                        "timestamp_updated": 1791686531,
+                        "voted_up": false,
+                        "votes_up": 28,
+                        "votes_funny": 23,
+                        "weighted_vote_score": 0.7649422883987427,
+                        "comment_count": 3,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUs38AAAAB+kduJBw==",
+                "day_range_used": 30,
+                "total_matching": 45
             }
         }
     }

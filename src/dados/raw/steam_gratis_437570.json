@@ -5,7 +5,7 @@
             "type": "game",
             "name": "GoNNER",
             "steam_appid": 437570,
-            "required_age": 0,
+            "required_age": "14",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -16,7 +16,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/c0cc922c859d8713f597f571334cf757.poster.avif?t=1726577234\" width=616 height=148 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/c0cc922c859d8713f597f571334cf757.webm?t=1726577234\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/c0cc922c859d8713f597f571334cf757.mp4?t=1726577234\" type=\"video/mp4\"></video></span><br><br>Out of the blüe, we’ve updated our first IGF award-winning game! GoNNER BlüEBERRY EdiTION adds new weapons, heads, enemy types, a new challenge, some sweet, sweet, new visuals. And yes, there are also blüeberries.<br><br>Hop back into GoNNER if it’s been a while! And if you lose your head, it’s cool—we have plenty more where that came from.<br><br>GoNNER is a tough as hell score-based procedurally-generated platformer with roguelike elements. GoNNER is also a story about friendship between Ikk, Death, and a space whale named Sally.<br><br>You will die. A lot. This is by design, but it's not made to feel unfair. You'll eventually get the hang of GoNNER, so don't lose your head. But even if you do it's okay cause we have a lot of replacement heads you can use.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/72753093dfad95dbe9ea7181e27b3d83.avif?t=1726577234\" width=632 height=141 /></span><br><br><strong>- DAILY CHALLENGES!</strong> Only playable once a day. Levels are randomly generated but in this mode everybody plays the same world and use an identical loadout. Everything resets at midnight (Swedish time, UTC+1). Can you crush your leaderboard foes?<br><br><strong>- PROCEDURALLY GENERATED!</strong> Every time you play the game the levels will be different and present unique challenges and opportunities.<br><br><strong>- UNLOCKS!</strong> You'll be able to choose from a variety of passive and active abilities at the beginning of each run so be sure to experiment with all of them and find the play style that best suits you<br><br><strong>- SECRETS! </strong>Secret areas exist in the world of GoNNER, and these areas will get you different items that you can then always use from the beginning of each run. We're not going to tell you how you get to these areas or what the criteria is for even finding them because secrets, duh.<br><br><strong>- LEADERBOARDS!</strong> Kill creatures, get combos, score points, and brag to your friends how much better you are than them.<br><br><strong>- MUSIC! </strong>It's really freaking good.<br><br><strong>Good luck.</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/813271598d67bf193d138be203462948.poster.avif?t=1726577234\" width=624 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/813271598d67bf193d138be203462948.webm?t=1726577234\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/extras/813271598d67bf193d138be203462948.mp4?t=1726577234\" type=\"video/mp4\"></video></span>",
             "short_description": "GoNNER is a tough as hell procedurally-generated 2D platformer with roguelike elements, following the largely misunderstood and altruistic Ikk on a journey to cheer up his only friend in this world - a giant landbound whale named Sally - by searching for just the right trinket in the deep and dark places nearby.",
             "supported_languages": "English, Italian, German, Spanish - Spain, Swedish, French, Dutch, Norwegian, Portuguese - Portugal, Russian, Simplified Chinese, Portuguese - Brazil, Polish, Japanese, Korean",
-            "reviews": "“GoNNER is this year’s Downwell – a neat, short-form action game that has found the perfect visual style to communicate its near-misses and big hits.”<br>Rock, Paper, Shotgun<br><br>“I'd be lying if I said I didn't enjoy nearly every moment of it.”<br>Eurogamer<br><br>“If you're looking for your next favorite roguelike platformer, look no further.”<br>9,5/10 – Destructoid<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 531,
+                    "total_negative": 153,
+                    "total_reviews": 684
+                },
+                "total_matching": 2,
+                "day_range_used": 90
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/header.jpg?t=1726577234",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/capsule_231x87.jpg?t=1726577234",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437570/capsule_184x69.jpg?t=1726577234",
@@ -41,12 +52,12 @@
                 "Raw Fury"
             ],
             "price_overview": {
-                "currency": "HKD",
-                "initial": 6600,
-                "final": 1320,
-                "discount_percent": 80,
-                "initial_formatted": "HK$ 66.00",
-                "final_formatted": "HK$ 13.20"
+                "currency": "BRL",
+                "initial": 3299,
+                "final": 3299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 32,99"
             },
             "packages": [
                 92092
@@ -63,13 +74,13 @@
                     "subs": [
                         {
                             "packageid": 92092,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "GoNNER - <span class=\"discount_original_price\">HK$ 66.00</span> HK$ 13.20",
+                            "option_text": "GoNNER - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1320
+                            "price_in_cents_with_discount": 3299
                         }
                     ]
                 }

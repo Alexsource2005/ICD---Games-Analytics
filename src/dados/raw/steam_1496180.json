@@ -300,6 +300,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 170,
+                    "total_negative": 5,
+                    "total_reviews": 175
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "234811897",
+                        "author": {
+                            "steamid": "76561198809614566",
+                            "num_reviews": 3,
+                            "playtime_forever": 1042,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 395,
+                            "last_played": 1789106197
+                        },
+                        "language": "english",
+                        "review": "I love Karma AKA Klaude Aidric Renaldi Mattheus Almonte aka called Klaude's Great route",
+                        "timestamp_created": 1788917644,
+                        "timestamp_updated": 1788917644,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFbhheAAAAB5n97/Bg==",
+                "day_range_used": 90,
+                "total_matching": 3
             }
         }
     }

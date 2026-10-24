@@ -64,7 +64,7 @@ for arquivo in os.listdir(pasta_raw):
             "steam_preco": None,
             "steam_donos": "Desconhecido",
             "steam_reviews_qtd": 0,
-            "steam_reviews_pct": None,
+            "steam_reviews_pct_positiva": None,
             # Epic Data
             "epic_generos": [],
             "epic_lancamento": None,
@@ -91,20 +91,37 @@ for arquivo in os.listdir(pasta_raw):
                 if genres:
                     reg["steam_generos"] = [g.get("description") for g in genres]
                     # Quantidade de reviews / recomendações
-                recs = d.get("recommendations", {}).get("total", 0)
-                reg["steam_reviews_qtd"] = recs
 
-                if "metacritic" in d and d["metacritic"].get("score"):
-                    reg["steam_reviews_pct"] = float(d['metacritic']["score"])
+                reviews = d.get("reviews", {})
+                resumo = reviews.get("query_summary", {}) if isinstance(reviews, dict) else {}
 
-                # Lógica da Valve Multiplier para estimar a quantidade de donos de determinado jogo através da quantidade de reviews e um fator médio
-                if recs > 0:
-                    min_donos = int(recs * 30)
-                    max_donos = int(recs*50)
-                    reg["steam_donos"] = f"`{min_donos:,} - {max_donos:,}"
+                total_positivas = resumo.get("total_positive")
+                total_negativas = resumo.get("total_negative")
+                total_resumo = resumo.get("total_reviews")
+
+                # Prioriza o total agregado; se não existir, somar positiva com negativa
+                if total_resumo is not None:
+                    reg["steam_reviews_qtd"] = int(total_resumo)
+                elif total_positivas is not None and total_negativas is not None:
+                    reg["steam_reviews_qtd"] = int(total_negativas + total_positivas)
                 else:
-                    reg["steam_donos"] = "Menos de 20000"
-    
+                    reg["steam_reviews_qtd"] = None
+
+                #Percentual positivo calculado apenas com contagens agregadas
+                if(total_positivas is not None and total_negativas is not None and (total_positivas + total_negativas) > 0):
+                    reg["steam_reviews_pct_positiva"] = round((total_positivas/(total_positivas+total_negativas)) * 100, 3)
+                else:
+                    reg["steam_reviews_pct_positiva"] = None
+
+                recs = d.get("recommendations", {}).get("total")
+                # Lógica da Valve Multiplier para estimar a quantidade de donos de determinado jogo através da quantidade de reviews e um fator médio
+                if recs is not None and recs > 0:
+                    min_donos = int(recs * 30)
+                    max_donos = int(recs * 50)
+                    reg["steam_donos"] = f"{min_donos:,} - {max_donos:,}"
+                else:
+                    reg["steam_donos"] = "Desconhecido"
+
     elif origem == "epic":
         reg["tem_epic"] = True
         reg["epic_lancamento"] = data.get("effectiveDate") or data.get("releaseDate")
@@ -177,7 +194,7 @@ for chave, reg in jogos_consolidados.items():
         "Data Aquisição Gratuita Epic": reg["epic_gratis_data"],
         "Estimativa Donos Steam": reg["steam_donos"],
         "Qtd Reviews Steam": reg["steam_reviews_qtd"],
-        "% Positivas Steam": reg["steam_reviews_pct"],
+        "% Positivas Steam": reg["steam_reviews_pct_positiva"],
         "Disponível na Steam": "Sim" if reg["tem_steam"] else "Não",
         "Disponível na Epic": "Sim" if reg["tem_epic"] else "Não",
         "Disponível na GOG": "Sim" if reg["tem_gog"] else "Não",
@@ -185,6 +202,8 @@ for chave, reg in jogos_consolidados.items():
 
 # Criar o dataframe final
 df = pd.DataFrame(linhas_tabela)
+
+df["Qtd Reviews Steam"] = df["Qtd Reviews Steam"].astype("Int64")
 
 caminho_csv = "dados/processed/tabela_comparativa_jogos.csv"
 df.to_csv(caminho_csv, index=False, encoding="utf-8-sig")

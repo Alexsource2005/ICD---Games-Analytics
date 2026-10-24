@@ -12,7 +12,46 @@
             "about_the_game": "(Release: 2014)<br><br>In <strong><i>resident evil 4</i></strong>, special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President’s daughter who has been kidnapped. Finding his way to a rural village in Europe, he faces new threats that are a departure from the traditional lumbering zombie enemies of the earlier instalments in the series. Leon battles horrific new creatures infested by a new threat called Las Plagas and faces off against an aggressive group of enemies including mind-controlled villagers that are tied to Los Illuminados, the mysterious cult which is behind the abduction.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Stunning HD running at a smooth 60 frames per second for the first time. <br></li><li>A complete visual overhaul has been performed to bring this revered title to the highest graphical quality ever. <br></li><li>Fully optimized for the wide screen, texts have been sharpened and textures have been upgraded on characters, backgrounds and in-game objects.<br></li><li>Steam platform support with Steam Achievements, Steam Cloud, Steam Trading Cards, global leaderboards, and full game controller support.<br></li><li>Native keyboard and mouse support with customizable key binding, mouse sensitivity, and mouse acceleration settings.<br></li><li>This new PC version will include everything from the prior iterations including subtitle support in English, French, Italian, German, and Spanish as well as previously released bonus content such as the <i>Separate Ways</i> epilogue.</li></ul>",
             "short_description": "(Release: 2014) Special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President’s daughter who has been kidnapped.",
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Italian<br><strong>*</strong>languages with full audio support",
-            "reviews": "<strong>85/100</strong> – <u>PC Gamer</u><br><br>“Resident Evil 4 HD stands as the best version available.”<br><strong>8/10</strong> – <u>GameSpot</u><br><br>“There is more pound-for-pound fun in every hour than anything else.”<br><u>Rock, Paper, Shotgun</u><br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 32093,
+                    "total_negative": 2228,
+                    "total_reviews": 34321
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237313508",
+                        "author": {
+                            "steamid": "76561199650699888",
+                            "num_reviews": 27,
+                            "playtime_forever": 2513,
+                            "playtime_last_two_weeks": 10,
+                            "playtime_at_review": 2377,
+                            "last_played": 1791653649
+                        },
+                        "language": "english",
+                        "review": "so peak \nThis game has a unique style, unlike any other. I love it, especially the character building and the truly fantastic story\nThanks to Capcom",
+                        "timestamp_created": 1791576416,
+                        "timestamp_updated": 1791576416,
+                        "voted_up": true,
+                        "votes_up": 24,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7333371639251709,
+                        "comment_count": 8,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVVVCAAAAB03qOJBw==",
+                "day_range_used": 30,
+                "total_matching": 302
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg?t=1768960618",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/capsule_231x87.jpg?t=1768960618",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/capsule_184x69.jpg?t=1768960618",
@@ -33,10 +72,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8900,
-                "final": 8900,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 89,00"
+                "final": 2225,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 89,00",
+                "final_formatted": "R$ 22,25"
             },
             "packages": [
                 39187
@@ -53,13 +92,13 @@
                     "subs": [
                         {
                             "packageid": 39187,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "resident evil 4 (ROW) - R$ 89,00",
+                            "option_text": "resident evil 4 (ROW) - <span class=\"discount_original_price\">R$ 89,00</span> R$ 22,25",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8900
+                            "price_in_cents_with_discount": 2225
                         }
                     ]
                 }
@@ -235,7 +274,7 @@
                 }
             ],
             "recommendations": {
-                "total": 79045
+                "total": 79297
             },
             "achievements": {
                 "total": 12,

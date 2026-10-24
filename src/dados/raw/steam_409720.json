@@ -45,12 +45,12 @@
                 "Feral Interactive (Mac)"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 29,99"
+                "currency": "GBP",
+                "initial": 1399,
+                "final": 209,
+                "discount_percent": 85,
+                "initial_formatted": "£13.99",
+                "final_formatted": "£2.09"
             },
             "packages": [
                 81419,
@@ -68,23 +68,23 @@
                     "subs": [
                         {
                             "packageid": 81419,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-85% ",
                             "percent_savings": 0,
-                            "option_text": "BioShock 2 Remastered - R$ 29,99",
+                            "option_text": "BioShock 2 Remastered - <span class=\"discount_original_price\">£13.99</span> £2.09",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 209
                         },
                         {
                             "packageid": 127633,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "BioShock: The Collection - R$ 119,00",
+                            "option_text": "BioShock: The Collection - <span class=\"discount_original_price\">£39.99</span> £7.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 11900
+                            "price_in_cents_with_discount": 799
                         }
                     ]
                 }
@@ -168,7 +168,7 @@
                 }
             ],
             "recommendations": {
-                "total": 24441
+                "total": 24505
             },
             "achievements": {
                 "total": 53,
@@ -336,6 +336,53 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 10761,
+                    "total_negative": 4455,
+                    "total_reviews": 15216
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236285475",
+                        "author": {
+                            "steamid": "76561198330847724",
+                            "num_reviews": 87,
+                            "playtime_forever": 50,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 50,
+                            "last_played": 1790471653
+                        },
+                        "language": "english",
+                        "review": "Unfortunately, the remaster of Bioshock 2 isn't like the remaster of Bioshock 1. It crashes, a lot. I never got crashes in the first games remake. The second games remake crashes, and the original crashes. Overall, both games crash sadly, and pretty often.",
+                        "timestamp_created": 1790472233,
+                        "timestamp_updated": 1790472233,
+                        "voted_up": false,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5982317924499512,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 9800X3D 8-Core Processor           ",
+                            "adapter_description": "NVIDIA GeForce RTX 5080",
+                            "system_ram": "31801",
+                            "vram_size": 15977
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFYCQ2AAAABz4q2FBw==",
+                "day_range_used": 30,
+                "total_matching": 105
             }
         }
     }

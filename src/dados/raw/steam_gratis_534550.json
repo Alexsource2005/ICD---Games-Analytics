@@ -17,7 +17,18 @@
             "about_the_game": "<p class=\"bb_paragraph\" >Brawling has never been more beautiful! The long-awaited sequel to the smash hit action-platformer is here: <i>Guacamelee! 2</i> brings luchador Juan Aguacate out of retirement for a stunning new Metroidvania-style adventure.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/extras/5475218f1f540f4fcae09eb8422dcbe8.avif?t=1771966042\" width=780 height=368 /></span></p><p class=\"bb_paragraph\" >Explore a huge, hand-crafted world inspired by Mexican culture and folklore, filled with sassy new villains and weirdos (and a few old friends!). Learn a deep repertoire of bone-crunching moves to fend off the skeletal hordes and overcome a multitude of platforming challenges. </p><p class=\"bb_paragraph\" >...and who said anything about a Chicken Illuminati? Certainly not us! </p><h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >New moves like Eagle Boost, Pollo Shot and more add to Juan’s arsenal of combat and platforming abilities. </p></li><li><p class=\"bb_paragraph\" >New powers for Juan’s chicken form! Ridiculous chicken-based platforming, combat and exploration. More chicken than you’ll be able to handle (probably). </p></li><li><p class=\"bb_paragraph\" >An epic adventure through the worlds of the living and the dead, across rifts in time and space -- more gorgeous than ever thanks to a fancy new rendering engine.   </p></li><li><p class=\"bb_paragraph\" >Bigger maps, twice as many enemy types as the first game, and a roster of eccentric new bosses. </p></li><li><p class=\"bb_paragraph\" >Discover “trainers” from around the world, defeat their challenges, and upgrade your abilities. </p></li><li><p class=\"bb_paragraph\" >Soundtrack featuring new music from the composers of the original Guacamelee! OST, plus tracks from special guests Mariachi Entertainment System! </p></li><li><p class=\"bb_paragraph\" >Drop-in / drop-out 4-player local co-op through the entire story.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/extras/8dde1b1d5ff1c62c5f5561e7adff4cc2.poster.avif?t=1771966042\" width=800 height=164 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/extras/8dde1b1d5ff1c62c5f5561e7adff4cc2.webm?t=1771966042\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/extras/8dde1b1d5ff1c62c5f5561e7adff4cc2.mp4?t=1771966042\" type=\"video/mp4\"></video></span></p>",
             "short_description": "Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamelee! Uppercut your way to victory across stunning new hand-crafted levels. Featuring a dense and colorful world, new luchador moves, sassy new bosses, twice the enemies, and 300% more chickens!",
             "supported_languages": "English, French, Italian, German, Portuguese - Brazil, Korean, Russian, Simplified Chinese, Spanish - Latin America",
-            "reviews": "“It's a light-hearted story from start to finish and one filled with unrelenting humor”<br>9/10 – Shacknews<br><br>“With myriad combat and platforming improvements, a worthwhile story, and better challenges, this is the follow-up I didn’t know I wanted.”<br>8.75/10 – Game Informer<br><br>“Though it's diabolically challenging, it always feels fair, letting its meticulously crafted level design and self-aware humor shine through.”<br>9/10 – GameSpot<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1552,
+                    "total_negative": 155,
+                    "total_reviews": 1707
+                },
+                "total_matching": 8,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/header.jpg?t=1771966042",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/capsule_231x87.jpg?t=1771966042",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534550/capsule_184x69.jpg?t=1771966042",
@@ -38,10 +49,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 6799,
-                "final": 6799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 67,99"
+                "final": 1699,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 67,99",
+                "final_formatted": "R$ 16,99"
             },
             "packages": [
                 129618
@@ -58,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 129618,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "Guacamelee! 2 - R$ 67,99",
+                            "option_text": "Guacamelee! 2 - <span class=\"discount_original_price\">R$ 67,99</span> R$ 16,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6799
+                            "price_in_cents_with_discount": 1699
                         }
                     ]
                 }
@@ -243,7 +254,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2725
+                "total": 2729
             },
             "achievements": {
                 "total": 49,

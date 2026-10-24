@@ -47,10 +47,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 12745,
-                "final": 12745,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 127,45"
+                "final": 4205,
+                "discount_percent": 67,
+                "initial_formatted": "R$ 127,45",
+                "final_formatted": "R$ 42,05"
             },
             "packages": [
                 270935,
@@ -68,13 +68,13 @@
                     "subs": [
                         {
                             "packageid": 270935,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-67% ",
                             "percent_savings": 0,
-                            "option_text": "Little Nightmares II - R$ 127,45",
+                            "option_text": "Little Nightmares II - <span class=\"discount_original_price\">R$ 127,45</span> R$ 42,05",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12745
+                            "price_in_cents_with_discount": 4205
                         },
                         {
                             "packageid": 497760,
@@ -247,7 +247,7 @@
                 }
             ],
             "recommendations": {
-                "total": 50520
+                "total": 50614
             },
             "achievements": {
                 "total": 35,
@@ -384,6 +384,46 @@
                     "rating": "C15",
                     "descriptors": "Violence, Horror"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 17643,
+                    "total_negative": 1257,
+                    "total_reviews": 18900
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237214887",
+                        "author": {
+                            "steamid": "76561198764188604",
+                            "num_reviews": 4,
+                            "playtime_forever": 10,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 10,
+                            "last_played": 1791387654
+                        },
+                        "language": "english",
+                        "review": "yes, strongly recommend this underrated gem because I like this game due to its marvelous ending of it and every gamer should have experienced this masterpiece and it has many horror goosebumbs  please i kindly request you to play this once in your life time thank you\r\n",
+                        "timestamp_created": 1791475009,
+                        "timestamp_updated": 1791475009,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5454545617103577,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZF0UAAAAB3yvOIBw==",
+                "day_range_used": 30,
+                "total_matching": 93
             }
         }
     }

@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2279,
-                "final": 2279,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 22,79"
+                "final": 227,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 22,79",
+                "final_formatted": "R$ 2,27"
             },
             "packages": [
                 281
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 281,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-90% ",
                             "percent_savings": 0,
-                            "option_text": "Hitman 2: Silent Assassin - R$ 22,79",
+                            "option_text": "Hitman 2: Silent Assassin - <span class=\"discount_original_price\">R$ 22,79</span> R$ 2,27",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2279
+                            "price_in_cents_with_discount": 227
                         }
                     ]
                 }
@@ -118,7 +118,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3772
+                "total": 3780
             },
             "release_date": {
                 "coming_soon": false,
@@ -184,6 +184,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 1909,
+                    "total_negative": 479,
+                    "total_reviews": 2388
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237438675",
+                        "author": {
+                            "steamid": "76561199786358319",
+                            "num_reviews": 10,
+                            "playtime_forever": 1207,
+                            "playtime_last_two_weeks": 147,
+                            "playtime_at_review": 1206,
+                            "last_played": 1791745101
+                        },
+                        "language": "english",
+                        "review": "Hitman 2: Silent Assassin is the game that proved Hitman could work. We get to see some proper stealth mechanics and freedom-of-approach across the campaign. The game is quite dated, and I would not recommend it unless you consider yourself a serious Hitman fan or otherwise want to explore all of the games in the series. In my opinion, this is the most difficult Hitman game (Codename 47 is harder to complete, but getting Silent Assassin on every mission in this one is harder than that), so it will frustrate you frequently, but there are some truly great missions in here and is still a great experience to play.",
+                        "timestamp_created": 1791700541,
+                        "timestamp_updated": 1791700541,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5743308663368225,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYg20AAAABz7eCJBw==",
+                "day_range_used": 30,
+                "total_matching": 20
             }
         }
     }

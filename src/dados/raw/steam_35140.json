@@ -180,7 +180,7 @@
                 }
             ],
             "recommendations": {
-                "total": 62508
+                "total": 62864
             },
             "achievements": {
                 "total": 47,
@@ -309,6 +309,54 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 41878,
+                    "total_negative": 1492,
+                    "total_reviews": 43370
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237481801",
+                        "author": {
+                            "steamid": "76561198093298279",
+                            "num_reviews": 12,
+                            "playtime_forever": 1578,
+                            "playtime_last_two_weeks": 110,
+                            "playtime_at_review": 1578,
+                            "deck_playtime_at_review": 1566,
+                            "last_played": 1791737314
+                        },
+                        "language": "english",
+                        "review": "A perfect example of a game that has stood the test of time. Mind you, it has been 16 years, and even after all this time, the game still holds up visually. The story keeps you on the edge of your seat as you try to get to the Joker, defeating his allies along the way.\r\n\r\nThis game's Freeflow Combat was way ahead of its time and defined superhero combat for years to come. Personally, it felt a bit weird at first, as this was my first Arkham game, but I got the hang of it pretty fast. The gadgets at your disposal provide an engaging experience during regular gameplay, combat, stealth, and hunting for the Riddler's trophies.\r\n\r\nThe Challenge Mode features both stealth and combat missions with specific goals to achieve. The former are chill, while the latter can be a brutally humbling experience, though practice makes perfect!\r\n\r\n9/10 experience",
+                        "timestamp_created": 1791738249,
+                        "timestamp_updated": 1791738249,
+                        "voted_up": true,
+                        "votes_up": 17,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7270245552062988,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": true,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 9800X3D 8-Core Processor           ",
+                            "adapter_description": "NVIDIA GeForce RTX 5070 Ti",
+                            "system_ram": "63093",
+                            "vram_size": 15995
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFVdaIAAAAB59PWJBw==",
+                "day_range_used": 30,
+                "total_matching": 551
             }
         }
     }

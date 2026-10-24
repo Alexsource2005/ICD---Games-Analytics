@@ -282,7 +282,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3211
+                "total": 3210
             },
             "achievements": {
                 "total": 36,
@@ -403,6 +403,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 914,
+                    "total_negative": 641,
+                    "total_reviews": 1555
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236205758",
+                        "author": {
+                            "steamid": "76561198954385109",
+                            "num_reviews": 5,
+                            "playtime_forever": 32,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 25,
+                            "last_played": 1790396035
+                        },
+                        "language": "english",
+                        "review": "when i set my wheel up it just opens the map and sends me in reverse with no other controls",
+                        "timestamp_created": 1790395386,
+                        "timestamp_updated": 1790395386,
+                        "voted_up": false,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5679012537002563,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYpFkAAAAB+64aFBw==",
+                "day_range_used": 30,
+                "total_matching": 12
             }
         }
     }

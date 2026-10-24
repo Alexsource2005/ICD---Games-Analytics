@@ -15,7 +15,46 @@
             "about_the_game": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality. As the story unfolds, Gris will grow emotionally and see her world in a different way, revealing new paths to explore using her new abilities.<br />\r\n<br />\r\nGRIS is a serene and evocative experience, free of danger, frustration or death. Players will explore a meticulously designed world brought to life with delicate art, detailed animation, and an elegant original score. Through the game light puzzles, platforming sequences, and optional skill-based challenges will reveal themselves as more of Gris’s world becomes accessible.<br />\r\n<br />\r\nGRIS is an experience with almost no text, only simple control reminders illustrated through universal icons. The game can be enjoyed by anyone regardless of their spoken language.",
             "short_description": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality.",
             "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil",
-            "reviews": "“Gris is full of wonder and beauty and leaves you with a warm glow in your heart.”<br>9/10 – Gamespot<br><br>“Awash with meticulous detail, charming aesthetics, and smart design, GRIS is something special.”<br>10/10 – Destructoid<br><br>“One of the most beautiful games ever made.”<br>The Verge<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 30373,
+                    "total_negative": 1630,
+                    "total_reviews": 32003
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236272836",
+                        "author": {
+                            "steamid": "76561198070316379",
+                            "num_reviews": 98,
+                            "playtime_forever": 375,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 375,
+                            "last_played": 1787862609
+                        },
+                        "language": "english",
+                        "review": "GRIS is a more a piece of art than a game, Its visuals and music are like a painting coming to life. That alone is enough for you to feast your senses on. Gameplay is minimal, you do have platforming and minor puzzles but it is the strict minimum, just to move the story forward. \nSpeaking of which the story, it is very moving and takes you through the stages of grief that the developer went through when losing their mom, with each stage representing the internal emotions visually on screen. It's hard not to be touched by it, and in that sense it is quite unique and memorable.",
+                        "timestamp_created": 1790458131,
+                        "timestamp_updated": 1790458177,
+                        "voted_up": true,
+                        "votes_up": 28,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7694213390350342,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUnJCAAAAB0zKeFBw==",
+                "day_range_used": 30,
+                "total_matching": 147
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg?t=1759429603",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/capsule_231x87.jpg?t=1759429603",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/capsule_184x69.jpg?t=1759429603",
@@ -37,10 +76,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 939,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 46,99",
-                "final_formatted": "R$ 9,39"
+                "final": 4699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 46,99"
             },
             "packages": [
                 195262
@@ -57,13 +96,13 @@
                     "subs": [
                         {
                             "packageid": 195262,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "GRIS - <span class=\"discount_original_price\">R$ 46,99</span> R$ 9,39",
+                            "option_text": "GRIS - R$ 46,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 939
+                            "price_in_cents_with_discount": 4699
                         }
                     ]
                 }
@@ -211,7 +250,7 @@
                 }
             ],
             "recommendations": {
-                "total": 84126
+                "total": 84258
             },
             "achievements": {
                 "total": 17,

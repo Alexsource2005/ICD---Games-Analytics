@@ -174,7 +174,7 @@
                 }
             ],
             "recommendations": {
-                "total": 69742
+                "total": 69872
             },
             "achievements": {
                 "total": 67,
@@ -352,6 +352,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 29152,
+                    "total_negative": 5578,
+                    "total_reviews": 34730
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237573182",
+                        "author": {
+                            "steamid": "76561198034602620",
+                            "num_reviews": 2,
+                            "playtime_forever": 1460,
+                            "playtime_last_two_weeks": 854,
+                            "playtime_at_review": 889,
+                            "last_played": 1792773891
+                        },
+                        "language": "english",
+                        "review": "This should not be sold here without an explicit warning. EA did as EA does and the game is broken. Its fun sure, when it works. \n\nThe single player has game breaking bugs if you run it over 60 FPS. The game was brute forced into the new battlefield launcher. This broke a few things that worked fine back on console. No option to customize loadouts outside of a server. Server browser is broken, hides some servers, shows others that do not exist, lies about player count, fails connections when it feels like it. And even if the stars align and you can join a server where the 60 players it claims are actually there, you get kicked after 2 minutes because the version of PunkBuster that installs with the game is outdated. \nNone of this is made clear to you in any way, so far Ive had more hours of troubleshooting with this game than most of the older titles I usually play. I would refund it if I didn't have so many hours played already.\n\nDo not buy this.",
+                        "timestamp_created": 1791836542,
+                        "timestamp_updated": 1791855685,
+                        "voted_up": false,
+                        "votes_up": 7,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5996533632278442,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYAccAAAAB+w6KKBw==",
+                "day_range_used": 30,
+                "total_matching": 194
             }
         }
     }

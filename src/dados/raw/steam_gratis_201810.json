@@ -38,12 +38,12 @@
                 "Bethesda Softworks"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 4999,
-                "final": 1249,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 49,99",
-                "final_formatted": "R$ 12,49"
+                "currency": "EUR",
+                "initial": 1999,
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 41691,
@@ -61,23 +61,23 @@
                     "subs": [
                         {
                             "packageid": 41691,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Wolfenstein: The New Order - <span class=\"discount_original_price\">R$ 49,99</span> R$ 12,49",
+                            "option_text": "Wolfenstein: The New Order - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1249
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 62587,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Wolfenstein: The Two Pack - <span class=\"discount_original_price\">R$ 99,99</span> R$ 24,99",
+                            "option_text": "Wolfenstein: The Two Pack - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -202,7 +202,7 @@
                 }
             ],
             "recommendations": {
-                "total": 46609
+                "total": 46819
             },
             "achievements": {
                 "total": 50,
@@ -370,6 +370,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 31030,
+                    "total_negative": 3314,
+                    "total_reviews": 34344
+                },
+                "total_matching": 207,
+                "day_range_used": 30
             }
         }
     }

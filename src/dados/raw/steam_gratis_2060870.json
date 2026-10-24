@@ -15,7 +15,18 @@
             "about_the_game": "<i>Invincible Presents: Atom Eve</i> is the first original <strong>Invincible</strong> game from <strong>Skybound Games</strong>, the creator-led company behind Invincible and The Walking Dead. Experience an original story with striking art directed by Rossi Gifford and creative direction by award-winning writer Jill Murray, and explore the life of Atom Eve in a world filled with beloved characters. Based on the comic book by Robert Kirkman, Cory Walker, and Ryan Ottley.<h2 class=\"bb_tag\" >Atomic, With Agency</h2>Play as Atom Eve, the fan-favorite superhero from the Invincible universe! Get to know Eve like never before as she navigates her life with the Teen Team, her family, and her friends while figuring out the best way to use her incredible powers as a force for good.<h2 class=\"bb_tag\" >Determine Your Destiny</h2>Doing the right thing sounds easy until you’re the one making the decisions. Your choices shape your relationships with the people around you and will define what kind of hero you want to be. <br><br><br>Choose how to develop Atom Eve’s skills and increase her power, unlock special combat skills, or choose to unlock unique dialogue options to further play your story, your way.<h2 class=\"bb_tag\" >Comic Book Combat</h2>Take on new and familiar foes in light, turn-based combat woven into visual novel gameplay and wield the powers of Atom Eve as your story flows seamlessly into vivid action that feels like a comic book come to life.",
             "short_description": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.",
             "supported_languages": "English, French, German, Spanish - Spain",
-            "reviews": "“Underneath the superhero bravado and frequent quips, Atom Eve is a refreshingly sincere and heartfelt story”<br>80 – Shacknews<br><br>“...a Must-Play for Invincible and Visual Novel Fans”<br>9/10 – CBR<br><br>“Invincible Presents: Atom Eve is the Invincible game I didn’t know I wanted.”<br>8.8 – AIPT Comics<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 353,
+                    "total_negative": 23,
+                    "total_reviews": 376
+                },
+                "total_matching": 1,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060870/header.jpg?t=1731368197",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060870/capsule_231x87.jpg?t=1731368197",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060870/capsule_184x69.jpg?t=1731368197",
@@ -42,10 +53,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 329,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 3,29"
             },
             "packages": [
                 847557
@@ -62,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 847557,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-90% ",
                             "percent_savings": 0,
-                            "option_text": "Invincible Presents: Atom Eve - R$ 32,99",
+                            "option_text": "Invincible Presents: Atom Eve - <span class=\"discount_original_price\">R$ 32,99</span> R$ 3,29",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -202,7 +213,7 @@
                 }
             ],
             "recommendations": {
-                "total": 552
+                "total": 553
             },
             "achievements": {
                 "total": 35,

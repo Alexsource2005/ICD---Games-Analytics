@@ -5,7 +5,7 @@
             "type": "game",
             "name": "PAYDAY 2",
             "steam_appid": 218620,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -117,12 +117,12 @@
                 "Starbreeze Entertainment"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 29,99"
+                "currency": "JPY",
+                "initial": 120000,
+                "final": 60000,
+                "discount_percent": 50,
+                "initial_formatted": "¥ 1,200",
+                "final_formatted": "¥ 600"
             },
             "packages": [
                 1128161,
@@ -141,13 +141,13 @@
                     "subs": [
                         {
                             "packageid": 1128161,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "PAYDAY 2 - R$ 29,99",
+                            "option_text": "PAYDAY 2 - <span class=\"discount_original_price\">¥ 1,200</span> ¥ 600",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 60000
                         }
                     ]
                 },
@@ -155,8 +155,8 @@
                     "name": "subscriptions",
                     "title": "Subscribe to PAYDAY 2: Subscription",
                     "description": "PAYDAY 2: Subscription gives you full access to all available PAYDAY 2 DLCs",
-                    "selection_text": "Starting at R$ 16,99 / month",
-                    "save_text": "Save up to 41%",
+                    "selection_text": "Starting at ¥ 590 / month",
+                    "save_text": "Save up to 35%",
                     "display_type": "1",
                     "is_recurring_subscription": "true",
                     "subs": [
@@ -164,21 +164,21 @@
                             "packageid": 1352915,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "R$ 16,99 / month",
-                            "option_description": "<p class=\"game_purchase_subscription\">R$ 16,99 at checkout, auto-renewed every 1 month(s) at R$ 16,99.</p>",
+                            "option_text": "¥ 590 / month",
+                            "option_description": "<p class=\"game_purchase_subscription\">¥ 590 at checkout, auto-renewed every 1 month(s) at ¥ 590.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 59000
                         },
                         {
                             "packageid": 1352917,
-                            "percent_savings_text": "-41% ",
-                            "percent_savings": 41,
-                            "option_text": "R$ 59,99 / 6 months",
-                            "option_description": "<p class=\"game_purchase_subscription\">R$ 59,99 at checkout, auto-renewed every 6 month(s) at R$ 59,99.</p>",
+                            "percent_savings_text": "-35% ",
+                            "percent_savings": 35,
+                            "option_text": "¥ 2,300 / 6 months",
+                            "option_description": "<p class=\"game_purchase_subscription\">¥ 2,300 at checkout, auto-renewed every 6 month(s) at ¥ 2,300.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 230000
                         }
                     ]
                 }
@@ -556,7 +556,7 @@
                 }
             ],
             "recommendations": {
-                "total": 445780
+                "total": 445896
             },
             "achievements": {
                 "total": 1342,
@@ -734,6 +734,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 234976,
+                    "total_negative": 35912,
+                    "total_reviews": 270888
+                },
+                "total_matching": 474,
+                "day_range_used": 30
             }
         }
     }

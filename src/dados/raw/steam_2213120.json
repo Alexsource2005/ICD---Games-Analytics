@@ -265,7 +265,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2372
+                "total": 2387
             },
             "achievements": {
                 "total": 16,
@@ -392,6 +392,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Penampilan Tokoh\nKekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 859,
+                    "total_negative": 121,
+                    "total_reviews": 980
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237240982",
+                        "author": {
+                            "steamid": "76561198003089798",
+                            "num_reviews": 134,
+                            "playtime_forever": 180,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 180,
+                            "last_played": 1791497564
+                        },
+                        "language": "english",
+                        "review": "I was attracted to this game because of the unique premise, but was ultimately left feeling disappointed.\n\nI expected a gloomy, atmospheric and tense plot about an unavoidable, impending doom and how a group of strangers stuck in a remote location would deal with facing the end times and their own mortality.\n\nInstead I had to listen to a bunch of particularily boring people talking about their mundane problems while an average storm passed by, and having to do a bunch of busy work in between all the yapping.\n\nIt's not to say it's a bad game, but it definitely overpromises and underdelivers on its main selling point. If you're looking for apocalyptic dread, give this one a skip. If you're in the market for a more cozy diner sim and helping people process trauma, you might get a kick out of it.",
+                        "timestamp_created": 1791498107,
+                        "timestamp_updated": 1791498107,
+                        "voted_up": false,
+                        "votes_up": 13,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6363062262535095,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXRh0AAAAB2qYCJBw==",
+                "day_range_used": 30,
+                "total_matching": 16
             }
         }
     }

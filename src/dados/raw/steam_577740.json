@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 16,99"
+                "final": 271,
+                "discount_percent": 84,
+                "initial_formatted": "R$ 16,99",
+                "final_formatted": "R$ 2,71"
             },
             "packages": [
                 147499
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 147499,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-84% ",
                             "percent_savings": 0,
-                            "option_text": "Winexy - R$ 16,99",
+                            "option_text": "Winexy - <span class=\"discount_original_price\">R$ 16,99</span> R$ 2,71",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 271
                         }
                     ]
                 }
@@ -271,6 +271,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 90,
+                    "total_negative": 116,
+                    "total_reviews": 206
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236300034",
+                        "author": {
+                            "steamid": "76561198835140752",
+                            "num_reviews": 17,
+                            "playtime_forever": 82,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 82,
+                            "last_played": 1790490662
+                        },
+                        "language": "english",
+                        "review": "A fun game, I enjoyed playing it. I remember playing a game called \"Fantasy Ball\" or something like that in my childhood; and this game literally reminded me of that. I usually do all achievements in these games, but the achievemnts thing is a bit bugged in this game, that was something I felt frustated about. But anyways I fixed and did that for the record and resolution I have. \r\n\r\nPS: This marke my 10th Perfect Game on Steam",
+                        "timestamp_created": 1790491012,
+                        "timestamp_updated": 1790491012,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZhheAAAABy8LSFBw==",
+                "day_range_used": 30,
+                "total_matching": 11
             }
         }
     }

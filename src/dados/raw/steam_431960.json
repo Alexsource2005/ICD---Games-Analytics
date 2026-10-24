@@ -33,11 +33,11 @@
             ],
             "price_overview": {
                 "currency": "USD",
-                "initial": 499,
-                "final": 499,
+                "initial": 329,
+                "final": 329,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$4.99"
+                "final_formatted": "$3.29 USD"
             },
             "packages": [
                 89783
@@ -56,11 +56,11 @@
                             "packageid": 89783,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Wallpaper Engine - $4.99",
+                            "option_text": "Wallpaper Engine - $3.29 USD",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 949820
+                "total": 952222
             },
             "achievements": {
                 "total": 17,
@@ -286,7 +286,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Nov 16, 2018"
+                "date": "16 Nov, 2018"
             },
             "support_info": {
                 "url": "https://help.wallpaperengine.io",
@@ -331,6 +331,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 251827,
+                    "total_negative": 5371,
+                    "total_reviews": 257198
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236075597",
+                        "author": {
+                            "steamid": "76561199064002810",
+                            "num_reviews": 8,
+                            "playtime_forever": 367,
+                            "playtime_last_two_weeks": 15,
+                            "playtime_at_review": 303,
+                            "last_played": 1792412212
+                        },
+                        "language": "english",
+                        "review": "everzthing good wallpaper good comunity although full of gooners\r\n",
+                        "timestamp_created": 1790271309,
+                        "timestamp_updated": 1790271309,
+                        "voted_up": true,
+                        "votes_up": 125,
+                        "votes_funny": 78,
+                        "weighted_vote_score": 0.8791531920433044,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFSaryAAAAB9pMeEBw==",
+                "day_range_used": 30,
+                "total_matching": 1928
             }
         }
     }

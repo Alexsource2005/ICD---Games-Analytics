@@ -12,7 +12,18 @@
             "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/extras/ce334ce6d19cbbdc8bc814304bd81cd1.webp?t=1786456220\" width=600 height=60 /></span></p><p class=\"bb_paragraph\" >In the kingdom of Mystralia, it takes more brains than brawn to succeed. </p><p class=\"bb_paragraph\" >You will face down giant, powerful creatures and navigate treacherous terrain. You will encounter puzzles that confound even the wisest of the old sages. And you must overcome obstacles put in place by people who do not want you to succeed. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/extras/b221ce032d8f6324daf2e395951d93ca.webp?t=1786456220\" width=600 height=60 /></span></p><p class=\"bb_paragraph\" >Your path will not be easy. </p><p class=\"bb_paragraph\" >In <i>Mages of Mystralia</i>, you play as Zia, a young girl who discovers that she has been born with an innate sense of magic. Unfortunately, magic has been banned, so she strikes off to train on her own to gain some control over her powers. On her journey, she meets other exiled mages and, discovers runes with magical properties and realizes that she can combine these runes in millions of different ways to come up with completely new spells.</p><p class=\"bb_paragraph\" >The story was written by bestselling author Ed Greenwood, creator of the <i>Forgotten Realms</i> fantasy world for <i>Dungeons and Dragons</i>, which served as the basis for games like <i>Baldur’s Gate</i> and <i>Neverwinter Nights</i>, as well as about 170 fantasy books.<br> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/extras/21149887c021bdd67fc7f94bb2c5db2e.webp?t=1786456220\" width=600 height=60 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Design spells to fight enemies, solve environmental puzzles and battle epic bosses</p></li><li><p class=\"bb_paragraph\" >Powerful yet simple spell crafting system</p></li><li><p class=\"bb_paragraph\" >Classic action-adventure with over a dozen of distinct regions to explore</p></li><li><p class=\"bb_paragraph\" >Original orchestral score conducted by Shota Nakama and performed by the Video Game Orchestra at SoundtRec Boston of Final Fantasy XV and Kingdom Hearts fame</p></li></ul>",
             "short_description": "In a world of magic, your mind is your greatest weapon. Learn the ways of magic and design your own spells to fight enemies, navigate treacherous terrain, and right past wrongs in the kingdom of Mystralia.",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Hungarian, Japanese, Korean, Polish<br><strong>*</strong>languages with full audio support",
-            "reviews": "“I honestly had a blast playing it.”<br>9.2/10 – Marooners' Rock<br><br>“Mages of Mystralia [...] révolutionne tous les systèmes de magie en jeux vidéo.”<br>9/10 – Jeux[dot]ca<br><br>“Piecing all of those runes into a new master spell made me feel like the most creative mage who’d ever lived.”<br>8/10 – Game Informer<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 777,
+                    "total_negative": 136,
+                    "total_reviews": 913
+                },
+                "total_matching": 4,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/header.jpg?t=1786456220",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/capsule_231x87.jpg?t=1786456220",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/capsule_184x69.jpg?t=1786456220",
@@ -39,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3699,
-                "final": 924,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 36,99",
-                "final_formatted": "R$ 9,24"
+                "final": 3699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 36,99"
             },
             "packages": [
                 127382
@@ -59,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 127382,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Mages of Mystralia - <span class=\"discount_original_price\">R$ 36,99</span> R$ 9,24",
+                            "option_text": "Mages of Mystralia - R$ 36,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 924
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -206,7 +217,7 @@
                 }
             ],
             "recommendations": {
-                "total": 906
+                "total": 911
             },
             "achievements": {
                 "total": 30,

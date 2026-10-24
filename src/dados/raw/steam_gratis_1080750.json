@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 2399,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 23,99"
             },
             "packages": [
                 362884
@@ -61,13 +61,13 @@
                     "subs": [
                         {
                             "packageid": 362884,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-60% ",
                             "percent_savings": 0,
-                            "option_text": "Mutazione - R$ 59,99",
+                            "option_text": "Mutazione - <span class=\"discount_original_price\">R$ 59,99</span> R$ 23,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 2399
                         }
                     ]
                 }
@@ -226,7 +226,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1129
+                "total": 1133
             },
             "achievements": {
                 "total": 20,
@@ -358,6 +358,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 817,
+                    "total_negative": 40,
+                    "total_reviews": 857
+                },
+                "total_matching": 4,
+                "day_range_used": 30
             }
         }
     }

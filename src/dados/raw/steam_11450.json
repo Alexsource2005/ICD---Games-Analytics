@@ -185,7 +185,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5026
+                "total": 5035
             },
             "release_date": {
                 "coming_soon": false,
@@ -234,6 +234,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2794,
+                    "total_negative": 260,
+                    "total_reviews": 3054
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237967510",
+                        "author": {
+                            "steamid": "76561198101083609",
+                            "num_reviews": 22,
+                            "playtime_forever": 912,
+                            "playtime_last_two_weeks": 912,
+                            "playtime_at_review": 912,
+                            "last_played": 1792266283
+                        },
+                        "language": "english",
+                        "review": "Loved this on the 360 though I wasn't very good, revisiting now and it still lives up to how I remembered it.\r\nA funny and satirical take on good vs evil, you play as an Overlord that commands an army of minions and you get to be evil as much as you want. Not a deep story but the main pull is the gameplay, having minions plunder and kill everything in your path is very satisfying. And on top of this you get to upgrade your tower, weapons and armor to look like a badass. \r\n\r\nRecommend the DLC too, has some killer music and takes advantage of a lot of the base game mechanics for some new areas and puzzles.\r\nMinion controls can be a bit wonky at times and frustrating especially for a few puzzles but you can smartly use the minions in combat to work to each of their strengths.\r\n",
+                        "timestamp_created": 1792272444,
+                        "timestamp_updated": 1792272444,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB2ieOLBw==",
+                "day_range_used": 30,
+                "total_matching": 11
             }
         }
     }

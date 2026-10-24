@@ -34,12 +34,12 @@
                 "Double Fine Productions"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 999,
+                "currency": "BRL",
+                "initial": 1999,
+                "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "R$ 19,99"
             },
             "packages": [
                 11960,
@@ -59,21 +59,21 @@
                             "packageid": 11960,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Costume Quest - $9.99",
+                            "option_text": "Costume Quest - R$ 19,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 53813,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Costume Quest 1 & 2 Bundle - $19.99",
+                            "option_text": "Costume Quest 1 & 2 Bundle - R$ 36,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -187,7 +187,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2619
+                "total": 2631
             },
             "achievements": {
                 "total": 21,
@@ -276,7 +276,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 14, 2011"
+                "date": "14 Oct, 2011"
             },
             "support_info": {
                 "url": "https://www.doublefine.com/games/support",
@@ -313,6 +313,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2773,
+                    "total_negative": 173,
+                    "total_reviews": 2946
+                },
+                "total_matching": 23,
+                "day_range_used": 30
             }
         }
     }

@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 4699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 46,99"
+                "final": 328,
+                "discount_percent": 93,
+                "initial_formatted": "R$ 46,99",
+                "final_formatted": "R$ 3,28"
             },
             "packages": [
                 1116474
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 1116474,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-93% ",
                             "percent_savings": 0,
-                            "option_text": "Pet Lands - R$ 46,99",
+                            "option_text": "Pet Lands - <span class=\"discount_original_price\">R$ 46,99</span> R$ 3,28",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
+                            "price_in_cents_with_discount": 328
                         }
                     ]
                 }
@@ -331,6 +331,53 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 4,
+                    "review_score_desc": "Mostly Negative",
+                    "total_positive": 85,
+                    "total_negative": 191,
+                    "total_reviews": 276
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237137037",
+                        "author": {
+                            "steamid": "76561199108817224",
+                            "num_reviews": 3,
+                            "playtime_forever": 32,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 32,
+                            "last_played": 1775002660
+                        },
+                        "language": "english",
+                        "review": "For Free, as it just robox videogame which it fun to play, but not worth a buy",
+                        "timestamp_created": 1791386578,
+                        "timestamp_updated": 1791386578,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5416666865348816,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "Intel(R) Core(TM) i7-14700K",
+                            "adapter_description": "NVIDIA GeForce RTX 5060 Ti",
+                            "system_ram": "65277",
+                            "vram_size": 16050
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFZKqoAAAAB9yM2IBw==",
+                "day_range_used": 30,
+                "total_matching": 5
             }
         }
     }

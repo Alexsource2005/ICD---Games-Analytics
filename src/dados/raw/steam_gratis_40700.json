@@ -15,7 +15,18 @@
             "about_the_game": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/extras/0629697c2443e82195b61b1c97f64165.poster.avif?t=1791501193\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/extras/0629697c2443e82195b61b1c97f64165.webm?t=1791501193\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/extras/0629697c2443e82195b61b1c97f64165.mp4?t=1791501193\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong><i>Machinarium</i> is the award-winning adventure game from the makers of <i>Phonopolis</i>, <i>CHUCHEL</i> and <i>Samorost</i>.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\">A little robot named Josef is thrown out into the scrapyard behind the city.<br>Help him find his way back, deal with the Black Cap Brotherhood and save his girlfriend Berta!</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>World:</strong> The world of <i>Machinarium</i> is populated only by robots of various shapes and functions. One of the most remarkable places is the old, rusty and legendary city of Machinarium, where the game takes place.</p></li><li><p class=\"bb_paragraph\" ><strong>Story:</strong> Get rid of the wicked robots from the Black Cap Brotherhood and save the mayor and your robot-girl friend.</p></li><li><p class=\"bb_paragraph\" ><strong>Puzzles:</strong> Solve logic puzzles, adventure quests, brain teasers and mini-games.</p></li><li><p class=\"bb_paragraph\" ><strong>Graphics:</strong> Hand-drawn 2D backgrounds and characters, with more than an hour of carefully crafted animation.</p></li><li><p class=\"bb_paragraph\" ><strong>Music:</strong> A beautiful original soundtrack composed and recorded by Tomáš Dvořák aka Floex.</p></li><li><p class=\"bb_paragraph\" ><strong>Communication:</strong> No lengthy dialogue! Characters talk through comic bubbles with simple animations and symbols.</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/extras/053861cf81f517df64dd25e474c97fe6.poster.avif?t=1791501193\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/extras/053861cf81f517df64dd25e474c97fe6.webm?t=1791501193\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/extras/053861cf81f517df64dd25e474c97fe6.mp4?t=1791501193\" type=\"video/mp4\"></video></span></p>",
             "short_description": "Machinarium is the award-winning adventure game from the makers of Phonopolis, CHUCHEL and the Samorost series. Help Josef the robot save his girlfriend Berta, kidnapped by the Black Cap Brotherhood gang!",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“A must-play for point-and-click fans.”<br>– IGN<br><br>“Machinarium may be the best adventure game I've ever played.”<br>– Destructoid<br><br>“Machinarium is an extraordinarily beautiful creation.”<br>– Rock, Paper, Shotgun",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 6549,
+                    "total_negative": 367,
+                    "total_reviews": 6916
+                },
+                "total_matching": 119,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/header.jpg?t=1791501193",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/capsule_231x87.jpg?t=1791501193",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/capsule_184x69.jpg?t=1791501193",
@@ -40,12 +51,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1999,
-                "final": 399,
-                "discount_percent": 80,
-                "initial_formatted": "$19.99",
-                "final_formatted": "$3.99"
+                "currency": "BRL",
+                "initial": 6999,
+                "final": 6999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 69,99"
             },
             "packages": [
                 2206
@@ -62,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 2206,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Machinarium - <span class=\"discount_original_price\">$19.99</span> $3.99",
+                            "option_text": "Machinarium - R$ 69,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 6999
                         }
                     ]
                 }
@@ -215,7 +226,7 @@
                 }
             ],
             "recommendations": {
-                "total": 17818
+                "total": 18097
             },
             "achievements": {
                 "total": 12,
@@ -304,7 +315,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 16, 2009"
+                "date": "16 Oct, 2009"
             },
             "support_info": {
                 "url": "http://amanita-design.net/contact.html",

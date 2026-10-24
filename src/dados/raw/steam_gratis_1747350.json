@@ -142,7 +142,19 @@
                 "ids": [],
                 "notes": null
             },
-            "ratings": null
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 7,
+                    "review_score_desc": "Positive",
+                    "total_positive": 11,
+                    "total_negative": 0,
+                    "total_reviews": 11
+                },
+                "total_matching": 1,
+                "day_range_used": 30
+            }
         }
     }
 }

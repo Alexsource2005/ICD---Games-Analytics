@@ -5,7 +5,7 @@
             "type": "dlc",
             "name": "Supraland Crash",
             "steam_appid": 1093730,
-            "required_age": 0,
+            "required_age": "10",
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "A new Supraland adventure full of exploration, puzzles and surprises... and way less combat.<br>Crash is a new full fledged Supraland campaign that you select separately in the main menu of the game. It is not necessary to have finished the base game but we highly recommend it.<br><br>Crash estimated playtime: ~7-13h<br><br><strong>How does my main game progress/savegame relate to the DLC?</strong><br>Not at all! The DLC1 campaign is a separate thing. A separate adventure. It continues the plot, but you select it with a different menu button and it uses different new save games.<br><br><strong>Do I have to finish the main game to play the DLC?</strong><br>You don't have to, but you should, because the DLC brings back many mechanics and they won't be tutorialized as deeply as they were in the main game.<br><br><strong>Why don't you release the DLC as a standalone game?</strong><br>- The game is not different enough from base game. It would be more like Supraland 1.5. People would probably not like a 2nd game that is too similar to the first one technologically.<br>- There could be installment confusion, so after we released a bunch of Supraland stories, people wouldn't know which order the games have.<br>- The DLC is for advanced players. It's not starting from scratch explaining everything. Standalone would lead to many people playing it without knowing the base game, which would not be a the experience we have in mind.",
@@ -33,12 +33,12 @@
                 "Supra Games"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1399,
-                "final": 1049,
-                "discount_percent": 25,
-                "initial_formatted": "$13.99",
-                "final_formatted": "$10.49"
+                "currency": "BRL",
+                "initial": 1500,
+                "final": 1500,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 15,00"
             },
             "packages": [
                 368454
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 368454,
-                            "percent_savings_text": "-25% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Supraland - Crash - <span class=\"discount_original_price\">$13.99</span> $10.49",
+                            "option_text": "Supraland - Crash - R$ 15,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1049
+                            "price_in_cents_with_discount": 1500
                         }
                     ]
                 }
@@ -143,11 +143,11 @@
                 }
             ],
             "recommendations": {
-                "total": 595
+                "total": 597
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jul 3, 2020"
+                "date": "3 Jul, 2020"
             },
             "support_info": {
                 "url": "http://supragames.de",
@@ -166,6 +166,18 @@
                     "use_age_gate": "true",
                     "required_age": "10"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 359,
+                    "total_negative": 80,
+                    "total_reviews": 439
+                },
+                "total_matching": 3,
+                "day_range_used": 30
             }
         }
     }

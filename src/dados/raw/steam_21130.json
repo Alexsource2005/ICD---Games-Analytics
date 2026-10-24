@@ -173,7 +173,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6468
+                "total": 6473
             },
             "release_date": {
                 "coming_soon": false,
@@ -207,6 +207,46 @@
                 "nzoflc": {
                     "rating": "g"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3668,
+                    "total_negative": 685,
+                    "total_reviews": 4353
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236541777",
+                        "author": {
+                            "steamid": "76561198125735334",
+                            "num_reviews": 4,
+                            "playtime_forever": 519,
+                            "playtime_last_two_weeks": 66,
+                            "playtime_at_review": 359,
+                            "last_played": 1792809946
+                        },
+                        "language": "english",
+                        "review": "The game constantly crashes during the forest section. I have no way to progress the game anymore.",
+                        "timestamp_created": 1790771443,
+                        "timestamp_updated": 1790771443,
+                        "voted_up": false,
+                        "votes_up": 6,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6019642949104309,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFX9fIAAAABx9aqGBw==",
+                "day_range_used": 30,
+                "total_matching": 11
             }
         }
     }

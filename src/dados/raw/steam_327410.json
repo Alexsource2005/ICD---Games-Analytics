@@ -14,10 +14,56 @@
             "about_the_game": "<strong>Note:</strong> <i>This is not To the Moon's sequel, but rather a small experimental project.</i><br>---------------------------------------------------------------------------<br><br>From the creator of To the Moon and Finding Paradise: A <strong>simple, wordless 1-hour short</strong> about a boy who found an injured bird, told through a blur between reality and imagination.<br><br>A Bird Story is an <strong>interactive pixel animation</strong> with the sole purpose of telling a simple story. It is a standalone narrative, with its own beginning and ending.<h2 class=\"bb_tag\" > Key Features</h2><ul class=\"bb_ul\"><li>A story-driven experience with no dialogues<br></li><li>A mix between adventure game elements and classic RPG aesthetics<br></li><li>An original soundtrack tailored to the narrative<br></li><li>An espresso execution with no time drains </li></ul>",
             "short_description": "An experimental short from the creator of To the Moon &amp; Finding Paradise: A simple &amp; surreal 1-hour interactive animation about a boy and an injured bird, told without dialogues.If you're looking for To the Moon-like experience, I'd suggest playing Finding Paradise first.",
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Japanese, Russian",
-            "reviews": "“...a small, simple, but incredibly affecting story that showcases the power of the ability to encourage empathy through the most basic expressions of humanity and imagination.”<br>-Gamespot<br><br>“Genuinely funny and heartfelt moments take place throughout, all working seamlessly together to create a commentary on the importance of friendships and the pain inherent in letting go.”<br>-IGN<br><br>“I guess the music's nice-ish, but it sounds kinda ripped off from To the Moon...”<br>-Developer's Aunt<br>",
-            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/header.jpg?t=1726196470",
-            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/capsule_231x87.jpg?t=1726196470",
-            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/capsule_184x69.jpg?t=1726196470",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3251,
+                    "total_negative": 631,
+                    "total_reviews": 3882
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236871808",
+                        "author": {
+                            "steamid": "76561198299285150",
+                            "num_reviews": 347,
+                            "playtime_forever": 229,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 229,
+                            "last_played": 1791112843
+                        },
+                        "language": "english",
+                        "review": "First playthrough review time.\n\nI got A Bird Story as a gift from a Steam friend and played it without really knowing what to expect. The game is quite simple, and there is not much text or dialogue. Most of the story is shown through the scenes, colors, music, and small actions. I thought this was an interesting way to tell a story because you can understand what is happening without someone explaining everything.\n\nThe gameplay is very basic, so there is not much to learn or manage. You mostly move through the scenes and take part in small interactions as the story goes on. For me, the music and visuals were the main parts of the experience. The scenes are also quiet and simple, which gives the game its own style without adding too much to it. I didn't see any option to change the screen resolution or controls, so I played on the default settings.\n\nOverall, A Bird Story is a short game with a simple idea behind its storytelling. It does not focus on complicated gameplay and instead keeps things centered around the scenes, music, and visuals. I think its simple presentation is what makes the game stand out, even though there is not a lot of content to go through.",
+                        "timestamp_created": 1791113642,
+                        "timestamp_updated": 1791113642,
+                        "voted_up": true,
+                        "votes_up": 15,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6930608153343201,
+                        "comment_count": 2,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "11th Gen Intel(R) Core(TM) i5-11260H @ 2.60GHz",
+                            "adapter_description": "NVIDIA GeForce RTX 3050 Laptop GPU",
+                            "system_ram": "16085",
+                            "vram_size": 3965
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFWI4cAAAABwiMyHBw==",
+                "day_range_used": 30,
+                "total_matching": 10
+            },
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/header.jpg?t=1792168672",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/capsule_231x87.jpg?t=1792168672",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/capsule_184x69.jpg?t=1792168672",
             "website": "http://freebirdgames.com/games/a-bird-story/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP, Vista, 7, 8<br></li><li><strong>Processor:</strong> &gt; Intel Pentium III 800 MHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1024x768 High Color +<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Usually runs on anything more than a baked potato.</li></ul>"
@@ -33,15 +79,16 @@
                 "Freebird Games"
             ],
             "publishers": [
-                "Freebird Games"
+                "Freebird Games",
+                "Serenity Forge"
             ],
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1379,
-                "final": 1379,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 13,79"
+                "final": 275,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 13,79",
+                "final_formatted": "R$ 2,75"
             },
             "packages": [
                 52512,
@@ -59,23 +106,23 @@
                     "subs": [
                         {
                             "packageid": 52512,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "A Bird Story - R$ 13,79",
+                            "option_text": "A Bird Story - <span class=\"discount_original_price\">R$ 13,79</span> R$ 2,75",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1379
+                            "price_in_cents_with_discount": 275
                         },
                         {
                             "packageid": 54316,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "A Bird Story + Soundtrack - R$ 20,49",
+                            "option_text": "A Bird Story + Soundtrack - <span class=\"discount_original_price\">R$ 20,49</span> R$ 4,09",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2049
+                            "price_in_cents_with_discount": 409
                         }
                     ]
                 }
@@ -132,33 +179,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_42dd7ad8e90745268cbbdff03fba965477e31a4a.600x338.jpg?t=1726196470",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_42dd7ad8e90745268cbbdff03fba965477e31a4a.1920x1080.jpg?t=1726196470"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_42dd7ad8e90745268cbbdff03fba965477e31a4a.600x338.jpg?t=1792168672",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_42dd7ad8e90745268cbbdff03fba965477e31a4a.1920x1080.jpg?t=1792168672"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_7abe23a52a505af69cad0ffccad472bc8c071505.600x338.jpg?t=1726196470",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_7abe23a52a505af69cad0ffccad472bc8c071505.1920x1080.jpg?t=1726196470"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_7abe23a52a505af69cad0ffccad472bc8c071505.600x338.jpg?t=1792168672",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_7abe23a52a505af69cad0ffccad472bc8c071505.1920x1080.jpg?t=1792168672"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8e1107b35988038e1ff68b65d4f09799f2e1a0a3.600x338.jpg?t=1726196470",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8e1107b35988038e1ff68b65d4f09799f2e1a0a3.1920x1080.jpg?t=1726196470"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8e1107b35988038e1ff68b65d4f09799f2e1a0a3.600x338.jpg?t=1792168672",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8e1107b35988038e1ff68b65d4f09799f2e1a0a3.1920x1080.jpg?t=1792168672"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_58c661f644ee610e686283bae101bc816ef6d451.600x338.jpg?t=1726196470",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_58c661f644ee610e686283bae101bc816ef6d451.1920x1080.jpg?t=1726196470"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_58c661f644ee610e686283bae101bc816ef6d451.600x338.jpg?t=1792168672",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_58c661f644ee610e686283bae101bc816ef6d451.1920x1080.jpg?t=1792168672"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8fa15f4b0cf0e5ed417d6e3414a03768f511ad82.600x338.jpg?t=1726196470",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8fa15f4b0cf0e5ed417d6e3414a03768f511ad82.1920x1080.jpg?t=1726196470"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8fa15f4b0cf0e5ed417d6e3414a03768f511ad82.600x338.jpg?t=1792168672",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_8fa15f4b0cf0e5ed417d6e3414a03768f511ad82.1920x1080.jpg?t=1792168672"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_feb1561bb3b1bad996bf43112018378b58b910df.600x338.jpg?t=1726196470",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_feb1561bb3b1bad996bf43112018378b58b910df.1920x1080.jpg?t=1726196470"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_feb1561bb3b1bad996bf43112018378b58b910df.600x338.jpg?t=1792168672",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327410/ss_feb1561bb3b1bad996bf43112018378b58b910df.1920x1080.jpg?t=1792168672"
                 }
             ],
             "movies": [
@@ -173,7 +220,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8225
+                "total": 8236
             },
             "achievements": {
                 "total": 1,
@@ -196,8 +243,8 @@
                 "url": "http://freebirdgames.com/forum/index.php",
                 "email": "kan@freebirdgames.com"
             },
-            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/327410?t=1726196470",
-            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/327410?t=1726196470",
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/327410?t=1792168672",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/327410?t=1792168672",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

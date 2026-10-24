@@ -16,7 +16,18 @@
             "about_the_game": "When the wife of the best-selling writer Alan Wake disappears on their vacation, his search turns up pages from a thriller he doesn’t even remember writing. A Dark Presence stalks the small town of Bright Falls, pushing Wake to the brink of sanity in his fight to unravel the mystery and save his love.<br><br>\t\t\t\t\t\tPresented in the style of a TV series, Alan Wake features the trademark Remedy storytelling and pulse-pounding action sequences. As players dive deeper and deeper into the mystery, they’ll face overwhelming odds, plot twists, and cliffhangers. It’s only by mastering the Fight With Light combat mechanic that they can stay one step ahead of the darkness that spreads across Bright Falls.<br><br>\t\t\t\t\t\tWith the body of an action game and the mind of a psychological thriller, Alan Wake’s intense atmosphere, deep and multilayered story, and exceptionally tense combat sequences provide players with an entertaining and original gaming experience.<br><br>\t\t\t\t\t\t<h2 class=\"bb_tag\" >Enhanced for the PC</h2>\t\t\t\t\t\t<ul class=\"bb_ul\"><li>Includes Alan Wake Special Episodes “The Signal” and “The Writer”<br>\t\t\t\t\t\t</li><li>Experience Alan Wake’s Pacific Northwest in higher resolutions and higher fidelity than the Xbox360 version. <br>\t\t\t\t\t\t</li><li>Fully configurable mouse and keyboard support, or if you prefer to play with the Steam or Microsoft gamepad connected to your PC, you can do that too!<br>\t\t\t\t\t\t</li><li>Lots of customizable graphics settings and support for 4:3, 16:9 and 16:10 aspect ratios!<br>\t\t\t\t\t\t</li><li>Multithreaded engine that takes advantage of quad core CPUs.<br>\t\t\t\t\t\t</li><li>Additional features our fans have sought after such as field of view adjustment as well as “hide HUD”.<br>\t\t\t\t\t\t</li><li>Works with AMD Eyefinity 3D 3-screen mode.</li></ul>",
             "short_description": "A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.",
             "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Korean, Spanish - Spain<strong>*</strong>, Russian, Japanese<strong>*</strong>, Polish, Traditional Chinese, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“Remedy's done a great job of mixing elements of written work, television, and video games to create an experience full of scares, laughs, and thrills that's just as fun to play as it is to watch.”<br>9/10 – ",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 20067,
+                    "total_negative": 2610,
+                    "total_reviews": 22677
+                },
+                "total_matching": 336,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108710/9c1728f937c2a7e632b447b02e442f6a5d88515c/header.jpg?t=1769717716",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108710/a0e04fbe5de4b8116dbf8102354fcf4db5503fe1/capsule_231x87.jpg?t=1769717716",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108710/a0e04fbe5de4b8116dbf8102354fcf4db5503fe1/capsule_184x69.jpg?t=1769717716",
@@ -37,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3999,
-                "final": 599,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 39,99",
-                "final_formatted": "R$ 5,99"
+                "final": 3999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 39,99"
             },
             "packages": [
                 13533,
@@ -59,33 +70,33 @@
                     "subs": [
                         {
                             "packageid": 13533,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Alan Wake - <span class=\"discount_original_price\">R$ 39,99</span> R$ 5,99",
+                            "option_text": "Alan Wake - R$ 39,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 3999
                         },
                         {
                             "packageid": 13535,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Alan Wake Collector's Edition - <span class=\"discount_original_price\">R$ 49,99</span> R$ 7,49",
+                            "option_text": "Alan Wake Collector's Edition - R$ 49,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 749
+                            "price_in_cents_with_discount": 4999
                         },
                         {
                             "packageid": 15407,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Alan Wake Origins Bundle - <span class=\"discount_original_price\">R$ 69,99</span> R$ 10,49",
+                            "option_text": "Alan Wake Origins Bundle - R$ 69,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1049
+                            "price_in_cents_with_discount": 6999
                         }
                     ]
                 }
@@ -188,7 +199,7 @@
                 }
             ],
             "recommendations": {
-                "total": 46181
+                "total": 46454
             },
             "achievements": {
                 "total": 67,

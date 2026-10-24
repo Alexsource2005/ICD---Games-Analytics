@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3749,
-                "final": 3749,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 37,49"
+                "final": 1499,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 37,49",
+                "final_formatted": "R$ 14,99"
             },
             "packages": [
                 1097432
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 1097432,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-60% ",
                             "percent_savings": 0,
-                            "option_text": "Prop Sumo - R$ 37,49",
+                            "option_text": "Prop Sumo - <span class=\"discount_original_price\">R$ 37,49</span> R$ 14,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3749
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -323,6 +323,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 7,
+                    "review_score_desc": "Positive",
+                    "total_positive": 13,
+                    "total_negative": 2,
+                    "total_reviews": 15
+                },
+                "total_matching": 1,
+                "day_range_used": 30
             }
         }
     }

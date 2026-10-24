@@ -34,12 +34,12 @@
                 "CRITICAL REFLEX"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 9,99"
+                "currency": "USD",
+                "initial": 149,
+                "final": 74,
+                "discount_percent": 50,
+                "initial_formatted": "$1.49",
+                "final_formatted": "$0.74 USD"
             },
             "packages": [
                 1011957
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 1011957,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "Buckshot Roulette - R$ 9,99",
+                            "option_text": "Buckshot Roulette - <span class=\"discount_original_price\">$1.49</span> $0.74 USD",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 74
                         }
                     ]
                 }
@@ -218,7 +218,7 @@
                 }
             ],
             "recommendations": {
-                "total": 111039
+                "total": 111593
             },
             "achievements": {
                 "total": 16,
@@ -344,6 +344,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Simulasi dan/atau kegiatan judi\nKekerasan\nHoror"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 40007,
+                    "total_negative": 1732,
+                    "total_reviews": 41739
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236305364",
+                        "author": {
+                            "steamid": "76561199550082871",
+                            "num_reviews": 13,
+                            "playtime_forever": 267,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 211,
+                            "last_played": 1791378713
+                        },
+                        "language": "english",
+                        "review": "This game is basically gambling, panic, and bad decisions in one package.\r\n\r\nEvery round starts with “I got this” and ends with “WHY DID I DO THAT?”\r\n\r\nSimple idea, insane tension, and somehow I keep coming back for more.\r\n\r\n10/10 would make terrible decisions again.\r\n",
+                        "timestamp_created": 1790497581,
+                        "timestamp_updated": 1790497581,
+                        "voted_up": true,
+                        "votes_up": 29,
+                        "votes_funny": 5,
+                        "weighted_vote_score": 0.7604691386222839,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUymYAAAAB0vbeFBw==",
+                "day_range_used": 30,
+                "total_matching": 561
             }
         }
     }

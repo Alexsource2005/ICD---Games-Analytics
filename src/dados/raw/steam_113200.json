@@ -33,12 +33,12 @@
                 "Edmund McMillen"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 849,
-                "final": 849,
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 8,49"
+                "final_formatted": "4,99€"
             },
             "packages": [
                 11734,
@@ -58,21 +58,21 @@
                             "packageid": 11734,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Binding of Isaac - R$ 8,49",
+                            "option_text": "The Binding of Isaac - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 849
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 527893,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Binding of Isaac Bundle - R$ 22,19",
+                            "option_text": "Binding of Isaac Bundle - 6,51€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2219
+                            "price_in_cents_with_discount": 651
                         }
                     ]
                 }
@@ -196,7 +196,7 @@
                 }
             ],
             "recommendations": {
-                "total": 49305
+                "total": 49344
             },
             "achievements": {
                 "total": 99,
@@ -324,6 +324,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nHoror\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 29322,
+                    "total_negative": 1709,
+                    "total_reviews": 31031
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236462308",
+                        "author": {
+                            "steamid": "76561198057954905",
+                            "num_reviews": 45,
+                            "playtime_forever": 4164,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 4164,
+                            "last_played": 1699602229
+                        },
+                        "language": "english",
+                        "review": "Still holds up after all these years. Rebirth can easily get overwhelming after all the new DLC, so it's nice to come back to this version every now and again.",
+                        "timestamp_created": 1790681710,
+                        "timestamp_updated": 1790681710,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6079397797584534,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFX11kAAAAB0joSGBw==",
+                "day_range_used": 30,
+                "total_matching": 89
             }
         }
     }

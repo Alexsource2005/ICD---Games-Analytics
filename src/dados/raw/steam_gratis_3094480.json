@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4199,
-                "final": 4199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 41,99"
+                "final": 1679,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 41,99",
+                "final_formatted": "R$ 16,79"
             },
             "packages": [
                 1099298
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 1099298,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-60% ",
                             "percent_savings": 0,
-                            "option_text": "Bad Cheese - R$ 41,99",
+                            "option_text": "Bad Cheese - <span class=\"discount_original_price\">R$ 41,99</span> R$ 16,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4199
+                            "price_in_cents_with_discount": 1679
                         }
                     ]
                 }
@@ -164,7 +164,7 @@
                 }
             ],
             "recommendations": {
-                "total": 616
+                "total": 633
             },
             "achievements": {
                 "total": 23,
@@ -292,6 +292,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 190,
+                    "total_negative": 96,
+                    "total_reviews": 286
+                },
+                "total_matching": 12,
+                "day_range_used": 30
             }
         }
     }

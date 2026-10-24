@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7990,
-                "final": 7990,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 79,90"
+                "final": 1598,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 79,90",
+                "final_formatted": "R$ 15,98"
             },
             "packages": [
                 17226,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 17226,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "Worms Revolution - R$ 79,90",
+                            "option_text": "Worms Revolution - <span class=\"discount_original_price\">R$ 79,90</span> R$ 15,98",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7990
+                            "price_in_cents_with_discount": 1598
                         },
                         {
                             "packageid": 17227,
@@ -209,7 +209,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5675
+                "total": 5674
             },
             "achievements": {
                 "total": 34,
@@ -326,6 +326,46 @@
                     "rating": "pg",
                     "descriptors": "Mild comedic violence, crude humour and coarse language, Gaming experience may change online"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3048,
+                    "total_negative": 602,
+                    "total_reviews": 3650
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236207620",
+                        "author": {
+                            "steamid": "76561198275175061",
+                            "num_reviews": 44,
+                            "playtime_forever": 21,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 21,
+                            "last_played": 1790397589
+                        },
+                        "language": "english",
+                        "review": "My buddy Gage Matthew Pearson and I love running up some WORMS REVOLUTIONNNNN after watching reels at our good buddy JDR's place. *sighs deeply* I love you guys...",
+                        "timestamp_created": 1790397649,
+                        "timestamp_updated": 1790397649,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.4761904776096344,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaeegAAAAB04IeFBw==",
+                "day_range_used": 30,
+                "total_matching": 4
             }
         }
     }

@@ -208,6 +208,18 @@
                     "use_age_gate": "true",
                     "required_age": "1"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 56,
+                    "total_negative": 6,
+                    "total_reviews": 62
+                },
+                "total_matching": 1,
+                "day_range_used": 30
             }
         }
     }

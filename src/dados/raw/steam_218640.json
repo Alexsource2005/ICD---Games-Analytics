@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Lucius",
             "steam_appid": 218640,
-            "required_age": 0,
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "When Lucius was born on the June 6th, 1966, nobody expected him to be anything other than a normal little boy but everything changed on Lucius’ 6th Birthday,<br>when his true calling was revealed to him.<br><br>Equipped with supernatural powers, take control of Lucius as he begins his blood filled tour of horror through his own house, using Hell’s powers of telekinesis and mind control to orchestrate deadly accidents that will minimize the population of the Dante Manor one by one by one.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li>Unique 3D horror adventure gaming experience<br></li><li>3D Open World<br></li><li>Cinematic Cut-scenes<br></li><li>Breathtaking Atmosphere and Stunning Visuals<br></li><li>Harness Supernatural Powers, including Telekinesis and Mind Control<br></li><li>Experience the terror of a classic tale from the horror movie genre </li></ul>",
@@ -30,12 +30,12 @@
                 "Shiver Games"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 1999,
-                "final": 1999,
+                "currency": "IDR",
+                "initial": 8999900,
+                "final": 8999900,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 19,99"
+                "final_formatted": "Rp 89 999"
             },
             "packages": [
                 35502,
@@ -55,21 +55,21 @@
                             "packageid": 35502,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Lucius - R$ 19,99",
+                            "option_text": "Lucius - Rp 89 999",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 8999900
                         },
                         {
                             "packageid": 66219,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Lucius Bundle - R$ 73,99",
+                            "option_text": "Lucius Bundle - Rp 206 999",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7399
+                            "price_in_cents_with_discount": 20699900
                         }
                     ]
                 }
@@ -166,7 +166,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7789
+                "total": 7797
             },
             "achievements": {
                 "total": 58,
@@ -326,6 +326,53 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nPenampilan Tokoh\nHoror"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3476,
+                    "total_negative": 856,
+                    "total_reviews": 4332
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236347164",
+                        "author": {
+                            "steamid": "76561198201786561",
+                            "num_reviews": 21,
+                            "playtime_forever": 398,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 385,
+                            "last_played": 1790648480
+                        },
+                        "language": "english",
+                        "review": "Fucking cool game. I don't care that it's old, it really hits the spot! Scary, unapologetic, and all-in on Satan.",
+                        "timestamp_created": 1790533047,
+                        "timestamp_updated": 1790533047,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5384615659713745,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 5 9600X 6-Core Processor             ",
+                            "adapter_description": "NVIDIA GeForce RTX 4060",
+                            "system_ram": "15447",
+                            "vram_size": 7956
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFZOxMAAAAB88cuFBw==",
+                "day_range_used": 30,
+                "total_matching": 18
             }
         }
     }

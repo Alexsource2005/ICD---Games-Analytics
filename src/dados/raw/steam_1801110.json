@@ -183,7 +183,7 @@
                 }
             ],
             "recommendations": {
-                "total": 10957
+                "total": 10992
             },
             "achievements": {
                 "total": 14,
@@ -305,6 +305,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 5705,
+                    "total_negative": 305,
+                    "total_reviews": 6010
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236272585",
+                        "author": {
+                            "steamid": "76561198885403235",
+                            "num_reviews": 7,
+                            "playtime_forever": 546,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 543,
+                            "last_played": 1790548339
+                        },
+                        "language": "english",
+                        "review": "This game is adorable... and also incredibly twisted. What is wrong with the developers? I hate how I was caught off guard by some aspects of it, but also loved the dynamic of seeing something completely different than your partner. We played a second time to experience everything from the opposite perspective and had just as much fun as the first time. I like how long it takes to finish the game. You can enjoy all the puzzles before they start getting repetitive and I think the price is fair for what I got. I recommend it for everyone to enjoy some quality time with a friend!",
+                        "timestamp_created": 1790457875,
+                        "timestamp_updated": 1790457875,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.5454545617103577,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZF0UAAAAB5vKeFBw==",
+                "day_range_used": 30,
+                "total_matching": 47
             }
         }
     }

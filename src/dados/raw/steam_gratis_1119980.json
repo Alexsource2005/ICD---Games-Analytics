@@ -16,7 +16,18 @@
             "about_the_game": "As you awake in the corridors of an inexplicable building, you find the environment takes on a life of its own and leads you to discover a series of victims, all exposed to the same experimental chemical. In your search for answers, bizarre visions emerge and introduce a host of imposing horrors…and a cat named Tonia.<br><br>From the creators of the cult classic Nightmare House 2 comes In Sound Mind, a witty first-person psychological horror with frenetic puzzles and unique boss fights. Traverse a series of unsettling memories as you journey within the inner workings of the one place you can’t seem to escape—your own mind.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119980/extras/61324cfda7532f5445d15d22e6df1d40.avif?t=1788793144\" width=600 height=110 /></span><br><ul class=\"bb_ul\"><li><strong>A new survival horror experience from the creators of the legendary Nightmare House 2.</strong> We Create Stuff, the team behind one of highest-rated mods of all time returns with an unexpected spin on the horror genre.<br></li><li><strong>Experience a series of haunting memories.</strong> Journey through a progression of unsettling stories, each with unique puzzles, mechanics, weapons, and boss fights.<br></li><li><strong>Overcome a cast of terrors.</strong> Confront those who stalk you in a series of daunting boss fights and learn how to defeat them by solving mind-bending puzzles.<br></li><li><strong>An eerie soundtrack by The Living Tombstone.</strong> The internet icon lends his distinct sound to this next generation psychological thriller, with a distinctive song for each story.<br></li><li><strong>Unexpect the expected.</strong> Explore an imaginative and disorienting narrative, featuring sentient mannequins, a feline companion, and much more. And yes, you can pet the cat.</li></ul>",
             "short_description": "In Sound Mind is an imaginative first-person psychological horror with frenetic puzzles, unique boss fights, and original music by The Living Tombstone. Journey within the inner workings of the one place you can’t seem to escape—your own mind.",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Easily the best psychological horror game I’ve ever reviewed”<br>10/10 – Gamer Escape<br><br>“One of the year's best adventure games”<br>9/10 – PC Invasion<br><br>“A fantastic single-player horror game”<br>4/5 – Screen Rant<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3927,
+                    "total_negative": 207,
+                    "total_reviews": 4134
+                },
+                "total_matching": 40,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119980/211a4f40dcace3cd1ecb94337b66f342e05196cf/header.jpg?t=1788793144",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119980/64cccaa8ad23e46baa29eb810d80c36df7e89780/capsule_231x87.jpg?t=1788793144",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119980/64cccaa8ad23e46baa29eb810d80c36df7e89780/capsule_184x69.jpg?t=1788793144",
@@ -37,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4999,
-                "final": 4999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 49,99"
+                "final": 499,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 49,99",
+                "final_formatted": "R$ 4,99"
             },
             "packages": [
                 637310
@@ -57,13 +68,13 @@
                     "subs": [
                         {
                             "packageid": 637310,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-90% ",
                             "percent_savings": 0,
-                            "option_text": "In Sound Mind - R$ 49,99",
+                            "option_text": "In Sound Mind - <span class=\"discount_original_price\">R$ 49,99</span> R$ 4,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -205,7 +216,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5517
+                "total": 5536
             },
             "achievements": {
                 "total": 32,

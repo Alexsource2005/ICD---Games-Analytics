@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Hotline Miami",
             "steam_appid": 219150,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -15,7 +15,46 @@
             "about_the_game": "<strong>Hotline Miami</strong> is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you'll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence.<br><br>Rely on your wits to choreograph your way through seemingly impossible situations as you constantly find yourself outnumbered by vicious enemies. The action is unrelenting and every shot is deadly so each move must be quick and decisive if you hope to survive and unveil the sinister forces driving the bloodshed. Hotline Miami’s unmistakable visual style, a driving soundtrack, and a surreal chain of events will have you question your own thirst for blood while pushing you to the limits with a brutally unforgiving challenge.",
             "short_description": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat.",
             "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Polish",
-            "reviews": "“Hotline Miami is an immaculate super-violent top-down action game.”<br>10/10 – Eurogamer<br><br>“You could argue that HOTLINE MIAMI is brilliant, vital, a tactical and aesthetic masterpiece as well as a pixel-art odyssey of ice-cold violence. It is.”<br>Rock Paper Shotgun<br><br>“It's a game time-traveled in directly from the fear-center of Tipper Gore's brain, circa 1989. It's pure, unadulterated nihilism with a candy-coated shell. And I'll be damned if it isn't one of the most intoxicating games of this year.”<br>5/5 – Giant Bomb<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 49839,
+                    "total_negative": 1890,
+                    "total_reviews": 51729
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236455181",
+                        "author": {
+                            "steamid": "76561197983990340",
+                            "num_reviews": 98,
+                            "playtime_forever": 502,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 502,
+                            "last_played": 1781619272
+                        },
+                        "language": "english",
+                        "review": "\"Do you like hurting other people?\" You probably like hurting yourself more given how hard this game is, but it sounds and looks good, so I guess it's a cool way to express your masochism.",
+                        "timestamp_created": 1790671942,
+                        "timestamp_updated": 1790672083,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 4,
+                        "weighted_vote_score": 0.6094527244567871,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXz5mAAAAB90ICGBw==",
+                "day_range_used": 30,
+                "total_matching": 386
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg?t=1785434922",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/capsule_231x87.jpg?t=1785434922",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/capsule_184x69.jpg?t=1785434922",
@@ -39,12 +78,12 @@
                 "Devolver Digital"
             ],
             "price_overview": {
-                "currency": "CAD",
-                "initial": 1299,
-                "final": 1299,
+                "currency": "BRL",
+                "initial": 3299,
+                "final": 3299,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "CDN$ 12.99"
+                "final_formatted": "R$ 32,99"
             },
             "packages": [
                 17111
@@ -63,11 +102,11 @@
                             "packageid": 17111,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Hotline Miami - CDN$ 12.99",
+                            "option_text": "Hotline Miami - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
+                            "price_in_cents_with_discount": 3299
                         }
                     ]
                 }
@@ -169,7 +208,7 @@
                 }
             ],
             "recommendations": {
-                "total": 110149
+                "total": 110661
             },
             "achievements": {
                 "total": 35,

@@ -247,7 +247,7 @@
                 }
             ],
             "recommendations": {
-                "total": 13589
+                "total": 13607
             },
             "achievements": {
                 "total": 12,
@@ -373,6 +373,53 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 5510,
+                    "total_negative": 548,
+                    "total_reviews": 6058
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237226299",
+                        "author": {
+                            "steamid": "76561198023360618",
+                            "num_reviews": 3,
+                            "playtime_forever": 592,
+                            "playtime_last_two_weeks": 346,
+                            "playtime_at_review": 246,
+                            "last_played": 1792669196
+                        },
+                        "language": "english",
+                        "review": "Do not get if you plan to play with players in other countries. Dev forgot what optimization means, and you are guaranteed to have lag issues. They have yet to fix anything so I will not get anything else from this dev. Played this in October 2026.",
+                        "timestamp_created": 1791484752,
+                        "timestamp_updated": 1791484752,
+                        "voted_up": false,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5777351260185242,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "12th Gen Intel(R) Core(TM) i7-12700K",
+                            "adapter_description": "NVIDIA GeForce RTX 3080 Ti",
+                            "system_ram": "65273",
+                            "vram_size": 12086
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFZcf8AAAAB7k/mIBw==",
+                "day_range_used": 30,
+                "total_matching": 22
             }
         }
     }

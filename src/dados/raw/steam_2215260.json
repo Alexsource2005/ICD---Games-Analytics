@@ -200,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3290
+                "total": 3297
             },
             "achievements": {
                 "total": 19,
@@ -353,6 +353,47 @@
                     "use_age_gate": "0",
                     "descriptors": "Penampilan Tokoh\nKekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 1338,
+                    "total_negative": 593,
+                    "total_reviews": 1931
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237805314",
+                        "author": {
+                            "steamid": "76561198276086008",
+                            "num_reviews": 76,
+                            "playtime_forever": 45,
+                            "playtime_last_two_weeks": 30,
+                            "playtime_at_review": 45,
+                            "deck_playtime_at_review": 45,
+                            "last_played": 1792096373
+                        },
+                        "language": "english",
+                        "review": "This has to be the biggest disappointment I have ever played!\n\nPainful startup, requiring you to Install Ubisoft Connect where it took about 15 minutes to start with no indicator that anything is downloading.\n\nThe controls are so heavy and tanky that going up and down is a nightmare to deal with, very stiff and awkward, makes the game unnecessarily difficult for no reason.\n\nKnocking enemies down and then waiting for them to get back up drags out the combat WAY longer than it should be, makes fighting feel like a chore.\n\nI was super excited to play Scott Pilgrim and relive the movie, but the whole thing felt like a waste of time.",
+                        "timestamp_created": 1792098874,
+                        "timestamp_updated": 1792098874,
+                        "voted_up": false,
+                        "votes_up": 6,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.540397584438324,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": true,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZMSmAAAABy8JOLBw==",
+                "day_range_used": 30,
+                "total_matching": 14
             }
         }
     }

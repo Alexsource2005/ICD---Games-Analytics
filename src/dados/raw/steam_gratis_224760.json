@@ -15,7 +15,18 @@
             "about_the_game": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
             "short_description": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives.",
             "supported_languages": "English, German, French, Italian, Korean, Spanish - Spain, Traditional Chinese, Japanese, Portuguese - Portugal",
-            "reviews": "&quot;Fez is joyful. [...] There's a lot to be said for a game that can make a grown woman squeal with glee dozens of times in a playthrough (especially a game that doesn't star Hello Kitty). In short, the long wait for Fez is entirely worth it. Play it, and I dare you not to smile.&quot;<br>100% – Joystiq<br><br>&quot;The game's unique artwork, its perspective-shift mechanic, its nostalgia for the 16-bit years and its bewitchingly strange setting all exist in total harmony and make a single, deliberate statement.&quot;<br> 10/10 – Eurogamer<br><br>&quot;The sum of Fez’s intelligent level designs, perception mechanic, massive number of stages and secrets, and incredible art is so much more than just a shout-out to old-school gaming. Fez is a game in love with games.&quot;<br>9.5/10 – ",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 8315,
+                    "total_negative": 859,
+                    "total_reviews": 9174
+                },
+                "total_matching": 36,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224760/header.jpg?t=1572375251",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224760/capsule_231x87.jpg?t=1572375251",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224760/capsule_184x69.jpg?t=1572375251",
@@ -37,12 +48,12 @@
                 "Trapdoor"
             ],
             "price_overview": {
-                "currency": "HKD",
-                "initial": 7500,
-                "final": 7500,
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "HK$ 75.00"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 27186
@@ -61,11 +72,11 @@
                             "packageid": 27186,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "FEZ - HK$ 75.00",
+                            "option_text": "FEZ - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7500
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -187,10 +198,19 @@
                     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/224760/10766/ffa296a8dc18b1a7143e3e56751531c4f883173b/1750481971/dash_h264.mpd?t=1447357523",
                     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/224760/10766/ffa296a8dc18b1a7143e3e56751531c4f883173b/1750481971/hls_264_master.m3u8?t=1447357523",
                     "highlight": false
+                },
+                {
+                    "id": 2028481,
+                    "name": "Fez Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028481/movie.293x165.jpg?t=1447357646",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/224760/11010/fc65fe7c667a563e0731d5002a0c4a5d00b9955e/1750481977/dash_av1.mpd?t=1447357646",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/224760/11010/fc65fe7c667a563e0731d5002a0c4a5d00b9955e/1750481977/dash_h264.mpd?t=1447357646",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/224760/11010/fc65fe7c667a563e0731d5002a0c4a5d00b9955e/1750481977/hls_264_master.m3u8?t=1447357646",
+                    "highlight": false
                 }
             ],
             "recommendations": {
-                "total": 11709
+                "total": 11736
             },
             "achievements": {
                 "total": 12,

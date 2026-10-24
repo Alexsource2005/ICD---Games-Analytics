@@ -263,7 +263,7 @@
                 }
             ],
             "recommendations": {
-                "total": 342653
+                "total": 343201
             },
             "achievements": {
                 "total": 17,
@@ -408,6 +408,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nPenggunaan bahasa\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 203764,
+                    "total_negative": 6449,
+                    "total_reviews": 210213
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236626593",
+                        "author": {
+                            "steamid": "76561199101212869",
+                            "num_reviews": 358,
+                            "playtime_forever": 6295,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 2298,
+                            "last_played": 1791577251
+                        },
+                        "language": "english",
+                        "review": "The Good:\n\nFor the most part, the monsters are creepy enough to give you goosebumps. And the deeper you go, the creepier they become. Just when you think you’ve discovered everything, there are always more mysterious and unsettling species waiting out there. If you enjoy triggering your Thalassophobia, whether you actually have it or not, this game is definitely worth playing. On top of that, if you enjoy building your own base and having a personal submarine that you can customize and decorate, this game is absolutely for you.\n\nThe Bad:\n\nThis is a slow-burn game. And I mean really, really slow. You’re not going to fly through the ocean and constantly enjoy the beauty of the underwater world. \n\nInstead, you’ll often find yourself simply holding 'W' to move forward for 2-3 minutes without doing much else.; just imagine that. I’ve literally played on my phone while keeping my finger on 'W' because the map is huge, but the movement speed is painfully slow. So, if you’re the kind of person who gets bored easily or has a hard time sitting through slow-paced gameplay, this can be a pretty major downside.",
+                        "timestamp_created": 1790868483,
+                        "timestamp_updated": 1790868483,
+                        "voted_up": true,
+                        "votes_up": 22,
+                        "votes_funny": 4,
+                        "weighted_vote_score": 0.6859983801841736,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFWR7CAAAABxqtSGBw==",
+                "day_range_used": 30,
+                "total_matching": 865
             }
         }
     }

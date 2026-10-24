@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1659,
-                "final": 912,
-                "discount_percent": 45,
-                "initial_formatted": "R$ 16,59",
-                "final_formatted": "R$ 9,12"
+                "final": 1659,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 16,59"
             },
             "packages": [
                 352405
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 352405,
-                            "percent_savings_text": "-45% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "A Short Hike - <span class=\"discount_original_price\">R$ 16,59</span> R$ 9,12",
+                            "option_text": "A Short Hike - R$ 16,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 912
+                            "price_in_cents_with_discount": 1659
                         }
                     ]
                 }
@@ -179,7 +179,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19372
+                "total": 19468
             },
             "achievements": {
                 "total": 12,
@@ -296,6 +296,18 @@
                 "dejus": {
                     "rating": "l"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 15068,
+                    "total_negative": 132,
+                    "total_reviews": 15200
+                },
+                "total_matching": 138,
+                "day_range_used": 30
             }
         }
     }

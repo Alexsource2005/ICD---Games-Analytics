@@ -44,12 +44,12 @@
                 "Nicalis, Inc."
             ],
             "price_overview": {
-                "currency": "GBP",
-                "initial": 1099,
-                "final": 1099,
+                "currency": "VND",
+                "initial": 16500000,
+                "final": 16500000,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "£10.99"
+                "final_formatted": "165.000₫"
             },
             "packages": [
                 56355
@@ -68,11 +68,11 @@
                             "packageid": 56355,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Binding of Isaac: Rebirth - £10.99",
+                            "option_text": "The Binding of Isaac: Rebirth - 165.000₫",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1099
+                            "price_in_cents_with_discount": 16500000
                         }
                     ]
                 }
@@ -204,7 +204,7 @@
                 }
             ],
             "recommendations": {
-                "total": 420642
+                "total": 423071
             },
             "achievements": {
                 "total": 641,
@@ -350,6 +350,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nHoror\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 177897,
+                    "total_negative": 5648,
+                    "total_reviews": 183545
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236488086",
+                        "author": {
+                            "steamid": "76561199220765350",
+                            "num_reviews": 1,
+                            "playtime_forever": 14116,
+                            "playtime_last_two_weeks": 13,
+                            "playtime_at_review": 14093,
+                            "last_played": 1792242174
+                        },
+                        "language": "english",
+                        "review": "first game to my knowelege where you can trigger a pc melting nuclear chain reaction by crying\nplus you can have lightsaber wielding demonic fetuses pop out of your stomach",
+                        "timestamp_created": 1790704634,
+                        "timestamp_updated": 1790704634,
+                        "voted_up": true,
+                        "votes_up": 20,
+                        "votes_funny": 10,
+                        "weighted_vote_score": 0.7285068035125732,
+                        "comment_count": 1,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVbguAAAAB22ZCGBw==",
+                "day_range_used": 30,
+                "total_matching": 2812
             }
         }
     }

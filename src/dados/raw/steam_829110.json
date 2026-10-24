@@ -219,7 +219,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5814
+                "total": 5845
             },
             "achievements": {
                 "total": 75,
@@ -358,6 +358,46 @@
                 "crl": {
                     "rating": "6"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3246,
+                    "total_negative": 346,
+                    "total_reviews": 3592
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237554376",
+                        "author": {
+                            "steamid": "76561198411654425",
+                            "num_reviews": 10,
+                            "playtime_forever": 1708,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1708,
+                            "last_played": 1781578330
+                        },
+                        "language": "english",
+                        "review": "LEGO DC Super-Villains Review: 9/10\n\nCustom Character: One of my favorite parts of the game was how the story revolved around your custom character. Instead of being a side feature, creating your own villain actually felt meaningful to the story, which was a really cool concept.\n\nStory & Gameplay: Overall, this was one of my favorite LEGO games. Playing as villains instead of the usual heroes made the story feel fresh, and the game was fun enough to keep me hooked throughout the experience.\n\nOpen World & 100% Completion: The biggest downside is how grindy the open world gets. Some of the challenges were difficult to figure out, and honestly, I never would have 100% completed the game without guides. The amount of cleanup required eventually becomes tedious.\n\nDespite the grindy open world, LEGO DC Super-Villains is one of my favorite LEGO games. The custom character mechanic and story are fantastic, and the tedious completion requirements are really my only major complaint. 9/10",
+                        "timestamp_created": 1791820677,
+                        "timestamp_updated": 1791820677,
+                        "voted_up": true,
+                        "votes_up": 6,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6000000238418579,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYAAAAAAAB4rJmKBw==",
+                "day_range_used": 30,
+                "total_matching": 32
             }
         }
     }

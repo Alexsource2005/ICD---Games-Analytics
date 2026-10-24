@@ -194,7 +194,7 @@
                 }
             ],
             "recommendations": {
-                "total": 229805
+                "total": 231226
             },
             "achievements": {
                 "total": 48,
@@ -340,6 +340,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 66263,
+                    "total_negative": 3283,
+                    "total_reviews": 69546
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236428397",
+                        "author": {
+                            "steamid": "76561198119350390",
+                            "num_reviews": 86,
+                            "playtime_forever": 626,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 626,
+                            "last_played": 1790566945
+                        },
+                        "language": "english",
+                        "review": "The only game where you get to play as a queer autistic detective, found family mother, and Martin Luther King all back-to-back",
+                        "timestamp_created": 1790631771,
+                        "timestamp_updated": 1790631771,
+                        "voted_up": true,
+                        "votes_up": 74,
+                        "votes_funny": 44,
+                        "weighted_vote_score": 0.7672011256217957,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUp+6AAAAB9xvOFBw==",
+                "day_range_used": 30,
+                "total_matching": 1477
             }
         }
     }

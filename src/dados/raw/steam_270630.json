@@ -15,7 +15,46 @@
             "about_the_game": "A side-scrolling action puzzle game starring ghosts! <br><br>...What was that sound? Is somebody there? <br><br>Leave the dusty halls of an abandoned clock tower to haunt your way through a town in the dead of night! Possess objects with your ghostly soul, to scare people away from a museum, a hospital, a theatre and a cruise ship. Will you be able to scare everyone out and reclaim what has been lost, before the night is over? <br><br><u>Features</u><br><ul class=\"bb_ul\"><li>Three free expansions added since launch! Ghost Train, Mansion House and The North Pole!<br></li><li>A vibrant town with 5 locations to visit, each with it's own musical style and unique objects <br></li><li>Hundreds of different objects to possess, with several surprising powers each to try <br></li><li>A beautiful original score featuring world-class live session musicians <br></li><li>A large cast of townfolk, each with a personality, voice and sense of style <br></li><li>A secret second goal beyond simply scaring everyone out of town...</li></ul>",
             "short_description": "Haunt your way through town in the dead of night! Possess objects to scare people away from a museum, a hospital, a theatre and a cruise ship. Will you be able to scare everyone out and reclaim what has been lost, before the night is over? A side-scrolling action puzzle game starring ghosts!",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“Honestly I fell in love with the concept behind Haunt the House the moment I heard about it.”<br>4/5 – PSNStores<br><br>“The visuals are gorgeous, with a unique style which is both cute and creepy at the same time. The audio is also impressive, boasting effective spot effects and some genuinely amusing sounds.”<br>7/10 – Pocket Gamer<br><br>“There's a surprisingly dark heart beating away inside this cheery little Halloween special. There's a genuine sense of mischief, too, conveyed by the bug-eyed howls of your prey and the looping, lilting tones of the jazz-club soundtrack.”<br>8/10 – Eurogamer<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1099,
+                    "total_negative": 192,
+                    "total_reviews": 1291
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236239100",
+                        "author": {
+                            "steamid": "76561198342261923",
+                            "num_reviews": 258,
+                            "playtime_forever": 395,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 395,
+                            "last_played": 1790430925
+                        },
+                        "language": "english",
+                        "review": "As you already know from other reviews, the original level loves to crash every 5~ minutes. However, i managed to play through it without any issues after i loaded prior to playing another level before it (i don't know if you have to complete though, i didn't test it). I don't know if this helps the game in some capacity but you managed to get pass this annoying issue the game is worth it. Even if you don't manage to load it without issues, for 40 cents you can play the other levels they made which are newer and better. You don't miss much for not playing the first level other some nostalgia i guess.",
+                        "timestamp_created": 1790431260,
+                        "timestamp_updated": 1790431260,
+                        "voted_up": true,
+                        "votes_up": 9,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6444033980369568,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXHKgAAAAB8j5eFBw==",
+                "day_range_used": 30,
+                "total_matching": 15
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270630/header.jpg?t=1771613586",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270630/capsule_231x87.jpg?t=1771613586",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270630/capsule_184x69.jpg?t=1771613586",
@@ -37,10 +76,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 339,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 16,99",
-                "final_formatted": "R$ 3,39"
+                "final": 1699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 16,99"
             },
             "packages": [
                 87301,
@@ -58,23 +97,23 @@
                     "subs": [
                         {
                             "packageid": 87301,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Haunt the House: Terrortown - <span class=\"discount_original_price\">R$ 16,99</span> R$ 3,39",
+                            "option_text": "Haunt the House: Terrortown - R$ 16,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 339
+                            "price_in_cents_with_discount": 1699
                         },
                         {
                             "packageid": 35917,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Haunt the House: Terrortown - Soundtrack Edition - <span class=\"discount_original_price\">R$ 23,50</span> R$ 4,70",
+                            "option_text": "Haunt the House: Terrortown - Soundtrack Edition - R$ 23,50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 470
+                            "price_in_cents_with_discount": 2350
                         }
                     ]
                 }
@@ -192,7 +231,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2214
+                "total": 2229
             },
             "achievements": {
                 "total": 25,

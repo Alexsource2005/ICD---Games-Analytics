@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3599,
-                "final": 3599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 35,99"
+                "final": 827,
+                "discount_percent": 77,
+                "initial_formatted": "R$ 35,99",
+                "final_formatted": "R$ 8,27"
             },
             "packages": [
                 354706
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 354706,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-77% ",
                             "percent_savings": 0,
-                            "option_text": "Jump King - R$ 35,99",
+                            "option_text": "Jump King - <span class=\"discount_original_price\">R$ 35,99</span> R$ 8,27",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3599
+                            "price_in_cents_with_discount": 827
                         }
                     ]
                 }
@@ -183,7 +183,7 @@
                 }
             ],
             "recommendations": {
-                "total": 12401
+                "total": 12410
             },
             "achievements": {
                 "total": 48,
@@ -304,6 +304,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 5046,
+                    "total_negative": 536,
+                    "total_reviews": 5582
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236338906",
+                        "author": {
+                            "steamid": "76561198131255650",
+                            "num_reviews": 3,
+                            "playtime_forever": 4681,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 4257,
+                            "last_played": 1790634053
+                        },
+                        "language": "english",
+                        "review": "Fun game, if I had an airsoft I would shoot my 2 balls rn but still fun",
+                        "timestamp_created": 1790526785,
+                        "timestamp_updated": 1790526785,
+                        "voted_up": true,
+                        "votes_up": 13,
+                        "votes_funny": 10,
+                        "weighted_vote_score": 0.6609328985214233,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFWyAYAAAAB67ceFBw==",
+                "day_range_used": 30,
+                "total_matching": 31
             }
         }
     }

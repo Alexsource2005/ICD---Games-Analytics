@@ -30,12 +30,12 @@
                 "Mazen Games"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 16,99"
+                "currency": "HKD",
+                "initial": 3300,
+                "final": 528,
+                "discount_percent": 84,
+                "initial_formatted": "HK$ 33.00",
+                "final_formatted": "HK$ 5.28"
             },
             "packages": [
                 271869
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 271869,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-84% ",
                             "percent_savings": 0,
-                            "option_text": "OneShift - R$ 16,99",
+                            "option_text": "OneShift - <span class=\"discount_original_price\">HK$ 33.00</span> HK$ 5.28",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 528
                         }
                     ]
                 }
@@ -299,6 +299,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 281,
+                    "total_negative": 101,
+                    "total_reviews": 382
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238415838",
+                        "author": {
+                            "steamid": "76561198066184606",
+                            "num_reviews": 147,
+                            "playtime_forever": 159,
+                            "playtime_last_two_weeks": 159,
+                            "playtime_at_review": 159,
+                            "last_played": 1792799639
+                        },
+                        "language": "english",
+                        "review": "I would dare say this is a hidden gem, puzzle/platformer but you shift the surroundings to help you solve the puzzle, and later on rotate said obstacles to help you pass the level, It was surprisingly fun, I did not expect it. Also an easy achievement getter, you get an achievement for each stage passed 80 in total (81 if you pass all the bonus ones, bonus stage 8 was boring as hell though). \n\n7.5/10 Did not expect it to be that fun",
+                        "timestamp_created": 1792800273,
+                        "timestamp_updated": 1792800273,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB+/b2NBw==",
+                "day_range_used": 30,
+                "total_matching": 5
             }
         }
     }

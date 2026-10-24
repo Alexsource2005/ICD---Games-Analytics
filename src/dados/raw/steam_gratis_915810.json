@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7909,
-                "final": 7909,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 79,09"
+                "final": 1977,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 79,09",
+                "final_formatted": "R$ 19,77"
             },
             "packages": [
                 293984
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 293984,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "Midnight Ghost Hunt - R$ 79,09",
+                            "option_text": "Midnight Ghost Hunt - <span class=\"discount_original_price\">R$ 79,09</span> R$ 19,77",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7909
+                            "price_in_cents_with_discount": 1977
                         }
                     ]
                 }
@@ -243,7 +243,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5420
+                "total": 5418
             },
             "achievements": {
                 "total": 42,
@@ -367,6 +367,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 3498,
+                    "total_negative": 1006,
+                    "total_reviews": 4504
+                },
+                "total_matching": 1,
+                "day_range_used": 30
             }
         }
     }

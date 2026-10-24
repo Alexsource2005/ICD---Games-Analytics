@@ -63,12 +63,12 @@
                 "WB Games"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 8999,
-                "final": 8999,
+                "currency": "EUR",
+                "initial": 1999,
+                "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 89,99"
+                "final_formatted": "19,99€"
             },
             "packages": [
                 85499,
@@ -89,31 +89,31 @@
                             "packageid": 85499,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Batman™: Arkham Knight - R$ 89,99",
+                            "option_text": "Batman™: Arkham Knight - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 85500,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Batman: Arkham Knight Premium Edition - R$ 179,99",
+                            "option_text": "Batman: Arkham Knight Premium Edition - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 17999
+                            "price_in_cents_with_discount": 3999
                         },
                         {
                             "packageid": 320795,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Batman: Arkham Collection - R$ 279,99",
+                            "option_text": "Batman: Arkham Collection - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 27999
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -253,7 +253,7 @@
                 }
             ],
             "recommendations": {
-                "total": 111825
+                "total": 112257
             },
             "achievements": {
                 "total": 113,
@@ -412,6 +412,18 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 66732,
+                    "total_negative": 9122,
+                    "total_reviews": 75854
+                },
+                "total_matching": 673,
+                "day_range_used": 30
             }
         }
     }

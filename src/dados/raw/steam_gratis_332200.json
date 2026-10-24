@@ -15,7 +15,18 @@
             "about_the_game": "This is the action-adventure you’ve been waiting decades for.  After a lab accident, a scientist awakens in a mysterious, alien world.  Is this a distant planet?  The far future?  Or a complex virtual-reality computer simulation?<br />\r\n<br />\r\nPlumb the recesses of a large, labyrinthine world in order to learn its secrets and uncover your role within it.<br />\r\n<br />\r\nDiscover tons of weapons, items, and abilities, each with their own unique behaviors and usage.  You’ll need your wits to find them all.<br />\r\n<br />\r\nCombat bizarre biomechanoid constructs, the deadly fallout of an ancient war, and the demons of your own psyche.<br />\r\n<br />\r\nAnd finally, break the game itself by using glitches to corrupt foes and solve puzzles in the environment.<br />\r\n<br />\r\nLife. Afterlife. Real. Virtual. Dream. Nightmare. It's a thin line.<br />\r\n<br />\r\nIt's Axiom Verge.",
             "short_description": "Explore and uncover the mystery of a surreal alien world by blasting aliens and glitching your environment in this intense retro side-scrolling action/adventure.",
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese",
-            "reviews": "“You think you know how Axiom Verge will play out. But you don't.”<br>5/5 Stars – Giant Bomb<br><br>“...simply one of the best games I've played in years.”<br>5/5 Stars – US Gamer<br><br>“Tom Happ has created a stunning love letter to Nintendo’s classic without being a slave to its conventions.”<br>9.25 – Game Informer<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 4277,
+                    "total_negative": 470,
+                    "total_reviews": 4747
+                },
+                "total_matching": 15,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/header.jpg?t=1645563574",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/capsule_231x87.jpg?t=1645563574",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/capsule_184x69.jpg?t=1645563574",
@@ -39,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3699,
-                "final": 3699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 36,99"
+                "final": 924,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 36,99",
+                "final_formatted": "R$ 9,24"
             },
             "packages": [
                 54210,
@@ -60,23 +71,23 @@
                     "subs": [
                         {
                             "packageid": 54210,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "Axiom Verge - R$ 36,99",
+                            "option_text": "Axiom Verge - <span class=\"discount_original_price\">R$ 36,99</span> R$ 9,24",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3699
+                            "price_in_cents_with_discount": 924
                         },
                         {
                             "packageid": 70162,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "Axiom Verge + Soundtrack - R$ 45,99",
+                            "option_text": "Axiom Verge + Soundtrack - <span class=\"discount_original_price\">R$ 45,99</span> R$ 11,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4599
+                            "price_in_cents_with_discount": 1149
                         }
                     ]
                 }
@@ -226,7 +237,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5858
+                "total": 5866
             },
             "achievements": {
                 "total": 29,

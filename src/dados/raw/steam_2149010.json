@@ -133,7 +133,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3089
+                "total": 3132
             },
             "achievements": {
                 "total": 22,
@@ -288,6 +288,53 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1355,
+                    "total_negative": 101,
+                    "total_reviews": 1456
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236971586",
+                        "author": {
+                            "steamid": "76561199026195605",
+                            "num_reviews": 810,
+                            "playtime_forever": 488,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 488,
+                            "last_played": 1767895739
+                        },
+                        "language": "english",
+                        "review": "Little Nightmares is a creepy and atmospheric game that keeps you on edge. The improved graphics and sound make the scary moments even better. If you like horror games without too many cheap jump scares, it's definitely worth playing.",
+                        "timestamp_created": 1791209826,
+                        "timestamp_updated": 1791209826,
+                        "voted_up": true,
+                        "votes_up": 9,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.6324372291564941,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 7800X3D 8-Core Processor           ",
+                            "adapter_description": "NVIDIA GeForce RTX 4070 Ti SUPER",
+                            "system_ram": "32400",
+                            "vram_size": 16061
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFXWewAAAABy5PyHBw==",
+                "day_range_used": 30,
+                "total_matching": 84
             }
         }
     }

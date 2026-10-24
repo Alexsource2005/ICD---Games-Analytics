@@ -48,12 +48,12 @@
                 "PlayWay S.A."
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 7399,
-                "final": 7399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 73,99"
+                "currency": "PLN",
+                "initial": 9999,
+                "final": 799,
+                "discount_percent": 92,
+                "initial_formatted": "99,99 zł",
+                "final_formatted": "7,99 zł"
             },
             "packages": [
                 164154
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 164154,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-92% ",
                             "percent_savings": 0,
-                            "option_text": "House Flipper - R$ 73,99",
+                            "option_text": "House Flipper - <span class=\"discount_original_price\">99,99 zł</span> 7,99 zł",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7399
+                            "price_in_cents_with_discount": 799
                         }
                     ]
                 }
@@ -277,7 +277,7 @@
                 }
             ],
             "recommendations": {
-                "total": 92599
+                "total": 92673
             },
             "achievements": {
                 "total": 96,
@@ -404,6 +404,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 50495,
+                    "total_negative": 3112,
+                    "total_reviews": 53607
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236374807",
+                        "author": {
+                            "steamid": "76561199003751951",
+                            "num_reviews": 387,
+                            "playtime_forever": 1810,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1810,
+                            "last_played": 1782229415
+                        },
+                        "language": "english",
+                        "review": "must-play for gen Z, because we will never actually get to renovate our own homes in real life (no one can afford one)\n",
+                        "timestamp_created": 1790562876,
+                        "timestamp_updated": 1790562876,
+                        "voted_up": true,
+                        "votes_up": 69,
+                        "votes_funny": 75,
+                        "weighted_vote_score": 0.8514962792396545,
+                        "comment_count": 3,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFT+FcAAAAB3sdmFBw==",
+                "day_range_used": 30,
+                "total_matching": 182
             }
         }
     }

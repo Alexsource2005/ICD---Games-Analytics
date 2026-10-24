@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 6399,
-                "final": 959,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 63,99",
-                "final_formatted": "R$ 9,59"
+                "final": 6399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 63,99"
             },
             "packages": [
                 44675
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 44675,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Homeworld Remastered Collection - <span class=\"discount_original_price\">R$ 63,99</span> R$ 9,59",
+                            "option_text": "Homeworld Remastered Collection - R$ 63,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 959
+                            "price_in_cents_with_discount": 6399
                         }
                     ]
                 }
@@ -240,6 +240,15 @@
                     "highlight": true
                 },
                 {
+                    "id": 256660507,
+                    "name": "Homeworld 2 Remastered Collection Story Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660507/movie.293x165.jpg?t=1454704954",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/244160/51704/fa467970621a620a05734107392e12cfe07dc34a/1751248583/dash_av1.mpd?t=1454704954",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/244160/51704/fa467970621a620a05734107392e12cfe07dc34a/1751248583/dash_h264.mpd?t=1454704954",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/244160/51704/fa467970621a620a05734107392e12cfe07dc34a/1751248583/hls_264_master.m3u8?t=1454704954",
+                    "highlight": true
+                },
+                {
                     "id": 2036765,
                     "name": "Homeworld Remastered Collection",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036765/movie.293x165.jpg?t=1447368011",
@@ -250,7 +259,7 @@
                 }
             ],
             "recommendations": {
-                "total": 11997
+                "total": 12003
             },
             "achievements": {
                 "total": 34,
@@ -385,6 +394,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 7925,
+                    "total_negative": 1194,
+                    "total_reviews": 9119
+                },
+                "total_matching": 15,
+                "day_range_used": 30
             }
         }
     }

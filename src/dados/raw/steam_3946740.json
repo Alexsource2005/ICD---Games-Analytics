@@ -321,6 +321,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 7,
+                    "review_score_desc": "Positive",
+                    "total_positive": 44,
+                    "total_negative": 0,
+                    "total_reviews": 44
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236586314",
+                        "author": {
+                            "steamid": "76561197996299268",
+                            "num_reviews": 17,
+                            "playtime_forever": 133,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 133,
+                            "last_played": 1790071852
+                        },
+                        "language": "english",
+                        "review": "Originally played this game back when I was in high school, a little over 10 years ago from today. Still holds up as a very cute and charming game. Butterscotch is the G.O.A.T!",
+                        "timestamp_created": 1790815898,
+                        "timestamp_updated": 1790967951,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB61MCGBw==",
+                "day_range_used": 30,
+                "total_matching": 1
             }
         }
     }

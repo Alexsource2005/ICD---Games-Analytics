@@ -296,6 +296,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 262,
+                    "total_negative": 208,
+                    "total_reviews": 470
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237418958",
+                        "author": {
+                            "steamid": "76561198358507507",
+                            "num_reviews": 123,
+                            "playtime_forever": 51,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 51,
+                            "last_played": 1749836726
+                        },
+                        "language": "english",
+                        "review": "It was super fun until my friend got ragebaited by some bees and quit the game\n\n",
+                        "timestamp_created": 1791676705,
+                        "timestamp_updated": 1791676705,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": true,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB+nNeJBw==",
+                "day_range_used": 30,
+                "total_matching": 5
             }
         }
     }

@@ -7,6 +7,8 @@ import requests
 
 os.makedirs("dados/raw", exist_ok=True)
 
+
+
 url = "https://www.nerdmaldito.com/2020/05/lista-com-todos-os-jogos-dados-pela.html"
 headers = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; x64) AppleWebKit/537.36")
@@ -35,6 +37,53 @@ def limpar_nome_jogo(nome):
   nome_limpo = re.sub(r"[™®©]", "", nome)
   nome_limpo = re.sub(r"[^\w\s\-\']", "", nome_limpo)
   return nome_limpo.strip()
+
+def buscar_reviews(app_id, max_tentativas=3):
+  """Busca o resumo das avaliações pelo novo endpoint da Steam"""
+  url_reviews = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
+
+  params = {
+    "input_json": json.dumps({
+      "appid": int(app_id),
+      "filter": 0,
+      "language": "all",
+      "review_type": 0,
+      "purchase_type": 1,
+      "num_per_page": 1
+    })
+  }
+
+  for tentativa in range(1, max_tentativas + 1):
+    try:
+      resposta_reviews = requests.get(url_reviews, params=params, timeout=20)
+
+      if resposta_reviews.status_code == 429:
+        espera = tentativa * 10
+        print(f"[Reviews] Limite de requisições. Aguardando {espera}s...")
+        time.sleep(espera)
+        continue
+
+      resposta_reviews.raise_for_status()
+      dados_reviews = resposta_reviews.json()
+
+      if isinstance(dados_reviews, dict) and "response" in dados_reviews:
+        dados_reviews = dados_reviews["response"]
+
+      if not isinstance(dados_reviews, dict):
+        raise ValueError("Formato JSON inesperado")
+
+      if "query_summary" not in dados_reviews:
+        print(f"[Reviews] Resposta sem query_summary para o jogo {app_id}.")
+        return None
+
+      return dados_reviews
+    
+    except(requests.RequestException, json.JSONDecodeError, ValueError) as e:
+      print(f"[Reviews] Tentativa {tentativa}/{max_tentativas} falhou: {e}")
+
+      if tentativa < max_tentativas:
+        time.sleep(tentativa*3)
+  return None
 
 # Extrai os nomes limpos dos jogos, ignorando numerações da lista
 nomes_jogos = []
@@ -100,6 +149,16 @@ for indice, nome in enumerate(nomes_jogos, start=1):
       if resp_detalhes.status_code == 200:
         detalhes_json = resp_detalhes.json()
 
+        dados_reviews = buscar_reviews(app_id)
+        chave_app = str(app_id)
+        
+        if(dados_reviews and chave_app in detalhes_json and detalhes_json[chave_app].get("success") and "data" in detalhes_json[chave_app]):
+          resumo = dados_reviews.get("query_summary", {})
+          detalhes_json[chave_app]["data"]["reviews"] = {"query_summary": resumo, "total_matching": dados_reviews.get("total_matching"), "day_range_used": dados_reviews.get("day_range_used")}
+          print(f"[Reviews] Resumo incorporado: {resumo.get('total_reviews', 'N/D')} avaliações.")
+        else:
+          print(f"[Reviews] Não foi possível obter ou incorporar o resumo do jogo {app_id}.")
+
         caminho_saida = f"dados/raw/steam_gratis_{app_id}.json"
         with open(caminho_saida, "w", encoding="utf-8") as f:
           json.dump(detalhes_json, f, ensure_ascii=False, indent=4)
@@ -107,6 +166,7 @@ for indice, nome in enumerate(nomes_jogos, start=1):
             f"{nome_encontrado})")
       else:
         print(f"Falha ao obter detalhes do AppID {app_id}.")
+
     except Exception as e:
       print(f"Erro ao baixar detalhes do AppId {app_id}: {e}")
     

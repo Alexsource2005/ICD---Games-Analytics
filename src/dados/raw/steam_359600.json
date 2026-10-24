@@ -172,7 +172,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1254
+                "total": 1258
             },
             "achievements": {
                 "total": 17,
@@ -307,6 +307,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 196,
+                    "total_negative": 170,
+                    "total_reviews": 366
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237892821",
+                        "author": {
+                            "steamid": "76561198432934885",
+                            "num_reviews": 15,
+                            "playtime_forever": 432,
+                            "playtime_last_two_weeks": 432,
+                            "playtime_at_review": 306,
+                            "last_played": 1792716976
+                        },
+                        "language": "english",
+                        "review": "This game is a complete waste of time. If you don't value your own existence or want to gain a new found hatred for trains, Play this game. Bland robotic writing existed before AI started taking the credit, and this game is proof. The gameplay structure is EXTREMLY STRICT if you don't play the game EXACTLY how the developer pictured you to play it you WILL fail. another problem is the time trials, Ubisoft has this trope where you have a certain amount of time to get an objective done and it is done to create a sense of urgency that immediately goes away the first time you fail, afterwords it just gets frustrating. If my ape brain wasnt obsessed with achievment hunting I woldnt be playing this garbage at all, but pappa needs that blue ribbon that shows how much sunlight he avoids.",
+                        "timestamp_created": 1792197805,
+                        "timestamp_updated": 1792197805,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB1zb6LBw==",
+                "day_range_used": 30,
+                "total_matching": 4
             }
         }
     }

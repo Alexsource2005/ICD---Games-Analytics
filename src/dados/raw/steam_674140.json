@@ -15,7 +15,46 @@
             "about_the_game": "Bugsnax takes you on a journey to Snaktooth Island, home of the legendary half-bug half-snack creatures, Bugsnax. Invited by intrepid explorer Elizabert Megafig, you arrive to discover your host nowhere to be found, her camp in shambles, and her followers scattered across the island alone... and hungry!<br><br>It's up to you to solve the mysteries of Snaktooth Island: What happened to Lizbert? What are Bugsnax and where do they come from? But most of all, why do they taste SO GOOD?<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><strong>Fill Your Pack With Snax!</strong> Discover, hunt, and capture all 100 different species of Bugsnax using a variety of contraptions and bait.<br></li><li><strong>Embark on a Tasty Quest!</strong> Explore the diverse biomes of Snaktooth Island to track down and reunite the inhabitants of Snaxburg.<br></li><li><strong>Feed Somebody and You'll See, We Are Whatever We Eat!</strong> Stuff your new friends with Bugsnax to customize them with countless new looks.<br></li><li><strong>Venture Deep to Seek the Truth!</strong> Follow every lead to learn more about Lizbert's band of misfits and the mysteries of Snaktooth Island.<br></li><li><strong>Come Back For Seconds! </strong>Seek out side quests and travel off the beaten path to test your skills against fearsome supersized Bugsnax!<br></li><li><strong>Make Yourself At Home! </strong>Complete challenges from your mailbox, collect decorations to personalize your hut, and most important of all: put hats on your favorite Snax!</li></ul>",
             "short_description": "Catch mysterious living snacks and feed them to your friends in this unusual island adventure!",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Bugsnax is colourful, clever, and surprising - and you deserve to discover the deepest aspects of it for yourself.”<br>Christian Donlan - Eurogamer<br><br>“Bugsnax is a puzzle-adventure packed full of charm, mystery and a surprising amount of emotional depth.”<br>8/10 – Simon Cardy - IGN<br><br>“Bugsnax is quite simply the cutest game I have played this year. Or possibly ever.”<br>Jay Castello - Fanbyte<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 7535,
+                    "total_negative": 171,
+                    "total_reviews": 7706
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236110218",
+                        "author": {
+                            "steamid": "76561198696885429",
+                            "num_reviews": 4,
+                            "playtime_forever": 1413,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1413,
+                            "last_played": 1790295986
+                        },
+                        "language": "english",
+                        "review": "I couldn't stop playing it once I started. The animations and creature collector vibe makes your heart feel like it's on the dance floor. I extremely recomend this game!",
+                        "timestamp_created": 1790296063,
+                        "timestamp_updated": 1790296063,
+                        "voted_up": true,
+                        "votes_up": 6,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5835948586463928,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYU/6AAAAB6mNiEBw==",
+                "day_range_used": 30,
+                "total_matching": 79
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/header.jpg?t=1774978762",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/capsule_231x87.jpg?t=1774978762",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/capsule_184x69.jpg?t=1774978762",
@@ -40,12 +79,12 @@
                 "Young Horses"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 4749,
-                "final": 1899,
-                "discount_percent": 60,
-                "initial_formatted": "R$ 47,49",
-                "final_formatted": "R$ 18,99"
+                "currency": "JPY",
+                "initial": 257000,
+                "final": 257000,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "¥ 2,570"
             },
             "packages": [
                 191913
@@ -62,13 +101,13 @@
                     "subs": [
                         {
                             "packageid": 191913,
-                            "percent_savings_text": "-60% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Bugsnax - <span class=\"discount_original_price\">R$ 47,49</span> R$ 18,99",
+                            "option_text": "Bugsnax - ¥ 2,570",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1899
+                            "price_in_cents_with_discount": 257000
                         }
                     ]
                 }
@@ -204,7 +243,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8731
+                "total": 8777
             },
             "achievements": {
                 "total": 30,

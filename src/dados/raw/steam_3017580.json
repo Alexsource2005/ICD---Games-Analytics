@@ -189,7 +189,7 @@
                 }
             ],
             "recommendations": {
-                "total": 238
+                "total": 239
             },
             "achievements": {
                 "total": 8,
@@ -299,6 +299,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 757,
+                    "total_negative": 89,
+                    "total_reviews": 846
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237481945",
+                        "author": {
+                            "steamid": "76561199402464007",
+                            "num_reviews": 20,
+                            "playtime_forever": 111,
+                            "playtime_last_two_weeks": 111,
+                            "playtime_at_review": 110,
+                            "last_played": 1791738541
+                        },
+                        "language": "english",
+                        "review": "a game about you having a camera-rail set up around your entire house looking for anomalies as you drive through with your camera. you have 8 lives which are \"door locks\".  its like fnaf and anomaly games combined",
+                        "timestamp_created": 1791738357,
+                        "timestamp_updated": 1791738357,
+                        "voted_up": true,
+                        "votes_up": 5,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5833333134651184,
+                        "comment_count": 2,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYVVYAAAAB5/fWJBw==",
+                "day_range_used": 30,
+                "total_matching": 23
             }
         }
     }

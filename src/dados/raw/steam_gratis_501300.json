@@ -15,7 +15,18 @@
             "about_the_game": "Winner of Best Game at the 2018 BAFTA Game Awards, as well as Best Narrative awards at the GDC 2018 Choice Awards, 2018 SXSW Gaming Awards, and The Game Awards 2017, <i>What Remains of Edith Finch</i> is a collection of strange tales about a family in Washington state.<br><br>As Edith, you’ll explore the colossal Finch house, searching for stories as she explores her family history and tries to figure out why she's the last one in her family left alive. Each story you find lets you experience the life of a new family member on the day of their death, with stories ranging from the distant past to the present day.<br><br>The gameplay and tone of the stories are as varied as the Finches themselves. The only constants are that each is played from a first-person perspective and that each story ends with that family member's death.<br><br>Ultimately, it's a game about what it feels like to be humbled and astonished by the vast and unknowable world around us.<br><br>Created by Giant Sparrow, the team behind the first-person painting game <i>The Unfinished Swan</i>.",
             "short_description": "What Remains of Edith Finch is a collection of strange tales about a family in Washington state. As Edith, you’ll explore the colossal Finch house, searching for stories as she explores her family history and tries to figure out why she's the last one in her family left alive.",
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Korean<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Succeeds in recreating the childhood joy of reading a book and being utterly transported into its pages.”<br>5/5 – The Guardian<br><br>“Beautiful and bittersweet.”<br>9/10 – Polygon<br><br>“Edith Finch earned every tear, every laugh and every moment of joy.”<br>Recommended – Rock Paper Shotgun<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 19249,
+                    "total_negative": 1159,
+                    "total_reviews": 20408
+                },
+                "total_matching": 235,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg?t=1785424558",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/capsule_231x87.jpg?t=1785424558",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/capsule_184x69.jpg?t=1785424558",
@@ -40,12 +51,12 @@
                 "Annapurna Interactive"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 5599,
-                "final": 1399,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 55,99",
-                "final_formatted": "R$ 13,99"
+                "currency": "EUR",
+                "initial": 1849,
+                "final": 1849,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "18,49€"
             },
             "packages": [
                 115094
@@ -62,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 115094,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "What Remains of Edith Finch - <span class=\"discount_original_price\">R$ 55,99</span> R$ 13,99",
+                            "option_text": "What Remains of Edith Finch - 18,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1399
+                            "price_in_cents_with_discount": 1849
                         }
                     ]
                 }
@@ -188,7 +199,7 @@
                 }
             ],
             "recommendations": {
-                "total": 47343
+                "total": 47531
             },
             "achievements": {
                 "total": 9,

@@ -5,7 +5,7 @@
             "type": "game",
             "name": "GNOG",
             "steam_appid": 290510,
-            "required_age": 0,
+            "required_age": "10",
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "<i>&quot;I was in love with GNOG the second I saw it&quot;-<strong>Rock Paper Shotgun</strong><br>&quot;Weird and wonderful...&quot; -<strong>Polygon</strong><br>&quot;This is such a joyful game, I'm not sure it's possible to leave it without feeling uplifted.&quot; -<strong>Destructoid</strong><br>&quot;It's a kooky idea brought about with lots of style and verve...&quot; -<strong>Eurogamer</strong></i><br><br>GNOG is a playful puzzle game about exploring monstrous virtual toys. Press, pull, slide, grab, click, and rotate every GNOG head to uncover its secrets!<br><br><ul class=\"bb_ul\"><li>9 musical levels with whimsical puzzles to discover<br></li><li>A dynamic soundtrack composed by Marskye<br></li><li>Each level a unique hand-crafted experience<br></li><li>Play in standard mode or with optional VR support. Seamlessly switch between VR and standard play!</li></ul><br>GNOG is a 3D puzzle game set in a tactile world of toys and secrets. Point, click, grab, poke, spin, pull, and play with uniquely charming monster heads as you explore the hidden worlds inside them. Filled with eye-catching designs, playful interactions, and a rich, reactive soundtrack, the hand-crafted heads come to life in either standard play or in VR.<br><br>Inspired by real-world toy designs, every GNOG head is a miniature world to discover. Grab a bookcase and spin it to reveal a hidden pile of coins, slide levers to navigate a damaged ship through outer space, crank a wheel to cook a stew on the stove – each playful interaction generates lively feedback and surprising consequences. Set to a relaxing and dynamic soundtrack that evolves with each level, the surreal worlds and joyful puzzles of GNOG will have you turning heads.",
@@ -33,12 +33,12 @@
                 "KO_OP"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 999,
+                "currency": "BRL",
+                "initial": 3299,
+                "final": 3299,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "R$ 32,99"
             },
             "packages": [
                 40733
@@ -57,11 +57,11 @@
                             "packageid": 40733,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "GNOG - $9.99",
+                            "option_text": "GNOG - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 3299
                         }
                     ]
                 }
@@ -289,7 +289,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jul 17, 2018"
+                "date": "17 Jul, 2018"
             },
             "support_info": {
                 "url": "http://gnoggame.com",
@@ -334,6 +334,18 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 719,
+                    "total_negative": 72,
+                    "total_reviews": 791
+                },
+                "total_matching": 3,
+                "day_range_used": 30
             }
         }
     }

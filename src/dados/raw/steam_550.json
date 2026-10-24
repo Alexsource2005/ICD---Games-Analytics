@@ -33,16 +33,16 @@
                 "Valve"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 3399,
-                "final": 3399,
+                "currency": "USD",
+                "initial": 569,
+                "final": 569,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 33,99"
+                "final_formatted": "$5.69 USD"
             },
             "packages": [
-                220726,
-                2481
+                2481,
+                220726
             ],
             "package_groups": [
                 {
@@ -55,24 +55,24 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 220726,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Left 4 Dead 2 - Commercial License - R$ 20,69",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 2069
-                        },
-                        {
                             "packageid": 2481,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Left 4 Dead 2 - R$ 33,99",
+                            "option_text": "Left 4 Dead 2 - $5.69 USD",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3399
+                            "price_in_cents_with_discount": 569
+                        },
+                        {
+                            "packageid": 220726,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Left 4 Dead 2 - Commercial License - $6.29 USD",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 629
                         }
                     ]
                 }
@@ -347,7 +347,7 @@
                 }
             ],
             "recommendations": {
-                "total": 821148
+                "total": 823349
             },
             "achievements": {
                 "total": 101,
@@ -497,6 +497,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Strong Violence\nMild horror themes"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 312982,
+                    "total_negative": 8157,
+                    "total_reviews": 321139
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236850795",
+                        "author": {
+                            "steamid": "76561199219106478",
+                            "num_reviews": 1,
+                            "playtime_forever": 43731,
+                            "playtime_last_two_weeks": 10804,
+                            "playtime_at_review": 41229,
+                            "last_played": 1792830946
+                        },
+                        "language": "english",
+                        "review": "I grew up playing this game with my three older brothers and learned this game from them. When I was very little, I'd get scared when they gave me the keyboard and mouse lol xD so nostalgic... mm teamwork, chaos, and laughter It's all here! I'd recommend it if you love killing zombies and looking cool. c:",
+                        "timestamp_created": 1791093299,
+                        "timestamp_updated": 1792605268,
+                        "voted_up": true,
+                        "votes_up": 44,
+                        "votes_funny": 2,
+                        "weighted_vote_score": 0.7912505269050598,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFULMuAAAAB75sGHBw==",
+                "day_range_used": 30,
+                "total_matching": 1861
             }
         }
     }

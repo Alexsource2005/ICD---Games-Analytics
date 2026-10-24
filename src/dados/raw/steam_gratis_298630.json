@@ -18,7 +18,18 @@
             "about_the_game": "<p class=\"bb_paragraph\" >You’ve landed yourself in prison again, and your only chance is to engineer an escape by any means necessary. How you do it is up to you! Why not cause a prison riot? Or dig a tunnel right under the walls of the prison? Or even steal a guard uniform to blend in with your captors?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Escapists is a unique prison sandbox experience with lots of items to craft and combine in your daring quest for freedom. Life in prison will keep you on your toes with the strict rules that you’ll have to break. The guards are out to stop any escape attempts, so you’ll have to avoid suspicious behaviour by attending roll calls, working a prison job and hiding your stolen craftables. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Escaping is what you do best, and you’ll have to prove your skills in a variety of challenging prisons from across the world.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Become an Escapist now!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Features</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >10 Fully operational prisons complete with routines to give you a flavour of how it *really* is inside!</p></li><li><p class=\"bb_paragraph\" >10 Separate job opportunities for you to sink your teeth into… If you have the knowledge to earn and hold down these employment paths of course!</p></li><li><p class=\"bb_paragraph\" >185+ Unique Items for you to seek out and perhaps even craft useful items with. (Team17 fully endorse the use of various weapons such as ‘shivs’, ‘nunchucks’ and ‘maces’ – within a fictional setting of course!). </p></li><li><p class=\"bb_paragraph\" >Various Favour types for you to tackle offered up by inmates – You wouldn't want to go upsetting them now, would you?</p></li><li><p class=\"bb_paragraph\" >Highly opinionated and incredibly funny inmates and guards to keep you on your toes as well as providing entertainment! </p></li><li><p class=\"bb_paragraph\" >Multiple escape routes for you to work out and achieve the title of ‘The Escapist’!</p></li><li><p class=\"bb_paragraph\" >Multiple save slots so you can have more than one escape attempt on the go!</p></li><li><p class=\"bb_paragraph\" >Steam Achievements to strive for.</p></li><li><p class=\"bb_paragraph\" >Steam Leaderboards – Once you have escaped see how you fared against other successfully escaped players!</p></li><li><p class=\"bb_paragraph\" >Prison Editor – Create from scratch your very own confinement masterpiece and share it with the community!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/extras/813934ce869685ca52521bd70666f468.webp?t=1791478016\" width=616 height=61 /></span></p>",
             "short_description": "The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of escaping!",
             "supported_languages": "English, French, German, Spanish - Spain, Polish, Russian, Italian",
-            "reviews": "“dynamic, fun, and challenging”<br>90/100 – Games Beat<br><br>“The Escapists is a gratifying game that provides dozens of hours of entertainment. Planning an escape and watching it unfold is endlessly satisfying, and a successful breakout leaves you feeling jubilant”<br>8/10 – Gamespot<br><br>“As for me, I think I'm going to go back to Escapists for quite a while whenever I need to brush up on my puzzle skills simply because of how open-ended it is”<br>8/10 – Destructoid<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 9395,
+                    "total_negative": 1073,
+                    "total_reviews": 10468
+                },
+                "total_matching": 24,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/header.jpg?t=1791478016",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/capsule_231x87.jpg?t=1791478016",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/capsule_184x69.jpg?t=1791478016",
@@ -41,16 +52,16 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 6500,
-                "final": 650,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 65,00",
-                "final_formatted": "R$ 6,50"
+                "initial": 4599,
+                "final": 4599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 45,99"
             },
             "packages": [
                 60584,
-                1537965,
-                80013
+                80013,
+                1537965
             ],
             "package_groups": [
                 {
@@ -62,16 +73,6 @@
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
-                        {
-                            "packageid": 1537965,
-                            "percent_savings_text": "-90% ",
-                            "percent_savings": 0,
-                            "option_text": "The Escapists - Complete Edition - <span class=\"discount_original_price\">R$ 65,00</span> R$ 6,50",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 650
-                        },
                         {
                             "packageid": 80013,
                             "percent_savings_text": " ",
@@ -91,6 +92,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 4749
+                        },
+                        {
+                            "packageid": 1537965,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "The Escapists - Complete Edition - R$ 65,00",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 6500
                         }
                     ]
                 }
@@ -248,7 +259,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14314
+                "total": 14335
             },
             "achievements": {
                 "total": 37,

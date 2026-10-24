@@ -205,7 +205,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8002
+                "total": 8063
             },
             "achievements": {
                 "total": 17,
@@ -331,6 +331,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring\nKekerasan\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 5738,
+                    "total_negative": 129,
+                    "total_reviews": 5867
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237060046",
+                        "author": {
+                            "steamid": "76561198016675400",
+                            "num_reviews": 14,
+                            "playtime_forever": 141,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 141,
+                            "last_played": 1791129090
+                        },
+                        "language": "english",
+                        "review": "This game was a very culturally enriching experience that has given me a whole new kind of appreciation for Brazil. It offers a much closer and personal, authentic look at Brazil, far beyond what the tourist brochures will show you. The ordinary day to day life on the narrow streets of Brazil and a glimpse of the unimaginable reality of being a Brazilian drug dealer and what one does. Not only that, the game takes you across many iconic locations, from the favelas and Corcovado Mountain to the Amazon rainforest, and even the moon!\n\nOverall this game is a bang for your buck, the campaign had a surprisingly decent length to it with many interesting locations, huge variety of interesting weapons, fun unexpected situations every step of the way and the music is a real banger too and really helps with the atmosphere and ties the whole game together. You can tell this game was a project of passion and not just some cynical triple A cash grab, its a fully finished complete game from start to finish and very inspiring if you ever wanted to make a game yourself, if this guy can make this thing, there is no reason why you cant do it too.",
+                        "timestamp_created": 1791302159,
+                        "timestamp_updated": 1791302349,
+                        "voted_up": true,
+                        "votes_up": 12,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.6258503794670105,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXe6YAAAAB+/KeIBw==",
+                "day_range_used": 30,
+                "total_matching": 155
             }
         }
     }

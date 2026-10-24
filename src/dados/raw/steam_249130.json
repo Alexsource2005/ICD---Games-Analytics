@@ -37,15 +37,15 @@
                 "Warner Bros. Interactive Entertainment"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 1999,
-                "final": 1999,
+                "currency": "BRL",
+                "initial": 3699,
+                "final": 3699,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final_formatted": "R$ 36,99"
             },
             "packages": [
-                33644
+                31632
             ],
             "package_groups": [
                 {
@@ -58,14 +58,14 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 33644,
+                            "packageid": 31632,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "LEGO Marvel Super Heroes - 19,99€",
+                            "option_text": "LEGO Marvel Super Heroes - R$ 36,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -174,7 +174,7 @@
                 }
             ],
             "recommendations": {
-                "total": 22876
+                "total": 23029
             },
             "achievements": {
                 "total": 45,
@@ -263,7 +263,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "15 Nov, 2013"
+                "date": "22 Oct, 2013"
             },
             "support_info": {
                 "url": "support.wbgames.com",
@@ -304,6 +304,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 10739,
+                    "total_negative": 642,
+                    "total_reviews": 11381
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236421949",
+                        "author": {
+                            "steamid": "76561199211671736",
+                            "num_reviews": 18,
+                            "playtime_forever": 2006,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 2006,
+                            "last_played": 1790624367
+                        },
+                        "language": "english",
+                        "review": "My first and favourite game completed on a 100%. \n\nTotally worth it, brought back lots of childhood memories. 10/10",
+                        "timestamp_created": 1790624452,
+                        "timestamp_updated": 1790624452,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6413966417312622,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXLAwAAAAB9s/CFBw==",
+                "day_range_used": 30,
+                "total_matching": 142
             }
         }
     }

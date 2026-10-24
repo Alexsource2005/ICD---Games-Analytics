@@ -184,7 +184,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1768
+                "total": 1771
             },
             "achievements": {
                 "total": 22,
@@ -306,6 +306,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1564,
+                    "total_negative": 193,
+                    "total_reviews": 1757
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238391043",
+                        "author": {
+                            "steamid": "76561197970560724",
+                            "num_reviews": 1297,
+                            "playtime_forever": 309,
+                            "playtime_last_two_weeks": 60,
+                            "playtime_at_review": 270,
+                            "last_played": 1792776431
+                        },
+                        "language": "english",
+                        "review": "It is an extremely funny but short indie game. I like the wacky art style that reminds me of The Lego Movie. But the gameplay is very limited. The closest I can describe it is a railway shooter visual novel. You have two choices: say no or not say a word. Not saying a word usually leads to more funny one-sided conversations, but at the cost that the game just plays itself. For that, I only recommend the game at a deep discount.\n\n[quote]Follow us for more [url=https://store.steampowered.com/curator/45113328-Awesome-Adventure-Friends/] Awesome Adventures![/url] [/quote]",
+                        "timestamp_created": 1792775133,
+                        "timestamp_updated": 1792775838,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZhheAAAABz8LGNBw==",
+                "day_range_used": 30,
+                "total_matching": 10
             }
         }
     }

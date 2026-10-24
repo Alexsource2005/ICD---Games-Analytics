@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 296,
+                "discount_percent": 91,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 2,96"
             },
             "packages": [
                 544978
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 544978,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-91% ",
                             "percent_savings": 0,
-                            "option_text": "Gigapocalypse - R$ 32,99",
+                            "option_text": "Gigapocalypse - <span class=\"discount_original_price\">R$ 32,99</span> R$ 2,96",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 296
                         }
                     ]
                 }
@@ -199,7 +199,7 @@
                 }
             ],
             "recommendations": {
-                "total": 206
+                "total": 207
             },
             "achievements": {
                 "total": 53,
@@ -323,6 +323,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 143,
+                    "total_negative": 18,
+                    "total_reviews": 161
+                },
+                "total_matching": 2,
+                "day_range_used": 30
             }
         }
     }

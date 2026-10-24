@@ -15,7 +15,18 @@
             "about_the_game": "<strong>Now also playable on Oculus Rift!</strong><br><i>Note: This is a visually lush and detailed game. Playing in VR takes full advantage of higher-end systems - please refer to its minimum and recommended specs.</i><br><br>From Cyan, the indie studio that brought you Myst, comes a new sci-fi adventure.<br><br>As you walk beside the lake on a cloudy night, a curious, organic artifact falls from the starry sky and inexplicably, without asking permission, transports you across the universe. You’ve been abducted from your cozy existence and added into an alien landscape with pieces of Earth from unexpected times and places. <br><br>The strange worlds of Obduction reveal their secrets only as you explore, discover, coax, and consider their clues. As you bask in the otherworldly beauty and explore the enigmatic landscapes, remember that the choices you make will have substantial consequences. This is your story now. <br><br>Make it home.<br><br>---<br><br>“Immense and immersive… It was breathtaking… something that feels magical.” - UploadVR<br><br>“Cyan has succeeded in making another adventure that feels truly timeless.” - Polygon<br><br>“Obduction’s beautiful world is a worthy successor to Myst.” - Wired",
             "short_description": "A new sci-fi adventure from Cyan, the creators of Myst. Abducted far across the universe, you find yourself on a broken alien landscape with odd pieces of Earth. Explore, uncover, solve, and find a way to make it home.",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Polish, Dutch, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-            "reviews": "“Obduction has seemingly delivered on all of its promise”<br>9 of 10 – Attack of the Fanboy<br><br>“A beautiful, technically-composed game with an innovative premise that feels familiar yet completely alien.”<br>9 of 10 – Destructoid<br><br>“The mastery of level design on display here is staggering… Riveting.”<br>10 of 10 – War Council TV<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 2559,
+                    "total_negative": 641,
+                    "total_reviews": 3200
+                },
+                "total_matching": 8,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306760/header.jpg?t=1787614935",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306760/capsule_231x87.jpg?t=1787614935",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306760/capsule_184x69.jpg?t=1787614935",
@@ -40,12 +51,12 @@
                 "Cyan, Inc."
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 9999,
-                "final": 3999,
-                "discount_percent": 60,
-                "initial_formatted": "R$ 99,99",
-                "final_formatted": "R$ 39,99"
+                "currency": "CAD",
+                "initial": 3599,
+                "final": 3599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "CDN$ 35.99"
             },
             "packages": [
                 45677
@@ -62,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 45677,
-                            "percent_savings_text": "-60% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Obduction - <span class=\"discount_original_price\">R$ 99,99</span> R$ 39,99",
+                            "option_text": "Obduction - CDN$ 35.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 3599
                         }
                     ]
                 }
@@ -189,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3038
+                "total": 3041
             },
             "achievements": {
                 "total": 15,

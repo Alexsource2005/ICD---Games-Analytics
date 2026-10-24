@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4199,
-                "final": 4199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 41,99"
+                "final": 293,
+                "discount_percent": 93,
+                "initial_formatted": "R$ 41,99",
+                "final_formatted": "R$ 2,93"
             },
             "packages": [
                 532532
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 532532,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-93% ",
                             "percent_savings": 0,
-                            "option_text": "Toy Tinker Simulator - R$ 41,99",
+                            "option_text": "Toy Tinker Simulator - <span class=\"discount_original_price\">R$ 41,99</span> R$ 2,93",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4199
+                            "price_in_cents_with_discount": 293
                         }
                     ]
                 }
@@ -374,6 +374,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 4,
+                    "review_score_desc": "Mostly Negative",
+                    "total_positive": 187,
+                    "total_negative": 306,
+                    "total_reviews": 493
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237961845",
+                        "author": {
+                            "steamid": "76561198392450770",
+                            "num_reviews": 217,
+                            "playtime_forever": 120,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 120,
+                            "last_played": 1785725977
+                        },
+                        "language": "english",
+                        "review": "This game was a bit lack luster. I got it from a mystery bundle from a website, and it was just eh.",
+                        "timestamp_created": 1792267626,
+                        "timestamp_updated": 1792267626,
+                        "voted_up": false,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.503311276435852,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZ7wwAAAAB1p+CLBw==",
+                "day_range_used": 30,
+                "total_matching": 10
             }
         }
     }

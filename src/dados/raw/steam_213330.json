@@ -168,7 +168,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7529
+                "total": 7560
             },
             "release_date": {
                 "coming_soon": false,
@@ -204,6 +204,46 @@
                 "dejus": {
                     "rating": "l"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 4726,
+                    "total_negative": 264,
+                    "total_reviews": 4990
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237609235",
+                        "author": {
+                            "steamid": "76561198876362660",
+                            "num_reviews": 67,
+                            "playtime_forever": 836,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 836,
+                            "last_played": 1791334065
+                        },
+                        "language": "english",
+                        "review": "Best of the trilogy. Maybe im blinded by nostalgia but this game is so enjoyable. The story, the free roam it's all just so special.",
+                        "timestamp_created": 1791873828,
+                        "timestamp_updated": 1791873828,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5833333134651184,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYVVYAAAABzkbSKBw==",
+                "day_range_used": 30,
+                "total_matching": 58
             }
         }
     }

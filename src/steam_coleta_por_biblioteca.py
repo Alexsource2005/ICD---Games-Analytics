@@ -1,13 +1,61 @@
 import json
 import os
+import time
 import requests
 
 # --- SUAS CREDENCIAIS REAIS DA STEAM ---
 API_KEY = "010187A20FDAB0733BE21A91A46BEB63"
-STEAM_ID = "76561198323249883"
+STEAM_ID = "76561199557190797"
 
 # 1. Garante que a pasta dados/raw/ existe no projeto
 os.makedirs("dados/raw", exist_ok=True)
+
+def buscar_reviews(app_id, max_tentativas=3):
+  """Busca o resumo das avaliações pelo novo endpoint da Steam"""
+  url_reviews = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
+
+  params = {
+    "input_json": json.dumps({
+      "appid": int(app_id),
+      "filter": 0,
+      "language": "all",
+      "review_type": 0,
+      "purchase_type": 1,
+      "num_per_page": 1
+    })
+  }
+
+  for tentativa in range(1, max_tentativas + 1):
+    try:
+      resposta_reviews = requests.get(url_reviews, params=params, timeout=20)
+
+      if resposta_reviews.status_code == 429:
+        espera = tentativa * 10
+        print(f"[Reviews] Limite de requisições. Aguardando {espera}s...")
+        time.sleep(espera)
+        continue
+
+      resposta_reviews.raise_for_status()
+      dados_reviews = resposta_reviews.json()
+
+      if isinstance(dados_reviews, dict) and "response" in dados_reviews:
+        dados_reviews = dados_reviews["response"]
+
+      if not isinstance(dados_reviews, dict):
+        raise ValueError("Formato JSON inesperado")
+
+      if "query_summary" not in dados_reviews:
+        print(f"[Reviews] Resposta sem query_summary para o jogo {app_id}.")
+        return None
+
+      return dados_reviews
+    
+    except(requests.RequestException, json.JSONDecodeError, ValueError) as e:
+      print(f"[Reviews] Tentativa {tentativa}/{max_tentativas} falhou: {e}")
+
+      if tentativa < max_tentativas:
+        time.sleep(tentativa*3)
+  return None
 
 print("🔄 Buscando os jogos da sua biblioteca da Steam...")
 url_owned = f"https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={API_KEY}&steamid={STEAM_ID}&include_appinfo=true&format=json"
@@ -34,6 +82,18 @@ try:
       # Faz a requisição dos detalhes do jogo
       resposta_details = requests.get(url_details)
       dados_details = resposta_details.json()
+
+      dados_reviews = buscar_reviews(app_id)
+
+      if dados_reviews:
+        if(app_id in dados_details and dados_details[app_id].get("success") and "data" in dados_details[app_id]):
+          dados_details[app_id]["data"]["reviews"] = dados_reviews
+
+          print(f"[Reviews] Dados incorporados ao jogo {app_id}.")
+        else:
+          print(f"[Reviews] Não foi possível incorporar as reviews ao jogo {app_id}: detalhes inválidos.")
+      else:
+        print(f"[Reviews] Reviews indisponíveis para o jogo {app_id}.")
 
       # Define o caminho do arquivo JSON bruto
       caminho_arquivo = f"dados/raw/steam_{app_id}.json"

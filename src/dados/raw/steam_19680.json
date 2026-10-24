@@ -192,7 +192,7 @@
                 }
             ],
             "recommendations": {
-                "total": 28052
+                "total": 28195
             },
             "release_date": {
                 "coming_soon": false,
@@ -235,6 +235,46 @@
                     "use_age_gate": "true",
                     "required_age": "15"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 11340,
+                    "total_negative": 1372,
+                    "total_reviews": 12712
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236326704",
+                        "author": {
+                            "steamid": "76561199174796063",
+                            "num_reviews": 3,
+                            "playtime_forever": 1212,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1212,
+                            "last_played": 1790516740
+                        },
+                        "language": "english",
+                        "review": "\"Forgetting pain is convenient. Remembering it, agonizing. But recovering the truth is worth the suffering.\"",
+                        "timestamp_created": 1790517707,
+                        "timestamp_updated": 1790517707,
+                        "voted_up": true,
+                        "votes_up": 33,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7915363311767578,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUK1YAAAABw88GFBw==",
+                "day_range_used": 30,
+                "total_matching": 166
             }
         }
     }

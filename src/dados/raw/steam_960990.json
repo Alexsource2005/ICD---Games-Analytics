@@ -223,7 +223,7 @@
                 }
             ],
             "recommendations": {
-                "total": 37754
+                "total": 38022
             },
             "achievements": {
                 "total": 45,
@@ -367,6 +367,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 8964,
+                    "total_negative": 1671,
+                    "total_reviews": 10635
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236388646",
+                        "author": {
+                            "steamid": "76561199817958884",
+                            "num_reviews": 7,
+                            "playtime_forever": 6327,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 6327,
+                            "last_played": 1790589905
+                        },
+                        "language": "english",
+                        "review": "The graphics? Incredibly good for their time.\nThe actors? They're like a full-fledged interactive film.\nThe music? It really captures the atmosphere.\nThe plot? Controversial in places, but emotionally powerful.\nAnd yes, this is the kind of game that makes you want to open Google and type:\n\"Beyond Two Souls Stranger Things similarities\"\nIf you love «Stranger Things, mysticism, the supernatural, secret experiments, and story-driven games» just give Beyond: Two Souls a chance.\nAnd if you've already played it, answer me one question:\nWhy isn't this game talked about more often?\n\n10/10.\nNot because it's perfect.",
+                        "timestamp_created": 1790587349,
+                        "timestamp_updated": 1791515085,
+                        "voted_up": true,
+                        "votes_up": 31,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.7588936686515808,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFV0naAAAAB2kuCFBw==",
+                "day_range_used": 30,
+                "total_matching": 229
             }
         }
     }

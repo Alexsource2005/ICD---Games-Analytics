@@ -15,7 +15,46 @@
             "about_the_game": "<h2 class=\"bb_tag\" >STORY</h2><p class=\"bb_paragraph\" >You’re the last survivor of a doomed space colony, trying to escape a planet before it implodes around you. Equipped with a scanner, you’ll reveal clues, solve puzzles, and discover the fates of over two-dozen colonists and the secrets of their interwoven lives. By day you’ll explore this richly detailed world with the help of the colony’s troubled AI. And each night, you'll spend quality time with several holographic companions, forging lasting relationships while gaining further insight into the colony’s tragic downfall. </p><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Over a dozen missions, multiple endings, varied conversation choices, and some surprising decisions provide a story you can sink your teeth into and experience multiple times</p></li><li><p class=\"bb_paragraph\" >A love letter to the Sega CD — vibrant, colourful 16-bit visuals and detailed cut-scene vignettes paint a beautiful sci-fi universe</p></li><li><p class=\"bb_paragraph\" >Completely original soundtrack with more than 30 foot-tapping, otherworldly tunes </p><p class=\"bb_paragraph\" ></p></li></ul>",
             "short_description": "Alone With You is a bittersweet sci-fi adventure game that goes right for the heart. Escape a doomed space colony with the help of your troubled AI companion and four chatty holograms in this unique blend of adventure &amp; visual novel storytelling.",
             "supported_languages": "English",
-            "reviews": "“Latches onto your heart and never lets go.”<br>8/10 – Destructoid<br><br>“... Impactful scenes that shine thanks to a stellar script.”<br>8/10 – Gamespot<br><br>“... A narrative that’ll leave you torn, contemplative, and heartbroken.”<br>8/10 – CGMagazine<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 60,
+                    "total_negative": 12,
+                    "total_reviews": 72
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "234330384",
+                        "author": {
+                            "steamid": "76561197965990088",
+                            "num_reviews": 54,
+                            "playtime_forever": 452,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 452,
+                            "last_played": 1788381950
+                        },
+                        "language": "english",
+                        "review": "My impression is, its a good concept and execution.\r\nIt is an adventure game with puzzle that you have to solve. The puzzles are pretty logical. There were instances where i had go back and forth but nothing too hard.\r\nEssentially you are together with an AI that will help you escaping a planet that is doomed. Doing so, will confront you with what went wrong and see the story unfold. There are some decisions to make and they may play a role in the outcome.\r\nOverall its actually a real fun game. The graphics looking super (if you like pixels) and it reminded me off Lucas Arts games. You won't need a mouse as you use the keyboard as the input. So, its pretty simple to play.\r\nAnyway, i had a lot of fun with this game and recommend it to anyone that likes a fair good story in the vein of good old adventure games. You won't be disappointed.",
+                        "timestamp_created": 1788382371,
+                        "timestamp_updated": 1788382371,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5769230723381042,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYdieAAAABwkfP9Bg==",
+                "day_range_used": 90,
+                "total_matching": 2
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564940/header.jpg?t=1788449210",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564940/capsule_231x87.jpg?t=1788449210",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564940/capsule_184x69.jpg?t=1788449210",
@@ -37,12 +76,12 @@
                 "BancyCo"
             ],
             "price_overview": {
-                "currency": "PLN",
-                "initial": 4599,
-                "final": 4599,
+                "currency": "BRL",
+                "initial": 3299,
+                "final": 3299,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "45,99 zł"
+                "final_formatted": "R$ 32,99"
             },
             "packages": [
                 142602
@@ -61,11 +100,11 @@
                             "packageid": 142602,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Alone With You - 45,99 zł",
+                            "option_text": "Alone With You - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4599
+                            "price_in_cents_with_discount": 3299
                         }
                     ]
                 }

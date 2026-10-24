@@ -226,7 +226,7 @@
                 }
             ],
             "recommendations": {
-                "total": 35340
+                "total": 35413
             },
             "achievements": {
                 "total": 25,
@@ -347,6 +347,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 25035,
+                    "total_negative": 1805,
+                    "total_reviews": 26840
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236764511",
+                        "author": {
+                            "steamid": "76561199196925669",
+                            "num_reviews": 1,
+                            "playtime_forever": 886,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 219,
+                            "last_played": 1791075347
+                        },
+                        "language": "english",
+                        "review": "so relaxing and i love the way it subtly tells the story throughout each house\nalso love the wlw rep yay",
+                        "timestamp_created": 1791015704,
+                        "timestamp_updated": 1791015704,
+                        "voted_up": true,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6155132055282593,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXsJMAAAAB/1ZeHBw==",
+                "day_range_used": 30,
+                "total_matching": 176
             }
         }
     }

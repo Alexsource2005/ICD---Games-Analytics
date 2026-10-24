@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Guild of Dungeoneering Ultimate Edition",
             "steam_appid": 317820,
-            "required_age": "10",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -15,7 +15,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/extras/246b62cdcb7c15ca124706955080c5e2.avif?t=1752490176\" width=620 height=190 /></span><br>Now fully rebuilt and remastered, Guild of Dungeoneering Ultimate Edition is a turn-based dungeon crawler with a twist: instead of controlling the hero you build the dungeon around them. Using cards drawn from your Guild decks, you lay down rooms, monsters, traps and of course loot! Meanwhile your hero is making their own decisions on where to go and what to fight. But will they be strong enough to take on the deepest dungeons? In between dungeon runs you manage your Guild, building new rooms to attract new classes of adventurer and expand your decks of cards with more powerful items.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/extras/bc3672c831a9955a62b617dfbb9d8e06.poster.avif?t=1752490176\" width=620 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/extras/bc3672c831a9955a62b617dfbb9d8e06.webm?t=1752490176\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/extras/bc3672c831a9955a62b617dfbb9d8e06.mp4?t=1752490176\" type=\"video/mp4\"></video></span><br>•\t<strong>Bigger and better than ever,</strong> all content from Pirates Cove and Ice Cream Headaches is now included in the game for FREE! Not to mention new classes, new monsters, new quests and new chests full of loot. <br>•\t<strong>Customise your dungeoneers like never before</strong> with dozens of new hairstyles and accessories, as well as new victory traits to help them survive that little bit longer among the dangers you throw at them. <br>•\t<strong>Improved game mechanics and complete re-balance</strong> will make your time spent in the guilds and dungeons as fun and enjoyable as it's ever been. Sending Chumps to their doom has never been such a blast!<br>•\t<strong>New writing, animations, music and sound effects</strong> bring the dungeons and guild to life more than ever. But beware, the bard is back with his unique brand of snark.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/extras/12f2e8a9cebcf517ac51993f49b90294.avif?t=1752490176\" width=620 height=182 /></span>",
             "short_description": "Now fully rebuilt and remastered, Guild of Dungeoneering Ultimate Edition is a turn-based dungeon crawler with a twist: instead of controlling the hero you build the dungeon around them.",
             "supported_languages": "English<strong>*</strong>, Simplified Chinese, Japanese, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-            "reviews": "“When the game's immense charm and good-natured snark wears off, the challenge sets in.”<br>8/10 – GameSpot<br><br>“It is a true gem and simply deserves to be played.”<br>4.5/5 – We Got This Covered<br><br>“I can't overstate just how much fun I had with this game.”<br>8/10 – The Escapist<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 1442,
+                    "total_negative": 479,
+                    "total_reviews": 1921
+                },
+                "total_matching": 3,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/header.jpg?t=1752490176",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/capsule_231x87.jpg?t=1752490176",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317820/capsule_184x69.jpg?t=1752490176",
@@ -43,12 +54,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 3999,
-                "final": 3999,
+                "currency": "USD",
+                "initial": 1999,
+                "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 39,99"
+                "final_formatted": "$19.99"
             },
             "packages": [
                 73207
@@ -67,11 +78,11 @@
                             "packageid": 73207,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Guild of Dungeoneering Ultimate Edition - R$ 39,99",
+                            "option_text": "Guild of Dungeoneering Ultimate Edition - $19.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
@@ -160,7 +171,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1740
+                "total": 1741
             },
             "achievements": {
                 "total": 63,
@@ -249,7 +260,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "14 Jul, 2015"
+                "date": "Jul 14, 2015"
             },
             "support_info": {
                 "url": "http://gambrinous.com",

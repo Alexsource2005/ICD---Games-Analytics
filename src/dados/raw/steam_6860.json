@@ -34,12 +34,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 3299,
-                "final": 3299,
+                "currency": "GBP",
+                "initial": 850,
+                "final": 850,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final_formatted": "£8.50"
             },
             "packages": [
                 282
@@ -58,11 +58,11 @@
                             "packageid": 282,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Hitman: Blood Money - R$ 32,99",
+                            "option_text": "Hitman: Blood Money - £8.50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 850
                         }
                     ]
                 }
@@ -150,7 +150,7 @@
                 }
             ],
             "recommendations": {
-                "total": 13775
+                "total": 13804
             },
             "release_date": {
                 "coming_soon": false,
@@ -221,6 +221,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 7524,
+                    "total_negative": 449,
+                    "total_reviews": 7973
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236227256",
+                        "author": {
+                            "steamid": "76561199417945233",
+                            "num_reviews": 10,
+                            "playtime_forever": 1207,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1207,
+                            "last_played": 1790419926
+                        },
+                        "language": "english",
+                        "review": "How a typical mission in Blood Money goes:\r\n1. Spend 45 minutes scouting the area, learning routines, and getting the perfect disguise.\r\n2. Set up the most brilliant, flawless \"accident\" ever conceived.\r\n3. Accidentally press the wrong button and punch a guard in the face.\r\n4. Pull out the Silverballers and eliminate half the state.\r\n\r\nJust finished all 13 missions (took me about 20 hours) and it’s crazy how well this game holds up. \r\n\r\n[b]Why it's still the GOAT:[/b]\r\n[list]\r\n[*] The post-mission newspaper judging your chaotic playstyle is a feature modern games desperately need.\r\n[*] The level design (Curtains Down, A Dance with the Devil) is top-tier.\r\n[*] Jesper Kyd’s soundtrack goes insanely hard.\r\n[/list]\r\n\r\nStill the undisputed king of stealth sandboxes.",
+                        "timestamp_created": 1790420492,
+                        "timestamp_updated": 1790420492,
+                        "voted_up": true,
+                        "votes_up": 17,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.695557177066803,
+                        "comment_count": 5,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXFr+AAAAB4q5GFBw==",
+                "day_range_used": 30,
+                "total_matching": 70
             }
         }
     }

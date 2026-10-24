@@ -196,7 +196,7 @@
                 }
             ],
             "recommendations": {
-                "total": 127507
+                "total": 128617
             },
             "release_date": {
                 "coming_soon": false,
@@ -235,6 +235,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 95010,
+                    "total_negative": 1728,
+                    "total_reviews": 96738
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237541391",
+                        "author": {
+                            "steamid": "76561198730392310",
+                            "num_reviews": 1,
+                            "playtime_forever": 3400,
+                            "playtime_last_two_weeks": 2004,
+                            "playtime_at_review": 1396,
+                            "last_played": 1792843195
+                        },
+                        "language": "english",
+                        "review": "it has fun moments but it is prety hared i am not good at english by the way\r\n",
+                        "timestamp_created": 1791808574,
+                        "timestamp_updated": 1791808574,
+                        "voted_up": true,
+                        "votes_up": 35,
+                        "votes_funny": 25,
+                        "weighted_vote_score": 0.7837342023849487,
+                        "comment_count": 4,
+                        "steam_purchase": true,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUU0gAAAAB/gJOKBw==",
+                "day_range_used": 30,
+                "total_matching": 2352
             }
         }
     }

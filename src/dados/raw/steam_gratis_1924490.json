@@ -30,12 +30,12 @@
                 "Arc Games"
             ],
             "price_overview": {
-                "currency": "HKD",
-                "initial": 10000,
-                "final": 10000,
+                "currency": "BRL",
+                "initial": 5999,
+                "final": 5999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "HK$ 100.00"
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 693283
@@ -54,11 +54,11 @@
                             "packageid": 693283,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Gigantic: Rampage Edition - HK$ 100.00",
+                            "option_text": "Gigantic: Rampage Edition - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 10000
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -167,7 +167,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3797
+                "total": 3794
             },
             "achievements": {
                 "total": 26,
@@ -293,6 +293,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 2447,
+                    "total_negative": 1221,
+                    "total_reviews": 3668
+                },
+                "total_matching": 3,
+                "day_range_used": 30
             }
         }
     }

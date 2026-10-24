@@ -16,7 +16,46 @@
             "about_the_game": "<strong>CARRION</strong> is a reverse horror game in which you assume the role of an amorphous creature of unknown origin. Stalk and consume those that imprisoned you to spread fear and panic throughout the facility. Grow and evolve as you tear down this prison and acquire more and more devastating abilities on the path to retribution.",
             "short_description": "CARRION is a reverse horror game in which you assume the role of an amorphous creature of unknown origins, stalking and consuming those that imprisoned you.",
             "supported_languages": "English<strong>*</strong>, French, German, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-            "reviews": "“...an unrelenting slaughterhouse.”<br>8/10 – Destructoid<br><br>“Carrion is a body horror masterpiece”<br>Polygon<br><br>“Carrion is a tour-de-force action game that casts players as an alien creature and doesn't let up with impressive visuals and momentous gameplay.”<br>10/10 – ScreenRant<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 18317,
+                    "total_negative": 1020,
+                    "total_reviews": 19337
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236717796",
+                        "author": {
+                            "steamid": "76561198095439777",
+                            "num_reviews": 156,
+                            "playtime_forever": 279,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 279,
+                            "last_played": 1790964499
+                        },
+                        "language": "english",
+                        "review": "A small cute game about the best boi (girl?)\n\nPros:\n+ Good art style and sound design\n+ Several mechanics (nomnom, blargh, sniki, spiky, sturdy, possession, and mechas!)\n+ Several enemy types (nomnom :D, no nomnom :(, traps kaboom! and mechas ratatatata!)\n\nCons:\n- There is no map, so running around like a headless (technically correct) chicken (technically incorrect) is not fun.",
+                        "timestamp_created": 1790964992,
+                        "timestamp_updated": 1790965252,
+                        "voted_up": true,
+                        "votes_up": 30,
+                        "votes_funny": 5,
+                        "weighted_vote_score": 0.7768523693084717,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFUdoSAAAAB07oCHBw==",
+                "day_range_used": 30,
+                "total_matching": 189
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg?t=1760015957",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/capsule_231x87.jpg?t=1760015957",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/capsule_184x69.jpg?t=1760015957",
@@ -212,7 +251,7 @@
                 }
             ],
             "recommendations": {
-                "total": 33595
+                "total": 33692
             },
             "achievements": {
                 "total": 21,

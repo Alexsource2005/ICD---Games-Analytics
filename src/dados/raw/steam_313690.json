@@ -266,7 +266,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7572
+                "total": 7612
             },
             "achievements": {
                 "total": 70,
@@ -394,6 +394,46 @@
                 "csrr": {
                     "rating": "C12"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3863,
+                    "total_negative": 670,
+                    "total_reviews": 4533
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237018525",
+                        "author": {
+                            "steamid": "76561199153138632",
+                            "num_reviews": 55,
+                            "playtime_forever": 1959,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1959,
+                            "last_played": 1762901793
+                        },
+                        "language": "english",
+                        "review": "still a great lego game. Definitely more of a lego justice league game but i honestly dont have a problem with that. goes deep into lanterns lore. Brianiac was a decent villian. small hub worlds could be better but a great way to see many different parts of the dc universe and has an awesome character selection. open world was better in 2 but this was still a nice experience\r\n",
+                        "timestamp_created": 1791254130,
+                        "timestamp_updated": 1791254130,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.54356849193573,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZIO6AAAAB92ZOIBw==",
+                "day_range_used": 30,
+                "total_matching": 52
             }
         }
     }

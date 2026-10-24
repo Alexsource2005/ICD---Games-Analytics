@@ -34,12 +34,12 @@
                 "SEGA"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 9950,
-                "final": 2487,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 99,50",
-                "final_formatted": "R$ 24,87"
+                "currency": "SAR",
+                "initial": 6999,
+                "final": 6999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "69.99 SR"
             },
             "packages": [
                 201008
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 201008,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Sonic Mania - <span class=\"discount_original_price\">R$ 99,50</span> R$ 24,87",
+                            "option_text": "Sonic Mania - 69.99 SR",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2487
+                            "price_in_cents_with_discount": 6999
                         }
                     ]
                 }
@@ -217,7 +217,7 @@
                 }
             ],
             "recommendations": {
-                "total": 24439
+                "total": 24492
             },
             "achievements": {
                 "total": 18,
@@ -361,6 +361,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 16175,
+                    "total_negative": 1219,
+                    "total_reviews": 17394
+                },
+                "total_matching": 115,
+                "day_range_used": 30
             }
         }
     }

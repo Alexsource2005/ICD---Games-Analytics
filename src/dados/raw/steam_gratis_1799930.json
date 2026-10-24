@@ -45,10 +45,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 6790,
-                "final": 2037,
-                "discount_percent": 70,
-                "initial_formatted": "R$ 67,90",
-                "final_formatted": "R$ 20,37"
+                "final": 6790,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 67,90"
             },
             "packages": [
                 646643
@@ -65,13 +65,13 @@
                     "subs": [
                         {
                             "packageid": 646643,
-                            "percent_savings_text": "-70% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Redout 2 - <span class=\"discount_original_price\">R$ 67,90</span> R$ 20,37",
+                            "option_text": "Redout 2 - R$ 67,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2037
+                            "price_in_cents_with_discount": 6790
                         }
                     ]
                 }
@@ -215,7 +215,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1176
+                "total": 1188
             },
             "achievements": {
                 "total": 52,
@@ -337,6 +337,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Interaksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1022,
+                    "total_negative": 210,
+                    "total_reviews": 1232
+                },
+                "total_matching": 25,
+                "day_range_used": 30
             }
         }
     }

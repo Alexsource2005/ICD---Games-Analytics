@@ -33,12 +33,12 @@
                 "SNK CORPORATION"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 799,
-                "final": 799,
+                "currency": "BRL",
+                "initial": 1599,
+                "final": 1599,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final_formatted": "R$ 15,99"
             },
             "packages": [
                 66191,
@@ -58,21 +58,21 @@
                             "packageid": 66191,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "METAL SLUG - 7,99€",
+                            "option_text": "METAL SLUG - R$ 15,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 1599
                         },
                         {
                             "packageid": 71955,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "METAL SLUG 2-PACK - 12,99€",
+                            "option_text": "METAL SLUG 2-PACK - R$ 25,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
+                            "price_in_cents_with_discount": 2599
                         }
                     ]
                 }
@@ -205,7 +205,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4524
+                "total": 4534
             },
             "achievements": {
                 "total": 15,
@@ -331,6 +331,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1225,
+                    "total_negative": 224,
+                    "total_reviews": 1449
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237692043",
+                        "author": {
+                            "steamid": "76561199219188117",
+                            "num_reviews": 19,
+                            "playtime_forever": 823,
+                            "playtime_last_two_weeks": 723,
+                            "playtime_at_review": 247,
+                            "last_played": 1792010109
+                        },
+                        "language": "english",
+                        "review": "childhood game \r\nclassic game fr \r\n9/10\r\nwish it wasnt hard to do no death run but  its cool  love it",
+                        "timestamp_created": 1791976706,
+                        "timestamp_updated": 1791976706,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB7yNyKBw==",
+                "day_range_used": 30,
+                "total_matching": 10
             }
         }
     }

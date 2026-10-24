@@ -50,12 +50,12 @@
                 "SEGA"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 15500,
-                "final": 3875,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 155,00",
-                "final_formatted": "R$ 38,75"
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 2999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "29,99€"
             },
             "packages": [
                 130330
@@ -72,13 +72,13 @@
                     "subs": [
                         {
                             "packageid": 130330,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Two Point Hospital - <span class=\"discount_original_price\">R$ 155,00</span> R$ 38,75",
+                            "option_text": "Two Point Hospital - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3875
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -205,7 +205,7 @@
                 }
             ],
             "recommendations": {
-                "total": 26695
+                "total": 26730
             },
             "achievements": {
                 "total": 61,
@@ -342,6 +342,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 15313,
+                    "total_negative": 1294,
+                    "total_reviews": 16607
+                },
+                "total_matching": 39,
+                "day_range_used": 30
             }
         }
     }

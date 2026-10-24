@@ -46,10 +46,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4299,
-                "final": 644,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 42,99",
-                "final_formatted": "R$ 6,44"
+                "final": 4299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 42,99"
             },
             "packages": [
                 83242,
@@ -69,33 +69,33 @@
                     "subs": [
                         {
                             "packageid": 83242,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 3 - <span class=\"discount_original_price\">R$ 42,99</span> R$ 6,44",
+                            "option_text": "Just Cause 3 - R$ 42,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 644
+                            "price_in_cents_with_discount": 4299
                         },
                         {
                             "packageid": 83239,
-                            "percent_savings_text": "-70% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 3 - Weaponized Vehicle Pack - <span class=\"discount_original_price\">R$ 16,90</span> R$ 5,07",
+                            "option_text": "Just Cause 3 - Weaponized Vehicle Pack - R$ 16,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 507
+                            "price_in_cents_with_discount": 1690
                         },
                         {
                             "packageid": 83241,
-                            "percent_savings_text": "-70% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 3 - Explosive Weapon Pack - <span class=\"discount_original_price\">R$ 16,90</span> R$ 5,07",
+                            "option_text": "Just Cause 3 - Explosive Weapon Pack - R$ 16,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 507
+                            "price_in_cents_with_discount": 1690
                         }
                     ]
                 }
@@ -308,7 +308,7 @@
                 }
             ],
             "recommendations": {
-                "total": 104343
+                "total": 104501
             },
             "achievements": {
                 "total": 66,
@@ -476,6 +476,53 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 49894,
+                    "total_negative": 8613,
+                    "total_reviews": 58507
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237739686",
+                        "author": {
+                            "steamid": "76561198103961889",
+                            "num_reviews": 25,
+                            "playtime_forever": 3608,
+                            "playtime_last_two_weeks": 1501,
+                            "playtime_at_review": 2984,
+                            "last_played": 1792370180
+                        },
+                        "language": "english",
+                        "review": "I remember a time when gaming was fun and you could buy a single player game like this and just have fun. Where have the years gone.",
+                        "timestamp_created": 1792024098,
+                        "timestamp_updated": 1792024098,
+                        "voted_up": true,
+                        "votes_up": 15,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6732110381126404,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "Intel(R) Core(TM) i9-14900KF",
+                            "adapter_description": "NVIDIA GeForce RTX 4090",
+                            "system_ram": "65291",
+                            "vram_size": 24138
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFWiSkAAAAB26vOKBw==",
+                "day_range_used": 30,
+                "total_matching": 250
             }
         }
     }

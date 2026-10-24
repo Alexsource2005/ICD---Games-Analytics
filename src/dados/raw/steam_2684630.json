@@ -14,7 +14,53 @@
             "about_the_game": "<h2 class=\"bb_tag\" ><strong>What am I in for?</strong></h2>Welcome to the world of Endacopia! You're in for a surreal Point and Click Adventure full of unsolved mysteries, abstract puzzles, hostile monsters, and horrors that lurk in the shadows... if tampered with, of course. You'll be guiding a young boy named Mellow who has lost all his senses in an attempt to escape an uncomfortable home.<h2 class=\"bb_tag\" ><strong>What do I do?</strong></h2>First and foremost, you'll need a functional keyboard and mouse to play this game. Once you've taken care of that, prepare yourself to use your brain for the following scenarios:<br><ul class=\"bb_ul\"><li>Decide which area to explore next in whichever order you'd like.<br></li><li>Use Mellow's bare fists to block, dodge, and punch monsters in first person perspective.<br></li><li>Have conversations with strange individuals who may or may not help you on your quests.<br></li><li>Fill your pockets with tools, toys, gadgets, and trash.<br></li><li>Try your luck at a variety of mini-games.<br></li><li>Gaze at an abundance of animated background gags. <br></li><li>Uncover disturbing secrets that were probably better left hidden.</li></ul>",
             "short_description": "Endacopia is a Point-and-Click Puzzle Adventure that is visually reminiscent of early computer edutainment games... with underlying horrors.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "reviews": "“Endacopia is an adventure game marvel filled with loveable weirdos and strange scenarios that marches to the beat of its own drum in every regard and triumphantly excels because of it.”<br>97% – Adventure Game Hotspot<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 7246,
+                    "total_negative": 76,
+                    "total_reviews": 7322
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236519746",
+                        "author": {
+                            "steamid": "76561198025231328",
+                            "num_reviews": 155,
+                            "playtime_forever": 960,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 960,
+                            "last_played": 1790737728
+                        },
+                        "language": "english",
+                        "review": "Just finished getting 100% achievements in the game. This was a really nice experience.\n\nIt's fairly slow paced, but chock full of personality and detail. Most of the puzzles are fairly logic based and not too hard to solve, but the 'secrets' you need to discover for the third ending can be pretty cryptic to find.\n\nThe vibes and art style of the game are fantastic, very reminiscent of old 90's pc games, complete with uncanny visual and grimy pseudo realistic textures. Certain segments of the game gave me flashbacks to playing old 'edutainment' games on my grandma's old bulky mac pc.\n\nI would not call the game very 'scary', or disturbing, but I play a ton of horror games so that could just be me being numb. Take that with a grain of salt. I've seen other reviews that call the game fairly disturbing. Even if you don't find the game 'scary', the world and experience are still fantastic and I loved it enough to play through multiple times to get all the endings.",
+                        "timestamp_created": 1790738738,
+                        "timestamp_updated": 1790738738,
+                        "voted_up": true,
+                        "votes_up": 31,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7695385813713074,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "13th Gen Intel(R) Core(TM) i5-13500HX",
+                            "adapter_description": "NVIDIA GeForce RTX 4050 Laptop GPU",
+                            "system_ram": "16103",
+                            "vram_size": 5920
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFUm/YAAAABylKCGBw==",
+                "day_range_used": 30,
+                "total_matching": 1012
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/5621eac53b3a30ea19bf9294d34ea1c7a4e95feb/capsule_231x87.jpg?t=1786381683",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/5621eac53b3a30ea19bf9294d34ea1c7a4e95feb/capsule_184x69.jpg?t=1786381683",
@@ -165,7 +211,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7472
+                "total": 7928
             },
             "achievements": {
                 "total": 16,

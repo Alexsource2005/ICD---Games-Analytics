@@ -39,12 +39,12 @@
                 "Private Division"
             ],
             "price_overview": {
-                "currency": "RUB",
-                "initial": 180000,
-                "final": 180000,
+                "currency": "BRL",
+                "initial": 11999,
+                "final": 11999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "1800 руб."
+                "final_formatted": "R$ 119,99"
             },
             "packages": [
                 27437
@@ -63,11 +63,11 @@
                             "packageid": 27437,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Kerbal Space Program - 1800 руб.",
+                            "option_text": "Kerbal Space Program - R$ 119,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 180000
+                            "price_in_cents_with_discount": 11999
                         }
                     ]
                 }
@@ -199,17 +199,17 @@
                     "highlight": true
                 },
                 {
-                    "id": 256721669,
-                    "name": "Away with Words (RU)",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721669/movie.293x165.jpg?t=1530546358",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/220200/171276/34fe75c1be37f899dbe9c2465613a181113e7a84/1750481529/dash_av1.mpd?t=1530546358",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/220200/171276/34fe75c1be37f899dbe9c2465613a181113e7a84/1750481529/dash_h264.mpd?t=1530546358",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/220200/171276/34fe75c1be37f899dbe9c2465613a181113e7a84/1750481529/hls_264_master.m3u8?t=1530546358",
+                    "id": 256721668,
+                    "name": "Away with Words (Multi)",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721668/movie.293x165.jpg?t=1530546348",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/220200/171275/05402c0d73c11650cc837932b2e0a66007c238b5/1750481523/dash_av1.mpd?t=1530546348",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/220200/171275/05402c0d73c11650cc837932b2e0a66007c238b5/1750481523/dash_h264.mpd?t=1530546348",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/220200/171275/05402c0d73c11650cc837932b2e0a66007c238b5/1750481523/hls_264_master.m3u8?t=1530546348",
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 121487
+                "total": 121737
             },
             "release_date": {
                 "coming_soon": false,
@@ -258,6 +258,18 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 97973,
+                    "total_negative": 4180,
+                    "total_reviews": 102153
+                },
+                "total_matching": 728,
+                "day_range_used": 30
             }
         }
     }

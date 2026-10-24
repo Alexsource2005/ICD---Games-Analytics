@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Amnesia: The Dark Descent",
             "steam_appid": 57300,
-            "required_age": 0,
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "The last remaining memories fade away into darkness. Your mind is a mess and only a feeling of being hunted remains. You must escape.<br>\t\t\t\t\t<strong>Awake...</strong><br>\t\t\t\t\tAmnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.<br>\t\t\t\t\tYou stumble through the narrow corridors as the distant cry is heard.<br>\t\t\t\t\tIt is getting closer.<br>\t\t\t\t\t<strong>Explore...</strong><br>\t\t\t\t\tAmnesia: The Dark Descent puts you in the shoes of Daniel as he wakes up in a desolate castle, barely remembering anything about his past. Exploring the eerie pathways, you must also take part of Daniel's troubled memories. The horror does not only come from the outside, but from the inside as well. A disturbing odyssey into the dark corners of the human mind awaits.<br>\t\t\t\t\tA sound of dragging feet? Or is your mind playing tricks on you?<br>\t\t\t\t\t<strong>Experience...</strong><br>\t\t\t\t\tBy using a fully physically simulated world, cutting edge 3D graphics and a dynamic sound system, the game pulls no punches when trying to immerse you. Once the game starts, you will be in control from the beginning to the end. There are no cut-scenes or time-jumps, whatever happens will happen to you first hand.<br>\t\t\t\t\tSomething emerges out of the darkness. It's approaching. Fast.<br>\t\t\t\t\t<strong>Survive...</strong><br>\t\t\t\t\tAmnesia: The Dark Descent throws you headfirst into a dangerous world where danger can lurk behind every corner. Your only means of defense are hiding, running or using your wits.<br>\t\t\t\t\tDo you have what it takes to survive?",
@@ -32,12 +32,12 @@
                 "Frictional Games"
             ],
             "price_overview": {
-                "currency": "HKD",
-                "initial": 12500,
-                "final": 12500,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "HK$ 125.00"
+                "currency": "BRL",
+                "initial": 5999,
+                "final": 1199,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 11,99"
             },
             "packages": [
                 6098
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 6098,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "Amnesia: The Dark Descent - HK$ 125.00",
+                            "option_text": "Amnesia: The Dark Descent - <span class=\"discount_original_price\">R$ 59,99</span> R$ 11,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12500
+                            "price_in_cents_with_discount": 1199
                         }
                     ]
                 }
@@ -178,7 +178,7 @@
                 }
             ],
             "recommendations": {
-                "total": 20478
+                "total": 20518
             },
             "achievements": {
                 "total": 18,
@@ -312,6 +312,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 20049,
+                    "total_negative": 1042,
+                    "total_reviews": 21091
+                },
+                "total_matching": 81,
+                "day_range_used": 30
             }
         }
     }

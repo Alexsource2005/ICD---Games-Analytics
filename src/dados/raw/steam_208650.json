@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Batman™: Arkham Knight",
             "steam_appid": 208650,
-            "required_age": "16",
+            "required_age": "17",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -63,12 +63,12 @@
                 "WB Games"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 8999,
-                "final": 8999,
+                "currency": "USD",
+                "initial": 1999,
+                "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 89,99"
+                "final_formatted": "$19.99"
             },
             "packages": [
                 85499,
@@ -89,31 +89,31 @@
                             "packageid": 85499,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Batman™: Arkham Knight - R$ 89,99",
+                            "option_text": "Batman™: Arkham Knight - $19.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 85500,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Batman: Arkham Knight Premium Edition - R$ 179,99",
+                            "option_text": "Batman: Arkham Knight Premium Edition - $39.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 17999
+                            "price_in_cents_with_discount": 3999
                         },
                         {
                             "packageid": 320795,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Batman: Arkham Collection - R$ 279,99",
+                            "option_text": "Batman: Arkham Collection - $59.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 27999
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -253,7 +253,7 @@
                 }
             ],
             "recommendations": {
-                "total": 111824
+                "total": 112257
             },
             "achievements": {
                 "total": 113,
@@ -342,7 +342,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "23 Jun, 2015"
+                "date": "Jun 23, 2015"
             },
             "support_info": {
                 "url": "support.wbgames.com",
@@ -412,6 +412,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 66730,
+                    "total_negative": 9122,
+                    "total_reviews": 75852
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236105916",
+                        "author": {
+                            "steamid": "76561199065638488",
+                            "num_reviews": 34,
+                            "playtime_forever": 9,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 9,
+                            "last_played": 1725451520
+                        },
+                        "language": "english",
+                        "review": "Pirated it, finished it, then felt like I didn’t deserve to experience something this good for free so i bought it. \n\nPeak.",
+                        "timestamp_created": 1790290965,
+                        "timestamp_updated": 1790290965,
+                        "voted_up": true,
+                        "votes_up": 323,
+                        "votes_funny": 77,
+                        "weighted_vote_score": 0.9565854668617249,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFQ3kkAAAAB8i9aEBw==",
+                "day_range_used": 30,
+                "total_matching": 671
             }
         }
     }

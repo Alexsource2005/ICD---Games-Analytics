@@ -298,7 +298,7 @@
                 }
             ],
             "recommendations": {
-                "total": 32968
+                "total": 32976
             },
             "achievements": {
                 "total": 52,
@@ -424,6 +424,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 12705,
+                    "total_negative": 1988,
+                    "total_reviews": 14693
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236720848",
+                        "author": {
+                            "steamid": "76561197997605412",
+                            "num_reviews": 2,
+                            "playtime_forever": 1002,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1002,
+                            "last_played": 1790967376
+                        },
+                        "language": "english",
+                        "review": "first 3 levels are fun. after that developers wacko and created 4th level and its frustrating and anoying.I guess developers where high on something when they designed last level.",
+                        "timestamp_created": 1790967497,
+                        "timestamp_updated": 1790967497,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.5454545617103577,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZF0UAAAABwrYKHBw==",
+                "day_range_used": 30,
+                "total_matching": 39
             }
         }
     }

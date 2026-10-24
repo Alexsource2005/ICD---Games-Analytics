@@ -29,12 +29,12 @@
                 "Activision"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 3999,
-                "final": 3999,
+                "currency": "BRL",
+                "initial": 21990,
+                "final": 21990,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "39,99€"
+                "final_formatted": "R$ 219,90"
             },
             "packages": [
                 213423
@@ -53,11 +53,11 @@
                             "packageid": 213423,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Crash Bandicoot™ N. Sane Trilogy - 39,99€",
+                            "option_text": "Crash Bandicoot™ N. Sane Trilogy - R$ 219,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 21990
                         }
                     ]
                 }
@@ -225,7 +225,7 @@
                 }
             ],
             "recommendations": {
-                "total": 16780
+                "total": 16825
             },
             "achievements": {
                 "total": 74,
@@ -348,6 +348,46 @@
                 "csrr": {
                     "rating": "G"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 9387,
+                    "total_negative": 1088,
+                    "total_reviews": 10475
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236196260",
+                        "author": {
+                            "steamid": "76561198144222017",
+                            "num_reviews": 449,
+                            "playtime_forever": 1993,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1993,
+                            "last_played": 1790382945
+                        },
+                        "language": "english",
+                        "review": "Incredible games. I don't even know how many times I've completed these games from Childhood to Adulthood.\r\n\r\nGreat remaster by Vicarious Visions. The Graphics are great without losing the originals' charm. The levels themselves are greatly designed. These are among the greatest platformers ever createed.\r\n\r\nThe soundtrack takes me right back to childhood playing on the PS1.\r\n\r\n10/10",
+                        "timestamp_created": 1790383283,
+                        "timestamp_updated": 1790383283,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5711711645126343,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYk5sAAAAB0moKFBw==",
+                "day_range_used": 30,
+                "total_matching": 63
             }
         }
     }

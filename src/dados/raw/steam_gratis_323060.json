@@ -11,7 +11,18 @@
             "about_the_game": "A mysterious signal originating from the Tharsis region of Mars set us on a frantic mission. Who sent it? And why? Impossible questions, but in them lie the key to humanity’s survival.<br />\r\n<br />\r\nNow, millions of miles away from home, a micrometeoroid storm has left us with a severely damaged ship, two deceased crew, and the sneaking suspicion this trip was doomed from the start.<br />\r\n<br />\r\nTharsis is a turn-based space strategy game. With dice. And cannibalism. It puts you in control of humanity’s first mission to Mars, just as it’s struck by a micrometeoroid storm. You must guide your crew through disasters, food shortages,  and the unforgiving nature of space — all while maintaining your sanity amidst cryptic signals and warnings from Mars.<br />\r\n<br />\r\nDefy the odds, make the difficult decisions, and embark on the most important mission in human history.",
             "short_description": "Succeeding in Tharsis requires you to make the best of what you have, even if it happens to be a pair of snake eyes. Certain factors may be outside of your control, but that doesn’t mean they can’t be overcome. Tharsis is not a game about facing the odds. It’s a game about changing them.",
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-            "reviews": "“What sets Tharsis apart from other space survival stories is the meticulous attention to detail paid to its ever-worsening parade of disaster scenarios.&quot;”<br>Motherboard/Vice<br><br>“...extremely difficult and very fun dice-based strategy game...”<br>Kotaku<br><br>“Tharsis Is an Ingenious Space Game That Will Break You”<br>5/5 – Time<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 1412,
+                    "total_negative": 611,
+                    "total_reviews": 2023
+                },
+                "total_matching": 1,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323060/header.jpg?t=1702627319",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323060/capsule_231x87.jpg?t=1702627319",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323060/capsule_184x69.jpg?t=1702627319",
@@ -35,10 +46,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 27,99"
+                "final": 1399,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 27,99",
+                "final_formatted": "R$ 13,99"
             },
             "packages": [
                 50844
@@ -55,13 +66,13 @@
                     "subs": [
                         {
                             "packageid": 50844,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "Tharsis - R$ 27,99",
+                            "option_text": "Tharsis - <span class=\"discount_original_price\">R$ 27,99</span> R$ 13,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 1399
                         }
                     ]
                 }

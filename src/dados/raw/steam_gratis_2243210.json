@@ -41,11 +41,11 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 7490,
-                "final": 4494,
-                "discount_percent": 40,
-                "initial_formatted": "R$ 74,90",
-                "final_formatted": "R$ 44,94"
+                "initial": 6990,
+                "final": 6990,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 69,90"
             },
             "packages": [
                 804326
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 804326,
-                            "percent_savings_text": "-40% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "World War Z Aftermath Upgrade - <span class=\"discount_original_price\">R$ 74,90</span> R$ 44,94",
+                            "option_text": "World War Z Aftermath Upgrade - R$ 69,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4494
+                            "price_in_cents_with_discount": 6990
                         }
                     ]
                 }
@@ -183,7 +183,7 @@
                 }
             ],
             "recommendations": {
-                "total": 172
+                "total": 177
             },
             "release_date": {
                 "coming_soon": false,
@@ -209,6 +209,18 @@
                     "use_age_gate": "true",
                     "required_age": "16"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 64,
+                    "total_negative": 5,
+                    "total_reviews": 69
+                },
+                "total_matching": 2,
+                "day_range_used": 30
             }
         }
     }

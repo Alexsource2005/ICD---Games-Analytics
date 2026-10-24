@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 12900,
-                "final": 12900,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 129,00"
+                "final": 4257,
+                "discount_percent": 67,
+                "initial_formatted": "R$ 129,00",
+                "final_formatted": "R$ 42,57"
             },
             "packages": [
                 237900,
@@ -58,23 +58,23 @@
                     "subs": [
                         {
                             "packageid": 237900,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-67% ",
                             "percent_savings": 0,
-                            "option_text": "Phoenix Wright: Ace Attorney Trilogy / 逆転裁判123 成歩堂セレクション - R$ 129,00",
+                            "option_text": "Phoenix Wright: Ace Attorney Trilogy / 逆転裁判123 成歩堂セレクション - <span class=\"discount_original_price\">R$ 129,00</span> R$ 42,57",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12900
+                            "price_in_cents_with_discount": 4257
                         },
                         {
                             "packageid": 1045545,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "Ace Attorney Anthology - R$ 259,00",
+                            "option_text": "Ace Attorney Anthology - <span class=\"discount_original_price\">R$ 259,00</span> R$ 129,50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 25900
+                            "price_in_cents_with_discount": 12950
                         }
                     ]
                 }
@@ -242,7 +242,7 @@
                 }
             ],
             "recommendations": {
-                "total": 35870
+                "total": 35982
             },
             "achievements": {
                 "total": 30,
@@ -382,6 +382,46 @@
                     "rating": "14",
                     "descriptors": "Violência\r\nConteúdo Sexual\r\nDrogas Lícitas"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 12053,
+                    "total_negative": 280,
+                    "total_reviews": 12333
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237303264",
+                        "author": {
+                            "steamid": "76561198402581885",
+                            "num_reviews": 21,
+                            "playtime_forever": 486,
+                            "playtime_last_two_weeks": 123,
+                            "playtime_at_review": 224,
+                            "last_played": 1791762631
+                        },
+                        "language": "english",
+                        "review": "Not really a review because I havent gotten very far in the game yet but just want to share this with anyone who has problems with the game’s constant screen flashing. Disabling vibration and screen shake wont help with the ludicrous amount of screen flashing especially during trials. It really irritates my eyes.\n\nThere’s a mod that helps remedy this called “UPDATE to Farfromtile’s White screen flashing mod” on Nexus Mods. It helps a lot if you have the same problem I do.",
+                        "timestamp_created": 1791568027,
+                        "timestamp_updated": 1791568027,
+                        "voted_up": true,
+                        "votes_up": 20,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.7192651629447937,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVnV0AAAABw3p6JBw==",
+                "day_range_used": 30,
+                "total_matching": 124
             }
         }
     }

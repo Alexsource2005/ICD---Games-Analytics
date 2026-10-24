@@ -158,7 +158,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1512
+                "total": 1517
             },
             "release_date": {
                 "coming_soon": false,
@@ -197,6 +197,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nHoror\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 1847,
+                    "total_negative": 21,
+                    "total_reviews": 1868
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236651611",
+                        "author": {
+                            "steamid": "76561198136191747",
+                            "num_reviews": 26,
+                            "playtime_forever": 1087,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 812,
+                            "last_played": 1791314248
+                        },
+                        "language": "english",
+                        "review": "Wasn't exactly a life changing experience for me like it was for others, but a nice comfy RPG to unwind with, and one that made me think a bit.\r\n\r\nClaire's cool, you should play it for her more than anything.",
+                        "timestamp_created": 1790891188,
+                        "timestamp_updated": 1790891188,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZhheAAAAB7xeCGBw==",
+                "day_range_used": 30,
+                "total_matching": 19
             }
         }
     }

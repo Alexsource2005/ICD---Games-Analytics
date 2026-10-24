@@ -39,12 +39,12 @@
                 "Dear Villagers"
             ],
             "price_overview": {
-                "currency": "RUB",
-                "initial": 62000,
-                "final": 21700,
+                "currency": "SAR",
+                "initial": 5695,
+                "final": 1993,
                 "discount_percent": 65,
-                "initial_formatted": "620 руб.",
-                "final_formatted": "217 руб."
+                "initial_formatted": "56.95 SR",
+                "final_formatted": "19.93 SR"
             },
             "packages": [
                 270234
@@ -63,11 +63,11 @@
                             "packageid": 270234,
                             "percent_savings_text": "-65% ",
                             "percent_savings": 0,
-                            "option_text": "Gravity Circuit - <span class=\"discount_original_price\">620 руб.</span> 217 руб.",
+                            "option_text": "Gravity Circuit - <span class=\"discount_original_price\">56.95 SR</span> 19.93 SR",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 21700
+                            "price_in_cents_with_discount": 1993
                         }
                     ]
                 }
@@ -214,7 +214,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3045
+                "total": 3056
             },
             "achievements": {
                 "total": 53,
@@ -338,6 +338,18 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3609,
+                    "total_negative": 283,
+                    "total_reviews": 3892
+                },
+                "total_matching": 82,
+                "day_range_used": 30
             }
         }
     }

@@ -12,7 +12,18 @@
             "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320140/extras/72db59f4b58207f6cc0645cde15d3ff4.avif?t=1778227928\" width=616 height=174 /></span><h2 class=\"bb_tag\" >Drifting: the Art Of Sliding Sideways.</h2><br>In Absolute Drift, you will master the art of drifting. Practice your skills in Free-Roam and compete in drift events such as Driftkhana and Mountain Drifting.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>    Drive and customize up to 6 drift cars<br></li><li>\t3 Game Modes: Driftkhana, Drifting, &amp; Mountain Drifting with 34 levels<br></li><li>\t5 Free-Roaming areas, each with unique levels and themes, from airports and docks to a floating metropolis<br></li><li>\tOnline Leaderboards, replays and ghost cars. View your friends' runs or the best in the world! <br></li><li>\t3+ hours of clean Drum &amp; Bass and Electronic music by C41 and Nyte<br></li><li>\tFull Controller Support</li></ul>",
             "short_description": "Absolute Drift is a racing game about becoming a master at the art of drifting.",
             "supported_languages": "English",
-            "reviews": "“Absolute Drift is a game anyone can play and offers a great amount of content. It’s fun, it’s something new and you can pour hours into it.”<br>9/10 – AR12 Gaming<br><br>“It is immediately fun, however, and the odd brief, accidental brushes with excellence feel superb and will make you want to play on.”<br>Rock Paper Shotgun<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2060,
+                    "total_negative": 300,
+                    "total_reviews": 2360
+                },
+                "total_matching": 7,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320140/header.jpg?t=1778227928",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320140/capsule_231x87.jpg?t=1778227928",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320140/capsule_184x69.jpg?t=1778227928",
@@ -39,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5349,
-                "final": 2407,
-                "discount_percent": 55,
-                "initial_formatted": "R$ 53,49",
-                "final_formatted": "R$ 24,07"
+                "final": 5349,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 53,49"
             },
             "packages": [
                 49753
@@ -59,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 49753,
-                            "percent_savings_text": "-55% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Absolute Drift - <span class=\"discount_original_price\">R$ 53,49</span> R$ 24,07",
+                            "option_text": "Absolute Drift - R$ 53,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2407
+                            "price_in_cents_with_discount": 5349
                         }
                     ]
                 }
@@ -193,7 +204,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2196
+                "total": 2201
             },
             "achievements": {
                 "total": 20,

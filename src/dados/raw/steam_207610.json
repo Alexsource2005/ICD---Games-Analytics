@@ -5,7 +5,7 @@
             "type": "game",
             "name": "The Walking Dead",
             "steam_appid": 207610,
-            "required_age": 0,
+            "required_age": "17",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -15,7 +15,46 @@
             "about_the_game": "The Walking Dead is a five-part game series set in the same universe as Robert Kirkman’s award-winning comic book series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer him redemption in a world gone to hell.<br><br><ul class=\"bb_ul\"><li> Based on Robert Kirkman’s Eisner-Award winning comic book series, The Walking Dead allows gamers to experience the true horror of the zombie apocalypse.<br></li><li> A tailored game experience: live with the profound and lasting consequences of the decisions that you make in each episode. Your actions and choices will affect how your story plays out across the entire series.<br></li><li> You’ll be forced to make decisions that are not only difficult, but that will require you to make an almost immediate choice. There’s no time to ponder when the undead are pounding the door down!</li></ul>",
             "short_description": "A five-part adventure horror series set in the same universe as Robert Kirkman’s award-winning comic book series.",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-            "reviews": "“The Walking Dead: The Game demands to be experienced.”<br>9.3 – IGN<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 35499,
+                    "total_negative": 1131,
+                    "total_reviews": 36630
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237208866",
+                        "author": {
+                            "steamid": "76561198116309237",
+                            "num_reviews": 104,
+                            "playtime_forever": 1530,
+                            "playtime_last_two_weeks": 2,
+                            "playtime_at_review": 1528,
+                            "last_played": 1792518625
+                        },
+                        "language": "english",
+                        "review": "The Walking Dead revolutionized episodic gaming by focusing on intense character drama and moral choices. The story centers on the deeply emotional bond between Lee and Clementine as they navigate a brutal apocalypse. Featuring a distinctive comic-book art style and outstanding voice acting, the game forces players to make gut-wrenching decisions that dynamically shape their relationships with other survivors.\r\n\r\nThere are really too few game elements in The Walking Dead to justify calling it a game. Its amazing world, great voice actors and the tough decisions it throws at you constantly will have you completely forget about this though. It's a compelling story that grabs you from the opening of the game and doesn't let go until its controversial ending in the last chapter. The intelligent choice-system  gives you the feeling that you're creating your own story, which is why you'll lose yourself in the characters in no-time. It never gets really challenging, but for those who enjoy a good story, it's a great enrichment of the Walking Dead-universe.",
+                        "timestamp_created": 1791470068,
+                        "timestamp_updated": 1791470068,
+                        "voted_up": true,
+                        "votes_up": 25,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7555253505706787,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFU47aAAAABy0vCIBw==",
+                "day_range_used": 30,
+                "total_matching": 164
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg?t=1729702559",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/capsule_231x87.jpg?t=1729702559",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/capsule_184x69.jpg?t=1729702559",
@@ -37,12 +76,12 @@
                 "Skybound Games"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 4699,
-                "final": 4699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 46,99"
+                "currency": "CAD",
+                "initial": 1949,
+                "final": 389,
+                "discount_percent": 80,
+                "initial_formatted": "CDN$ 19.49",
+                "final_formatted": "CDN$ 3.89"
             },
             "packages": [
                 14335
@@ -59,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 14335,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "The Walking Dead - R$ 46,99",
+                            "option_text": "The Walking Dead - <span class=\"discount_original_price\">CDN$ 19.49</span> CDN$ 3.89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
+                            "price_in_cents_with_discount": 389
                         }
                     ]
                 }
@@ -160,7 +199,7 @@
                 }
             ],
             "recommendations": {
-                "total": 53800
+                "total": 53915
             },
             "achievements": {
                 "total": 48,

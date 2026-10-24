@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 18333
+                "total": 18382
             },
             "achievements": {
                 "total": 80,
@@ -357,6 +357,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 14849,
+                    "total_negative": 3899,
+                    "total_reviews": 18748
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236371868",
+                        "author": {
+                            "steamid": "76561198122043510",
+                            "num_reviews": 15,
+                            "playtime_forever": 35,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 35,
+                            "last_played": 1790533194
+                        },
+                        "language": "english",
+                        "review": "3+ years later, still broken. Completely unplayable for the majority of people.",
+                        "timestamp_created": 1790558912,
+                        "timestamp_updated": 1790558912,
+                        "voted_up": false,
+                        "votes_up": 15,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.632079541683197,
+                        "comment_count": 2,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXW8AAAAAB8+deFBw==",
+                "day_range_used": 30,
+                "total_matching": 126
             }
         }
     }

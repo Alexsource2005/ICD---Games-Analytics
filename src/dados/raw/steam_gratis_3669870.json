@@ -39,12 +39,12 @@
                 "Remedy Entertainment"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 5999,
-                "final": 5999,
+                "currency": "BRL",
+                "initial": 22999,
+                "final": 22999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$59.99"
+                "final_formatted": "R$ 229,99"
             },
             "packages": [
                 1616853,
@@ -64,21 +64,21 @@
                             "packageid": 1616853,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "CONTROL Resonant - $59.99",
+                            "option_text": "CONTROL Resonant - R$ 229,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 22999
                         },
                         {
                             "packageid": 1616863,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "CONTROL Resonant Digital Deluxe Edition - $69.99",
+                            "option_text": "CONTROL Resonant Digital Deluxe Edition - R$ 259,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 25999
                         }
                     ]
                 }
@@ -225,80 +225,80 @@
             ],
             "movies": [
                 {
-                    "id": 257442648,
-                    "name": "ACCOLADES TRAILER EN ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257442648/07e78fefa5917f841a04756ff3917db5708f4caa/movie_600x337.jpg?t=1791013564",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/292103344/26256106431305b8638f91d95c259a69ed86d650/1790860611/dash_av1.mpd?t=1791013564",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/292103344/26256106431305b8638f91d95c259a69ed86d650/1790860611/dash_h264.mpd?t=1791013564",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/292103344/26256106431305b8638f91d95c259a69ed86d650/1790860611/hls_264_master.m3u8?t=1791013564",
+                    "id": 257442647,
+                    "name": "ACCOLADES TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257442647/07e78fefa5917f841a04756ff3917db5708f4caa/movie_600x337.jpg?t=1791013565",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1762571708/42f1726cf567604c3b70554a0d675966b1f597e3/1790860611/dash_av1.mpd?t=1791013565",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1762571708/42f1726cf567604c3b70554a0d675966b1f597e3/1790860611/dash_h264.mpd?t=1791013565",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1762571708/42f1726cf567604c3b70554a0d675966b1f597e3/1790860611/hls_264_master.m3u8?t=1791013565",
                     "highlight": true
                 },
                 {
-                    "id": 257425506,
-                    "name": "LAUNCH TRAILER ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257425506/a6f5bf879e18de15a5b3573a6314f1fa28099579/movie_600x337.jpg?t=1789653820",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1110235396/d1338faf4c62ac4b1676e164162dab5182445bfd/1789458890/dash_av1.mpd?t=1789653820",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1110235396/d1338faf4c62ac4b1676e164162dab5182445bfd/1789458890/dash_h264.mpd?t=1789653820",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1110235396/d1338faf4c62ac4b1676e164162dab5182445bfd/1789458890/hls_264_master.m3u8?t=1789653820",
+                    "id": 257425505,
+                    "name": "LAUNCH TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257425505/a6f5bf879e18de15a5b3573a6314f1fa28099579/movie_600x337.jpg?t=1789653821",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1274105031/8d82034e804811150eaf1960f88f2da3e5575222/1789458860/dash_av1.mpd?t=1789653821",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1274105031/8d82034e804811150eaf1960f88f2da3e5575222/1789458860/dash_h264.mpd?t=1789653821",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1274105031/8d82034e804811150eaf1960f88f2da3e5575222/1789458860/hls_264_master.m3u8?t=1789653821",
                     "highlight": true
                 },
                 {
-                    "id": 257405771,
-                    "name": "ALTERED STATE TRAILER EN ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257405771/4bf8aa4edc79e052e3aa08c81e0c50e106f13d70/movie_600x337.jpg?t=1787683979",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1025027133/750f42219eb2bee63e20a2ae579cad1abf7eee10/1787397913/dash_av1.mpd?t=1787683979",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1025027133/750f42219eb2bee63e20a2ae579cad1abf7eee10/1787397913/dash_h264.mpd?t=1787683979",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1025027133/750f42219eb2bee63e20a2ae579cad1abf7eee10/1787397913/hls_264_master.m3u8?t=1787683979",
+                    "id": 257405770,
+                    "name": "ALTERED STATE TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257405770/4bf8aa4edc79e052e3aa08c81e0c50e106f13d70/movie_600x337.jpg?t=1787683846",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/14042289/0f4f6e93c7c68da897a51e452cbabb8f1f5c72fc/1787397884/dash_av1.mpd?t=1787683846",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/14042289/0f4f6e93c7c68da897a51e452cbabb8f1f5c72fc/1787397884/dash_h264.mpd?t=1787683846",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/14042289/0f4f6e93c7c68da897a51e452cbabb8f1f5c72fc/1787397884/hls_264_master.m3u8?t=1787683846",
                     "highlight": true
                 },
                 {
-                    "id": 257353250,
-                    "name": "PARANATURAL MANHATTAN TRAILER EN ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257353250/37592bd5e1775b2fc8b6410d511a7ac71764d4b0/movie_600x337.jpg?t=1780908701",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/975313572/66d35cfdb8061c071aa678873f13120a12767423/1780906738/dash_av1.mpd?t=1780908701",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/975313572/66d35cfdb8061c071aa678873f13120a12767423/1780906738/dash_h264.mpd?t=1780908701",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/975313572/66d35cfdb8061c071aa678873f13120a12767423/1780906738/hls_264_master.m3u8?t=1780908701",
+                    "id": 257353249,
+                    "name": "PARANATURAL MANHATTAN TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257353249/37592bd5e1775b2fc8b6410d511a7ac71764d4b0/movie_600x337.jpg?t=1780908702",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/120524221/7391645d13c3d72f61262d0c8a2e52de960eff29/1780906737/dash_av1.mpd?t=1780908702",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/120524221/7391645d13c3d72f61262d0c8a2e52de960eff29/1780906737/dash_h264.mpd?t=1780908702",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/120524221/7391645d13c3d72f61262d0c8a2e52de960eff29/1780906737/hls_264_master.m3u8?t=1780908702",
                     "highlight": true
                 },
                 {
-                    "id": 257343422,
-                    "name": "STORY TRAILER EN ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257343422/e62029653237c20767da09955e3c484b2b07a8d9/movie_600x337.jpg?t=1780436778",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/679269173/f5cc89649201ff446070a0699b28c332df793895/1779803467/dash_av1.mpd?t=1780436778",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/679269173/f5cc89649201ff446070a0699b28c332df793895/1779803467/dash_h264.mpd?t=1780436778",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/679269173/f5cc89649201ff446070a0699b28c332df793895/1779803467/hls_264_master.m3u8?t=1780436778",
+                    "id": 257343420,
+                    "name": "STORY TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257343420/e62029653237c20767da09955e3c484b2b07a8d9/movie_600x337.jpg?t=1780436779",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1134392945/625896fa2efcfe2f71e4426423ea31f491e619d5/1779803467/dash_av1.mpd?t=1780436779",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1134392945/625896fa2efcfe2f71e4426423ea31f491e619d5/1779803467/dash_h264.mpd?t=1780436779",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1134392945/625896fa2efcfe2f71e4426423ea31f491e619d5/1779803467/hls_264_master.m3u8?t=1780436779",
                     "highlight": true
                 },
                 {
-                    "id": 257286364,
-                    "name": "GAMEPLAY TRAILER EN ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257286364/a56d5f34ff20c06e0ca288fb1b8b441ab28d439d/movie_600x337.jpg?t=1770973944",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1721170940/f28ac8fee87a9e9c0098cbdec9ce9286e9919097/1770968840/dash_av1.mpd?t=1770973944",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1721170940/f28ac8fee87a9e9c0098cbdec9ce9286e9919097/1770968840/dash_h264.mpd?t=1770973944",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1721170940/f28ac8fee87a9e9c0098cbdec9ce9286e9919097/1770968840/hls_264_master.m3u8?t=1770973944",
+                    "id": 257286362,
+                    "name": "GAMEPLAY TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257286362/a56d5f34ff20c06e0ca288fb1b8b441ab28d439d/movie_600x337.jpg?t=1770973945",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/2055822377/0a972f9696c444c721696c6c13f9da50509a12ee/1770968744/dash_av1.mpd?t=1770973945",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/2055822377/0a972f9696c444c721696c6c13f9da50509a12ee/1770968744/dash_h264.mpd?t=1770973945",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/2055822377/0a972f9696c444c721696c6c13f9da50509a12ee/1770968744/hls_264_master.m3u8?t=1770973945",
                     "highlight": true
                 },
                 {
-                    "id": 257243451,
-                    "name": "ANNOUNCEMENT TRAILER 30 ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243451/31057018416bc0fcf5c6e6e4033f9471eee11c60/movie_600x337.jpg?t=1765507053",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1813464004/365b27d41c18ed27130f337ea375c59544cf20e6/1764839083/dash_av1.mpd?t=1765507053",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1813464004/365b27d41c18ed27130f337ea375c59544cf20e6/1764839083/dash_h264.mpd?t=1765507053",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1813464004/365b27d41c18ed27130f337ea375c59544cf20e6/1764839083/hls_264_master.m3u8?t=1765507053",
+                    "id": 257243455,
+                    "name": "ANNOUNCEMENT TRAILER 30 EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243455/31057018416bc0fcf5c6e6e4033f9471eee11c60/movie_600x337.jpg?t=1765507052",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/410340521/05559c59c833a7319af06230c0ca93b8ce02bbf1/1764839340/dash_av1.mpd?t=1765507052",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/410340521/05559c59c833a7319af06230c0ca93b8ce02bbf1/1764839340/dash_h264.mpd?t=1765507052",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/410340521/05559c59c833a7319af06230c0ca93b8ce02bbf1/1764839340/hls_264_master.m3u8?t=1765507052",
                     "highlight": true
                 },
                 {
-                    "id": 257243412,
-                    "name": "ANNOUNCEMENT TRAILER ESRB",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243412/c1c88f4e2e99516b6fa7c5b4f3ceff1fa1906ea5/movie_600x337.jpg?t=1765507065",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/486348585/27e2424c4f744716771c6a66f047376b756dcce0/1764834027/dash_av1.mpd?t=1765507065",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/486348585/27e2424c4f744716771c6a66f047376b756dcce0/1764834027/dash_h264.mpd?t=1765507065",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/486348585/27e2424c4f744716771c6a66f047376b756dcce0/1764834027/hls_264_master.m3u8?t=1765507065",
+                    "id": 257243413,
+                    "name": "ANNOUNCEMENT TRAILER EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243413/c1c88f4e2e99516b6fa7c5b4f3ceff1fa1906ea5/movie_600x337.jpg?t=1765507064",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3669870/1778003087/d0a9dcb903ccba945aa07d4c1bbb961bcd025db8/1764834112/dash_av1.mpd?t=1765507064",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1778003087/d0a9dcb903ccba945aa07d4c1bbb961bcd025db8/1764834112/dash_h264.mpd?t=1765507064",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3669870/1778003087/d0a9dcb903ccba945aa07d4c1bbb961bcd025db8/1764834112/hls_264_master.m3u8?t=1765507064",
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 11439
+                "total": 13572
             },
             "achievements": {
                 "total": 49,
@@ -387,7 +387,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 24, 2026"
+                "date": "24 Sep, 2026"
             },
             "support_info": {
                 "url": "https://remedy.helpshift.com/hc/en/",
@@ -427,6 +427,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan\nHoror"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 11217,
+                    "total_negative": 884,
+                    "total_reviews": 12101
+                },
+                "total_matching": 12101,
+                "day_range_used": 30
             }
         }
     }

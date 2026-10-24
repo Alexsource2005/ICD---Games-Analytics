@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Borderlands 3",
             "steam_appid": 397540,
-            "required_age": "18",
+            "required_age": "16",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -40,12 +40,12 @@
                 "2K"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 5999,
-                "final": 5999,
+                "currency": "BRL",
+                "initial": 11990,
+                "final": 11990,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "59,99€"
+                "final_formatted": "R$ 119,90"
             },
             "packages": [
                 76737,
@@ -65,21 +65,21 @@
                             "packageid": 76737,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Borderlands 3 - 59,99€",
+                            "option_text": "Borderlands 3 - R$ 119,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 11990
                         },
                         {
                             "packageid": 427289,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Borderlands 3: Super Deluxe Edition - 79,99€",
+                            "option_text": "Borderlands 3: Super Deluxe Edition - R$ 179,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7999
+                            "price_in_cents_with_discount": 17990
                         }
                     ]
                 }
@@ -205,17 +205,26 @@
             ],
             "movies": [
                 {
-                    "id": 256875686,
-                    "name": "Launch Trailer - EN - PEGI",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256875686/movie.293x165.jpg?t=1646090233",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/397540/443186/47d5813f83d9c1edf309884045e0f805cab6b5bb/1750525735/dash_av1.mpd?t=1646090233",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/397540/443186/47d5813f83d9c1edf309884045e0f805cab6b5bb/1750525735/dash_h264.mpd?t=1646090233",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/397540/443186/47d5813f83d9c1edf309884045e0f805cab6b5bb/1750525735/hls_264_master.m3u8?t=1646090233",
+                    "id": 256875693,
+                    "name": "Launch Trailer - EN - No Rating",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256875693/movie.293x165.jpg?t=1646090218",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/397540/443193/6e37fe1e3b0d805793c6a8dbb0369745ec233eba/1750525758/dash_av1.mpd?t=1646090218",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/397540/443193/6e37fe1e3b0d805793c6a8dbb0369745ec233eba/1750525758/dash_h264.mpd?t=1646090218",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/397540/443193/6e37fe1e3b0d805793c6a8dbb0369745ec233eba/1750525758/hls_264_master.m3u8?t=1646090218",
+                    "highlight": true
+                },
+                {
+                    "id": 256875692,
+                    "name": "Launch Trailer - EN - CLASSIND",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256875692/movie.293x165.jpg?t=1646090228",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/397540/443192/05ae5d623e3cb03a24298d3890e202cc23502ff3/1750525742/dash_av1.mpd?t=1646090228",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/397540/443192/05ae5d623e3cb03a24298d3890e202cc23502ff3/1750525742/dash_h264.mpd?t=1646090228",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/397540/443192/05ae5d623e3cb03a24298d3890e202cc23502ff3/1750525742/hls_264_master.m3u8?t=1646090228",
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 128076
+                "total": 128141
             },
             "achievements": {
                 "total": 81,
@@ -372,6 +381,18 @@
                     "rating": "18",
                     "descriptors": "Violence\r\nLanguage"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 62252,
+                    "total_negative": 14937,
+                    "total_reviews": 77189
+                },
+                "total_matching": 233,
+                "day_range_used": 30
             }
         }
     }

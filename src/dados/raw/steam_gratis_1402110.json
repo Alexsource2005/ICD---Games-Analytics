@@ -48,15 +48,15 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 10990,
-                "final": 2747,
+                "initial": 14990,
+                "final": 3747,
                 "discount_percent": 75,
-                "initial_formatted": "R$ 109,90",
-                "final_formatted": "R$ 27,47"
+                "initial_formatted": "R$ 149,90",
+                "final_formatted": "R$ 37,47"
             },
             "packages": [
-                492077,
-                874282
+                874282,
+                492077
             ],
             "package_groups": [
                 {
@@ -69,24 +69,24 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 492077,
+                            "packageid": 874282,
                             "percent_savings_text": "-75% ",
                             "percent_savings": 0,
-                            "option_text": "Eternights - <span class=\"discount_original_price\">R$ 109,90</span> R$ 27,47",
+                            "option_text": "Eternights Deluxe Edition - <span class=\"discount_original_price\">R$ 149,90</span> R$ 37,47",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2747
+                            "price_in_cents_with_discount": 3747
                         },
                         {
-                            "packageid": 874282,
+                            "packageid": 492077,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Eternights Deluxe Edition - R$ 149,90",
+                            "option_text": "Eternights - R$ 109,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 14990
+                            "price_in_cents_with_discount": 10990
                         }
                     ]
                 }
@@ -228,7 +228,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3059
+                "total": 3067
             },
             "achievements": {
                 "total": 26,
@@ -356,6 +356,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Penampilan Tokoh\nKekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1573,
+                    "total_negative": 200,
+                    "total_reviews": 1773
+                },
+                "total_matching": 11,
+                "day_range_used": 30
             }
         }
     }

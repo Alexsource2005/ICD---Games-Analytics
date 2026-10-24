@@ -149,7 +149,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3786
+                "total": 3794
             },
             "release_date": {
                 "coming_soon": false,
@@ -177,6 +177,46 @@
                     "use_age_gate": "true",
                     "required_age": "18"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 2577,
+                    "total_negative": 196,
+                    "total_reviews": 2773
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237604522",
+                        "author": {
+                            "steamid": "76561197985502696",
+                            "num_reviews": 59,
+                            "playtime_forever": 32,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 32,
+                            "last_played": 1400948916
+                        },
+                        "language": "english",
+                        "review": "Eschew modern ways. Shoot Nazis, find hidden passages, collect points. Yeah it's simple, but it's classic because it's fun. Novelty got people in the door, good design kept them in the castle.\n\n...Ok yes, Doom is better, but Wolf3D does have a charm of its own that is worth experiencing.",
+                        "timestamp_created": 1791865510,
+                        "timestamp_updated": 1791865510,
+                        "voted_up": true,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.503496527671814,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZ7hiAAAAB66rGKBw==",
+                "day_range_used": 30,
+                "total_matching": 12
             }
         }
     }

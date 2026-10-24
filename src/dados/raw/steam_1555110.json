@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2199,
-                "final": 219,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 21,99",
-                "final_formatted": "R$ 2,19"
+                "final": 2199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 21,99"
             },
             "packages": [
                 549192
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 549192,
-                            "percent_savings_text": "-90% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Chasing Tails -A Promise in the Snow- - <span class=\"discount_original_price\">R$ 21,99</span> R$ 2,19",
+                            "option_text": "Chasing Tails -A Promise in the Snow- - R$ 21,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 219
+                            "price_in_cents_with_discount": 2199
                         }
                     ]
                 }
@@ -163,7 +163,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4289
+                "total": 4315
             },
             "achievements": {
                 "total": 30,
@@ -290,6 +290,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 713,
+                    "total_negative": 64,
+                    "total_reviews": 777
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236964905",
+                        "author": {
+                            "steamid": "76561199824412956",
+                            "num_reviews": 21,
+                            "playtime_forever": 208,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 94,
+                            "last_played": 1791210980
+                        },
+                        "language": "english",
+                        "review": "So just fully completed Chasing Tails ~A Promise in the Snow~\n\nIt describes itself as a: yuri comedy/horror visual novel, featuring a haunted house, fox-girls, and GxG love ❤︎\n\nLet's break it down:\n\nYuri: Yes\n\nComedy: Yes it made me laugh so much actually.\n\nHorror: Barely. There were only a couple of instances of it, and my cat has scared me more than this did.\n\nVN: Yes and a very pretty one at that!\n\nHaunted house: Check!\n\nFox girls: Yes.\n\nGXG love: I mean love is a stretch. Little kisses here and there a bit of g***ping and accidentally falling into a (clothed) breast cloud but nothing that would make you feel weird looking at - unless my perv threshold is higher than the average person, which is likely.\n\n\nHonestly I did everything and every story was unsatisfying to me. Nothing ever amounted to anything, not the characters, not the lore (yes it had lore) Even the horror plot kinda fizzles out into nothing.\n\nBut somehow, I can't say I didn't enjoy it, I had a lot of fun and isn't that what games are supposed to do at the end of the day?\n\n\nI love writing about games, picking them apart in my head and trying to convey that on the internet (to varying degrees of success) but for all the fault I could give to it, I couldn't help but smile the whole way through.\n\nI will continue to write about games, this didn't give me some sort of epiphany or anything. But it did teach me that maybe we don't always have to over analyse things, justify why a thing was good or bad and reduce a game or any medium into those smaller parts that somehow lessen its value, and by extension the joy we felt while experiencing it.\n\nJust let yourself enjoy what you like sometimes, it feels good.\n\n-----\nNow BRB I didn't realise there was a free 18+ patch with actual nuddy till I'd finished it... BAKA!!!",
+                        "timestamp_created": 1791203837,
+                        "timestamp_updated": 1791203837,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZhheAAAAB5wvmHBw==",
+                "day_range_used": 30,
+                "total_matching": 12
             }
         }
     }

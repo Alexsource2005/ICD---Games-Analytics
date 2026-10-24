@@ -129,7 +129,7 @@
                 }
             ],
             "recommendations": {
-                "total": 16775
+                "total": 16824
             },
             "release_date": {
                 "coming_soon": false,
@@ -163,6 +163,18 @@
                     "use_age_gate": "true",
                     "required_age": "15"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 15412,
+                    "total_negative": 950,
+                    "total_reviews": 16362
+                },
+                "total_matching": 86,
+                "day_range_used": 30
             }
         }
     }

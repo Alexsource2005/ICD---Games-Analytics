@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 4699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 46,99"
+                "final": 328,
+                "discount_percent": 93,
+                "initial_formatted": "R$ 46,99",
+                "final_formatted": "R$ 3,28"
             },
             "packages": [
                 1100748
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 1100748,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-93% ",
                             "percent_savings": 0,
-                            "option_text": "World Crafter TD - R$ 46,99",
+                            "option_text": "World Crafter TD - <span class=\"discount_original_price\">R$ 46,99</span> R$ 3,28",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
+                            "price_in_cents_with_discount": 328
                         }
                     ]
                 }
@@ -284,6 +284,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 4,
+                    "review_score_desc": "Mostly Negative",
+                    "total_positive": 91,
+                    "total_negative": 149,
+                    "total_reviews": 240
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238262005",
+                        "author": {
+                            "steamid": "76561199651926505",
+                            "num_reviews": 3,
+                            "playtime_forever": 288,
+                            "playtime_last_two_weeks": 288,
+                            "playtime_at_review": 230,
+                            "last_played": 1792701411
+                        },
+                        "language": "english",
+                        "review": "If you've ever played BTD6, it is similar to that. I would highly recommend playing it. \r\nIt is very fun!",
+                        "timestamp_created": 1792615213,
+                        "timestamp_updated": 1792615213,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB17/KMBw==",
+                "day_range_used": 30,
+                "total_matching": 3
             }
         }
     }

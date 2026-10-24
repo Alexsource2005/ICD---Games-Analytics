@@ -116,7 +116,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3492
+                "total": 3490
             },
             "release_date": {
                 "coming_soon": false,
@@ -145,6 +145,47 @@
                     "use_age_gate": "0",
                     "descriptors": "Fantasy-Gewalt"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 1733,
+                    "total_negative": 231,
+                    "total_reviews": 1964
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236840529",
+                        "author": {
+                            "steamid": "76561199520060715",
+                            "num_reviews": 30,
+                            "playtime_forever": 100,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 100,
+                            "deck_playtime_at_review": 50,
+                            "last_played": 1755315921
+                        },
+                        "language": "english",
+                        "review": "Really boring and repetitive game, dont recommend to anyone",
+                        "timestamp_created": 1791081135,
+                        "timestamp_updated": 1791081135,
+                        "voted_up": false,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5053003430366516,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZ7HUAAAABx5byHBw==",
+                "day_range_used": 30,
+                "total_matching": 3
             }
         }
     }

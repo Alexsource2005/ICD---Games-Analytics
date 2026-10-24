@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Conarium",
             "steam_appid": 313780,
-            "required_age": "14",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -15,7 +15,18 @@
             "about_the_game": "Conarium is a chilling Lovecraftian game that follows the gripping story of four scientists and their endeavour to challenge what we normally consider to be the &quot;absolute&quot; limits of nature. Inspired by H.P. Lovecraft's novella At the Mountains of Madness, but largely set after the original story.<br><br>You, as Frank Gilman, open your eyes inside a room filled with strange, pulsating noises. Patterns of lights executing a Danse Macabre on the walls is presented by a queer device on the table. Having recalled nothing other than that you’re in Upuaut, an Antarctic base located near the South Pole, you find the place deserted and have a distinct feeling of something being terribly wrong. Somehow knowing that your memories cannot guide you enforces a strange feeling of vulnerability, a familiar yet alien sensation of being a part of a peculiar whole... Soon you will discover that having used the device during the expedition, you have died but then returned subtly changed, speaking of strange memories and of strange places. You have lost something important or gained something sinister...<br><br>Explore the Antarctic base, as well as dreams and visions. Study clues and unlock secrets, whilst avoiding macabre beings at all cost.<br><br><br>Key features: <br><ul class=\"bb_ul\"><li>A deep and suspense-filled Lovecraftian story with lots of secrets and Easter eggs.<br></li><li>Ominous but wonderful graphics created with Unreal Engine 4.<br></li><li>Multiple endings.<br></li><li>A haunting and atmospheric soundtrack.</li></ul><br>Powered by Unreal Engine 4, Conarium aims to bring cutting-edge visuals for a more immersive storytelling and gaming experience.",
             "short_description": "Conarium is a chilling Lovecraftian game, which follows a gripping story involving four scientists and their endeavor to challenge what we normally consider to be the ‘absolute’ limits of nature. Inspired by H.P. Lovecraft’s novella &quot;At the Mountains of Madness&quot;, but largely set after the original story.",
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Turkish, Hungarian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "reviews": "“EDITOR'S CHOICE. H.P. Lovecraft’s horror is difficult to adapt to a video game format, but Conarium succeeds. It handles its themes and references well, providing an experience that is equal parts unsettling and fascinating.”<br>100% – Monstervine<br><br>“It has so many high points, and most of all, kept me on the edge of my seat. Not many games can do that.”<br>95% – Geeknifty<br><br>“Play it alone at night with headphones and relish the oppressive and sinister atmosphere.”<br>Recombu<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 826,
+                    "total_negative": 275,
+                    "total_reviews": 1101
+                },
+                "total_matching": 2,
+                "day_range_used": 30
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313780/header.jpg?t=1728475261",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313780/capsule_231x87.jpg?t=1728475261",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313780/capsule_184x69.jpg?t=1728475261",
@@ -40,12 +51,12 @@
                 "Iceberg Interactive"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 5999,
-                "final": 5999,
+                "currency": "EUR",
+                "initial": 1950,
+                "final": 1950,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final_formatted": "19,50€"
             },
             "packages": [
                 47534
@@ -64,11 +75,11 @@
                             "packageid": 47534,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Conarium - R$ 59,99",
+                            "option_text": "Conarium - 19,50€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1950
                         }
                     ]
                 }
@@ -205,7 +216,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1906
+                "total": 1909
             },
             "achievements": {
                 "total": 26,

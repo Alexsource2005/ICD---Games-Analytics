@@ -309,6 +309,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 131,
+                    "total_negative": 58,
+                    "total_reviews": 189
+                },
+                "total_matching": 2,
+                "day_range_used": 30
             }
         }
     }

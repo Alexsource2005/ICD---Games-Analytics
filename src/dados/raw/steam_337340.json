@@ -15,7 +15,46 @@
             "about_the_game": "<p class=\"bb_paragraph\" >Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning... but only in their patients' heads.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only done to people on their deathbeds, to fulfill what they wish they had done with their lives, but didn’t.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Finding Paradise</i> is the standalone 2nd full episode of <i>To the Moon</i>'s series. It follows the life of the doctors' new patient, Colin, as they attempt to unravel a life that is split down the middle, and fulfill a wish that appears to be self-contradictory by nature.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >-------------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ><i>*Like To the Moon, this is a standalone full game that does <strong>not</strong> require having played any previous games in the series.</i></p>",
             "short_description": "Two doctors traverse backwards through a dying man's memories to fulfill his last wish. This is To the Moon's standalone sequel, but can also be played first.",
             "supported_languages": "English, Simplified Chinese, Polish, Ukrainian, Spanish - Spain, Korean, Italian, Portuguese - Brazil, Czech, Russian, German, Turkish, Hungarian, French, Spanish - Latin America, Japanese, Vietnamese",
-            "reviews": "“Simply a narrative masterpiece...”<br>9.1/10 – IGN<br><br>“... A memorable experience that may last me a lifetime.”<br>9.3/10 – RPGFan<br><br>“I'm just happy to be here. :)”<br>:D – Developer's Aunt<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 5874,
+                    "total_negative": 134,
+                    "total_reviews": 6008
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236994097",
+                        "author": {
+                            "steamid": "76561197969975234",
+                            "num_reviews": 81,
+                            "playtime_forever": 449,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 449,
+                            "last_played": 1791227592
+                        },
+                        "language": "english",
+                        "review": "It's not as magical as \"To the Moon\", but it still has an emotional story with great music. \n\nI just wish they would stop bothering to put minigames to make it a \"game\". I bet very few play Freebird's games for them.",
+                        "timestamp_created": 1791227813,
+                        "timestamp_updated": 1791227813,
+                        "voted_up": true,
+                        "votes_up": 4,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5522684454917908,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFY9GMAAAABx44eIBw==",
+                "day_range_used": 30,
+                "total_matching": 11
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337340/9ccd2472b64493cce208bb178d8c0705e849465a/header.jpg?t=1780927618",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337340/2a52c5c8a90bb0e7cf51af41a68e2cb0eebdc9f7/capsule_231x87.jpg?t=1780927618",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337340/2a52c5c8a90bb0e7cf51af41a68e2cb0eebdc9f7/capsule_184x69.jpg?t=1780927618",
@@ -39,10 +78,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 27,99"
+                "final": 559,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 27,99",
+                "final_formatted": "R$ 5,59"
             },
             "packages": [
                 136702
@@ -59,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 136702,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "Finding Paradise - R$ 27,99",
+                            "option_text": "Finding Paradise - <span class=\"discount_original_price\">R$ 27,99</span> R$ 5,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 559
                         }
                     ]
                 }
@@ -162,8 +201,19 @@
                     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337340/ss_19006f8c52835dc1e0a9f4985c976874a3692142.1920x1080.jpg?t=1780927618"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256703534,
+                    "name": "Finding Paradise - Official Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703534/movie.293x165.jpg?t=1513118481",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/337340/137652/9d40464ae476935735077b93c97e865d83886880/1751265787/dash_av1.mpd?t=1513118481",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/337340/137652/9d40464ae476935735077b93c97e865d83886880/1751265787/dash_h264.mpd?t=1513118481",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/337340/137652/9d40464ae476935735077b93c97e865d83886880/1751265787/hls_264_master.m3u8?t=1513118481",
+                    "highlight": true
+                }
+            ],
             "recommendations": {
-                "total": 18165
+                "total": 18189
             },
             "achievements": {
                 "total": 1,

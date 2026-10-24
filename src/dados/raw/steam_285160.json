@@ -192,7 +192,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5102
+                "total": 5109
             },
             "achievements": {
                 "total": 39,
@@ -325,6 +325,46 @@
                     "rating": "12",
                     "descriptors": "Suitable for ages 12 and up."
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 3088,
+                    "total_negative": 1167,
+                    "total_reviews": 4255
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236474905",
+                        "author": {
+                            "steamid": "76561198136317590",
+                            "num_reviews": 26,
+                            "playtime_forever": 67,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 67,
+                            "last_played": 1699737967
+                        },
+                        "language": "english",
+                        "review": "Imagine shipping an unfinished game. Played through this with a friend on another platform and we were both incredibly disappointed by the absolute butchering of an ending. No closure, no fun final act, nothing - the game just boots you back to the map. There is no Battle of The Five Armies and the game doesn't even try to end on a good note.\n\nHonestly a huge disappointment given the new features added in the game.",
+                        "timestamp_created": 1790694015,
+                        "timestamp_updated": 1790694015,
+                        "voted_up": false,
+                        "votes_up": 19,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7070964574813843,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFV26sAAAAB5oYqGBw==",
+                "day_range_used": 30,
+                "total_matching": 18
             }
         }
     }

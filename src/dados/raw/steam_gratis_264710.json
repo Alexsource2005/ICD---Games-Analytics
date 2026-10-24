@@ -39,12 +39,12 @@
                 "Unknown Worlds Entertainment"
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 12450,
-                "final": 12450,
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 2999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 124,50"
+                "final_formatted": "29,99€"
             },
             "packages": [
                 575971,
@@ -65,21 +65,21 @@
                             "packageid": 575971,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Subnautica - R$ 124,50",
+                            "option_text": "Subnautica - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12450
+                            "price_in_cents_with_discount": 2999
                         },
                         {
                             "packageid": 594136,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Subnautica - Commercial License - R$ 124,50",
+                            "option_text": "Subnautica - Commercial License - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12450
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -263,7 +263,7 @@
                 }
             ],
             "recommendations": {
-                "total": 342655
+                "total": 343201
             },
             "achievements": {
                 "total": 17,
@@ -408,6 +408,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nPenggunaan bahasa\nKekerasan"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 203765,
+                    "total_negative": 6449,
+                    "total_reviews": 210214
+                },
+                "total_matching": 866,
+                "day_range_used": 30
             }
         }
     }

@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1500,
-                "final": 600,
-                "discount_percent": 60,
-                "initial_formatted": "R$ 15,00",
-                "final_formatted": "R$ 6,00"
+                "final": 1500,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 15,00"
             },
             "packages": [
                 192180
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 192180,
-                            "percent_savings_text": "-60% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Stick Fight: The Game - <span class=\"discount_original_price\">R$ 15,00</span> R$ 6,00",
+                            "option_text": "Stick Fight: The Game - R$ 15,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 600
+                            "price_in_cents_with_discount": 1500
                         }
                     ]
                 }
@@ -165,7 +165,7 @@
                 }
             ],
             "recommendations": {
-                "total": 99998
+                "total": 100041
             },
             "achievements": {
                 "total": 28,
@@ -287,6 +287,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 62599,
+                    "total_negative": 3914,
+                    "total_reviews": 66513
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238118386",
+                        "author": {
+                            "steamid": "76561198205741083",
+                            "num_reviews": 13,
+                            "playtime_forever": 4259,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 4259,
+                            "last_played": 1680028025
+                        },
+                        "language": "english",
+                        "review": "Play for 2 hours, accidentally played for 20. Great short fun but do not 100%",
+                        "timestamp_created": 1792442616,
+                        "timestamp_updated": 1792442616,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.56175297498703,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYw9MAAAABy36yMBw==",
+                "day_range_used": 30,
+                "total_matching": 177
             }
         }
     }

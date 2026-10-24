@@ -11,7 +11,46 @@
             "about_the_game": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. <br><br>Build, explore, survive in this terrifying first person survival horror simulator.<h2 class=\"bb_tag\" >Key  features</h2><br>Enter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes. <br><br><ul class=\"bb_ul\"><li>Chop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving. <br></li><li>Build a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter. <br></li><li>Explore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy. <br></li><li>Defend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human. <br></li><li>Use stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones. </li></ul>",
             "short_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
             "supported_languages": "English<strong>*</strong>, French, German, Czech, Finnish, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-            "reviews": "“The Forest looks brilliant”<br>Eurogamer<br><br>“It’s an exciting time to be a PC gamer when a team of just four people can create something this impressive.”<br>PC Gamer<br>",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 202326,
+                    "total_negative": 10080,
+                    "total_reviews": 212406
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "235987054",
+                        "author": {
+                            "steamid": "76561199095271342",
+                            "num_reviews": 1,
+                            "playtime_forever": 1559,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 730,
+                            "last_played": 1790808192
+                        },
+                        "language": "english",
+                        "review": "When the cannibals eat my ass I feel a relief unlike anything my physical form has felt. The taste is raw and I know they enjoyed it as deeply as I did",
+                        "timestamp_created": 1790209061,
+                        "timestamp_updated": 1790209061,
+                        "voted_up": true,
+                        "votes_up": 41,
+                        "votes_funny": 49,
+                        "weighted_vote_score": 0.781262993812561,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVX+8AAAAB+hpyEBw==",
+                "day_range_used": 30,
+                "total_matching": 665
+            },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_231x87.jpg?t=1699381053",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_184x69.jpg?t=1699381053",
@@ -30,12 +69,12 @@
                 "Endnight Games Ltd"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 1679,
-                "final": 1679,
+                "currency": "BRL",
+                "initial": 3799,
+                "final": 3799,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "16,79€"
+                "final_formatted": "R$ 37,99"
             },
             "packages": [
                 28497,
@@ -55,21 +94,21 @@
                             "packageid": 28497,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Forest - 16,79€",
+                            "option_text": "The Forest - R$ 37,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
+                            "price_in_cents_with_discount": 3799
                         },
                         {
                             "packageid": 297407,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Forest - Commercial License - 16,79€",
+                            "option_text": "The Forest - Commercial License - R$ 37,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
+                            "price_in_cents_with_discount": 3799
                         }
                     ]
                 }
@@ -237,7 +276,7 @@
                 }
             ],
             "recommendations": {
-                "total": 583239
+                "total": 583952
             },
             "achievements": {
                 "total": 45,

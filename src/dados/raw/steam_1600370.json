@@ -308,6 +308,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 227,
+                    "total_negative": 70,
+                    "total_reviews": 297
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236420451",
+                        "author": {
+                            "steamid": "76561198354438540",
+                            "num_reviews": 6,
+                            "playtime_forever": 175,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 175,
+                            "last_played": 1790622133
+                        },
+                        "language": "english",
+                        "review": "Not nearly as good as the original, unfortunately. The extra mechanics during jobs are a pain in the hole and pretty cartoonish, the writing is a lot worse, and as there are no clear mission instructions for the MapO quests you have to guess what the right thing to do is and the guess is often wrong, which doesn't feel very fair. I was really looking forward to playing this after the first one, and the setting/premise was interesting to me considering the way the American political landscape has ended up in recent years, but sadly the content is just not that interesting. The original game was incredible satire and also showcased Britain's- and particularly the South West's- unique pub and party culture. In this game the cultural references were weak, favouring a far more on-the-nose style of writing, and they chose parody over satire, making the whole thing feel like a cheap caricature rather than a piece of art with a message. I'm very disappointed tbh, I know the creators of this game are capable of much better work and I'm not really sure why they didn't deliver.",
+                        "timestamp_created": 1790622957,
+                        "timestamp_updated": 1790622957,
+                        "voted_up": false,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5064516067504883,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZ3vcAAAABz1u+FBw==",
+                "day_range_used": 30,
+                "total_matching": 2
             }
         }
     }

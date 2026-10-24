@@ -177,7 +177,7 @@
                 }
             ],
             "recommendations": {
-                "total": 17145
+                "total": 17165
             },
             "achievements": {
                 "total": 22,
@@ -303,6 +303,46 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 6172,
+                    "total_negative": 757,
+                    "total_reviews": 6929
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236765541",
+                        "author": {
+                            "steamid": "76561198111483880",
+                            "num_reviews": 3,
+                            "playtime_forever": 405,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 405,
+                            "last_played": 1791016531
+                        },
+                        "language": "english",
+                        "review": "The tutorial is far too short with little explanation while the game gets more difficult after a few levels.\r\n\r\nSome of the levels are also poorly designed like 2-11. \r\n\r\nYou will have to resort to youtube constantly to complete levels.",
+                        "timestamp_created": 1791016780,
+                        "timestamp_updated": 1791016780,
+                        "voted_up": false,
+                        "votes_up": 3,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.5669291019439697,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYqVMAAAAB1lpiHBw==",
+                "day_range_used": 30,
+                "total_matching": 26
             }
         }
     }

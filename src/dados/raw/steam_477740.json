@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Zero Escape: The Nonary Games",
             "steam_appid": 477740,
-            "required_age": "16",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "Kidnapped and taken to an unfamiliar location, nine people find themselves forced to participate in a diabolical Nonary Game by an enigmatic mastermind called Zero. Why were they there? Why were they chosen to put their lives on the line as part of a dangerous life and death game? Who can be trusted? Tensions rise as the situation becomes more and more dire, and the nine strangers must figure out how to escape before they wind up dead.<br><br><ul class=\"bb_ul\"><li>Two spine-tingling Nonary Games<br>Zero welcomes you to take part in both the Nonary Game and the Nonary Game: Ambidex Edition as the award-winning escape-the-room visual novels <i>Nine Hours, Nine Persons, Nine Doors </i>(999) and its sequel,<i> Virtue’s Last Reward </i>(VLR), are together for the first time.<br></li><li>A remastered and revamped Nine Hours<br>The well-received classic Nintendo DS game <i>999</i> has been updated with hi-res graphics and a variety of new features including both Japanese and English voice acting!<br></li><li>Seek a way out<br>Search for clues within numerous locked rooms and solve mind-bending puzzles in order to escape. VLR even has two difficulty settings for more of a challenge.<br></li><li>Fascinating theories and pseudo science ideas abound along the twisting, turning journey to uncover who Zero is, why everyone was kidnapped, and the shocking connection between the Nonary Games.</li></ul>",
             "about_the_game": "Kidnapped and taken to an unfamiliar location, nine people find themselves forced to participate in a diabolical Nonary Game by an enigmatic mastermind called Zero. Why were they there? Why were they chosen to put their lives on the line as part of a dangerous life and death game? Who can be trusted? Tensions rise as the situation becomes more and more dire, and the nine strangers must figure out how to escape before they wind up dead.<br><br><ul class=\"bb_ul\"><li>Two spine-tingling Nonary Games<br>Zero welcomes you to take part in both the Nonary Game and the Nonary Game: Ambidex Edition as the award-winning escape-the-room visual novels <i>Nine Hours, Nine Persons, Nine Doors </i>(999) and its sequel,<i> Virtue’s Last Reward </i>(VLR), are together for the first time.<br></li><li>A remastered and revamped Nine Hours<br>The well-received classic Nintendo DS game <i>999</i> has been updated with hi-res graphics and a variety of new features including both Japanese and English voice acting!<br></li><li>Seek a way out<br>Search for clues within numerous locked rooms and solve mind-bending puzzles in order to escape. VLR even has two difficulty settings for more of a challenge.<br></li><li>Fascinating theories and pseudo science ideas abound along the twisting, turning journey to uncover who Zero is, why everyone was kidnapped, and the shocking connection between the Nonary Games.</li></ul>",
@@ -28,12 +28,12 @@
                 "Spike Chunsoft Co., Ltd."
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 5799,
-                "final": 5799,
+                "currency": "CAD",
+                "initial": 3399,
+                "final": 3399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 57,99"
+                "final_formatted": "CDN$ 33.99"
             },
             "packages": [
                 106512
@@ -52,11 +52,11 @@
                             "packageid": 106512,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Zero Escape: The Nonary Games - R$ 57,99",
+                            "option_text": "Zero Escape: The Nonary Games - CDN$ 33.99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5799
+                            "price_in_cents_with_discount": 3399
                         }
                     ]
                 }
@@ -164,7 +164,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7047
+                "total": 7077
             },
             "achievements": {
                 "total": 38,
@@ -290,6 +290,53 @@
                     "use_age_gate": "0",
                     "descriptors": "Penampilan Tokoh\nKekerasan\nHoror"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 4101,
+                    "total_negative": 233,
+                    "total_reviews": 4334
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237732726",
+                        "author": {
+                            "steamid": "76561198151756000",
+                            "num_reviews": 59,
+                            "playtime_forever": 3732,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 3732,
+                            "last_played": 1597024729
+                        },
+                        "language": "english",
+                        "review": "In light of recent events regarding Uchikoshi's announcement, all I can say is: PLAY ZERO ESCAPE, BUY ZERO ESCAPE, RECOMMEND ZERO ESCAPE TO YOUR FRIENDS, DO IT NOW NOW NOW!",
+                        "timestamp_created": 1792015172,
+                        "timestamp_updated": 1792015172,
+                        "voted_up": true,
+                        "votes_up": 9,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6482947468757629,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "12th Gen Intel(R) Core(TM) i7-12700KF",
+                            "adapter_description": "NVIDIA GeForce RTX 4070",
+                            "system_ram": "32581",
+                            "vram_size": 12010
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFYCLsAAAAB2t/CKBw==",
+                "day_range_used": 30,
+                "total_matching": 36
             }
         }
     }

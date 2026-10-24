@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4449,
-                "final": 2891,
-                "discount_percent": 35,
-                "initial_formatted": "R$ 44,49",
-                "final_formatted": "R$ 28,91"
+                "final": 4449,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 44,49"
             },
             "packages": [
                 635792
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 635792,
-                            "percent_savings_text": "-35% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Operator - <span class=\"discount_original_price\">R$ 44,49</span> R$ 28,91",
+                            "option_text": "The Operator - R$ 44,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2891
+                            "price_in_cents_with_discount": 4449
                         }
                     ]
                 }
@@ -250,7 +250,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8590
+                "total": 8674
             },
             "achievements": {
                 "total": 13,
@@ -376,6 +376,18 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan\nPenggunaan bahasa"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 3443,
+                    "total_negative": 399,
+                    "total_reviews": 3842
+                },
+                "total_matching": 68,
+                "day_range_used": 30
             }
         }
     }

@@ -63,11 +63,11 @@
                             "packageid": 469,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Orange Box - R$ 63,99",
+                            "option_text": "The Orange Box - 890 руб.",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6399
+                            "price_in_cents_with_discount": 89000
                         }
                     ]
                 }
@@ -402,7 +402,7 @@
                 }
             ],
             "recommendations": {
-                "total": 48031
+                "total": 48121
             },
             "achievements": {
                 "total": 520,
@@ -543,6 +543,46 @@
                     "use_age_gate": "0",
                     "descriptors": "Mild Nudity\nMild Violence"
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 670263,
+                    "total_negative": 74039,
+                    "total_reviews": 744302
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236750896",
+                        "author": {
+                            "steamid": "76561198658032412",
+                            "num_reviews": 1,
+                            "playtime_forever": 1516,
+                            "playtime_last_two_weeks": 683,
+                            "playtime_at_review": 73,
+                            "last_played": 1792584614
+                        },
+                        "language": "english",
+                        "review": "I just started playing and I was called the N word during my first match. 10/10.",
+                        "timestamp_created": 1790999268,
+                        "timestamp_updated": 1790999268,
+                        "voted_up": true,
+                        "votes_up": 130,
+                        "votes_funny": 87,
+                        "weighted_vote_score": 0.8442913889884949,
+                        "comment_count": 2,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFTHTsAAAABwg5GHBw==",
+                "day_range_used": 30,
+                "total_matching": 2589
             }
         }
     }
