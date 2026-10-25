@@ -1,0 +1,76 @@
+{
+    "id": 1769244723,
+    "title": "Wolfstride",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/wolfstride",
+    "slug": "wolfstride",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "jp": "日本語",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/wolfstride",
+        "product_card": "https://www.gog.com/game/wolfstride",
+        "support": "https://www.gog.com/support/wolfstride",
+        "forum": "https://www.gog.com/forum/wolfstride"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-12-07T15:55:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/87737db5530b79b0afd5a472203cb46dafbdec8db1cf66d5e0e710d9b4069759.jpg",
+        "logo": "//images-2.gog-statics.com/1f7de1f470961954f6e83e52cba5408147422716fd9ca1bf0e21261d52aeae20_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/1f7de1f470961954f6e83e52cba5408147422716fd9ca1bf0e21261d52aeae20_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/2eee2f25d007b98768ff0fd852df4e0e937cd2a12df20db290eb2d0776a4e85f_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/2eee2f25d007b98768ff0fd852df4e0e937cd2a12df20db290eb2d0776a4e85f_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/2eee2f25d007b98768ff0fd852df4e0e937cd2a12df20db290eb2d0776a4e85f_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/2eee2f25d007b98768ff0fd852df4e0e937cd2a12df20db290eb2d0776a4e85f_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/2eee2f25d007b98768ff0fd852df4e0e937cd2a12df20db290eb2d0776a4e85f.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1409224305,
+                "link": "https://api.gog.com/products/1409224305",
+                "expanded_link": "https://api.gog.com/products/1409224305"
+            },
+            {
+                "id": 1724286522,
+                "link": "https://api.gog.com/products/1724286522",
+                "expanded_link": "https://api.gog.com/products/1724286522"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1409224305,1724286522",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1409224305,1724286522"
+    },
+    "price": {
+        "final": "$3.75",
+        "base": "$14.99",
+        "discount": "-75%",
+        "finalMoney": {
+            "amount": "3.75",
+            "currency": "USD",
+            "discount": "11.24"
+        },
+        "baseMoney": {
+            "amount": "14.99",
+            "currency": "USD"
+        }
+    }
+}

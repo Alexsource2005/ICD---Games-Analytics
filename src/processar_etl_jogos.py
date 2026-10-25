@@ -8,6 +8,67 @@ os.makedirs("dados/processed", exist_ok=True)
 pasta_raw = "dados/raw"
 jogos_consolidados = {}
 
+def extrair_preco_original_steam(dados_json):
+    """Extrai o preço cheio/original da Steam."""
+    for key, val in dados_json.items():
+        if val.get("success") and "data" in val:
+            data = val["data"]
+            if data.get("is_free"):
+                return "Grátis"
+
+            price_info = data.get("price_overview")
+            if price_info:
+                return price_info.get("initial_formatted", f"R$ {price_info.get('initial', 0) / 100:.2f}".replace(".", ","))
+    return "N/A"
+
+def extrair_preco_original_epic(dados_json):
+    """Extrai o preço cheio/original da Epic Games"""
+    price_info = dados_json.get("price", {}).get("totalPrice", {})
+    fmt_price = price_info.get("fmtPrice", {})
+
+    orig_fmt = fmt_price.get("originalPrice")
+    if orig_fmt:
+        return orig_fmt
+
+    orig_cents = price_info.get("originalPrice")
+    if orig_cents is not None:
+        if orig_cents == 0:
+            return "Grátis"
+        return f"R$ {orig_cents / 100:.2f}".replace(".", ",")
+    return "N/A"
+
+def extrair_preco_original_gog(dados_json):
+    """Extrai o preço cheio/original da GOG"""
+    price_info = dados_json.get("price", {})
+
+    base_price = (price_info.get("baseMoney", {}).get("amount") or price_info.get("baseAmount") or price_info.get("base"))
+    if base_price is not None:
+        try:
+            # Remover simbolos de cifrão e espaços extras
+            texto_limpo = re.sub(r"[^\d.,]", "", str(base_price)).strip()
+
+            # Tratar virgulas decimais
+            if "," in texto_limpo and "." in texto_limpo:
+                texto_limpo = texto_limpo.replace(",", "")
+            elif "," in texto_limpo:
+                texto_limpo = texto_limpo.replace(",", ".")
+
+            val_float = float(texto_limpo)
+            if val_float == 0:
+                return "Grátis"
+
+            # Se o preço veio em dólares, aplica o fator de conversão
+            if "$" in str(base_price) or ("R$" not in str(base_price) and val_float < 1000):
+                valor_convertido = val_float * 1.934
+                return f"R$ {valor_convertido:.2f}".replace(".", ",")
+
+            return f"R$ {val_float:.2f}".replace(".", ",")
+        
+        except Exception:
+            return str(base_price)
+
+    return "N/A"
+
 def normalizar_nome(nome):
     if not nome:
         return ""
@@ -94,12 +155,13 @@ for arquivo in os.listdir(pasta_raw):
 
     if origem == "steam":
         reg["tem_steam"] = True
+        reg["steam_preco"] = extrair_preco_original_steam(data)
+
         for key, val in data.items():
             if isinstance(val, dict) and "data" in val:
                 d = val["data"]
                 reg["steam_lancamento"] = d.get("release_date", {}).get("date")
-                if d.get("price_overview"):
-                    reg["steam_preco"] = d["price_overview"].get("final_formatted")
+
                 genres = d.get("genres", [])
                 if genres:
                     reg["steam_generos"] = [g.get("description") for g in genres]
@@ -139,7 +201,7 @@ for arquivo in os.listdir(pasta_raw):
         reg["tem_epic"] = True
         reg["epic_lancamento"] = data.get("effectiveDate") or data.get("releaseDate")
         price_info = data.get("price", {}).get("totalPrice", {})
-        reg["epic_preco"] = price_info.get("fmtPrice", {}).get("intermediatePrice") or price_info.get("fmtPrice", {}).get("originalPrice") or price_info.get("fmtPrice", {}).get("discountPrice")
+        reg["epic_preco"] = extrair_preco_original_epic(data)
 
         tags = data.get("tags") or data.get("categories", [])
         tag_names = []
@@ -157,26 +219,7 @@ for arquivo in os.listdir(pasta_raw):
     elif origem == "gog":
         reg["tem_gog"] = True
         reg["gog_lancamento"] = data.get("release_date")
-
-        price_gog = data.get("price", {})
-        preco_formatado = None
-
-        if isinstance(price_gog, dict):
-            final_money = price_gog.get("finalMoney", {})
-            raw_val = (final_money.get("amount") or price_gog.get("final") or price_gog.get("amount"))
-            if raw_val is not None:
-                try:
-                    if isinstance(raw_val, str):
-                        val_float = float(raw_val.replace("$", "").strip())
-                    else:
-                        val_float = float(raw_val)
-
-                    valor_convertido = val_float * 1.934
-                    preco_formatado = (f"R$ {valor_convertido:.2f}".replace(".", ",") if valor_convertido > 0 else "Grátis")
-                except Exception:
-                    pass
-
-        reg["gog_preco"] = preco_formatado
+        reg["gog_preco"] = extrair_preco_original_gog(data)
 
         genres_gog = data.get("genres", [])
         if genres_gog:

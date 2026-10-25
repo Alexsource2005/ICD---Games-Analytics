@@ -1,0 +1,64 @@
+{
+    "id": 1248451536,
+    "title": "Escape From Lavender Island",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/escape_from_lavender_island",
+    "slug": "escape_from_lavender_island",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/escape_from_lavender_island",
+        "product_card": "https://www.gog.com/game/escape_from_lavender_island",
+        "support": "https://www.gog.com/support/escape_from_lavender_island",
+        "forum": "https://www.gog.com/forum/escape_from_lavender_island"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2025-12-12T14:59:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/c7eddf77e5d4732cfb6a3d4fc126d0162b4bfde16b54336cdb67279a39b9c358.jpg",
+        "logo": "//images-4.gog-statics.com/df8bbf1582dfb723ac44f3b2b14e26246b53627723e736a0078c431913e4f429_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/df8bbf1582dfb723ac44f3b2b14e26246b53627723e736a0078c431913e4f429_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/3b5120e7a81741f78cf6890e3cd8db8bd1010ffb0fc41f990007ed76719c5867_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/3b5120e7a81741f78cf6890e3cd8db8bd1010ffb0fc41f990007ed76719c5867_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/3b5120e7a81741f78cf6890e3cd8db8bd1010ffb0fc41f990007ed76719c5867_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/3b5120e7a81741f78cf6890e3cd8db8bd1010ffb0fc41f990007ed76719c5867_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/3b5120e7a81741f78cf6890e3cd8db8bd1010ffb0fc41f990007ed76719c5867.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1824919149,
+                "link": "https://api.gog.com/products/1824919149",
+                "expanded_link": "https://api.gog.com/products/1824919149"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1824919149",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1824919149"
+    },
+    "price": {
+        "final": "$4.99",
+        "base": "$9.99",
+        "discount": "-50%",
+        "finalMoney": {
+            "amount": "4.99",
+            "currency": "USD",
+            "discount": "5.00"
+        },
+        "baseMoney": {
+            "amount": "9.99",
+            "currency": "USD"
+        }
+    }
+}

@@ -48,12 +48,12 @@
                 "PlayWay S.A."
             ],
             "price_overview": {
-                "currency": "PLN",
-                "initial": 9999,
-                "final": 799,
+                "currency": "USD",
+                "initial": 1499,
+                "final": 119,
                 "discount_percent": 92,
-                "initial_formatted": "99,99 zł",
-                "final_formatted": "7,99 zł"
+                "initial_formatted": "$14.99",
+                "final_formatted": "$1.19 USD"
             },
             "packages": [
                 164154
@@ -72,11 +72,11 @@
                             "packageid": 164154,
                             "percent_savings_text": "-92% ",
                             "percent_savings": 0,
-                            "option_text": "House Flipper - <span class=\"discount_original_price\">99,99 zł</span> 7,99 zł",
+                            "option_text": "House Flipper - <span class=\"discount_original_price\">$14.99</span> $1.19 USD",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 119
                         }
                     ]
                 }
@@ -277,7 +277,7 @@
                 }
             ],
             "recommendations": {
-                "total": 92673
+                "total": 92679
             },
             "achievements": {
                 "total": 96,
@@ -410,9 +410,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 50495,
+                    "total_positive": 50496,
                     "total_negative": 3112,
-                    "total_reviews": 53607
+                    "total_reviews": 53608
                 },
                 "reviews": [
                     {
@@ -430,9 +430,9 @@
                         "timestamp_created": 1790562876,
                         "timestamp_updated": 1790562876,
                         "voted_up": true,
-                        "votes_up": 69,
+                        "votes_up": 70,
                         "votes_funny": 75,
-                        "weighted_vote_score": 0.8514962792396545,
+                        "weighted_vote_score": 0.853173553943634,
                         "comment_count": 3,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -441,9 +441,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFT+FcAAAAB3sdmFBw==",
+                "cursor": "AoIFQFT78AAAAAB3sdmFBw==",
                 "day_range_used": 30,
-                "total_matching": 182
+                "total_matching": 184
             }
         }
     }

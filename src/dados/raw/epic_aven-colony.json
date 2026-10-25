@@ -1,0 +1,508 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "Aven Colony",
+    "_noIndex": false,
+    "productName": "Aven Colony",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#333332"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#333332"
+        }
+    },
+    "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/aven-colony",
+    "_slug": "aven-colony",
+    "_activeDate": "2021-08-18T23:19:26.307Z",
+    "lastModified": "2021-08-23T15:53:07.597Z",
+    "_locale": "pt-BR",
+    "_id": "c7269713-83d9-4d4b-9cd9-fbf71294f276",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "Aven Colony",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#333332"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#333332"
+                }
+            },
+            "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/aven-colony/home",
+            "_slug": "home",
+            "_activeDate": "2021-08-18T23:21:09.435Z",
+            "lastModified": "2021-08-23T15:46:38.916Z",
+            "_locale": "pt-BR",
+            "_id": "4e4b297a-576b-4fe0-9962-3aa467f8493d",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+                "id": "408e1dacff9c4ddabecb93b1e6183db9",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/team17ltd",
+                    "linkTwitter": "https://twitter.com/Team17",
+                    "linkFacebook": "https://www.facebook.com/Team17/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/team17",
+                    "linkHomepage": "http://avencolony.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Áudio: inglês",
+                        "Texto: inglês, francês, alemão, italiano, espanhol (Espanha), russo, chinês simplificado"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3-3220 de 3,3 GHz",
+                                    "recommended": "Intel Core i5-4670 ou AMD A10-7850k"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "25 GB",
+                                    "recommended": "25 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce GTX 470 ou AMD Radeon HD 7850",
+                                    "recommended": "GeForce GTX 980 com 4 GB de VRAM ou AMD Radeon R9 390X"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Aven Colony. Developed by Mothership Entertainment LLC © 2017. Published by Team17 Digital Ltd. Team17 is a trademarks or registered trademarks of Team17 Digital Limited. All other trademarks, copyrights and logos are property of their respective owners",
+                    "privacyPolicyLink": {
+                        "src": "https://www.team17.com/privacy-policy/",
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s2-1200x1600-59ab3118f67c.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Mothership Entertainment LLC",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Team17",
+                    "description": "Explore Aven Prime, um planeta alienígena repleto de desertos, tundras e selvas localizado a anos-luz da Terra. Aven Colony coloca você no comando do primeiro assentamento extrassolar da humanidade, onde você poderá construir e expandir suas pequenas colônias para transformá-las em enormes cidades enquanto lida com os desafios que surgem ao se estabelecer em um novo mundo.\n\nConstrua a infraestrutura de sua colônia, cuide do bem-estar de seus cidadãos, gerencie seus recursos e conduza sua colônia para a prosperidade em um cenário de realidade hostil e muitas vezes perigosa do mundo exótico de Aven Prime.\n\n# CARACTERÍSTICAS PRINCIPAIS:\n\n**COLONIZE UM MUNDO ALIENÍGENA:** Construa um novo lar para a humanidade em um mundo com uma atmosfera de baixo oxigênio, tempestades elétricas extremas, tempestades de fragmentos, redemoinhos de poeira, erupções de gases tóxicos mortais de fontes geotérmicas e dias tão longos que têm até suas próprias temporadas. Explore uma variedade de biomas, desde ambientes pantanosos e exuberantes até desertos e localidades glaciais muito menos habitáveis.\n\n**CONHEÇA OS HABITANTES LOCAIS:** Encontre uma variedade de formas de vida alienígenas, incluindo vermes de areia gigantes, esporos de pragas mortais e uma cruel infecção fúngica conhecida como \"The Creep\".\n\n**SUPERVISIONE SEUS COLONOS:** Formar um novo mundo pode ser estressante. Como o novo Governador da Colônia, você precisará trabalhar horas extras para ajudar seus colonos a lidarem com o novo ambiente. Usando os 12 modos diferentes de \"sobreposição\", você pode gerenciar as colheitas, cidadãos, felicidade, crime, ar, eletricidade, emprego, recursos, transporte, estruturas, drones e água de sua colônia. Ganhe o respeito de seus colonos e suba na classificação de Governador da Colônia a Presidente da Expedição!\n\n**DESVENDE O PASSADO:** O mundo de Aven Prime guarda muitos segredos. Jogue uma campanha completa para um jogador e participe de uma história que revela alguns dos muitos segredos deste admirável mundo novo.\n\n**CONSTRUA O FUTURO:** Use drones de construção e construa dezenas de tipos de estruturas para abrigar seus colonos, estabelecer rotas comerciais, receber imigrantes e muito mais! Aperfeiçoe seus edifícios existentes através de vários níveis de aprimoramento para levar sua colônia a novos patamares!\n\n**SISTEMA DE EXPEDIÇÃO:** Envie sua equipe de pioneiros para explorar ruínas alienígenas, recuperar artefatos, consertar naves acidentadas e resgatar exploradores perdidos. Prepare-se para enfrentar pragas e ninhos de esporos de \"The Creep\" enquanto rechaça os grupos dissidentes, rebeldes e os robôs guardiões remanescentes de Aven Prime que ameaçam sua nova civilização.\n\n**PREPARE-SE PARA O INVERNO:** Um ciclo sazonal e de dia/noite totalmente funcional. Durante o inverno, Aven Prime congela fazendo com que as fazendas não possam cultivar alimentos e os painéis solares gerem muito menos eletricidade. Adotes medidas para conseguir sobreviver a esse clima severo!",
+                    "shortDescription": "Construa um novo lar para a humanidade em Aven Colony. Explore Aven Prime, um planeta alienígena repleto de desertos, tundras e pântanos localizado a anos-luz da Terra. Construa e expanda suas colônias para transformá-las em enormes cidades enquanto lida com as ameaças que surgem ao se estabelecer em um novo mundo.",
+                    "title": "Construa um novo lar para a humanidade com Aven Colony.",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/c7630623-b7a0-4bc2-b0fe-10b72c2bb919-394x119-95512622013c.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s4-1200x1600-f9604f2dbbd2.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s3-2560x1440-79df070c84cd.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-00-1920x1080-3bed046e4dae.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-01-1920x1080-a3ae8a1bc320.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-02-1920x1080-641c65f8b51f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-03-1920x1080-1fe87861fe78.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-04-1920x1080-f224cdac6370.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-05-1920x1080-517a11f9ed63.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-06-1920x1080-517cb6416ba7.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-07-1920x1080-0c48da5d6d81.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-08-1920x1080-198d780deb42.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-09-1920x1080-a503b1493bf1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-07-25T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Team17"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Mothership Entertainment LLC"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "CITY_BUILDER",
+                        "SIMULATION",
+                        "STRATEGY"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-00-1920x1080-22fb08c603fd.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-01-1920x1080-8ea7c3ff814d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-02-1920x1080-72ffbf34b812.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-03-1920x1080-0c447d27b7f7.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-04-1920x1080-167acdbf26c2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-05-1920x1080-bd2b0a008bdd.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "Aven Colony"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-02-1920x1080-641c65f8b51f.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-00-1920x1080-22fb08c603fd.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-01-1920x1080-a3ae8a1bc320.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-08-1920x1080-198d780deb42.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-09-1920x1080-a503b1493bf1.jpg",
+                "https://cdn2.unrealengine.com/c7630623-b7a0-4bc2-b0fe-10b72c2bb919-394x119-95512622013c.png",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-07-1920x1080-0c48da5d6d81.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-03-1920x1080-0c447d27b7f7.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-05-1920x1080-bd2b0a008bdd.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-05-1920x1080-517a11f9ed63.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s3-2560x1440-79df070c84cd.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-02-1920x1080-72ffbf34b812.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-06-1920x1080-517cb6416ba7.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s4-1200x1600-f9604f2dbbd2.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-00-1920x1080-3bed046e4dae.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-04-1920x1080-f224cdac6370.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-04-1920x1080-167acdbf26c2.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-s2-1200x1600-59ab3118f67c.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g1a-03-1920x1080-1fe87861fe78.jpg",
+                "https://cdn2.unrealengine.com/egs-avencolony-mothershipentertainmentllc-g2-01-1920x1080-8ea7c3ff814d.jpg"
+            ]
+        }
+    ]
+}

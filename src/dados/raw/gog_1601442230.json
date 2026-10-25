@@ -1,0 +1,81 @@
+{
+    "id": 1601442230,
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/shadow_tactics_blades_of_the_shogun",
+    "slug": "shadow_tactics_blades_of_the_shogun",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "tr": "Türkçe",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/shadow_tactics_blades_of_the_shogun",
+        "product_card": "https://www.gog.com/game/shadow_tactics_blades_of_the_shogun",
+        "support": "https://www.gog.com/support/shadow_tactics_blades_of_the_shogun",
+        "forum": "https://www.gog.com/forum/shadow_tactics_blades_of_the_shogun"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2016-12-06T17:55:00+0100",
+    "images": {
+        "background": "//images-3.gog-statics.com/0e38453713650d8d9d50f429e6a22bbf859099d5bb6c484ddf1e39686f89b156.jpg",
+        "logo": "//images-2.gog-statics.com/031975c83099286b46e50b7dfac67f3637fd8b884ca065315ba2ed04ddacc61b_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/031975c83099286b46e50b7dfac67f3637fd8b884ca065315ba2ed04ddacc61b_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/92e55543d6f922bb9c840248786a3406a16efab0de043b653e02f68649549a87_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/92e55543d6f922bb9c840248786a3406a16efab0de043b653e02f68649549a87_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/92e55543d6f922bb9c840248786a3406a16efab0de043b653e02f68649549a87_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/92e55543d6f922bb9c840248786a3406a16efab0de043b653e02f68649549a87_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/92e55543d6f922bb9c840248786a3406a16efab0de043b653e02f68649549a87.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1120436601,
+                "link": "https://api.gog.com/products/1120436601",
+                "expanded_link": "https://api.gog.com/products/1120436601"
+            },
+            {
+                "id": 1419503362,
+                "link": "https://api.gog.com/products/1419503362",
+                "expanded_link": "https://api.gog.com/products/1419503362"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1120436601,1419503362",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1120436601,1419503362"
+    },
+    "price": {
+        "final": "$3.99",
+        "base": "$39.99",
+        "discount": "-90%",
+        "finalMoney": {
+            "amount": "3.99",
+            "currency": "USD",
+            "discount": "36.00"
+        },
+        "baseMoney": {
+            "amount": "39.99",
+            "currency": "USD"
+        }
+    }
+}

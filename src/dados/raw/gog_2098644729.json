@@ -1,0 +1,73 @@
+{
+    "id": 2098644729,
+    "title": "Vampyr",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/vampyr",
+    "slug": "vampyr",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "pl": "polski",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/vampyr",
+        "product_card": "https://www.gog.com/game/vampyr",
+        "support": "https://www.gog.com/support/vampyr",
+        "forum": "https://www.gog.com/forum/vampyr"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2019-06-14T14:50:00+0200",
+    "images": {
+        "background": "//images-4.gog-statics.com/bcc1b8733d8749fd52cbcf1755803fb5bf345ca415230971bedd43cc1769babb.jpg",
+        "logo": "//images-3.gog-statics.com/013740b04ca205af4d3b5de6f4dcc3e7bea5ff4fdfbaf1b6217652bd2d7f1b9d_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/013740b04ca205af4d3b5de6f4dcc3e7bea5ff4fdfbaf1b6217652bd2d7f1b9d_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/5ec83b3b5c1843d2eeade12c664b04eb60ff7447dcec45fb9915d98ef975bb85_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/5ec83b3b5c1843d2eeade12c664b04eb60ff7447dcec45fb9915d98ef975bb85_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/5ec83b3b5c1843d2eeade12c664b04eb60ff7447dcec45fb9915d98ef975bb85_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/5ec83b3b5c1843d2eeade12c664b04eb60ff7447dcec45fb9915d98ef975bb85_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/5ec83b3b5c1843d2eeade12c664b04eb60ff7447dcec45fb9915d98ef975bb85.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1949020249,
+                "link": "https://api.gog.com/products/1949020249",
+                "expanded_link": "https://api.gog.com/products/1949020249"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1949020249",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1949020249"
+    },
+    "price": {
+        "final": "$3.99",
+        "base": "$39.99",
+        "discount": "-90%",
+        "finalMoney": {
+            "amount": "3.99",
+            "currency": "USD",
+            "discount": "36.00"
+        },
+        "baseMoney": {
+            "amount": "39.99",
+            "currency": "USD"
+        }
+    }
+}

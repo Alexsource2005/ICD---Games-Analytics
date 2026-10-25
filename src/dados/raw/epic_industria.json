@@ -1,0 +1,442 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "industria",
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "INDUSTRIA",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic"
+        }
+    },
+    "namespace": "51b1503392e04abab64364092cbfca2b",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/industria",
+    "_slug": "industria",
+    "_activeDate": "2021-09-23T14:55:00.000Z",
+    "lastModified": "2021-09-04T23:02:21.244Z",
+    "_locale": "pt-BR",
+    "_id": "c219539e-5a88-4566-b50d-14399bceedb9",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "INDUSTRIA",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic"
+                }
+            },
+            "namespace": "51b1503392e04abab64364092cbfca2b",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/industria/home",
+            "_slug": "home",
+            "_activeDate": "2021-09-30T15:55:00.000Z",
+            "lastModified": "2021-09-30T14:58:53.053Z",
+            "_locale": "pt-BR",
+            "_id": "cfc844d8-1325-4b65-a1d6-f881848437ee",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "51b1503392e04abab64364092cbfca2b",
+                "id": "2dbb1debe54f4555805896caf7844470",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/JoinIndustria",
+                    "linkYoutube": "https://www.youtube.com/channel/UCx6DjjSCNdGnRDELwwswPwQ",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.com/invite/KbeU2k2",
+                    "linkHomepage": "http://www.industriagame.com",
+                    "linkInstagram": "https://www.instagram.com/bleakmillgames/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, alemão, espanhol (Espanha), russo, chinês simplificado, turco, português"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7/Windows 8.1/Windows 10 de 64 bits (service pack mais recente)",
+                                    "recommended": "Windows 7/Windows 8.1/Windows 10 de 64 bits (service pack mais recente)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador Quad-Core de 3,2 GHz",
+                                    "recommended": "Processador Quad-Core de 3,2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB de RAM",
+                                    "recommended": "12 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "15 GB de espaço disponível",
+                                    "recommended": "15 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce GTX 1060/Radeon RX 580 ou equivalente",
+                                    "recommended": "GeForce RTX 2060/AMD RX 5600 XT ou equivalente"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Headup GmbH, all rights reserved. © 2021 Bleakmill Ltd.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.headupgames.com/imprint.php",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-s2-1200x1600-440bc3148f1f.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Bleakmill",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Headup",
+                    "description": "Na noite da queda do muro de Berlim, uma jovem mergulha de cabeça em uma dimensão paralela para encontrar seu colega de trabalho que desapareceu sob circunstâncias misteriosas. Enquanto os postos de controle em Berlim Oriental ainda estão sendo invadidos por uma multidão de pessoas, Nora escapa deste mundo e entra em camadas desconhecidas de tempo em um destino desconhecido.\n\n# CARACTERÍSTICAS\n- **História profunda:** jogue um jogo de tiro clássico em primeira pessoa baseado em história com cerca de 4 horas de jogo\n- **Atmosfera tensa:** mergulhe em um mundo cuidadosamente projetado, cheio de mistério e surrealidade no estilo de Lynch\n- **Perigo mortal:** inimigos espreitam em cada esquina, então defenda-se com 4 armas diferentes\n- **Cenário único:** uma mistura de Berlim na época da queda do muro com uma cidade industrializada surreal\n- **Trilha sonora experimental:** sintetizador, instrumentos acústicos e vocais melancólicos\n\n# HISTÓRIA\nBerlim, 9 de novembro de 1989: após quatro décadas de uma cidade dividida, milhares de carros estão cruzando a fronteira interna da Alemanha. Finalmente, o Muro caiu!\n\nAo mesmo tempo, um homem desaparece em um centro de pesquisa secreto perto de Berlim Oriental. Você recebe a mensagem de adeus dele tarde demais. Quando você chega, a Segurança do Estado já destruiu todos os registros do projeto de pesquisa. O complexo está deserto e vazio.\n\nA busca por Walter leva você até o centro da instalação, bem no coração do universo, onde o tempo parece ter parado. Um segredo sombrio está bem escondido por trás da cortina.",
+                    "shortDescription": "INDUSTRIA é um jogo de tiro em primeira pessoa que leva você de Berlim Oriental a uma realidade paralela, pouco depois do final da Guerra Fria. Em busca de um colega de missão que desapareceu, você decifra um passado obscuro em uma misteriosa dimensão paralela.",
+                    "title": "SOBRE INDUSTRIA",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-ic1-400x159-a2fadd34c97c.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-industria-bleakmill-s2-1200x1600-440bc3148f1f.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-industria-bleakmill-s1-2560x1440-6083b50bd362.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-00-1920x1080-4b5f2a5aae18.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-01-1920x1080-159427c4b96b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-02-1920x1080-419f9e9150f4.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-03-1920x1080-6ee431732f95.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-04-1920x1080-627f956deab3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-05-1920x1080-ed7dd0dfb4b8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-06-1920x1080-2f6d91ad245b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-07-1920x1080-5a5a2564987c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/17b0e6f356ac4feb9c032d66f2616b32/17b0e6f356ac4feb9c032d66f2616b32.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-00-1920x1080-4b5f2a5aae18.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"d64dff6c0c3f494cb449cf85154d1c6c\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/61a4f91dcd154906acba8befd47d6f19/61a4f91dcd154906acba8befd47d6f19.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-00-1920x1080-4b5f2a5aae18.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5fe0bd8bdb0940bea2d0323d98280776\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/2f73040435964a289af41fbeeecc23e9/2f73040435964a289af41fbeeecc23e9.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-00-1920x1080-4b5f2a5aae18.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"e1b4c81017f5481aa67ac7ed13acc85c\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-09-30T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "INDUSTRIA"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-00-1920x1080-4b5f2a5aae18.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-05-1920x1080-ed7dd0dfb4b8.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-02-1920x1080-419f9e9150f4.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-01-1920x1080-159427c4b96b.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-s2-1200x1600-440bc3148f1f.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-03-1920x1080-6ee431732f95.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-06-1920x1080-2f6d91ad245b.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-s1-2560x1440-6083b50bd362.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-ic1-400x159-a2fadd34c97c.png",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-07-1920x1080-5a5a2564987c.jpg",
+                "https://cdn2.unrealengine.com/egs-industria-bleakmill-g1a-04-1920x1080-627f956deab3.jpg"
+            ]
+        }
+    ]
+}

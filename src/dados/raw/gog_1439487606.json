@@ -1,0 +1,61 @@
+{
+    "id": 1439487606,
+    "title": "SOMA",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/soma",
+    "slug": "soma",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/soma",
+        "product_card": "https://www.gog.com/game/soma",
+        "support": "https://www.gog.com/support/soma",
+        "forum": "https://www.gog.com/forum/soma"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2015-09-22T08:50:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/9c0baeb82783cb5645721e162d70dd7dc17bb96f7b368078d4c720b15c0528ba.jpg",
+        "logo": "//images-3.gog-statics.com/04171b58c59c02140ce3327a3f769b8f06b2c948949331afa17130fd98f26605_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/04171b58c59c02140ce3327a3f769b8f06b2c948949331afa17130fd98f26605_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/8dbb45c4fb3929fb8be62bed5cad7838272f36f2cf362542a3ab2fc6736f8743_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/8dbb45c4fb3929fb8be62bed5cad7838272f36f2cf362542a3ab2fc6736f8743_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/8dbb45c4fb3929fb8be62bed5cad7838272f36f2cf362542a3ab2fc6736f8743_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/8dbb45c4fb3929fb8be62bed5cad7838272f36f2cf362542a3ab2fc6736f8743_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/8dbb45c4fb3929fb8be62bed5cad7838272f36f2cf362542a3ab2fc6736f8743.png"
+    },
+    "dlcs": [],
+    "price": {
+        "final": "$5.99",
+        "base": "$29.99",
+        "discount": "-80%",
+        "finalMoney": {
+            "amount": "5.99",
+            "currency": "USD",
+            "discount": "24.00"
+        },
+        "baseMoney": {
+            "amount": "29.99",
+            "currency": "USD"
+        }
+    }
+}

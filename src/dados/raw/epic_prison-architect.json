@@ -1,0 +1,745 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "prison-architect",
+    "_noIndex": false,
+    "productName": "Prison Architect",
+    "pageTheme": {
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection"
+        }
+    },
+    "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/prison-architect",
+    "_slug": "prison-architect",
+    "_activeDate": "2021-12-01T11:34:00.106Z",
+    "lastModified": "2021-12-02T15:31:00.669Z",
+    "_locale": "pt-BR",
+    "_id": "5537a093-b543-4db5-83af-ac2ec1596055",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "Prison Architect",
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/prison-architect/home",
+            "_slug": "home",
+            "_activeDate": "2021-12-01T11:36:44.094Z",
+            "lastModified": "2021-12-02T00:48:42.649Z",
+            "_locale": "pt-BR",
+            "_id": "5d0d6c1a-b89c-4b95-aa53-554112883a4d",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+                "id": "cf42bfef8bdc4a3b9db9ae500c9bfe06",
+                "hasOffer": false
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/paradoxinteractive",
+                    "linkTwitter": "https://twitter.com/PrisonArchitect",
+                    "linkYoutube": "https://www.youtube.com/paradoxinteractive",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://www.prisonarchitect.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, holandês, francês, coreano, polonês, português (Brasil), japonês, alemão, russo, espanhol (Espanha), sueco, turco"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 8"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior",
+                                    "recommended": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB",
+                                    "recommended": "6 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "400 MB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 8600 / Radeon equivalente (de 2009)"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "macOS",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "10.11 (El Capitan)",
+                                    "recommended": "10.11 (El Capitan)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "MacBook Pro (de 2009), processador Core 2 Duo",
+                                    "recommended": "MacBook Pro (de 2009), processador Core 2 Duo"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB",
+                                    "recommended": "6 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "ATI Radeon HD 4870"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Paradox Interactive AB, PRISON ARCHITECT and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. Developed by Double Eleven Limited. All other trademarks, logos, and copyrights are property of their respective owners.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.paradoxplaza.com/privacy-policy.html",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Double Eleven",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Paradox Interactive",
+                    "description": "# Bem-vindos, guardas!\n\nApenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect.\n\n# Confinamento personalizado\n\nAloque recursos para otimizar seu complexo, mas não restrinja o fluxo de pessoas caso ocorram inundações, incêndios, brigas ou tumultos generalizados.\n\n# Invista e inove\n\nObtenha dinheiro federal com pedidos de subsídios e direcione fundos para combater doenças, atividades de gangues, processos e muito mais!\n\n# Gerenciamento e músculos\n\nGaranta que sua prisão seja \"ética\" e segura com funcionários de alto nível, incluindo guardas armados, psicólogos, médicos, advogados e informantes.\n\n# Detenção personalizada\n\nO histórico criminal de cada prisioneiro requer programas de tratamento personalizados, rotinas de trabalho e seminários correcionais.\n\n# Desafio de fuga\n\nTente realizar uma fuga de alto risco da sua própria prisão de segurança máxima no modo Escapar ou experimente o modo online para testar a segurança de uma das 12.000 prisões criadas por jogadores. Expanda seu império sem limites no modo \"sandbox\".",
+                    "shortDescription": "Bem-vindos, guardas!  Apenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect.",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-ic1-400x400-9ec7ea4778af.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s1-2560x1440-db0966a51f2f.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-00-1920x1080-47a644866789.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-01-1920x1080-aaf5ca95a7fe.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-02-1920x1080-4d0ee1f84df3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-03-1920x1080-e1661094b0b6.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-04-1920x1080-582071abdb7b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-05-1920x1080-2d7cf024b8f5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s1-2560x1440-db0966a51f2f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+                            "description": "Bem-vindos, guardas! Apenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect.",
+                            "offerId": "cf42bfef8bdc4a3b9db9ae500c9bfe06",
+                            "title": "Prison Architect",
+                            "slug": "/p/prison-architect"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s1-2560x1440-e8b9a48797bc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+                            "description": "Obtenha tudo o que você precisa para administrar uma unidade correcional de primeira linha. Entre na vida prisional com o jogo base, a trilha sonora original + o livro de arte digital, e uma coleção de expansões do Prison Architect.",
+                            "offerId": "01c211c1e19e4bf49e4fe6fd0fd59c7f",
+                            "title": "Prison Architect - Total Lockdown Bundle",
+                            "slug": "/p/prison-architect--total-lockdown-bundle"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-12-08T23:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows",
+                        "macOS"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Prison Architect"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-ic1-400x400-9ec7ea4778af.png",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-03-1920x1080-e1661094b0b6.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-00-1920x1080-47a644866789.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-04-1920x1080-582071abdb7b.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-01-1920x1080-aaf5ca95a7fe.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-05-1920x1080-2d7cf024b8f5.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s1-2560x1440-db0966a51f2f.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-g1a-02-1920x1080-4d0ee1f84df3.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s1-2560x1440-e8b9a48797bc.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "total-lockdown-bundle",
+            "_noIndex": false,
+            "productName": "Prison Architect",
+            "pageTheme": {
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection"
+                }
+            },
+            "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/prison-architect/total-lockdown-bundle",
+            "_slug": "total-lockdown-bundle",
+            "_activeDate": "2021-12-01T11:36:44.094Z",
+            "lastModified": "2021-12-02T00:46:28.809Z",
+            "_locale": "pt-BR",
+            "_id": "d90bf9c7-0aaa-4a53-981a-3c68652b9de0",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+                "id": "01c211c1e19e4bf49e4fe6fd0fd59c7f",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/paradoxinteractive",
+                    "linkTwitter": "https://twitter.com/PrisonArchitect",
+                    "linkYoutube": "https://www.youtube.com/paradoxinteractive",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://www.prisonarchitect.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, holandês, francês, coreano, polonês, português (Brasil), japonês, alemão, russo, espanhol (Espanha), sueco, turco"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 8"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior",
+                                    "recommended": "Intel Core 2 Duo 2,4 GHz ou superior / AMD 3 GHz ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB",
+                                    "recommended": "6 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento no Windows",
+                                    "minimum": "400 MB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA 8600 / Radeon equivalente (de 2009)"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "macOS",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "10.11 (El Capitan)",
+                                    "recommended": "10.11 (El Capitan)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "MacBook Pro (de 2009), processador Core 2 Duo",
+                                    "recommended": "MacBook Pro (de 2009), processador Core 2 Duo"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB",
+                                    "recommended": "6 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "ATI Radeon HD 4870"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Paradox Interactive AB, PRISON ARCHITECT and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. Developed by Double Eleven Limited. All other trademarks, logos, and copyrights are property of their respective owners.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.paradoxplaza.com/privacy-policy.html",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Double Eleven",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Paradox Interactive",
+                    "description": "# Prison Architect - Total Lockdown Bundle\n\nConstrua e gerencie uma prisão de segurança máxima com uma coleção de conteúdo disponível para download.\n\nObtenha tudo o que você precisa para administrar uma unidade correcional de primeira linha. Entre na vida prisional com o jogo base, a trilha sonora original + o livro de arte digital, e uma coleção de expansões do Prison Architect.",
+                    "shortDescription": "Obtenha tudo o que você precisa para administrar uma unidade correcional de primeira linha. Entre na vida prisional com o jogo base, a trilha sonora original + o livro de arte digital, e uma coleção de expansões do Prison Architect.",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-ic1-200x200-6ab0df7b72c2.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s2-1200x1600-497a6c6852eb.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s1-2560x1440-e8b9a48797bc.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-00-1920x1080-2795545ea417.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-01-1920x1080-034bda5e84af.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-02-1920x1080-d979e4055663.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-12-08T23:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "Em breve",
+                    "platform": [
+                        "Windows",
+                        "macOS"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Prison Architect - Total Lockdown Bundle"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-prisonarchitect-doubleeleven-s2-1200x1600-59a08aa71843.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-ic1-200x200-6ab0df7b72c2.png",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s2-1200x1600-497a6c6852eb.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-00-1920x1080-2795545ea417.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-s1-2560x1440-e8b9a48797bc.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-02-1920x1080-d979e4055663.jpg",
+                "https://cdn2.unrealengine.com/egs-prisonarchitecttotallockdownbundle-doubleeleven-bundles-g1a-01-1920x1080-034bda5e84af.jpg"
+            ]
+        }
+    ]
+}

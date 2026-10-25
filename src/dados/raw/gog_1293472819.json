@@ -1,0 +1,87 @@
+{
+    "id": 1293472819,
+    "title": "Road Redemption",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/road_redemption",
+    "slug": "road_redemption",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "jp": "日本語",
+        "pt": "português",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/road_redemption",
+        "product_card": "https://www.gog.com/game/road_redemption",
+        "support": "https://www.gog.com/support/road_redemption",
+        "forum": "https://www.gog.com/forum/road_redemption"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2026-10-19T14:58:00+0200",
+    "images": {
+        "background": "//images-4.gog-statics.com/62a70560943d0978efc6286c563fcd4b08d766ba8eee21e297293ac2d8813641.jpg",
+        "logo": "//images-2.gog-statics.com/aab4de2fdf23390814dd5ddf4fd28c7a956d4d89a609481127a3005006b16861_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/aab4de2fdf23390814dd5ddf4fd28c7a956d4d89a609481127a3005006b16861_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/492d24464e5d6fe6cf6f716638329e7def7848e4f172a2a28209bcf276d5134d_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/492d24464e5d6fe6cf6f716638329e7def7848e4f172a2a28209bcf276d5134d_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/492d24464e5d6fe6cf6f716638329e7def7848e4f172a2a28209bcf276d5134d_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/492d24464e5d6fe6cf6f716638329e7def7848e4f172a2a28209bcf276d5134d_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/492d24464e5d6fe6cf6f716638329e7def7848e4f172a2a28209bcf276d5134d.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1099740426,
+                "link": "https://api.gog.com/products/1099740426",
+                "expanded_link": "https://api.gog.com/products/1099740426"
+            },
+            {
+                "id": 1900293362,
+                "link": "https://api.gog.com/products/1900293362",
+                "expanded_link": "https://api.gog.com/products/1900293362"
+            },
+            {
+                "id": 2069506895,
+                "link": "https://api.gog.com/products/2069506895",
+                "expanded_link": "https://api.gog.com/products/2069506895"
+            },
+            {
+                "id": 2081693308,
+                "link": "https://api.gog.com/products/2081693308",
+                "expanded_link": "https://api.gog.com/products/2081693308"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1099740426,1900293362,2069506895,2081693308",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1099740426,1900293362,2069506895,2081693308"
+    },
+    "price": {
+        "final": "$5.99",
+        "base": "$19.99",
+        "discount": "-70%",
+        "finalMoney": {
+            "amount": "5.99",
+            "currency": "USD",
+            "discount": "14.00"
+        },
+        "baseMoney": {
+            "amount": "19.99",
+            "currency": "USD"
+        }
+    }
+}

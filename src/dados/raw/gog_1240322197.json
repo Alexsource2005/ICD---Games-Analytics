@@ -1,0 +1,78 @@
+{
+    "id": 1240322197,
+    "title": "Stray Souls",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/stray_souls",
+    "slug": "stray_souls",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "fr": "français",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/stray_souls",
+        "product_card": "https://www.gog.com/game/stray_souls",
+        "support": "https://www.gog.com/support/stray_souls",
+        "forum": "https://www.gog.com/forum/stray_souls"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2023-10-25T18:50:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/2d18a9e097dcfaab605d5163ea577a04df59d14bf40e835ac63165e9f3d031de.jpg",
+        "logo": "//images-3.gog-statics.com/b39cdebcdeb52af3f940440f7f172ae0979666f48d68fdb0747f2a732a6cdbe4_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/b39cdebcdeb52af3f940440f7f172ae0979666f48d68fdb0747f2a732a6cdbe4_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/65e4e73433d7e2ead4951835bf7a530797e165efdbdb7b7f8751102491e4dcbe_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/65e4e73433d7e2ead4951835bf7a530797e165efdbdb7b7f8751102491e4dcbe_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/65e4e73433d7e2ead4951835bf7a530797e165efdbdb7b7f8751102491e4dcbe_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/65e4e73433d7e2ead4951835bf7a530797e165efdbdb7b7f8751102491e4dcbe_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/65e4e73433d7e2ead4951835bf7a530797e165efdbdb7b7f8751102491e4dcbe.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1911271430,
+                "link": "https://api.gog.com/products/1911271430",
+                "expanded_link": "https://api.gog.com/products/1911271430"
+            },
+            {
+                "id": 1958691058,
+                "link": "https://api.gog.com/products/1958691058",
+                "expanded_link": "https://api.gog.com/products/1958691058"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1911271430,1958691058",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1911271430,1958691058"
+    },
+    "price": {
+        "final": "$17.99",
+        "base": "$29.99",
+        "discount": "-40%",
+        "finalMoney": {
+            "amount": "17.99",
+            "currency": "USD",
+            "discount": "12.00"
+        },
+        "baseMoney": {
+            "amount": "29.99",
+            "currency": "USD"
+        }
+    }
+}

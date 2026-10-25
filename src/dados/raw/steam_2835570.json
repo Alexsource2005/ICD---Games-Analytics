@@ -34,12 +34,12 @@
                 "CRITICAL REFLEX"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 149,
-                "final": 74,
+                "currency": "BRL",
+                "initial": 999,
+                "final": 499,
                 "discount_percent": 50,
-                "initial_formatted": "$1.49",
-                "final_formatted": "$0.74 USD"
+                "initial_formatted": "R$ 9,99",
+                "final_formatted": "R$ 4,99"
             },
             "packages": [
                 1011957
@@ -58,11 +58,11 @@
                             "packageid": 1011957,
                             "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "Buckshot Roulette - <span class=\"discount_original_price\">$1.49</span> $0.74 USD",
+                            "option_text": "Buckshot Roulette - <span class=\"discount_original_price\">R$ 9,99</span> R$ 4,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 74
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -218,7 +218,7 @@
                 }
             ],
             "recommendations": {
-                "total": 111593
+                "total": 111604
             },
             "achievements": {
                 "total": 16,
@@ -350,9 +350,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 40007,
+                    "total_positive": 40010,
                     "total_negative": 1732,
-                    "total_reviews": 41739
+                    "total_reviews": 41742
                 },
                 "reviews": [
                     {
@@ -370,7 +370,7 @@
                         "timestamp_created": 1790497581,
                         "timestamp_updated": 1790497581,
                         "voted_up": true,
-                        "votes_up": 29,
+                        "votes_up": 30,
                         "votes_funny": 5,
                         "weighted_vote_score": 0.7604691386222839,
                         "comment_count": 0,
@@ -383,7 +383,7 @@
                 ],
                 "cursor": "AoIFQFUymYAAAAB0vbeFBw==",
                 "day_range_used": 30,
-                "total_matching": 561
+                "total_matching": 564
             }
         }
     }

@@ -1,0 +1,64 @@
+{
+    "id": 2069785347,
+    "title": "SHEEPO",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/sheepo",
+    "slug": "sheepo",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/sheepo",
+        "product_card": "https://www.gog.com/game/sheepo",
+        "support": "https://www.gog.com/support/sheepo",
+        "forum": "https://www.gog.com/forum/sheepo"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-10-22T14:55:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/0dbb98ef88987c54aecb3272fcc366be588f93e74e4d0220ae6453f1ba1d7ee5.jpg",
+        "logo": "//images-4.gog-statics.com/47cb6499f1e8de52e0b3f2513cb545ea6907c51fb0340324f1b9d5fa9c49f0c6_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/47cb6499f1e8de52e0b3f2513cb545ea6907c51fb0340324f1b9d5fa9c49f0c6_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/6194f79fda46f07538e829b776296912307aecd62d69901ef1c3d041711770d1_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/6194f79fda46f07538e829b776296912307aecd62d69901ef1c3d041711770d1_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/6194f79fda46f07538e829b776296912307aecd62d69901ef1c3d041711770d1_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/6194f79fda46f07538e829b776296912307aecd62d69901ef1c3d041711770d1_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/6194f79fda46f07538e829b776296912307aecd62d69901ef1c3d041711770d1.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1345605682,
+                "link": "https://api.gog.com/products/1345605682",
+                "expanded_link": "https://api.gog.com/products/1345605682"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1345605682",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1345605682"
+    },
+    "price": {
+        "final": "$3.99",
+        "base": "$9.99",
+        "discount": "-60%",
+        "finalMoney": {
+            "amount": "3.99",
+            "currency": "USD",
+            "discount": "6.00"
+        },
+        "baseMoney": {
+            "amount": "9.99",
+            "currency": "USD"
+        }
+    }
+}

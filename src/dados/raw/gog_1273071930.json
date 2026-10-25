@@ -1,0 +1,84 @@
+{
+    "id": 1273071930,
+    "title": "The Past Within",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/the_past_within",
+    "slug": "the_past_within",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "cz": "český",
+        "da": "Dansk",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "nl": "nederlands",
+        "pl": "polski",
+        "pt": "português",
+        "ro": "română",
+        "ru": "русский",
+        "sv": "svenska",
+        "tr": "Türkçe",
+        "vi": "Tiếng Việt",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/the_past_within",
+        "product_card": "https://www.gog.com/game/the_past_within",
+        "support": "https://www.gog.com/support/the_past_within",
+        "forum": "https://www.gog.com/forum/the_past_within"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2023-02-23T14:55:00+0100",
+    "images": {
+        "background": "//images-4.gog-statics.com/b2ec2c1a5ad70500781d72bd8e518f00c6a665f76518a64bf59cd285814eaade.jpg",
+        "logo": "//images-2.gog-statics.com/f41196f9685d6a7ebc07bf7798fea5b69220157aac5000c2f6d9ba15fec7f84e_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/f41196f9685d6a7ebc07bf7798fea5b69220157aac5000c2f6d9ba15fec7f84e_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/ff649a76162d57ae6c86dcbe037cbf86d02d0e68b970dc751a569cea9a9c8240_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/ff649a76162d57ae6c86dcbe037cbf86d02d0e68b970dc751a569cea9a9c8240_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/ff649a76162d57ae6c86dcbe037cbf86d02d0e68b970dc751a569cea9a9c8240_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/ff649a76162d57ae6c86dcbe037cbf86d02d0e68b970dc751a569cea9a9c8240_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/ff649a76162d57ae6c86dcbe037cbf86d02d0e68b970dc751a569cea9a9c8240.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1715156649,
+                "link": "https://api.gog.com/products/1715156649",
+                "expanded_link": "https://api.gog.com/products/1715156649"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1715156649",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1715156649"
+    },
+    "price": {
+        "final": "$3.95",
+        "base": "$5.99",
+        "discount": "-34%",
+        "finalMoney": {
+            "amount": "3.95",
+            "currency": "USD",
+            "discount": "2.04"
+        },
+        "baseMoney": {
+            "amount": "5.99",
+            "currency": "USD"
+        }
+    }
+}

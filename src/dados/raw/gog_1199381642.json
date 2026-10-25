@@ -1,0 +1,87 @@
+{
+    "id": 1199381642,
+    "title": "Q.U.B.E. 2",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/qube_2",
+    "slug": "qube_2",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/qube_2",
+        "product_card": "https://www.gog.com/game/qube_2",
+        "support": "https://www.gog.com/support/qube_2",
+        "forum": "https://www.gog.com/forum/qube_series"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2018-03-13T17:59:00+0100",
+    "images": {
+        "background": "//images-3.gog-statics.com/0229a3fc826fe0d89a79369beeae3b36b3c663347f88a4dd2fa25920e57c7a5d.jpg",
+        "logo": "//images-4.gog-statics.com/2dfa49860f767b76b4438b51087f351c6418fb62effda514bc83b1e5c99d475a_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/2dfa49860f767b76b4438b51087f351c6418fb62effda514bc83b1e5c99d475a_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/a82c22bfea575461db94932c013a291676a2150fdd937adaa0f069dffd34cc4e_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/a82c22bfea575461db94932c013a291676a2150fdd937adaa0f069dffd34cc4e_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/a82c22bfea575461db94932c013a291676a2150fdd937adaa0f069dffd34cc4e_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/a82c22bfea575461db94932c013a291676a2150fdd937adaa0f069dffd34cc4e_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/a82c22bfea575461db94932c013a291676a2150fdd937adaa0f069dffd34cc4e.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1301140344,
+                "link": "https://api.gog.com/products/1301140344",
+                "expanded_link": "https://api.gog.com/products/1301140344"
+            },
+            {
+                "id": 1384331248,
+                "link": "https://api.gog.com/products/1384331248",
+                "expanded_link": "https://api.gog.com/products/1384331248"
+            },
+            {
+                "id": 1426757467,
+                "link": "https://api.gog.com/products/1426757467",
+                "expanded_link": "https://api.gog.com/products/1426757467"
+            },
+            {
+                "id": 1811315044,
+                "link": "https://api.gog.com/products/1811315044",
+                "expanded_link": "https://api.gog.com/products/1811315044"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1301140344,1384331248,1426757467,1811315044",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1301140344,1384331248,1426757467,1811315044"
+    },
+    "price": {
+        "final": "$24.99",
+        "base": "$24.99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "24.99",
+            "currency": "USD",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "24.99",
+            "currency": "USD"
+        }
+    }
+}

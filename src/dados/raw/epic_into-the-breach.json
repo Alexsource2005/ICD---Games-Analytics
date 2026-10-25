@@ -1,0 +1,411 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#624680"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#624680"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "5c0d568c71174cff8026db2606771d96",
+    "_title": "into-the-breach",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "Into The Breach",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/into-the-breach",
+    "_slug": "into-the-breach",
+    "_activeDate": "2019-12-07T02:08:38.455Z",
+    "lastModified": "2019-12-07T02:14:59.954Z",
+    "_locale": "pt-BR",
+    "_id": "fadbf602-c904-4484-90c8-d8d59e3ad48e",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#624680"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#624680"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "5c0d568c71174cff8026db2606771d96",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#624680",
+                "accentColor": "#624680",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Into The Breach",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/into-the-breach/home",
+            "_slug": "home",
+            "_activeDate": "2019-12-07T02:17:01.933Z",
+            "lastModified": "2023-02-20T20:35:43.169Z",
+            "_locale": "pt-BR",
+            "_id": "87f186fc-2532-4e12-9bc9-c5a3b71fc09c",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "5c0d568c71174cff8026db2606771d96",
+                "id": "a08681e2143d4c218167e45d76db8de0",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "26f79209063d435d8988647a5e2e14c2",
+                "appName": "Blobfish",
+                "_type": "Diesel Product Item",
+                "namespace": "5c0d568c71174cff8026db2606771d96",
+                "hasItem": true
+            },
+            "data": {
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/subsetgames",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://subsetgames.com",
+                    "title": "Siga o Into The Breach "
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 ou superior",
+                                    "recommended": "Windows 7 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "1,7 GHz",
+                                    "recommended": "1,7 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "1 GB",
+                                    "recommended": "1 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "250 MB",
+                                    "recommended": "250 MB"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "OSX 10.7 ou superior",
+                                    "recommended": "OSX 10.7 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "1,7+ GHz",
+                                    "recommended": "1,7+ GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "1 GB",
+                                    "recommended": "1 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "250 MB",
+                                    "recommended": "250 MB"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2F12_L-210x117-6f06969b432015bd2a395237649a93caa50397be.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: 12 anos"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 12 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FESRB_IntoTheBreach-842x404-27bdc0232852a9cc3f5892c26c4379cc0008f112.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 10 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Copyright (C) 2018 Subset Games, LLC",
+                    "privacyPolicyLink": {
+                        "src": "http://subsetgames.com/faq.html#privacypolicy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Subset Games"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/itb---portrait-1200-x-1600-1200x1600-89caf965e0f5.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Subset Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Subset Games",
+                    "description": "![Imagem Into The Breach](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_00-1280x720-30c12931f2d2e7cdb3d58c8e4af27ea1d43e68a0.jpg)\n\n# Defenda as cidades\n\nEdifícios civis alimentam seus mechs. Defenda-os do Vek e cuidado com os tiros!\n\n![Imagem Into The Breach](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_02-1280x720-fbcadbedc3c2cab213b416060931efe05abed4b8.jpg)\n\n# Aperfeiçoe sua estratégia\n\nTodos os ataques inimigos são telegrafados em combates minimalistas baseados em rodadas. Analise o ataque do seu adversário e descubra o contra-ataque perfeito em cada rodada.\n\n![Imagem Into The Breach](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_04-1280x720-a66968da965ea4d0baf738683b75bb874d581323.jpg)\n\n# Construa o mech definitivo\n\nEncontre novas armas poderosas e pilotos únicos enquanto luta contra a infestação Vek nas ilhas Corporate-Nation.\n\n![Imagem Into The Breach](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_06-1280x720-40ba9a223c67b690da8099707e1bfb97d654882d.jpg)\n\n# Outra chance\n\nFalhar não é uma opção. Se você for derrotado, envie ajuda de volta no tempo para salvar outra linha do tempo!",
+                    "shortDescription": "Controle poderosos mechs do futuro para derrotar uma ameaça alienígena. Cada tentativa de salvar o mundo traz um novo desafio gerado aleatoriamente neste jogo de estratégia em turnos desenvolvido pelos criadores de FTL.",
+                    "title": "Into the Breach",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_IC1-200x200-55f93e997aff7f9a97289d439686345b5da1e81e.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/itb---portrait-1200-x-1600-1200x1600-89caf965e0f5.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/itb---landscape-2560-x-1440-2560x1440-55153197cbe7.png"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_S1-2560x1440-ab1f643bf9f4c539bc86697ff70583fa5906dbbd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"0d40b6d25aa9432291e29ab84a5ca761\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"1ff38c84677b49db8141e4c9ebff0ed5\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"4d32c715e5de4fbaa7b644acadd995a9\"\n        }\n    ]\n}",
+                                "accentColor": "#624680",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "title": "Trailer de Into The Breach",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2018-02-27T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Subset Games"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Subset Games"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "ROGUE_LITE",
+                        "TURN_BASED",
+                        "STRATEGY"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    },
+                    "description": "",
+                    "title": ""
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_08-1280x720-afa86bc56cbc29bf505fb08c84e06d1085ef64fa.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_09-1280x720-76f78a2af2fe40bfd9bd794f5ab180df10d3b891.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_10-1280x720-00b4bc7253c768b0ad7890a63bbb6321453f794e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        }
+                    ]
+                },
+                "navTitle": "Into The Breach"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/itb---portrait-1200-x-1600-1200x1600-89caf965e0f5.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_IC1-200x200-55f93e997aff7f9a97289d439686345b5da1e81e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2F12_L-210x117-6f06969b432015bd2a395237649a93caa50397be.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_10-1280x720-00b4bc7253c768b0ad7890a63bbb6321453f794e.jpg",
+                "https://cdn2.unrealengine.com/itb---landscape-2560-x-1440-2560x1440-55153197cbe7.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FESRB_IntoTheBreach-842x404-27bdc0232852a9cc3f5892c26c4379cc0008f112.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_S1-2560x1440-ab1f643bf9f4c539bc86697ff70583fa5906dbbd.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_09-1280x720-76f78a2af2fe40bfd9bd794f5ab180df10d3b891.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Finto-the-breach%2Fhome%2FEGS_SubsetGames_IntotheBreach_G2_08-1280x720-afa86bc56cbc29bf505fb08c84e06d1085ef64fa.jpg"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": 2020854984,
+    "title": "Call of the Sea",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/call_of_the_sea",
+    "slug": "call_of_the_sea",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "pt": "português",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/call_of_the_sea",
+        "product_card": "https://www.gog.com/game/call_of_the_sea",
+        "support": "https://www.gog.com/support/call_of_the_sea",
+        "forum": "https://www.gog.com/forum/call_of_the_sea"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2020-12-08T16:50:00+0100",
+    "images": {
+        "background": "//images-3.gog-statics.com/d45113b40b765c168d569de6b255d80072cb3b65a9a816ccf5e8b5886a72d618.jpg",
+        "logo": "//images-4.gog-statics.com/a2b0774c7751e78c69d74251e383aba1770c817ec616e7a41d68ae316b812baf_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/a2b0774c7751e78c69d74251e383aba1770c817ec616e7a41d68ae316b812baf_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/d3aebd8362d58d62a6202e5f5c4db11031d15ea1d82280d82285f0f5cb6201ad_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/d3aebd8362d58d62a6202e5f5c4db11031d15ea1d82280d82285f0f5cb6201ad_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/d3aebd8362d58d62a6202e5f5c4db11031d15ea1d82280d82285f0f5cb6201ad_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/d3aebd8362d58d62a6202e5f5c4db11031d15ea1d82280d82285f0f5cb6201ad_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/d3aebd8362d58d62a6202e5f5c4db11031d15ea1d82280d82285f0f5cb6201ad.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1119941842,
+                "link": "https://api.gog.com/products/1119941842",
+                "expanded_link": "https://api.gog.com/products/1119941842"
+            },
+            {
+                "id": 1417772752,
+                "link": "https://api.gog.com/products/1417772752",
+                "expanded_link": "https://api.gog.com/products/1417772752"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1119941842,1417772752",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1119941842,1417772752"
+    },
+    "price": {
+        "final": "$4.99",
+        "base": "$19.99",
+        "discount": "-75%",
+        "finalMoney": {
+            "amount": "4.99",
+            "currency": "USD",
+            "discount": "15.00"
+        },
+        "baseMoney": {
+            "amount": "19.99",
+            "currency": "USD"
+        }
+    }
+}

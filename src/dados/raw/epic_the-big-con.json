@@ -1,0 +1,495 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "The Big Con",
+    "_noIndex": false,
+    "productName": "The Big Con",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": ""
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#FFFF00"
+        }
+    },
+    "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
+    "theme": {
+        "buttonPrimaryBg": "#FFFF00",
+        "accentColor": "#FFFF00",
+        "_type": "Diesel Theme",
+        "colorScheme": "dark"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/the-big-con",
+    "_slug": "the-big-con",
+    "_activeDate": "2021-08-17T05:32:55.318Z",
+    "lastModified": "2021-08-17T05:36:09.927Z",
+    "_locale": "pt-BR",
+    "_id": "0219d5d2-1faf-43f2-bf22-8fef8d69ceda",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "_noIndex": false,
+            "productName": "The Big Con",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": ""
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#FFFF00"
+                }
+            },
+            "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/the-big-con/home",
+            "_slug": "home",
+            "_activeDate": "2021-08-17T05:36:14.321Z",
+            "lastModified": "2021-08-17T05:52:04.742Z",
+            "_locale": "pt-BR",
+            "_id": "4eefc5e5-a559-4465-81d3-560cae1dccd5",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
+                "id": "d0ae213cddb44791a607056fcc6040f1",
+                "type": "edition",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links",
+                    "title": "Siga-nos",
+                    "linkHomepage": "http://thebigcongame.com"
+                },
+                "requirements": {
+                    "languages": [
+                        "Áudio: inglês",
+                        "Texto: chinês simplificado, inglês, francês, alemão, espanhol (Espanha), português (Brasil)"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 de 64 bits",
+                                    "recommended": "Windows 10 de 64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "AMD FX-4350 ou Intel Pentium G4500",
+                                    "recommended": "Intel Core i7-3770K ou AMD Ryzen 3 1200"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "3 GB",
+                                    "recommended": "4 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "DirectX 11",
+                                    "recommended": "DirectX 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "AMD Radeon HD 7770 ou placa dedicada equivalente",
+                                    "recommended": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 480"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2021 Mighty Yell Studios Inc. ©2021 Skybound, LLC. Skybound and any related marks or logos are registered or otherwise protected trademarks owned by Skybound, LLC and/or its affiliates.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.skybound.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s4-1200x1600-eb15ff041d34.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Mighty Yell",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Skybound Games",
+                    "description": "Jogue como Ali, uma estudante do colegial curiosa e sarcástica que largou o acampamento de música para pôr o pé na estrada. Mas não é só um passeio! Ali tem uma missão importante: salvar a locadora da família de agiotas do mal que querem levar a loja à falência. Passe a perna em estranhos, bata carteiras e engane qualquer um em uma viagem doida pelos Estados Unidos dos anos 90. E não precisamos nem falar, não deixe sua mãe descobrir nada. Escolha quem merece ser enganado e quem precisa de uma ajudinha. Você tem o mundo nas mãos (e pode fazer o que quiser com ele!).\n\n## Um golpe só não basta\n\nSaia enganando todo mundo! Use disfarces, esgueire-se por aí, ouça conversas sem que percebam sua presença e aprenda a abordar cada alvo. Talvez você consiga fazer uma boa grana só batendo carteiras. Ou pode tentar golpes mais complexos, envolvendo arrombamentos, invasões, persuasão e muito mais. Cabe a você enganar e arrombar qualquer obstáculo no caminho para salvar a locadora da sua mãe.\n\n## Uma comédia sobre amadurecimento\n\nSe tem um jeito muito bom de se conhecer melhor, é embarcando em uma aventura. Sorte a sua que você tem a ajuda de um golpista experiente para aprender a fina arte da persuasão. Mas uma vida no crime não é piada! A não ser que você faça dela uma piada e a transforme em uma série cômica. Prepare-se para fechar negócios, ganhar corações e causar confusão só na base da conversa. E não se esqueça de ligar para casa de vez em quando e falar com a sua mãe. Tudo bem, às vezes vocês discutem (na maioria das vezes?), mas você é uma adolescente, é o que é!\n\n## A estranha e divertida década de 90 das suas lembranças\n\nTenha você crescido nos anos 90 ou não, este jogo é repleto de nostalgia. É a oportunidade perfeita para quem quer reviver os anos esquisitos do ensino médio. Ou, para quem infelizmente perdeu os anos 90, ver como eram aqueles filmes adolescentes que hoje são tão antiquados. Camisas xadrez, orelhões, fitas VHS e shoppings: THE BIG CON tem todas as modinhas da década de 90 que não saem da nossa cabeça (e as que muita gente queria esquecer).\n\nMas o mais importante: você pode andar no Hormipillar o quanto quiser!",
+                    "shortDescription": "Cruze os Estados Unidos dos anos 90 enganando a todos como uma golpista adolescente nesta aventura cheia de crimes! Jogue como Ali, uma estudante do colegial curiosa e sarcástica que largou o acampamento de música para pôr o pé na estrada e salvar a locadora da família.",
+                    "title": "The Big Con",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-ic1-400x400-02bfa5870a9b.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s2-1200x1600-ba0754e1721b.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s3-2560x1440-f341ff505d2b.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s1-2560x1440-5e18abd39d05.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/99c2377852e84e0aa58caa3c93422fd5/99c2377852e84e0aa58caa3c93422fd5.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s3-2560x1440-2f5ccbaafac4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"95ed4413cdfd4e3398d6b1b9d4a0cbbb\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/bb49d1d1fd9342b18deecc959b42616f/bb49d1d1fd9342b18deecc959b42616f.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s3-2560x1440-2f5ccbaafac4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"8427dac3b2814973ba746e2f13c28721\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/16c3c8a9ec3b41969111260421d6b8e6/16c3c8a9ec3b41969111260421d6b8e6.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s3-2560x1440-2f5ccbaafac4.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"6764f3b00df34b0c84577eedd6b9b49e\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-00-1920x1080-c349c35d2f4d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-01-1920x1080-681abd60b5f5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-02-1920x1080-42a52a207e7e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-03-1920x1080-2dc8350714d3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-04-1920x1080-250f880af7e2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-05-1920x1080-a3379276cc44.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-06-1920x1080-42cf5ea3174f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-07-1920x1080-80a8c0e1cafe.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-08-1920x1080-591f4dabaf13.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-09-1920x1080-fd7ffcd7f121.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-08-31T14:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Skybound Games"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Mighty Yell"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "INDIE",
+                        "ADVENTURE",
+                        "COMEDY"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "The Big Con"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-04-1920x1080-250f880af7e2.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-07-1920x1080-80a8c0e1cafe.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-02-1920x1080-42a52a207e7e.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-01-1920x1080-681abd60b5f5.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s4-1200x1600-eb15ff041d34.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-03-1920x1080-2dc8350714d3.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-ic1-400x400-02bfa5870a9b.png",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s2-1200x1600-ba0754e1721b.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s3-2560x1440-f341ff505d2b.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-06-1920x1080-42cf5ea3174f.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-s1-2560x1440-5e18abd39d05.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-00-1920x1080-c349c35d2f4d.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-09-1920x1080-fd7ffcd7f121.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-05-1920x1080-a3379276cc44.jpg",
+                "https://cdn2.unrealengine.com/egs-thebigcon-mightyyell-g1a-08-1920x1080-591f4dabaf13.jpg"
+            ]
+        }
+    ]
+}

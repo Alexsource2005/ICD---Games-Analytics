@@ -1,0 +1,619 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "eximius-seize-the-frontline",
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "Eximius: Seize the Frontline",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#FC5F00"
+        }
+    },
+    "namespace": "1c943de0163f4f0982f34dc0fc37dce9",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/eximius-seize-the-frontline",
+    "_slug": "eximius-seize-the-frontline",
+    "_activeDate": "2021-09-23T13:55:00.000Z",
+    "lastModified": "2021-09-21T20:18:01.984Z",
+    "_locale": "pt-BR",
+    "_id": "3e04d4a4-949e-4d99-a621-da45e0c3bf73",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Eximius: Seize the Frontline",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#FC5F00"
+                }
+            },
+            "namespace": "1c943de0163f4f0982f34dc0fc37dce9",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/eximius-seize-the-frontline/home",
+            "_slug": "home",
+            "_activeDate": "2021-09-21T16:52:55.101Z",
+            "lastModified": "2021-10-21T22:23:49.939Z",
+            "_locale": "pt-BR",
+            "_id": "b02a572a-2e00-4948-8c93-7b9bc60d7cf8",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "1c943de0163f4f0982f34dc0fc37dce9",
+                "id": "6930e8f29e1646e194da321c88a266bf",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/ammoboxstudios",
+                    "linkTwitch": "https://www.twitch.tv/ammoboxstudios",
+                    "linkFacebook": "https://www.facebook.com/EximiusGame",
+                    "linkYoutube": "https://www.youtube.com/channel/UCcQIB2T0dfPHZi7xQ7cLRuw",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/ammoboxstudios",
+                    "linkHomepage": "http://www.seizethefrontline.com/",
+                    "linkInstagram": "https://www.instagram.com/eximiusthegame/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês | TEXTO: inglês, chinês simplificado, chinês tradicional, alemão, russo"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1 (x64)",
+                                    "recommended": "Windows 8 (x64)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador Intel Core i5-6600 ou AMD Ryzen™ 5 1600",
+                                    "recommended": "Processador Intel Core i5-8600K ou AMD Ryzen™ 7 5700"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "34 GB de espaço disponível",
+                                    "recommended": "34 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 12"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 1650 ou AMD Radeon™ RX580",
+                                    "recommended": "NVIDIA GeForce RTX 2070 ou AMD Radeon™ 5700XT"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "EXIMIUS: SEIZE THE FRONTLINE (c) 2015-2021 AMMOBOXSTUDIOS SDN BHD. ALL RIGHTS RESERVED.",
+                    "privacyPolicyLink": {
+                        "src": "http://www.seizethefrontline.com/PrivacyPolicy.html",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-s2-1200x1600-7c1759acd4a2.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Ammobox Studios",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Ammobox Studios",
+                    "description": "![Image 1](https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g2-00-1400x400-58e366d1e1a2.jpg)\n\n\n# Eximius: Seize the Frontline\n\nEximius combina a jogabilidade tática de um jogo de tiro em primeira pessoa com tomadas de decisões estratégicas de alto nível de um jogo de estratégia em tempo real. O jogo apresenta uma batalha competitiva de equipes 5x5, nas quais os jogadores se enfrentam em um ambiente urbano pós-apocalíptico.\n\n**Jogue como um comandante (RTS)**\nConstrua sua base, treine seu exército e use habilidades de suporte para ajudar seus aliados no solo e ganhar território.\n\n**Jogue como um oficial (FPS)**\nLidere sua tropa para o combate e esmague seus inimigos com táticas ágeis ou força bruta. Colete recursos para a sua equipe, aprimore armas e equipe-se com trajes de batalha poderosos. \n\n# O jogo \n\nEximius oferece uma experiência de jogabilidade multifunção, na qual cada jogador pode escolher desempenhar um papel diferente e lutar não só com os músculos, mas também com o cérebro. Um atirador experiente pode ficar em desvantagem numérica, ser emboscado e derrotado se for pego em uma posição errada. Enquanto um oficial planejador pode ser assassinado no momento certo na linha de frente.\n\n# Características\n\n- Transição impecável\n- Construa bases\n- Treine exércitos\n- Trave batalhas táticas\n- Desbloqueie tecnologias\n- Equipe-se com trajes de batalha\n\n# Transição impecável\n\nAlém de comandante, você é também um oficial. Porém, seu diferencial é ter a capacidade extra de alternar para uma interface de RTS (estratégia em tempo real) para construir bases e comandar unidades. Um comandante agressivo também pode se juntar à batalha na linha de frente, mas, normalmente, espera-se que ele fique relativamente seguro e controle o desenvolvimento da base. O comandante precisa ser indicado pela equipe.\n\n# Construção de Base\n\nComo a jogabilidade de Eximius gira em torno de batalhas entre equipes, cada equipe compartilha uma base, recursos e árvore de tecnologia. O comandante de RTS fornece suporte a operações de batalha treinando unidades de infantaria e veículos, construindo bases e solicitando ataques aéreos ou habilidades de suporte.\n\n# Treine exércitos\n\nO comandante pode treinar uma infantaria de IA e designá-la a jogadores. Lidere como o oficial da linha de frente e seu esquadrão lutará sinergicamente com você, protegendo-se e ajudando tanto no ataque quanto na defesa.\n\n# Trave batalhas táticas\n\nDecida as funções de combate e compre armas adequadas ao seu estilo de jogo e às suas táticas. Sua arma e equipamento determinam seus papéis na equipe. Responda à estratégia do inimigo com poder de fogo e equipamento apropriado, seja na forma de veículos, seja uma infantaria imensa ou jogadores furtivos.\n\n# Desbloqueie tecnologias\n\nConforme seus recursos e tecnologias aumentam, você pode construir unidades cada vez mais fortes, como veículos blindados, navios de artilharia e soldados de elite. Sua equipe também pode ganhar habilidades de equipe poderosas quando você aumenta o nível de sua tecnologia. Convoque a artilharia, lance uma força de resposta rápida ou ataques de pulso eletromagnético.\n\n# Equipe-se com trajes de batalha\n\nO ápice do poder de fogo de cada equipe é o lendário traje de batalha. Equipar-se com trajes de batalha permite aos jogadores usar habilidades poderosas, aumentar seus atributos e avançar na linha de frente muito mais rápido. Os oficiais poderão escolher dentre vários trajes de batalha, cada um com seu próprio estilo de jogo e conjunto de habilidades.\n\n![Image 2](https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g2-01-1400x400-5e4ca8a238e1.jpg)\n\n# Facções\n\n**Axeron Corporation (AXR)**\nA AXR é uma organização de pesquisa privada que se tornou uma prestadora de serviços de segurança devido à necessidade global. Na vanguarda da ciência, muitos acreditam que esta rica organização detém tecnologias essenciais que podem trazer a paz global. \n\n**Global Security Force (GSF, Força de Segurança GlobaL)**\nUma organização de manutenção da paz estabelecida após a primeira grande guerra inicial. A fundação GSF se alicerça nos princípios de proteção dos muros, resgate de sobreviventes humanos e reconstrução do mundo civilizado. Nações que escolhem financiar a GSF o fazem por conta de seus vastos exércitos e sua presença global.",
+                    "shortDescription": "EXIMIUS é um híbrido de FPS/RTS que foca em combate baseado em esquadrões. O jogo apresenta uma intensa experiência multijogador 5x5 com cada equipe sendo composta por 4 oficiais de esquadrão e um comandante.",
+                    "title": "",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-ic1-400x78-ca39a0d0f589.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-s2-1200x1600-7c1759acd4a2.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "title": "Eximius: Seize the Frontline",
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-s1-2560x1440-9e45815b98e8.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/9c36573cbc9643789b7798dcc21d027f/9c36573cbc9643789b7798dcc21d027f.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1c-001-1920x1080-0155f861fd56.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"5717b7df4fa543ab82c4c4a8a9336c5f\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/95fcc32dd80d4b678e8e32f37ca1a8bf/95fcc32dd80d4b678e8e32f37ca1a8bf.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1c-001-1920x1080-0155f861fd56.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"7fbaf26096e6417dab89e20ac3b09b34\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f4cfba197f54491fbd2c93d29c81ffbb/f4cfba197f54491fbd2c93d29c81ffbb.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1c-001-1920x1080-0155f861fd56.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"40994fe1a0f94be0b492c4160f0be187\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Eximius - Nemesis Trailer",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/74588c00a284479ebbe58e58c091f9e2/74588c00a284479ebbe58e58c091f9e2-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/74588c00a284479ebbe58e58c091f9e2/74588c00a284479ebbe58e58c091f9e2.m3u8\"\n        }\n      ],\n      \"mediaRefId\": \"91d6aa1fc3b346e486d03943754e3c81\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/144f3fd90b674d1daa8f38fac9649e06/144f3fd90b674d1daa8f38fac9649e06-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/144f3fd90b674d1daa8f38fac9649e06/144f3fd90b674d1daa8f38fac9649e06.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"2a277f6b58be442ab3384d23b6189420\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/afedb11680cc4c1fab62023ede750988/afedb11680cc4c1fab62023ede750988-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/afedb11680cc4c1fab62023ede750988/afedb11680cc4c1fab62023ede750988.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"cf83cd6dbec24304954390f80a0de2ef\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Eximus Launch Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/ff51abc4a77a435e97359aa9bb1f52a2/ff51abc4a77a435e97359aa9bb1f52a2-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/ff51abc4a77a435e97359aa9bb1f52a2/ff51abc4a77a435e97359aa9bb1f52a2.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"f19bb35f3c3b4fed9460ba9e4c8d7bc3\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/d3257f12106c43e49d7dd96569479d77/d3257f12106c43e49d7dd96569479d77-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/d3257f12106c43e49d7dd96569479d77/d3257f12106c43e49d7dd96569479d77.m3u8\"\n        }\n      ],\n      \"mediaRefId\": \"09d1d07202224993938215f45b673be7\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/2936a9ecfeb84a8eb1f6904d9f880808/2936a9ecfeb84a8eb1f6904d9f880808-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/2936a9ecfeb84a8eb1f6904d9f880808/2936a9ecfeb84a8eb1f6904d9f880808.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"454d29f0092249a6b8b30822138929c4\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Eximius - Cinematic Intro ",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/529e247e1b9844d68c889125dc37480d/529e247e1b9844d68c889125dc37480d-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/529e247e1b9844d68c889125dc37480d/529e247e1b9844d68c889125dc37480d.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"8722e5e44635484ea59e348f7440730d\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/433a9665a56746909c66bcdfaf589921/433a9665a56746909c66bcdfaf589921-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/433a9665a56746909c66bcdfaf589921/433a9665a56746909c66bcdfaf589921.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"5874444793774302a52002c4f275b76f\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/9a68e4ede0b54e178c225aaf7717f1b3/9a68e4ede0b54e178c225aaf7717f1b3-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/9a68e4ede0b54e178c225aaf7717f1b3/9a68e4ede0b54e178c225aaf7717f1b3.m3u8\"\n        }\n      ],\n      \"mediaRefId\": \"d12ced59adaf4618b0017d03fbf14f47\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Eximius Gameplay Clip",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-03-1920x1080-b8a69b69bdb3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-04-1920x1080-067e6eed61c0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-05-1920x1080-ab35e081489a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-06-1920x1080-9e7d0f640f69.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-07-1920x1080-43149607a574.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-08-1920x1080-fbc598861205.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-09-1920x1080-4dc470923f3d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-10-1920x1080-2272ac3c04a3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-11-1920x1080-15767a622233.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-12-1920x1080-50ca5888d7d0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-13-1920x1080-504a0e8e14d0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-14-1920x1080-ae3611fd5958.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-15-1920x1080-fd4308e9775e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-16-1920x1080-090d3d155e38.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-18-1920x1080-a56e620e4c3d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-10-22T18:12:49.518Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "Em breve",
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "STRATEGY",
+                        "FPS",
+                        "ACTION"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "DLC",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Eximius: Seize the Frontline"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-11-1920x1080-15767a622233.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-16-1920x1080-090d3d155e38.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-06-1920x1080-9e7d0f640f69.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-13-1920x1080-504a0e8e14d0.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-08-1920x1080-fbc598861205.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-10-1920x1080-2272ac3c04a3.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-18-1920x1080-a56e620e4c3d.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-15-1920x1080-fd4308e9775e.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-05-1920x1080-ab35e081489a.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-04-1920x1080-067e6eed61c0.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-12-1920x1080-50ca5888d7d0.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-07-1920x1080-43149607a574.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-09-1920x1080-4dc470923f3d.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-14-1920x1080-ae3611fd5958.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-s1-2560x1440-9e45815b98e8.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-ic1-400x78-ca39a0d0f589.png",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-s2-1200x1600-7c1759acd4a2.jpg",
+                "https://cdn2.unrealengine.com/egs-eximiusseizethefrontline-ammoboxstudios-g1a-03-1920x1080-b8a69b69bdb3.jpg"
+            ]
+        }
+    ]
+}

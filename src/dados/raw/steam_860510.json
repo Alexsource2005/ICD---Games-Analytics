@@ -45,12 +45,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 12745,
-                "final": 4205,
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 989,
                 "discount_percent": 67,
-                "initial_formatted": "R$ 127,45",
-                "final_formatted": "R$ 42,05"
+                "initial_formatted": "29,99€",
+                "final_formatted": "9,89€"
             },
             "packages": [
                 270935,
@@ -70,21 +70,21 @@
                             "packageid": 270935,
                             "percent_savings_text": "-67% ",
                             "percent_savings": 0,
-                            "option_text": "Little Nightmares II - <span class=\"discount_original_price\">R$ 127,45</span> R$ 42,05",
+                            "option_text": "Little Nightmares II - <span class=\"discount_original_price\">29,99€</span> 9,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4205
+                            "price_in_cents_with_discount": 989
                         },
                         {
                             "packageid": 497760,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Little Nightmares II Deluxe Edition - R$ 172,45",
+                            "option_text": "Little Nightmares II Deluxe Edition - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 17245
+                            "price_in_cents_with_discount": 3999
                         }
                     ]
                 }
@@ -210,44 +210,44 @@
             ],
             "movies": [
                 {
-                    "id": 256822968,
-                    "name": "LN2_LaunchTrailer_PC_Unrated_1920x1080",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256822968/movie.293x165.jpg?t=1614084144",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/348853/cd181e6e4c4569c60eb63f3795c75ab09578aeb8/1750590468/dash_av1.mpd?t=1614084144",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/348853/cd181e6e4c4569c60eb63f3795c75ab09578aeb8/1750590468/dash_h264.mpd?t=1614084144",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/348853/cd181e6e4c4569c60eb63f3795c75ab09578aeb8/1750590468/hls_264_master.m3u8?t=1614084144",
+                    "id": 256822965,
+                    "name": "LN2_LaunchTrailer_PC_PEGI_1920x1080",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256822965/movie.293x165.jpg?t=1613676209",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/348847/8639a45bae91437bad5296869d7ef8f1708876d5/1750590464/dash_av1.mpd?t=1613676209",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/348847/8639a45bae91437bad5296869d7ef8f1708876d5/1750590464/dash_h264.mpd?t=1613676209",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/348847/8639a45bae91437bad5296869d7ef8f1708876d5/1750590464/hls_264_master.m3u8?t=1613676209",
                     "highlight": true
                 },
                 {
-                    "id": 256820023,
-                    "name": "LN2_TransmissionTrailer_Steam_Unrated",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820023/movie.293x165.jpg?t=1611837396",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/343861/25541a00968b788adb2e427174a31ca3b3cb9a5c/1750590434/dash_av1.mpd?t=1611837396",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/343861/25541a00968b788adb2e427174a31ca3b3cb9a5c/1750590434/dash_h264.mpd?t=1611837396",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/343861/25541a00968b788adb2e427174a31ca3b3cb9a5c/1750590434/hls_264_master.m3u8?t=1611837396",
+                    "id": 256820030,
+                    "name": "LN2_TransmisssionTrailer_Steam_PEGI",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820030/movie.293x165.jpg?t=1611837352",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/343873/0c82896b836aeed38bfc24c4e4ab4bcd42d1acde/1750590457/dash_av1.mpd?t=1611837352",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/343873/0c82896b836aeed38bfc24c4e4ab4bcd42d1acde/1750590457/dash_h264.mpd?t=1611837352",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/343873/0c82896b836aeed38bfc24c4e4ab4bcd42d1acde/1750590457/hls_264_master.m3u8?t=1611837352",
                     "highlight": true
                 },
                 {
-                    "id": 256817831,
-                    "name": "Little-Nightmares-II_GamescomTrailer_PC_Unrated_EN",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256817831/movie.293x165.jpg?t=1610537173",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/339803/f290b764e5091804a7ac219055af9a92ba0540ab/1750590410/dash_av1.mpd?t=1610537173",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/339803/f290b764e5091804a7ac219055af9a92ba0540ab/1750590410/dash_h264.mpd?t=1610537173",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/339803/f290b764e5091804a7ac219055af9a92ba0540ab/1750590410/hls_264_master.m3u8?t=1610537173",
+                    "id": 256817824,
+                    "name": "Little-Nightmares-II_GamescomTrailer_PC_PEGI_EN",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256817824/movie.293x165.jpg?t=1610537203",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/339789/26bbe9bfee3e390b9c5e71bb2de87a623dd03282/1750590395/dash_av1.mpd?t=1610537203",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/339789/26bbe9bfee3e390b9c5e71bb2de87a623dd03282/1750590395/dash_h264.mpd?t=1610537203",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/339789/26bbe9bfee3e390b9c5e71bb2de87a623dd03282/1750590395/hls_264_master.m3u8?t=1610537203",
                     "highlight": true
                 },
                 {
-                    "id": 256808411,
-                    "name": "LNII_HALLOWEEN_Trailer_Steam_Unrated",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256808411/movie.293x165.jpg?t=1604937682",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/324738/32e0a3d2a3e57bde1666e265ea03da9111167553/1750590387/dash_av1.mpd?t=1604937682",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/324738/32e0a3d2a3e57bde1666e265ea03da9111167553/1750590387/dash_h264.mpd?t=1604937682",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/324738/32e0a3d2a3e57bde1666e265ea03da9111167553/1750590387/hls_264_master.m3u8?t=1604937682",
+                    "id": 256808410,
+                    "name": "LNII_HALLOWEEN_Trailer_Steam_PEGI",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256808410/movie.293x165.jpg?t=1604937691",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/860510/324737/c0587a8bcbf1e27c194a6f3a3afa58e8fa14c2b1/1750590384/dash_av1.mpd?t=1604937691",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/324737/c0587a8bcbf1e27c194a6f3a3afa58e8fa14c2b1/1750590384/dash_h264.mpd?t=1604937691",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/860510/324737/c0587a8bcbf1e27c194a6f3a3afa58e8fa14c2b1/1750590384/hls_264_master.m3u8?t=1604937691",
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 50614
+                "total": 50618
             },
             "achievements": {
                 "total": 35,
@@ -390,9 +390,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 17643,
+                    "total_positive": 17645,
                     "total_negative": 1257,
-                    "total_reviews": 18900
+                    "total_reviews": 18902
                 },
                 "reviews": [
                     {
@@ -423,7 +423,7 @@
                 ],
                 "cursor": "AoIFQFZF0UAAAAB3yvOIBw==",
                 "day_range_used": 30,
-                "total_matching": 93
+                "total_matching": 96
             }
         }
     }
