@@ -10,15 +10,42 @@ jogos_consolidados = {}
 
 def extrair_preco_original_steam(dados_json):
     """Extrai o preço cheio/original da Steam."""
-    for key, val in dados_json.items():
-        if val.get("success") and "data" in val:
-            data = val["data"]
-            if data.get("is_free"):
-                return "Grátis"
+    if not isinstance(dados_json, dict):
+        return "N/A"
 
-            price_info = data.get("price_overview")
-            if price_info:
-                return price_info.get("initial_formatted", f"R$ {price_info.get('initial', 0) / 100:.2f}".replace(".", ","))
+    for val in dados_json.values():
+        if not isinstance(val, dict) or not val.get("success"):
+            continue
+
+        data = val.get("data")
+        if not isinstance(data, dict):
+            continue
+
+        if data.get("is_free"):
+            return "Grátis"
+
+        price_info = data.get("price_overview")
+        if not isinstance(price_info, dict):
+            continue
+
+        if price_info.get("currency") != "BRL":
+            return "Preço em BRL indisponível"
+
+        preco_formatado = price_info.get("initial_formatted")
+        if preco_formatado:
+            return preco_formatado
+
+        preco_centavos = price_info.get("initial")
+        if preco_centavos is not None:
+            return f"R$ {preco_centavos / 100:.2f}".replace(".", ",")
+
+        preco_atual = price_info.get("final_formatted")
+        if preco_atual:
+            return preco_atual
+
+        preco_final = price_info.get("final")
+        if preco_final is not None:
+            return f"R$ {preco_final / 100:.2f}".replace(".", ",")
     return "N/A"
 
 def extrair_preco_original_epic(dados_json):

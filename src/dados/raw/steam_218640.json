@@ -5,13 +5,13 @@
             "type": "game",
             "name": "Lucius",
             "steam_appid": 218640,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "When Lucius was born on the June 6th, 1966, nobody expected him to be anything other than a normal little boy but everything changed on Lucius’ 6th Birthday,<br>when his true calling was revealed to him.<br><br>Equipped with supernatural powers, take control of Lucius as he begins his blood filled tour of horror through his own house, using Hell’s powers of telekinesis and mind control to orchestrate deadly accidents that will minimize the population of the Dante Manor one by one by one.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li>Unique 3D horror adventure gaming experience<br></li><li>3D Open World<br></li><li>Cinematic Cut-scenes<br></li><li>Breathtaking Atmosphere and Stunning Visuals<br></li><li>Harness Supernatural Powers, including Telekinesis and Mind Control<br></li><li>Experience the terror of a classic tale from the horror movie genre </li></ul>",
             "about_the_game": "When Lucius was born on the June 6th, 1966, nobody expected him to be anything other than a normal little boy but everything changed on Lucius’ 6th Birthday,<br>when his true calling was revealed to him.<br><br>Equipped with supernatural powers, take control of Lucius as he begins his blood filled tour of horror through his own house, using Hell’s powers of telekinesis and mind control to orchestrate deadly accidents that will minimize the population of the Dante Manor one by one by one.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li>Unique 3D horror adventure gaming experience<br></li><li>3D Open World<br></li><li>Cinematic Cut-scenes<br></li><li>Breathtaking Atmosphere and Stunning Visuals<br></li><li>Harness Supernatural Powers, including Telekinesis and Mind Control<br></li><li>Experience the terror of a classic tale from the horror movie genre </li></ul>",
             "short_description": "Equipped with supernatural powers, take control of Lucius as he begins his blood filled tour of horror through his own house.",
-            "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Hungarian, Simplified Chinese, French<br><strong>*</strong>languages with full audio support",
+            "supported_languages": "Inglês<strong>*</strong>, Alemão<strong>*</strong>, Russo, Italiano<strong>*</strong>, Espanhol (Espanha)<strong>*</strong>, Polaco, Húngaro, Chinês simplificado, Francês<br><strong>*</strong>idiomas com suporte total de áudio",
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/header.jpg?t=1758742661",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/capsule_231x87.jpg?t=1758742661",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/capsule_184x69.jpg?t=1758742661",
@@ -30,12 +30,12 @@
                 "Shiver Games"
             ],
             "price_overview": {
-                "currency": "IDR",
-                "initial": 8999900,
-                "final": 8999900,
+                "currency": "BRL",
+                "initial": 1999,
+                "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "Rp 89 999"
+                "final_formatted": "R$ 19,99"
             },
             "packages": [
                 35502,
@@ -44,9 +44,9 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy Lucius",
+                    "title": "Comprar Lucius",
                     "description": "",
-                    "selection_text": "Select a purchase option",
+                    "selection_text": "Seleciona uma opção de compra",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
@@ -55,21 +55,21 @@
                             "packageid": 35502,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Lucius - Rp 89 999",
+                            "option_text": "Lucius - R$ 19,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8999900
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 66219,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Lucius Bundle - Rp 206 999",
+                            "option_text": "Lucius Bundle - R$ 73,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 20699900
+                            "price_in_cents_with_discount": 7399
                         }
                     ]
                 }
@@ -86,19 +86,19 @@
             "categories": [
                 {
                     "id": 2,
-                    "description": "Single-player"
+                    "description": "Um jogador"
                 },
                 {
                     "id": 22,
-                    "description": "Steam Achievements"
+                    "description": "Proezas Steam"
                 },
                 {
                     "id": 28,
-                    "description": "Full controller support"
+                    "description": "Compatibilidade total com comando"
                 },
                 {
                     "id": 29,
-                    "description": "Steam Trading Cards"
+                    "description": "Cartas Colecionáveis Steam"
                 },
                 {
                     "id": 23,
@@ -106,17 +106,17 @@
                 },
                 {
                     "id": 62,
-                    "description": "Family Sharing"
+                    "description": "Partilha de Biblioteca"
                 }
             ],
             "genres": [
                 {
                     "id": "1",
-                    "description": "Action"
+                    "description": "Ação"
                 },
                 {
                     "id": "25",
-                    "description": "Adventure"
+                    "description": "Aventura"
                 },
                 {
                     "id": "23",
@@ -255,7 +255,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "26 Oct, 2012"
+                "date": "26 out. 2012"
             },
             "support_info": {
                 "url": "http://steamcommunity.com/app/218640/discussions/",

@@ -5,7 +5,7 @@
             "type": "game",
             "name": "POSTAL",
             "steam_appid": 232770,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": true,
             "controller_support": "full",
             "dlc": [
@@ -14,7 +14,7 @@
             "detailed_description": "Take control of The POSTAL Dude in his infamous first outing as he battles to survive in a world gone mad! POSTAL is a classic isometric shooter filled to the brim with fast-paced explosive action. Crazed gunmen out for your blood await you around every corner, and your only choice is to get them before they get you. Fight back with a destructive arsenal as make your way through a violence-stricken town.<br> <br>It's time to go POSTAL!<br> <br><ul class=\"bb_ul\"><li>New control options - use your mouse or dual analog sticks. None of that tank control insanity!<br></li><li>Get your friends together for LAN Multiplayer - co-op or deathmatch for up to 16 players.<br></li><li>Blast your way through 22 levels: Includes the original 16 level campaign, 4 from the Special Delivery expansion and 2 previously Japanese-exclusive levels.<br></li><li>Test yourself with one of 22 bonus Challenge stages, across 4 categories. Or play through all of them in The Gauntlet.<br></li><li>9 devastating weapons: Defend yourself with varied tools of mayhem. Take aim with the Scatter Gun! Clear out rooms with Grenades, Mines, and the almighty Napalm Launcher! Whip out Heatseeker Rockets for those big groups!<br></li><li>Wide range of foes: Defend yourself from Molotov-tossing Grenadiers, gun-toting Infantryman, rocket-firing Heavy-Weapons Experts (don't forget to duck!), and angry Ostriches!<br></li><li>Non-stop, guns-blazing, adrenaline-fueled action!<br></li><li>Fully-voiced Japanese audio available!</li></ul>",
             "about_the_game": "Take control of The POSTAL Dude in his infamous first outing as he battles to survive in a world gone mad! POSTAL is a classic isometric shooter filled to the brim with fast-paced explosive action. Crazed gunmen out for your blood await you around every corner, and your only choice is to get them before they get you. Fight back with a destructive arsenal as make your way through a violence-stricken town.<br> <br>It's time to go POSTAL!<br> <br><ul class=\"bb_ul\"><li>New control options - use your mouse or dual analog sticks. None of that tank control insanity!<br></li><li>Get your friends together for LAN Multiplayer - co-op or deathmatch for up to 16 players.<br></li><li>Blast your way through 22 levels: Includes the original 16 level campaign, 4 from the Special Delivery expansion and 2 previously Japanese-exclusive levels.<br></li><li>Test yourself with one of 22 bonus Challenge stages, across 4 categories. Or play through all of them in The Gauntlet.<br></li><li>9 devastating weapons: Defend yourself with varied tools of mayhem. Take aim with the Scatter Gun! Clear out rooms with Grenades, Mines, and the almighty Napalm Launcher! Whip out Heatseeker Rockets for those big groups!<br></li><li>Wide range of foes: Defend yourself from Molotov-tossing Grenadiers, gun-toting Infantryman, rocket-firing Heavy-Weapons Experts (don't forget to duck!), and angry Ostriches!<br></li><li>Non-stop, guns-blazing, adrenaline-fueled action!<br></li><li>Fully-voiced Japanese audio available!</li></ul>",
             "short_description": "Take control of The POSTAL Dude in his infamous first outing as he battles to survive in a world gone mad! POSTAL is a classic isometric shooter filled to the brim with fast-paced explosive action.",
-            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "supported_languages": "Inglês<strong>*</strong><br><strong>*</strong>idiomas com suporte total de áudio",
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232770/header.jpg?t=1726332202",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232770/capsule_231x87.jpg?t=1726332202",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232770/capsule_184x69.jpg?t=1726332202",
@@ -44,9 +44,9 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy POSTAL",
+                    "title": "Comprar POSTAL",
                     "description": "",
-                    "selection_text": "Select a purchase option",
+                    "selection_text": "Seleciona uma opção de compra",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
@@ -55,7 +55,7 @@
                             "packageid": 420511,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "POSTAL - Free",
+                            "option_text": "POSTAL - Grátis",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": true,
@@ -76,29 +76,29 @@
             "categories": [
                 {
                     "id": 2,
-                    "description": "Single-player"
+                    "description": "Um jogador"
                 },
                 {
                     "id": 22,
-                    "description": "Steam Achievements"
+                    "description": "Proezas Steam"
                 },
                 {
                     "id": 28,
-                    "description": "Full controller support"
+                    "description": "Compatibilidade total com comando"
                 },
                 {
                     "id": 29,
-                    "description": "Steam Trading Cards"
+                    "description": "Cartas Colecionáveis Steam"
                 },
                 {
                     "id": 62,
-                    "description": "Family Sharing"
+                    "description": "Partilha de Biblioteca"
                 }
             ],
             "genres": [
                 {
                     "id": "1",
-                    "description": "Action"
+                    "description": "Ação"
                 },
                 {
                     "id": "23",
@@ -267,7 +267,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "14 Nov, 1997"
+                "date": "14 nov. 1997"
             },
             "support_info": {
                 "url": "www.runningwithscissors.com",
@@ -363,9 +363,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 6487,
+                    "total_positive": 6492,
                     "total_negative": 548,
-                    "total_reviews": 7035
+                    "total_reviews": 7040
                 },
                 "reviews": [
                     {
@@ -403,7 +403,7 @@
                 ],
                 "cursor": "AoIFQFY7TsAAAAB99Y2MBw==",
                 "day_range_used": 30,
-                "total_matching": 92
+                "total_matching": 93
             }
         }
     }

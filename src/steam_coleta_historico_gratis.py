@@ -109,7 +109,7 @@ print(f"🔍 Identificados {len(nomes_jogos)} jogos limpos para buscar na Steam.
 
 def buscar_appid_steam(nome):
   search_url = "https://store.steampowered.com/api/storesearch/"
-  params = {"term": nome, "l": "english", "cc": "US"}
+  params = {"term": nome, "l": "portuguese", "cc": "BR"}
 
   try:
     response = requests.get(search_url, params=params, headers=headers)
@@ -137,43 +137,66 @@ def buscar_appid_steam(nome):
     print(f"Erro durante a busca do AppID: {e}")
   return None, None
 
+def buscar_detalhes(app_id, max_tentativas=3):
+  """Busca os detalhes do jogo Steam lidando com Rate Limits"""
+  url_details = f"https://store.steampowered.com/api/appdetails?appids={app_id}&cc=br&l=portuguese"
+
+  for tentativa in range(1, max_tentativas + 1):
+    try:
+      resp = requests.get(url_details, headers=headers, timeout=15)
+
+      if resp.status_code == 429:
+        espera = tentativa * 10
+        print(f"[Detalhes] Limite de requisições atingido. Aguardando {espera}s...")
+        time.sleep(espera)
+        continue
+
+      if resp.status_code == 200:
+        dados = resp.json()
+        if isinstance(dados, dict):
+          return dados
+
+    except Exception:
+      if tentativa < max_tentativas:
+        time.sleep(tentativa*3)
+  
+  return None
+
 for indice, nome in enumerate(nomes_jogos, start=1):
   print(f"\n[{indice}/{len(nomes_jogos)}] Pesquisando na Steam: {nome}")
 
   app_id, nome_encontrado = buscar_appid_steam(nome)
   if app_id:
-    details_url = f"https://store.steampowered.com/api/appdetails?appids={app_id}&l=english"
+    chave_app = str(app_id)
+    detalhes_json = buscar_detalhes(app_id)
+    dados_reviews = buscar_reviews(app_id)
 
-    try:
-      resp_detalhes = requests.get(details_url, headers=headers)
-      if resp_detalhes.status_code == 200:
-        detalhes_json = resp_detalhes.json()
+    if (isinstance(detalhes_json, dict) and chave_app in detalhes_json and isinstance(detalhes_json[chave_app], dict)):
+      app_data = detalhes_json[chave_app]
 
-        dados_reviews = buscar_reviews(app_id)
-        chave_app = str(app_id)
-        
-        if(dados_reviews and chave_app in detalhes_json and detalhes_json[chave_app].get("success") and "data" in detalhes_json[chave_app]):
+      if(app_data.get("success") and "data" in app_data and isinstance(app_data["data"], dict)):
+        if dados_reviews:
           resumo = dados_reviews.get("query_summary", {})
-          detalhes_json[chave_app]["data"]["reviews"] = {"query_summary": resumo, "total_matching": dados_reviews.get("total_matching"), "day_range_used": dados_reviews.get("day_range_used")}
+          app_data["data"]["reviews"] = {"query_summary": resumo, "total_matching": dados_reviews.get("total_matching"), "day_range_used": dados_reviews.get("day_range_used")}
           print(f"[Reviews] Resumo incorporado: {resumo.get('total_reviews', 'N/D')} avaliações.")
         else:
-          print(f"[Reviews] Não foi possível obter ou incorporar o resumo do jogo {app_id}.")
+          print(f"[Reviews] Não foi possível obter as avaliações para o jogo {app_id}.")
 
         caminho_saida = f"dados/raw/steam_gratis_{app_id}.json"
         with open(caminho_saida, "w", encoding="utf-8") as f:
           json.dump(detalhes_json, f, ensure_ascii=False, indent=4)
-        print(f"   💾 Salvo com sucesso: steam_gratis_{app_id}.json ("
-            f"{nome_encontrado})")
+
+        print(f"💾 Salvo com sucesso: steam_gratis_{app_id}.json ({nome_encontrado})")
       else:
-        print(f"Falha ao obter detalhes do AppID {app_id}.")
-
-    except Exception as e:
-      print(f"Erro ao baixar detalhes do AppId {app_id}: {e}")
-    
+        print(f"⚠️ Jogo {app_id} sem página pública ou indisponível na loja BR.")
+    else:
+      print(f"❌ Falha ao obter detalhes para o AppID {app_id}.")
   else:
-    print(f"Jogo não encontrado na Steam.")
+    print(f"❌ Jogo não encontrado na Steam.")
 
-  time.sleep(0.5)
+    
+
+  time.sleep(1)
       
       
     

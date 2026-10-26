@@ -5,7 +5,7 @@ import requests
 
 # --- SUAS CREDENCIAIS REAIS DA STEAM ---
 API_KEY = "010187A20FDAB0733BE21A91A46BEB63"
-STEAM_ID = "76561199186300677"
+STEAM_ID = "76561198323249883"
 
 # 1. Garante que a pasta dados/raw/ existe no projeto
 os.makedirs("dados/raw", exist_ok=True)
@@ -57,6 +57,30 @@ def buscar_reviews(app_id, max_tentativas=3):
         time.sleep(tentativa*3)
   return None
 
+def buscar_detalhes(app_id, max_tentativas=3):
+  """Busca os detalhes do jogo na loja Steam lidando com Rate Limits"""
+  url_details = f"https://store.steampowered.com/api/appdetails?appids={app_id}&cc=br&l=portuguese"
+
+  for tentativa in range(1, max_tentativas + 1):
+    try:
+      resp = requests.get(url_details, timeout=15)
+
+      if resp.status_code == 429:
+        espera = tentativa *10
+        print(f"[Detalhes] Limite de requisições atingido. Aguardando{espera}s...")
+        time.sleep(espera)
+        continue
+
+      if resp.status_code == 200:
+        dados = resp.json()
+        if isinstance(dados, dict):
+          return dados
+
+    except Exception as e:
+      if tentativa < max_tentativas:
+        time.sleep(tentativa*3)
+  return None
+
 print("🔄 Buscando os jogos da sua biblioteca da Steam...")
 url_owned = f"https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={API_KEY}&steamid={STEAM_ID}&include_appinfo=true&format=json"
 
@@ -76,38 +100,31 @@ try:
 
   # 2. Loop para percorrer cada ID obtido da biblioteca
   for indice, app_id in enumerate(app_ids, start=1):
-    url_details = f"https://store.steampowered.com/api/appdetails?appids={app_id}"
+    dados_details = buscar_detalhes(app_id)
+    dados_reviews = buscar_reviews(app_id)
 
-    try:
-      # Faz a requisição dos detalhes do jogo
-      resposta_details = requests.get(url_details)
-      dados_details = resposta_details.json()
+    if(isinstance(dados_details, dict) and app_id in dados_details and isinstance(dados_details[app_id], dict)):
+      app_data = dados_details[app_id]
+      if(app_data.get("success") and "data" in app_data and isinstance(app_data["data"], dict)):
+        if isinstance(app_data.get("data"), dict):
+          if dados_reviews:
+            app_data["data"]["reviews"] = dados_reviews
+          else:
+            print("[Reviews] Sem avaliações disponíveis para o jogo {app_id}.")
 
-      dados_reviews = buscar_reviews(app_id)
+          caminho_arquivo = f"dados/raw/steam_{app_id}.json"
 
-      if dados_reviews:
-        if(app_id in dados_details and dados_details[app_id].get("success") and "data" in dados_details[app_id]):
-          dados_details[app_id]["data"]["reviews"] = dados_reviews
+          with open(caminho_arquivo, "w", encoding="utf-8") as f:
+            json.dump(dados_details, f, ensure_ascii=False, indent=4)
 
-          print(f"[Reviews] Dados incorporados ao jogo {app_id}.")
-        else:
-          print(f"[Reviews] Não foi possível incorporar as reviews ao jogo {app_id}: detalhes inválidos.")
+          print(f"[{indice}/{len(app_ids)}] 💾 Salvo com sucesso: steam_{app_id}.json")
       else:
-        print(f"[Reviews] Reviews indisponíveis para o jogo {app_id}.")
+        print(f"[{indice}/{len(app_ids)}] ⚠️ Jogo ID {app_id} sem páginapública ou indisponível.")
+    else:
+      print(f"[{indice}/{len(app_ids)}] ❌ Falha ao obter dados para o jogoID {app_id}.")
 
-      # Define o caminho do arquivo JSON bruto
-      caminho_arquivo = f"dados/raw/steam_{app_id}.json"
-
-      # Salva o dicionário em formato JSON na pasta correta
-      with open(caminho_arquivo, "w", encoding="utf-8") as f:
-        json.dump(dados_details, f, ensure_ascii=False, indent=4)
-
-      print(
-          f"[{indice}/{len(app_ids)}] Salvo com sucesso: steam_{app_id}.json"
-      )
-
-    except Exception as e_jogo:
-      print(f" Erro ao coletar o jogo ID {app_id}: {e_jogo}")
+except Exception as e_bib:
+  print(f"❌ Erro crítico ao acessar a API da biblioteca da Steam: {e_bib}")
 
   print(
       "\n Processo de coleta da Steam concluído com sucesso! Todos os arquivos"

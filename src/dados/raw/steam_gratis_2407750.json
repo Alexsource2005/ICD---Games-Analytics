@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2049,
-                "final": 2049,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 20,49"
+                "final": 1024,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 20,49",
+                "final_formatted": "R$ 10,24"
             },
             "packages": [
                 866394
@@ -42,22 +42,22 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy OTXO Soundtrack",
+                    "title": "Comprar OTXO Soundtrack",
                     "description": "",
-                    "selection_text": "Select a purchase option",
+                    "selection_text": "Seleciona uma opção de compra",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
                             "packageid": 866394,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "OTXO Soundtrack - R$ 20,49",
+                            "option_text": "OTXO Soundtrack - <span class=\"discount_original_price\">R$ 20,49</span> R$ 10,24",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2049
+                            "price_in_cents_with_discount": 1024
                         }
                     ]
                 }
@@ -70,7 +70,7 @@
             "categories": [
                 {
                     "id": 50,
-                    "description": "Additional High-Quality Audio"
+                    "description": "Áudio adicional de alta qualidade"
                 }
             ],
             "screenshots": [
@@ -112,7 +112,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "5 Jun, 2023"
+                "date": "5 jun. 2023"
             },
             "support_info": {
                 "url": "http://www.superrareoriginals.com/",
@@ -141,6 +141,18 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 7,
+                    "review_score_desc": "Positive",
+                    "total_positive": 22,
+                    "total_negative": 0,
+                    "total_reviews": 22
+                },
+                "total_matching": 22,
+                "day_range_used": 0
             }
         }
     }

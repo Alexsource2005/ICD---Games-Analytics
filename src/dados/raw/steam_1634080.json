@@ -15,13 +15,13 @@
             "detailed_description": "<p class=\"bb_paragraph\" ><strong>Nocturnal</strong> is an action game where you play as Ardeshir, a soldier of the Enduring Flame, returning to his homeland, Nahran, after many years of absence.</p><p class=\"bb_paragraph\" >Following the appearance of a mysterious Mist, the island has recently fallen into chaos, and Ardeshir must wield his flaming sword and use powerful abilities to confront its mysteries and free Nahran.</p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Repel a dynamically generated Mist that reacts to the flames of your sword.</p></li><li><p class=\"bb_paragraph\" >Carry your flames across Nahran: your blade can also ignite the environment, activate mechanisms, and even destroy creatures born from the Mist.</p></li><li><p class=\"bb_paragraph\" >Defeat enemies and explore the environment to collect ash, which can be offered to Phoenix statues. You'll gain new skills and bonuses vital for your survival.</p></li><li><p class=\"bb_paragraph\" >Explore a compact island offering a streamlined experience centered around a singular concept. <i>(game length: around 3 hours)</i></p></li></ul>",
             "about_the_game": "<p class=\"bb_paragraph\" ><strong>Nocturnal</strong> is an action game where you play as Ardeshir, a soldier of the Enduring Flame, returning to his homeland, Nahran, after many years of absence.</p><p class=\"bb_paragraph\" >Following the appearance of a mysterious Mist, the island has recently fallen into chaos, and Ardeshir must wield his flaming sword and use powerful abilities to confront its mysteries and free Nahran.</p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Repel a dynamically generated Mist that reacts to the flames of your sword.</p></li><li><p class=\"bb_paragraph\" >Carry your flames across Nahran: your blade can also ignite the environment, activate mechanisms, and even destroy creatures born from the Mist.</p></li><li><p class=\"bb_paragraph\" >Defeat enemies and explore the environment to collect ash, which can be offered to Phoenix statues. You'll gain new skills and bonuses vital for your survival.</p></li><li><p class=\"bb_paragraph\" >Explore a compact island offering a streamlined experience centered around a singular concept. <i>(game length: around 3 hours)</i></p></li></ul>",
             "short_description": "Carve your way with fire and steel to find out what secrets lie beyond the Mist in this intense 2-hour-long action-platformer game. Get ready to wield the flames and burn everything!",
-            "supported_languages": "English, French, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Traditional Chinese, Japanese",
+            "supported_languages": "Inglês, Francês, Alemão, Espanhol (Espanha), Chinês simplificado, Português (Brasil), Chinês tradicional, Japonês",
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634080/d6906a04c502c2507ad67e2fb34ad901ab02a8f5/header.jpg?t=1782833654",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634080/b3a7303807116f47e723267e3fd4b8fa7e00a5b5/capsule_231x87.jpg?t=1782833654",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634080/b3a7303807116f47e723267e3fd4b8fa7e00a5b5/capsule_184x69.jpg?t=1782833654",
             "website": "https://sunnysidegames.ch",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7-3610QM or AMD Ryzen 5 3500U<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 650M or Radeon HD 4870 X2<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7 64-bit<br></li><li><strong>Processador:</strong> Intel Core i7-3610QM or AMD Ryzen 5 3500U<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> GeForce GT 650M or Radeon HD 4870 X2<br></li><li><strong>Espaço no disco:</strong> Requer 2 GB de espaço livre</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5249,
-                "final": 787,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 52,49",
-                "final_formatted": "R$ 7,87"
+                "final": 5249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 52,49"
             },
             "packages": [
                 580187
@@ -45,22 +45,22 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy Nocturnal",
+                    "title": "Comprar Nocturnal",
                     "description": "",
-                    "selection_text": "Select a purchase option",
+                    "selection_text": "Seleciona uma opção de compra",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
                             "packageid": 580187,
-                            "percent_savings_text": "-85% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Nocturnal - <span class=\"discount_original_price\">R$ 52,49</span> R$ 7,87",
+                            "option_text": "Nocturnal - R$ 52,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 787
+                            "price_in_cents_with_discount": 5249
                         }
                     ]
                 }
@@ -77,15 +77,15 @@
             "categories": [
                 {
                     "id": 2,
-                    "description": "Single-player"
+                    "description": "Um jogador"
                 },
                 {
                     "id": 22,
-                    "description": "Steam Achievements"
+                    "description": "Proezas Steam"
                 },
                 {
                     "id": 28,
-                    "description": "Full controller support"
+                    "description": "Compatibilidade total com comando"
                 },
                 {
                     "id": 23,
@@ -93,17 +93,17 @@
                 },
                 {
                     "id": 62,
-                    "description": "Family Sharing"
+                    "description": "Partilha de Biblioteca"
                 }
             ],
             "genres": [
                 {
                     "id": "1",
-                    "description": "Action"
+                    "description": "Ação"
                 },
                 {
                     "id": "25",
-                    "description": "Adventure"
+                    "description": "Aventura"
                 }
             ],
             "screenshots": [
@@ -145,7 +145,7 @@
                 }
             ],
             "recommendations": {
-                "total": 530
+                "total": 532
             },
             "achievements": {
                 "total": 11,
@@ -234,7 +234,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "7 Jun, 2023"
+                "date": "7 jun. 2023"
             },
             "support_info": {
                 "url": "https://www.sunnysidegames.ch/",
@@ -273,9 +273,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1785,
+                    "total_positive": 1789,
                     "total_negative": 131,
-                    "total_reviews": 1916
+                    "total_reviews": 1920
                 },
                 "reviews": [
                     {
@@ -293,9 +293,9 @@
                         "timestamp_created": 1791736639,
                         "timestamp_updated": 1791825104,
                         "voted_up": true,
-                        "votes_up": 14,
+                        "votes_up": 15,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6836062073707581,
+                        "weighted_vote_score": 0.6840963363647461,
                         "comment_count": 3,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -304,9 +304,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWU/AAAAAB+7fSJBw==",
+                "cursor": "AoIFQFWUW2AAAAB+7fSJBw==",
                 "day_range_used": 30,
-                "total_matching": 104
+                "total_matching": 109
             }
         }
     }

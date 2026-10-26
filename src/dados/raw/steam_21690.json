@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Resident Evil 5",
             "steam_appid": 21690,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -14,7 +14,7 @@
             "detailed_description": "<h2 class=\"bb_tag\" ><u><strong>Story</strong></u></h2>The Umbrella Corporation and its crop of lethal viruses have been destroyed and contained. But a new, more dangerous threat has emerged. Years after surviving the events in Raccoon City, Chris Redfield has been fighting the scourge of bio-organic weapons all over the world. Now a member of the Bioterrorism Security Assessment Alliance (BSAA), Chris is sent to Africa to investigate a biological agent that is transforming the populace into aggressive and disturbing creatures. Joined by another local BSAA agent, Sheva Alomar, the two must work together to solve the truth behind the disturbing turn of events.<h2 class=\"bb_tag\" ><u><strong>Content Description</strong></u></h2>This game is a port of the Games for Windows - Live version that was released in 2009. If you buy the Untold Stories Bundle here on Steam, it will be the same as upgrading to Resident Evil 5 Gold Edition.<h2 class=\"bb_tag\" ><u><strong>NOTE</strong></u></h2><ul class=\"bb_ul\"><li>Does not support NVIDIA GeForce 3D Vision which came with the original Games for Windows - Live version.<br><br></li><li>If you have previously purchased the Games For Windows Live version of Resident Evil 5, you can redeem a free copy of the Steam version. Please check the below information for details.<br><br>Steamworks Migration FAQ<br></li></ul>",
             "about_the_game": "<h2 class=\"bb_tag\" ><u><strong>Story</strong></u></h2>The Umbrella Corporation and its crop of lethal viruses have been destroyed and contained. But a new, more dangerous threat has emerged. Years after surviving the events in Raccoon City, Chris Redfield has been fighting the scourge of bio-organic weapons all over the world. Now a member of the Bioterrorism Security Assessment Alliance (BSAA), Chris is sent to Africa to investigate a biological agent that is transforming the populace into aggressive and disturbing creatures. Joined by another local BSAA agent, Sheva Alomar, the two must work together to solve the truth behind the disturbing turn of events.<h2 class=\"bb_tag\" ><u><strong>Content Description</strong></u></h2>This game is a port of the Games for Windows - Live version that was released in 2009. If you buy the Untold Stories Bundle here on Steam, it will be the same as upgrading to Resident Evil 5 Gold Edition.<h2 class=\"bb_tag\" ><u><strong>NOTE</strong></u></h2><ul class=\"bb_ul\"><li>Does not support NVIDIA GeForce 3D Vision which came with the original Games for Windows - Live version.<br><br></li><li>If you have previously purchased the Games For Windows Live version of Resident Evil 5, you can redeem a free copy of the Steam version. Please check the below information for details.<br><br>Steamworks Migration FAQ<br></li></ul>",
             "short_description": "This game is a port of the Games for Windows - Live version that was released in 2009. If you buy the Untold Stories Bundle here on Steam, it will be the same as upgrading to Resident Evil 5 Gold Edition.",
-            "supported_languages": "English<strong>*</strong>, French, German, Italian, Japanese, Spanish - Spain, Czech, Polish, Russian<br><strong>*</strong>languages with full audio support",
+            "supported_languages": "Inglês<strong>*</strong>, Francês, Alemão, Italiano, Japonês, Espanhol (Espanha), Checo, Polaco, Russo<br><strong>*</strong>idiomas com suporte total de áudio",
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21690/header.jpg?t=1768960574",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21690/capsule_231x87.jpg?t=1768960574",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21690/capsule_184x69.jpg?t=1768960574",
@@ -34,12 +34,12 @@
                 "Capcom"
             ],
             "price_overview": {
-                "currency": "EUR",
-                "initial": 1999,
-                "final": 499,
+                "currency": "BRL",
+                "initial": 8900,
+                "final": 2225,
                 "discount_percent": 75,
-                "initial_formatted": "19,99€",
-                "final_formatted": "4,99€"
+                "initial_formatted": "R$ 89,00",
+                "final_formatted": "R$ 22,25"
             },
             "packages": [
                 62118
@@ -47,22 +47,22 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy Resident Evil 5",
+                    "title": "Comprar Resident Evil 5",
                     "description": "",
-                    "selection_text": "Select a purchase option",
+                    "selection_text": "Seleciona uma opção de compra",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
                             "packageid": 62118,
-                            "percent_savings_text": "-75% ",
+                            "percent_savings_text": " -75%",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil 5 Gold Edition - <span class=\"discount_original_price\">19,99€</span> 4,99€",
+                            "option_text": "Resident Evil 5 Gold Edition - <span class=\"discount_original_price\">R$ 89,00</span> R$ 22,25",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 2225
                         }
                     ]
                 }
@@ -79,11 +79,11 @@
             "categories": [
                 {
                     "id": 2,
-                    "description": "Single-player"
+                    "description": "Um jogador"
                 },
                 {
                     "id": 1,
-                    "description": "Multi-player"
+                    "description": "Multijogador"
                 },
                 {
                     "id": 9,
@@ -91,15 +91,15 @@
                 },
                 {
                     "id": 22,
-                    "description": "Steam Achievements"
+                    "description": "Proezas Steam"
                 },
                 {
                     "id": 28,
-                    "description": "Full controller support"
+                    "description": "Compatibilidade total com comando"
                 },
                 {
                     "id": 29,
-                    "description": "Steam Trading Cards"
+                    "description": "Cartas Colecionáveis Steam"
                 },
                 {
                     "id": 23,
@@ -107,21 +107,21 @@
                 },
                 {
                     "id": 25,
-                    "description": "Steam Leaderboards"
+                    "description": "Tabelas de liderança do Steam"
                 },
                 {
                     "id": 62,
-                    "description": "Family Sharing"
+                    "description": "Partilha de Biblioteca"
                 }
             ],
             "genres": [
                 {
                     "id": "1",
-                    "description": "Action"
+                    "description": "Ação"
                 },
                 {
                     "id": "25",
-                    "description": "Adventure"
+                    "description": "Aventura"
                 }
             ],
             "screenshots": [
@@ -428,17 +428,17 @@
             ],
             "movies": [
                 {
-                    "id": 2034455,
+                    "id": 2034454,
                     "name": "Resident Evil 5 Trailer",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034455/movie.293x165.jpg?t=1447363652",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/21690/25131/3975fab7affaa7033e50a9f8f70339486fa01a97/1750484697/dash_av1.mpd?t=1447363652",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/21690/25131/3975fab7affaa7033e50a9f8f70339486fa01a97/1750484697/dash_h264.mpd?t=1447363652",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/21690/25131/3975fab7affaa7033e50a9f8f70339486fa01a97/1750484697/hls_264_master.m3u8?t=1447363652",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034454/movie.293x165.jpg?t=1447363652",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/21690/25130/65dc7068513282ece4b6f1bd267bb36b65df7742/1750484689/dash_av1.mpd?t=1447363652",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/21690/25130/65dc7068513282ece4b6f1bd267bb36b65df7742/1750484689/dash_h264.mpd?t=1447363652",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/21690/25130/65dc7068513282ece4b6f1bd267bb36b65df7742/1750484689/hls_264_master.m3u8?t=1447363652",
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 49449
+                "total": 49477
             },
             "achievements": {
                 "total": 70,
@@ -527,7 +527,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "15 Sep, 2009"
+                "date": "15 set. 2009"
             },
             "support_info": {
                 "url": "http://www.capcom.co.jp/support/contact/",
@@ -596,9 +596,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 23390,
-                    "total_negative": 4240,
-                    "total_reviews": 27630
+                    "total_positive": 23405,
+                    "total_negative": 4242,
+                    "total_reviews": 27647
                 },
                 "reviews": [
                     {
@@ -616,9 +616,9 @@
                         "timestamp_created": 1791615867,
                         "timestamp_updated": 1791615867,
                         "voted_up": true,
-                        "votes_up": 24,
+                        "votes_up": 26,
                         "votes_funny": 12,
-                        "weighted_vote_score": 0.7162955403327942,
+                        "weighted_vote_score": 0.7293509244918823,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -627,9 +627,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFVrJCAAAABwzLSJBw==",
+                "cursor": "AoIFQFVabkAAAABwzLSJBw==",
                 "day_range_used": 30,
-                "total_matching": 455
+                "total_matching": 461
             }
         }
     }

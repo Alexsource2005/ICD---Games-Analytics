@@ -14,13 +14,13 @@
                 "appid": "493540",
                 "name": "Figment"
             },
-            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Danish, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Traditional Chinese, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
+            "supported_languages": "Inglês<strong>*</strong>, Francês, Italiano, Alemão, Espanhol (Espanha), Árabe, Dinamarquês, Japonês, Coreano, Polaco, Português (Portugal), Russo, Chinês simplificado, Chinês tradicional, Turco, Ucraniano<br><strong>*</strong>idiomas com suporte total de áudio",
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/735330/header.jpg?t=1709027632",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/735330/capsule_231x87.jpg?t=1709027632",
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/735330/capsule_184x69.jpg?t=1709027632",
             "website": "https://www.figmentgame.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 201 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 1070 MB available space</li></ul>"
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Espaço no disco:</strong> Requer 201 MB de espaço livre<br></li><li><strong>Espaço no disco (para áudio de alta qualidade):</strong> Requer mais 1070 MB de espaço livre</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1659,
-                "final": 331,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 16,59",
-                "final_formatted": "R$ 3,31"
+                "final": 1659,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 16,59"
             },
             "packages": [
                 214758
@@ -46,22 +46,22 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy Figment - Soundtrack",
+                    "title": "Comprar Figment - Soundtrack",
                     "description": "",
-                    "selection_text": "Select a purchase option",
+                    "selection_text": "Seleciona uma opção de compra",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
                             "packageid": 214758,
-                            "percent_savings_text": "-80% ",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Figment - Soundtrack - <span class=\"discount_original_price\">R$ 16,59</span> R$ 3,31",
+                            "option_text": "Figment - Soundtrack - R$ 16,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 331
+                            "price_in_cents_with_discount": 1659
                         }
                     ]
                 }
@@ -74,17 +74,17 @@
             "categories": [
                 {
                     "id": 50,
-                    "description": "Additional High-Quality Audio"
+                    "description": "Áudio adicional de alta qualidade"
                 }
             ],
             "genres": [
                 {
                     "id": "1",
-                    "description": "Action"
+                    "description": "Ação"
                 },
                 {
                     "id": "25",
-                    "description": "Adventure"
+                    "description": "Aventura"
                 },
                 {
                     "id": "23",
@@ -121,7 +121,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "27 Oct, 2017"
+                "date": "27 out. 2017"
             },
             "support_info": {
                 "url": "",
