@@ -37,5 +37,20 @@
         "menuNotificationAv2": "//images-4.gog-statics.com/22b996b5bea84909590f1281e1c42751866683e35364e04570b438d953c66bc5_menu_notification_av2.png",
         "icon": "//images-1.gog-statics.com/22b996b5bea84909590f1281e1c42751866683e35364e04570b438d953c66bc5.png"
     },
-    "dlcs": []
+    "dlcs": [],
+    "price": {
+        "final": "R$ 3,59",
+        "base": "R$ 11,99",
+        "discount": "-70%",
+        "finalMoney": {
+            "amount": "3.59",
+            "currency": "BRL",
+            "discount": "8.40"
+        },
+        "baseMoney": {
+            "amount": "11.99",
+            "currency": "BRL"
+        }
+    },
+    "_price_currency_requested": "BRL"
 }

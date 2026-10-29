@@ -1,0 +1,79 @@
+{
+    "id": 1308320804,
+    "title": "Hollow Knight",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/hollow_knight",
+    "slug": "hollow_knight",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/hollow_knight",
+        "product_card": "https://www.gog.com/game/hollow_knight",
+        "support": "https://www.gog.com/support/hollow_knight",
+        "forum": "https://www.gog.com/forum/hollow_knight"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2017-02-24T18:55:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/613e614f0db93a535591d0658029013a6e78e681cc89d589759da91e4388382f.jpg",
+        "logo": "//images-2.gog-statics.com/e0a2e359588dcfd93af4fdf058f48ca8f77a79ad5c015d9f30bbda6190f1b777_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/e0a2e359588dcfd93af4fdf058f48ca8f77a79ad5c015d9f30bbda6190f1b777_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/72cb1fcc17bab2312690ff0dcac072491b0400633f64c0c5cf9199ed3c298b79_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/72cb1fcc17bab2312690ff0dcac072491b0400633f64c0c5cf9199ed3c298b79_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/72cb1fcc17bab2312690ff0dcac072491b0400633f64c0c5cf9199ed3c298b79_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/72cb1fcc17bab2312690ff0dcac072491b0400633f64c0c5cf9199ed3c298b79_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/72cb1fcc17bab2312690ff0dcac072491b0400633f64c0c5cf9199ed3c298b79.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1450472929,
+                "link": "https://api.gog.com/products/1450472929",
+                "expanded_link": "https://api.gog.com/products/1450472929"
+            },
+            {
+                "id": 1984697392,
+                "link": "https://api.gog.com/products/1984697392",
+                "expanded_link": "https://api.gog.com/products/1984697392"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1450472929,1984697392",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1450472929,1984697392"
+    },
+    "price": {
+        "final": "R$ 46,99",
+        "base": "R$ 46,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "46.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "46.99",
+            "currency": "BRL"
+        }
+    },
+    "_price_currency_requested": "BRL"
+}

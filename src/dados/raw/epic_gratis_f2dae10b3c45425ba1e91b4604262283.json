@@ -69,6 +69,9 @@
             "id": "1218"
         },
         {
+            "id": "18051"
+        },
+        {
             "id": "1367"
         },
         {
@@ -126,6 +129,9 @@
     ],
     "categories": [
         {
+            "path": "freegames"
+        },
+        {
             "path": "games/edition/base"
         },
         {
@@ -137,25 +143,33 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 6699,
+            "discountPrice": 4689,
             "originalPrice": 6699,
             "voucherDiscount": 0,
-            "discount": 0,
+            "discount": 2010,
             "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
                 "originalPrice": "R$ 66,99",
-                "discountPrice": "R$ 66,99",
-                "intermediatePrice": "R$ 66,99"
+                "discountPrice": "R$ 46,89",
+                "intermediatePrice": "R$ 46,89"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": []
+                "appliedRules": [
+                    {
+                        "id": "76374edba129489c826f3baed865e936",
+                        "endDate": "2026-11-02T16:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
             }
         ]
     },
-    "data_aquisicao_gratis": "21/12 a 22/12/25"
+    "data_aquisicao_gratis": "29/10/26"
 }

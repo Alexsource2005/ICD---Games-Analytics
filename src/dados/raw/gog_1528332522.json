@@ -57,17 +57,18 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1488549832"
     },
     "price": {
-        "final": "$3.59",
-        "base": "$19.99",
+        "final": "R$ 6,65",
+        "base": "R$ 36,99",
         "discount": "-82%",
         "finalMoney": {
-            "amount": "3.59",
-            "currency": "USD",
-            "discount": "16.40"
+            "amount": "6.65",
+            "currency": "BRL",
+            "discount": "30.34"
         },
         "baseMoney": {
-            "amount": "19.99",
-            "currency": "USD"
+            "amount": "36.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "_price_currency_requested": "BRL"
 }

@@ -159,7 +159,3 @@ for indice, item in enumerate(nomes_jogos_epic, start=1):
         print(f"Erro critico ao buscar '{nome}': {e}")
 
 
-            
-                
-        
-

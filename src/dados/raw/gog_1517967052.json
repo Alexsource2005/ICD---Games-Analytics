@@ -46,17 +46,18 @@
     },
     "dlcs": [],
     "price": {
-        "final": "$14.99",
-        "base": "$14.99",
-        "discount": null,
+        "final": "R$ 5,59",
+        "base": "R$ 27,99",
+        "discount": "-80%",
         "finalMoney": {
-            "amount": "14.99",
-            "currency": "USD",
-            "discount": "0.00"
+            "amount": "5.59",
+            "currency": "BRL",
+            "discount": "22.40"
         },
         "baseMoney": {
-            "amount": "14.99",
-            "currency": "USD"
+            "amount": "27.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "_price_currency_requested": "BRL"
 }

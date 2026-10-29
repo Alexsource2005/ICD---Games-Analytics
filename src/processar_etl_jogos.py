@@ -49,52 +49,101 @@ def extrair_preco_original_steam(dados_json):
     return "N/A"
 
 def extrair_preco_original_epic(dados_json):
-    """Extrai o preço cheio/original da Epic Games"""
+    """Extrai o preço original da Epic somente quando a moeda é BRL."""
     price_info = dados_json.get("price", {}).get("totalPrice", {})
     fmt_price = price_info.get("fmtPrice", {})
 
-    orig_fmt = fmt_price.get("originalPrice")
-    if orig_fmt:
-        return orig_fmt
-
+    # Jogos gratuitos podem não trazer todos os metadados de moeda.
     orig_cents = price_info.get("originalPrice")
-    if orig_cents is not None:
-        if orig_cents == 0:
-            return "Grátis"
+    if orig_cents == 0:
+        return "Grátis"
+
+    currency = (
+        price_info.get("currencyCode")
+        or price_info.get("currency")
+        or dados_json.get("currencyCode")
+    )
+    orig_fmt = fmt_price.get("originalPrice")
+
+    # Um valor formatado explicitamente em reais é a evidência mais direta.
+    if isinstance(orig_fmt, str) and orig_fmt.strip():
+        if "R$" in orig_fmt:
+            return orig_fmt.strip()
+        # Se o formato contradiz a moeda esperada, não tenta reinterpretá-lo.
+        return "Preço em BRL indisponível"
+
+    # Não interpreta um número sem moeda como se fosse necessariamente BRL.
+    if currency == "BRL" and orig_cents is not None:
         return f"R$ {orig_cents / 100:.2f}".replace(".", ",")
-    return "N/A"
+
+    return "Preço em BRL indisponível"
 
 def extrair_preco_original_gog(dados_json):
-    """Extrai o preço cheio/original da GOG"""
+    """Extrai o preço original da GOG sem converter valores de outras moedas."""
     price_info = dados_json.get("price", {})
+    if not isinstance(price_info, dict):
+        return "Preço em BRL indisponível"
 
-    base_price = (price_info.get("baseMoney", {}).get("amount") or price_info.get("baseAmount") or price_info.get("base"))
-    if base_price is not None:
-        try:
-            # Remover simbolos de cifrão e espaços extras
-            texto_limpo = re.sub(r"[^\d.,]", "", str(base_price)).strip()
+    # A estrutura pode variar entre resultados do catálogo e detalhes do produto.
+    money = price_info.get("baseMoney") or price_info.get("finalMoney") or {}
+    if not isinstance(money, dict):
+        money = {}
 
-            # Tratar virgulas decimais
-            if "," in texto_limpo and "." in texto_limpo:
+    currency = (
+        money.get("currency")
+        or money.get("currencyCode")
+        or price_info.get("currencyCode")
+        or price_info.get("currency")
+    )
+    base_price = (
+        money.get("amount")
+        if money.get("amount") is not None
+        else price_info.get("baseAmount", price_info.get("base"))
+    )
+
+    # Alguns formatos fornecem preço já formatado.
+    formatted = (
+        price_info.get("baseFormatted")
+        or price_info.get("formatted")
+        or money.get("formattedAmount")
+    )
+    if isinstance(formatted, str) and formatted.strip():
+        if "R$" in formatted:
+            return formatted.strip()
+        if currency and currency != "BRL":
+            return "Preço em BRL indisponível"
+
+    if base_price is None:
+        return "N/A"
+
+    try:
+        texto = str(base_price).strip()
+        if texto in {"0", "0.0", "0.00"}:
+            return "Grátis"
+
+        # Só aceita valores numéricos quando a moeda é explicitamente BRL
+        # ou quando a coleta registrou que a consulta foi feita em BRL e a
+        # resposta não contradiz isso com outra moeda.
+        if currency and currency != "BRL":
+            return "Preço em BRL indisponível"
+        if currency != "BRL" and dados_json.get("_price_currency_requested") != "BRL":
+            return "Preço em BRL indisponível"
+
+        texto_limpo = re.sub(r"[^\d.,]", "", texto)
+        if "," in texto_limpo and "." in texto_limpo:
+            # Assume separador decimal pela última ocorrência.
+            if texto_limpo.rfind(",") > texto_limpo.rfind("."):
+                texto_limpo = texto_limpo.replace(".", "").replace(",", ".")
+            else:
                 texto_limpo = texto_limpo.replace(",", "")
-            elif "," in texto_limpo:
-                texto_limpo = texto_limpo.replace(",", ".")
+        elif "," in texto_limpo:
+            texto_limpo = texto_limpo.replace(",", ".")
 
-            val_float = float(texto_limpo)
-            if val_float == 0:
-                return "Grátis"
+        valor = float(texto_limpo)
+        return f"R$ {valor:.2f}".replace(".", ",")
+    except (TypeError, ValueError):
+        return "N/A"
 
-            # Se o preço veio em dólares, aplica o fator de conversão
-            if "$" in str(base_price) or ("R$" not in str(base_price) and val_float < 1000):
-                valor_convertido = val_float * 1.934
-                return f"R$ {valor_convertido:.2f}".replace(".", ",")
-
-            return f"R$ {val_float:.2f}".replace(".", ",")
-        
-        except Exception:
-            return str(base_price)
-
-    return "N/A"
 
 def normalizar_nome(nome):
     if not nome:

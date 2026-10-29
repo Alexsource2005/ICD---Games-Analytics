@@ -97,6 +97,9 @@
             "id": "1298"
         },
         {
+            "id": "18051"
+        },
+        {
             "id": "21109"
         },
         {
@@ -164,23 +167,31 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 6699,
+            "discountPrice": 1339,
             "originalPrice": 6699,
             "voucherDiscount": 0,
-            "discount": 0,
+            "discount": 5360,
             "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
                 "originalPrice": "R$ 66,99",
-                "discountPrice": "R$ 66,99",
-                "intermediatePrice": "R$ 66,99"
+                "discountPrice": "R$ 13,39",
+                "intermediatePrice": "R$ 13,39"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": []
+                "appliedRules": [
+                    {
+                        "id": "b0f6bb345644419fa2afa665f7bc4c88",
+                        "endDate": "2026-11-02T16:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
             }
         ]
     },

@@ -52,7 +52,8 @@ def buscar_jogo_gog(nome_original):
         "productType": "in:game",
         "query": f"like:{nome_busca}",
         "locale": "en-US",
-        "currencyCode": "USD",
+        "countryCode": "BR",
+        "currencyCode": "BRL",
     }
 
     try:
@@ -94,10 +95,15 @@ for indice, nome in enumerate(sorted(nomes_jogos), start=1):
             if resp_detalhes.status_code == 200:
                 detalhes_json = resp_detalhes.json()
                 detalhes_json["price"] = produto_gog.get("price")
+                # Registra a moeda solicitada para o ETL, sem fazer conversão cambial.
+                detalhes_json["_price_currency_requested"] = "BRL"
             else:
                 detalhes_json = produto_gog
         except Exception:
             detalhes_json = produto_gog
+
+        if isinstance(detalhes_json, dict):
+            detalhes_json["_price_currency_requested"] = "BRL"
 
         caminho_saida = f"dados/raw/gog_{prod_id}.json"
         with open(caminho_saida, "w", encoding="utf-8") as f:

@@ -71,13 +71,25 @@
     "url": null,
     "tags": [
         {
+            "id": "18051"
+        },
+        {
+            "id": "1188"
+        },
+        {
+            "id": "1287"
+        },
+        {
+            "id": "21129"
+        },
+        {
+            "id": "9547"
+        },
+        {
             "id": "21138"
         },
         {
             "id": "21139"
-        },
-        {
-            "id": "1188"
         },
         {
             "id": "21140"
@@ -86,19 +98,10 @@
             "id": "21141"
         },
         {
-            "id": "1287"
-        },
-        {
             "id": "1336"
         },
         {
-            "id": "21129"
-        },
-        {
             "id": "1370"
-        },
-        {
-            "id": "9547"
         },
         {
             "id": "1084"
@@ -148,23 +151,31 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 6999,
+            "discountPrice": 699,
             "originalPrice": 6999,
             "voucherDiscount": 0,
-            "discount": 0,
+            "discount": 6300,
             "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
                 "originalPrice": "R$ 69,99",
-                "discountPrice": "R$ 69,99",
-                "intermediatePrice": "R$ 69,99"
+                "discountPrice": "R$ 6,99",
+                "intermediatePrice": "R$ 6,99"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": []
+                "appliedRules": [
+                    {
+                        "id": "abd7d4d181394d02bba9a68a2dd9778a",
+                        "endDate": "2026-11-02T16:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
             }
         ]
     },

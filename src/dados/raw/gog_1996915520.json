@@ -50,17 +50,18 @@
     },
     "dlcs": [],
     "price": {
-        "final": "$0.00",
-        "base": "$0.00",
+        "final": "R$ 0,00",
+        "base": "R$ 0,00",
         "discount": null,
         "finalMoney": {
             "amount": "0.00",
-            "currency": "USD",
+            "currency": "BRL",
             "discount": "0.00"
         },
         "baseMoney": {
             "amount": "0.00",
-            "currency": "USD"
+            "currency": "BRL"
         }
-    }
+    },
+    "_price_currency_requested": "BRL"
 }

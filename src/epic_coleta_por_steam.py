@@ -107,6 +107,12 @@ for indice, nome in enumerate(jogos_para_buscar, start=1):
           print(f"Slug direto não encontrado, gerando slug de catálogo básicopara '{titulo_base}'.")
 
         slug_limpo = slug.replace("/", "_")
+        # A loja é consultada com country=BR e locale=pt-BR.
+        # Guardamos a região solicitada para auditoria no ETL.
+        if isinstance(detalhes, dict):
+          detalhes["_store_country_requested"] = "BR"
+          detalhes["_store_locale_requested"] = "pt-BR"
+
         caminho_saida = f"dados/raw/epic_{slug_limpo}.json"
 
         with open(caminho_saida, "w", encoding="utf-8") as f:

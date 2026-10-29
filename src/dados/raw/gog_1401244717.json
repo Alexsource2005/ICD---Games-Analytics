@@ -1,0 +1,70 @@
+{
+    "id": 1401244717,
+    "title": "GT Manager",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/gt_manager",
+    "slug": "gt_manager",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/gt_manager",
+        "product_card": "https://www.gog.com/game/gt_manager",
+        "support": "https://www.gog.com/support/gt_manager",
+        "forum": "https://www.gog.com/forum/gt_manager"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2025-07-07T14:50:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/671bf33e95a48cd1fee687c3f7925736a89ee5a110c04d5f419a8f85566e845b.jpg",
+        "logo": "//images-2.gog-statics.com/de7e11decf8fb870b79076aeff2ce2d615e0aea084e229c81401a1a9103642b3_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/de7e11decf8fb870b79076aeff2ce2d615e0aea084e229c81401a1a9103642b3_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/2fcaf12e7727d503f0d9bfc3fffb1768fb3f18876f88bf0e9f6a930abf8148a9_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/2fcaf12e7727d503f0d9bfc3fffb1768fb3f18876f88bf0e9f6a930abf8148a9_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/2fcaf12e7727d503f0d9bfc3fffb1768fb3f18876f88bf0e9f6a930abf8148a9_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/2fcaf12e7727d503f0d9bfc3fffb1768fb3f18876f88bf0e9f6a930abf8148a9_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/2fcaf12e7727d503f0d9bfc3fffb1768fb3f18876f88bf0e9f6a930abf8148a9.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1693503722,
+                "link": "https://api.gog.com/products/1693503722",
+                "expanded_link": "https://api.gog.com/products/1693503722"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1693503722",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1693503722"
+    },
+    "price": {
+        "final": "R$ 73,99",
+        "base": "R$ 73,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "73.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "73.99",
+            "currency": "BRL"
+        }
+    },
+    "_price_currency_requested": "BRL"
+}
