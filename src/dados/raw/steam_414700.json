@@ -32,14 +32,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 599,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 5,99"
             },
             "packages": [
-                376558,
-                83311
+                83311,
+                376558
             ],
             "package_groups": [
                 {
@@ -52,6 +52,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 83311,
+                            "percent_savings_text": " -90%",
+                            "percent_savings": 0,
+                            "option_text": "Outlast 2 - <span class=\"discount_original_price\">R$ 59,99</span> R$ 5,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 599
+                        },
+                        {
                             "packageid": 376558,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -60,16 +70,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5799
-                        },
-                        {
-                            "packageid": 83311,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Outlast 2 - R$ 59,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -250,7 +250,7 @@
                 }
             ],
             "recommendations": {
-                "total": 54673
+                "total": 54767
             },
             "achievements": {
                 "total": 24,
@@ -386,9 +386,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 12089,
-                    "total_negative": 2098,
-                    "total_reviews": 14187
+                    "total_positive": 12113,
+                    "total_negative": 2103,
+                    "total_reviews": 14216
                 },
                 "reviews": [
                     {
@@ -406,9 +406,9 @@
                         "timestamp_created": 1790668174,
                         "timestamp_updated": 1790668174,
                         "voted_up": true,
-                        "votes_up": 20,
-                        "votes_funny": 2,
-                        "weighted_vote_score": 0.6720626950263977,
+                        "votes_up": 47,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.7787914872169495,
                         "comment_count": 1,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -417,10 +417,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWjwmAAAAB1wv+FBw==",
+                "cursor": "AoIFQFUbJcAAAAB1wv+FBw==",
                 "day_range_used": 30,
-                "total_matching": 150
-            }
+                "total_matching": 167
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Psychological Horror",
+                "Survival Horror",
+                "First-Person",
+                "Gore",
+                "Singleplayer",
+                "Dark",
+                "Atmospheric",
+                "Violent",
+                "Mature",
+                "Survival",
+                "Action",
+                "Nudity",
+                "Sexual Content",
+                "Adventure",
+                "Story Rich",
+                "Multiplayer",
+                "Parkour",
+                "Indie",
+                "FPS"
+            ]
         }
     }
 }

@@ -54,6 +54,7 @@ def buscar_jogo_gog(nome_original):
         "locale": "en-US",
         "countryCode": "BR",
         "currencyCode": "BRL",
+        "expand": "genres, tags",
     }
 
     try:
@@ -95,15 +96,13 @@ for indice, nome in enumerate(sorted(nomes_jogos), start=1):
             if resp_detalhes.status_code == 200:
                 detalhes_json = resp_detalhes.json()
                 detalhes_json["price"] = produto_gog.get("price")
-                # Registra a moeda solicitada para o ETL, sem fazer conversão cambial.
-                detalhes_json["_price_currency_requested"] = "BRL"
             else:
                 detalhes_json = produto_gog
         except Exception:
             detalhes_json = produto_gog
 
-        if isinstance(detalhes_json, dict):
-            detalhes_json["_price_currency_requested"] = "BRL"
+        detalhes_json["genres"] = detalhes_json.get("genres") or produto_gog.get("genres", [])
+        detalhes_json["tags"] = detalhes_json.get("tags") or produto_gog.get("tags", [])
 
         caminho_saida = f"dados/raw/gog_{prod_id}.json"
         with open(caminho_saida, "w", encoding="utf-8") as f:

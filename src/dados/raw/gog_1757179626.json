@@ -46,18 +46,73 @@
     },
     "dlcs": [],
     "price": {
-        "final": "R$ 3,69",
+        "final": "R$ 36,99",
         "base": "R$ 36,99",
-        "discount": "-90%",
+        "discount": null,
         "finalMoney": {
-            "amount": "3.69",
+            "amount": "36.99",
             "currency": "BRL",
-            "discount": "33.30"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "36.99",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "TPP",
+            "slug": "tpp"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Mature",
+            "slug": "mature"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Crime",
+            "slug": "crime"
+        }
+    ]
 }

@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2300,
-                "final": 2300,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 23,00"
+                "final": 920,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 23,00",
+                "final_formatted": "R$ 9,20"
             },
             "packages": [
                 306444
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 306444,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -60%",
                             "percent_savings": 0,
-                            "option_text": "Unheard - R$ 23,00",
+                            "option_text": "Unheard - <span class=\"discount_original_price\">R$ 23,00</span> R$ 9,20",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2300
+                            "price_in_cents_with_discount": 920
                         }
                     ]
                 }
@@ -165,7 +165,7 @@
                 }
             ],
             "recommendations": {
-                "total": 31127
+                "total": 31133
             },
             "achievements": {
                 "total": 12,
@@ -319,9 +319,9 @@
                         "timestamp_created": 1791636832,
                         "timestamp_updated": 1791636832,
                         "voted_up": false,
-                        "votes_up": 2,
+                        "votes_up": 3,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5454545617103577,
+                        "weighted_vote_score": 0.5669291019439697,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -330,10 +330,28 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZF0UAAAAByqb6JBw==",
+                "cursor": "AoIFQFYqVMAAAAByqb6JBw==",
                 "day_range_used": 30,
-                "total_matching": 9
-            }
+                "total_matching": 6
+            },
+            "steamspy_tags": [
+                "Detective",
+                "Puzzle",
+                "Mystery",
+                "Indie",
+                "RPG",
+                "Simulation",
+                "Story Rich",
+                "Horror",
+                "Singleplayer",
+                "Atmospheric",
+                "Investigation",
+                "Point & Click",
+                "2D",
+                "Top-Down",
+                "Crime",
+                "Short"
+            ]
         }
     }
 }

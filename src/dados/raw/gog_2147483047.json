@@ -70,5 +70,76 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        },
+        {
+            "name": "Procedural Generation",
+            "slug": "procedural-generation"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        }
+    ]
 }

@@ -70,5 +70,84 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Choose Your Own Adventure",
+            "slug": "choose-your-own-adventure"
+        },
+        {
+            "name": "Tactical RPG",
+            "slug": "tactical-rpg"
+        },
+        {
+            "name": "Bullet Hell",
+            "slug": "bullet-hell"
+        },
+        {
+            "name": "Deckbuilding",
+            "slug": "deckbuilding"
+        },
+        {
+            "name": "Tower Defense",
+            "slug": "tower-defense"
+        }
+    ]
 }

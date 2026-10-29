@@ -70,5 +70,84 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Cartoony",
+            "slug": "cartoony"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Fighting",
+            "slug": "fighting"
+        },
+        {
+            "name": "Shoot'EmUp",
+            "slug": "shoot-em-up"
+        },
+        {
+            "name": "Twin Stick Shooter",
+            "slug": "twin-stick-shooter"
+        }
+    ]
 }

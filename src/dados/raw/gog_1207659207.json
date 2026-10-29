@@ -55,5 +55,48 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        }
+    ]
 }

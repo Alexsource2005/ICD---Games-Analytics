@@ -58,5 +58,44 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Pinball",
+            "slug": "pinball"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        },
+        {
+            "name": "Pinball",
+            "slug": "pinball"
+        }
+    ]
 }

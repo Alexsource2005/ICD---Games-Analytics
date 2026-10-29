@@ -62,5 +62,76 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Emotional",
+            "slug": "emotional"
+        },
+        {
+            "name": "Investigation",
+            "slug": "investigation"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        },
+        {
+            "name": "Dystopian",
+            "slug": "dystopian"
+        },
+        {
+            "name": "Noir",
+            "slug": "noir"
+        },
+        {
+            "name": "Parody",
+            "slug": "parody"
+        }
+    ]
 }

@@ -84,17 +84,93 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1128594953,1405492047,1452238359,1589545552,1946270261,1957260232"
     },
     "price": {
-        "final": "$3.75",
-        "base": "$24.99",
+        "final": "R$ 6,89",
+        "base": "R$ 45,99",
         "discount": "-85%",
         "finalMoney": {
-            "amount": "3.75",
-            "currency": "USD",
-            "discount": "21.24"
+            "amount": "6.89",
+            "currency": "BRL",
+            "discount": "39.10"
         },
         "baseMoney": {
-            "amount": "24.99",
-            "currency": "USD"
+            "amount": "45.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Turn-based",
+            "slug": "turnbased"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        },
+        {
+            "name": "Lovecraftian",
+            "slug": "lovecraftian"
+        },
+        {
+            "name": "Perma Death",
+            "slug": "perma-death"
+        },
+        {
+            "name": "Petting Dogs",
+            "slug": "petting-dogs"
+        }
+    ]
 }

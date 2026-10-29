@@ -58,5 +58,76 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Medieval",
+            "slug": "medieval"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        }
+    ]
 }

@@ -56,5 +56,36 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        }
+    ]
 }

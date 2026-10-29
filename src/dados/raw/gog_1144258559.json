@@ -62,5 +62,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Physics",
+            "slug": "physics"
+        },
+        {
+            "name": "Psychological",
+            "slug": "psychological"
+        }
+    ]
 }

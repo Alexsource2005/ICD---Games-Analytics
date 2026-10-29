@@ -19,18 +19,18 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 4595,
+                    "total_positive": 4602,
                     "total_negative": 50,
-                    "total_reviews": 4645
+                    "total_reviews": 4652
                 },
                 "reviews": [
                     {
                         "recommendationid": "237767418",
                         "author": {
                             "steamid": "76561198212556509",
-                            "num_reviews": 17,
+                            "num_reviews": 18,
                             "playtime_forever": 365,
-                            "playtime_last_two_weeks": 286,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 365,
                             "last_played": 1792063109
                         },
@@ -39,9 +39,9 @@
                         "timestamp_created": 1792064377,
                         "timestamp_updated": 1792064377,
                         "voted_up": true,
-                        "votes_up": 10,
+                        "votes_up": 11,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6550278067588806,
+                        "weighted_vote_score": 0.6665315628051758,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -50,9 +50,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFW5kGAAAAB6r4GLBw==",
+                "cursor": "AoIFQFWq1sAAAAB6r4GLBw==",
                 "day_range_used": 30,
-                "total_matching": 152
+                "total_matching": 138
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/header.jpg?t=1791210023",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/capsule_231x87.jpg?t=1791210023",
@@ -287,7 +287,7 @@
                 }
             ],
             "recommendations": {
-                "total": 10212
+                "total": 10230
             },
             "achievements": {
                 "total": 48,
@@ -411,7 +411,29 @@
                     "use_age_gate": "0",
                     "descriptors": ""
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Cozy",
+                "Wholesome",
+                "Adventure",
+                "Puzzle",
+                "Exploration",
+                "Relaxing",
+                "Cute",
+                "Casual",
+                "Photo Editing",
+                "Hand-drawn",
+                "Hidden Object",
+                "Funny",
+                "Family Friendly",
+                "Atmospheric",
+                "Singleplayer",
+                "Cartoon",
+                "Music",
+                "Soundtrack",
+                "Stylized",
+                "Nature"
+            ]
         }
     }
 }

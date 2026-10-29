@@ -19,40 +19,47 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 866,
-                    "total_negative": 156,
+                    "total_positive": 865,
+                    "total_negative": 157,
                     "total_reviews": 1022
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238166652",
+                        "recommendationid": "237808687",
                         "author": {
-                            "steamid": "76561199219141578",
-                            "num_reviews": 6,
-                            "playtime_forever": 169,
-                            "playtime_last_two_weeks": 65,
-                            "playtime_at_review": 163,
-                            "last_played": 1792515649
+                            "steamid": "76561198813116702",
+                            "num_reviews": 48,
+                            "playtime_forever": 28,
+                            "playtime_last_two_weeks": 28,
+                            "playtime_at_review": 28,
+                            "last_played": 1792102085
                         },
                         "language": "english",
-                        "review": "It's short, creepy, gross, yet also fun, bizarre, and hilarious. The art is actually pretty good! Worth your little free time.",
-                        "timestamp_created": 1792509013,
-                        "timestamp_updated": 1792509013,
-                        "voted_up": true,
+                        "review": "I cant continue the game because of a rabbit bug in the second scene. I uninstalled and reinstalled the game verified the game files and restarted the scene but not worked.\n\nThe game looked  good.  I disappointed. Many other players have had similar problem. I hope this bug gets fixed one day so I can reinstall the game and finish it.",
+                        "timestamp_created": 1792102302,
+                        "timestamp_updated": 1792102302,
+                        "voted_up": false,
                         "votes_up": 0,
                         "votes_funny": 0,
                         "weighted_vote_score": 0.5,
                         "comment_count": 0,
-                        "steam_purchase": false,
-                        "received_for_free": true,
+                        "steam_purchase": true,
+                        "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 7800X3D 8-Core Processor           ",
+                            "adapter_description": "NVIDIA GeForce RTX 4070 Ti",
+                            "system_ram": "97367",
+                            "vram_size": 11994
+                        }
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB8p8SMBw==",
+                "cursor": "AoIFQFaAAAAAAAB/wpWLBw==",
                 "day_range_used": 30,
-                "total_matching": 13
+                "total_matching": 14
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390290/header.jpg?t=1762291079",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390290/capsule_231x87.jpg?t=1762291079",
@@ -80,10 +87,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1799,
-                "final": 1799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 17,99"
+                "final": 179,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 17,99",
+                "final_formatted": "R$ 1,79"
             },
             "packages": [
                 74234
@@ -100,13 +107,13 @@
                     "subs": [
                         {
                             "packageid": 74234,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Bulb Boy - R$ 17,99",
+                            "option_text": "Bulb Boy - <span class=\"discount_original_price\">R$ 17,99</span> R$ 1,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1799
+                            "price_in_cents_with_discount": 179
                         }
                     ]
                 }
@@ -227,7 +234,7 @@
                 }
             ],
             "recommendations": {
-                "total": 596
+                "total": 597
             },
             "achievements": {
                 "total": 12,
@@ -353,7 +360,25 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Adventure",
+                "Indie",
+                "Point & Click",
+                "Horror",
+                "Dark",
+                "Singleplayer",
+                "Dark Humor",
+                "Gore",
+                "Puzzle",
+                "Cute",
+                "Atmospheric",
+                "Surreal",
+                "2D",
+                "Psychological Horror",
+                "Short",
+                "Funny"
+            ]
         }
     }
 }

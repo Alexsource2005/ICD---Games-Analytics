@@ -20,47 +20,40 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2122,
+                    "total_positive": 2124,
                     "total_negative": 314,
-                    "total_reviews": 2436
+                    "total_reviews": 2438
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238365352",
+                        "recommendationid": "237972659",
                         "author": {
-                            "steamid": "76561198046044696",
-                            "num_reviews": 3,
-                            "playtime_forever": 576,
-                            "playtime_last_two_weeks": 576,
-                            "playtime_at_review": 576,
-                            "last_played": 1792748500
+                            "steamid": "76561198087579746",
+                            "num_reviews": 48,
+                            "playtime_forever": 224,
+                            "playtime_last_two_weeks": 213,
+                            "playtime_at_review": 224,
+                            "last_played": 1792276847
                         },
                         "language": "english",
-                        "review": "An amazingly deeply personal story even if I do not fully relate yet.\nIt is an easy platformer with secret collectables and short story based scenes mixed in.\nit may be a bit cyptic in the beginning, however there is strong emotional payout near the end as it gets pieced together and the underlying message shines through.\nEasily 8.5+",
-                        "timestamp_created": 1792749152,
-                        "timestamp_updated": 1792749152,
+                        "review": "Cool, another one you can play through in one crying session.\n\nBut for real, I didn't expect the story to unfold in such a sad and dark way, I thought it would maybe be half as sad and then it just derailed more and more. The beautiful and atmospheric pixel art is doing it's own to amplify it all. \n\nGame wise it's different in every chapter, it's mostly puzzles and a bit dexterity sometimes, but nothing too challenging. There's hidden items, otherwise it's all pretty straight forward, sometimes very slow paced, but I was so invested in the story that I played it in one sitting.",
+                        "timestamp_created": 1792277369,
+                        "timestamp_updated": 1792277369,
                         "voted_up": true,
-                        "votes_up": 0,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5,
+                        "weighted_vote_score": 0.5501729846000671,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "13th Gen Intel(R) Core(TM) i7-13700",
-                            "adapter_description": "NVIDIA GeForce RTX 4070",
-                            "system_ram": "32531",
-                            "vram_size": 12012
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB4qqWNBw==",
+                "cursor": "AoIFQFY/x2AAAABzy+WLBw==",
                 "day_range_used": 30,
-                "total_matching": 12
+                "total_matching": 14
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938560/b9bc87cf65506b27fa0f6e08afae76461da9977d/header.jpg?t=1768501017",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938560/capsule_231x87.jpg?t=1768501017",
@@ -88,10 +81,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 4699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 46,99"
+                "final": 1409,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 46,99",
+                "final_formatted": "R$ 14,09"
             },
             "packages": [
                 304619
@@ -108,13 +101,13 @@
                     "subs": [
                         {
                             "packageid": 304619,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "Inmost - R$ 46,99",
+                            "option_text": "Inmost - <span class=\"discount_original_price\">R$ 46,99</span> R$ 14,09",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
+                            "price_in_cents_with_discount": 1409
                         }
                     ]
                 }
@@ -229,7 +222,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5949
+                "total": 5957
             },
             "achievements": {
                 "total": 29,
@@ -357,7 +350,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Indie",
+                "Pixel Graphics",
+                "Adventure",
+                "Story Rich",
+                "Exploration",
+                "Thriller",
+                "Atmospheric",
+                "Psychological",
+                "Puzzle-Platformer",
+                "Dark",
+                "Psychological Horror",
+                "Singleplayer",
+                "Platformer",
+                "Emotional",
+                "Mystery",
+                "Horror",
+                "Puzzle",
+                "2D Platformer",
+                "Action",
+                "Cinematic"
+            ]
         }
     }
 }

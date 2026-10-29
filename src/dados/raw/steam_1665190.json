@@ -51,10 +51,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2489,
-                "final": 771,
-                "discount_percent": 69,
-                "initial_formatted": "R$ 24,89",
-                "final_formatted": "R$ 7,71"
+                "final": 2489,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 24,89"
             },
             "packages": [
                 591841
@@ -71,13 +71,13 @@
                     "subs": [
                         {
                             "packageid": 591841,
-                            "percent_savings_text": " -69%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Monster Prom 3: Monster Roadtrip - <span class=\"discount_original_price\">R$ 24,89</span> R$ 7,71",
+                            "option_text": "Monster Prom 3: Monster Roadtrip - R$ 24,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 771
+                            "price_in_cents_with_discount": 2489
                         }
                     ]
                 }
@@ -330,7 +330,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2827
+                "total": 2830
             },
             "achievements": {
                 "total": 75,
@@ -462,29 +462,29 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 2801,
+                    "total_positive": 2803,
                     "total_negative": 84,
-                    "total_reviews": 2885
+                    "total_reviews": 2887
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238350766",
+                        "recommendationid": "238653386",
                         "author": {
-                            "steamid": "76561199799312592",
-                            "num_reviews": 13,
-                            "playtime_forever": 1808,
-                            "playtime_last_two_weeks": 1808,
-                            "playtime_at_review": 1384,
-                            "last_played": 1792911996
+                            "steamid": "76561199280636421",
+                            "num_reviews": 3,
+                            "playtime_forever": 427,
+                            "playtime_last_two_weeks": 427,
+                            "playtime_at_review": 427,
+                            "last_played": 1792886959
                         },
                         "language": "english",
-                        "review": "a bit different to other monster proms less dating but still very silly and fun nonetheless",
-                        "timestamp_created": 1792727222,
-                        "timestamp_updated": 1792727222,
+                        "review": "Get into a VC full of your friends, do voiceovers for every line of dialogue, best way to spend about ~3-4 hours.",
+                        "timestamp_created": 1793068239,
+                        "timestamp_updated": 1793068239,
                         "voted_up": true,
-                        "votes_up": 1,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.52173912525177,
+                        "weighted_vote_score": 0.523809552192688,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -493,10 +493,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZkLIAAAAB+mp6NBw==",
+                "cursor": "AoIFQFZhheAAAAB6/LGOBw==",
                 "day_range_used": 30,
-                "total_matching": 9
-            }
+                "total_matching": 12
+            },
+            "steamspy_tags": [
+                "Visual Novel",
+                "LGBTQ+",
+                "Dating Sim",
+                "Comedy",
+                "Multiplayer",
+                "Choices Matter",
+                "Story Rich",
+                "Dark Humor",
+                "Funny",
+                "Multiple Endings",
+                "Choose Your Own Adventure",
+                "Memes",
+                "Romance",
+                "Survival",
+                "Indie",
+                "Comic Book",
+                "Resource Management",
+                "2D",
+                "Simulation",
+                "Text-Based"
+            ]
         }
     }
 }

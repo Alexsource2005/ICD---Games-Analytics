@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3799,
-                "final": 3799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 37,99"
+                "final": 1329,
+                "discount_percent": 65,
+                "initial_formatted": "R$ 37,99",
+                "final_formatted": "R$ 13,29"
             },
             "packages": [
                 379811
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 379811,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -65%",
                             "percent_savings": 0,
-                            "option_text": "Sense - 不祥的预感: A Cyberpunk Ghost Story - R$ 37,99",
+                            "option_text": "Sense - 不祥的预感: A Cyberpunk Ghost Story - <span class=\"discount_original_price\">R$ 37,99</span> R$ 13,29",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3799
+                            "price_in_cents_with_discount": 1329
                         }
                     ]
                 }
@@ -348,26 +348,26 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 365,
-                    "total_negative": 79,
+                    "total_positive": 366,
+                    "total_negative": 78,
                     "total_reviews": 444
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238496585",
+                        "recommendationid": "238819620",
                         "author": {
-                            "steamid": "76561198078084132",
-                            "num_reviews": 1,
-                            "playtime_forever": 354,
-                            "playtime_last_two_weeks": 225,
-                            "playtime_at_review": 354,
-                            "last_played": 1792882221
+                            "steamid": "76561198869461209",
+                            "num_reviews": 12,
+                            "playtime_forever": 117,
+                            "playtime_last_two_weeks": 117,
+                            "playtime_at_review": 117,
+                            "last_played": 1793037559
                         },
                         "language": "english",
-                        "review": "Buggy save file, doing things out of \"expected\" order lock you out. Best way to play this game is following a guide.",
-                        "timestamp_created": 1792882832,
-                        "timestamp_updated": 1792882832,
-                        "voted_up": false,
+                        "review": "Somebody put good story and gameplay into my goonette game.\n\nI wanted to play it because it’s spooky season, but the game isn’t actually scary. The art style is to die for, though.",
+                        "timestamp_created": 1793275787,
+                        "timestamp_updated": 1793275787,
+                        "voted_up": true,
                         "votes_up": 0,
                         "votes_funny": 0,
                         "weighted_vote_score": 0.5,
@@ -376,20 +376,35 @@
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "AMD Ryzen 9 7900X 12-Core Processor            ",
-                            "adapter_description": "AMD Radeon RX 7900 XT",
-                            "system_ram": "64668",
-                            "vram_size": 20421
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB5tOWNBw==",
+                "cursor": "AoIFQFaAAAAAAAB0koOPBw==",
                 "day_range_used": 30,
                 "total_matching": 1
-            }
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Cyberpunk",
+                "Female Protagonist",
+                "Survival Horror",
+                "Anime",
+                "Exploration",
+                "2D",
+                "Story Rich",
+                "Psychological Horror",
+                "Choices Matter",
+                "Multiple Endings",
+                "Hand-drawn",
+                "Dystopian ",
+                "Sci-fi",
+                "Atmospheric",
+                "Dark",
+                "Adventure",
+                "Futuristic",
+                "Point & Click",
+                "Singleplayer"
+            ]
         }
     }
 }

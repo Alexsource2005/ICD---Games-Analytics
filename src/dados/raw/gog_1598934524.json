@@ -79,5 +79,40 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Comedy",
+            "slug": "comedy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Comedy",
+            "slug": "comedy"
+        }
+    ]
 }

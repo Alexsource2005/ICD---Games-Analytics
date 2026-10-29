@@ -23,29 +23,29 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 22115,
-                    "total_negative": 2592,
-                    "total_reviews": 24707
+                    "total_positive": 22139,
+                    "total_negative": 2596,
+                    "total_reviews": 24735
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236169589",
+                        "recommendationid": "236816330",
                         "author": {
-                            "steamid": "76561198726332614",
-                            "num_reviews": 2,
-                            "playtime_forever": 1225,
+                            "steamid": "76561198314361545",
+                            "num_reviews": 10,
+                            "playtime_forever": 1457,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 1225,
-                            "last_played": 1790355284
+                            "playtime_at_review": 1181,
+                            "last_played": 1791118477
                         },
                         "language": "english",
-                        "review": "[+] The Masterpieces (10/10)\nLegendary Visuals: The pixel art and world design are absolutely stunning. Every single area feels grim, deeply immersive, and beautifully detailed.\nPhenomenal Soundtrack: The music is hauntingly beautiful. The classical Spanish guitars and melancholic tones perfectly capture the dark atmosphere and will stay stuck in your head long after you close the game.\nThe Second Run Effect: The second playthrough (NG+) feels significantly better. Once you know where to go, you can skip the early-game hesitation, jump straight into the action, and fully enjoy the combat.\n[-] The Flaws & Frustrations\nSlow & Empty Start: The game starts strong but quickly becomes repetitive in the early hours. Bosses are scarce, and while they look amazing visually, the actual fights feel generic and underwhelming until you hit the turning point.\nThe Castle Shift: The game only gets truly exciting and action-packed after you reach the Castle area. Before that, the pacing can feel like a chore.\nTedious Backtracking: While exploring secret rooms is a cool concept, the execution severely disrespects the player's time. Forcing you to backtrack through the exact same zones dozens of times just because you lacked a specific riddle-like ability is highly frustrating.\nDelayed Fast Travel: Unlocking efficient teleportation happens way too late in the game, making early-game navigation feel unnecessarily exhausting.\nUseless Loot: The game bombards you with tons of relics and items, but about 50% of them have zero practical use. You will end up beating the entire game using only a tiny fraction of what you spent hours collecting.\n[!] The Ending System is Disrespectful\nForced Replays: Forcing players to sit through the standard ending first just to lock them into replaying the entire game for the true ending is poor design.\nPermanently Lockable Content: If you fight a specific boss without completing a highly cryptic, easily missable task beforehand, you permanently ruin your chances for that ending. It completely locks you out, forcing you to start a whole new run just to fix one mistake.\nFinal Verdict\nDespite its deeply flawed gameplay loops, frustrating progression, and tedious backtracking, the artistic value, unmatched atmosphere, and brilliant music completely carry this game. It is a flawed gem that makes you tolerate its annoying mechanics just to experience its world. I am already planning to jump back in for another run next week.",
-                        "timestamp_created": 1790358598,
-                        "timestamp_updated": 1790358598,
+                        "review": "I gave up on this game twice before it finally clicked. Turns out third time really is the charm, this is easily one of the best games I've ever played.",
+                        "timestamp_created": 1791057330,
+                        "timestamp_updated": 1791057330,
                         "voted_up": true,
-                        "votes_up": 12,
+                        "votes_up": 9,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6851145029067993,
+                        "weighted_vote_score": 0.6181046962738037,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -54,9 +54,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWTDYAAAAB1l/WEBw==",
+                "cursor": "AoIFQFXo02AAAAB6/LCHBw==",
                 "day_range_used": 30,
-                "total_matching": 279
+                "total_matching": 278
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/header.jpg?t=1780479368",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/capsule_231x87.jpg?t=1780479368",
@@ -84,10 +84,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 13390,
-                "final": 13390,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 133,90"
+                "final": 3347,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 133,90",
+                "final_formatted": "R$ 33,47"
             },
             "packages": [
                 232160,
@@ -105,13 +105,13 @@
                     "subs": [
                         {
                             "packageid": 232160,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -75%",
                             "percent_savings": 0,
-                            "option_text": "Blasphemous - R$ 133,90",
+                            "option_text": "Blasphemous - <span class=\"discount_original_price\">R$ 133,90</span> R$ 33,47",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 13390
+                            "price_in_cents_with_discount": 3347
                         },
                         {
                             "packageid": 1535444,
@@ -147,6 +147,10 @@
                 {
                     "id": 28,
                     "description": "Compatibilidade total com comando"
+                },
+                {
+                    "id": 53,
+                    "description": "Compatível com R.V."
                 },
                 {
                     "id": 29,
@@ -300,7 +304,7 @@
                 }
             ],
             "recommendations": {
-                "total": 55465
+                "total": 55536
             },
             "achievements": {
                 "total": 45,
@@ -428,7 +432,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Metroidvania",
+                "Pixel Graphics",
+                "Souls-like",
+                "Dark Fantasy",
+                "Gore",
+                "2D",
+                "Violent",
+                "Action",
+                "Indie",
+                "Difficult",
+                "Platformer",
+                "Singleplayer",
+                "Blood",
+                "Adventure",
+                "Gothic",
+                "Horror",
+                "Lore-Rich",
+                "Great Soundtrack",
+                "Side Scroller",
+                "Nudity"
+            ]
         }
     }
 }

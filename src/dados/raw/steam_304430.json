@@ -17,9 +17,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 26651,
-                    "total_negative": 1061,
-                    "total_reviews": 27712
+                    "total_positive": 26677,
+                    "total_negative": 1063,
+                    "total_reviews": 27740
                 },
                 "reviews": [
                     {
@@ -28,7 +28,7 @@
                             "steamid": "76561198206823421",
                             "num_reviews": 148,
                             "playtime_forever": 1495,
-                            "playtime_last_two_weeks": 978,
+                            "playtime_last_two_weeks": 234,
                             "playtime_at_review": 1495,
                             "deck_playtime_at_review": 977,
                             "last_played": 1792313233
@@ -38,9 +38,9 @@
                         "timestamp_created": 1792316175,
                         "timestamp_updated": 1792316175,
                         "voted_up": true,
-                        "votes_up": 31,
+                        "votes_up": 38,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.7627155184745789,
+                        "weighted_vote_score": 0.7920827865600586,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -56,9 +56,9 @@
                         }
                     }
                 ],
-                "cursor": "AoIFQFUvuUAAAAB79fSLBw==",
+                "cursor": "AoIFQFUKIkAAAAB79fSLBw==",
                 "day_range_used": 30,
-                "total_matching": 175
+                "total_matching": 189
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg?t=1761819581",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/capsule_231x87.jpg?t=1761819581",
@@ -88,14 +88,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7299,
-                "final": 7299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 72,99"
+                "final": 729,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 72,99",
+                "final_formatted": "R$ 7,29"
             },
             "packages": [
-                374630,
-                45025
+                45025,
+                374630
             ],
             "package_groups": [
                 {
@@ -108,6 +108,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 45025,
+                            "percent_savings_text": " -90%",
+                            "percent_savings": 0,
+                            "option_text": "INSIDE - <span class=\"discount_original_price\">R$ 72,99</span> R$ 7,29",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 729
+                        },
+                        {
                             "packageid": 374630,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -116,16 +126,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 4599
-                        },
-                        {
-                            "packageid": 45025,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "INSIDE - R$ 72,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 7299
                         }
                     ]
                 }
@@ -277,7 +277,7 @@
                 }
             ],
             "recommendations": {
-                "total": 70215
+                "total": 70268
             },
             "achievements": {
                 "total": 14,
@@ -423,7 +423,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "2.5D",
+                "Puzzle-Platformer",
+                "Atmospheric",
+                "Dark",
+                "Story Rich",
+                "Indie",
+                "Horror",
+                "Cinematic",
+                "Singleplayer",
+                "Adventure",
+                "Multiple Endings",
+                "2D Platformer",
+                "Puzzle",
+                "Ambient",
+                "Platformer",
+                "Minimalist",
+                "Action-Adventure",
+                "Narrative",
+                "Controller",
+                "Action"
+            ]
         }
     }
 }

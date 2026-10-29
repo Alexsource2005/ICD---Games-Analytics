@@ -60,5 +60,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Shoot 'em Up",
+            "slug": "shoot-em-up"
+        }
+    ],
+    "tags": [
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Local Multiplayer",
+            "slug": "local-multiplayer"
+        },
+        {
+            "name": "Shoot'EmUp",
+            "slug": "shoot-em-up"
+        }
+    ]
 }

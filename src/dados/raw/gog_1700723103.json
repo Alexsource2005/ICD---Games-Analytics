@@ -109,5 +109,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Comedy",
+            "slug": "comedy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Comedy",
+            "slug": "comedy"
+        },
+        {
+            "name": "Parody",
+            "slug": "parody"
+        },
+        {
+            "name": "Superhero",
+            "slug": "superhero"
+        }
+    ]
 }

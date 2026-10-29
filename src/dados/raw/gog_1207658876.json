@@ -38,17 +38,93 @@
     },
     "dlcs": [],
     "price": {
-        "final": "$1.19",
-        "base": "$5.99",
+        "final": "R$ 2,39",
+        "base": "R$ 11,99",
         "discount": "-80%",
         "finalMoney": {
-            "amount": "1.19",
-            "currency": "USD",
-            "discount": "4.80"
+            "amount": "2.39",
+            "currency": "BRL",
+            "discount": "9.60"
         },
         "baseMoney": {
-            "amount": "5.99",
-            "currency": "USD"
+            "amount": "11.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Split Screen",
+            "slug": "split-screen"
+        }
+    ]
 }

@@ -56,5 +56,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Isometric",
+            "slug": "isometric"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        },
+        {
+            "name": "Steampunk",
+            "slug": "steampunk"
+        }
+    ]
 }

@@ -82,5 +82,44 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Farming",
+            "slug": "farming"
+        }
+    ]
 }

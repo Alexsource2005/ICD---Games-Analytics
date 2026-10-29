@@ -56,17 +56,105 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1207664463"
     },
     "price": {
-        "final": "$3.75",
-        "base": "$14.99",
+        "final": "R$ 11,75",
+        "base": "R$ 46,99",
         "discount": "-75%",
         "finalMoney": {
-            "amount": "3.75",
-            "currency": "USD",
-            "discount": "11.24"
+            "amount": "11.75",
+            "currency": "BRL",
+            "discount": "35.24"
         },
         "baseMoney": {
-            "amount": "14.99",
-            "currency": "USD"
+            "amount": "46.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Nudity",
+            "slug": "nudity"
+        },
+        {
+            "name": "Survival",
+            "slug": "survival"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror"
+        },
+        {
+            "name": "Psychological Horror",
+            "slug": "psychological-horror"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        }
+    ]
 }

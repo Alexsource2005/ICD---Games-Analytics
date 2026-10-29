@@ -58,5 +58,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Cartoony",
+            "slug": "cartoony"
+        },
+        {
+            "name": "Cozy",
+            "slug": "cozy"
+        },
+        {
+            "name": "Crime",
+            "slug": "crime"
+        }
+    ]
 }

@@ -271,10 +271,19 @@
                     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2050650/657548/d66cd4cfb24cc35f67d237b146e00ffd2df5f6bd/1750745210/dash_h264.mpd?t=1730246640",
                     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2050650/657548/d66cd4cfb24cc35f67d237b146e00ffd2df5f6bd/1750745210/hls_264_master.m3u8?t=1730246640",
                     "highlight": true
+                },
+                {
+                    "id": 256938325,
+                    "name": "08【RE4】_PV3_Multi_BR_FullHD_DJCTQ_AfterRelease",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938325/movie.293x165.jpg?t=1680071415",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2050650/552832/74e87283277f47b96027be205d63f4866add8112/1750745169/dash_av1.mpd?t=1680071415",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2050650/552832/74e87283277f47b96027be205d63f4866add8112/1750745169/dash_h264.mpd?t=1680071415",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2050650/552832/74e87283277f47b96027be205d63f4866add8112/1750745169/hls_264_master.m3u8?t=1680071415",
+                    "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 192506
+                "total": 193143
             },
             "achievements": {
                 "total": 46,
@@ -457,41 +466,70 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 96316,
-                    "total_negative": 3510,
-                    "total_reviews": 99826
+                    "total_positive": 96567,
+                    "total_negative": 3522,
+                    "total_reviews": 100089
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236253328",
+                        "recommendationid": "238579892",
                         "author": {
-                            "steamid": "76561199070165971",
-                            "num_reviews": 9,
-                            "playtime_forever": 2420,
+                            "steamid": "76561198402328820",
+                            "num_reviews": 22,
+                            "playtime_forever": 2405,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 2123,
-                            "last_played": 1790552640
+                            "playtime_at_review": 2405,
+                            "last_played": 1773667604
                         },
                         "language": "english",
-                        "review": "Leon shoots up a Spanish village to rescue white girl then nukes the Spanish people, very epic, 10/10 would recommend",
-                        "timestamp_created": 1790442164,
-                        "timestamp_updated": 1790442164,
+                        "review": "Phenomenal, outstanding, 10/10 remake of a timeless classic. This is how a remake is done. \n\n\nNow, for anyone looking through the reviews and either can't afford the game or is interested in playing it but hasn't fully committed, here's a key for it free of charge. Works everywhere in the world EXCEPT for the US. \nL39F2-F4FT4-NRT5H\nI once found myself in the reviews of another Steam game and came across someone that did the same thing, so I've decided to pay it forward. To whoever finds this: Enjoy the game, I hope you have as much fun as I did, and do consider leaving a comment on this review so I know if someone redeemed it!\n\n",
+                        "timestamp_created": 1792970713,
+                        "timestamp_updated": 1792970713,
                         "voted_up": true,
-                        "votes_up": 173,
-                        "votes_funny": 122,
-                        "weighted_vote_score": 0.8282248973846436,
-                        "comment_count": 0,
-                        "steam_purchase": true,
+                        "votes_up": 48,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.8162142634391785,
+                        "comment_count": 5,
+                        "steam_purchase": false,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 7700 8-Core Processor              ",
+                            "adapter_description": "NVIDIA GeForce RTX 4070 SUPER",
+                            "system_ram": "32480",
+                            "vram_size": 11997
+                        }
                     }
                 ],
-                "cursor": "AoIFQFTb30AAAABwiZ6FBw==",
+                "cursor": "AoIFQFTrPwAAAAB0i46OBw==",
                 "day_range_used": 30,
-                "total_matching": 1960
-            }
+                "total_matching": 1966
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Action",
+                "Survival Horror",
+                "Third-Person Shooter",
+                "Singleplayer",
+                "Zombies",
+                "Story Rich",
+                "Survival",
+                "Cinematic",
+                "Dark",
+                "Remake",
+                "Realistic",
+                "Third Person",
+                "Gore",
+                "Resource Management",
+                "VR",
+                "Adventure",
+                "Violent",
+                "Action-Adventure",
+                "Psychological Horror"
+            ]
         }
     }
 }

@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 19,99"
+                "final": 399,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 19,99",
+                "final_formatted": "R$ 3,99"
             },
             "packages": [
                 35502,
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 35502,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Lucius - R$ 19,99",
+                            "option_text": "Lucius - <span class=\"discount_original_price\">R$ 19,99</span> R$ 3,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 399
                         },
                         {
                             "packageid": 66219,
@@ -166,7 +166,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7797
+                "total": 7804
             },
             "achievements": {
                 "total": 58,
@@ -332,48 +332,63 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3476,
+                    "total_positive": 3478,
                     "total_negative": 856,
-                    "total_reviews": 4332
+                    "total_reviews": 4334
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236347164",
+                        "recommendationid": "238058989",
                         "author": {
-                            "steamid": "76561198201786561",
-                            "num_reviews": 21,
-                            "playtime_forever": 398,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 385,
-                            "last_played": 1790648480
+                            "steamid": "76561198030326907",
+                            "num_reviews": 218,
+                            "playtime_forever": 417,
+                            "playtime_last_two_weeks": 417,
+                            "playtime_at_review": 417,
+                            "last_played": 1792281159
                         },
                         "language": "english",
-                        "review": "Fucking cool game. I don't care that it's old, it really hits the spot! Scary, unapologetic, and all-in on Satan.",
-                        "timestamp_created": 1790533047,
-                        "timestamp_updated": 1790533047,
-                        "voted_up": true,
+                        "review": "Imagine a [i]Hitman[/i] game taking place in a single map, with all your targets in that one map, you're only allowed to take down your targets with random items you find throughout the [b][u]entire[/u][/b] map in one [b]very[/b] specific way and you're given one of those targets to kill each level at random. \n\nYou can find [b]any[/b] items related to [b]any[/b] of your targets at [b]any[/b] given time and place, only straightforward information you're given is your target's location at the beginning of each level and the game treats you like you're some [i]NASA[/i]-level quantum computer specialized in rube goldberg machines, being able to identify every kind of [i]Final Destination[/i]-esque way to kill any human being under any situation via your god-like algorythm.\n\nOther than giving you your target's location on your map, you also have 3 more ways to get hints about your intended way of taking down your target for that level; a --sometimes uncomfortably so-- vague riddle once per-level, some lines of dialgoue in the cutscenes or some stuff NPCs keep repeating at you and a couple of observational notes your character writes down on his notebook at certain times. Those \"observations\" can vary from [i]\"I hate Mr. A, I must find a way to kill him!\"[/i] to [i]\"Finally, Mr. A is alone in the room, now I have to get creative.\"[/i], so these \"hints\" being helpful in any way was clearly an afterthought.\n\nThere are [i]some[/i] slightly redeeming qualities with the game like the unintentionally hilarious, [i]CoD[/i] end-of-the-game killcam style cutscenes that play after you finally combine everything you have to successfully off your target or [i]b-movie[/i] quality voice acting performances but the keyword here is [u]unintentional[/u]. It might not be a terrible game per-se, but a way too clunky and frustrating one to the point of forcing you too look for enjoyment within the game, through aspects developers didn't mean you to find it. Truly a shame, because the overall concept had so, so much potential.\n\nI played it because of nostalgia --thanks to having fond memories of watching a blonde Swede playing it 13 years ago-- and since it was seasonally appropiate. Can't really recommend if the concept alone isn't making you reach for your wallet.",
+                        "timestamp_created": 1792364898,
+                        "timestamp_updated": 1792364964,
+                        "voted_up": false,
                         "votes_up": 3,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5384615659713745,
+                        "weighted_vote_score": 0.5661157369613647,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "AMD Ryzen 5 9600X 6-Core Processor             ",
-                            "adapter_description": "NVIDIA GeForce RTX 4060",
-                            "system_ram": "15447",
-                            "vram_size": 7956
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZOxMAAAAB88cuFBw==",
+                "cursor": "AoIFQFZrXyAAAAB93o+MBw==",
                 "day_range_used": 30,
                 "total_matching": 18
-            }
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Adventure",
+                "Villain Protagonist",
+                "Gore",
+                "Nudity",
+                "Singleplayer",
+                "Puzzle",
+                "Indie",
+                "Third Person",
+                "Action",
+                "Stealth",
+                "Dark",
+                "Psychological Horror",
+                "Mature",
+                "Atmospheric",
+                "Violent",
+                "Story Rich",
+                "Difficult",
+                "Funny",
+                "Open World"
+            ]
         }
     }
 }

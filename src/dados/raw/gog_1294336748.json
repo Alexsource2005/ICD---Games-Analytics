@@ -65,5 +65,56 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Investigation",
+            "slug": "investigation"
+        },
+        {
+            "name": "Dark Comedy",
+            "slug": "dark-comedy"
+        },
+        {
+            "name": "Text-Based",
+            "slug": "text-based"
+        }
+    ]
 }

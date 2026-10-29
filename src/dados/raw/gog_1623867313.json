@@ -70,5 +70,56 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Time Manipulation",
+            "slug": "time-manipulation"
+        }
+    ]
 }

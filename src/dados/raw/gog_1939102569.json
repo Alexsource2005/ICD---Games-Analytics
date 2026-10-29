@@ -73,5 +73,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "FPP",
+            "slug": "fpp"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        },
+        {
+            "name": "Dark Comedy",
+            "slug": "dark-comedy"
+        }
+    ]
 }

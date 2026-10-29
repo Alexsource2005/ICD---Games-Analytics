@@ -67,5 +67,68 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Multiple Endings",
+            "slug": "multiple-endings"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        }
+    ]
 }

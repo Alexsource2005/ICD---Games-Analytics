@@ -65,5 +65,84 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Historical",
+            "slug": "historical"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Historical",
+            "slug": "historical"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Procedural Generation",
+            "slug": "procedural-generation"
+        },
+        {
+            "name": "Choose Your Own Adventure",
+            "slug": "choose-your-own-adventure"
+        },
+        {
+            "name": "Tactical RPG",
+            "slug": "tactical-rpg"
+        },
+        {
+            "name": "Zombies",
+            "slug": "zombies"
+        }
+    ]
 }

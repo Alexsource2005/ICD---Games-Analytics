@@ -38,18 +38,65 @@
     },
     "dlcs": [],
     "price": {
-        "final": "R$ 2,29",
+        "final": "R$ 22,79",
         "base": "R$ 22,79",
-        "discount": "-90%",
+        "discount": null,
         "finalMoney": {
-            "amount": "2.29",
+            "amount": "22.79",
             "currency": "BRL",
-            "discount": "20.50"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "22.79",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Modern",
+            "slug": "modern"
+        },
+        {
+            "name": "Thriller",
+            "slug": "thriller"
+        }
+    ]
 }

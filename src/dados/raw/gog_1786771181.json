@@ -76,5 +76,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Procedural Generation",
+            "slug": "procedural-generation"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        },
+        {
+            "name": "Bullet Hell",
+            "slug": "bullet-hell"
+        },
+        {
+            "name": "Perma Death",
+            "slug": "perma-death"
+        }
+    ]
 }

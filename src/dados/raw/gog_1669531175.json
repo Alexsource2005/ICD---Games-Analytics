@@ -74,5 +74,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "Multiple Endings",
+            "slug": "multiple-endings"
+        },
+        {
+            "name": "Emotional",
+            "slug": "emotional"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk"
+        },
+        {
+            "name": "Noir",
+            "slug": "noir"
+        }
+    ]
 }

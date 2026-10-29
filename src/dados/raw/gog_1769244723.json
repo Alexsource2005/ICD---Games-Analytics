@@ -73,5 +73,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Tactical RPG",
+            "slug": "tactical-rpg"
+        }
+    ]
 }

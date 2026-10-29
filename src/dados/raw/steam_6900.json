@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2069,
-                "final": 2069,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 20,69"
+                "final": 206,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 20,69",
+                "final_formatted": "R$ 2,06"
             },
             "packages": [
                 280
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 280,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Hitman: Codename 47 - R$ 20,69",
+                            "option_text": "Hitman: Codename 47 - <span class=\"discount_original_price\">R$ 20,69</span> R$ 2,06",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2069
+                            "price_in_cents_with_discount": 206
                         }
                     ]
                 }
@@ -119,7 +119,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4297
+                "total": 4298
             },
             "release_date": {
                 "coming_soon": false,
@@ -173,48 +173,60 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 1608,
+                    "total_positive": 1609,
                     "total_negative": 862,
-                    "total_reviews": 2470
+                    "total_reviews": 2471
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236937329",
+                        "recommendationid": "237170221",
                         "author": {
-                            "steamid": "76561199386854286",
-                            "num_reviews": 22,
-                            "playtime_forever": 66,
+                            "steamid": "76561198353910328",
+                            "num_reviews": 31,
+                            "playtime_forever": 82,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 66,
-                            "last_played": 1790297640
+                            "playtime_at_review": 76,
+                            "last_played": 1791742895
                         },
                         "language": "english",
-                        "review": "Just skip it and play Contracts, unless you enjoy bullshit old game difficulty",
-                        "timestamp_created": 1791168213,
-                        "timestamp_updated": 1791168213,
-                        "voted_up": false,
-                        "votes_up": 4,
-                        "votes_funny": 0,
-                        "weighted_vote_score": 0.5451127886772156,
+                        "review": "An absolute classic, I remember playing this and completing every single mission back in a day. Setting up controls and making this game working properly in a present time could be complicated but not impossible. In my opinon game deserves proper Remake with updated controls and graphics, it is masterpeace considering when it was published and it would be great mistake not to use potential of the original title to make something new out of it  respecting the initial story, music and set up.",
+                        "timestamp_created": 1791418996,
+                        "timestamp_updated": 1791418996,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.5652173757553101,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "12th Gen Intel(R) Core(TM) i9-12900HK",
-                            "adapter_description": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
-                            "system_ram": "32439",
-                            "vram_size": 3965
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZGQWAAAABxh+yHBw==",
+                "cursor": "AoIFQFYshcAAAAB94t2IBw==",
                 "day_range_used": 30,
                 "total_matching": 17
-            }
+            },
+            "steamspy_tags": [
+                "Stealth",
+                "Action",
+                "Classic",
+                "Assassin",
+                "Singleplayer",
+                "Third Person",
+                "Shooter",
+                "Third-Person Shooter",
+                "Difficult",
+                "Sandbox",
+                "Atmospheric",
+                "Great Soundtrack",
+                "Crime",
+                "Adventure",
+                "Tactical",
+                "Violent",
+                "Strategy"
+            ]
         }
     }
 }

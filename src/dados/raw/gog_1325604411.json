@@ -53,17 +53,93 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1858019230"
     },
     "price": {
-        "final": "$19.99",
-        "base": "$19.99",
+        "final": "R$ 36,99",
+        "base": "R$ 36,99",
         "discount": null,
         "finalMoney": {
-            "amount": "19.99",
-            "currency": "USD",
+            "amount": "36.99",
+            "currency": "BRL",
             "discount": "0.00"
         },
         "baseMoney": {
-            "amount": "19.99",
-            "currency": "USD"
+            "amount": "36.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        },
+        {
+            "name": "Detective-mystery",
+            "slug": "detective"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Investigation",
+            "slug": "investigation"
+        },
+        {
+            "name": "Detective-mystery",
+            "slug": "detective"
+        },
+        {
+            "name": "Remake",
+            "slug": "remake"
+        }
+    ]
 }

@@ -71,5 +71,72 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Real-time",
+            "slug": "realtime"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Real-Time",
+            "slug": "real-time"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Isometric",
+            "slug": "isometric"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "RTS",
+            "slug": "rts"
+        },
+        {
+            "name": "Perma Death",
+            "slug": "perma-death"
+        },
+        {
+            "name": "Tower Defense",
+            "slug": "tower-defense"
+        }
+    ]
 }

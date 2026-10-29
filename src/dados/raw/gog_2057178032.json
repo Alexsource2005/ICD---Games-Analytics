@@ -55,5 +55,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        }
+    ]
 }

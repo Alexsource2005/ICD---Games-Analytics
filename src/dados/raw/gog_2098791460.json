@@ -50,17 +50,85 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1800288290"
     },
     "price": {
-        "final": "$7.49",
-        "base": "$24.99",
+        "final": "R$ 14,25",
+        "base": "R$ 47,49",
         "discount": "-70%",
         "finalMoney": {
-            "amount": "7.49",
-            "currency": "USD",
-            "discount": "17.50"
+            "amount": "14.25",
+            "currency": "BRL",
+            "discount": "33.24"
         },
         "baseMoney": {
-            "amount": "24.99",
-            "currency": "USD"
+            "amount": "47.49",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game"
+        },
+        {
+            "name": "Deckbuilding",
+            "slug": "deckbuilding"
+        },
+        {
+            "name": "Mythology",
+            "slug": "mythology"
+        }
+    ]
 }

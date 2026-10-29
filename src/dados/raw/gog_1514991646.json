@@ -66,5 +66,36 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Turn-based",
+            "slug": "turnbased"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        }
+    ]
 }

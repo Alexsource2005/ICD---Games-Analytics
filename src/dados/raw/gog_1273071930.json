@@ -81,5 +81,76 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Psychological Horror",
+            "slug": "psychological-horror"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Local Multiplayer",
+            "slug": "local-multiplayer"
+        },
+        {
+            "name": "Thriller",
+            "slug": "thriller"
+        },
+        {
+            "name": "Escape Room",
+            "slug": "escape-room"
+        }
+    ]
 }

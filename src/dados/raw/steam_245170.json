@@ -44,10 +44,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4749,
-                "final": 4749,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 47,49"
+                "final": 1187,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 47,49",
+                "final_formatted": "R$ 11,87"
             },
             "packages": [
                 541914
@@ -64,13 +64,13 @@
                     "subs": [
                         {
                             "packageid": 541914,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -75%",
                             "percent_savings": 0,
-                            "option_text": "Skullgirls 2nd Encore - R$ 47,49",
+                            "option_text": "Skullgirls 2nd Encore - <span class=\"discount_original_price\">R$ 47,49</span> R$ 11,87",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4749
+                            "price_in_cents_with_discount": 1187
                         }
                     ]
                 }
@@ -265,7 +265,7 @@
                 }
             ],
             "recommendations": {
-                "total": 29322
+                "total": 29326
             },
             "achievements": {
                 "total": 45,
@@ -434,9 +434,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 15023,
-                    "total_negative": 2531,
-                    "total_reviews": 17554
+                    "total_positive": 15026,
+                    "total_negative": 2530,
+                    "total_reviews": 17556
                 },
                 "reviews": [
                     {
@@ -454,10 +454,10 @@
                         "timestamp_created": 1791418916,
                         "timestamp_updated": 1791418916,
                         "voted_up": false,
-                        "votes_up": 84,
-                        "votes_funny": 1,
-                        "weighted_vote_score": 0.7253625988960266,
-                        "comment_count": 2,
+                        "votes_up": 116,
+                        "votes_funny": 2,
+                        "weighted_vote_score": 0.8061283230781555,
+                        "comment_count": 3,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
@@ -465,10 +465,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFVfiQAAAABy3t2IBw==",
+                "cursor": "AoIFQFT4KAAAAABy3t2IBw==",
                 "day_range_used": 30,
                 "total_matching": 76
-            }
+            },
+            "steamspy_tags": [
+                "Fighting",
+                "2D Fighter",
+                "Indie",
+                "Hand-drawn",
+                "Multiplayer",
+                "Female Protagonist",
+                "Competitive",
+                "Anime",
+                "Stylized",
+                "Local Multiplayer",
+                "Crowdfunded",
+                "Controller",
+                "Singleplayer",
+                "Lore-Rich",
+                "2D",
+                "Noir",
+                "Action",
+                "Cartoon",
+                "Arcade",
+                "Story Rich"
+            ]
         }
     }
 }

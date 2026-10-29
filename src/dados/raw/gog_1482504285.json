@@ -55,5 +55,68 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Fighting",
+            "slug": "fighting"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        },
+        {
+            "name": "Beat 'em up",
+            "slug": "beat-em-up"
+        },
+        {
+            "name": "Superhero",
+            "slug": "superhero"
+        }
+    ]
 }

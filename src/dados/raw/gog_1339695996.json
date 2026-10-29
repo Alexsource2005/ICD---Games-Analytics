@@ -55,5 +55,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Space",
+            "slug": "space"
+        },
+        {
+            "name": "Robots",
+            "slug": "robots"
+        },
+        {
+            "name": "Flight",
+            "slug": "flight"
+        }
+    ]
 }

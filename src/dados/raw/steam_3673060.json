@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 9,99"
+                "final": 699,
+                "discount_percent": 30,
+                "initial_formatted": "R$ 9,99",
+                "final_formatted": "R$ 6,99"
             },
             "packages": [
                 1293904
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 1293904,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -30%",
                             "percent_savings": 0,
-                            "option_text": "How to Train Your Cock - R$ 9,99",
+                            "option_text": "How to Train Your Cock - <span class=\"discount_original_price\">R$ 9,99</span> R$ 6,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -184,7 +184,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1981
+                "total": 1991
             },
             "achievements": {
                 "total": 24,
@@ -316,9 +316,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 744,
-                    "total_negative": 107,
-                    "total_reviews": 851
+                    "total_positive": 749,
+                    "total_negative": 108,
+                    "total_reviews": 857
                 },
                 "reviews": [
                     {
@@ -336,9 +336,9 @@
                         "timestamp_created": 1791688833,
                         "timestamp_updated": 1791688833,
                         "voted_up": true,
-                        "votes_up": 9,
-                        "votes_funny": 10,
-                        "weighted_vote_score": 0.6475806832313538,
+                        "votes_up": 13,
+                        "votes_funny": 17,
+                        "weighted_vote_score": 0.6488215923309326,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -347,10 +347,11 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXDGKAAAABxjtyJBw==",
+                "cursor": "AoIFQFXBggAAAABxjtyJBw==",
                 "day_range_used": 30,
-                "total_matching": 48
-            }
+                "total_matching": 41
+            },
+            "steamspy_tags": []
         }
     }
 }

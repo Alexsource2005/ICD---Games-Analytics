@@ -90,5 +90,88 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Mature",
+            "slug": "mature"
+        },
+        {
+            "name": "Sexual Content",
+            "slug": "sexual-content"
+        },
+        {
+            "name": "Nudity",
+            "slug": "nudity"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        },
+        {
+            "name": "Souls-like",
+            "slug": "souls-like"
+        }
+    ]
 }

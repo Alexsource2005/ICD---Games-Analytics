@@ -64,15 +64,15 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 8899,
-                "final": 8899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 88,99"
+                "initial": 10799,
+                "final": 2699,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 107,99",
+                "final_formatted": "R$ 26,99"
             },
             "packages": [
-                773580,
                 773581,
+                773580,
                 1119568
             ],
             "package_groups": [
@@ -86,6 +86,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 773581,
+                            "percent_savings_text": " -75%",
+                            "percent_savings": 0,
+                            "option_text": "Isonzo: Deluxe Edition incl. Veteran and Reserve Unit Packs - <span class=\"discount_original_price\">R$ 107,99</span> R$ 26,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2699
+                        },
+                        {
                             "packageid": 773580,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -94,16 +104,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 8899
-                        },
-                        {
-                            "packageid": 773581,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Isonzo: Deluxe Edition incl. Veteran and Reserve Unit Packs - R$ 107,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 10799
                         },
                         {
                             "packageid": 1119568,
@@ -560,7 +560,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenggunaan bahasa"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Atmospheric",
+                "Simulation",
+                "Indie",
+                "Team-Based",
+                "PvP",
+                "Realistic",
+                "Wargame",
+                "Class-Based",
+                "Military",
+                "Massively Multiplayer",
+                "War",
+                "World War I",
+                "FPS",
+                "Historical",
+                "First-Person",
+                "Singleplayer",
+                "Multiplayer",
+                "Shooter",
+                "Action",
+                "Tactical"
+            ]
         }
     }
 }

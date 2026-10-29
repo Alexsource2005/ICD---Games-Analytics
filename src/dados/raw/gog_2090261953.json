@@ -67,5 +67,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Steampunk",
+            "slug": "steampunk"
+        }
+    ]
 }

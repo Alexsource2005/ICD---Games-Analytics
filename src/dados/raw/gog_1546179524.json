@@ -61,5 +61,76 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox"
+        },
+        {
+            "name": "Building",
+            "slug": "building"
+        },
+        {
+            "name": "Medieval",
+            "slug": "medieval"
+        },
+        {
+            "name": "Crafting",
+            "slug": "crafting"
+        },
+        {
+            "name": "Post-apocalyptic",
+            "slug": "post-apocalyptic"
+        },
+        {
+            "name": "Dark Comedy",
+            "slug": "dark-comedy"
+        },
+        {
+            "name": "LifeSim",
+            "slug": "lifesim"
+        },
+        {
+            "name": "Zombies",
+            "slug": "zombies"
+        },
+        {
+            "name": "Farming",
+            "slug": "farming"
+        }
+    ]
 }

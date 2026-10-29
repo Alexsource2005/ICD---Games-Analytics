@@ -64,5 +64,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "Mature",
+            "slug": "mature"
+        },
+        {
+            "name": "Nudity",
+            "slug": "nudity"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic"
+        },
+        {
+            "name": "NSFW",
+            "slug": "nsfw"
+        }
+    ]
 }

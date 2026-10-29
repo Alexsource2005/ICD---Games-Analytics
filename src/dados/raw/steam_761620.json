@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5499,
-                "final": 5499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 54,99"
+                "final": 824,
+                "discount_percent": 85,
+                "initial_formatted": "R$ 54,99",
+                "final_formatted": "R$ 8,24"
             },
             "packages": [
                 225025
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 225025,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -85%",
                             "percent_savings": 0,
-                            "option_text": "Beholder 2 - R$ 54,99",
+                            "option_text": "Beholder 2 - <span class=\"discount_original_price\">R$ 54,99</span> R$ 8,24",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5499
+                            "price_in_cents_with_discount": 824
                         }
                     ]
                 }
@@ -213,7 +213,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6907
+                "total": 6918
             },
             "achievements": {
                 "total": 52,
@@ -348,9 +348,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1041,
+                    "total_positive": 1044,
                     "total_negative": 247,
-                    "total_reviews": 1288
+                    "total_reviews": 1291
                 },
                 "reviews": [
                     {
@@ -370,7 +370,7 @@
                         "voted_up": true,
                         "votes_up": 7,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5607077479362488,
+                        "weighted_vote_score": 0.5549144744873047,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -379,10 +379,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYyS0AAAAB5v6GGBw==",
+                "cursor": "AoIFQFY5tcAAAAB5v6GGBw==",
                 "day_range_used": 30,
-                "total_matching": 9
-            }
+                "total_matching": 12
+            },
+            "steamspy_tags": [
+                "Dystopian ",
+                "Strategy",
+                "Choices Matter",
+                "Political Sim",
+                "Simulation",
+                "Story Rich",
+                "Singleplayer",
+                "Atmospheric",
+                "Political",
+                "Multiple Endings",
+                "Dark",
+                "Politics",
+                "Addictive",
+                "Point & Click",
+                "2D",
+                "Lore-Rich",
+                "Adventure",
+                "Indie",
+                "Violent",
+                "Psychological Horror"
+            ]
         }
     }
 }

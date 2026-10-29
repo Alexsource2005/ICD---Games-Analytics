@@ -69,5 +69,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Multiple Endings",
+            "slug": "multiple-endings"
+        },
+        {
+            "name": "LGBTQ+",
+            "slug": "lgbtq-plus"
+        }
+    ]
 }

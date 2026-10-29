@@ -82,5 +82,36 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Real-time",
+            "slug": "realtime"
+        },
+        {
+            "name": "Shoot 'em Up",
+            "slug": "shoot-em-up"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Real-Time",
+            "slug": "real-time"
+        },
+        {
+            "name": "Shoot'EmUp",
+            "slug": "shoot-em-up"
+        }
+    ]
 }

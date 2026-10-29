@@ -62,5 +62,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Detective-mystery",
+            "slug": "detective"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Investigation",
+            "slug": "investigation"
+        },
+        {
+            "name": "Puzzle Platformer",
+            "slug": "puzzle-platformer"
+        },
+        {
+            "name": "Detective-mystery",
+            "slug": "detective"
+        }
+    ]
 }

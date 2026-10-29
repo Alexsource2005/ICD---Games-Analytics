@@ -51,5 +51,84 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Post-apocalyptic",
+            "slug": "post-apocalyptic"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Local Multiplayer",
+            "slug": "local-multiplayer"
+        },
+        {
+            "name": "Bullet Hell",
+            "slug": "bullet-hell"
+        },
+        {
+            "name": "Perma Death",
+            "slug": "perma-death"
+        },
+        {
+            "name": "Twin Stick Shooter",
+            "slug": "twin-stick-shooter"
+        }
+    ]
 }

@@ -38,18 +38,93 @@
     },
     "dlcs": [],
     "price": {
-        "final": "R$ 26,39",
+        "final": "R$ 32,99",
         "base": "R$ 32,99",
-        "discount": "-20%",
+        "discount": null,
         "finalMoney": {
-            "amount": "26.39",
+            "amount": "32.99",
             "currency": "BRL",
-            "discount": "6.60"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "32.99",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Narrative",
+            "slug": "narrative"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "Mature",
+            "slug": "mature"
+        },
+        {
+            "name": "Sexual Content",
+            "slug": "sexual-content"
+        },
+        {
+            "name": "Nudity",
+            "slug": "nudity"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "NSFW",
+            "slug": "nsfw"
+        },
+        {
+            "name": "Narrative",
+            "slug": "narrative"
+        },
+        {
+            "name": "Romance",
+            "slug": "romance"
+        },
+        {
+            "name": "Dating Sim",
+            "slug": "dating-sim"
+        },
+        {
+            "name": "Hentai",
+            "slug": "hentai"
+        }
+    ]
 }

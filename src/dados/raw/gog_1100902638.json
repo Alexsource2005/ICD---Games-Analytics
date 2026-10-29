@@ -61,5 +61,68 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic"
+        },
+        {
+            "name": "Medieval",
+            "slug": "medieval"
+        },
+        {
+            "name": "Realistic",
+            "slug": "realistic"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        },
+        {
+            "name": "Hidden Object",
+            "slug": "hidden-object"
+        }
+    ]
 }

@@ -54,5 +54,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Shoot 'em Up",
+            "slug": "shoot-em-up"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Military",
+            "slug": "military"
+        },
+        {
+            "name": "Shoot'EmUp",
+            "slug": "shoot-em-up"
+        },
+        {
+            "name": "Tanks",
+            "slug": "tanks"
+        }
+    ]
 }

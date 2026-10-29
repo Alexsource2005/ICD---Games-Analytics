@@ -77,5 +77,80 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Naval",
+            "slug": "naval"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Isometric",
+            "slug": "isometric"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Procedural Generation",
+            "slug": "procedural-generation"
+        },
+        {
+            "name": "Tactical RPG",
+            "slug": "tactical-rpg"
+        },
+        {
+            "name": "Pirates",
+            "slug": "pirates"
+        },
+        {
+            "name": "Naval",
+            "slug": "naval"
+        }
+    ]
 }

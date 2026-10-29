@@ -53,5 +53,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Demo",
+            "slug": "demo"
+        },
+        {
+            "name": "Puzzle Platformer",
+            "slug": "puzzle-platformer"
+        },
+        {
+            "name": "Tower Defense",
+            "slug": "tower-defense"
+        },
+        {
+            "name": "Split Screen",
+            "slug": "split-screen"
+        }
+    ]
 }

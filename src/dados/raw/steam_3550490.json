@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2049,
-                "final": 2049,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 20,49"
+                "final": 983,
+                "discount_percent": 52,
+                "initial_formatted": "R$ 20,49",
+                "final_formatted": "R$ 9,83"
             },
             "packages": [
                 1252982
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 1252982,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -52%",
                             "percent_savings": 0,
-                            "option_text": "Overcome Your Fears - Caretaker - R$ 20,49",
+                            "option_text": "Overcome Your Fears - Caretaker - <span class=\"discount_original_price\">R$ 20,49</span> R$ 9,83",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2049
+                            "price_in_cents_with_discount": 983
                         }
                     ]
                 }
@@ -174,7 +174,7 @@
                 }
             ],
             "recommendations": {
-                "total": 181
+                "total": 182
             },
             "achievements": {
                 "total": 5,
@@ -266,48 +266,42 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 452,
-                    "total_negative": 293,
-                    "total_reviews": 745
+                    "total_positive": 454,
+                    "total_negative": 296,
+                    "total_reviews": 750
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236416515",
+                        "recommendationid": "237226613",
                         "author": {
-                            "steamid": "76561198402967695",
-                            "num_reviews": 231,
-                            "playtime_forever": 36,
+                            "steamid": "76561199239439251",
+                            "num_reviews": 11,
+                            "playtime_forever": 62,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 36,
-                            "last_played": 1790618859
+                            "playtime_at_review": 62,
+                            "last_played": 1791484730
                         },
                         "language": "english",
-                        "review": "\n---{ Graphics }---\n☐ You forget what reality is\n☐ Beautiful\n☐ Good\n☑ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☐ Very good\n☐ Good\n☐ It's just gameplay\n☑ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audio }---\n☐ Eargasm\n☐ Very good\n☑ Good\n☐ Not too bad\n☐ Bad\n☐ I'm now deaf\n\n---{ Audience }---\n☐ Kids\n☐ Teens\n☑ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☑ Check if you can run paint\n☐ Potato\n☐ Decent\n☐ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☐ Floppy Disk\n☑ Old Fashioned\n☐ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☑ Easy\n☐ Easy to learn / Hard to master\n☐ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ Grind }---\n☑ Nothing to grind\n☐ Only if u care about leaderboards/ranks\n☐ Isn't necessary to progress\n☐ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\n\n---{ Story }---\n☐ No Story\n☐ Some lore\n☑ Average\n☐ Good\n☐ Lovely\n☐ It'll replace your life\n\n---{ Game Time }---\n☑ Long enough for a cup of coffee\n☐ Short\n☐ Average\n☐ Long\n☐ To infinity and beyond\n\n---{ Price }---\n☐ It's free!\n☐ Worth the price\n☐ If it's on sale\n☑ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☑ Never heard of\n☐ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☑ 5\n☐ 6\n☐ 7\n☐ 8\n☐ 9\n☐ 10",
-                        "timestamp_created": 1790619021,
-                        "timestamp_updated": 1790619021,
-                        "voted_up": true,
-                        "votes_up": 8,
-                        "votes_funny": 0,
-                        "weighted_vote_score": 0.6440129280090332,
-                        "comment_count": 0,
+                        "review": "too short, it wasn't scary, the only scary thing was the animation on TV and I thought it was going to be connected to the game because it focused on 3:33 and I was like kinda waiting like what if some demon rapes me at that time but nothing happened, lame plot twist.",
+                        "timestamp_created": 1791485000,
+                        "timestamp_updated": 1791485000,
+                        "voted_up": false,
+                        "votes_up": 5,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.57419353723526,
+                        "comment_count": 1,
                         "steam_purchase": false,
                         "received_for_free": true,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "AMD Ryzen 5 7500F 6-Core Processor             ",
-                            "adapter_description": "AMD Radeon RX 6900 XT",
-                            "system_ram": "32425",
-                            "vram_size": 16337
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXHqeAAAABz4O2FBw==",
+                "cursor": "AoIFQFYhCCAAAAB1p/mIBw==",
                 "day_range_used": 30,
-                "total_matching": 38
-            }
+                "total_matching": 40
+            },
+            "steamspy_tags": []
         }
     }
 }

@@ -58,5 +58,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Turn-based",
+            "slug": "turnbased"
+        },
+        {
+            "name": "Fighting",
+            "slug": "fighting"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Fighting",
+            "slug": "fighting"
+        },
+        {
+            "name": "Local Multiplayer",
+            "slug": "local-multiplayer"
+        },
+        {
+            "name": "LevelEditor",
+            "slug": "leveleditor"
+        },
+        {
+            "name": "Party Game",
+            "slug": "party-game"
+        }
+    ]
 }

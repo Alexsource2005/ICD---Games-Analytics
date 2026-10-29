@@ -70,5 +70,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Combat",
+            "slug": "combat"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Combat",
+            "slug": "combat"
+        },
+        {
+            "name": "Demo",
+            "slug": "demo"
+        }
+    ]
 }

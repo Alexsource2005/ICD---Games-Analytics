@@ -84,5 +84,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Turn-based",
+            "slug": "turnbased"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Historical",
+            "slug": "historical"
+        },
+        {
+            "name": "Medieval",
+            "slug": "medieval"
+        },
+        {
+            "name": "War",
+            "slug": "war"
+        },
+        {
+            "name": "Military",
+            "slug": "military"
+        },
+        {
+            "name": "Tabletop",
+            "slug": "tabletop"
+        },
+        {
+            "name": "LevelEditor",
+            "slug": "leveleditor"
+        }
+    ]
 }

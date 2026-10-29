@@ -48,18 +48,85 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1186888193"
     },
     "price": {
-        "final": "R$ 24,75",
+        "final": "R$ 26,39",
         "base": "R$ 32,99",
-        "discount": "-25%",
+        "discount": "-20%",
         "finalMoney": {
-            "amount": "24.75",
+            "amount": "26.39",
             "currency": "BRL",
-            "discount": "8.24"
+            "discount": "6.60"
         },
         "baseMoney": {
             "amount": "32.99",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Historical",
+            "slug": "historical"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Medieval",
+            "slug": "medieval"
+        },
+        {
+            "name": "Investigation",
+            "slug": "investigation"
+        },
+        {
+            "name": "Romance",
+            "slug": "romance"
+        },
+        {
+            "name": "Nature",
+            "slug": "nature"
+        }
+    ]
 }

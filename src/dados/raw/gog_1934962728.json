@@ -64,5 +64,72 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Isometric",
+            "slug": "isometric"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Cozy",
+            "slug": "cozy"
+        },
+        {
+            "name": "Hidden Object",
+            "slug": "hidden-object"
+        }
+    ]
 }

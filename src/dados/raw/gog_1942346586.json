@@ -38,18 +38,77 @@
     },
     "dlcs": [],
     "price": {
-        "final": "R$ 2,49",
+        "final": "R$ 24,89",
         "base": "R$ 24,89",
-        "discount": "-90%",
+        "discount": null,
         "finalMoney": {
-            "amount": "2.49",
+            "amount": "24.89",
             "currency": "BRL",
-            "discount": "22.40"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "24.89",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "TPP",
+            "slug": "tpp"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Crime",
+            "slug": "crime"
+        }
+    ]
 }

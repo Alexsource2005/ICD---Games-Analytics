@@ -81,5 +81,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "FPP",
+            "slug": "fpp"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        },
+        {
+            "name": "Steampunk",
+            "slug": "steampunk"
+        }
+    ]
 }

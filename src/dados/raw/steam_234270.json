@@ -20,8 +20,8 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2148,
-                    "total_negative": 188,
+                    "total_positive": 2147,
+                    "total_negative": 189,
                     "total_reviews": 2336
                 },
                 "reviews": [
@@ -88,10 +88,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 599,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 5,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 169513
@@ -108,13 +108,13 @@
                     "subs": [
                         {
                             "packageid": 169513,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Ken Follett's The Pillars of the Earth - <span class=\"discount_original_price\">R$ 59,99</span> R$ 5,99",
+                            "option_text": "Ken Follett's The Pillars of the Earth - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -289,7 +289,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5935
+                "total": 5938
             },
             "achievements": {
                 "total": 41,
@@ -423,7 +423,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Penggunaan bahasa\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Choices Matter",
+                "Adventure",
+                "Story Rich",
+                "Visual Novel",
+                "Point & Click",
+                "Medieval",
+                "Indie",
+                "Interactive Fiction",
+                "Casual",
+                "Based On A Novel",
+                "Atmospheric",
+                "Singleplayer",
+                "Historical",
+                "Great Soundtrack",
+                "Violent",
+                "Female Protagonist",
+                "Hand-drawn",
+                "Choose Your Own Adventure",
+                "RPG",
+                "2D"
+            ]
         }
     }
 }

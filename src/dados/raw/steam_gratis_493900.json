@@ -27,11 +27,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 6666,
+                    "total_positive": 6667,
                     "total_negative": 575,
-                    "total_reviews": 7241
+                    "total_reviews": 7242
                 },
-                "total_matching": 10,
+                "total_matching": 11,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493900/header.jpg?t=1730285250",
@@ -59,10 +59,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 13900,
-                "final": 13900,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 139,00"
+                "final": 2780,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 139,00",
+                "final_formatted": "R$ 27,80"
             },
             "packages": [
                 190971
@@ -79,13 +79,13 @@
                     "subs": [
                         {
                             "packageid": 190971,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Dungeons 3 - R$ 139,00",
+                            "option_text": "Dungeons 3 - <span class=\"discount_original_price\">R$ 139,00</span> R$ 27,80",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 13900
+                            "price_in_cents_with_discount": 2780
                         }
                     ]
                 }
@@ -397,7 +397,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan\nInteraksi Daring"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Strategy",
+                "Villain Protagonist",
+                "Base-Building",
+                "Simulation",
+                "RTS",
+                "God Game",
+                "Management",
+                "Female Protagonist",
+                "Comedy",
+                "Multiplayer",
+                "Economy",
+                "Funny",
+                "Singleplayer",
+                "Dark Fantasy",
+                "Dark Humor",
+                "Online Co-Op",
+                "Co-op Campaign",
+                "Horror",
+                "Real Time Tactics",
+                "Isometric"
+            ]
         }
     }
 }

@@ -51,5 +51,68 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Historical",
+            "slug": "historical"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic"
+        },
+        {
+            "name": "Post-apocalyptic",
+            "slug": "post-apocalyptic"
+        },
+        {
+            "name": "CRPG",
+            "slug": "crpg"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game"
+        }
+    ]
 }

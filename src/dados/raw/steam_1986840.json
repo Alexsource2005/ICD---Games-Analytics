@@ -20,40 +20,47 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1282,
+                    "total_positive": 1283,
                     "total_negative": 81,
-                    "total_reviews": 1363
+                    "total_reviews": 1364
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237358269",
+                        "recommendationid": "238694782",
                         "author": {
-                            "steamid": "76561199097272641",
-                            "num_reviews": 73,
-                            "playtime_forever": 172,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 172,
-                            "last_played": 1791627681
+                            "steamid": "76561199190701646",
+                            "num_reviews": 3,
+                            "playtime_forever": 1865,
+                            "playtime_last_two_weeks": 93,
+                            "playtime_at_review": 1844,
+                            "last_played": 1793125906
                         },
                         "language": "english",
-                        "review": "It gets repetetive very fast, and in the end it's just pretty borring game where you only spam one button to grind money",
-                        "timestamp_created": 1791627758,
-                        "timestamp_updated": 1791627758,
-                        "voted_up": false,
+                        "review": "This game is great, and The Mechanist section is such an improvement over the Dead Forest section...\r\n\r\nBUT HOW DO I UNLOCK THE \"HAPPIEST DAY\" ACHIEVEMENT?!\r\n\r\nDUDE, I'VE BEEN TRYING FOR 30 HOURS NOW, AND NOTHING, NOTHING, AND NOTHING!!!\r\n\r\nAside from that, great game!",
+                        "timestamp_created": 1793125522,
+                        "timestamp_updated": 1793125522,
+                        "voted_up": true,
                         "votes_up": 1,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5109753012657166,
+                        "weighted_vote_score": 0.523809552192688,
                         "comment_count": 0,
-                        "steam_purchase": false,
-                        "received_for_free": true,
+                        "steam_purchase": true,
+                        "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 7840HS w/ Radeon 780M Graphics     ",
+                            "adapter_description": "NVIDIA GeForce RTX 4050 Laptop GPU",
+                            "system_ram": "32094",
+                            "vram_size": 5920
+                        }
                     }
                 ],
-                "cursor": "AoIFQFZx88AAAAB9y7mJBw==",
+                "cursor": "AoIFQFZhheAAAAB+l8aOBw==",
                 "day_range_used": 30,
-                "total_matching": 10
+                "total_matching": 9
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986840/7e87fc84a2060c1a2783538ac0d95e6e6a0dc1bd/header.jpg?t=1782494624",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986840/3eaa2b7af7c1fd35f060ae43769664548da629ad/capsule_231x87.jpg?t=1782494624",
@@ -73,10 +80,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1089,
-                "final": 1089,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 10,89"
+                "final": 816,
+                "discount_percent": 25,
+                "initial_formatted": "R$ 10,89",
+                "final_formatted": "R$ 8,16"
             },
             "packages": [
                 717400
@@ -93,13 +100,13 @@
                     "subs": [
                         {
                             "packageid": 717400,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -25%",
                             "percent_savings": 0,
-                            "option_text": "POPGOES Arcade - R$ 10,89",
+                            "option_text": "POPGOES Arcade - <span class=\"discount_original_price\">R$ 10,89</span> R$ 8,16",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1089
+                            "price_in_cents_with_discount": 816
                         }
                     ]
                 }
@@ -201,7 +208,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1456
+                "total": 1457
             },
             "achievements": {
                 "total": 50,
@@ -327,7 +334,22 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "RPG",
+                "Horror",
+                "Singleplayer",
+                "Pixel Graphics",
+                "Action RPG",
+                "Exploration",
+                "Indie",
+                "Arcade",
+                "2D",
+                "Great Soundtrack",
+                "Robots",
+                "Adventure",
+                "Funny"
+            ]
         }
     }
 }

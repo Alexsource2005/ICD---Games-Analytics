@@ -92,5 +92,88 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Survival",
+            "slug": "survival"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "Survival",
+            "slug": "survival"
+        },
+        {
+            "name": "Resource Management",
+            "slug": "resource-management"
+        },
+        {
+            "name": "Real-Time",
+            "slug": "real-time"
+        },
+        {
+            "name": "War",
+            "slug": "war"
+        },
+        {
+            "name": "Crafting",
+            "slug": "crafting"
+        },
+        {
+            "name": "Base Building",
+            "slug": "base-building"
+        },
+        {
+            "name": "Emotional",
+            "slug": "emotional"
+        },
+        {
+            "name": "Post-apocalyptic",
+            "slug": "post-apocalyptic"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Psychological",
+            "slug": "psychological"
+        }
+    ]
 }

@@ -79,5 +79,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Narrative",
+            "slug": "narrative"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        },
+        {
+            "name": "Cartoony",
+            "slug": "cartoony"
+        },
+        {
+            "name": "Narrative",
+            "slug": "narrative"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game"
+        },
+        {
+            "name": "Deckbuilding",
+            "slug": "deckbuilding"
+        },
+        {
+            "name": "Tabletop",
+            "slug": "tabletop"
+        }
+    ]
 }

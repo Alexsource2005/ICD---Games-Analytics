@@ -61,17 +61,85 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1807870657"
     },
     "price": {
-        "final": "$5.99",
-        "base": "$39.99",
+        "final": "R$ 11,29",
+        "base": "R$ 75,49",
         "discount": "-85%",
         "finalMoney": {
-            "amount": "5.99",
-            "currency": "USD",
-            "discount": "34.00"
+            "amount": "11.29",
+            "currency": "BRL",
+            "discount": "64.20"
         },
         "baseMoney": {
-            "amount": "39.99",
-            "currency": "USD"
+            "amount": "75.49",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Nature",
+            "slug": "nature"
+        },
+        {
+            "name": "Underwater",
+            "slug": "underwater"
+        }
+    ]
 }

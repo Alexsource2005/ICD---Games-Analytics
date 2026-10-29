@@ -38,6 +38,24 @@ def limpar_nome_jogo(nome):
   nome_limpo = re.sub(r"[^\w\s\-\']", "", nome_limpo)
   return nome_limpo.strip()
 
+def buscar_tags_steamspy(app_id, max_tentativas=3):
+  """Busca as tags da comunidade no SteamSpy."""
+  url = f"https://steamspy.com/api.php?request=appdetails&appid={app_id}"
+
+  for tentativa in range(1, max_tentativas + 1):
+    try:
+      resp = requests.get(url, headers=headers, timeout=10)
+      if resp.status_code == 200:
+        dados = resp.json()
+        tags_dict = dados.get("tags", {})
+        if isinstance(tags_dict, dict):
+          return list(tags_dict.keys())
+    except Exception:
+      if tentativa < max_tentativas:
+        time.sleep(2)
+
+  return []
+
 def buscar_reviews(app_id, max_tentativas=3):
   """Busca o resumo das avaliações pelo novo endpoint da Steam"""
   url_reviews = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
@@ -170,6 +188,7 @@ for indice, nome in enumerate(nomes_jogos, start=1):
     chave_app = str(app_id)
     detalhes_json = buscar_detalhes(app_id)
     dados_reviews = buscar_reviews(app_id)
+    tags_steamspy = buscar_tags_steamspy(app_id)
 
     if (isinstance(detalhes_json, dict) and chave_app in detalhes_json and isinstance(detalhes_json[chave_app], dict)):
       app_data = detalhes_json[chave_app]
@@ -181,6 +200,8 @@ for indice, nome in enumerate(nomes_jogos, start=1):
           print(f"[Reviews] Resumo incorporado: {resumo.get('total_reviews', 'N/D')} avaliações.")
         else:
           print(f"[Reviews] Não foi possível obter as avaliações para o jogo {app_id}.")
+
+        app_data["data"]["steamspy_tags"] = tags_steamspy
 
         caminho_saida = f"dados/raw/steam_gratis_{app_id}.json"
         with open(caminho_saida, "w", encoding="utf-8") as f:
@@ -198,5 +219,3 @@ for indice, nome in enumerate(nomes_jogos, start=1):
 
   time.sleep(1)
       
-      
-    

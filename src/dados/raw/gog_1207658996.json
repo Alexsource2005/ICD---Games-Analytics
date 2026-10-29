@@ -42,18 +42,77 @@
     },
     "dlcs": [],
     "price": {
-        "final": "R$ 2,05",
+        "final": "R$ 20,69",
         "base": "R$ 20,69",
-        "discount": "-90%",
+        "discount": null,
         "finalMoney": {
-            "amount": "2.05",
+            "amount": "20.69",
             "currency": "BRL",
-            "discount": "18.64"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "20.69",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Good Old Game",
+            "slug": "good-old-game"
+        },
+        {
+            "name": "Crime",
+            "slug": "crime"
+        }
+    ]
 }

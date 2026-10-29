@@ -90,5 +90,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Post-apocalyptic",
+            "slug": "post-apocalyptic"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Supernatural",
+            "slug": "supernatural"
+        },
+        {
+            "name": "Superhero",
+            "slug": "superhero"
+        }
+    ]
 }

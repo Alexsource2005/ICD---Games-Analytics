@@ -68,5 +68,72 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Combat",
+            "slug": "combat"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Combat",
+            "slug": "combat"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania"
+        },
+        {
+            "name": "Robots",
+            "slug": "robots"
+        },
+        {
+            "name": "Beat 'em up",
+            "slug": "beat-em-up"
+        },
+        {
+            "name": "LevelEditor",
+            "slug": "leveleditor"
+        },
+        {
+            "name": "Superhero",
+            "slug": "superhero"
+        }
+    ]
 }

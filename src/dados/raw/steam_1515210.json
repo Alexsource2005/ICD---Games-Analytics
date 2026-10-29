@@ -19,9 +19,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 4321,
-                    "total_negative": 241,
-                    "total_reviews": 4562
+                    "total_positive": 4327,
+                    "total_negative": 240,
+                    "total_reviews": 4567
                 },
                 "reviews": [
                     {
@@ -52,7 +52,7 @@
                 ],
                 "cursor": "AoIFQFZL/GAAAAB8i+2LBw==",
                 "day_range_used": 30,
-                "total_matching": 32
+                "total_matching": 33
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg?t=1740070156",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/capsule_231x87.jpg?t=1740070156",
@@ -80,10 +80,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2049,
-                "final": 2049,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 20,49"
+                "final": 1147,
+                "discount_percent": 44,
+                "initial_formatted": "R$ 20,49",
+                "final_formatted": "R$ 11,47"
             },
             "packages": [
                 534077
@@ -100,13 +100,13 @@
                     "subs": [
                         {
                             "packageid": 534077,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -44%",
                             "percent_savings": 0,
-                            "option_text": "The Past Within - R$ 20,49",
+                            "option_text": "The Past Within - <span class=\"discount_original_price\">R$ 20,49</span> R$ 11,47",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2049
+                            "price_in_cents_with_discount": 1147
                         }
                     ]
                 }
@@ -237,7 +237,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14758
+                "total": 14770
             },
             "achievements": {
                 "total": 24,
@@ -361,7 +361,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan\nInteraksi Daring"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Co-op",
+                "Puzzle",
+                "Online Co-Op",
+                "Multiplayer",
+                "Escape Room",
+                "Horror",
+                "Mystery",
+                "Point & Click",
+                "Adventure",
+                "Indie",
+                "Psychological Horror",
+                "Local Co-Op",
+                "Story Rich",
+                "Atmospheric",
+                "Local Multiplayer",
+                "Asynchronous Multiplayer",
+                "Thriller",
+                "2D",
+                "Surreal",
+                "3D"
+            ]
         }
     }
 }

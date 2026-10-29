@@ -1,0 +1,167 @@
+{
+    "id": 1359844055,
+    "title": "shapez",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/shapez",
+    "slug": "shapez",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "cz": "český",
+        "da": "Dansk",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fi": "suomi",
+        "fr": "français",
+        "hu": "magyar",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "nl": "nederlands",
+        "no": "norsk",
+        "pl": "polski",
+        "pt": "português",
+        "ro": "română",
+        "ru": "русский",
+        "sv": "svenska",
+        "tr": "Türkçe",
+        "uk": "yкраїнська",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/shapez",
+        "product_card": "https://www.gog.com/game/shapez",
+        "support": "https://www.gog.com/support/shapez",
+        "forum": "https://www.gog.com/forum/shapez"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2022-07-25T14:45:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/bb2d28ebfb4ff07c0994f111aad5fd315e8fc118e37899201d4c178ebcaedab4.jpg",
+        "logo": "//images-3.gog-statics.com/7f6deec0c888664806e3eaebb64795126de957806ae185a010ad901d9780d0d7_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/7f6deec0c888664806e3eaebb64795126de957806ae185a010ad901d9780d0d7_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/33d2d463073a5e76dc3602a7ce1675bedc574633427416f57f5a82efa72b1a38_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/33d2d463073a5e76dc3602a7ce1675bedc574633427416f57f5a82efa72b1a38_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/33d2d463073a5e76dc3602a7ce1675bedc574633427416f57f5a82efa72b1a38_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/33d2d463073a5e76dc3602a7ce1675bedc574633427416f57f5a82efa72b1a38_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/33d2d463073a5e76dc3602a7ce1675bedc574633427416f57f5a82efa72b1a38.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1454419063,
+                "link": "https://api.gog.com/products/1454419063",
+                "expanded_link": "https://api.gog.com/products/1454419063"
+            },
+            {
+                "id": 1730922121,
+                "link": "https://api.gog.com/products/1730922121",
+                "expanded_link": "https://api.gog.com/products/1730922121"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1454419063,1730922121",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1454419063,1730922121"
+    },
+    "price": {
+        "final": "R$ 1,99",
+        "base": "R$ 19,99",
+        "discount": "-90%",
+        "finalMoney": {
+            "amount": "1.99",
+            "currency": "BRL",
+            "discount": "18.00"
+        },
+        "baseMoney": {
+            "amount": "19.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Building",
+            "slug": "building"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox"
+        },
+        {
+            "name": "Resource Management",
+            "slug": "resource-management"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        },
+        {
+            "name": "Building",
+            "slug": "building"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Crafting",
+            "slug": "crafting"
+        },
+        {
+            "name": "Base Building",
+            "slug": "base-building"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        }
+    ]
+}

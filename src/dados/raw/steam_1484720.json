@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 4457,
+                    "total_positive": 4464,
                     "total_negative": 274,
-                    "total_reviews": 4731
+                    "total_reviews": 4738
                 },
                 "reviews": [
                     {
@@ -41,9 +41,9 @@
                         "timestamp_created": 1791486557,
                         "timestamp_updated": 1791486645,
                         "voted_up": true,
-                        "votes_up": 21,
+                        "votes_up": 24,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.7198606133460999,
+                        "weighted_vote_score": 0.7337143421173096,
                         "comment_count": 8,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -52,9 +52,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWmlAAAAAB8m/qIBw==",
+                "cursor": "AoIFQFWU2KAAAAB8m/qIBw==",
                 "day_range_used": 30,
-                "total_matching": 29
+                "total_matching": 32
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1484720/header.jpg?t=1783604726",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1484720/capsule_231x87.jpg?t=1783604726",
@@ -81,10 +81,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1799,
-                "final": 593,
-                "discount_percent": 67,
-                "initial_formatted": "R$ 17,99",
-                "final_formatted": "R$ 5,93"
+                "final": 1799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 17,99"
             },
             "packages": [
                 523148
@@ -101,13 +101,13 @@
                     "subs": [
                         {
                             "packageid": 523148,
-                            "percent_savings_text": " -67%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Dead Estate - <span class=\"discount_original_price\">R$ 17,99</span> R$ 5,93",
+                            "option_text": "Dead Estate - R$ 17,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 593
+                            "price_in_cents_with_discount": 1799
                         }
                     ]
                 }
@@ -260,7 +260,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5821
+                "total": 5835
             },
             "achievements": {
                 "total": 200,
@@ -387,7 +387,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Action Roguelike",
+                "Twin Stick Shooter",
+                "Horror",
+                "Shoot 'Em Up",
+                "Replay Value",
+                "Rogue-like",
+                "Difficult",
+                "Dungeon Crawler",
+                "Perma Death",
+                "Action",
+                "Shooter",
+                "Isometric",
+                "Demons",
+                "Pixel Graphics",
+                "Zombies",
+                "Sexual Content",
+                "Procedural Generation",
+                "Gore",
+                "Singleplayer",
+                "Anime"
+            ]
         }
     }
 }

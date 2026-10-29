@@ -17,9 +17,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 19405,
-                    "total_negative": 1746,
-                    "total_reviews": 21151
+                    "total_positive": 19406,
+                    "total_negative": 1749,
+                    "total_reviews": 21155
                 },
                 "reviews": [
                     {
@@ -37,7 +37,7 @@
                         "timestamp_created": 1791009386,
                         "timestamp_updated": 1791009443,
                         "voted_up": true,
-                        "votes_up": 5,
+                        "votes_up": 6,
                         "votes_funny": 0,
                         "weighted_vote_score": 0.6000000238418579,
                         "comment_count": 0,
@@ -50,7 +50,7 @@
                 ],
                 "cursor": "AoIFQFYAAAAAAAB/+pSHBw==",
                 "day_range_used": 30,
-                "total_matching": 88
+                "total_matching": 90
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg?t=1761819450",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/capsule_231x87.jpg?t=1761819450",
@@ -80,14 +80,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3649,
-                "final": 3649,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 36,49"
+                "final": 364,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 36,49",
+                "final_formatted": "R$ 3,64"
             },
             "packages": [
-                374631,
-                11010
+                11010,
+                374631
             ],
             "package_groups": [
                 {
@@ -100,6 +100,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 11010,
+                            "percent_savings_text": " -90%",
+                            "percent_savings": 0,
+                            "option_text": "Limbo - <span class=\"discount_original_price\">R$ 36,49</span> R$ 3,64",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 364
+                        },
+                        {
                             "packageid": 374631,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -108,16 +118,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 2099
-                        },
-                        {
-                            "packageid": 11010,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Limbo - R$ 36,49",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 3649
                         }
                     ]
                 }
@@ -277,7 +277,7 @@
                 }
             ],
             "recommendations": {
-                "total": 40913
+                "total": 40929
             },
             "achievements": {
                 "total": 13,
@@ -406,7 +406,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Puzzle-Platformer",
+                "Indie",
+                "Puzzle",
+                "Platformer",
+                "Dark",
+                "Atmospheric",
+                "2D",
+                "Adventure",
+                "Singleplayer",
+                "Horror",
+                "Surreal",
+                "Short",
+                "Side Scroller",
+                "Difficult",
+                "Minimalist",
+                "Physics",
+                "Action",
+                "Cinematic",
+                "Casual",
+                "Controller"
+            ]
         }
     }
 }

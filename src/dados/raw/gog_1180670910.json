@@ -71,18 +71,97 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1203320424,1383417467,1486490536"
     },
     "price": {
-        "final": "R$ 52,25",
+        "final": "R$ 209,00",
         "base": "R$ 209,00",
-        "discount": "-75%",
+        "discount": null,
         "finalMoney": {
-            "amount": "52.25",
+            "amount": "209.00",
             "currency": "BRL",
-            "discount": "156.75"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "209.00",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Realistic",
+            "slug": "realistic"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk"
+        },
+        {
+            "name": "Supernatural",
+            "slug": "supernatural"
+        },
+        {
+            "name": "Good Old Game",
+            "slug": "good-old-game"
+        }
+    ]
 }

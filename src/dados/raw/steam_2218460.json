@@ -19,29 +19,29 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 307,
+                    "total_positive": 309,
                     "total_negative": 257,
-                    "total_reviews": 564
+                    "total_reviews": 566
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236323841",
+                        "recommendationid": "238402498",
                         "author": {
-                            "steamid": "76561198044382331",
-                            "num_reviews": 11,
-                            "playtime_forever": 83,
+                            "steamid": "76561198882445389",
+                            "num_reviews": 4,
+                            "playtime_forever": 125,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 83,
-                            "last_played": 1790514438
+                            "playtime_at_review": 125,
+                            "last_played": 1780133984
                         },
                         "language": "english",
-                        "review": "Pros: \nDecent platformer\nRuns well\nHas Decent Graphics\nCheckpoints are well placed\nNot too difficult Prob Takes 2 Hours on Average\n\nCons: \nCan't change keybinds\nCamera sensitivity settings are kinda bad\nNo way to save game and continue later on, has to be done in 1 sitting\nJumping sometimes doesn't register\nFloating rocks & trees have terrible hitboxes you have to get lucky not to just slide off them instead of vaulting\nLaunching platforms such as Beds and Tires are inconsistent, all momentum is lost when you are on launching platform, so your direction only depends on what pixel of the Bed/Tire you step on.\n\nOverall not bad, decent timewaster 5/10",
-                        "timestamp_created": 1790515431,
-                        "timestamp_updated": 1790515431,
+                        "review": "pretty fun game to play. you play as a randomised bunny that completes a parkour course. you fall.... hundreds of times before the third checkpoint but thats the point of the game. and if you dont like it then cry about it we all know you just have the attention span of a 4yr old ipad kid using 4 screens at once. it runs OK and its funny to play with friends(just not the ones with anger issues)",
+                        "timestamp_created": 1792785831,
+                        "timestamp_updated": 1792785831,
                         "voted_up": true,
-                        "votes_up": 6,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5849056243896484,
+                        "weighted_vote_score": 0.523809552192688,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -49,15 +49,15 @@
                         "primarily_steam_deck": false,
                         "refunded": false,
                         "hardware": {
-                            "os": "Windows 10",
-                            "cpu_name": "AMD Ryzen 7 7800X3D 8-Core Processor           ",
-                            "adapter_description": "NVIDIA GeForce RTX 3060 Ti",
-                            "system_ram": "15988",
-                            "vram_size": 8024
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 5 7600 6-Core Processor              ",
+                            "adapter_description": "AMD Radeon RX 6600",
+                            "system_ram": "15553",
+                            "vram_size": 8146
                         }
                     }
                 ],
-                "cursor": "AoIFQFYTUgAAAABxwMCFBw==",
+                "cursor": "AoIFQFZhheAAAAByvLeNBw==",
                 "day_range_used": 30,
                 "total_matching": 21
             },
@@ -86,10 +86,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 16,99"
+                "final": 679,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 16,99",
+                "final_formatted": "R$ 6,79"
             },
             "packages": [
                 794999,
@@ -107,13 +107,13 @@
                     "subs": [
                         {
                             "packageid": 794999,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -60%",
                             "percent_savings": 0,
-                            "option_text": "Bunny Guys! - R$ 16,99",
+                            "option_text": "Bunny Guys! - <span class=\"discount_original_price\">R$ 16,99</span> R$ 6,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 679
                         },
                         {
                             "packageid": 1676451,
@@ -468,7 +468,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Multiplayer",
+                "PvP",
+                "Competitive",
+                "Fast-Paced",
+                "Arcade",
+                "Parkour",
+                "Platformer",
+                "Precision Platformer",
+                "Metroidvania",
+                "3D",
+                "Cute",
+                "Third Person",
+                "Controller",
+                "Funny",
+                "Action",
+                "Action-Adventure",
+                "Adventure",
+                "Atmospheric",
+                "Family Friendly",
+                "3D Platformer"
+            ]
         }
     }
 }

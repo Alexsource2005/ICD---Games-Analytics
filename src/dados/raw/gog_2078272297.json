@@ -57,17 +57,101 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1322407652"
     },
     "price": {
-        "final": "$2.99",
-        "base": "$14.99",
+        "final": "R$ 9,39",
+        "base": "R$ 46,99",
         "discount": "-80%",
         "finalMoney": {
-            "amount": "2.99",
-            "currency": "USD",
-            "discount": "12.00"
+            "amount": "9.39",
+            "currency": "BRL",
+            "discount": "37.60"
         },
         "baseMoney": {
-            "amount": "14.99",
-            "currency": "USD"
+            "amount": "46.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Puzzle Platformer",
+            "slug": "puzzle-platformer"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        },
+        {
+            "name": "Cozy",
+            "slug": "cozy"
+        }
+    ]
 }
