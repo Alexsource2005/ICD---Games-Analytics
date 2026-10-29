@@ -222,17 +222,59 @@ def normalizar_nome(nome):
     return re.sub(r"[^\w\s]", "", nome).lower().strip()
 
 def formatar_data(data):
-    if not data:
+    """padroniza qualquer data de lançamento para o formato dd/mm/aaaa"""
+    if not data or not isinstance(data, str) or pd.isna(data):
+        return None
+    texto = data.strip().lower()
+
+    # Ignora status temporários e previsões não definidas
+    if any(p in texto for p in ["breve", "anunciar", "coming soon", "to be announced", "trimestre"]):
         return None
 
-    if isinstance(data, str) and re.match(r"^\d{4}-\d{2}-\d{2}", data):
-        data_convertida = pd.to_datetime(data, errors="coerce", utc=True)
-    else:
-        data_convertida = pd.to_datetime(data, errors="coerce", dayfirst=True)
+    # 1. já está no formato dd/mm/aaaa
+    if re.fullmatch(r"\d{2}/\d{2}/\d{4}", texto):
+        return texto.upper()
 
-    if pd.notna(data_convertida):
-        return data_convertida.strftime("%d/%m/%Y")
-    return data
+    # 2. formato ISO (AAAA-MM-DD)
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}.*", texto):
+        d_conv = pd.to_datetime(data, errors="coerce", utc=True)
+        if pd.notna(d_conv):
+            return d_conv.strftime("%d/%m/%Y")
+
+    # 3. Formato numérico com barras ou pontos (1/8/2017 ou 01/08/17)
+    match_slash = re.fullmatch(r"(\d{1,2})[\/\.-](\d{1,2})[\/\.-](\d{2,4})", texto)
+    if match_slash:
+        d, m, y = match_slash.groups()
+        y = f"20{y}" if len(y) == 2 else y
+        return f"{int(d):02d}/{int(m):02d}/{y}"
+
+    # 4. Formato por extenso com mes abreviado/completo
+    m_ext = re.search(r"(\d{1,2})\s*(?:\bde\s+)?([a-zç]+)\.?\s*(?:\bde\s+)?,?\s*(20\d{2}|19\d{2})", texto)
+    if m_ext:
+        dia = int(m_ext.group(1))
+        mes_str = m_ext.group(2)
+        ano = m_ext.group(3)
+        if mes_str in MESES:
+            return f"{dia:02d}/{MESES[mes_str]:02d}/{ano}"
+
+    # 5. Formato com mês antes do dia
+    m_ext_rev = re.search(r"([a-zç]+)\.?\s*(\d{1,2})\s*,?\s*(20\d{2}|19\d{2})", texto)
+    if m_ext_rev:
+        mes_str = m_ext_rev.group(1)
+        dia = int(m_ext_rev.group(2))
+        ano = m_ext_rev.group(3)
+        if mes_str in MESES:
+            return f"{dia:02d}/{MESES[mes_str]:02d}/{ano}"
+
+    # Fallback seguro via pandas
+    try:
+        d_conv = pd.to_datetime(data, errors="coerce", dayfirst=True)
+        if pd.notna(d_conv):
+            return d_conv.strftime("%d/%m/%Y")
+    except Exception:
+        pass
+
+    return None
 
 print("Processando e cruzando ficheiros JSON de todas as três plataformas...")
 
@@ -387,6 +429,19 @@ for chave, reg in jogos_consolidados.items():
     #Data de lançamento unificada e padronizada
     lancamento = (reg["steam_lancamento"] or reg["epic_lancamento"] or reg["gog_lancamento"])
     lancamento = formatar_data(lancamento)
+
+    # Excluir da tabela jogos que ainda não foram lançados
+    if not lancamento:
+        continue
+
+    # Excluir da tabela jogos que não possuem preço válido em nenhuma das 3 lojas
+    preco_steam = reg["steam_preco"]
+    preco_epic = reg["epic_preco"]
+    preco_gog = reg["gog_preco"]
+
+    sem_preco = {"N/A", "Preço em BRL indisponível", None}
+    if preco_steam in sem_preco and preco_epic in sem_preco and preco_gog in sem_preco:
+        continue
 
     linhas_tabela.append({
         "Jogo": reg["nome_original"],
