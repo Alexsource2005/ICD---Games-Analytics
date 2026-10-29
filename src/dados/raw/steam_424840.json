@@ -28,9 +28,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 33765,
-                    "total_negative": 2087,
-                    "total_reviews": 35852
+                    "total_positive": 33768,
+                    "total_negative": 2089,
+                    "total_reviews": 35857
                 },
                 "reviews": [
                     {
@@ -61,7 +61,7 @@
                 ],
                 "cursor": "AoIFQFZVVYAAAAB4rcWJBw==",
                 "day_range_used": 30,
-                "total_matching": 85
+                "total_matching": 81
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/2bdbdbe316dba829ab67ea61528ab87a156fc2ed/capsule_231x87.jpg?t=1773135169",
@@ -88,15 +88,15 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 8490,
-                "final": 8490,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 84,90"
+                "initial": 13050,
+                "final": 3262,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 130,50",
+                "final_formatted": "R$ 32,62"
             },
             "packages": [
-                87193,
-                182771
+                182771,
+                87193
             ],
             "package_groups": [
                 {
@@ -109,6 +109,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 182771,
+                            "percent_savings_text": " -75%",
+                            "percent_savings": 0,
+                            "option_text": "Little Nightmares Complete Edition - <span class=\"discount_original_price\">R$ 130,50</span> R$ 32,62",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3262
+                        },
+                        {
                             "packageid": 87193,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -117,16 +127,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 8490
-                        },
-                        {
-                            "packageid": 182771,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Little Nightmares Complete Edition - R$ 130,50",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 13050
                         }
                     ]
                 }
@@ -250,10 +250,28 @@
                     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/424840/99864/a027b8bf067c3d43e541390d300fcfc4a14389e9/1750529306/dash_h264.mpd?t=1493296044",
                     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/424840/99864/a027b8bf067c3d43e541390d300fcfc4a14389e9/1750529306/hls_264_master.m3u8?t=1493296044",
                     "highlight": true
+                },
+                {
+                    "id": 256678037,
+                    "name": "9 Deaths of Six UNRATED",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678037/movie.293x165.jpg?t=1484668783",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/424840/86896/b3bbb54811d147c17f29bbb942fa0f8f43958551/1750529209/dash_av1.mpd?t=1484668783",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/424840/86896/b3bbb54811d147c17f29bbb942fa0f8f43958551/1750529209/dash_h264.mpd?t=1484668783",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/424840/86896/b3bbb54811d147c17f29bbb942fa0f8f43958551/1750529209/hls_264_master.m3u8?t=1484668783",
+                    "highlight": true
+                },
+                {
+                    "id": 256668435,
+                    "name": "Deep Below the Waves UNRATED",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256668435/movie.293x165.jpg?t=1484705360",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/424840/67636/4d0c6a662f500ef8569a7a3672be3729de125b4d/1750529199/dash_av1.mpd?t=1484705360",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/424840/67636/4d0c6a662f500ef8569a7a3672be3729de125b4d/1750529199/dash_h264.mpd?t=1484705360",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/424840/67636/4d0c6a662f500ef8569a7a3672be3729de125b4d/1750529199/hls_264_master.m3u8?t=1484705360",
+                    "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 52381
+                "total": 52391
             },
             "achievements": {
                 "total": 22,
@@ -407,7 +425,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Selbstmord\nAlkohol / Tabak"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Atmospheric",
+                "Adventure",
+                "Singleplayer",
+                "Puzzle-Platformer",
+                "Dark",
+                "Puzzle",
+                "Indie",
+                "Story Rich",
+                "Stealth",
+                "Platformer",
+                "Psychological Horror",
+                "Great Soundtrack",
+                "2.5D",
+                "Third Person",
+                "Survival Horror",
+                "Female Protagonist",
+                "Short",
+                "Action",
+                "Strategy"
+            ]
         }
     }
 }

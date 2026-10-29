@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 10145,
-                    "total_negative": 270,
-                    "total_reviews": 10415
+                    "total_positive": 10150,
+                    "total_negative": 271,
+                    "total_reviews": 10421
                 },
                 "reviews": [
                     {
@@ -31,7 +31,7 @@
                             "steamid": "76561199479084086",
                             "num_reviews": 2,
                             "playtime_forever": 1153,
-                            "playtime_last_two_weeks": 393,
+                            "playtime_last_two_weeks": 1,
                             "playtime_at_review": 1036,
                             "last_played": 1792504008
                         },
@@ -40,9 +40,9 @@
                         "timestamp_created": 1792010840,
                         "timestamp_updated": 1792010840,
                         "voted_up": true,
-                        "votes_up": 10,
-                        "votes_funny": 3,
-                        "weighted_vote_score": 0.6273291707038879,
+                        "votes_up": 14,
+                        "votes_funny": 4,
+                        "weighted_vote_score": 0.6726422309875488,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -51,9 +51,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXdBOAAAAB0ye6KBw==",
+                "cursor": "AoIFQFWjBKAAAAB0ye6KBw==",
                 "day_range_used": 30,
-                "total_matching": 140
+                "total_matching": 133
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/header.jpg?t=1787576437",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/capsule_231x87.jpg?t=1787576437",
@@ -78,10 +78,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1049,
-                "final": 1049,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 10,49"
+                "final": 524,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 10,49",
+                "final_formatted": "R$ 5,24"
             },
             "packages": [
                 133180
@@ -98,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 133180,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Sally Face, Episode One: Strange Neighbors - R$ 10,49",
+                            "option_text": "Sally Face, Episode One: Strange Neighbors - <span class=\"discount_original_price\">R$ 10,49</span> R$ 5,24",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1049
+                            "price_in_cents_with_discount": 524
                         }
                     ]
                 }
@@ -338,7 +338,7 @@
                 }
             ],
             "recommendations": {
-                "total": 28087
+                "total": 28136
             },
             "achievements": {
                 "total": 35,
@@ -462,7 +462,29 @@
                     "rating": "ma15",
                     "descriptors": "Strong Violence\r\nStrong Themes\r\nStrong Nudity"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Story Rich",
+                "Psychological Horror",
+                "Indie",
+                "Horror",
+                "Dark",
+                "Puzzle",
+                "Adventure",
+                "Mystery",
+                "Atmospheric",
+                "Singleplayer",
+                "Point & Click",
+                "Hand-drawn",
+                "Narrative",
+                "2D",
+                "Supernatural",
+                "Emotional",
+                "Interactive Fiction",
+                "Demons",
+                "Dark Humor",
+                "Casual"
+            ]
         }
     }
 }

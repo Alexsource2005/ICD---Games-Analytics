@@ -52,10 +52,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2489,
-                "final": 622,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 24,89",
-                "final_formatted": "R$ 6,22"
+                "final": 2489,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 24,89"
             },
             "packages": [
                 387949
@@ -72,13 +72,13 @@
                     "subs": [
                         {
                             "packageid": 387949,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Monster Prom 2: Monster Camp - <span class=\"discount_original_price\">R$ 24,89</span> R$ 6,22",
+                            "option_text": "Monster Prom 2: Monster Camp - R$ 24,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 622
+                            "price_in_cents_with_discount": 2489
                         }
                     ]
                 }
@@ -302,7 +302,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4998
+                "total": 5002
             },
             "achievements": {
                 "total": 49,
@@ -440,23 +440,23 @@
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236135833",
+                        "recommendationid": "238390470",
                         "author": {
-                            "steamid": "76561198634245038",
-                            "num_reviews": 1,
-                            "playtime_forever": 398,
-                            "playtime_last_two_weeks": 82,
-                            "playtime_at_review": 168,
-                            "last_played": 1792456295
+                            "steamid": "76561199224580192",
+                            "num_reviews": 2,
+                            "playtime_forever": 128,
+                            "playtime_last_two_weeks": 128,
+                            "playtime_at_review": 120,
+                            "last_played": 1792774868
                         },
                         "language": "english",
-                        "review": "I legit love this game so much. I just got steam just for this game. It brought me back to my roots fr.",
-                        "timestamp_created": 1790329267,
-                        "timestamp_updated": 1790329267,
-                        "voted_up": true,
-                        "votes_up": 1,
-                        "votes_funny": 1,
-                        "weighted_vote_score": 0.523809552192688,
+                        "review": "The online mode is broken, it keeps causing client timeouts even though the issue isn't with our firewall. In its current state it's literally unplayable",
+                        "timestamp_created": 1792774605,
+                        "timestamp_updated": 1792774605,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -465,10 +465,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZhheAAAAB52eSEBw==",
+                "cursor": "AoIFQFaAAAAAAAB2zLGNBw==",
                 "day_range_used": 30,
                 "total_matching": 8
-            }
+            },
+            "steamspy_tags": [
+                "Dating Sim",
+                "LGBTQ+",
+                "Comedy",
+                "Multiplayer",
+                "Indie",
+                "Multiple Endings",
+                "Online Co-Op",
+                "Visual Novel",
+                "Casual",
+                "Funny",
+                "Singleplayer",
+                "Dark Comedy",
+                "Text-Based",
+                "Romance",
+                "2D",
+                "Fantasy",
+                "Choose Your Own Adventure",
+                "Story Rich",
+                "Sequel",
+                "Simulation"
+            ]
         }
     }
 }

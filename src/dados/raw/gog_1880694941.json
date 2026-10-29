@@ -72,5 +72,32 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Real-time",
+            "slug": "realtime"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Real-Time",
+            "slug": "real-time"
+        }
+    ]
 }

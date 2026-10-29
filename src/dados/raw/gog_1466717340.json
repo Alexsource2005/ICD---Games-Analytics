@@ -63,5 +63,64 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Mature",
+            "slug": "mature"
+        },
+        {
+            "name": "Sexual Content",
+            "slug": "sexual-content"
+        },
+        {
+            "name": "Nudity",
+            "slug": "nudity"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "NSFW",
+            "slug": "nsfw"
+        },
+        {
+            "name": "Hentai",
+            "slug": "hentai"
+        },
+        {
+            "name": "Text-Based",
+            "slug": "text-based"
+        }
+    ]
 }

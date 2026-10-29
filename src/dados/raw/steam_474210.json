@@ -21,9 +21,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 768,
+                    "total_positive": 770,
                     "total_negative": 117,
-                    "total_reviews": 885
+                    "total_reviews": 887
                 },
                 "reviews": [
                     {
@@ -32,7 +32,7 @@
                             "steamid": "76561199590310145",
                             "num_reviews": 14,
                             "playtime_forever": 48,
-                            "playtime_last_two_weeks": 48,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 48,
                             "last_played": 1791769738
                         },
@@ -41,9 +41,9 @@
                         "timestamp_created": 1791769911,
                         "timestamp_updated": 1791769911,
                         "voted_up": false,
-                        "votes_up": 2,
-                        "votes_funny": 0,
-                        "weighted_vote_score": 0.5454545617103577,
+                        "votes_up": 3,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.5652173757553101,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -52,9 +52,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZF0UAAAAB6p4aKBw==",
+                "cursor": "AoIFQFYshcAAAAB6p4aKBw==",
                 "day_range_used": 30,
-                "total_matching": 3
+                "total_matching": 5
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474210/23cf93f9e31fc2c320659a34e767049b0978f90f/header.jpg?t=1789663337",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474210/77f9ef2ea49e3f1052d5e315bbb020fc56c96362/capsule_231x87.jpg?t=1789663337",
@@ -86,10 +86,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 19,99"
+                "final": 399,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 19,99",
+                "final_formatted": "R$ 3,99"
             },
             "packages": [
                 105285
@@ -106,13 +106,13 @@
                     "subs": [
                         {
                             "packageid": 105285,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Butcher - R$ 19,99",
+                            "option_text": "Butcher - <span class=\"discount_original_price\">R$ 19,99</span> R$ 3,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
@@ -242,7 +242,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1056
+                "total": 1059
             },
             "achievements": {
                 "total": 27,
@@ -371,7 +371,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nPenggunaan bahasa"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Action",
+                "Gore",
+                "Indie",
+                "Pixel Graphics",
+                "2D",
+                "Violent",
+                "Difficult",
+                "Shooter",
+                "Platformer",
+                "Dark",
+                "Adventure",
+                "Retro",
+                "Villain Protagonist",
+                "Singleplayer",
+                "Great Soundtrack",
+                "Arcade",
+                "Controller",
+                "Action-Adventure",
+                "Blood",
+                "Metroidvania"
+            ]
         }
     }
 }

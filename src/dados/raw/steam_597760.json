@@ -17,9 +17,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2698,
+                    "total_positive": 2699,
                     "total_negative": 164,
-                    "total_reviews": 2862
+                    "total_reviews": 2863
                 },
                 "reviews": [
                     {
@@ -38,7 +38,7 @@
                         "timestamp_updated": 1791490452,
                         "voted_up": true,
                         "votes_up": 2,
-                        "votes_funny": 0,
+                        "votes_funny": 2,
                         "weighted_vote_score": 0.5406360626220703,
                         "comment_count": 2,
                         "steam_purchase": true,
@@ -50,7 +50,7 @@
                 ],
                 "cursor": "AoIFQFZL/GAAAAB1wvyIBw==",
                 "day_range_used": 30,
-                "total_matching": 16
+                "total_matching": 17
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597760/header.jpg?t=1790939549",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597760/capsule_231x87.jpg?t=1790939549",
@@ -77,10 +77,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5099,
-                "final": 5099,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 50,99"
+                "final": 1784,
+                "discount_percent": 65,
+                "initial_formatted": "R$ 50,99",
+                "final_formatted": "R$ 17,84"
             },
             "packages": [
                 156867
@@ -97,13 +97,13 @@
                     "subs": [
                         {
                             "packageid": 156867,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -65%",
                             "percent_savings": 0,
-                            "option_text": "Yuppie Psycho - R$ 50,99",
+                            "option_text": "Yuppie Psycho - <span class=\"discount_original_price\">R$ 50,99</span> R$ 17,84",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5099
+                            "price_in_cents_with_discount": 1784
                         }
                     ]
                 }
@@ -264,7 +264,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8075
+                "total": 8077
             },
             "achievements": {
                 "total": 48,
@@ -396,7 +396,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Horor\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Puzzle",
+                "Pixel Graphics",
+                "Psychological Horror",
+                "Exploration",
+                "2D",
+                "Story Rich",
+                "Horror",
+                "Multiple Endings",
+                "Top-Down",
+                "Cute",
+                "Anime",
+                "Dark Humor",
+                "Choices Matter",
+                "Cyberpunk",
+                "Controller",
+                "Stealth",
+                "Adventure",
+                "Singleplayer",
+                "Survival Horror",
+                "Blood"
+            ]
         }
     }
 }

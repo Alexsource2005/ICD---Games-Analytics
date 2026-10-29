@@ -17,9 +17,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 9511,
-                    "total_negative": 533,
-                    "total_reviews": 10044
+                    "total_positive": 9514,
+                    "total_negative": 534,
+                    "total_reviews": 10048
                 },
                 "reviews": [
                     {
@@ -28,7 +28,7 @@
                             "steamid": "76561198158882541",
                             "num_reviews": 18,
                             "playtime_forever": 153,
-                            "playtime_last_two_weeks": 153,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 153,
                             "last_played": 1791831384
                         },
@@ -50,7 +50,7 @@
                 ],
                 "cursor": "AoIFQFZFNGAAAAB/1Z+KBw==",
                 "day_range_used": 30,
-                "total_matching": 39
+                "total_matching": 43
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205450/header.jpg?t=1791332191",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205450/capsule_231x87.jpg?t=1791332191",
@@ -78,10 +78,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2899,
-                "final": 579,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 28,99",
-                "final_formatted": "R$ 5,79"
+                "final": 2899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 28,99"
             },
             "packages": [
                 416276
@@ -98,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 416276,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Turnip Boy Commits Tax Evasion - <span class=\"discount_original_price\">R$ 28,99</span> R$ 5,79",
+                            "option_text": "Turnip Boy Commits Tax Evasion - R$ 28,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 579
+                            "price_in_cents_with_discount": 2899
                         }
                     ]
                 }
@@ -248,7 +248,7 @@
                 }
             ],
             "recommendations": {
-                "total": 9894
+                "total": 9903
             },
             "achievements": {
                 "total": 37,
@@ -391,7 +391,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Exploration",
+                "Puzzle",
+                "RPG",
+                "Top-Down",
+                "Funny",
+                "Cute",
+                "Psychological Horror",
+                "Story Rich",
+                "Action",
+                "Comedy",
+                "2D",
+                "Casual",
+                "Cartoony",
+                "Pixel Graphics",
+                "Crime",
+                "Adventure",
+                "Memes",
+                "Singleplayer",
+                "Indie",
+                "Great Soundtrack"
+            ]
         }
     }
 }

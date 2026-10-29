@@ -16,9 +16,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 202328,
-                    "total_negative": 10081,
-                    "total_reviews": 212409
+                    "total_positive": 202390,
+                    "total_negative": 10085,
+                    "total_reviews": 212475
                 },
                 "reviews": [
                     {
@@ -36,10 +36,10 @@
                         "timestamp_created": 1791020272,
                         "timestamp_updated": 1791020272,
                         "voted_up": true,
-                        "votes_up": 14,
+                        "votes_up": 30,
                         "votes_funny": 2,
-                        "weighted_vote_score": 0.6745051741600037,
-                        "comment_count": 5,
+                        "weighted_vote_score": 0.7562702298164368,
+                        "comment_count": 4,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
@@ -47,9 +47,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWgokAAAAB+7ZmHBw==",
+                "cursor": "AoIFQFU3+YAAAAB+7ZmHBw==",
                 "day_range_used": 30,
-                "total_matching": 664
+                "total_matching": 704
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_231x87.jpg?t=1699381053",
@@ -71,10 +71,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3799,
-                "final": 3799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 37,99"
+                "final": 759,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 37,99",
+                "final_formatted": "R$ 7,59"
             },
             "packages": [
                 28497,
@@ -92,13 +92,13 @@
                     "subs": [
                         {
                             "packageid": 28497,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "The Forest - R$ 37,99",
+                            "option_text": "The Forest - <span class=\"discount_original_price\">R$ 37,99</span> R$ 7,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3799
+                            "price_in_cents_with_discount": 759
                         },
                         {
                             "packageid": 297407,
@@ -276,7 +276,7 @@
                 }
             ],
             "recommendations": {
-                "total": 584013
+                "total": 584343
             },
             "achievements": {
                 "total": 45,
@@ -454,7 +454,29 @@
                     "use_age_gate": "0",
                     "descriptors": "High Impact Violence\nNudity\nHorror Themes\nDrug Themes"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Open World Survival Craft",
+                "Survival",
+                "Open World",
+                "Horror",
+                "Crafting",
+                "Adventure",
+                "Building",
+                "Survival Horror",
+                "First-Person",
+                "Action",
+                "Exploration",
+                "Sandbox",
+                "Singleplayer",
+                "Atmospheric",
+                "Simulation",
+                "Gore",
+                "Realistic",
+                "Indie",
+                "Zombies",
+                "Early Access"
+            ]
         }
     }
 }

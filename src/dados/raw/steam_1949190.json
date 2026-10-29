@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1049,
-                "final": 1049,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 10,49"
+                "final": 419,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 10,49",
+                "final_formatted": "R$ 4,19"
             },
             "packages": [
                 702900
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 702900,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -60%",
                             "percent_savings": 0,
-                            "option_text": "Necrosmith - R$ 10,49",
+                            "option_text": "Necrosmith - <span class=\"discount_original_price\">R$ 10,49</span> R$ 4,19",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1049
+                            "price_in_cents_with_discount": 419
                         }
                     ]
                 }
@@ -193,7 +193,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4899
+                "total": 4903
             },
             "achievements": {
                 "total": 30,
@@ -329,23 +329,23 @@
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236201045",
+                        "recommendationid": "237167893",
                         "author": {
-                            "steamid": "76561197969568307",
-                            "num_reviews": 88,
-                            "playtime_forever": 264,
+                            "steamid": "76561198024156092",
+                            "num_reviews": 84,
+                            "playtime_forever": 100,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 173,
-                            "last_played": 1790394543
+                            "playtime_at_review": 100,
+                            "last_played": 1791339210
                         },
                         "language": "english",
-                        "review": "Im gonna beat the game but boy do I hate it.\n\nVery little control, insane difficulty, necessary boring grind to even do basic thing.\n\nThe game will essentially end whenever it wants, regardless of how many dudes you have (which you cant control)\n\nVery close to being a good game but still bad. The sequel is slightly better but still confusing and unnecessarily difficult.\n\nWould give it a neutral review if I could because its not terrible. Its just frustrating and poorly designed?",
-                        "timestamp_created": 1790389240,
-                        "timestamp_updated": 1790389240,
+                        "review": "Tedious and finnicky, the sequel smooths out a lot of the issues with this game.",
+                        "timestamp_created": 1791415833,
+                        "timestamp_updated": 1791415833,
                         "voted_up": false,
-                        "votes_up": 2,
+                        "votes_up": 0,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5297249555587769,
+                        "weighted_vote_score": 0.5,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -354,10 +354,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZZ88AAAAB1xYSFBw==",
+                "cursor": "AoIFQFaAAAAAAAB10dyIBw==",
                 "day_range_used": 30,
-                "total_matching": 2
-            }
+                "total_matching": 1
+            },
+            "steamspy_tags": [
+                "Zombies",
+                "Action Roguelike",
+                "Tower Defense",
+                "Rogue-lite",
+                "Bullet Hell",
+                "Strategy",
+                "Top-Down",
+                "Rogue-like",
+                "2D",
+                "Pixel Graphics",
+                "Simulation",
+                "Dark Fantasy",
+                "Vampire",
+                "Magic",
+                "Old School",
+                "Combat",
+                "Werewolves",
+                "Singleplayer",
+                "Exploration",
+                "Supernatural"
+            ]
         }
     }
 }

@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3799,
-                "final": 3799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 37,99"
+                "final": 3039,
+                "discount_percent": 20,
+                "initial_formatted": "R$ 37,99",
+                "final_formatted": "R$ 30,39"
             },
             "packages": [
                 392170
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 392170,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -20%",
                             "percent_savings": 0,
-                            "option_text": "OMORI - R$ 37,99",
+                            "option_text": "OMORI - <span class=\"discount_original_price\">R$ 37,99</span> R$ 30,39",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3799
+                            "price_in_cents_with_discount": 3039
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 80288
+                "total": 80334
             },
             "achievements": {
                 "total": 84,
@@ -329,9 +329,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 59300,
-                    "total_negative": 1588,
-                    "total_reviews": 60888
+                    "total_positive": 59321,
+                    "total_negative": 1592,
+                    "total_reviews": 60913
                 },
                 "reviews": [
                     {
@@ -349,9 +349,9 @@
                         "timestamp_created": 1791124354,
                         "timestamp_updated": 1791126550,
                         "voted_up": true,
-                        "votes_up": 47,
-                        "votes_funny": 17,
-                        "weighted_vote_score": 0.8146675825119019,
+                        "votes_up": 72,
+                        "votes_funny": 24,
+                        "weighted_vote_score": 0.8522338271141052,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -360,10 +360,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFTtOaAAAAB69dKHBw==",
+                "cursor": "AoIFQFS9JAAAAAB69dKHBw==",
                 "day_range_used": 30,
-                "total_matching": 342
-            }
+                "total_matching": 337
+            },
+            "steamspy_tags": [
+                "Psychological Horror",
+                "Story Rich",
+                "Pixel Graphics",
+                "Indie",
+                "Great Soundtrack",
+                "RPG",
+                "Multiple Endings",
+                "RPGMaker",
+                "Hand-drawn",
+                "Horror",
+                "2D",
+                "Colorful",
+                "Turn-Based",
+                "Atmospheric",
+                "Party-Based RPG",
+                "Exploration",
+                "JRPG",
+                "Stylized",
+                "Anime",
+                "Fantasy"
+            ]
         }
     }
 }

@@ -48,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 10799,
-                "final": 10799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 107,99"
+                "final": 3239,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 107,99",
+                "final_formatted": "R$ 32,39"
             },
             "packages": [
                 984895,
@@ -69,23 +69,23 @@
                     "subs": [
                         {
                             "packageid": 984895,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "The Outlast Trials - R$ 107,99",
+                            "option_text": "The Outlast Trials - <span class=\"discount_original_price\">R$ 107,99</span> R$ 32,39",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 10799
+                            "price_in_cents_with_discount": 3239
                         },
                         {
                             "packageid": 1003243,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "The Outlast Trials - Reagent Starter Pack Edition - R$ 134,99",
+                            "option_text": "The Outlast Trials - Reagent Starter Pack Edition - <span class=\"discount_original_price\">R$ 134,99</span> R$ 40,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 13499
+                            "price_in_cents_with_discount": 4049
                         }
                     ]
                 }
@@ -326,7 +326,7 @@
                 }
             ],
             "recommendations": {
-                "total": 99823
+                "total": 100476
             },
             "achievements": {
                 "total": 27,
@@ -460,48 +460,63 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 52762,
-                    "total_negative": 3572,
-                    "total_reviews": 56334
+                    "total_positive": 53038,
+                    "total_negative": 3598,
+                    "total_reviews": 56636
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236341652",
+                        "recommendationid": "236889558",
                         "author": {
-                            "steamid": "76561199199702885",
-                            "num_reviews": 11,
-                            "playtime_forever": 1129,
+                            "steamid": "76561198066129673",
+                            "num_reviews": 35,
+                            "playtime_forever": 942,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 1129,
-                            "last_played": 1790178677
+                            "playtime_at_review": 942,
+                            "last_played": 1791117809
                         },
                         "language": "english",
-                        "review": "My comfort game ngl, not stressful or chaotic. \nMust make Easterman proud Must make Easterman proud Must make Easterman proud\nMust make Easterman proud Must make Easterman proud Must make Easterman proud\nMust make Easterman proud Must make Easterman proud Must make Easterman proud\nMust make Easterman proud Must make Easterman proud Must make Easterman proud\nMust make Easterman proud Must make Easterman proud Must make Easterman proud\nMust make Easterman proud Must make Easterman proud Must make Easterman proud",
-                        "timestamp_created": 1790528801,
-                        "timestamp_updated": 1790528801,
+                        "review": "The Outlast Trials is a thrilling, terrifying and brutal cooperative horror experience that reinvents the franchise in the best way possible. Red Barrels has crafted an extremely disturbing game with this one. The Cold War Murkoff facility setting is filthy, tense, disgusting, brutal and dripping with dread. \n\nTransitioning to a mission based structure with up to four players works brilliantly. You cannot fight back with weapons. Throwing bricks, bottles and using what you can gives you just enough to survive. The rigs (like healing, X-ray vision, or blinding mines) and passive prescription upgrades add a lot of depth and progression to your character. Running trials solo offers a slow methodical stealth game while playing with friends turns into chaotic and terrifying fun. \n\nThe Best part is that the developers avoid monetization allowing you to unlock past event cosmetics and items purely through in-game progression. \n\nIf you have the stomach for extreme gore and intense psychological stress this is one of the best multiplayer horror games available.",
+                        "timestamp_created": 1791126764,
+                        "timestamp_updated": 1791126764,
                         "voted_up": true,
-                        "votes_up": 126,
-                        "votes_funny": 28,
-                        "weighted_vote_score": 0.8270267844200134,
-                        "comment_count": 0,
-                        "steam_purchase": false,
+                        "votes_up": 119,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.8475803136825562,
+                        "comment_count": 19,
+                        "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "AMD Ryzen 7 7700X 8-Core Processor             ",
-                            "adapter_description": "AMD Radeon RX 7700 XT",
-                            "system_ram": "31913",
-                            "vram_size": 12081
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFTdZ8AAAAB0mcmFBw==",
+                "cursor": "AoIFQFUDGQAAAAB23dSHBw==",
                 "day_range_used": 30,
-                "total_matching": 3000
-            }
+                "total_matching": 3212
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Multiplayer",
+                "Co-op",
+                "Survival Horror",
+                "Psychological Horror",
+                "First-Person",
+                "PvE",
+                "Stealth",
+                "Character Customization",
+                "Action",
+                "Action-Adventure",
+                "Survival",
+                "Dark Humor",
+                "Dark",
+                "Realistic",
+                "Atmospheric",
+                "Alternate History",
+                "Science",
+                "Adventure",
+                "Management"
+            ]
         }
     }
 }

@@ -59,17 +59,77 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1196876641,1863214247"
     },
     "price": {
-        "final": "$1.49",
-        "base": "$5.99",
+        "final": "R$ 5,09",
+        "base": "R$ 20,49",
         "discount": "-75%",
         "finalMoney": {
-            "amount": "1.49",
-            "currency": "USD",
-            "discount": "4.50"
+            "amount": "5.09",
+            "currency": "BRL",
+            "discount": "15.40"
         },
         "baseMoney": {
-            "amount": "5.99",
-            "currency": "USD"
+            "amount": "20.49",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Mature",
+            "slug": "mature"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic"
+        },
+        {
+            "name": "NSFW",
+            "slug": "nsfw"
+        }
+    ]
 }

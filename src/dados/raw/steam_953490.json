@@ -21,9 +21,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 18327,
-                    "total_negative": 1020,
-                    "total_reviews": 19347
+                    "total_positive": 18349,
+                    "total_negative": 1018,
+                    "total_reviews": 19367
                 },
                 "reviews": [
                     {
@@ -41,9 +41,9 @@
                         "timestamp_created": 1790964992,
                         "timestamp_updated": 1790965252,
                         "voted_up": true,
-                        "votes_up": 31,
-                        "votes_funny": 5,
-                        "weighted_vote_score": 0.7813253998756409,
+                        "votes_up": 41,
+                        "votes_funny": 9,
+                        "weighted_vote_score": 0.8159783482551575,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -52,9 +52,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFUX52AAAAB07oCHBw==",
+                "cursor": "AoIFQFTrjGAAAAB07oCHBw==",
                 "day_range_used": 30,
-                "total_matching": 196
+                "total_matching": 190
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg?t=1760015957",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/capsule_231x87.jpg?t=1760015957",
@@ -82,10 +82,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 1199,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 11,99"
             },
             "packages": [
                 310872
@@ -102,13 +102,13 @@
                     "subs": [
                         {
                             "packageid": 310872,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Carrion - R$ 59,99",
+                            "option_text": "Carrion - <span class=\"discount_original_price\">R$ 59,99</span> R$ 11,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1199
                         }
                     ]
                 }
@@ -251,7 +251,7 @@
                 }
             ],
             "recommendations": {
-                "total": 33711
+                "total": 33757
             },
             "achievements": {
                 "total": 21,
@@ -381,7 +381,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Villain Protagonist",
+                "Pixel Graphics",
+                "Gore",
+                "Action",
+                "Horror",
+                "Indie",
+                "Metroidvania",
+                "Violent",
+                "2D",
+                "Adventure",
+                "Singleplayer",
+                "Blood",
+                "Puzzle",
+                "Physics",
+                "Lovecraftian",
+                "Sci-fi",
+                "Platformer",
+                "Mature",
+                "Atmospheric",
+                "Great Soundtrack"
+            ]
         }
     }
 }

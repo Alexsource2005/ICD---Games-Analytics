@@ -41,15 +41,15 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 12450,
-                "final": 12450,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 124,50"
+                "final": 3112,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 124,50",
+                "final_formatted": "R$ 31,12"
             },
             "packages": [
                 575971,
-                594136,
-                643493
+                643493,
+                594136
             ],
             "package_groups": [
                 {
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 575971,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -75%",
                             "percent_savings": 0,
-                            "option_text": "Subnautica - R$ 124,50",
+                            "option_text": "Subnautica - <span class=\"discount_original_price\">R$ 124,50</span> R$ 31,12",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12450
+                            "price_in_cents_with_discount": 3112
                         },
                         {
                             "packageid": 594136,
@@ -263,7 +263,7 @@
                 }
             ],
             "recommendations": {
-                "total": 343255
+                "total": 343487
             },
             "achievements": {
                 "total": 17,
@@ -414,16 +414,16 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 203800,
-                    "total_negative": 6453,
-                    "total_reviews": 210253
+                    "total_positive": 203890,
+                    "total_negative": 6461,
+                    "total_reviews": 210351
                 },
                 "reviews": [
                     {
                         "recommendationid": "236626593",
                         "author": {
                             "steamid": "76561199101212869",
-                            "num_reviews": 358,
+                            "num_reviews": 360,
                             "playtime_forever": 6295,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 2298,
@@ -434,9 +434,9 @@
                         "timestamp_created": 1790868483,
                         "timestamp_updated": 1790868483,
                         "voted_up": true,
-                        "votes_up": 23,
-                        "votes_funny": 4,
-                        "weighted_vote_score": 0.6937481164932251,
+                        "votes_up": 42,
+                        "votes_funny": 5,
+                        "weighted_vote_score": 0.7815777659416199,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -445,10 +445,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWIAKAAAABxqtSGBw==",
+                "cursor": "AoIFQFUXlIAAAABxqtSGBw==",
                 "day_range_used": 30,
-                "total_matching": 887
-            }
+                "total_matching": 868
+            },
+            "steamspy_tags": [
+                "Open World Survival Craft",
+                "Survival",
+                "Horror",
+                "Open World",
+                "Underwater",
+                "Exploration",
+                "Crafting",
+                "Base-Building",
+                "Singleplayer",
+                "Adventure",
+                "First-Person",
+                "Sci-fi",
+                "Multiplayer",
+                "Sandbox",
+                "Atmospheric",
+                "Aliens",
+                "Survival Horror",
+                "VR",
+                "Action",
+                "Indie"
+            ]
         }
     }
 }

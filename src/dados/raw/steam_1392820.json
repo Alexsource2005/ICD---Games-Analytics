@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 524,
-                "final": 524,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 5,24"
+                "final": 262,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 5,24",
+                "final_formatted": "R$ 2,62"
             },
             "packages": [
                 488716
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 488716,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Milk inside a bag of milk inside a bag of milk - R$ 5,24",
+                            "option_text": "Milk inside a bag of milk inside a bag of milk - <span class=\"discount_original_price\">R$ 5,24</span> R$ 2,62",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 524
+                            "price_in_cents_with_discount": 262
                         }
                     ]
                 }
@@ -136,7 +136,7 @@
                 }
             ],
             "recommendations": {
-                "total": 32051
+                "total": 32097
             },
             "achievements": {
                 "total": 3,
@@ -212,16 +212,16 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 15394,
-                    "total_negative": 561,
-                    "total_reviews": 15955
+                    "total_positive": 15414,
+                    "total_negative": 562,
+                    "total_reviews": 15976
                 },
                 "reviews": [
                     {
                         "recommendationid": "236751721",
                         "author": {
                             "steamid": "76561198082995566",
-                            "num_reviews": 111,
+                            "num_reviews": 113,
                             "playtime_forever": 19,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 19,
@@ -232,9 +232,9 @@
                         "timestamp_created": 1791000249,
                         "timestamp_updated": 1791000249,
                         "voted_up": true,
-                        "votes_up": 15,
+                        "votes_up": 19,
                         "votes_funny": 1,
-                        "weighted_vote_score": 0.6880328059196472,
+                        "weighted_vote_score": 0.7154690623283386,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -243,10 +243,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWPUWAAAAB5tpGHBw==",
+                "cursor": "AoIFQFVsMyAAAAB5tpGHBw==",
                 "day_range_used": 30,
-                "total_matching": 142
-            }
+                "total_matching": 154
+            },
+            "steamspy_tags": [
+                "Visual Novel",
+                "Psychological Horror",
+                "Horror",
+                "Experimental",
+                "Abstract",
+                "Psychological",
+                "Interactive Fiction",
+                "Adventure",
+                "Text-Based",
+                "Anime",
+                "Drama",
+                "Retro",
+                "Philosophical",
+                "Emotional",
+                "Pixel Graphics",
+                "Story Rich",
+                "Indie",
+                "Singleplayer",
+                "Perma Death",
+                "Surreal"
+            ]
         }
     }
 }

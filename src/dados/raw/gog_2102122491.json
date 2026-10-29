@@ -74,5 +74,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Turn-based",
+            "slug": "turnbased"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        },
+        {
+            "name": "Tactical RPG",
+            "slug": "tactical-rpg"
+        },
+        {
+            "name": "Board Game",
+            "slug": "board-game"
+        },
+        {
+            "name": "Tabletop",
+            "slug": "tabletop"
+        }
+    ]
 }

@@ -51,5 +51,56 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Racing",
+            "slug": "racing"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Physics",
+            "slug": "physics"
+        },
+        {
+            "name": "Racing",
+            "slug": "racing"
+        }
+    ]
 }

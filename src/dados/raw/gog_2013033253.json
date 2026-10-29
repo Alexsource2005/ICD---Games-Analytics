@@ -91,5 +91,72 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer"
+        },
+        {
+            "name": "Space",
+            "slug": "space"
+        },
+        {
+            "name": "Base Building",
+            "slug": "base-building"
+        },
+        {
+            "name": "Grand Strategy",
+            "slug": "grand-strategy"
+        },
+        {
+            "name": "Local Multiplayer",
+            "slug": "local-multiplayer"
+        },
+        {
+            "name": "Board Game",
+            "slug": "board-game"
+        },
+        {
+            "name": "Tabletop",
+            "slug": "tabletop"
+        }
+    ]
 }

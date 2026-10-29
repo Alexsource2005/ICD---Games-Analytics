@@ -140,18 +140,61 @@
         "expanded_all_products_url": "https://api.gog.com/products?ids=1317646920,1346646938,1366256058,1424717003,1507812678,1534780359,1546733364,1641787812,1683782840,1790459966,1791360202,1833146547,1908011586,1922265339,1968222224,1976202557,1990927897,2017285811"
     },
     "price": {
-        "final": "R$ 35,65",
+        "final": "R$ 107,99",
         "base": "R$ 107,99",
-        "discount": "-67%",
+        "discount": null,
         "finalMoney": {
-            "amount": "35.65",
+            "amount": "107.99",
             "currency": "BRL",
-            "discount": "72.34"
+            "discount": "0.00"
         },
         "baseMoney": {
             "amount": "107.99",
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Survival",
+            "slug": "survival"
+        },
+        {
+            "name": "Resource Management",
+            "slug": "resource-management"
+        },
+        {
+            "name": "City builder",
+            "slug": "city-builder"
+        }
+    ]
 }

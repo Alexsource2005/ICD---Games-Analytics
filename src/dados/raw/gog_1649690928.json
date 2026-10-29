@@ -66,5 +66,56 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "TPP",
+            "slug": "tpp"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth"
+        },
+        {
+            "name": "Choose Your Own Adventure",
+            "slug": "choose-your-own-adventure"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Thriller",
+            "slug": "thriller"
+        },
+        {
+            "name": "Noir",
+            "slug": "noir"
+        },
+        {
+            "name": "Time Manipulation",
+            "slug": "time-manipulation"
+        },
+        {
+            "name": "Superhero",
+            "slug": "superhero"
+        }
+    ]
 }

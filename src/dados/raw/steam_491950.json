@@ -19,16 +19,16 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 7745,
-                    "total_negative": 817,
-                    "total_reviews": 8562
+                    "total_positive": 7748,
+                    "total_negative": 818,
+                    "total_reviews": 8566
                 },
                 "reviews": [
                     {
                         "recommendationid": "236792829",
                         "author": {
                             "steamid": "76561197992438116",
-                            "num_reviews": 711,
+                            "num_reviews": 712,
                             "playtime_forever": 1199,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 1199,
@@ -52,7 +52,7 @@
                 ],
                 "cursor": "AoIFQFXWRGAAAAB9v6WHBw==",
                 "day_range_used": 30,
-                "total_matching": 16
+                "total_matching": 19
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491950/header.jpg?t=1770913154",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491950/capsule_231x87.jpg?t=1770913154",
@@ -86,10 +86,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2069,
-                "final": 517,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 20,69",
-                "final_formatted": "R$ 5,17"
+                "final": 2069,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 20,69"
             },
             "packages": [
                 111512
@@ -106,13 +106,13 @@
                     "subs": [
                         {
                             "packageid": 111512,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Orwell - <span class=\"discount_original_price\">R$ 20,69</span> R$ 5,17",
+                            "option_text": "Orwell - R$ 20,69",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 517
+                            "price_in_cents_with_discount": 2069
                         }
                     ]
                 }
@@ -216,7 +216,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8970
+                "total": 8974
             },
             "achievements": {
                 "total": 27,
@@ -361,7 +361,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenggunaan bahasa\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Choices Matter",
+                "Political Sim",
+                "Dystopian ",
+                "Story Rich",
+                "Indie",
+                "Singleplayer",
+                "Detective",
+                "Simulation",
+                "Interactive Fiction",
+                "Hacking",
+                "Politics",
+                "Political",
+                "Adventure",
+                "Mouse only",
+                "Atmospheric",
+                "Visual Novel",
+                "Episodic",
+                "Mystery",
+                "Point & Click",
+                "Great Soundtrack"
+            ]
         }
     }
 }

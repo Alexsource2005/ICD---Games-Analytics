@@ -56,5 +56,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "TPP",
+            "slug": "tpp"
+        },
+        {
+            "name": "Comedy",
+            "slug": "comedy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Cartoony",
+            "slug": "cartoony"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op"
+        },
+        {
+            "name": "Comedy",
+            "slug": "comedy"
+        },
+        {
+            "name": "Dark Comedy",
+            "slug": "dark-comedy"
+        },
+        {
+            "name": "Zombies",
+            "slug": "zombies"
+        }
+    ]
 }

@@ -44,10 +44,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3099,
-                "final": 3099,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 30,99"
+                "final": 1053,
+                "discount_percent": 66,
+                "initial_formatted": "R$ 30,99",
+                "final_formatted": "R$ 10,53"
             },
             "packages": [
                 510928
@@ -64,13 +64,13 @@
                     "subs": [
                         {
                             "packageid": 510928,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -66%",
                             "percent_savings": 0,
-                            "option_text": "NEEDY GIRL OVERDOSE - R$ 30,99",
+                            "option_text": "NEEDY GIRL OVERDOSE - <span class=\"discount_original_price\">R$ 30,99</span> R$ 10,53",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3099
+                            "price_in_cents_with_discount": 1053
                         }
                     ]
                 }
@@ -171,7 +171,7 @@
                 }
             ],
             "recommendations": {
-                "total": 54845
+                "total": 54917
             },
             "achievements": {
                 "total": 33,
@@ -301,9 +301,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 18734,
-                    "total_negative": 938,
-                    "total_reviews": 19672
+                    "total_positive": 18758,
+                    "total_negative": 939,
+                    "total_reviews": 19697
                 },
                 "reviews": [
                     {
@@ -311,19 +311,19 @@
                         "author": {
                             "steamid": "76561198121446220",
                             "num_reviews": 8,
-                            "playtime_forever": 730,
-                            "playtime_last_two_weeks": 730,
+                            "playtime_forever": 774,
+                            "playtime_last_two_weeks": 387,
                             "playtime_at_review": 645,
-                            "last_played": 1792325743
+                            "last_played": 1793033267
                         },
                         "language": "english",
                         "review": "[b]Finally, a game for real cuckolds[/b]\n\nI thought I was picking up a cute anime girl tamagotchi to just chill and click buttons to some neon synthwave. Instead, I got a digital pimp simulator where you play as a cuckold-manager for an unhinged bipolar e-girl popping prescription pills like tic-tacs.\n\nI really love how the gameplay actually reflects the dark underbelly of streaming. Halfway through a run, I genuinely felt like a cynical piece of sh✧t ready to force-feed my ward a cocktail of meds that could drop a rhino, just to make her hallucinate hard enough to entertain an army of sweaty gooners typing with one hand. You're not a manager, you're literally a drug dealer balancing between her flatlining from an OD live on stream, and her slicing your throat open with safety scissors because of a depressive episode.\n\nOverall, this game is a must-have manual for digital brain rot. I only recommend buying this to successful normies with stable mental health and an actual love life, just so you can spend a couple of hours experiencing exactly how a 30-year-old Discord mod feels every day, blowing half his paycheck on a mentally unstable streamer hoping she'll eventually escape the psych ward and move into his mom's basement in Ohio.",
                         "timestamp_created": 1792320104,
                         "timestamp_updated": 1792320136,
                         "voted_up": true,
-                        "votes_up": 13,
-                        "votes_funny": 9,
-                        "weighted_vote_score": 0.6916735172271729,
+                        "votes_up": 46,
+                        "votes_funny": 31,
+                        "weighted_vote_score": 0.8378722667694092,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -332,10 +332,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWKqEAAAABx5/aLBw==",
+                "cursor": "AoIFQFTPhiAAAABx5/aLBw==",
                 "day_range_used": 30,
-                "total_matching": 274
-            }
+                "total_matching": 280
+            },
+            "steamspy_tags": [
+                "Psychological Horror",
+                "Anime",
+                "Sexual Content",
+                "Visual Novel",
+                "Cute",
+                "Pixel Graphics",
+                "Multiple Endings",
+                "Psychological",
+                "2D",
+                "Dark Humor",
+                "Story Rich",
+                "Point & Click",
+                "Psychedelic",
+                "Choose Your Own Adventure",
+                "Singleplayer",
+                "Colorful",
+                "Hentai",
+                "Adventure",
+                "Text-Based",
+                "Conversation"
+            ]
         }
     }
 }

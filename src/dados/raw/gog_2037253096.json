@@ -55,5 +55,52 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Fighting",
+            "slug": "fighting"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Fighting",
+            "slug": "fighting"
+        },
+        {
+            "name": "Dinosaurs",
+            "slug": "dinosaurs"
+        }
+    ]
 }

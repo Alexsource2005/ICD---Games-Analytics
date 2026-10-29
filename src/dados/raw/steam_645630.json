@@ -311,7 +311,7 @@
                 }
             ],
             "recommendations": {
-                "total": 48421
+                "total": 48424
             },
             "achievements": {
                 "total": 60,
@@ -438,41 +438,70 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 21914,
-                    "total_negative": 2539,
-                    "total_reviews": 24453
+                    "total_positive": 21924,
+                    "total_negative": 2544,
+                    "total_reviews": 24468
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238532695",
+                        "recommendationid": "238664567",
                         "author": {
-                            "steamid": "76561199526263813",
-                            "num_reviews": 1,
-                            "playtime_forever": 439,
-                            "playtime_last_two_weeks": 13,
-                            "playtime_at_review": 439,
-                            "last_played": 1792498483
+                            "steamid": "76561198256396893",
+                            "num_reviews": 13,
+                            "playtime_forever": 1654,
+                            "playtime_last_two_weeks": 1086,
+                            "playtime_at_review": 1654,
+                            "last_played": 1793083155
                         },
                         "language": "english",
-                        "review": "If you like cars and enjoy suffering trying to find the last part to fix/change, this is the game for you!",
-                        "timestamp_created": 1792927916,
-                        "timestamp_updated": 1792927916,
+                        "review": "First of all, thank you for providing this game for free; I really appreciate it. Even though I got it for free, the discounted price is also very cheap. \n\nPreviously, I only knew a little bit about car engines; with this game, you learn much more right down to the pistons. This game isn't just about the engine; it involves the entire car, which you have to repair. You’ll need to diagnose issues, test the vehicle on a test track, and so on. It’s quite challenging at the start, but you’ll gain access to helpful tools as you unlock skill points. There is a wide variety of different engines from one car to another, such as inline and V-type engines. \n\nThere is no other car mechanic game as detailed as this one, so it is the best one on Steam.",
+                        "timestamp_created": 1793088737,
+                        "timestamp_updated": 1793088737,
                         "voted_up": true,
-                        "votes_up": 0,
+                        "votes_up": 1,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5,
+                        "weighted_vote_score": 0.52173912525177,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "12th Gen Intel(R) Core(TM) i5-12450H",
+                            "adapter_description": "NVIDIA GeForce RTX 2050",
+                            "system_ram": "7895",
+                            "vram_size": 3962
+                        }
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB3hfeNBw==",
+                "cursor": "AoIFQFZkLIAAAAB3t7eOBw==",
                 "day_range_used": 30,
-                "total_matching": 78
-            }
+                "total_matching": 88
+            },
+            "steamspy_tags": [
+                "Simulation",
+                "Automobile Sim",
+                "Driving",
+                "Building",
+                "Realistic",
+                "Racing",
+                "Multiplayer",
+                "Singleplayer",
+                "First-Person",
+                "Sandbox",
+                "Education",
+                "Crafting",
+                "Moddable",
+                "Open World",
+                "Physics",
+                "Management",
+                "Strategy",
+                "Great Soundtrack",
+                "Co-op",
+                "Memes"
+            ]
         }
     }
 }

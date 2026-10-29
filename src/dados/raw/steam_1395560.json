@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 349,
-                "final": 174,
-                "discount_percent": 50,
-                "initial_formatted": "R$ 3,49",
-                "final_formatted": "R$ 1,74"
+                "final": 349,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 3,49"
             },
             "packages": [
                 489659
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 489659,
-                            "percent_savings_text": " -50%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Kandidatos - <span class=\"discount_original_price\">R$ 3,49</span> R$ 1,74",
+                            "option_text": "Kandidatos - R$ 3,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 174
+                            "price_in_cents_with_discount": 349
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3546
+                "total": 3552
             },
             "achievements": {
                 "total": 1,
@@ -254,8 +254,8 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 168,
-                    "total_negative": 20,
+                    "total_positive": 169,
+                    "total_negative": 19,
                     "total_reviews": 188
                 },
                 "reviews": [
@@ -263,7 +263,7 @@
                         "recommendationid": "238053450",
                         "author": {
                             "steamid": "76561198206444140",
-                            "num_reviews": 597,
+                            "num_reviews": 601,
                             "playtime_forever": 24,
                             "playtime_last_two_weeks": 24,
                             "playtime_at_review": 24,
@@ -274,9 +274,9 @@
                         "timestamp_created": 1792358656,
                         "timestamp_updated": 1792433154,
                         "voted_up": true,
-                        "votes_up": 11,
+                        "votes_up": 13,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6762948632240295,
+                        "weighted_vote_score": 0.6959775686264038,
                         "comment_count": 1,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -285,10 +285,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWsNCAAAAB6hI2MBw==",
+                "cursor": "AoIFQFWFJeAAAAB6hI2MBw==",
                 "day_range_used": 30,
-                "total_matching": 7
-            }
+                "total_matching": 8
+            },
+            "steamspy_tags": [
+                "Fighting",
+                "Political",
+                "Comedy",
+                "3D Fighter",
+                "Martial Arts",
+                "Satire",
+                "Funny",
+                "Dark Comedy",
+                "Dark Humor",
+                "PvP",
+                "2D Fighter",
+                "Multiplayer",
+                "Spectacle fighter",
+                "Memes",
+                "Boxing",
+                "Local Multiplayer",
+                "Singleplayer",
+                "Action",
+                "3D",
+                "Indie"
+            ]
         }
     }
 }

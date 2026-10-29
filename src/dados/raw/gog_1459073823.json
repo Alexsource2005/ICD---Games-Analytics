@@ -43,7 +43,17 @@
         "menuNotificationAv2": "//images-4.gog-statics.com/c2ea8b3c9b93700be82cfecfad38ff798b5ed8ca80c1048bc28a32d47b340b4a_menu_notification_av2.png",
         "icon": "//images-3.gog-statics.com/c2ea8b3c9b93700be82cfecfad38ff798b5ed8ca80c1048bc28a32d47b340b4a.png"
     },
-    "dlcs": [],
+    "dlcs": {
+        "products": [
+            {
+                "id": 1285337985,
+                "link": "https://api.gog.com/products/1285337985",
+                "expanded_link": "https://api.gog.com/products/1285337985"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1285337985",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1285337985"
+    },
     "price": {
         "final": "R$ 3,25",
         "base": "R$ 25,00",
@@ -58,5 +68,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "FPP",
+            "slug": "fpp"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Nudity",
+            "slug": "nudity"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Looter Shooter",
+            "slug": "looter-shooter"
+        }
+    ]
 }

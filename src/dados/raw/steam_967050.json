@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 16,99"
+                "final": 713,
+                "discount_percent": 58,
+                "initial_formatted": "R$ 16,99",
+                "final_formatted": "R$ 7,13"
             },
             "packages": [
                 316741,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 316741,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -58%",
                             "percent_savings": 0,
-                            "option_text": "Pacify - R$ 16,99",
+                            "option_text": "Pacify - <span class=\"discount_original_price\">R$ 16,99</span> R$ 7,13",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 713
                         },
                         {
                             "packageid": 348658,
@@ -298,7 +298,7 @@
                 }
             ],
             "recommendations": {
-                "total": 32974
+                "total": 32980
             },
             "achievements": {
                 "total": 52,
@@ -430,9 +430,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 12703,
-                    "total_negative": 1988,
-                    "total_reviews": 14691
+                    "total_positive": 12704,
+                    "total_negative": 1989,
+                    "total_reviews": 14693
                 },
                 "reviews": [
                     {
@@ -463,8 +463,30 @@
                 ],
                 "cursor": "AoIFQFZF0UAAAABwrYKHBw==",
                 "day_range_used": 30,
-                "total_matching": 39
-            }
+                "total_matching": 37
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Online Co-Op",
+                "Multiplayer",
+                "Psychological Horror",
+                "Co-op",
+                "Survival Horror",
+                "Exploration",
+                "First-Person",
+                "Supernatural",
+                "Dark",
+                "Sci-fi",
+                "Procedural Generation",
+                "Demons",
+                "Mystery",
+                "Action-Adventure",
+                "PvE",
+                "Thriller",
+                "Atmospheric",
+                "Adventure",
+                "Time Management"
+            ]
         }
     }
 }

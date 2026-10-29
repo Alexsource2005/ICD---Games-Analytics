@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2069,
-                "final": 2069,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 20,69"
+                "final": 1034,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 20,69",
+                "final_formatted": "R$ 10,34"
             },
             "packages": [
                 108698
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 108698,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Mad Father - R$ 20,69",
+                            "option_text": "Mad Father - <span class=\"discount_original_price\">R$ 20,69</span> R$ 10,34",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2069
+                            "price_in_cents_with_discount": 1034
                         }
                     ]
                 }
@@ -145,7 +145,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6324
+                "total": 6332
             },
             "achievements": {
                 "total": 21,
@@ -278,9 +278,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 2792,
+                    "total_positive": 2796,
                     "total_negative": 56,
-                    "total_reviews": 2848
+                    "total_reviews": 2852
                 },
                 "reviews": [
                     {
@@ -289,7 +289,7 @@
                             "steamid": "76561198013945405",
                             "num_reviews": 8,
                             "playtime_forever": 5625,
-                            "playtime_last_two_weeks": 186,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 5409,
                             "last_played": 1791981694
                         },
@@ -298,9 +298,9 @@
                         "timestamp_created": 1791314431,
                         "timestamp_updated": 1791314431,
                         "voted_up": true,
-                        "votes_up": 2,
+                        "votes_up": 5,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5454545617103577,
+                        "weighted_vote_score": 0.5862069129943848,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -316,10 +316,32 @@
                         }
                     }
                 ],
-                "cursor": "AoIFQFZF0UAAAABwuK+IBw==",
+                "cursor": "AoIFQFYRp8AAAABwuK+IBw==",
                 "day_range_used": 30,
-                "total_matching": 33
-            }
+                "total_matching": 32
+            },
+            "steamspy_tags": [
+                "RPGMaker",
+                "Horror",
+                "Psychological Horror",
+                "Anime",
+                "Pixel Graphics",
+                "2D",
+                "Exploration",
+                "Survival Horror",
+                "Story Rich",
+                "Adventure",
+                "Atmospheric",
+                "Puzzle",
+                "Female Protagonist",
+                "Violent",
+                "Indie",
+                "Dark",
+                "Gothic",
+                "Singleplayer",
+                "Multiple Endings",
+                "Casual"
+            ]
         }
     }
 }

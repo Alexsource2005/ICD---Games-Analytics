@@ -5,11 +5,29 @@ import requests
 
 # --- SUAS CREDENCIAIS REAIS DA STEAM ---
 API_KEY = "010187A20FDAB0733BE21A91A46BEB63"
-STEAM_ID = "76561198323249883"
+STEAM_ID = "76561199186300677"
 
-# 1. Garante que a pasta dados/raw/ existe no projeto
+# Garante que a pasta dados/raw/ existe no projeto
 os.makedirs("dados/raw", exist_ok=True)
 
+def buscar_tags_steamspy(app_id, max_tentativas=3):
+  """Busca as tags mais votadas pela comunidade no SteamSpy"""
+  url = f"https://steamspy.com/api.php?request=appdetails&appid={app_id}"
+  headers = {"User-Agent": "Mozilla/5.0"}
+
+  for tentativa in range(1, max_tentativas + 1):
+    try:
+      resp = requests.get(url, headers=headers, timeout=10)
+      if resp.status_code == 200:
+        dados = resp.json()
+        tags_dict = dados.get("tags", {})
+        if isinstance(tags_dict, dict):
+          return list(tags_dict.keys())
+    except Exception:
+      if tentativa < max_tentativas:
+        time.sleep(2)
+  return []
+        
 def buscar_reviews(app_id, max_tentativas=3):
   """Busca o resumo das avaliações pelo novo endpoint da Steam"""
   url_reviews = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
@@ -98,10 +116,11 @@ try:
       "Iniciando download dos detalhes..."
   )
 
-  # 2. Loop para percorrer cada ID obtido da biblioteca
+  # Loop para percorrer cada ID obtido da biblioteca
   for indice, app_id in enumerate(app_ids, start=1):
     dados_details = buscar_detalhes(app_id)
     dados_reviews = buscar_reviews(app_id)
+    tags_steamspy = buscar_tags_steamspy(app_id)
 
     if(isinstance(dados_details, dict) and app_id in dados_details and isinstance(dados_details[app_id], dict)):
       app_data = dados_details[app_id]
@@ -111,6 +130,8 @@ try:
             app_data["data"]["reviews"] = dados_reviews
           else:
             print("[Reviews] Sem avaliações disponíveis para o jogo {app_id}.")
+
+          app_data["data"]["steamspy_tags"] = tags_steamspy
 
           caminho_arquivo = f"dados/raw/steam_{app_id}.json"
 

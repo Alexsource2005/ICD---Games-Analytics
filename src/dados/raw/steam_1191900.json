@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2899,
-                "final": 2899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 28,99"
+                "final": 289,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 28,99",
+                "final_formatted": "R$ 2,89"
             },
             "packages": [
                 410316
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 410316,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Say No! More - R$ 28,99",
+                            "option_text": "Say No! More - <span class=\"discount_original_price\">R$ 28,99</span> R$ 2,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2899
+                            "price_in_cents_with_discount": 289
                         }
                     ]
                 }
@@ -321,7 +321,7 @@
                         "recommendationid": "238391043",
                         "author": {
                             "steamid": "76561197970560724",
-                            "num_reviews": 1305,
+                            "num_reviews": 1312,
                             "playtime_forever": 309,
                             "playtime_last_two_weeks": 60,
                             "playtime_at_review": 270,
@@ -332,9 +332,9 @@
                         "timestamp_created": 1792775133,
                         "timestamp_updated": 1792775838,
                         "voted_up": true,
-                        "votes_up": 1,
+                        "votes_up": 6,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.523809552192688,
+                        "weighted_vote_score": 0.5976733565330505,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -343,10 +343,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZhheAAAABz8LGNBw==",
+                "cursor": "AoIFQFYC+oAAAABz8LGNBw==",
                 "day_range_used": 30,
-                "total_matching": 9
-            }
+                "total_matching": 7
+            },
+            "steamspy_tags": [
+                "Indie",
+                "Funny",
+                "Comedy",
+                "Singleplayer",
+                "Casual",
+                "Cute",
+                "Colorful",
+                "Satire",
+                "Experimental",
+                "Adventure",
+                "Action",
+                "Action-Adventure",
+                "Beat 'em up",
+                "Arcade",
+                "On-Rails Shooter",
+                "Cartoon",
+                "Cartoony",
+                "Third-Person Shooter",
+                "Pixel Graphics",
+                "Stylized"
+            ]
         }
     }
 }

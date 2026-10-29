@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3775,
-                "final": 3775,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 37,75"
+                "final": 3020,
+                "discount_percent": 20,
+                "initial_formatted": "R$ 37,75",
+                "final_formatted": "R$ 30,20"
             },
             "packages": [
                 1306820
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 1306820,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -20%",
                             "percent_savings": 0,
-                            "option_text": "Funnel Runners - R$ 37,75",
+                            "option_text": "Funnel Runners - <span class=\"discount_original_price\">R$ 37,75</span> R$ 30,20",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3775
+                            "price_in_cents_with_discount": 3020
                         }
                     ]
                 }
@@ -235,7 +235,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3218
+                "total": 3253
             },
             "achievements": {
                 "total": 53,
@@ -367,41 +367,43 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2402,
-                    "total_negative": 505,
-                    "total_reviews": 2907
+                    "total_positive": 2429,
+                    "total_negative": 520,
+                    "total_reviews": 2949
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238061233",
+                        "recommendationid": "238103519",
                         "author": {
-                            "steamid": "76561199083536776",
-                            "num_reviews": 7,
-                            "playtime_forever": 237,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 237,
-                            "last_played": 1787168738
+                            "steamid": "76561198290755644",
+                            "num_reviews": 2,
+                            "playtime_forever": 7393,
+                            "playtime_last_two_weeks": 45,
+                            "playtime_at_review": 7393,
+                            "deck_playtime_at_review": 12,
+                            "last_played": 1792280516
                         },
                         "language": "english",
-                        "review": "Sadly the development has been stagnating lately, and to top it off the CEO has fired one of the only developers who was doing anything to improve the game, expect the quality to drop off a cliff guys.",
-                        "timestamp_created": 1792367906,
-                        "timestamp_updated": 1792367906,
+                        "review": "Alright... Its been a wild ride. I have been in the community since May 2026. I was made a Community Moderator the second day of playtesting pre-launch. I had such high hopes and faith in this studio and game, but my faith and hopes were sorely misplaced. Lesson learned. \n\nLogan, the bank account behind the game (CEO), fired Tombstone (Community Manager) for literal hogwash reasons, and fired his wife Rose (Head of CC team) simply from association to Tomb. Imagine blowing up your entire server, community, and game over BurntPeanut not getting his access 2hrs sooner. You know... The streamer that literally trashes all games he plays.. \n\nTomb has done nothing but support the community, love the community, and grow the community. Logan has done nothing community facing since long before launch. \n\nLogan proceeded to talk to the CCs before even messaging us moderators on what went down. Then during our meeting, he says he didn't want to talk down about Tomb, yet proceeded to use words like \"S***-canned\" when referring to firing him. \n\nI have put so much time, blood, sweat, and tears into working alongside Tomb and the other moderators to build this community for a CEO that never gave a rat's butt about us or the community. It truly hurts knowing that this game is genuinely fun, and I felt like we had so much working for us until this event. \n\nMind you, Logan used AI to write an email to fire Tomb. He then used AI to give a malarkey announcement to the community that didn't do anything but make it even worse. He said he was okay with anyone who had differing opinions to him, yet many of us ended up banned for sharing those opinions. \n\nI will not personally fault anyone who continues to play, as I understand its a fun game, but I and many others have withdrawn any support. \n\nAnd it speaks wonders how all but one mod left/was banned, since that one mod has specifically been in VC drunk and laid it all out that he was wanting Tomb's job from the get go and was not happy that Tomb became CM. That mod treated a lot of us like absolute trash, and never truly apologized to those he treated this way (including myself), which was part of the conditions for him to come back from his \"break\" from the moderation team. It doesn't surprise me one bit that this mod is happy to stay for the drama and bootlick. \n\nTo add: NONE of the previous moderation team gave any of the current mod team or owners any death threats. \n\nGood luck, Supernova Studios. You really wiped out a huge chunk of your following and community. Have the life you deserve.",
+                        "timestamp_created": 1792427627,
+                        "timestamp_updated": 1792427627,
                         "voted_up": false,
-                        "votes_up": 40,
-                        "votes_funny": 3,
-                        "weighted_vote_score": 0.677009105682373,
+                        "votes_up": 175,
+                        "votes_funny": 15,
+                        "weighted_vote_score": 0.8348151445388794,
                         "comment_count": 0,
-                        "steam_purchase": true,
+                        "steam_purchase": false,
                         "received_for_free": false,
                         "written_during_early_access": true,
                         "primarily_steam_deck": false,
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWdbcAAAABx65CMBw==",
+                "cursor": "AoIFQFTTb8AAAAB/vaWMBw==",
                 "day_range_used": 30,
-                "total_matching": 225
-            }
+                "total_matching": 244
+            },
+            "steamspy_tags": []
         }
     }
 }

@@ -21,9 +21,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2500,
+                    "total_positive": 2502,
                     "total_negative": 586,
-                    "total_reviews": 3086
+                    "total_reviews": 3088
                 },
                 "reviews": [
                     {
@@ -41,9 +41,9 @@
                         "timestamp_created": 1790988107,
                         "timestamp_updated": 1790989018,
                         "voted_up": false,
-                        "votes_up": 18,
-                        "votes_funny": 4,
-                        "weighted_vote_score": 0.707490086555481,
+                        "votes_up": 21,
+                        "votes_funny": 5,
+                        "weighted_vote_score": 0.7345651984214783,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -52,9 +52,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFV2aaAAAAB6xIyHBw==",
+                "cursor": "AoIFQFVTwcAAAAB6xIyHBw==",
                 "day_range_used": 30,
-                "total_matching": 12
+                "total_matching": 14
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/539470/676ca8b7da835e3c527e16ce3a18d69002883ac0/header.jpg?t=1759742381",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/539470/51aed868f0fcc143de9199b5eca0a589a3f54520/capsule_231x87.jpg?t=1759742381",
@@ -78,10 +78,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 899,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 8,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 132012
@@ -98,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 132012,
-                            "percent_savings_text": " -85%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Police Stories - <span class=\"discount_original_price\">R$ 59,99</span> R$ 8,99",
+                            "option_text": "Police Stories - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -265,7 +265,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7937
+                "total": 7944
             },
             "achievements": {
                 "total": 39,
@@ -394,7 +394,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenggunaan bahasa\nKekerasan"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Action",
+                "Strategy",
+                "Co-op",
+                "Simulation",
+                "Tactical",
+                "Villain Protagonist",
+                "Top-Down Shooter",
+                "Shooter",
+                "Multiplayer",
+                "Pixel Graphics",
+                "Online Co-Op",
+                "2D",
+                "Indie",
+                "Singleplayer",
+                "Crime",
+                "Realistic",
+                "Atmospheric",
+                "Violent",
+                "Gore",
+                "Difficult"
+            ]
         }
     }
 }

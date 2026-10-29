@@ -23,6 +23,59 @@ MESES = {
     "dezembro": 12, "dez": 12, "december": 12, "dec": 12
 }
 
+EPIC_TAG_MAP = {
+    "1216": "Ação",
+    "21109": "Ação",
+    "1117": "Aventura",
+    "1367": "RPG",
+    "1188": "Corrida",
+    "21121": "Corrida",
+    "1212": "Direção",
+    "1218": "Tiro",
+    "1185": "Primeira Pessoa",
+    "18051": "Estratégia",
+    "21122": "Estratégia",
+    "1088": "Roguelite",
+    "1151": "Plataforma",
+    "1181": "Cartas",
+    "1298": "Puzzle",
+    "1263": "Indie",
+    "1084": "Stealth",
+    "1381": "Exploração",
+    "1400": "Simulação"
+}
+
+def inferir_generos_texto(texto):
+    """Extrai gêneros a partir do titulo ou descrioção caso metadados faltem"""
+    if not texto:
+        return []
+    txt = texto.lower()
+    generos = []
+
+    if any(k in txt for k in ["rally", "corrida", "racing"]):
+        generos.append("Corrida")
+    if any(k in txt for k in ["ação", "action", "combate", "fighting", "assassino", "assassin"]):
+        generos.append("Ação")
+    if any(k in txt for k in ["aventura", "adventure"]):
+        generos.append("Aventura")
+    if any(k in txt for k in ["rpg", "dungeon", "role-playing"]):
+        generos.append("RPG")
+    if any(k in txt for k in ["cartas", "card", "baralho", "deck", "deck-building"]):
+        generos.append("Cartas")
+    if any(k in txt for k in ["roguelike", "rogue-like"]):
+        generos.append("Roguelike")
+    if any(k in txt for k in ["roguelite", "rogue-lite"]):
+        generos.append("Roguelite")
+    if any(k in txt for k in ["plataforma", "plataformas", "platform", "platformer"]):
+        generos.append("Plataforma")
+    if any(k in txt for k in ["puzzle", "quebra-cabeça"]):
+        generos.append("Puzzle")
+    if any(k in txt for k in ["tiro", "shooter", "fps"]):
+        generos.append("Tiro")
+    if any(k in txt for k in ["indie"]):
+        generos.append("Indie")
+    return generos
+
 def padronizar_data_acquisicao(texto_data):
     """Garante a formatação dd/mm/aaaa - dd/mm/aaaa no ETL."""
     if not texto_data or not isinstance(texto_data, str):
@@ -293,18 +346,22 @@ for arquivo in os.listdir(pasta_raw):
 
     nome_jogo = None
     origem = ""
+    descricao_texto = ""
 
     if arquivo.startswith("steam_"):
         origem = "steam"
         for key, val in data.items():
             if isinstance(val, dict) and "data" in val:
                 nome_jogo = val["data"].get("name")
+                descricao_texto = val["data"].get("short_description", "")
     elif arquivo.startswith("epic_"):
         origem = "epic"
         nome_jogo = data.get("title") or data.get("appName")
+        descricao_texto = data.get("description", "")
     elif arquivo.startswith("gog_"):
         origem = "gog"
         nome_jogo = data.get("title")
+        descricao_texto = ""
 
     if not nome_jogo:
         continue
@@ -317,6 +374,7 @@ for arquivo in os.listdir(pasta_raw):
     if chave not in jogos_consolidados:
         jogos_consolidados[chave] = {
             "nome_original": nome_jogo,
+            "descricao": descricao_texto,
             # Flags de presença nas plataformas
             "tem_steam": False,
             "tem_epic": False,
@@ -341,6 +399,8 @@ for arquivo in os.listdir(pasta_raw):
 
     # Fase de transformação por plataforma
     reg = jogos_consolidados[chave]
+    if not reg["descricao"] and descricao_texto:
+        reg["descricao"] = descricao_texto
 
     if origem == "steam":
         reg["tem_steam"] = True
@@ -392,15 +452,15 @@ for arquivo in os.listdir(pasta_raw):
         price_info = data.get("price", {}).get("totalPrice", {})
         reg["epic_preco"] = extrair_preco_original_epic(data)
 
-        tags = data.get("tags") or data.get("categories", [])
-        tag_names = []
+        tags = data.get("tags") or []
+        epic_gens = []
         for t in tags:
             if isinstance(t, dict):
-                tag_names.append(t.get("name") or t.get("groupName"))
-            elif isinstance(t, str):
-                tag_names.append(t)
-        if tag_names:
-            reg["epic_generos"] = [t for t in tag_names if t and not t.startswith("vfx")]
+                tid = str(t.get("id"))
+                tname = t.get("name") or t.get("groupName") or EPIC_TAG_MAP.get(tid)
+                if tname and tname not in epic_gens:
+                    epic_gens.append(tname)
+        reg["epic_generos"] = epic_gens
 
         if "gratis" in arquivo:
             raw_gratis = data.get("data_aquisicao_gratis")
@@ -411,9 +471,8 @@ for arquivo in os.listdir(pasta_raw):
         reg["gog_lancamento"] = data.get("release_date")
         reg["gog_preco"] = extrair_preco_original_gog(data)
 
-        genres_gog = data.get("genres", [])
-        if genres_gog:
-            reg["gog_generos"] = [g.get("name") if isinstance(g, dict) else g for g in genres_gog]
+        genres_gog = data.get("genres", []) or []
+        reg["gog_generos"] = [g.get("name") if isinstance(g, dict) else g for g in genres_gog]
 
 # Consolidar linhas finais para o DataFrame
 linhas_tabela = []
@@ -423,12 +482,17 @@ for chave, reg in jogos_consolidados.items():
     todos_generos = (reg["steam_generos"] + reg["epic_generos"] + reg["gog_generos"])
     generos_unicos = list(dict.fromkeys(todos_generos))
 
-    genero_primario = (generos_unicos[0] if len(generos_unicos) > 0 else "Desconhecido")
-    genero_secundario = (generos_unicos[1] if len(generos_unicos) > 1 else "Não especificado")
- 
+    generos_texto = inferir_generos_texto(f"{reg['nome_original']} {reg['descricao']}")
+    for g in generos_texto:
+        if g not in generos_unicos:
+            generos_unicos.append(g)
+
+    genero_primario = generos_unicos[0] if len(generos_unicos) > 0 else "Desconhecido"
+    genero_secundario = generos_unicos[1] if len(generos_unicos) > 1 else "Não especificado"
+   
     #Data de lançamento unificada e padronizada
-    lancamento = (reg["steam_lancamento"] or reg["epic_lancamento"] or reg["gog_lancamento"])
-    lancamento = formatar_data(lancamento)
+    lancamento_bruto = (reg["steam_lancamento"] or reg["epic_lancamento"] or reg["gog_lancamento"])
+    lancamento = formatar_data(lancamento_bruto)
 
     # Excluir da tabela jogos que ainda não foram lançados
     if not lancamento:

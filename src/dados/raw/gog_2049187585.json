@@ -50,17 +50,81 @@
     },
     "dlcs": [],
     "price": {
-        "final": "$5.99",
-        "base": "$39.99",
+        "final": "R$ 19,35",
+        "base": "R$ 129,00",
         "discount": "-85%",
         "finalMoney": {
-            "amount": "5.99",
-            "currency": "USD",
-            "discount": "34.00"
+            "amount": "19.35",
+            "currency": "BRL",
+            "discount": "109.65"
         },
         "baseMoney": {
-            "amount": "39.99",
-            "currency": "USD"
+            "amount": "129.00",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Psychological Horror",
+            "slug": "psychological-horror"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Supernatural",
+            "slug": "supernatural"
+        }
+    ]
 }

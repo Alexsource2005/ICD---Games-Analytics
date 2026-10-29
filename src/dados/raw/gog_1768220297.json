@@ -73,5 +73,60 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Building",
+            "slug": "building"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "Resource Management",
+            "slug": "resource-management"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Building",
+            "slug": "building"
+        },
+        {
+            "name": "City builder",
+            "slug": "city-builder"
+        },
+        {
+            "name": "Cozy",
+            "slug": "cozy"
+        },
+        {
+            "name": "LifeSim",
+            "slug": "lifesim"
+        },
+        {
+            "name": "Farming",
+            "slug": "farming"
+        }
+    ]
 }

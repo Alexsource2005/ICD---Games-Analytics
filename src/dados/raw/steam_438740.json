@@ -172,7 +172,7 @@
                 }
             ],
             "recommendations": {
-                "total": 64290
+                "total": 64286
             },
             "achievements": {
                 "total": 53,
@@ -344,18 +344,18 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 19573,
-                    "total_negative": 5807,
-                    "total_reviews": 25380
+                    "total_positive": 19571,
+                    "total_negative": 5804,
+                    "total_reviews": 25375
                 },
                 "reviews": [
                     {
                         "recommendationid": "237735910",
                         "author": {
                             "steamid": "76561198042497186",
-                            "num_reviews": 387,
+                            "num_reviews": 388,
                             "playtime_forever": 42026,
-                            "playtime_last_two_weeks": 1,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 42026,
                             "last_played": 1792005128
                         },
@@ -364,9 +364,9 @@
                         "timestamp_created": 1792019199,
                         "timestamp_updated": 1792019199,
                         "voted_up": true,
-                        "votes_up": 6,
+                        "votes_up": 12,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5944700837135315,
+                        "weighted_vote_score": 0.6628352403640747,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -375,10 +375,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYHFAAAAAB2/vGKBw==",
+                "cursor": "AoIFQFWvkkAAAAB2/vGKBw==",
                 "day_range_used": 30,
-                "total_matching": 25
-            }
+                "total_matching": 22
+            },
+            "steamspy_tags": [
+                "Horror",
+                "Multiplayer",
+                "Survival Horror",
+                "Gore",
+                "Survival",
+                "Violent",
+                "Co-op",
+                "Third Person",
+                "Action",
+                "Stealth",
+                "Psychological Horror",
+                "Dark",
+                "Mature",
+                "Atmospheric",
+                "Open World",
+                "Funny",
+                "Adventure",
+                "Singleplayer",
+                "Difficult",
+                "Nudity"
+            ]
         }
     }
 }

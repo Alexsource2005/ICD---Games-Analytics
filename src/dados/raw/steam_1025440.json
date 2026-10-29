@@ -22,40 +22,40 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 758,
+                    "total_positive": 759,
                     "total_negative": 194,
-                    "total_reviews": 952
+                    "total_reviews": 953
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237871567",
+                        "recommendationid": "237513528",
                         "author": {
-                            "steamid": "76561198004389170",
-                            "num_reviews": 13,
-                            "playtime_forever": 3770,
-                            "playtime_last_two_weeks": 2408,
-                            "playtime_at_review": 2520,
-                            "last_played": 1792877273
+                            "steamid": "76561198066817631",
+                            "num_reviews": 256,
+                            "playtime_forever": 226,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 226,
+                            "last_played": 1754291900
                         },
                         "language": "english",
-                        "review": "Fun game with good gameplay and decently interesting story",
-                        "timestamp_created": 1792176305,
-                        "timestamp_updated": 1792176305,
+                        "review": "Tried getting into it twice, but I keep bouncing off. The actual mechanics aren't that complex, but it feels a bit... I don't know.\n\nThis game has a really awkwardly implemented campaign and RPG system, which I don't like. Experimentation isn't rewarded well in this game because you have to invest a lot into your units - but unlike XCOM, which is more sandboxy - this game has a ton of hidden checks and hard scenarios that make experimentation hard.\n\nThis game has one of the hardest levels I've played in recent memory. There's a stage called 'Under attack' that's absurdly difficult, and probably a bulk of my play time lol. To be honest, I didn't know if I was doing bad in this level, or if I just didn't have my units up to snuff and optimally set up. \n\nWith that being said, I LOVE the setup, story and setting. The idea of playing as a scrappy group of savages (Northern European people) overcoming vile, brutal and well organized group of savages (Southern European people) is really fun and the music/art is really good. \n\nThis is on my to-play-again radar. Again, a lot of it is very well made.",
+                        "timestamp_created": 1791767530,
+                        "timestamp_updated": 1791767530,
                         "voted_up": true,
-                        "votes_up": 0,
+                        "votes_up": 1,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5,
+                        "weighted_vote_score": 0.523809552192688,
                         "comment_count": 0,
-                        "steam_purchase": true,
-                        "received_for_free": false,
+                        "steam_purchase": false,
+                        "received_for_free": true,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB/nLSLBw==",
+                "cursor": "AoIFQFZhheAAAAB4s4WKBw==",
                 "day_range_used": 30,
-                "total_matching": 8
+                "total_matching": 9
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025440/header.jpg?t=1745952562",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025440/capsule_231x87.jpg?t=1745952562",
@@ -83,10 +83,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 10799,
-                "final": 10799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 107,99"
+                "final": 2159,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 107,99",
+                "final_formatted": "R$ 21,59"
             },
             "packages": [
                 340673,
@@ -105,33 +105,33 @@
                     "subs": [
                         {
                             "packageid": 340673,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Fantasy General II - R$ 107,99",
+                            "option_text": "Fantasy General II - <span class=\"discount_original_price\">R$ 107,99</span> R$ 21,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 10799
+                            "price_in_cents_with_discount": 2159
                         },
                         {
                             "packageid": 390879,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -40%",
                             "percent_savings": 0,
-                            "option_text": "Fantasy General II - Hero Edition - R$ 162,00",
+                            "option_text": "Fantasy General II - Hero Edition - <span class=\"discount_original_price\">R$ 162,00</span> R$ 97,20",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 16200
+                            "price_in_cents_with_discount": 9720
                         },
                         {
                             "packageid": 390880,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -40%",
                             "percent_savings": 0,
-                            "option_text": "Fantasy General II - General Edition - R$ 214,99",
+                            "option_text": "Fantasy General II - General Edition - <span class=\"discount_original_price\">R$ 214,99</span> R$ 128,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 21499
+                            "price_in_cents_with_discount": 12899
                         }
                     ]
                 }
@@ -383,7 +383,29 @@
                     "use_age_gate": "0",
                     "descriptors": "Kekerasan\nInteraksi Daring"
                 }
-            }
+            },
+            "steamspy_tags": [
+                "Strategy",
+                "Turn-Based Strategy",
+                "Fantasy",
+                "Turn-Based",
+                "Turn-Based Tactics",
+                "Turn-Based Combat",
+                "Tactical",
+                "Singleplayer",
+                "Wargame",
+                "Hex Grid",
+                "Grand Strategy",
+                "Dark Fantasy",
+                "4X",
+                "Multiplayer",
+                "War",
+                "Military",
+                "Replay Value",
+                "Resource Management",
+                "Great Soundtrack",
+                "Management"
+            ]
         }
     }
 }

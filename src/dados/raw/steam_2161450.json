@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2649,
-                "final": 2649,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 26,49"
+                "final": 662,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 26,49",
+                "final_formatted": "R$ 6,62"
             },
             "packages": [
                 773318
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 773318,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -75%",
                             "percent_savings": 0,
-                            "option_text": "Sorry We're Open - R$ 26,49",
+                            "option_text": "Sorry We're Open - <span class=\"discount_original_price\">R$ 26,49</span> R$ 6,62",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2649
+                            "price_in_cents_with_discount": 662
                         }
                     ]
                 }
@@ -210,9 +210,9 @@
                         "recommendationid": "237668520",
                         "author": {
                             "steamid": "76561198026565056",
-                            "num_reviews": 796,
+                            "num_reviews": 798,
                             "playtime_forever": 321,
-                            "playtime_last_two_weeks": 321,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 321,
                             "last_played": 1791934554
                         },
@@ -235,7 +235,29 @@
                 "cursor": "AoIFQFaAAAAAAAB4itGKBw==",
                 "day_range_used": 30,
                 "total_matching": 2
-            }
+            },
+            "steamspy_tags": [
+                "RPG",
+                "Horror",
+                "Survival Horror",
+                "Rogue-lite",
+                "Rogue-like",
+                "Pixel Graphics",
+                "CRPG",
+                "Turn-Based Combat",
+                "Turn-Based Strategy",
+                "Exploration",
+                "Top-Down",
+                "1990's",
+                "Procedural Generation",
+                "2D",
+                "Dark Humor",
+                "Capitalism",
+                "Management",
+                "Lore-Rich",
+                "Resource Management",
+                "Choices Matter"
+            ]
         }
     }
 }

@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 494,
+                "discount_percent": 85,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 4,94"
             },
             "packages": [
                 32846
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 32846,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -85%",
                             "percent_savings": 0,
-                            "option_text": "I Have No Mouth and I Must Scream - R$ 32,99",
+                            "option_text": "I Have No Mouth and I Must Scream - <span class=\"discount_original_price\">R$ 32,99</span> R$ 4,94",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 494
                         }
                     ]
                 }
@@ -188,7 +188,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3643
+                "total": 3674
             },
             "achievements": {
                 "total": 13,
@@ -322,9 +322,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2537,
-                    "total_negative": 315,
-                    "total_reviews": 2852
+                    "total_positive": 2552,
+                    "total_negative": 318,
+                    "total_reviews": 2870
                 },
                 "reviews": [
                     {
@@ -342,9 +342,9 @@
                         "timestamp_created": 1790724634,
                         "timestamp_updated": 1790724634,
                         "voted_up": true,
-                        "votes_up": 5,
-                        "votes_funny": 0,
-                        "weighted_vote_score": 0.5920308232307434,
+                        "votes_up": 57,
+                        "votes_funny": 4,
+                        "weighted_vote_score": 0.8162277340888977,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -353,10 +353,32 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYKM0AAAAB4/pqGBw==",
+                "cursor": "AoIFQFTrOmAAAAB4/pqGBw==",
                 "day_range_used": 30,
-                "total_matching": 32
-            }
+                "total_matching": 50
+            },
+            "steamspy_tags": [
+                "Point & Click",
+                "Adventure",
+                "Horror",
+                "Classic",
+                "Retro",
+                "Based On A Novel",
+                "Psychological Horror",
+                "Story Rich",
+                "1990's",
+                "Cult Classic",
+                "Singleplayer",
+                "Dark",
+                "Post-apocalyptic",
+                "Surreal",
+                "2D",
+                "Sci-fi",
+                "Puzzle",
+                "Great Soundtrack",
+                "Funny",
+                "Cyberpunk"
+            ]
         }
     }
 }

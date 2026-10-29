@@ -70,5 +70,36 @@
             "currency": "BRL"
         }
     },
-    "_price_currency_requested": "BRL"
+    "genres": [
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "City builder",
+            "slug": "city-builder"
+        },
+        {
+            "name": "LGBTQ+",
+            "slug": "lgbtq-plus"
+        }
+    ]
 }

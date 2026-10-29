@@ -38,17 +38,85 @@
     },
     "dlcs": [],
     "price": {
-        "final": "$2.75",
-        "base": "$10.99",
+        "final": "R$ 5,49",
+        "base": "R$ 21,99",
         "discount": "-75%",
         "finalMoney": {
-            "amount": "2.75",
-            "currency": "USD",
-            "discount": "8.24"
+            "amount": "5.49",
+            "currency": "BRL",
+            "discount": "16.50"
         },
         "baseMoney": {
-            "amount": "10.99",
-            "currency": "USD"
+            "amount": "21.99",
+            "currency": "BRL"
         }
-    }
+    },
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "Multiple Endings",
+            "slug": "multiple-endings"
+        },
+        {
+            "name": "Crime",
+            "slug": "crime"
+        },
+        {
+            "name": "Text-Based",
+            "slug": "text-based"
+        }
+    ]
 }
