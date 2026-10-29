@@ -45,6 +45,54 @@ EPIC_TAG_MAP = {
     "1400": "Simulação"
 }
 
+def eh_item_invalido(nome, data_json=None, origem=""):
+    """
+    Filtra e ignora Demos, OSTs, DLCs, Bundles e jogos de conotação sexual.
+    """
+    if not nome or not isinstance(nome, str):
+        return True
+
+    nome_lower = nome.lower().strip()
+
+    # 1. Checagem via Metadados Oficiais das APIs
+    if origem == "steam" and isinstance(data_json, dict):
+        for val in data_json.values():
+            if isinstance(val, dict) and "data" in val:
+                tipo = val["data"].get("type")
+                if tipo and str(tipo).lower() != "game":
+                    return True
+
+    elif origem == "epic" and isinstance(data_json, dict):
+        offer_type = str(data_json.get("offerType", "")).upper()
+        if offer_type in ["DLC", "ADD_ON", "DIGITAL_EXTRA", "AUDIOTRACK", "DEMO", "BUNDLE", "UNCONFIGURED"]:
+            return True
+
+    elif origem == "gog" and isinstance(data_json, dict):
+        prod_type = str(data_json.get("productType", "")).lower()
+        if prod_type and "game" not in prod_type:
+            return True
+
+    # 2. Checagem via Palavras-Chave no Nome do Produto
+    # Trilhas sonoras / Músicas
+    if re.search(r"\b(soundtrack|ost|trilha\s+sonora|original\s+soundtrack|music\s+pack|audio\s+track)\b", nome_lower):
+        return True
+
+    # Demos, versões de teste, imprensa e acessos antecipados
+    if re.search(r"\b(demo|trial|press|playtest|preview|teaser|beta|alpha|test\s+server)\b", nome_lower):
+        return True
+
+    # Pacotes especiais, Bundles, DLCs, Upgrades, Artbooks e Conteúdos Adicionais
+    padroes_pacotes = r"\b(bundle|supporter\s+pack|supporter\s+bundle|dlc|expansion|season\s+pass|add-on|addon|artbook|content\s+pack|edição\s+deluxe|edicao\s+deluxe|deluxe\s+edition|deluxe\s+pack|upgrade|collector'?s\s+edition|ultimate\s+edition)\b"
+    if re.search(padroes_pacotes, nome_lower):
+        return True
+
+    # Títulos com conotação sexual / conteúdo adulto
+    padroes_sexuais = r"\b(sex|sexual|orgy|hentai|erotic|erotica|porn|porno|nsfw|eroge|lewd|ecchi|nude|naked|strip|boobs|milf|lust)\b"
+    if re.search(padroes_sexuais, nome_lower):
+        return True
+
+    return False
+
 def inferir_generos_texto(texto):
     """Extrai gêneros a partir do titulo ou descrioção caso metadados faltem"""
     if not texto:
@@ -366,6 +414,9 @@ for arquivo in os.listdir(pasta_raw):
     if not nome_jogo:
         continue
 
+    if eh_item_invalido(nome_jogo, data, origem):
+        continue
+
     chave = normalizar_nome(nome_jogo)
     if not chave:
         continue
@@ -478,6 +529,9 @@ for arquivo in os.listdir(pasta_raw):
 linhas_tabela = []
 
 for chave, reg in jogos_consolidados.items():
+    if eh_item_invalido(reg["nome_original"]):
+        continue
+
     # Define gênero primário e secundário priorizando a Steam, dps Epic, dps GOG
     todos_generos = (reg["steam_generos"] + reg["epic_generos"] + reg["gog_generos"])
     generos_unicos = list(dict.fromkeys(todos_generos))

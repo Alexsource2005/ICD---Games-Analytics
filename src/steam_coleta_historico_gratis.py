@@ -7,8 +7,6 @@ import requests
 
 os.makedirs("dados/raw", exist_ok=True)
 
-
-
 url = "https://www.nerdmaldito.com/2020/05/lista-com-todos-os-jogos-dados-pela.html"
 headers = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; x64) AppleWebKit/537.36")
