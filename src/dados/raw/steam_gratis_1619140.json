@@ -19,7 +19,7 @@
             "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619140/capsule_184x69.jpg?t=1650636066",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 85 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 340 MB available space</li></ul>"
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Espaço no disco:</strong> Requer 85 MB de espaço livre<br></li><li><strong>Espaço no disco (para áudio de alta qualidade):</strong> Requer mais 340 MB de espaço livre</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -39,7 +39,7 @@
             "categories": [
                 {
                     "id": 50,
-                    "description": "Additional High-Quality Audio"
+                    "description": "Áudio adicional de alta qualidade"
                 }
             ],
             "screenshots": [
@@ -62,7 +62,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "29 Apr, 2021"
+                "date": "29 abr. 2021"
             },
             "support_info": {
                 "url": "https://www.daedalicsupport.com",
@@ -74,7 +74,19 @@
                 "ids": [],
                 "notes": null
             },
-            "ratings": null
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 7,
+                    "review_score_desc": "Positive",
+                    "total_positive": 11,
+                    "total_negative": 2,
+                    "total_reviews": 13
+                },
+                "total_matching": 1,
+                "day_range_used": 90
+            }
         }
     }
 }

@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 599,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 5,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 254355
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 254355,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "City Of Brass - <span class=\"discount_original_price\">R$ 59,99</span> R$ 5,99",
+                            "option_text": "City Of Brass - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -225,7 +225,7 @@
                 }
             ],
             "recommendations": {
-                "total": 762
+                "total": 763
             },
             "achievements": {
                 "total": 54,
@@ -352,11 +352,11 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 394,
+                    "total_positive": 395,
                     "total_negative": 100,
-                    "total_reviews": 494
+                    "total_reviews": 495
                 },
-                "total_matching": 1,
+                "total_matching": 2,
                 "day_range_used": 30
             }
         }

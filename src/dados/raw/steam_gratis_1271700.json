@@ -87,8 +87,8 @@
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
                     "total_positive": 3235,
-                    "total_negative": 1158,
-                    "total_reviews": 4393
+                    "total_negative": 1160,
+                    "total_reviews": 4395
                 },
                 "total_matching": 11,
                 "day_range_used": 30
@@ -119,10 +119,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 12900,
-                "final": 12900,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 129,00"
+                "final": 1935,
+                "discount_percent": 85,
+                "initial_formatted": "R$ 129,00",
+                "final_formatted": "R$ 19,35"
             },
             "packages": [
                 442679,
@@ -140,23 +140,23 @@
                     "subs": [
                         {
                             "packageid": 442679,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -85%",
                             "percent_savings": 0,
-                            "option_text": "HOT WHEELS UNLEASHED™ - R$ 129,00",
+                            "option_text": "HOT WHEELS UNLEASHED™ - <span class=\"discount_original_price\">R$ 129,00</span> R$ 19,35",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12900
+                            "price_in_cents_with_discount": 1935
                         },
                         {
                             "packageid": 730504,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -85%",
                             "percent_savings": 0,
-                            "option_text": "HOT WHEELS UNLEASHED™ - Game of the Year Edition - R$ 299,00",
+                            "option_text": "HOT WHEELS UNLEASHED™ - Game of the Year Edition - <span class=\"discount_original_price\">R$ 299,00</span> R$ 44,85",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 29900
+                            "price_in_cents_with_discount": 4485
                         }
                     ]
                 }
@@ -320,7 +320,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5446
+                "total": 5451
             },
             "achievements": {
                 "total": 53,

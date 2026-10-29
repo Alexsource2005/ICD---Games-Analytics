@@ -19,11 +19,11 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 387,
+                    "total_positive": 389,
                     "total_negative": 116,
-                    "total_reviews": 503
+                    "total_reviews": 505
                 },
-                "total_matching": 4,
+                "total_matching": 6,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1385100/header.jpg?t=1789476911",
@@ -52,10 +52,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 599,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 5,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 486056
@@ -72,13 +72,13 @@
                     "subs": [
                         {
                             "packageid": 486056,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Insurmountable - <span class=\"discount_original_price\">R$ 59,99</span> R$ 5,99",
+                            "option_text": "Insurmountable - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -249,7 +249,7 @@
                 }
             ],
             "recommendations": {
-                "total": 836
+                "total": 838
             },
             "achievements": {
                 "total": 29,

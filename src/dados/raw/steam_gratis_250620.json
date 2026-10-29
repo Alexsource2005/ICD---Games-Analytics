@@ -17,11 +17,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3713,
+                    "total_positive": 3714,
                     "total_negative": 541,
-                    "total_reviews": 4254
+                    "total_reviews": 4255
                 },
-                "total_matching": 22,
+                "total_matching": 21,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250620/header.jpg?t=1792400102",
@@ -54,10 +54,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 659,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 6,59"
             },
             "packages": [
                 30505
@@ -74,13 +74,13 @@
                     "subs": [
                         {
                             "packageid": 30505,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Among the Sleep - Enhanced Edition - R$ 32,99",
+                            "option_text": "Among the Sleep - Enhanced Edition - <span class=\"discount_original_price\">R$ 32,99</span> R$ 6,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 659
                         }
                     ]
                 }
@@ -219,7 +219,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6381
+                "total": 6389
             },
             "achievements": {
                 "total": 10,

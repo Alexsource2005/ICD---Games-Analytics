@@ -51,10 +51,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2499,
-                "final": 749,
-                "discount_percent": 70,
-                "initial_formatted": "R$ 24,99",
-                "final_formatted": "R$ 7,49"
+                "final": 2499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 24,99"
             },
             "packages": [
                 891514
@@ -71,13 +71,13 @@
                     "subs": [
                         {
                             "packageid": 891514,
-                            "percent_savings_text": " -70%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Ticket to Ride - <span class=\"discount_original_price\">R$ 24,99</span> R$ 7,49",
+                            "option_text": "Ticket to Ride - R$ 24,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 749
+                            "price_in_cents_with_discount": 2499
                         }
                     ]
                 }
@@ -200,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1078
+                "total": 1079
             },
             "achievements": {
                 "total": 103,
@@ -332,11 +332,11 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 568,
+                    "total_positive": 572,
                     "total_negative": 283,
-                    "total_reviews": 851
+                    "total_reviews": 855
                 },
-                "total_matching": 17,
+                "total_matching": 18,
                 "day_range_used": 30
             }
         }

@@ -8,6 +8,77 @@ os.makedirs("dados/processed", exist_ok=True)
 pasta_raw = "dados/raw"
 jogos_consolidados = {}
 
+MESES = {
+    "janeiro": 1, "jan": 1, "january": 1,
+    "fevereiro": 2, "fev": 2, "february": 2, "feb": 2,
+    "março": 3, "marco": 3, "mar": 3, "march": 3,
+    "abril": 4, "abr": 4, "april": 4,
+    "maio": 5, "mai": 5, "may": 5,
+    "junho": 6, "jun": 6, "june": 6,
+    "julho": 7, "jul": 7, "july": 7,
+    "agosto": 8, "ago": 8, "august": 8, "aug": 8,
+    "setembro": 9, "set": 9, "september": 9, "sep": 9,
+    "outubro": 10, "out": 10, "october": 10, "oct": 10,
+    "novembro": 11, "nov": 11, "november": 11,
+    "dezembro": 12, "dez": 12, "december": 12, "dec": 12
+}
+
+def padronizar_data_acquisicao(texto_data):
+    """Garante a formatação dd/mm/aaaa - dd/mm/aaaa no ETL."""
+    if not texto_data or not isinstance(texto_data, str):
+        return None
+    
+    texto = texto_data.strip()
+    if not texto or texto.lower() in ["desconhecida", "n/a", "none", "null"]:
+        return None
+
+    # Caso já esteja perfeitamente no formato
+    if re.fullmatch(r"\d{2}/\d{2}/\d{4}\s*-\s*\d{2}/\d{2}/\d{4}", texto):
+        return re.sub(r"\s*-\s*", " - ", texto)
+
+    texto_lower = texto.lower()
+    anos = re.findall(r"\b(20\d{2})\b", texto_lower)
+    ano_base = anos[0] if anos else "2020"
+
+    # 1. Duas datas completas dd/mm/aaaa
+    datas_completas = re.findall(r"\b(\d{1,2})[\/\.-](\d{1,2})[\/\.-](\d{2,4})\b", texto_lower)
+    if len(datas_completas) == 2:
+        d1, m1, y1 = datas_completas[0]
+        d2, m2, y2 = datas_completas[1]
+        y1 = f"20{y1}" if len(y1) == 2 else y1
+        y2 = f"20{y2}" if len(y2) == 2 else y2
+        return f"{int(d1):02d}/{int(m1):02d}/{y1} - {int(d2):02d}/{int(m2):02d}/{y2}"
+
+    # 2. Intervalo numérico (ex: "12 a 19/12/2019" ou "07/05 a 14/05/2020")
+    m_range_num = re.search(r"\b(\d{1,2})(?:[\/\.-](\d{1,2}))?\s*(?:a|-|–|à|até)\s*(\d{1,2})[\/\.-](\d{1,2})(?:[\/\.-](\d{2,4}))?\b", texto_lower)
+    if m_range_num:
+        dia_ini, mes_ini, dia_fim, mes_fim, ano_str = m_range_num.groups()
+        ano = f"20{ano_str}" if ano_str and len(ano_str) == 2 else (ano_str or ano_base)
+        m_ini = int(mes_ini) if mes_ini else int(mes_fim)
+        m_fim = int(mes_fim)
+        ano_fim = str(int(ano) + 1) if m_ini == 12 and m_fim == 1 else ano
+        return f"{int(dia_ini):02d}/{m_ini:02d}/{ano} - {int(dia_fim):02d}/{m_fim:02d}/{ano_fim}"
+
+    # 3. Intervalo com meses por extenso (ex: "Setembro 5-12, 2019")
+    m_mes_primeiro = re.search(r"([a-zç]+)\s*(\d{1,2})\s*[-–aà]\s*(?:([a-zç]+)\s*)?(\d{1,2})(?:[,\s]+(20\d{2}))?", texto_lower)
+    if m_mes_primeiro and m_mes_primeiro.group(1) in MESES:
+        m1 = MESES[m_mes_primeiro.group(1)]
+        d1 = int(m_mes_primeiro.group(2))
+        m2_str = m_mes_primeiro.group(3)
+        m2 = MESES[m2_str] if m2_str and m2_str in MESES else m1
+        d2 = int(m_mes_primeiro.group(4))
+        ano = m_mes_primeiro.group(5) or ano_base
+        ano_fim = str(int(ano) + 1) if m1 == 12 and m2 == 1 else ano
+        return f"{d1:02d}/{m1:02d}/{ano} - {d2:02d}/{m2:02d}/{ano_fim}"
+
+    # 4. Apenas 1 data completa
+    if len(datas_completas) == 1:
+        d, m, y = datas_completas[0]
+        y = f"20{y}" if len(y) == 2 else y
+        return f"{int(d):02d}/{int(m):02d}/{y} - {int(d):02d}/{int(m):02d}/{y}"
+
+    return texto_data
+
 def extrair_preco_original_steam(dados_json):
     """Extrai o preço cheio/original da Steam."""
     if not isinstance(dados_json, dict):
@@ -290,7 +361,8 @@ for arquivo in os.listdir(pasta_raw):
             reg["epic_generos"] = [t for t in tag_names if t and not t.startswith("vfx")]
 
         if "gratis" in arquivo:
-            reg["epic_gratis_data"] = data.get("data_aquisicao_gratis")
+            raw_gratis = data.get("data_aquisicao_gratis")
+            reg["epic_gratis_data"] = padronizar_data_acquisicao(raw_gratis)
 
     elif origem == "gog":
         reg["tem_gog"] = True

@@ -23,7 +23,7 @@
                     "total_negative": 176,
                     "total_reviews": 533
                 },
-                "total_matching": 3,
+                "total_matching": 2,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984800/header.jpg?t=1777282566",
@@ -57,11 +57,11 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 7999,
-                "final": 1199,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 79,99",
-                "final_formatted": "R$ 11,99"
+                "initial": 7990,
+                "final": 7990,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 79,90"
             },
             "packages": [
                 324190,
@@ -78,16 +78,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 1535787,
-                            "percent_savings_text": " -85%",
-                            "percent_savings": 0,
-                            "option_text": "Automachef - Deluxe Edition - <span class=\"discount_original_price\">R$ 79,99</span> R$ 11,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
-                        },
-                        {
                             "packageid": 324190,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -96,6 +86,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 7990
+                        },
+                        {
+                            "packageid": 1535787,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Automachef - Deluxe Edition - R$ 79,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 7999
                         }
                     ]
                 }

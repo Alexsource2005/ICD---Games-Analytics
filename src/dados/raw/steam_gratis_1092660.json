@@ -21,11 +21,11 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 2971,
-                    "total_negative": 861,
-                    "total_reviews": 3832
+                    "total_positive": 2972,
+                    "total_negative": 863,
+                    "total_reviews": 3835
                 },
-                "total_matching": 57,
+                "total_matching": 55,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/b16e513ad013f176e24a8d66f2c3ff55d1d9668a/header.jpg?t=1773944489",
@@ -54,10 +54,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5799,
-                "final": 5799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 57,99"
+                "final": 1159,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 57,99",
+                "final_formatted": "R$ 11,59"
             },
             "packages": [
                 368058,
@@ -75,23 +75,23 @@
                     "subs": [
                         {
                             "packageid": 368058,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Blair Witch - R$ 57,99",
+                            "option_text": "Blair Witch - <span class=\"discount_original_price\">R$ 57,99</span> R$ 11,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5799
+                            "price_in_cents_with_discount": 1159
                         },
                         {
                             "packageid": 388292,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Blair Witch Deluxe Edition - R$ 65,99",
+                            "option_text": "Blair Witch Deluxe Edition - <span class=\"discount_original_price\">R$ 65,99</span> R$ 13,19",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6599
+                            "price_in_cents_with_discount": 1319
                         }
                     ]
                 }
@@ -198,7 +198,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6589
+                "total": 6592
             },
             "achievements": {
                 "total": 25,

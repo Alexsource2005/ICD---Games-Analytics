@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1961,
+                    "total_positive": 1959,
                     "total_negative": 322,
-                    "total_reviews": 2283
+                    "total_reviews": 2281
                 },
                 "total_matching": 4,
                 "day_range_used": 30
@@ -46,10 +46,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 1199,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 11,99"
             },
             "packages": [
                 432184
@@ -66,13 +66,13 @@
                     "subs": [
                         {
                             "packageid": 432184,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Golden Light - R$ 59,99",
+                            "option_text": "Golden Light - <span class=\"discount_original_price\">R$ 59,99</span> R$ 11,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1199
                         }
                     ]
                 }
@@ -200,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1963
+                "total": 1962
             },
             "achievements": {
                 "total": 67,

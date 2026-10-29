@@ -1,0 +1,396 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "undying",
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "productName": "Undying",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic",
+            "accent": "#ffffff"
+        }
+    },
+    "namespace": "487df1dfd24b44c381a2a376fbf78946",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/undying",
+    "_slug": "undying",
+    "_activeDate": "2023-12-07T09:59:00.000Z",
+    "lastModified": "2021-10-13T22:31:43.931Z",
+    "_locale": "pt-BR",
+    "_id": "489091e9-30ed-4880-bcd3-06429e05405a",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "productName": "Undying",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic",
+                    "accent": "#ffffff"
+                }
+            },
+            "namespace": "487df1dfd24b44c381a2a376fbf78946",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/undying/home",
+            "_slug": "home",
+            "_activeDate": "2021-10-07T08:11:07.939Z",
+            "lastModified": "2023-12-06T21:28:17.954Z",
+            "_locale": "pt-BR",
+            "_id": "979f2b0d-1153-42c6-9980-3410c1eb2827",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "487df1dfd24b44c381a2a376fbf78946",
+                "id": "c9d2e42d8b404add9390c0182093abbd",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false,
+                "namespace": ""
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, chinês simplificado, italiano, japonês, coreano, português, português (Brasil), russo, espanhol (Espanha), espanhol (América Latina), alemão, francês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 SP1, Windows 8.1 ou Windows 10",
+                                    "recommended": "Windows 7 SP1, Windows 8.1 ou Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel® i3-3220, AMD FX 6300 (equivalente ou melhor)",
+                                    "recommended": "Intel® i5-4590, AMD FX 8350 (equivalente ou melhor)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce® GTX 650 (equivalente ou melhor)",
+                                    "recommended": "NVIDIA GeForce® GTX 960 (equivalente ou melhor)"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/playundying",
+                    "linkTwitch": "https://twitch.tv/skystonegames",
+                    "linkFacebook": "https://facebook.com/playundying",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/playundying",
+                    "linkHomepage": "https://www.vanimals.net/",
+                    "linkInstagram": "https://instagram.com/playundying"
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Vanimals. Developed by Vanimals and Published by Skystone Games. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.vanimals.net/?page_id=133",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-s1-2560x1440-2dfad3091dc9.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Vanimals",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Skystone Games Inc.",
+                    "description": "Não deixe de incluir UNDYING na sua Lista de Desejos para ser um dos primeiros a vivenciar esse conto emocionante quando o jogo for lançado.\n\nInfectada pela mordida de um zumbi, os dias de Anling estão contados. Agora, ela precisa lutar para sobreviver – não por si mesma, mas por seu filho Cody. Proteja Cody e ensine algumas habilidades valiosas a qualquer custo para assegurar a sobrevivência dele em um mundo infestado de zumbis.\n\nNesse emocionante jogo de sobrevivência, controle Anling, cujo objetivo é garantir que seu filho Cody ficará seguro e conseguirá sobreviver depois que ela se transformar. Seus recursos limitados terão que ser gerenciados para desacelerar a infecção de Anling e, ao mesmo tempo, garantir Anling e Cody não morram de fome ou sede.\n\n# TAL MÃE, TAL FILHO\n\nCody vai aprender com as ações da mãe – do combate até a culinária. Não esqueça de mostrar a ele os fundamentos da sobrevivência antes que seja tarde demais.\n\n# QUANDO A VIDA DER PEÇAS DE METAL...\n\nFique sempre de olho em qualquer material. Nunca se sabe o que é valioso para um comerciante ou que tipo de item útil você conseguirá fabricar com ele.\n\n# BOMBA-RELÓGIO\n\nA infecção de Anling está sempre se agravando. Administre seus dias e aproveite ao máximo o tempo que lhe resta. Você vai ter que continuar seguindo em frente, porque o tempo não espera ninguém.\n\n# VALORIZE O PRESENTE\n\nNão esqueça a razão pela qual está lutando. Aproveite os pequenos momentos...\n\n# CARACTERÍSTICAS DO JOGO\n\n- Jogo de sobrevivência em perspectiva \"top down\" e ciclo de dia e noite em tempo real.\n- Mapa gerado pelo jogador\n- Alta capacidade de repetir o jogo com elementos \"rogue-like\"\n- Arte em um lindo estilo \"low-poly\"\n- Dezenas de NPCs para interagir\n- História emocionante sobre sobrevivência e desapego\n- Veja seu filho crescendo enquanto a IA vai aprendendo com você\n- Trilha sonora incrível",
+                    "shortDescription": "Ao ser infectada por um zumbi, os dias de Anling estão contados. Agora, ela precisa lutar para sobreviver – não por si mesma, mas por seu filho Cody. Busque segurança, proteja Cody e ensine algumas habilidades valiosas a qualquer custo para assegurar a sobrevivência dele em um mundo infestado de zumbis.",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-ic1-400x400-3fdc4b023db6.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-undying-vanimals-s2-1200x1600-a3abb142978d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-undying-vanimals-s1-2560x1440-2dfad3091dc9.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/efd662aecdc94cf6a9a690f10dc3e562/efd662aecdc94cf6a9a690f10dc3e562.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-undying-vanimals-g1c-00-1920x1080-5951c21adf07.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"e5322186bcc24f9f8eb035792c25fe9f\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/f82f928f6b2749bf91088c6978be6cad/f82f928f6b2749bf91088c6978be6cad.mpd\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-undying-vanimals-g1c-00-1920x1080-5951c21adf07.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"e80daca01963400a84e96e618d459459\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/23d80ee45e834b66bc0a5b58b98a6113/23d80ee45e834b66bc0a5b58b98a6113.m3u8\"\n        },\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://cdn2.unrealengine.com/egs-undying-vanimals-g1c-00-1920x1080-5951c21adf07.jpg\"\n        }\n      ],\n      \"mediaRefId\": \"d13cf16cfdac451c95fc45564989544e\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/2fc8f73a3fc64a27a0ef7fea81c48dda/2fc8f73a3fc64a27a0ef7fea81c48dda-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/2fc8f73a3fc64a27a0ef7fea81c48dda/2fc8f73a3fc64a27a0ef7fea81c48dda.m3u8\"\n        }\n      ],\n      \"mediaRefId\": \"2239905d73164f8da5d6c0156ae166fa\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/c2027d491e96482980fb7b2a628fb8e2/c2027d491e96482980fb7b2a628fb8e2-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/c2027d491e96482980fb7b2a628fb8e2/c2027d491e96482980fb7b2a628fb8e2.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"902541bf664745d5b9450d0860a3b18a\"\n    },\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/a6b68009e7d9487d9ebc5f61f566f9b0/a6b68009e7d9487d9ebc5f61f566f9b0-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/a6b68009e7d9487d9ebc5f61f566f9b0/a6b68009e7d9487d9ebc5f61f566f9b0.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"be147839388944a4b1ffffb1a07361a2\"\n    }\n  ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Undying trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-02-1920x1080-908de2428950.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-03-1920x1080-32b3d630b054.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-04-1920x1080-d64ad2105ce3.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-05-1920x1080-ada80b7a06af.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-06-1920x1080-15448262bca2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-10-19T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "HORROR",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Undying"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-s2-1200x1600-a3abb142978d.jpg",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-s1-2560x1440-2dfad3091dc9.jpg",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-02-1920x1080-908de2428950.jpg",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-ic1-400x400-3fdc4b023db6.png",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-06-1920x1080-15448262bca2.jpg",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-04-1920x1080-d64ad2105ce3.jpg",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-03-1920x1080-32b3d630b054.jpg",
+                "https://cdn2.unrealengine.com/egs-undying-vanimals-g1a-05-1920x1080-ada80b7a06af.jpg"
+            ]
+        }
+    ],
+    "data_aquisicao_gratis": "30/01/2025 - 06/02/2025"
+}

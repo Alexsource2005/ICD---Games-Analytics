@@ -17,10 +17,10 @@
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
                     "total_positive": 2164,
-                    "total_negative": 249,
-                    "total_reviews": 2413
+                    "total_negative": 250,
+                    "total_reviews": 2414
                 },
-                "total_matching": 5,
+                "total_matching": 6,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254320/header.jpg?t=1776751920",
@@ -45,10 +45,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3699,
-                "final": 3699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 36,99"
+                "final": 1849,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 36,99",
+                "final_formatted": "R$ 18,49"
             },
             "packages": [
                 31212
@@ -65,13 +65,13 @@
                     "subs": [
                         {
                             "packageid": 31212,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Duskers - R$ 36,99",
+                            "option_text": "Duskers - <span class=\"discount_original_price\">R$ 36,99</span> R$ 18,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3699
+                            "price_in_cents_with_discount": 1849
                         }
                     ]
                 }
@@ -223,7 +223,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2316
+                "total": 2317
             },
             "achievements": {
                 "total": 16,

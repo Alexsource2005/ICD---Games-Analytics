@@ -17,11 +17,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 833,
+                    "total_positive": 834,
                     "total_negative": 29,
-                    "total_reviews": 862
+                    "total_reviews": 863
                 },
-                "total_matching": 15,
+                "total_matching": 16,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959390/786eb153ead8950e63b22c4449060ebaa51f189f/header.jpg?t=1790870668",
@@ -56,10 +56,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 4199,
+                "discount_percent": 30,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 41,99"
             },
             "packages": [
                 707203
@@ -76,13 +76,13 @@
                     "subs": [
                         {
                             "packageid": 707203,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -30%",
                             "percent_savings": 0,
-                            "option_text": "Fear the Spotlight - R$ 59,99",
+                            "option_text": "Fear the Spotlight - <span class=\"discount_original_price\">R$ 59,99</span> R$ 41,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
@@ -218,7 +218,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1228
+                "total": 1231
             },
             "achievements": {
                 "total": 35,

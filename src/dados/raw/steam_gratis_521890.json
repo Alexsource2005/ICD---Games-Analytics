@@ -46,14 +46,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8899,
-                "final": 8899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 88,99"
+                "final": 1779,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 88,99",
+                "final_formatted": "R$ 17,79"
             },
             "packages": [
-                401917,
-                123841
+                123841,
+                401917
             ],
             "package_groups": [
                 {
@@ -66,6 +66,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 123841,
+                            "percent_savings_text": " -80%",
+                            "percent_savings": 0,
+                            "option_text": "Hello Neighbor - <span class=\"discount_original_price\">R$ 88,99</span> R$ 17,79",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1779
+                        },
+                        {
                             "packageid": 401917,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -74,16 +84,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5799
-                        },
-                        {
-                            "packageid": 123841,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Hello Neighbor - R$ 88,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 8899
                         }
                     ]
                 }
@@ -227,7 +227,7 @@
                 }
             ],
             "recommendations": {
-                "total": 27225
+                "total": 27285
             },
             "achievements": {
                 "total": 17,
@@ -365,11 +365,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 11382,
-                    "total_negative": 2580,
-                    "total_reviews": 13962
+                    "total_positive": 11403,
+                    "total_negative": 2583,
+                    "total_reviews": 13986
                 },
-                "total_matching": 352,
+                "total_matching": 323,
                 "day_range_used": 30
             }
         }

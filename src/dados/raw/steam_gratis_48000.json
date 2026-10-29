@@ -17,11 +17,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 19405,
-                    "total_negative": 1746,
-                    "total_reviews": 21151
+                    "total_positive": 19406,
+                    "total_negative": 1749,
+                    "total_reviews": 21155
                 },
-                "total_matching": 91,
+                "total_matching": 90,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg?t=1761819450",
@@ -52,14 +52,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3649,
-                "final": 3649,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 36,49"
+                "final": 364,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 36,49",
+                "final_formatted": "R$ 3,64"
             },
             "packages": [
-                374631,
-                11010
+                11010,
+                374631
             ],
             "package_groups": [
                 {
@@ -72,6 +72,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 11010,
+                            "percent_savings_text": " -90%",
+                            "percent_savings": 0,
+                            "option_text": "Limbo - <span class=\"discount_original_price\">R$ 36,49</span> R$ 3,64",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 364
+                        },
+                        {
                             "packageid": 374631,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -80,16 +90,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 2099
-                        },
-                        {
-                            "packageid": 11010,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Limbo - R$ 36,49",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 3649
                         }
                     ]
                 }
@@ -249,7 +249,7 @@
                 }
             ],
             "recommendations": {
-                "total": 40909
+                "total": 40929
             },
             "achievements": {
                 "total": 13,

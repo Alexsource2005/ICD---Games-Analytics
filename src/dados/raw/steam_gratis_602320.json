@@ -32,11 +32,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1461,
+                    "total_positive": 1464,
                     "total_negative": 190,
-                    "total_reviews": 1651
+                    "total_reviews": 1654
                 },
-                "total_matching": 8,
+                "total_matching": 11,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602320/header.jpg?t=1787752851",
@@ -68,10 +68,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2899,
-                "final": 231,
-                "discount_percent": 92,
-                "initial_formatted": "R$ 28,99",
-                "final_formatted": "R$ 2,31"
+                "final": 2899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 28,99"
             },
             "packages": [
                 158327
@@ -88,13 +88,13 @@
                     "subs": [
                         {
                             "packageid": 158327,
-                            "percent_savings_text": " -92%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Train Valley 2 - <span class=\"discount_original_price\">R$ 28,99</span> R$ 2,31",
+                            "option_text": "Train Valley 2 - R$ 28,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 231
+                            "price_in_cents_with_discount": 2899
                         }
                     ]
                 }
@@ -255,7 +255,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2371
+                "total": 2375
             },
             "achievements": {
                 "total": 120,

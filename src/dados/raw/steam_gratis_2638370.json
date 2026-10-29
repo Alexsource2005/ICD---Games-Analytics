@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 3599,
+                "discount_percent": 40,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 35,99"
             },
             "packages": [
                 946015
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 946015,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -40%",
                             "percent_savings": 0,
-                            "option_text": "Five Nights at Freddy's: Into the Pit - R$ 59,99",
+                            "option_text": "Five Nights at Freddy's: Into the Pit - <span class=\"discount_original_price\">R$ 59,99</span> R$ 35,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 3599
                         }
                     ]
                 }
@@ -240,7 +240,7 @@
                 }
             ],
             "recommendations": {
-                "total": 10218
+                "total": 10224
             },
             "achievements": {
                 "total": 38,
@@ -376,11 +376,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 5299,
+                    "total_positive": 5301,
                     "total_negative": 256,
-                    "total_reviews": 5555
+                    "total_reviews": 5557
                 },
-                "total_matching": 23,
+                "total_matching": 21,
                 "day_range_used": 30
             }
         }

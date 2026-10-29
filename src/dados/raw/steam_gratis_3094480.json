@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4199,
-                "final": 1679,
-                "discount_percent": 60,
-                "initial_formatted": "R$ 41,99",
-                "final_formatted": "R$ 16,79"
+                "final": 4199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 41,99"
             },
             "packages": [
                 1099298
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 1099298,
-                            "percent_savings_text": " -60%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Bad Cheese - <span class=\"discount_original_price\">R$ 41,99</span> R$ 16,79",
+                            "option_text": "Bad Cheese - R$ 41,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
@@ -164,7 +164,7 @@
                 }
             ],
             "recommendations": {
-                "total": 633
+                "total": 632
             },
             "achievements": {
                 "total": 23,

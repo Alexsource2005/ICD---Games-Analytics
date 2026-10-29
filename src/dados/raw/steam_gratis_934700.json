@@ -55,10 +55,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 24900,
-                "final": 24900,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 249,00"
+                "final": 2490,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 249,00",
+                "final_formatted": "R$ 24,90"
             },
             "packages": [
                 303210,
@@ -76,13 +76,13 @@
                     "subs": [
                         {
                             "packageid": 303210,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Dead Island 2 - R$ 249,00",
+                            "option_text": "Dead Island 2 - <span class=\"discount_original_price\">R$ 249,00</span> R$ 24,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 24900
+                            "price_in_cents_with_discount": 2490
                         },
                         {
                             "packageid": 1004410,
@@ -281,7 +281,7 @@
                 }
             ],
             "recommendations": {
-                "total": 23890
+                "total": 23952
             },
             "achievements": {
                 "total": 59,
@@ -461,11 +461,11 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 10514,
-                    "total_negative": 3196,
-                    "total_reviews": 13710
+                    "total_positive": 10538,
+                    "total_negative": 3209,
+                    "total_reviews": 13747
                 },
-                "total_matching": 277,
+                "total_matching": 279,
                 "day_range_used": 30
             }
         }

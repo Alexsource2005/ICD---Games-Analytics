@@ -23,7 +23,7 @@
                     "total_negative": 1242,
                     "total_reviews": 7139
                 },
-                "total_matching": 15,
+                "total_matching": 14,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/header.jpg?t=1787828488",
@@ -49,10 +49,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3599,
-                "final": 3599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 35,99"
+                "final": 1223,
+                "discount_percent": 66,
+                "initial_formatted": "R$ 35,99",
+                "final_formatted": "R$ 12,23"
             },
             "packages": [
                 56873
@@ -69,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 56873,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -66%",
                             "percent_savings": 0,
-                            "option_text": "SUNLESS SEA - R$ 35,99",
+                            "option_text": "SUNLESS SEA - <span class=\"discount_original_price\">R$ 35,99</span> R$ 12,23",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3599
+                            "price_in_cents_with_discount": 1223
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7640
+                "total": 7641
             },
             "achievements": {
                 "total": 54,

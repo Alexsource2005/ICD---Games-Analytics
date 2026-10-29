@@ -20,11 +20,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 24329,
-                    "total_negative": 1842,
-                    "total_reviews": 26171
+                    "total_positive": 24360,
+                    "total_negative": 1844,
+                    "total_reviews": 26204
                 },
-                "total_matching": 275,
+                "total_matching": 262,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg?t=1784712345",
@@ -59,10 +59,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 13990,
-                "final": 13990,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 139,90"
+                "final": 1399,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 139,90",
+                "final_formatted": "R$ 13,99"
             },
             "packages": [
                 340715,
@@ -80,13 +80,13 @@
                     "subs": [
                         {
                             "packageid": 340715,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "A Plague Tale: Innocence - R$ 139,90",
+                            "option_text": "A Plague Tale: Innocence - <span class=\"discount_original_price\">R$ 139,90</span> R$ 13,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 13990
+                            "price_in_cents_with_discount": 1399
                         },
                         {
                             "packageid": 802975,
@@ -279,7 +279,7 @@
                 }
             ],
             "recommendations": {
-                "total": 64235
+                "total": 64328
             },
             "achievements": {
                 "total": 35,

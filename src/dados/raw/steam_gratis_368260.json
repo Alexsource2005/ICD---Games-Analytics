@@ -25,11 +25,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 13504,
-                    "total_negative": 2910,
-                    "total_reviews": 16414
+                    "total_positive": 13512,
+                    "total_negative": 2914,
+                    "total_reviews": 16426
                 },
-                "total_matching": 106,
+                "total_matching": 101,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368260/header.jpg?t=1732138093",
@@ -59,10 +59,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 29990,
-                "final": 29990,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 299,90"
+                "final": 4498,
+                "discount_percent": 85,
+                "initial_formatted": "R$ 299,90",
+                "final_formatted": "R$ 44,98"
             },
             "packages": [
                 799856,
@@ -81,13 +81,23 @@
                     "subs": [
                         {
                             "packageid": 799856,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -85%",
                             "percent_savings": 0,
-                            "option_text": "Marvel's Midnight Suns - R$ 299,90",
+                            "option_text": "Marvel's Midnight Suns - <span class=\"discount_original_price\">R$ 299,90</span> R$ 44,98",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 29990
+                            "price_in_cents_with_discount": 4498
+                        },
+                        {
+                            "packageid": 799854,
+                            "percent_savings_text": " -80%",
+                            "percent_savings": 0,
+                            "option_text": "Marvel's Midnight Suns Legendary Edition - <span class=\"discount_original_price\">R$ 499,50</span> R$ 99,90",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 9990
                         },
                         {
                             "packageid": 799855,
@@ -98,16 +108,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 39950
-                        },
-                        {
-                            "packageid": 799854,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Marvel's Midnight Suns Legendary Edition - R$ 499,50",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 49950
                         }
                     ]
                 }
@@ -257,7 +257,7 @@
                 }
             ],
             "recommendations": {
-                "total": 17229
+                "total": 17246
             },
             "achievements": {
                 "total": 72,

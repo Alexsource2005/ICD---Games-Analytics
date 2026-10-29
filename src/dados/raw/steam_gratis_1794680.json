@@ -48,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1299,
-                "final": 974,
-                "discount_percent": 25,
-                "initial_formatted": "R$ 12,99",
-                "final_formatted": "R$ 9,74"
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 12,99"
             },
             "packages": [
                 644402
@@ -68,13 +68,13 @@
                     "subs": [
                         {
                             "packageid": 644402,
-                            "percent_savings_text": " -25%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Vampire Survivors - <span class=\"discount_original_price\">R$ 12,99</span> R$ 9,74",
+                            "option_text": "Vampire Survivors - R$ 12,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 974
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
@@ -215,7 +215,7 @@
                 }
             ],
             "recommendations": {
-                "total": 252567
+                "total": 252671
             },
             "achievements": {
                 "total": 243,
@@ -345,11 +345,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 134293,
+                    "total_positive": 134349,
                     "total_negative": 2201,
-                    "total_reviews": 136494
+                    "total_reviews": 136550
                 },
-                "total_matching": 445,
+                "total_matching": 459,
                 "day_range_used": 30
             }
         }

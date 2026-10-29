@@ -54,11 +54,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 72420,
-                    "total_negative": 16389,
-                    "total_reviews": 88809
+                    "total_positive": 72430,
+                    "total_negative": 16391,
+                    "total_reviews": 88821
                 },
-                "total_matching": 237,
+                "total_matching": 204,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/7655099ca004b09198b83713ad0d8215b98f7d5f/header_alt_assets_6.jpg?t=1790181050",
@@ -86,17 +86,17 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 16990,
-                "final": 16990,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 169,90"
+                "initial": 20499,
+                "final": 5124,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 204,99",
+                "final_formatted": "R$ 51,24"
             },
             "packages": [
                 589120,
                 196643,
-                939454,
-                939455
+                939455,
+                939454
             ],
             "package_groups": [
                 {
@@ -108,6 +108,16 @@
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
+                        {
+                            "packageid": 939455,
+                            "percent_savings_text": " -75%",
+                            "percent_savings": 0,
+                            "option_text": "Hell Let Loose - Ultimate Edition - <span class=\"discount_original_price\">R$ 204,99</span> R$ 51,24",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5124
+                        },
                         {
                             "packageid": 589120,
                             "percent_savings_text": " ",
@@ -137,16 +147,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 19490
-                        },
-                        {
-                            "packageid": 939455,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Hell Let Loose - Ultimate Edition - R$ 204,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 20499
                         }
                     ]
                 }
@@ -320,7 +320,7 @@
                 }
             ],
             "recommendations": {
-                "total": 100004
+                "total": 100032
             },
             "achievements": {
                 "total": 195,

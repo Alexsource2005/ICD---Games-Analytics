@@ -22,9 +22,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3771,
-                    "total_negative": 492,
-                    "total_reviews": 4263
+                    "total_positive": 3778,
+                    "total_negative": 494,
+                    "total_reviews": 4272
                 },
                 "total_matching": 44,
                 "day_range_used": 30
@@ -49,10 +49,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 1979,
+                "discount_percent": 67,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 19,79"
             },
             "packages": [
                 561870
@@ -69,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 561870,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -67%",
                             "percent_savings": 0,
-                            "option_text": "Blood West - R$ 59,99",
+                            "option_text": "Blood West - <span class=\"discount_original_price\">R$ 59,99</span> R$ 19,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1979
                         }
                     ]
                 }
@@ -280,7 +280,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6220
+                "total": 6234
             },
             "achievements": {
                 "total": 59,

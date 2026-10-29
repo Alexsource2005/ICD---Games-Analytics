@@ -25,11 +25,11 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 3384,
-                    "total_negative": 945,
-                    "total_reviews": 4329
+                    "total_positive": 3388,
+                    "total_negative": 948,
+                    "total_reviews": 4336
                 },
-                "total_matching": 39,
+                "total_matching": 40,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144740/header.jpg?t=1741369902",
@@ -51,16 +51,16 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 16199,
-                "final": 16199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 161,99"
+                "initial": 27990,
+                "final": 5598,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 279,90",
+                "final_formatted": "R$ 55,98"
             },
             "packages": [
+                894783,
                 767206,
-                894782,
-                894783
+                894782
             ],
             "package_groups": [
                 {
@@ -72,6 +72,16 @@
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
+                        {
+                            "packageid": 894783,
+                            "percent_savings_text": " -80%",
+                            "percent_savings": 0,
+                            "option_text": "Ghostrunner 2 Brutal Edition - <span class=\"discount_original_price\">R$ 279,90</span> R$ 55,98",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5598
+                        },
                         {
                             "packageid": 767206,
                             "percent_savings_text": " ",
@@ -91,16 +101,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 19999
-                        },
-                        {
-                            "packageid": 894783,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Ghostrunner 2 Brutal Edition - R$ 279,90",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 27990
                         }
                     ]
                 }
@@ -272,7 +272,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8116
+                "total": 8125
             },
             "achievements": {
                 "total": 34,

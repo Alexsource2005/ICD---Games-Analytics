@@ -44,10 +44,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 9999,
-                "final": 999,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 99,99",
-                "final_formatted": "R$ 9,99"
+                "final": 9999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 99,99"
             },
             "packages": [
                 246051
@@ -64,13 +64,13 @@
                     "subs": [
                         {
                             "packageid": 246051,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Iratus: Lord of the Dead - <span class=\"discount_original_price\">R$ 99,99</span> R$ 9,99",
+                            "option_text": "Iratus: Lord of the Dead - R$ 99,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 9999
                         }
                     ]
                 }
@@ -226,7 +226,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7234
+                "total": 7239
             },
             "achievements": {
                 "total": 75,
@@ -360,11 +360,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2880,
+                    "total_positive": 2882,
                     "total_negative": 495,
-                    "total_reviews": 3375
+                    "total_reviews": 3377
                 },
-                "total_matching": 6,
+                "total_matching": 8,
                 "day_range_used": 30
             }
         }

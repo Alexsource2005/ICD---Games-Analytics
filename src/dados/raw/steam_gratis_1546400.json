@@ -50,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7399,
-                "final": 7399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 73,99"
+                "final": 2589,
+                "discount_percent": 65,
+                "initial_formatted": "R$ 73,99",
+                "final_formatted": "R$ 25,89"
             },
             "packages": [
                 546106
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 546106,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -65%",
                             "percent_savings": 0,
-                            "option_text": "GigaBash - R$ 73,99",
+                            "option_text": "GigaBash - <span class=\"discount_original_price\">R$ 73,99</span> R$ 25,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7399
+                            "price_in_cents_with_discount": 2589
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1971
+                "total": 1973
             },
             "achievements": {
                 "total": 35,
@@ -441,9 +441,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1416,
-                    "total_negative": 82,
-                    "total_reviews": 1498
+                    "total_positive": 1417,
+                    "total_negative": 83,
+                    "total_reviews": 1500
                 },
                 "total_matching": 13,
                 "day_range_used": 30

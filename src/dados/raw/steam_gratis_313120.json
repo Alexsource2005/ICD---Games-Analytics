@@ -213,6 +213,15 @@
             ],
             "movies": [
                 {
+                    "id": 256853391,
+                    "name": "Stranded Deep - Online Co-op Launch Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256853391/movie.293x165.jpg?t=1632807405",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/313120/404714/3e2ace759413bbb05a1cd10d75aa5ea5afe438e2/1750507044/dash_av1.mpd?t=1632807405",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/313120/404714/3e2ace759413bbb05a1cd10d75aa5ea5afe438e2/1750507044/dash_h264.mpd?t=1632807405",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/313120/404714/3e2ace759413bbb05a1cd10d75aa5ea5afe438e2/1750507044/hls_264_master.m3u8?t=1632807405",
+                    "highlight": true
+                },
+                {
                     "id": 256853394,
                     "name": "Stranded Deep - Official Trailer",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256853394/movie.293x165.jpg?t=1632807414",
@@ -232,7 +241,7 @@
                 }
             ],
             "recommendations": {
-                "total": 43868
+                "total": 43903
             },
             "achievements": {
                 "total": 37,
@@ -364,11 +373,11 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 18779,
-                    "total_negative": 6973,
-                    "total_reviews": 25752
+                    "total_positive": 18785,
+                    "total_negative": 6983,
+                    "total_reviews": 25768
                 },
-                "total_matching": 386,
+                "total_matching": 398,
                 "day_range_used": 30
             }
         }

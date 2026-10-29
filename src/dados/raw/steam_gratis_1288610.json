@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3999,
-                "final": 399,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 39,99",
-                "final_formatted": "R$ 3,99"
+                "final": 3999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 39,99"
             },
             "packages": [
                 449341
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 449341,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Wildcat Gun Machine - <span class=\"discount_original_price\">R$ 39,99</span> R$ 3,99",
+                            "option_text": "Wildcat Gun Machine - R$ 39,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 3999
                         }
                     ]
                 }
@@ -313,7 +313,7 @@
                     "total_negative": 11,
                     "total_reviews": 37
                 },
-                "total_matching": 3,
+                "total_matching": 2,
                 "day_range_used": 90
             }
         }

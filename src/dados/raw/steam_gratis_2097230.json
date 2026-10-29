@@ -17,11 +17,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 1756,
+                    "total_positive": 1758,
                     "total_negative": 83,
-                    "total_reviews": 1839
+                    "total_reviews": 1841
                 },
-                "total_matching": 9,
+                "total_matching": 10,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097230/header.jpg?t=1791332253",
@@ -50,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 2819,
-                "discount_percent": 40,
-                "initial_formatted": "R$ 46,99",
-                "final_formatted": "R$ 28,19"
+                "final": 4699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 46,99"
             },
             "packages": [
                 749550
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 749550,
-                            "percent_savings_text": " -40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Turnip Boy Robs a Bank - <span class=\"discount_original_price\">R$ 46,99</span> R$ 28,19",
+                            "option_text": "Turnip Boy Robs a Bank - R$ 46,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2819
+                            "price_in_cents_with_discount": 4699
                         }
                     ]
                 }
@@ -194,7 +194,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1897
+                "total": 1899
             },
             "achievements": {
                 "total": 23,

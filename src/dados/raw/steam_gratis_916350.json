@@ -53,10 +53,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8899,
-                "final": 8899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 88,99"
+                "final": 889,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 88,99",
+                "final_formatted": "R$ 8,89"
             },
             "packages": [
                 294185
@@ -73,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 294185,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Saturnalia - R$ 88,99",
+                            "option_text": "Saturnalia - <span class=\"discount_original_price\">R$ 88,99</span> R$ 8,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8899
+                            "price_in_cents_with_discount": 889
                         }
                     ]
                 }

@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2350,
-                "final": 2350,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 23,50"
+                "final": 1175,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 23,50",
+                "final_formatted": "R$ 11,75"
             },
             "packages": [
                 941291
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 941291,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Mochila de Acesso ao Contrato de Ghostbuster - R$ 23,50",
+                            "option_text": "Mochila de Acesso ao Contrato de Ghostbuster - <span class=\"discount_original_price\">R$ 23,50</span> R$ 11,75",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2350
+                            "price_in_cents_with_discount": 1175
                         }
                     ]
                 }

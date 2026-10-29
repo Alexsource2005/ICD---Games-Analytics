@@ -48,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 8999,
-                "final": 8999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 89,99"
+                "final": 1799,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 89,99",
+                "final_formatted": "R$ 17,99"
             },
             "packages": [
                 107520,
@@ -69,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 107520,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Prey - R$ 89,99",
+                            "option_text": "Prey - <span class=\"discount_original_price\">R$ 89,99</span> R$ 17,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
+                            "price_in_cents_with_discount": 1799
                         },
                         {
                             "packageid": 277639,
@@ -251,7 +251,7 @@
                 }
             ],
             "recommendations": {
-                "total": 37958
+                "total": 37981
             },
             "achievements": {
                 "total": 58,
@@ -416,11 +416,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 28502,
+                    "total_positive": 28513,
                     "total_negative": 2579,
-                    "total_reviews": 31081
+                    "total_reviews": 31092
                 },
-                "total_matching": 147,
+                "total_matching": 141,
                 "day_range_used": 30
             }
         }

@@ -17,9 +17,9 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 167,
+                    "total_positive": 168,
                     "total_negative": 60,
-                    "total_reviews": 227
+                    "total_reviews": 228
                 },
                 "total_matching": 1,
                 "day_range_used": 30
@@ -50,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2689,
-                "final": 806,
-                "discount_percent": 70,
-                "initial_formatted": "R$ 26,89",
-                "final_formatted": "R$ 8,06"
+                "final": 2689,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 26,89"
             },
             "packages": [
                 225570
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 225570,
-                            "percent_savings_text": " -70%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Spectrum Retreat - <span class=\"discount_original_price\">R$ 26,89</span> R$ 8,06",
+                            "option_text": "The Spectrum Retreat - R$ 26,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 806
+                            "price_in_cents_with_discount": 2689
                         }
                     ]
                 }

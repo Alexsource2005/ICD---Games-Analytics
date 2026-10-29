@@ -119,10 +119,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2999,
-                "final": 1499,
-                "discount_percent": 50,
-                "initial_formatted": "R$ 29,99",
-                "final_formatted": "R$ 14,99"
+                "final": 2999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 29,99"
             },
             "packages": [
                 1128161,
@@ -141,13 +141,13 @@
                     "subs": [
                         {
                             "packageid": 1128161,
-                            "percent_savings_text": " -50%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "PAYDAY 2 - <span class=\"discount_original_price\">R$ 29,99</span> R$ 14,99",
+                            "option_text": "PAYDAY 2 - R$ 29,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 },
@@ -556,7 +556,7 @@
                 }
             ],
             "recommendations": {
-                "total": 445910
+                "total": 445943
             },
             "achievements": {
                 "total": 1342,
@@ -740,11 +740,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 234981,
-                    "total_negative": 35914,
-                    "total_reviews": 270895
+                    "total_positive": 235002,
+                    "total_negative": 35920,
+                    "total_reviews": 270922
                 },
-                "total_matching": 475,
+                "total_matching": 469,
                 "day_range_used": 30
             }
         }

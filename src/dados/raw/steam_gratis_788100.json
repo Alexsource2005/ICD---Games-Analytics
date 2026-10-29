@@ -23,11 +23,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3683,
-                    "total_negative": 620,
+                    "total_positive": 3684,
+                    "total_negative": 619,
                     "total_reviews": 4303
                 },
-                "total_matching": 5,
+                "total_matching": 6,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788100/7105869c3cf24c4fe65284ba978e23d2f691c372/header.jpg?t=1791432125",
@@ -56,11 +56,11 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 10490,
-                "final": 10490,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 104,90"
+                "initial": 13499,
+                "final": 4049,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 134,99",
+                "final_formatted": "R$ 40,49"
             },
             "packages": [
                 481434,
@@ -77,6 +77,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 1538095,
+                            "percent_savings_text": " -70%",
+                            "percent_savings": 0,
+                            "option_text": "Neon Abyss - Deluxe Edition - <span class=\"discount_original_price\">R$ 134,99</span> R$ 40,49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4049
+                        },
+                        {
                             "packageid": 481434,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -85,16 +95,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 10490
-                        },
-                        {
-                            "packageid": 1538095,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Neon Abyss - Deluxe Edition - R$ 134,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 13499
                         }
                     ]
                 }
@@ -299,7 +299,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19728
+                "total": 19729
             },
             "achievements": {
                 "total": 35,
