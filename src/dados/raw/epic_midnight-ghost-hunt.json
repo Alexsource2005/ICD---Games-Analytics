@@ -1037,6 +1037,39 @@
             "tag": "edition"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5299,
+            "originalPrice": 5299,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 52,99",
+                "discountPrice": "R$ 52,99",
+                "intermediatePrice": "R$ 52,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Midnight Ghost Hunt",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.31,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "964f58c4c2074404bf9c359483ab1a48",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -1263,5 +1263,40 @@
                 "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fred-dead-redemption-2%2Fhome%2F18_S_V_L_D_C_M-760x117-d56453e46b285559c0cb495755c081c952ac50b1.png"
             ]
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 29900,
+            "originalPrice": 29900,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 299,00",
+                "discountPrice": "R$ 299,00",
+                "intermediatePrice": "R$ 299,00"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Red Dead Redemption 2",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.87,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

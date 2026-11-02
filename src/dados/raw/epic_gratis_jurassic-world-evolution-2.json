@@ -1749,5 +1749,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "20/03/2025 - 27/03/2025"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 10999,
+            "originalPrice": 10999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 109,99",
+                "discountPrice": "R$ 109,99",
+                "intermediatePrice": "R$ 109,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Jurassic World Evolution 2",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "20/03/2025 - 27/03/2025",
+    "rating_polls": {
+        "average_rating": 4.65,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "4817ba5c11504724ba4d5817c8995dff",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7549,
-                "final": 7549,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 75,49"
+                "final": 1509,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 75,49",
+                "final_formatted": "R$ 15,09"
             },
             "packages": [
                 388789
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 388789,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Remnant: From the Ashes - R$ 75,49",
+                            "option_text": "Remnant: From the Ashes - <span class=\"discount_original_price\">R$ 75,49</span> R$ 15,09",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7549
+                            "price_in_cents_with_discount": 1509
                         }
                     ]
                 }
@@ -176,7 +176,7 @@
                 }
             ],
             "recommendations": {
-                "total": 47582
+                "total": 47601
             },
             "achievements": {
                 "total": 50,
@@ -337,11 +337,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 25157,
-                    "total_negative": 4083,
-                    "total_reviews": 29240
+                    "total_positive": 25165,
+                    "total_negative": 4085,
+                    "total_reviews": 29250
                 },
-                "total_matching": 119,
+                "total_matching": 107,
                 "day_range_used": 30
             },
             "steamspy_tags": [

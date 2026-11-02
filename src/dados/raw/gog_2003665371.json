@@ -61,5 +61,111 @@
         ],
         "all_products_url": "https://api.gog.com/products?ids=1322022414,2119485043",
         "expanded_all_products_url": "https://api.gog.com/products?ids=1322022414,2119485043"
-    }
+    },
+    "price": {
+        "final": "R$ 39,99",
+        "base": "R$ 99,99",
+        "discount": "-60%",
+        "finalMoney": {
+            "amount": "39.99",
+            "currency": "BRL",
+            "discount": "60.00"
+        },
+        "baseMoney": {
+            "amount": "99.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "FPP",
+            "slug": "fpp"
+        },
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Survival",
+            "slug": "survival"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Walking Simulator",
+            "slug": "walking-simulator"
+        },
+        {
+            "name": "FMV",
+            "slug": "fmv"
+        },
+        {
+            "name": "VR",
+            "slug": "vr"
+        }
+    ]
 }

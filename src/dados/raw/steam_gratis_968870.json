@@ -28,9 +28,9 @@
                 "total_matching": 5,
                 "day_range_used": 30
             },
-            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968870/5fe32b335f7d5bb4c393872b4f020a268a91921c/header_alt_assets_0.jpg?t=1793025589",
-            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968870/33ea1f614bba0fcbf49e9ac503b6ab3be26ad4d4/capsule_231x87_alt_assets_0.jpg?t=1793025589",
-            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968870/33ea1f614bba0fcbf49e9ac503b6ab3be26ad4d4/capsule_184x69_alt_assets_0.jpg?t=1793025589",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968870/68c9b9586b9ccf71098ffa9190098d5e10f61c36/header.jpg?t=1793025589",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968870/33ea1f614bba0fcbf49e9ac503b6ab3be26ad4d4/capsule_231x87.jpg?t=1793025589",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968870/33ea1f614bba0fcbf49e9ac503b6ab3be26ad4d4/capsule_184x69.jpg?t=1793025589",
             "website": "http://www.closetothesungame.com/",
             "pc_requirements": {
                 "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows 10<br></li><li><strong>Processador:</strong> Core i5 / AMD FX 2.4Ghz<br></li><li><strong>Memória:</strong> 8 GB RAM GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x with 3GB Video RAM<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 50 GB de espaço livre<br></li><li><strong>Placa de som:</strong> DirectX Compatible</li></ul>",
@@ -48,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3799,
-                "final": 645,
-                "discount_percent": 83,
-                "initial_formatted": "R$ 37,99",
-                "final_formatted": "R$ 6,45"
+                "final": 3799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 37,99"
             },
             "packages": [
                 317437
@@ -68,13 +68,13 @@
                     "subs": [
                         {
                             "packageid": 317437,
-                            "percent_savings_text": " -83%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Close to the Sun - <span class=\"discount_original_price\">R$ 37,99</span> R$ 6,45",
+                            "option_text": "Close to the Sun - R$ 37,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 645
+                            "price_in_cents_with_discount": 3799
                         }
                     ]
                 }
@@ -206,7 +206,7 @@
                 }
             ],
             "recommendations": {
-                "total": 885
+                "total": 886
             },
             "achievements": {
                 "total": 27,

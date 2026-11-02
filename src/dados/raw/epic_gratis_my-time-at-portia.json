@@ -1,0 +1,479 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "teal",
+            "accent": "#ee983e"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "teal",
+            "accent": "#ee983e"
+        }
+    },
+    "namespace": "cobra",
+    "_title": "my-time-at-portia",
+    "regionBlock": "",
+    "productName": "My Time At Portia",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/my-time-at-portia",
+    "_slug": "my-time-at-portia",
+    "_activeDate": "2019-01-07T14:00:00.000Z",
+    "lastModified": "2019-07-19T17:59:22.376Z",
+    "_locale": "pt-BR",
+    "_id": "eef6b234-2404-4e1a-a581-e49e10a783e2",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "teal",
+                    "accent": "#ee983e"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "teal",
+                    "accent": "#ee983e"
+                }
+            },
+            "namespace": "cobra",
+            "_title": "início",
+            "regionBlock": "",
+            "productName": "My Time At Portia",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/my-time-at-portia/home",
+            "_slug": "home",
+            "_activeDate": "2019-01-07T14:48:09.557Z",
+            "lastModified": "2019-04-05T15:16:08.806Z",
+            "_locale": "pt-BR",
+            "_id": "a24ec895-66de-4e50-80c5-b5fa4d6f2f53",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "cobra",
+                "id": "b3a7ea2e333a49ab8a7c3d0aa1f31e5e",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "6efea4a9591045ae82c5beed63e59327",
+                "appName": "Cobra",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "cobra"
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/MyTimeAtPortia",
+                    "linkFacebook": "https://www.facebook.com/MyTimeatPortiaOfficial/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/vVRqwkh",
+                    "title": "Siga My Time At Portia",
+                    "linkHomepage": "https://www.team17.com/games/my-time-at-portia/",
+                    "linkInstagram": "https://www.instagram.com/team17ltd/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês",
+                        "Francês",
+                        "Alemão",
+                        "Italiano",
+                        "Espanhol",
+                        "Japonês",
+                        "Chinês tradicional",
+                        "Chinês simplificado"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7+ / 8.1 / 10 (64 bit)",
+                                    "recommended": "Windows 10 (64 bit)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador Intel i3 (64 bit)",
+                                    "recommended": "Processador Intel i7 (64 bit)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB de RAM",
+                                    "recommended": "16 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo",
+                                    "minimum": "ATI 7770, Nvidia GeForce GTX 660 2GB",
+                                    "recommended": "Nvidia GeForce GTX960+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "6 GB de espaço disponível",
+                                    "recommended": "10 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12-390x450-813b1ae6cad0387fe59405148e3ba33b9132d348.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmy-time-at-portia%2Fhome%2FAgeRating-ContentInfo_02_MyTimeAtPortia-210x117-2173bb1268856fbb3ae120e0f518534c7fe70831.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "12세이용가"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-7-black-488x595-76c4792ba997ca507fbf9540e669695b47dc5b9d.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 7"
+                        },
+                        {
+                            "countryCodes": "",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmy-time-at-portia%2Fhome%2FESRB_MyTimeAtPortia-842x404-f166451c8793a0d4e9ebc9c13cb26ca560559ba7.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "EVERYONE 10+"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "My Time At Portia. Desenvolvido por Pathea Games. © 2018. My Time at Portia e Pathea Games são marcas comerciais ou marcas registradas de Pathea Games. Publicado por Team17. © 2018. Team17 é uma marca comercial registrada da Team17 Digital Limited. Todas as outras marcas comerciais, direitos autorais e logos são propriedade de seus respectivos detentores.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.team17.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Team17 Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_GamePageAbout-500x420-6ae15d39f254abd010cbd8e9f52d5acc4ffa5212.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Pathea Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Focus Home",
+                    "description": "Comece uma nova vida na encantadora cidade de Portia! Reviva os dias de glória da oficina do seu pai, cumprindo missões, cultivando plantações, criando animais e ficando amigo dos excêntricos habitantes desta encantadora cidade pós-apocalíptica!\n\nEquipado com o antigo manual e a bancada de seu pai, você deve reunir, minerar e construir o caminho para ser coroado o dono da oficina mais importante de Portia. Ajude os moradores a reconstruir a cidade e a descobrir segredos escondidos nas suas profundezas. ",
+                    "title": "Comece uma nova vida na encantadora cidade de Portia!",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_LogoColor-1620x655-c803997d139aafa0168e92da11dbae4a6b2938a0.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmy-time-at-portia%2Fhome%2FMyTimeAtPortia_StorePortraitPromo_1082x1200_1547237080827-1082x1200-313775daba989094531c035ce56e11570bdd9b8a.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_GamePagePromo-2580x1450-20a2ec524479ec1b7ad4f2426604e5b28aa00dde.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "contentId": "bLq_toFc9_M",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "locale": "en",
+                                "type": "youtubeVideo",
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "contentId": "Ohg1asTpVog",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "locale": "en",
+                                "type": "youtubeVideo",
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_08-1920x1080-5e54b1fa3861f89c47348ea8ca76b61d00c0599b.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_03-1920x1080-1769387fb1d9deaa8bf09c6eaf8f2903fa7e890b.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2019-01-15T18:53:05.843Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Team17"
+                    ],
+                    "developer": [
+                        "Pathea Games"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "OPEN_WORLD",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "DLC",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "altText": "My Time At Portia 01",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_05-1920x1080-9a72895d044f1b05cadbeca5e2f40c355c4ba9c6.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "altText": "My Time At Portia 02",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_09-1920x1080-c9a1396c2551854b23b905036f1ca01500b78677.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "altText": "My Time At Portia 03",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_01-1920x1080-3cb523a41ea6a35dd0c1882932652df01bd64980.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "altText": "My Time At Portia 04",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_02-1920x1080-f26514efea5cd9f8b4c63005c0691f1abbe898b5.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "altText": "My Time At Portia 05",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_10-1920x1080-bb5469edb65bf55cb357ecd037d123eb7b24777f.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "altText": "My Time At Portia 06",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_07-1920x1080-21f64e2984b988f98d024deea8505c55dae34018.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "My Time At Portia"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#ee983e",
+                "customPrimaryBg": "#66ccff",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_02-1920x1080-f26514efea5cd9f8b4c63005c0691f1abbe898b5.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12-390x450-813b1ae6cad0387fe59405148e3ba33b9132d348.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmy-time-at-portia%2Fhome%2FAgeRating-ContentInfo_02_MyTimeAtPortia-210x117-2173bb1268856fbb3ae120e0f518534c7fe70831.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_LogoColor-1620x655-c803997d139aafa0168e92da11dbae4a6b2938a0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_01-1920x1080-3cb523a41ea6a35dd0c1882932652df01bd64980.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmy-time-at-portia%2Fhome%2FMyTimeAtPortia_StorePortraitPromo_1082x1200_1547237080827-1082x1200-313775daba989094531c035ce56e11570bdd9b8a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_09-1920x1080-c9a1396c2551854b23b905036f1ca01500b78677.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmy-time-at-portia%2Fhome%2FESRB_MyTimeAtPortia-842x404-f166451c8793a0d4e9ebc9c13cb26ca560559ba7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_03-1920x1080-1769387fb1d9deaa8bf09c6eaf8f2903fa7e890b.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_GamePageAbout-500x420-6ae15d39f254abd010cbd8e9f52d5acc4ffa5212.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_05-1920x1080-9a72895d044f1b05cadbeca5e2f40c355c4ba9c6.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_07-1920x1080-21f64e2984b988f98d024deea8505c55dae34018.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_10-1920x1080-bb5469edb65bf55cb357ecd037d123eb7b24777f.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_Carousel_08-1920x1080-5e54b1fa3861f89c47348ea8ca76b61d00c0599b.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-7-black-488x595-76c4792ba997ca507fbf9540e669695b47dc5b9d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_GamePagePromo-2580x1450-20a2ec524479ec1b7ad4f2426604e5b28aa00dde.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7999,
+            "originalPrice": 7999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 79,99",
+                "discountPrice": "R$ 79,99",
+                "intermediatePrice": "R$ 79,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "My Time At Portia",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.67,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "cobra",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

@@ -825,5 +825,48 @@
             "type": "offer"
         }
     ],
-    "data_aquisicao_gratis": "06/01/2022 - 13/01/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 750,
+            "originalPrice": 7500,
+            "voucherDiscount": 0,
+            "discount": 6750,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 75,00",
+                "discountPrice": "R$ 7,50",
+                "intermediatePrice": "R$ 7,50"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "01859bf7faed41faabc41161bd0a579e",
+                        "endDate": "2026-11-09T17:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Gods Will Fall",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "06/01/2022 - 13/01/2022",
+    "rating_polls": {
+        "average_rating": 4.0,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "28d06644e2f84b398c1b7fb96a2b6bd5",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

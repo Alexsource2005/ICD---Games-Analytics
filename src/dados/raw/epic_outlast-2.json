@@ -537,5 +537,40 @@
                 "https://cdn2.unrealengine.com/egs-outlast2-redbarrels-g1a-03-1920x1080-c8227f64d79b.jpg"
             ]
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5699,
+            "originalPrice": 5699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 56,99",
+                "discountPrice": "R$ 56,99",
+                "intermediatePrice": "R$ 56,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Outlast 2",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.54,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "e3e1dbeede5a471c9932edb2f7b99f51",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

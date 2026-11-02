@@ -23,9 +23,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 22139,
-                    "total_negative": 2596,
-                    "total_reviews": 24735
+                    "total_positive": 22162,
+                    "total_negative": 2599,
+                    "total_reviews": 24761
                 },
                 "reviews": [
                     {
@@ -43,9 +43,9 @@
                         "timestamp_created": 1791057330,
                         "timestamp_updated": 1791057330,
                         "voted_up": true,
-                        "votes_up": 9,
+                        "votes_up": 12,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6181046962738037,
+                        "weighted_vote_score": 0.6573604345321655,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -54,9 +54,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXo02AAAAB6/LCHBw==",
+                "cursor": "AoIFQFW2lEAAAAB6/LCHBw==",
                 "day_range_used": 30,
-                "total_matching": 278
+                "total_matching": 274
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/header.jpg?t=1780479368",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/capsule_231x87.jpg?t=1780479368",
@@ -84,10 +84,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 13390,
-                "final": 3347,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 133,90",
-                "final_formatted": "R$ 33,47"
+                "final": 13390,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 133,90"
             },
             "packages": [
                 232160,
@@ -105,13 +105,13 @@
                     "subs": [
                         {
                             "packageid": 232160,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Blasphemous - <span class=\"discount_original_price\">R$ 133,90</span> R$ 33,47",
+                            "option_text": "Blasphemous - R$ 133,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3347
+                            "price_in_cents_with_discount": 13390
                         },
                         {
                             "packageid": 1535444,
@@ -304,7 +304,7 @@
                 }
             ],
             "recommendations": {
-                "total": 55536
+                "total": 55618
             },
             "achievements": {
                 "total": 45,

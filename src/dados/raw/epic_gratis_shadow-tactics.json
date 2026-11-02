@@ -1,0 +1,468 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#8F0000"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#8F0000"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "2f215955790d456b80c291bc2feaf7f7",
+    "_title": "shadow-tactics",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "Shadow Tactics",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/shadow-tactics",
+    "_slug": "shadow-tactics",
+    "_activeDate": "2019-12-19T19:17:19.660Z",
+    "lastModified": "2019-12-20T22:52:46.807Z",
+    "_locale": "pt-BR",
+    "_id": "6c65886e-775f-4082-9125-efc8ab83fa87",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#8F0000"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#8F0000"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "2f215955790d456b80c291bc2feaf7f7",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#8F0000",
+                "customPrimaryBg": "#DADADA",
+                "accentColor": "#8F0000",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Shadow Tactics",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/shadow-tactics/home",
+            "_slug": "home",
+            "_activeDate": "2019-12-19T19:19:34.970Z",
+            "lastModified": "2019-12-23T18:59:59.650Z",
+            "_locale": "pt-BR",
+            "_id": "0b9394bb-f6be-4d04-bd51-1bdd8e903c4f",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "2f215955790d456b80c291bc2feaf7f7",
+                "id": "aec117239abd49a08eddc9e75a981fa3",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "namespace": "",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/daedalic",
+                    "linkTwitch": "https://www.twitch.tv/daedalicentertainment",
+                    "linkFacebook": "https://www.facebook.com/daedalic/",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discordapp.com/invite/daedalic",
+                    "title": "Siga o Shadow Tactics",
+                    "linkHomepage": "http://shadow-tactics.com"
+                },
+                "requirements": {
+                    "languages": [
+                        "Áudio: Inglês, japonês",
+                        "Texto: Chinês simplificado,chinês tradicional, inglês, alemão, francês, espanhol (Espanha), japonês, polonês, português (Brasil), russo, coreano, italiano, turco"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows Vista (32 bits)",
+                                    "recommended": "Windows 10 (64-bit)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 de 2,5 GHz da 2ª geração, AMD Quad-Core de 2,5 GHz",
+                                    "recommended": "Intel i3 de 3,5 GHz da 4ª geração, AMD Quad-Core de 3,9 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Nvidia GT640, AMD Radeon HD7750, 1 GB de VRAM",
+                                    "recommended": "Nvidia GTX 570, AMD Radeon HD 6950, 2 GB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "RAM",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "6 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Versão do DirectX",
+                                    "minimum": "DirectX 10",
+                                    "recommended": "DirectX 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "13 GB",
+                                    "recommended": "13 GB"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2F18_C-210x117-5961b6c5087d1c51350e8b64efdfa4f395eed7f9.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Alemanha: 16 anos"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 16 anos"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 16"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2016 Daedalic Entertainment GmbH e Mimimi Productions UG (haftungsbeschränkt). Shadow Tactics, o logotipo do Shadow Tactics, o logotipo da Daedalic e o logotipo da Mimimi Productions são marcas comerciais da Daedalic Entertainment GmbH and/or Mimimi Productions UG (haftungsbeschränkt). Todos os direitos reservados.",
+                    "privacyPolicyLink": {
+                        "src": "https://privacypolicy.daedalic.com",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Daedalic Entertainment"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-4def939ccedbd8270fa70c6587fb93845d035077.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Mimimi Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Daedalic Entertainment",
+                    "description": "![ST About 1](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FBanner_ninja_text-700x413-8cef7931c91c31ab4c49aca130e610ab1a848826.jpg)\n\nShadow Tactics é um jogo furtivo, tático e exigente ambientado no Japão durante o período Edo\n\nAssuma o controle de uma equipe de especialistas mortais e esgueire-se pelas sombras entre dezenas de inimigos. Escolha sua abordagem ao se infiltrar em poderosos castelos, mosteiros com neve ou acampamentos ocultos. Prepare armadilhas, envenene seus oponentes ou evite completamente o contato com o inimigo.\n\nO grupo é composto por personalidades muito diferentes\n\nÀ primeira vista, trabalhar juntos como uma equipe parece impossível. No entanto, ao longo de muitas missões, a confiança é conquistada e as amizades são feitas. Os personagens desenvolvem sua própria dinâmica e cada membro deverá enfrentar seus próprios demônios pessoais.\n\n![ST About 2](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G2_03-700x317-e7d527737e802a0c5b1c2d711b2d6a8a915c0402.jpg)\n\nUm dos líderes dessa equipe é Hayato, um ninja ágil que abre caminho silenciosamente em meio aos inimigos\n\nSamurai Mugen prefere uma abordagem mais poderosa e pode derrotar mais demônios ao mesmo tempo. Aiko é uma mestre da camuflagem quando distrai os inimigos disfarçada de gueixa. A criança de rua Yuki coloca armadilhas e engana os inimigos. Takuma confia em seu rifle de atirador de elite.\n\nO jogador precisa avaliar cuidadosamente suas opções para dominar as missões desafiadoras: \n\nComo os personagens se comportarão em equipe? Qual é o melhor equipado para cada tarefa? Como eles podem dominar melhor as missões que receberam? Crie suas próprias táticas engenhosas para derrotar inimigos e completar as missões.\n\n![ST About 3](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G2_06-700x413-09121ae55c88756374a7cf6e9c09841003d45051.jpg)",
+                    "shortDescription": "Shadow Tactics é um jogo furtivo, tático e exigente ambientado no Japão durante o período Edo Um novo Shogun toma o poder no Japão e impõe a paz em todo o país. Ele recruta cinco especialistas com habilidades extraordinárias de assassinato, sabotagem e espionagem.",
+                    "title": "Shadow Tactics: Blades of the Shogun",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_IC1-200x113-8516b774d57348f632fbc7564cde12d17bc97f61.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-4def939ccedbd8270fa70c6587fb93845d035077.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-3760352d0c2a5747a91fc038aa8ef51ab80994a2.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"7917dc23406a47a6929e711f40438936\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"e3b2ad51ab5e4cf887dcd3e40f85ca0e\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"8be5fc707513450c9bec1f6a71ab2a04\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"83071544c199487ab460ea860faf6485\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"726740f8d4364125bd917406deeafb57\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"0d177450d2b04f25802ab0db5aeb6d28\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2016-12-06T13:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Daedalic Entertainment"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Mimimi Games"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "STEALTH",
+                        "STRATEGY",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_02-1920x1080-9c699701c855d879980f4cc7c57be0bc980b8d77.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_03-1920x1080-a9d9f0fb9d9242ee9e09bdf8170d005981f11793.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_04-1920x1080-d785fe18d074d53be0d8fa6cbdf4a07189f3c890.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_05-1920x1080-8f73493804ffd8a17e3f3c2bb4ecf57dada6c3f2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_06-1920x1080-60fd3afbb76fe862039b27c51935c3a496effa9e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_07-1920x1080-c1963f01ce100141b16159c00cca15a8fd767d53.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_08-1920x1080-196eefc9a588af05c6c1efd001dd016963695554.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_09-1920x1080-a7d7e14accac1d16995bd030f7582fcd246b7364.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_10-1920x1080-b8604670741c1929d9c302ab9be41dbfe39330f7.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_11-1920x1080-948beb21e12908614ab05657cee0426edba9b1ca.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        }
+                    ]
+                },
+                "navTitle": "Shadow Tactics"
+            },
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_02-1920x1080-9c699701c855d879980f4cc7c57be0bc980b8d77.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_10-1920x1080-b8604670741c1929d9c302ab9be41dbfe39330f7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_03-1920x1080-a9d9f0fb9d9242ee9e09bdf8170d005981f11793.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_06-1920x1080-60fd3afbb76fe862039b27c51935c3a496effa9e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_11-1920x1080-948beb21e12908614ab05657cee0426edba9b1ca.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_09-1920x1080-a7d7e14accac1d16995bd030f7582fcd246b7364.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_05-1920x1080-8f73493804ffd8a17e3f3c2bb4ecf57dada6c3f2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_IC1-200x113-8516b774d57348f632fbc7564cde12d17bc97f61.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2F18_C-210x117-5961b6c5087d1c51350e8b64efdfa4f395eed7f9.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-4def939ccedbd8270fa70c6587fb93845d035077.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-3760352d0c2a5747a91fc038aa8ef51ab80994a2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_04-1920x1080-d785fe18d074d53be0d8fa6cbdf4a07189f3c890.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_07-1920x1080-c1963f01ce100141b16159c00cca15a8fd767d53.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fshadow-tactics%2Fhome%2FEGS_MimimiGames_ShadowTacticsBladesoftheShogun_G1A_08-1920x1080-196eefc9a588af05c6c1efd001dd016963695554.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7999,
+            "originalPrice": 7999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 79,99",
+                "discountPrice": "R$ 79,99",
+                "intermediatePrice": "R$ 79,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "05/01/2023 - 12/01/2023",
+    "rating_polls": {
+        "average_rating": 4.67,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "2f215955790d456b80c291bc2feaf7f7",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

@@ -1043,6 +1043,39 @@
             ]
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 6790,
+            "originalPrice": 6790,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 67,90",
+                "discountPrice": "R$ 67,90",
+                "intermediatePrice": "R$ 67,90"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Redout 2",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.55,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "05ae696a3c5f49af91a7433547460c21",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

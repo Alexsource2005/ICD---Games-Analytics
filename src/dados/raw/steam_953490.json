@@ -21,29 +21,29 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 18349,
-                    "total_negative": 1018,
-                    "total_reviews": 19367
+                    "total_positive": 18386,
+                    "total_negative": 1025,
+                    "total_reviews": 19411
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236717796",
+                        "recommendationid": "237260827",
                         "author": {
-                            "steamid": "76561198095439777",
-                            "num_reviews": 156,
-                            "playtime_forever": 279,
+                            "steamid": "76561198067567908",
+                            "num_reviews": 79,
+                            "playtime_forever": 457,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 279,
-                            "last_played": 1790964499
+                            "playtime_at_review": 457,
+                            "last_played": 1791285852
                         },
                         "language": "english",
-                        "review": "A small cute game about the best boi (girl?)\n\nPros:\n+ Good art style and sound design\n+ Several mechanics (nomnom, blargh, sniki, spiky, sturdy, possession, and mechas!)\n+ Several enemy types (nomnom :D, no nomnom :(, traps kaboom! and mechas ratatatata!)\n\nCons:\n- There is no map, so running around like a headless (technically correct) chicken (technically incorrect) is not fun.",
-                        "timestamp_created": 1790964992,
-                        "timestamp_updated": 1790965252,
+                        "review": "Carrion is an extremely fun and fluid metroidvania. The constant introduction of new mechanics keeps the gameplay interesting and allows you to clear rooms in multiple ways using different abilities.\r\n\r\nAs you progress, the game gradually becomes more challenging, with some sections feeling more puzzles-like as you try to figure out how to reach the next area. The achievements were a relatively easy 100%, although going back to find the few canisters you missed without a map was quite tedious.\r\n\r\nThe gameplay is incredibly satisfying, and as you evolve and unlock new abilities, the game feels like it is evolving with you. I genuinely wasn't expecting it to be as addictive as it was.\r\n\r\nExtremely cool horror premise with a little bit of lore dropped in. Definitely worth playing.",
+                        "timestamp_created": 1791523860,
+                        "timestamp_updated": 1791523860,
                         "voted_up": true,
-                        "votes_up": 41,
-                        "votes_funny": 9,
-                        "weighted_vote_score": 0.8159783482551575,
+                        "votes_up": 15,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.7060834169387817,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -52,9 +52,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFTrjGAAAAB07oCHBw==",
+                "cursor": "AoIFQFV4NsAAAAB7gYqJBw==",
                 "day_range_used": 30,
-                "total_matching": 190
+                "total_matching": 217
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg?t=1760015957",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/capsule_231x87.jpg?t=1760015957",
@@ -82,10 +82,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 1199,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 11,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 310872
@@ -102,13 +102,13 @@
                     "subs": [
                         {
                             "packageid": 310872,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Carrion - <span class=\"discount_original_price\">R$ 59,99</span> R$ 11,99",
+                            "option_text": "Carrion - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -251,7 +251,7 @@
                 }
             ],
             "recommendations": {
-                "total": 33757
+                "total": 33828
             },
             "achievements": {
                 "total": 21,

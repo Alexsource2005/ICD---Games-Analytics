@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 271,
-                "discount_percent": 84,
-                "initial_formatted": "R$ 16,99",
-                "final_formatted": "R$ 2,71"
+                "final": 1699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 16,99"
             },
             "packages": [
                 271869
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 271869,
-                            "percent_savings_text": " -84%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "OneShift - <span class=\"discount_original_price\">R$ 16,99</span> R$ 2,71",
+                            "option_text": "OneShift - R$ 16,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 271
+                            "price_in_cents_with_discount": 1699
                         }
                     ]
                 }
@@ -306,8 +306,8 @@
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
                     "total_positive": 281,
-                    "total_negative": 102,
-                    "total_reviews": 383
+                    "total_negative": 101,
+                    "total_reviews": 382
                 },
                 "reviews": [
                     {

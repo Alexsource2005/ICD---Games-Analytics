@@ -344,5 +344,48 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "17/08/2023 - 24/08/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2399,
+            "originalPrice": 7999,
+            "voucherDiscount": 0,
+            "discount": 5600,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 79,99",
+                "discountPrice": "R$ 23,99",
+                "intermediatePrice": "R$ 23,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "c90480fa227f4debaa3a349b608828a7",
+                        "endDate": "2026-11-14T09:59:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Black Book",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "17/08/2023 - 24/08/2023",
+    "rating_polls": {
+        "average_rating": 4.66,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "8211dc6089af4542926b7a8137b9079e",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

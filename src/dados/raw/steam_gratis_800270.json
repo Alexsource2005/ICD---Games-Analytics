@@ -24,11 +24,11 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 3326,
-                    "total_negative": 1523,
+                    "total_positive": 3325,
+                    "total_negative": 1524,
                     "total_reviews": 4849
                 },
-                "total_matching": 15,
+                "total_matching": 11,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/800270/header.jpg?t=1769091240",
@@ -53,10 +53,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 1799,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 17,99"
             },
             "packages": [
                 243357
@@ -73,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 243357,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "Terraforming Mars - R$ 59,99",
+                            "option_text": "Terraforming Mars - <span class=\"discount_original_price\">R$ 59,99</span> R$ 17,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1799
                         }
                     ]
                 }
@@ -181,7 +181,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5219
+                "total": 5220
             },
             "achievements": {
                 "total": 40,

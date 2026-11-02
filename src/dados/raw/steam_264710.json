@@ -41,15 +41,15 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 12450,
-                "final": 3112,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 124,50",
-                "final_formatted": "R$ 31,12"
+                "final": 12450,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 124,50"
             },
             "packages": [
                 575971,
-                643493,
-                594136
+                594136,
+                643493
             ],
             "package_groups": [
                 {
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 575971,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Subnautica - <span class=\"discount_original_price\">R$ 124,50</span> R$ 31,12",
+                            "option_text": "Subnautica - R$ 124,50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3112
+                            "price_in_cents_with_discount": 12450
                         },
                         {
                             "packageid": 594136,
@@ -263,7 +263,7 @@
                 }
             ],
             "recommendations": {
-                "total": 343487
+                "total": 343782
             },
             "achievements": {
                 "total": 17,
@@ -414,40 +414,40 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 203890,
+                    "total_positive": 204013,
                     "total_negative": 6461,
-                    "total_reviews": 210351
+                    "total_reviews": 210474
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236626593",
+                        "recommendationid": "237799527",
                         "author": {
-                            "steamid": "76561199101212869",
-                            "num_reviews": 360,
-                            "playtime_forever": 6295,
+                            "steamid": "76561198323908351",
+                            "num_reviews": 5,
+                            "playtime_forever": 3355,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 2298,
-                            "last_played": 1791577251
+                            "playtime_at_review": 3355,
+                            "last_played": 1780002869
                         },
                         "language": "english",
-                        "review": "The Good:\n\nFor the most part, the monsters are creepy enough to give you goosebumps. And the deeper you go, the creepier they become. Just when you think you’ve discovered everything, there are always more mysterious and unsettling species waiting out there. If you enjoy triggering your Thalassophobia, whether you actually have it or not, this game is definitely worth playing. On top of that, if you enjoy building your own base and having a personal submarine that you can customize and decorate, this game is absolutely for you.\n\nThe Bad:\n\nThis is a slow-burn game. And I mean really, really slow. You’re not going to fly through the ocean and constantly enjoy the beauty of the underwater world. \n\nInstead, you’ll often find yourself simply holding 'W' to move forward for 2-3 minutes without doing much else.; just imagine that. I’ve literally played on my phone while keeping my finger on 'W' because the map is huge, but the movement speed is painfully slow. So, if you’re the kind of person who gets bored easily or has a hard time sitting through slow-paced gameplay, this can be a pretty major downside.",
-                        "timestamp_created": 1790868483,
-                        "timestamp_updated": 1790868483,
+                        "review": "Came for a peaceful underwater adventure, left with thalassophobia and trust issues with the ocean <3",
+                        "timestamp_created": 1792093622,
+                        "timestamp_updated": 1792093622,
                         "voted_up": true,
-                        "votes_up": 42,
-                        "votes_funny": 5,
-                        "weighted_vote_score": 0.7815777659416199,
-                        "comment_count": 0,
-                        "steam_purchase": false,
+                        "votes_up": 31,
+                        "votes_funny": 19,
+                        "weighted_vote_score": 0.7392207980155945,
+                        "comment_count": 3,
+                        "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFUXlIAAAABxqtSGBw==",
+                "cursor": "AoIFQFVNzCAAAAB3hpGLBw==",
                 "day_range_used": 30,
-                "total_matching": 868
+                "total_matching": 915
             },
             "steamspy_tags": [
                 "Open World Survival Craft",

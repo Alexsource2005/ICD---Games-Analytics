@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 6,99"
+                "final": 524,
+                "discount_percent": 25,
+                "initial_formatted": "R$ 6,99",
+                "final_formatted": "R$ 5,24"
             },
             "packages": [
                 358802
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 358802,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -25%",
                             "percent_savings": 0,
-                            "option_text": "Drift86 - R$ 6,99",
+                            "option_text": "Drift86 - <span class=\"discount_original_price\">R$ 6,99</span> R$ 5,24",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 524
                         }
                     ]
                 }
@@ -215,7 +215,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5288
+                "total": 5287
             },
             "achievements": {
                 "total": 41,
@@ -342,9 +342,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1967,
+                    "total_positive": 1968,
                     "total_negative": 329,
-                    "total_reviews": 2296
+                    "total_reviews": 2297
                 },
                 "reviews": [
                     {
@@ -353,7 +353,7 @@
                             "steamid": "76561198404759628",
                             "num_reviews": 4,
                             "playtime_forever": 216,
-                            "playtime_last_two_weeks": 25,
+                            "playtime_last_two_weeks": 22,
                             "playtime_at_review": 94,
                             "last_played": 1792887096
                         },

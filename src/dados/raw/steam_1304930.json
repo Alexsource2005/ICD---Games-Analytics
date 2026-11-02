@@ -48,10 +48,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 10799,
-                "final": 3239,
-                "discount_percent": 70,
-                "initial_formatted": "R$ 107,99",
-                "final_formatted": "R$ 32,39"
+                "final": 10799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 107,99"
             },
             "packages": [
                 984895,
@@ -69,23 +69,23 @@
                     "subs": [
                         {
                             "packageid": 984895,
-                            "percent_savings_text": " -70%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Outlast Trials - <span class=\"discount_original_price\">R$ 107,99</span> R$ 32,39",
+                            "option_text": "The Outlast Trials - R$ 107,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3239
+                            "price_in_cents_with_discount": 10799
                         },
                         {
                             "packageid": 1003243,
-                            "percent_savings_text": " -70%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Outlast Trials - Reagent Starter Pack Edition - <span class=\"discount_original_price\">R$ 134,99</span> R$ 40,49",
+                            "option_text": "The Outlast Trials - Reagent Starter Pack Edition - R$ 134,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4049
+                            "price_in_cents_with_discount": 13499
                         }
                     ]
                 }
@@ -326,7 +326,7 @@
                 }
             ],
             "recommendations": {
-                "total": 100476
+                "total": 101069
             },
             "achievements": {
                 "total": 27,
@@ -460,40 +460,40 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 53038,
-                    "total_negative": 3598,
-                    "total_reviews": 56636
+                    "total_positive": 53262,
+                    "total_negative": 3621,
+                    "total_reviews": 56883
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236889558",
+                        "recommendationid": "238668077",
                         "author": {
-                            "steamid": "76561198066129673",
-                            "num_reviews": 35,
-                            "playtime_forever": 942,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 942,
-                            "last_played": 1791117809
+                            "steamid": "76561199805288203",
+                            "num_reviews": 1,
+                            "playtime_forever": 4649,
+                            "playtime_last_two_weeks": 2129,
+                            "playtime_at_review": 3703,
+                            "last_played": 1793620012
                         },
                         "language": "english",
-                        "review": "The Outlast Trials is a thrilling, terrifying and brutal cooperative horror experience that reinvents the franchise in the best way possible. Red Barrels has crafted an extremely disturbing game with this one. The Cold War Murkoff facility setting is filthy, tense, disgusting, brutal and dripping with dread. \n\nTransitioning to a mission based structure with up to four players works brilliantly. You cannot fight back with weapons. Throwing bricks, bottles and using what you can gives you just enough to survive. The rigs (like healing, X-ray vision, or blinding mines) and passive prescription upgrades add a lot of depth and progression to your character. Running trials solo offers a slow methodical stealth game while playing with friends turns into chaotic and terrifying fun. \n\nThe Best part is that the developers avoid monetization allowing you to unlock past event cosmetics and items purely through in-game progression. \n\nIf you have the stomach for extreme gore and intense psychological stress this is one of the best multiplayer horror games available.",
-                        "timestamp_created": 1791126764,
-                        "timestamp_updated": 1791126764,
+                        "review": "basically play this game if you wanna always be afraid that you're gonna get fingered inthe butt",
+                        "timestamp_created": 1793095110,
+                        "timestamp_updated": 1793095110,
                         "voted_up": true,
-                        "votes_up": 119,
-                        "votes_funny": 1,
-                        "weighted_vote_score": 0.8475803136825562,
-                        "comment_count": 19,
-                        "steam_purchase": true,
-                        "received_for_free": false,
+                        "votes_up": 52,
+                        "votes_funny": 41,
+                        "weighted_vote_score": 0.8306978940963745,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": true,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFUDGQAAAAB23dSHBw==",
+                "cursor": "AoIFQFTYtOAAAAB9krmOBw==",
                 "day_range_used": 30,
-                "total_matching": 3212
+                "total_matching": 3296
             },
             "steamspy_tags": [
                 "Horror",

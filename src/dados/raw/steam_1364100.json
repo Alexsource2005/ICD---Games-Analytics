@@ -30,9 +30,9 @@
                         "recommendationid": "237852092",
                         "author": {
                             "steamid": "76561198097393776",
-                            "num_reviews": 91,
+                            "num_reviews": 92,
                             "playtime_forever": 956,
-                            "playtime_last_two_weeks": 167,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 956,
                             "last_played": 1792158818
                         },
@@ -54,7 +54,7 @@
                 ],
                 "cursor": "AoIFQFZNnUAAAAB826qLBw==",
                 "day_range_used": 30,
-                "total_matching": 7
+                "total_matching": 5
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364100/bec4c314c42aab918b88a5e7530d7d74d23235eb/header.jpg?t=1793106469",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1793106469",
@@ -84,10 +84,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3099,
-                "final": 3099,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 30,99"
+                "final": 309,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 30,99",
+                "final_formatted": "R$ 3,09"
             },
             "packages": [
                 478404
@@ -104,13 +104,13 @@
                     "subs": [
                         {
                             "packageid": 478404,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Lacuna | Standard Edition - R$ 30,99",
+                            "option_text": "Lacuna | Standard Edition - <span class=\"discount_original_price\">R$ 30,99</span> R$ 3,09",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3099
+                            "price_in_cents_with_discount": 309
                         }
                     ]
                 }
@@ -287,7 +287,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2187
+                "total": 2188
             },
             "achievements": {
                 "total": 25,

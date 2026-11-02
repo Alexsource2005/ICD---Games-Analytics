@@ -846,6 +846,39 @@
             "tag": "edition"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3900,
+            "originalPrice": 3900,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 39,00",
+                "discountPrice": "R$ 39,00",
+                "intermediatePrice": "R$ 39,00"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Fallout: New Vegas",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.66,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "3428aaab2c674c98b3acb789dcfaa548",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

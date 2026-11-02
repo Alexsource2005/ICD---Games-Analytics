@@ -500,5 +500,39 @@
                 "https://cdn2.unrealengine.com/egs-mindscanners-theouterzone-g1a-07-1920x1080-b1612959c29b.jpg"
             ]
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3199,
+            "originalPrice": 3199,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 31,99",
+                "discountPrice": "R$ 31,99",
+                "intermediatePrice": "R$ 31,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Mind Scanners",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": null,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "3a66d4c637c4469b80092d2f1fa1f26a",
+        "page_slug": "mind-scanners",
+        "source": "Epic Games Store RatingsPolls",
+        "status": "nota_nao_disponivel"
+    }
 }

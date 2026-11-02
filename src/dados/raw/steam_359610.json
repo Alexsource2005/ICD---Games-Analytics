@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 29,99"
+                "final": 899,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 29,99",
+                "final_formatted": "R$ 8,99"
             },
             "packages": [
                 64096,
@@ -53,23 +53,23 @@
                     "subs": [
                         {
                             "packageid": 64096,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "Assassin’s Creed® Chronicles: India - R$ 29,99",
+                            "option_text": "Assassin’s Creed® Chronicles: India - <span class=\"discount_original_price\">R$ 29,99</span> R$ 8,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 899
                         },
                         {
                             "packageid": 93325,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "Assassin’s Creed® Chronicles: Trilogy - R$ 74,99",
+                            "option_text": "Assassin’s Creed® Chronicles: Trilogy - <span class=\"discount_original_price\">R$ 74,99</span> R$ 22,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7499
+                            "price_in_cents_with_discount": 2249
                         }
                     ]
                 }
@@ -190,7 +190,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1114
+                "total": 1117
             },
             "achievements": {
                 "total": 18,
@@ -330,25 +330,25 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 252,
+                    "total_positive": 253,
                     "total_negative": 150,
-                    "total_reviews": 402
+                    "total_reviews": 403
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237922916",
+                        "recommendationid": "239105078",
                         "author": {
-                            "steamid": "76561198753620765",
-                            "num_reviews": 574,
-                            "playtime_forever": 45,
-                            "playtime_last_two_weeks": 45,
-                            "playtime_at_review": 22,
-                            "last_played": 1792239111
+                            "steamid": "76561198165400479",
+                            "num_reviews": 49,
+                            "playtime_forever": 229,
+                            "playtime_last_two_weeks": 229,
+                            "playtime_at_review": 229,
+                            "last_played": 1793541051
                         },
                         "language": "english",
-                        "review": "gg",
-                        "timestamp_created": 1792235279,
-                        "timestamp_updated": 1792235279,
+                        "review": "not bad",
+                        "timestamp_created": 1793541060,
+                        "timestamp_updated": 1793541060,
                         "voted_up": true,
                         "votes_up": 0,
                         "votes_funny": 0,
@@ -361,9 +361,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQGHgAAAAAAB0ps2LBw==",
+                "cursor": "AoIFQGBAAAAAAAB2w46QBw==",
                 "day_range_used": 30,
-                "total_matching": 1
+                "total_matching": 2
             },
             "steamspy_tags": [
                 "Action",

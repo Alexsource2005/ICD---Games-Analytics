@@ -1189,6 +1189,39 @@
             "tag": "edition"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 6150,
+            "originalPrice": 6150,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 61,50",
+                "discountPrice": "R$ 61,50",
+                "intermediatePrice": "R$ 61,50"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Elder Scrolls Online",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.41,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "27aa2ebdcda14b3bb8a669aab73ca55f",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

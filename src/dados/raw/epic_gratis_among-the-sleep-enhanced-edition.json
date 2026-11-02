@@ -521,5 +521,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": null
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3199,
+            "originalPrice": 3199,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 31,99",
+                "discountPrice": "R$ 31,99",
+                "intermediatePrice": "R$ 31,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Among the Sleep - Enhanced Edition",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.29,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "53ef2f4592684c4c97d6d32e40467274",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -2472,5 +2472,40 @@
             "tag": "edition"
         }
     ],
-    "data_aquisicao_gratis": "12/03/2026 - 19/03/2026"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5699,
+            "originalPrice": 5699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 56,99",
+                "discountPrice": "R$ 56,99",
+                "intermediatePrice": "R$ 56,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Isonzo",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "12/03/2026 - 19/03/2026",
+    "rating_polls": {
+        "average_rating": 4.44,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "30de69013f3b41b0ba594a8ef3b693ba",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

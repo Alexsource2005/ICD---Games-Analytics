@@ -619,5 +619,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "20/04/2023 - 27/04/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Beyond Blue",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "20/04/2023 - 27/04/2023",
+    "rating_polls": {
+        "average_rating": 4.35,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "bd9fd28ca1214868922f2ab41d6d3b65",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

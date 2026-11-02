@@ -745,5 +745,40 @@
             "tag": "edition"
         }
     ],
-    "data_aquisicao_gratis": "28/09/2023 - 05/10/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 10799,
+            "originalPrice": 10799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 107,99",
+                "discountPrice": "R$ 107,99",
+                "intermediatePrice": "R$ 107,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Soulstice",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "28/09/2023 - 05/10/2023",
+    "rating_polls": {
+        "average_rating": 4.21,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "cb8afc06acb14f6a8cf3ab01f4b361ce",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

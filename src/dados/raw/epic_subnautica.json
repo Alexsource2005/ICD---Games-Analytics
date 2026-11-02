@@ -457,6 +457,39 @@
             }
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 12450,
+            "originalPrice": 12450,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 124,50",
+                "discountPrice": "R$ 124,50",
+                "intermediatePrice": "R$ 124,50"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Subnautica",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.86,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "jaguar",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

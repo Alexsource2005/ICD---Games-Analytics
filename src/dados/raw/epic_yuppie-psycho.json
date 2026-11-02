@@ -403,5 +403,40 @@
             },
             "type": "productHome"
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3299,
+            "originalPrice": 3299,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 32,99",
+                "discountPrice": "R$ 32,99",
+                "intermediatePrice": "R$ 32,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Yuppie Psycho: Executive Edition",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.73,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ae51a606e31f409bac9e0216f3e757a2",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

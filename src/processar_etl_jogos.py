@@ -64,7 +64,7 @@ def eh_item_invalido(nome, data_json=None, origem=""):
 
     elif origem == "epic" and isinstance(data_json, dict):
         offer_type = str(data_json.get("offerType", "")).upper()
-        if offer_type in ["DLC", "ADD_ON", "DIGITAL_EXTRA", "AUDIOTRACK", "DEMO", "BUNDLE", "UNCONFIGURED"]:
+        if offer_type in ["DLC", "ADD_ON", "DIGITAL_EXTRA", "AUDIOTRACK", "DEMO", "UNCONFIGURED"]:
             return True
 
     elif origem == "gog" and isinstance(data_json, dict):
@@ -221,32 +221,45 @@ def extrair_preco_original_steam(dados_json):
     return "N/A"
 
 def extrair_preco_original_epic(dados_json):
-    """Extrai o preço original da Epic somente quando a moeda é BRL."""
-    price_info = dados_json.get("price", {}).get("totalPrice", {})
-    fmt_price = price_info.get("fmtPrice", {})
-
-    # Jogos gratuitos podem não trazer todos os metadados de moeda.
-    orig_cents = price_info.get("originalPrice")
-    if orig_cents == 0:
-        return "Grátis"
-
-    currency = (
-        price_info.get("currencyCode")
-        or price_info.get("currency")
-        or dados_json.get("currencyCode")
-    )
-    orig_fmt = fmt_price.get("originalPrice")
-
-    # Um valor formatado explicitamente em reais é a evidência mais direta.
-    if isinstance(orig_fmt, str) and orig_fmt.strip():
-        if "R$" in orig_fmt:
-            return orig_fmt.strip()
-        # Se o formato contradiz a moeda esperada, não tenta reinterpretá-lo.
+    """Extrai o preço original da Epic com suporte a buscas no catálogo e sub-edições."""
+    if not isinstance(dados_json, dict):
         return "Preço em BRL indisponível"
 
-    # Não interpreta um número sem moeda como se fosse necessariamente BRL.
-    if currency == "BRL" and orig_cents is not None:
-        return f"R$ {orig_cents / 100:.2f}".replace(".", ",")
+    # 1. Estrutura padrão de Catálogo (fetch_store_games)
+    price_info = dados_json.get("price", {}).get("totalPrice", {})
+    if price_info:
+        fmt_price = price_info.get("fmtPrice", {})
+        orig_cents = price_info.get("originalPrice")
+
+        if orig_cents == 0:
+            return "Grátis"
+
+        currency = (
+            price_info.get("currencyCode")
+            or price_info.get("currency")
+            or dados_json.get("currencyCode")
+        )
+        orig_fmt = fmt_price.get("originalPrice")
+
+        if isinstance(orig_fmt, str) and orig_fmt.strip():
+            if "R$" in orig_fmt:
+                return orig_fmt.strip()
+            return "Preço em BRL indisponível"
+
+        if currency == "BRL" and orig_cents is not None:
+            return f"R$ {orig_cents / 100:.2f}".replace(".", ",")
+
+    # 2. Fallback: Procura por edições embutidas em páginas de produtos (pages)
+    if "pages" in dados_json and isinstance(dados_json["pages"], list):
+        for page in dados_json["pages"]:
+            if not isinstance(page, dict):
+                continue
+            editions = page.get("data", {}).get("editions", {}).get("editions", [])
+            for ed in editions:
+                if isinstance(ed, dict) and "price" in ed:
+                    res = extrair_preco_original_epic(ed)
+                    if res != "Preço em BRL indisponível":
+                        return res
 
     return "Preço em BRL indisponível"
 
@@ -316,11 +329,45 @@ def extrair_preco_original_gog(dados_json):
     except (TypeError, ValueError):
         return "N/A"
 
+SUFIXOS_REDUNDANTES = r"\b(standard edition|edition|base game|digital edition|pc edition|game)\b"
 
 def normalizar_nome(nome):
     if not nome:
         return ""
-    return re.sub(r"[^\w\s]", "", nome).lower().strip()
+  
+    texto = re.sub(r"[™®©]", "", nome)
+    texto = re.sub(SUFIXOS_REDUNDANTES, "", texto).strip()
+    texto = re.sub(r"[^\w\s]", "", texto).lower().strip()
+    return re.sub(r"\s+", " ", texto)
+
+def extrair_metadados_epic(data):
+    """Extrai nome, descrição, lançamento e tags suportando ambos os formatos da API"""
+    nome = (data.get("title") or data.get("appName") or data.get("productName") or data.get("_title"))
+
+    descricao = data.get("description", "")
+
+    lancamento = data.get("effectiveDate") or data.get("releaseDate")
+
+    tags_brutas = data.get("tags") or []
+
+    if "pages" in data and isinstance(data["pages"], list):
+        for page in data["pages"]:
+            if not isinstance(page, dict):
+                continue
+            page_data = page.get("data", {})
+            about = page_data.get("about", {})
+            meta = page_data.get("meta", {})
+
+            if not nome:
+                nome = about.get("title")
+            if not descricao:
+                descricao = about.get("shortDescription") or about.get("description", "")
+            if not lancamento:
+                lancamento = meta.get("releaseDate")
+            if not tags_brutas:
+                tags_brutas = meta.get("tags", [])
+
+    return (nome, descricao, lancamento, tags_brutas)
 
 def formatar_data(data):
     """padroniza qualquer data de lançamento para o formato dd/mm/aaaa"""
@@ -404,8 +451,8 @@ for arquivo in os.listdir(pasta_raw):
                 descricao_texto = val["data"].get("short_description", "")
     elif arquivo.startswith("epic_"):
         origem = "epic"
-        nome_jogo = data.get("title") or data.get("appName")
-        descricao_texto = data.get("description", "")
+        nome_jogo, descricao_texto, epic_lancamento_raw, tags_epic_raw = extrair_metadados_epic(data)
+        
     elif arquivo.startswith("gog_"):
         origem = "gog"
         nome_jogo = data.get("title")
@@ -442,6 +489,7 @@ for arquivo in os.listdir(pasta_raw):
             "epic_lancamento": None,
             "epic_preco": None,
             "epic_gratis_data": None,
+            "epic_nota_media": None,
             # GOG Data
             "gog_generos": [],
             "gog_lancamento": None,
@@ -499,24 +547,44 @@ for arquivo in os.listdir(pasta_raw):
 
     elif origem == "epic":
         reg["tem_epic"] = True
-        reg["epic_lancamento"] = data.get("effectiveDate") or data.get("releaseDate")
-        price_info = data.get("price", {}).get("totalPrice", {})
-        reg["epic_preco"] = extrair_preco_original_epic(data)
 
-        tags = data.get("tags") or []
+        if not reg["epic_lancamento"]:
+            reg["epic_lancamento"] = epic_lancamento_raw
+
+        preco_atual = extrair_preco_original_epic(data)
+        if preco_atual not in {"N/A", "Preço em BRL indisponível"} or not reg["epic_preco"]:
+            reg["epic_preco"] = preco_atual
+
+        ratings = data.get("rating_polls")
+        if isinstance(ratings, dict):
+            nota_media = (ratings.get("average_rating") if ratings.get("average_rating") is not None else ratings.get("averageRating"))
+            if nota_media is not None:
+                try:
+                    reg["epic_nota_media"] = float(nota_media)
+                except (ValueError, TypeError):
+                    pass
+
+        
         epic_gens = []
-        for t in tags:
+        for t in tags_epic_raw:
             if isinstance(t, dict):
                 tid = str(t.get("id"))
                 tname = t.get("name") or t.get("groupName") or EPIC_TAG_MAP.get(tid)
                 if tname and tname not in epic_gens:
                     epic_gens.append(tname)
-        reg["epic_generos"] = epic_gens
+            elif isinstance(t, str):
+                tname = EPIC_TAG_MAP.get(t, t.capitalize())
+                if tname not in epic_gens:
+                    epic_gens.append(tname)
+
+        if epic_gens:
+            reg["epic_generos"] = list(dict.fromkeys(reg["epic_generos"] + epic_gens))
 
         if "gratis" in arquivo:
             raw_gratis = data.get("data_aquisicao_gratis")
-            reg["epic_gratis_data"] = padronizar_data_acquisicao(raw_gratis)
-
+            if raw_gratis:
+                reg["epic_gratis_data"] = padronizar_data_acquisicao(raw_gratis)
+        
     elif origem == "gog":
         reg["tem_gog"] = True
         reg["gog_lancamento"] = data.get("release_date")
@@ -573,6 +641,7 @@ for chave, reg in jogos_consolidados.items():
         "Estimativa Donos Steam": reg["steam_donos"],
         "Qtd Reviews Steam": reg["steam_reviews_qtd"],
         "% Positivas Steam": reg["steam_reviews_pct_positiva"],
+        "Nota Média Epic": reg["epic_nota_media"],
         "Disponível na Steam": "Sim" if reg["tem_steam"] else "Não",
         "Disponível na Epic": "Sim" if reg["tem_epic"] else "Não",
         "Disponível na GOG": "Sim" if reg["tem_gog"] else "Não",
@@ -582,6 +651,7 @@ for chave, reg in jogos_consolidados.items():
 df = pd.DataFrame(linhas_tabela)
 
 df["Qtd Reviews Steam"] = df["Qtd Reviews Steam"].astype("Int64")
+df["Nota Média Epic"] = pd.to_numeric(df["Nota Média Epic"], errors="coerce").astype("Float64")
 
 caminho_csv = "dados/processed/tabela_comparativa_jogos.csv"
 df.to_csv(caminho_csv, index=False, encoding="utf-8-sig")

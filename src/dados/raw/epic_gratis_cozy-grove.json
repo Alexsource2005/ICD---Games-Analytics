@@ -463,5 +463,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "12/03/2026 - 19/03/2026"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2899,
+            "originalPrice": 2899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 28,99",
+                "discountPrice": "R$ 28,99",
+                "intermediatePrice": "R$ 28,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Cozy Grove",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "12/03/2026 - 19/03/2026",
+    "rating_polls": {
+        "average_rating": 4.53,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "768ec2d3b5114ac4a800631b12ee3f31",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

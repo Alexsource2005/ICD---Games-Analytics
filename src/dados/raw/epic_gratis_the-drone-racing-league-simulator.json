@@ -750,5 +750,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "29/09/2022 - 06/10/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1899,
+            "originalPrice": 1899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 18,99",
+                "discountPrice": "R$ 18,99",
+                "intermediatePrice": "R$ 18,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Drone Racing League Simulator",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "29/09/2022 - 06/10/2022",
+    "rating_polls": {
+        "average_rating": 4.46,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "b6aa6a98bb394a53870bd6b026fefd1d",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2279,
-                "final": 227,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 22,79",
-                "final_formatted": "R$ 2,27"
+                "final": 2279,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 22,79"
             },
             "packages": [
                 31675
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 31675,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Hitman Contracts - <span class=\"discount_original_price\">R$ 22,79</span> R$ 2,27",
+                            "option_text": "Hitman Contracts - R$ 22,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 227
+                            "price_in_cents_with_discount": 2279
                         }
                     ]
                 }
@@ -119,7 +119,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3136
+                "total": 3140
             },
             "release_date": {
                 "coming_soon": false,
@@ -190,40 +190,47 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1511,
-                    "total_negative": 262,
-                    "total_reviews": 1773
+                    "total_positive": 1513,
+                    "total_negative": 263,
+                    "total_reviews": 1776
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236645794",
+                        "recommendationid": "238905775",
                         "author": {
-                            "steamid": "76561198310645061",
-                            "num_reviews": 92,
-                            "playtime_forever": 709,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 709,
-                            "last_played": 1790883793
+                            "steamid": "76561198075546961",
+                            "num_reviews": 22,
+                            "playtime_forever": 1516,
+                            "playtime_last_two_weeks": 1516,
+                            "playtime_at_review": 1516,
+                            "last_played": 1793217062
                         },
                         "language": "english",
-                        "review": "It's a pretty old hitman game, but I still enjoyed it. Compared to the hitman games after this one it's much slower paced, with walking around making enough noise for nearby guards to look at you and the crouching speed being extremely slow. A much more methodical game where even walking past a guard with a disguise is a risk if you don't commit and plan your path properly. I enjoy the slower pace, but it can drag on some maps. The levels vary a lot in quality with a mix of ok/bad levels and really good ones. Despite a decent amount of jank I would still recommend it if you enjoy the hitman series. A tip for the first mission is that you can close the truck since the butcher will wake up and blow your cover 10min into the mission",
-                        "timestamp_created": 1790885155,
-                        "timestamp_updated": 1790885155,
+                        "review": "Finishing every single contract in Hitman: Contracts with a Silent Assassin rating on Professional difficulty proved to be the most satisfying stealth run of the classic trilogy so far. Coming directly off Hitman 2, the quality-of-life improvements are immediately noticeable. The ability to sprint and crouch-walk at normal speeds without instantly alerting guards in a five-mile radius completely fixes the sluggish pacing of its predecessors, cutting total playtime down to a tight twenty hours.\r\n\r\nThe game shines brightest through its grim, oppressive atmosphere. From the macabre BDSM meat-packing plant and flooded Siberian submarine docks to a rainy Paris opera house and Hong Kong street negotiations, the environment design feels dark and cinematic. Mechanics like rapid syringe sedations, disguise rotations, and clever spatial assassination setups make executing targets feel smooth and responsive. Jesper Kyd's shift toward dark electronic synth-ambient music complements the eerie tone perfectly.\r\n\r\nHowever, the experience is not without its share of friction. A few missions suffer from obscure script triggers that require precise trial and error to figure out. Spending hours stuck on the Wang Fu incident simply because the escape limousine refused to move until a specific NPC was dumped into a sewer worker ditch is a classic example of unintuitive scripting.\r\n\r\nDespite those occasional trigger quirks, the refined movement, faster pacing, and unforgettable levels make this entry a huge leap forward. Subtracting one point for script trigger friction leaves Hitman: Contracts at a well-deserved 9/10.\r\n\r\nGame Facts:\r\n\r\nRushed Development: Built in under nine months after Eidos redirected funding toward Blood Money, forcing IO Interactive to remake five levels from the original game.\r\n\r\nBAFTA-Winning Soundtrack: Jesper Kyd shifted from Hitman 2's grand orchestra to a dark synth-ambient score that won the 2005 BAFTA for Best Original Music.\r\n\r\nMeat King's Party Legacy: The macabre meat-packing plant contract became one of the most iconic and infamous missions in stealth gaming history.\r\n\r\nFirst True Running Mechanics: Contracts finally allowed Agent 47 to sprint and crouch-walk at normal speeds without triggering instant AI aggression.",
+                        "timestamp_created": 1793355384,
+                        "timestamp_updated": 1793355384,
                         "voted_up": true,
-                        "votes_up": 3,
+                        "votes_up": 1,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5454545617103577,
+                        "weighted_vote_score": 0.523809552192688,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 8700F 8-Core Processor             ",
+                            "adapter_description": "NVIDIA GeForce RTX 5060 Ti",
+                            "system_ram": "32351",
+                            "vram_size": 16050
+                        }
                     }
                 ],
-                "cursor": "AoIFQFZF0UAAAABy2t2GBw==",
+                "cursor": "AoIFQFZhheAAAAB/mq2PBw==",
                 "day_range_used": 30,
-                "total_matching": 17
+                "total_matching": 18
             },
             "steamspy_tags": [
                 "Stealth",

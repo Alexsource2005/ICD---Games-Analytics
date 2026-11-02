@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4199,
-                "final": 293,
-                "discount_percent": 93,
-                "initial_formatted": "R$ 41,99",
-                "final_formatted": "R$ 2,93"
+                "final": 4199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 41,99"
             },
             "packages": [
                 532532
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 532532,
-                            "percent_savings_text": " -93%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Toy Tinker Simulator - <span class=\"discount_original_price\">R$ 41,99</span> R$ 2,93",
+                            "option_text": "Toy Tinker Simulator - R$ 41,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 293
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
@@ -386,23 +386,23 @@
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237961845",
+                        "recommendationid": "237534752",
                         "author": {
-                            "steamid": "76561198392450770",
-                            "num_reviews": 218,
-                            "playtime_forever": 120,
+                            "steamid": "76561198077629719",
+                            "num_reviews": 22,
+                            "playtime_forever": 44,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 120,
-                            "last_played": 1785725977
+                            "playtime_at_review": 44,
+                            "last_played": 1791798797
                         },
                         "language": "english",
-                        "review": "This game was a bit lack luster. I got it from a mystery bundle from a website, and it was just eh.",
-                        "timestamp_created": 1792267626,
-                        "timestamp_updated": 1792267626,
+                        "review": "After having investigated the developing company behind it, I am even more certain that these are made, if not solely from, then with AI. Look at their steam portfolio and the rapid development phases, for completely different genres of games. Yes, they use free assets and the most simple gameplay there is. But there are some bits in their games that just feel wrong from a game development perspective. The ideas are good, but games take time to craft. I'd encourage the maker to take time and develop a game idea throughout a longer phase of time. Also please, in the future, make use of AI transparent. The same goes for your Youtube appearance. And please ask for permission and link artists like Michael Kobrin in the future, if you use their work.",
+                        "timestamp_created": 1791799781,
+                        "timestamp_updated": 1791799781,
                         "voted_up": false,
-                        "votes_up": 2,
+                        "votes_up": 5,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5268138647079468,
+                        "weighted_vote_score": 0.5853422284126282,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -411,7 +411,7 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZdraAAAAB1p+CLBw==",
+                "cursor": "AoIFQFYSwyAAAABw4o+KBw==",
                 "day_range_used": 30,
                 "total_matching": 10
             },

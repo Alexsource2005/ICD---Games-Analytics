@@ -1,0 +1,486 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffffff"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffffff"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "ba3149b6d7a7488ab5cc674154458757",
+    "_title": "jotun",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "Jotun Valhalla Edition",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/jotun",
+    "_slug": "jotun",
+    "_activeDate": "2019-11-22T02:53:23.043Z",
+    "lastModified": "2019-11-22T02:55:12.848Z",
+    "_locale": "pt-BR",
+    "_id": "e2b3f393-eb31-4ee8-a711-1462e210a6d6",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffffff"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffffff"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "ba3149b6d7a7488ab5cc674154458757",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#ffffff",
+                "customPrimaryBg": "#445893",
+                "accentColor": "#ffffff",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "Jotun Valhalla Edition",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/jotun/home",
+            "_slug": "home",
+            "_activeDate": "2019-11-22T02:55:12.233Z",
+            "lastModified": "2019-11-26T14:14:13.602Z",
+            "_locale": "pt-BR",
+            "_id": "c0e963b4-4d1c-43df-b93c-c0d544a27fc6",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "ba3149b6d7a7488ab5cc674154458757",
+                "id": "cbbde99547d54f41b8f7bd5fc46726c5",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "75e740783b2f496ab7f6f8ecf546c702",
+                "appName": "Grouse",
+                "_type": "Diesel Product Item",
+                "namespace": "ba3149b6d7a7488ab5cc674154458757",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/ThunderLotus",
+                    "linkTwitch": "https://www.twitch.tv/thunderlotusgames",
+                    "linkFacebook": "https://www.facebook.com/ThunderLotusGames",
+                    "linkYoutube": "https://www.youtube.com/c/ThunderLotusGames",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Jotun",
+                    "linkHomepage": "https://thunderlotusgames.com/jotun/",
+                    "linkInstagram": "https://www.instagram.com/thunderlotus/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, alemão, italiano, japonês, polonês, português (Brasil), russo, espanhol (Espanha), chinês simplificado"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Microsoft® Windows® 7",
+                                    "recommended": "Microsoft® Windows® 7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador de 1,8 GHz",
+                                    "recommended": "Processador de 3,5 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 10, com pelo menos 256 MB de memória de vídeo",
+                                    "recommended": "Placa de vídeo compatível com DirectX 10, com pelo menos 1 GB de memória de vídeo"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "OS X Yosemite",
+                                    "recommended": "OS X Yosemite"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador de 2,4 GHz",
+                                    "recommended": "Processador de 3,5 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel Iris 1536",
+                                    "recommended": "Intel Iris 1536"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: 12 anos"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Alemanha: 12 anos"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 12 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FESRB_Jotun-842x404-accf1003b0da14a5c06008c925cb780e4a78c0f4.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 14 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2019 Thunder Lotus. Todos os direitos reservados. Jotun e Thunder Lotus são marcas registradas da Thunder Lotus nos EUA e em outros países.",
+                    "privacyPolicyLink": {
+                        "src": "https://thunderlotusgames.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Thunder Lotus"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-1a6d08f1bfa2113ba772d87ad2e3410bfef5ecab.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Thunder Lotus",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Thunder Lotus",
+                    "description": "![Jotun Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G2_00-1980x1478-0c0886e74745f3dbd27d45d0e5432bb20122744c.jpg)\n\n## Impressione os deuses!\n\nJotun é um jogo de ação e exploração desenhado à mão, ambientado na mitologia nórdica. Você interpreta Thora, uma guerreira viking que sofreu uma morte inglória e precisa provar seu valor aos deuses para entrar em Valhalla.\n\n![Jotun Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G2_02-1280x720-5570bcdbfb5a6459c2ad65e949160e12a1fbe59f.jpg)\n\n## Conheça os jotuns!\n\nExplore regiões vastas do purgatório nórdico para encontrar runas e libertar os jotuns, os gigantes elementais nórdicos.\n\n![Jotun Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G2_04-1280x720-147ba059274b53cd172bec980fb2de9b1f839c99.jpg)\n\n## Ação intensa contra muitos chefões!\n\nLute contra eles usando apenas seu enorme machado de duas mãos, as bênçãos dos deuses e suas habilidades!\n\n![Jotun Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G2_06-1280x720-642aac906125a7f690e26c7f34b81330bbd7011a.jpg)\n\n## Teste suas habilidades no Valhalla Mode!\n\nJotun: Valhalla Edition inclui o Valhalla Mode, a batalha definitiva contra versões ainda mais ferozes dos jotuns! Um verdadeiro desafio para quem deseja impressionar os deuses!\n\n",
+                    "shortDescription": "Jotun é um jogo de ação e exploração desenhado à mão, ambientado na mitologia nórdica. Você interpreta Thora, uma guerreira viking que sofreu uma morte inglória e precisa provar seu valor aos deuses para entrar em Valhalla. Impressione os deuses!",
+                    "title": "Jotun: Valhalla Edition",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2Fjotun_valhalla_logo_final-4056x2508-d2492b3fa65053c8b9d7d7b11f1cce14030030cf.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-3550338b6681d909c7b3b9c2ae115a29102716e4.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-1a6d08f1bfa2113ba772d87ad2e3410bfef5ecab.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"760531607b8e4224b1c9ea8ab9148556\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"ee920ee2e85d4e94858406d9e5f78106\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"b64a8c5dbfb945468c09ede12662a734\"\n        }\n    ]\n}",
+                                "accentColor": "#ffffff",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Jotun Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-1a6d08f1bfa2113ba772d87ad2e3410bfef5ecab.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2015-09-29T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Thunder Lotus"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Thunder Lotus"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "ADVENTURE",
+                        "INDIE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1C_00-1920x1080-6f3a272f9d83337356a5c10ac59e9c4372dc2b8b.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_02-1920x1080-42b6ffbc30f63b7edee2609a7eac030ea37fef2e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_03-1920x1080-c4fcb8a6bc0e9b03955eaed9051e662074037fad.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_06-1920x1080-686446eed23f7d401b59c1595537bf9384190c08.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_04-1920x1080-599e313b2b306abfae6acf9827e748ff8cd22fc0.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_05-1920x1080-7e203a7a45193d8d58e64c7919a29e571f8acfea.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "Jotun: Valhalla Edition"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FESRB_Jotun-842x404-accf1003b0da14a5c06008c925cb780e4a78c0f4.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_06-1920x1080-686446eed23f7d401b59c1595537bf9384190c08.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_02-1920x1080-42b6ffbc30f63b7edee2609a7eac030ea37fef2e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2Fjotun_valhalla_logo_final-4056x2508-d2492b3fa65053c8b9d7d7b11f1cce14030030cf.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1C_00-1920x1080-6f3a272f9d83337356a5c10ac59e9c4372dc2b8b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_03-1920x1080-c4fcb8a6bc0e9b03955eaed9051e662074037fad.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_05-1920x1080-7e203a7a45193d8d58e64c7919a29e571f8acfea.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-1a6d08f1bfa2113ba772d87ad2e3410bfef5ecab.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-3550338b6681d909c7b3b9c2ae115a29102716e4.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fjotun%2Fhome%2FEGS_ThunderLotus_JotunValhallaEdition_G1A_04-1920x1080-599e313b2b306abfae6acf9827e748ff8cd22fc0.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2899,
+            "originalPrice": 2899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 28,99",
+                "discountPrice": "R$ 28,99",
+                "intermediatePrice": "R$ 28,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Jotun: Valhalla Edition",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "06/12/2019 - 12/12/2019",
+    "rating_polls": {
+        "average_rating": 4.39,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ba3149b6d7a7488ab5cc674154458757",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

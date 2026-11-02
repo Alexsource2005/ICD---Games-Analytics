@@ -1,0 +1,576 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffffff"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffffff"
+        }
+    },
+    "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+    "_title": "conarium",
+    "productName": "Conarium",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/conarium",
+    "_slug": "conarium",
+    "_activeDate": "2019-08-29T19:37:57.557Z",
+    "lastModified": "2019-08-29T19:38:49.005Z",
+    "_locale": "pt-BR",
+    "_id": "296d63c4-26f1-4258-9095-08da87340076",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffffff"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffffff"
+                }
+            },
+            "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+            "_title": "home",
+            "productName": "Conarium",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/conarium/home",
+            "_slug": "home",
+            "_activeDate": "2019-08-29T19:39:11.543Z",
+            "lastModified": "2019-09-03T15:26:02.771Z",
+            "_locale": "pt-BR",
+            "_id": "ef9ec8b6-e6ee-4b47-8e1b-69fa2479619b",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+                "id": "f094afd81c3c4a3cb565b186e01c3bcd",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "4ea6051591b14a37bcc4048081b30dc0",
+                "appName": "Canary",
+                "_type": "Diesel Product Item",
+                "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkFacebook": "https://www.facebook.com/conariumgame",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/Q2x4QU6",
+                    "title": "Siga Conarium",
+                    "linkHomepage": "https://conariumgame.com"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, italiano, alemão, espanhol (Espanha), português brasileiro, russo, turco, húngaro, chinês simplificado"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7 64-bit",
+                                    "recommended": "Windows 7 64-bit ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3-4160 de 3.60GHz",
+                                    "recommended": "Intel Core i5-4690K de 3.50GHz ou AMD FX-9370 de 3.50GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "6 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "NVIDIA GeForce GTX 480/570/670 ou ATI Radeon HD 5870/5850",
+                                    "recommended": "NVIDIA GeForce GTX 960 ou AMD Radeon R7 370"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações adicionais",
+                                    "minimum": "O uso de uma configuração AMD Crossfire pode resultar em problemas de desempenho. As resoluções 4:3 não são suportadas",
+                                    "recommended": "Requer um processador e sistema operacional de 64-bit"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FESRB_Conarium-842x404-f29baa47dba993fbcc10a136f4dc36f67b182e97.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TEEN"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "USK ab 16 "
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_Dauntless_12-208x254-09069d64e2788b2209bf3b023f945da80417721b.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 12"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2F12-100x117-74b3593b07cb5a151c3fa0f01d486520d480f87d.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "12세이용가"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Conarium © 2018 Zoetrope Interactive. Licenciado exclusivamente e publicado pela Iceberg Interactive B.V. O design e a marca da Iceberg Interactive são marcas registradas da Iceberg Interactive B.V. Desenvolvido por Zoetrope Interactive. Microsoft®, Windows® e DirectX® são marcas registradas da Microsoft Corporation. Todas as outras marcas, nomes de produtos e logotipos são marcas comerciais ou marcas registradas de seus respectivos proprietários. Todos os direitos reservados. Produzido na Europa.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.iceberg-games.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Iceberg"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G2-CONARIUM-1000x840-735f0a46626309f8cf0c579fda298c2cc5b66285.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Zoetrope Interactive",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Iceberg Interactive",
+                    "description": "Conarium é um jogo arrepiante inspirado pela obra de H.P. Lovecraft que conta a emocionante história de quatro cientistas e seus esforços para desafiar o que normalmente conhecemos como os limites \"absolutos\" da natureza. Inspirado em \"Nas Montanhas da Loucura\", a novela de H.P. Lovecraft, mas ambientado anos depois da história original.\n\nVocê, assumindo o papel de Frank Gilman, abre os olhos dentro de uma sala cheia de barulhos estranhos e pulsantes. Padrões de luzes realizando uma Dança Macabra nas paredes são apresentados por um dispositivo estranho na mesa. Você não se lembra de nada além de que está em Upuaut, uma base antártica localizada perto do Polo Sul. O lugar está deserto e você tem a sensação de que algo está muito, muito errado. De alguma forma, saber que suas memórias não podem guiá-lo causa um estranho sentimento de vulnerabilidade, uma sensação familiar, ainda que estranha, de fazer parte de algo maior... Logo você descobrirá que morreu por ter usado o dispositivo durante a expedição, mas voltou à vida ligeiramente diferente, falando sobre memórias esquisitas e lugares estranhos. Você perdeu algo importante ou ganhou algo sinistro...\n\nExplore a base antártica, além de sonhos e visões. Estude pistas e desvende segredos, fazendo o máximo para evitar seres macabros.\n\n![Imagem de Conarium",
+                    "shortDescription": "Conarium é um jogo arrepiante inspirado pela obra de H.P. Lovecraft que conta a emocionante história de quatro cientistas e seus esforços para desafiar o que normalmente conhecemos como os limites \"absolutos\" da natureza.",
+                    "title": "Conarium",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-IC1-CONARIUM-COLOR-1280x289-c73f9fdc3710fdd98455e2316e2897da6e6ec3b7.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-S2-CONARIUM-1280X1440PX-1280x1440-1655e243044e9b13a5c0f85976c1493f604749d9.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-S1-CONARIUM-2560x1440-6f827be6dd36a0a6570e3fe7b0de8d3c0c713b6a.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-S1-CONARIUM-2560x1440-6f827be6dd36a0a6570e3fe7b0de8d3c0c713b6a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-02-1920x1080-1b5f34e7009ff1f84f23ff6681c12762111fd46e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-03-1920x1080-fca04be0c30cc029a01065dda7a1b5421f05753b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-04-1920x1080-f2968ab02f82a0f1fcfe602571f4d367023f2874.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-05-1920x1080-c3a43c9b6278202ec98f612f60218b7059a8cc3f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-06-1920x1080-e9b03cb55a98353260273be2fd21f9bfcf8ff168.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT7-1920x1080-a34830e009cd49f47b6a8ec29691766dd03ce3ba.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-11-1920x1080-5fe5ea5f0379438e93ed69daf73f755419f5ec3f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT9-1920x1080-75bf488e651d5c3eabd54e6c6f49171045f9e4a5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT1-1920x1080-1d3e0be92e7781b44c5dc39677575914d093db2b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-01-1920x1080-2ad3ffeb67cbb23a5376b2542823e077a6544a7d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-06-06T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Iceberg Interactive"
+                    ],
+                    "developer": [
+                        "Zoetrope Interactive"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "HORROR",
+                        "PUZZLE",
+                        "INDIE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-07-1920x1080-520d384bdc1a861441f1f86a151a66028b70f680.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-12-1920x1080-df166cbfa0a63c30c18a5dee6f89c67d493cc546.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-10-1920x1080-4bdedb7af3bbf286e767d49a4c2ba50d6b057c71.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-08-1920x1080-4abb907ea067ddb170ab89457a610e5a1bf31025.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-09-1920x1080-4be5bcadc6394272d854ef16341f75bfe2ae9e91.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT5-1920x1080-d01122e8186c961c4c894bdbf4ab110eadf93bba.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "Conarium"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#ffffff",
+                "customPrimaryBg": "#111725",
+                "accentColor": "#ffffff",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT9-1920x1080-75bf488e651d5c3eabd54e6c6f49171045f9e4a5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-03-1920x1080-fca04be0c30cc029a01065dda7a1b5421f05753b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-06-1920x1080-e9b03cb55a98353260273be2fd21f9bfcf8ff168.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-11-1920x1080-5fe5ea5f0379438e93ed69daf73f755419f5ec3f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2F12-100x117-74b3593b07cb5a151c3fa0f01d486520d480f87d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-05-1920x1080-c3a43c9b6278202ec98f612f60218b7059a8cc3f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G2-CONARIUM-1000x840-735f0a46626309f8cf0c579fda298c2cc5b66285.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT7-1920x1080-a34830e009cd49f47b6a8ec29691766dd03ce3ba.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FESRB_Conarium-842x404-f29baa47dba993fbcc10a136f4dc36f67b182e97.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-04-1920x1080-f2968ab02f82a0f1fcfe602571f4d367023f2874.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-12-1920x1080-df166cbfa0a63c30c18a5dee6f89c67d493cc546.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-S1-CONARIUM-2560x1440-6f827be6dd36a0a6570e3fe7b0de8d3c0c713b6a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-IC1-CONARIUM-COLOR-1280x289-c73f9fdc3710fdd98455e2316e2897da6e6ec3b7.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-07-1920x1080-520d384bdc1a861441f1f86a151a66028b70f680.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT5-1920x1080-d01122e8186c961c4c894bdbf4ab110eadf93bba.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_Dauntless_12-208x254-09069d64e2788b2209bf3b023f945da80417721b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-09-1920x1080-4be5bcadc6394272d854ef16341f75bfe2ae9e91.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-10-1920x1080-4bdedb7af3bbf286e767d49a4c2ba50d6b057c71.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-08-1920x1080-4abb907ea067ddb170ab89457a610e5a1bf31025.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-G1-CONARIUM-SCREENSHOT1-1920x1080-1d3e0be92e7781b44c5dc39677575914d093db2b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-02-1920x1080-1b5f34e7009ff1f84f23ff6681c12762111fd46e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-S2-CONARIUM-1280X1440PX-1280x1440-1655e243044e9b13a5c0f85976c1493f604749d9.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fconarium%2Fhome%2FEGS_DEVELOPER_CONARIUM-CAROUSEL-SCREEN-01-1920x1080-2ad3ffeb67cbb23a5376b2542823e077a6544a7d.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3699,
+            "originalPrice": 3699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 36,99",
+                "discountPrice": "R$ 36,99",
+                "intermediatePrice": "R$ 36,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Conarium",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 3.81,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

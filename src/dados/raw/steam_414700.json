@@ -32,14 +32,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 599,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 5,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
-                83311,
-                376558
+                376558,
+                83311
             ],
             "package_groups": [
                 {
@@ -52,16 +52,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 83311,
-                            "percent_savings_text": " -90%",
-                            "percent_savings": 0,
-                            "option_text": "Outlast 2 - <span class=\"discount_original_price\">R$ 59,99</span> R$ 5,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 599
-                        },
-                        {
                             "packageid": 376558,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -70,6 +60,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5799
+                        },
+                        {
+                            "packageid": 83311,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Outlast 2 - R$ 59,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -250,7 +250,7 @@
                 }
             ],
             "recommendations": {
-                "total": 54767
+                "total": 54935
             },
             "achievements": {
                 "total": 24,
@@ -386,30 +386,30 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 12113,
-                    "total_negative": 2103,
-                    "total_reviews": 14216
+                    "total_positive": 12148,
+                    "total_negative": 2111,
+                    "total_reviews": 14259
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236452901",
+                        "recommendationid": "238173480",
                         "author": {
-                            "steamid": "76561199369802083",
-                            "num_reviews": 92,
-                            "playtime_forever": 336,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 336,
-                            "last_played": 1785768600
+                            "steamid": "76561199068326889",
+                            "num_reviews": 3,
+                            "playtime_forever": 1455,
+                            "playtime_last_two_weeks": 764,
+                            "playtime_at_review": 935,
+                            "last_played": 1792616294
                         },
                         "language": "english",
-                        "review": "---{ Graphics }---\r\n☑ You forget what reality is\r\n☐ Beautiful\r\n☐ Good\r\n☐ Decent\r\n☐ Bad\r\n☐ Don‘t look too long at it\r\n☐ MS-DOS\r\n\r\n---{ Gameplay }---\r\n☑ Very good\r\n☐ Good\r\n☐ It's just gameplay\r\n☐ Mehh\r\n☐ Watch paint dry instead\r\n☐ Just don't\r\n\r\n---{ Audio }---\r\n☑ Eargasm\r\n☐ Very good\r\n☐ Good\r\n☐ Not too bad\r\n☐ Bad\r\n☐ I'm now deaf\r\n\r\n---{ Audience }---\r\n☐ Kids\r\n☐ Teens\r\n☑ Adults\r\n☐ Grandma\r\n\r\n---{ PC Requirements }---\r\n☐ Check if you can run paint\r\n☑ Potato\r\n☐ Decent\r\n☐ Fast\r\n☐ Rich boi\r\n☐ Ask NASA if they have a spare computer\r\n\r\n---{ Game Size }---\r\n☐ Floppy Disk\r\n☑ Old Fashioned\r\n☐ Workable\r\n☐ Big\r\n☐ Will eat 15% of your 1TB hard drive\r\n☐ You will want an entire hard drive to hold it\r\n☐ You will need to invest in a black hole to hold all the data\r\n\r\n---{ Difficulty }---\r\n☐ Just press 'W'\r\n☑ Easy\r\n☐ Easy to learn / Hard to master\r\n☐ Significant brain usage\r\n☐ Difficult\r\n☐ Dark Souls\r\n\r\n---{ Story }---\r\n☐ No Story\r\n☐ Some lore\r\n☐ Average\r\n☑ Good\r\n☐ Lovely\r\n☐ It'll replace your life\r\n\r\n---{ Game Time }---\r\n☐ Long enough for a cup of coffee\r\n☐ Short\r\n☑ Average\r\n☐ Long\r\n☐ To infinity and beyond\r\n\r\n---{ Price }---\r\n☐ It's free!\r\n☑ Worth the price\r\n☐ If it's on sale\r\n☐ If u have some spare money left\r\n☐ Not recommended\r\n☐ You could also just burn your money\r\n\r\n---{ Bugs }---\r\n☐ Never heard of\r\n☑ Minor bugs\r\n☐ Can get annoying\r\n☐ ARC Raiders\r\n☐ The game itself is a big terrarium for bugs\r\n\r\n---{ ? / 10 }---\r\n☐ 1\r\n☐ 2\r\n☐ 3\r\n☐ 4\r\n☐ 5\r\n☐ 6\r\n☐ 7\r\n☑ 8\r\n☐ 9\r\n☐ 10",
-                        "timestamp_created": 1790668174,
-                        "timestamp_updated": 1790668174,
+                        "review": "The gameplay was pretty good, and the atmosphere was genuinely creepy. The environments had their own unique horror vibe, which I really liked.\r\n\r\nThe story was nothing special, and honestly, the game wasn't that difficult. When I was younger, this game used to scare the hell out of me. Now, it's more interesting than scary.\r\n\r\nStill a decent horror game, but the childhood fear hits different.\r\n\r\nGameplay: 6/10\r\nStory: 5/10\r\nHorror: 7/10",
+                        "timestamp_created": 1792515302,
+                        "timestamp_updated": 1792515302,
                         "voted_up": true,
-                        "votes_up": 47,
-                        "votes_funny": 3,
-                        "weighted_vote_score": 0.7787914872169495,
-                        "comment_count": 1,
+                        "votes_up": 8,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6222455501556396,
+                        "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
@@ -417,9 +417,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFUbJcAAAAB1wv+FBw==",
+                "cursor": "AoIFQFXjhmAAAAB40seMBw==",
                 "day_range_used": 30,
-                "total_matching": 167
+                "total_matching": 202
             },
             "steamspy_tags": [
                 "Horror",

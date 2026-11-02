@@ -540,5 +540,40 @@
                 "https://cdn2.unrealengine.com/egs-2064readonlymemories-midbossllc-g1a-04-1920x1080-fddcb7283beb.jpg"
             ]
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "2064: Read Only Memories",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.14,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "5b08e4db33c54e518c2a1360cc2c7f18",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

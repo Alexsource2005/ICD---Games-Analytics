@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 966,
+                    "total_positive": 967,
                     "total_negative": 308,
-                    "total_reviews": 1274
+                    "total_reviews": 1275
                 },
                 "total_matching": 5,
                 "day_range_used": 30
@@ -59,10 +59,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7000,
-                "final": 7000,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 70,00"
+                "final": 2450,
+                "discount_percent": 65,
+                "initial_formatted": "R$ 70,00",
+                "final_formatted": "R$ 24,50"
             },
             "packages": [
                 146141
@@ -79,13 +79,13 @@
                     "subs": [
                         {
                             "packageid": 146141,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -65%",
                             "percent_savings": 0,
-                            "option_text": "MOTHERGUNSHIP - R$ 70,00",
+                            "option_text": "MOTHERGUNSHIP - <span class=\"discount_original_price\">R$ 70,00</span> R$ 24,50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7000
+                            "price_in_cents_with_discount": 2450
                         }
                     ]
                 }

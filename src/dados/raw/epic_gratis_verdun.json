@@ -589,5 +589,40 @@
             }
         }
     ],
-    "data_aquisicao_gratis": null
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Verdun",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.52,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "e4a2a414d46849f49a35c0f80df2903a",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

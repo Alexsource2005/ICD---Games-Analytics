@@ -441,5 +441,40 @@
             }
         }
     ],
-    "data_aquisicao_gratis": "24/08/2023 - 31/08/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 9099,
+            "originalPrice": 9099,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 90,99",
+                "discountPrice": "R$ 90,99",
+                "intermediatePrice": "R$ 90,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Homeworld: Deserts of Kharak",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "24/08/2023 - 31/08/2023",
+    "rating_polls": {
+        "average_rating": 4.42,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "e209b2d1d5384f639335f64e3e6c4bb8",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

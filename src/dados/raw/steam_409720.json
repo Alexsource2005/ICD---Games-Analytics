@@ -47,10 +47,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2999,
-                "final": 449,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 29,99",
-                "final_formatted": "R$ 4,49"
+                "final": 2999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 29,99"
             },
             "packages": [
                 81419,
@@ -68,23 +68,23 @@
                     "subs": [
                         {
                             "packageid": 81419,
-                            "percent_savings_text": " -85%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "BioShock 2 Remastered - <span class=\"discount_original_price\">R$ 29,99</span> R$ 4,49",
+                            "option_text": "BioShock 2 Remastered - R$ 29,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 2999
                         },
                         {
                             "packageid": 127633,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "BioShock: The Collection - <span class=\"discount_original_price\">R$ 119,00</span> R$ 23,80",
+                            "option_text": "BioShock: The Collection - R$ 119,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2380
+                            "price_in_cents_with_discount": 11900
                         }
                     ]
                 }
@@ -168,7 +168,7 @@
                 }
             ],
             "recommendations": {
-                "total": 24534
+                "total": 24562
             },
             "achievements": {
                 "total": 53,
@@ -342,9 +342,9 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 10770,
-                    "total_negative": 4456,
-                    "total_reviews": 15226
+                    "total_positive": 10780,
+                    "total_negative": 4458,
+                    "total_reviews": 15238
                 },
                 "reviews": [
                     {
@@ -353,7 +353,7 @@
                             "steamid": "76561199118691208",
                             "num_reviews": 32,
                             "playtime_forever": 594,
-                            "playtime_last_two_weeks": 273,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 83,
                             "deck_playtime_at_review": 83,
                             "last_played": 1792196908
@@ -363,9 +363,9 @@
                         "timestamp_created": 1792010290,
                         "timestamp_updated": 1792010290,
                         "voted_up": false,
-                        "votes_up": 10,
+                        "votes_up": 11,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6114411950111389,
+                        "weighted_vote_score": 0.6053896546363831,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -374,9 +374,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXxWwAAAABxpu6KBw==",
+                "cursor": "AoIFQFX5GcAAAABxpu6KBw==",
                 "day_range_used": 30,
-                "total_matching": 101
+                "total_matching": 96
             },
             "steamspy_tags": [
                 "FPS",

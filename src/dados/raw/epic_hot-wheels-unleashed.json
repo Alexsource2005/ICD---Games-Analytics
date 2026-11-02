@@ -1097,6 +1097,39 @@
             "type": "offer"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 12900,
+            "originalPrice": 12900,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 129,00",
+                "discountPrice": "R$ 129,00",
+                "intermediatePrice": "R$ 129,00"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "HOT WHEELS UNLEASHED™",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.46,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "71e6bd85af1841f598526da595f22a62",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

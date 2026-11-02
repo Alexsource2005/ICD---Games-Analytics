@@ -575,6 +575,39 @@
             ]
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 4799,
+            "originalPrice": 4799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 47,99",
+                "discountPrice": "R$ 47,99",
+                "intermediatePrice": "R$ 47,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Sable",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.51,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "66a0893b7b9a42a695f0a387d64dfcc6",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -5661,5 +5661,40 @@
             "type": "addon"
         }
     ],
-    "data_aquisicao_gratis": "11/06/2020 - 18/06/2020"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3999,
+            "originalPrice": 3999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 39,99",
+                "discountPrice": "R$ 39,99",
+                "intermediatePrice": "R$ 39,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "ARK: Survival Evolved",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "11/06/2020 - 18/06/2020",
+    "rating_polls": {
+        "average_rating": 4.55,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ark",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

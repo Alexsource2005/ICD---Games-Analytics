@@ -52,10 +52,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4999,
-                "final": 4999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 49,99"
+                "final": 1499,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 49,99",
+                "final_formatted": "R$ 14,99"
             },
             "packages": [
                 134808
@@ -72,13 +72,13 @@
                     "subs": [
                         {
                             "packageid": 134808,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "Pathway - R$ 49,99",
+                            "option_text": "Pathway - <span class=\"discount_original_price\">R$ 49,99</span> R$ 14,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -219,7 +219,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1909
+                "total": 1910
             },
             "achievements": {
                 "total": 75,

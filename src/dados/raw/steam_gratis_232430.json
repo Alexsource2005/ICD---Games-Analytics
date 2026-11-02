@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 11411,
+                    "total_positive": 11413,
                     "total_negative": 3404,
-                    "total_reviews": 14815
+                    "total_reviews": 14817
                 },
                 "total_matching": 23,
                 "day_range_used": 30
@@ -50,15 +50,15 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 4699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 46,99"
+                "final": 1409,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 46,99",
+                "final_formatted": "R$ 14,09"
             },
             "packages": [
-                290089,
                 30170,
-                47484
+                47484,
+                290089
             ],
             "package_groups": [
                 {
@@ -71,6 +71,26 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 30170,
+                            "percent_savings_text": " -70%",
+                            "percent_savings": 0,
+                            "option_text": "Gone Home - <span class=\"discount_original_price\">R$ 46,99</span> R$ 14,09",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1409
+                        },
+                        {
+                            "packageid": 47484,
+                            "percent_savings_text": " -70%",
+                            "percent_savings": 0,
+                            "option_text": "Gone Home + Original Soundtrack - <span class=\"discount_original_price\">R$ 59,99</span> R$ 17,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1799
+                        },
+                        {
                             "packageid": 290089,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -79,26 +99,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 2799
-                        },
-                        {
-                            "packageid": 30170,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Gone Home - R$ 46,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
-                        },
-                        {
-                            "packageid": 47484,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Gone Home + Original Soundtrack - R$ 59,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -233,7 +233,7 @@
                 }
             ],
             "recommendations": {
-                "total": 13655
+                "total": 13656
             },
             "achievements": {
                 "total": 10,

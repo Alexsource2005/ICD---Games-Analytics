@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7990,
-                "final": 1598,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 79,90",
-                "final_formatted": "R$ 15,98"
+                "final": 7990,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 79,90"
             },
             "packages": [
                 17226,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 17226,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Worms Revolution - <span class=\"discount_original_price\">R$ 79,90</span> R$ 15,98",
+                            "option_text": "Worms Revolution - R$ 79,90",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1598
+                            "price_in_cents_with_discount": 7990
                         },
                         {
                             "packageid": 17227,
@@ -209,7 +209,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5673
+                "total": 5675
             },
             "achievements": {
                 "total": 34,
@@ -332,29 +332,29 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3047,
+                    "total_positive": 3048,
                     "total_negative": 602,
-                    "total_reviews": 3649
+                    "total_reviews": 3650
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236645762",
+                        "recommendationid": "239034066",
                         "author": {
-                            "steamid": "76561199050591586",
-                            "num_reviews": 2,
-                            "playtime_forever": 1333,
-                            "playtime_last_two_weeks": 25,
-                            "playtime_at_review": 1086,
-                            "last_played": 1792105498
+                            "steamid": "76561198992674476",
+                            "num_reviews": 21,
+                            "playtime_forever": 1309,
+                            "playtime_last_two_weeks": 62,
+                            "playtime_at_review": 1309,
+                            "last_played": 1793408608
                         },
                         "language": "english",
-                        "review": "peak",
-                        "timestamp_created": 1790885122,
-                        "timestamp_updated": 1790885122,
+                        "review": "Good game",
+                        "timestamp_created": 1793470376,
+                        "timestamp_updated": 1793470376,
                         "voted_up": true,
                         "votes_up": 0,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.4898218810558319,
+                        "weighted_vote_score": 0.5,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -363,7 +363,7 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQGHGg6AAAABy2N2GBw==",
+                "cursor": "AoIFQF3AAAAAAABy7euPBw==",
                 "day_range_used": 30,
                 "total_matching": 2
             },

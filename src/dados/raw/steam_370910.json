@@ -25,7 +25,7 @@
                         "recommendationid": "238701574",
                         "author": {
                             "steamid": "76561198405825654",
-                            "num_reviews": 264,
+                            "num_reviews": 268,
                             "playtime_forever": 292,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 292,
@@ -83,10 +83,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 329,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 3,29"
             },
             "packages": [
                 67868
@@ -103,13 +103,13 @@
                     "subs": [
                         {
                             "packageid": 67868,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Kathy Rain - R$ 32,99",
+                            "option_text": "Kathy Rain - <span class=\"discount_original_price\">R$ 32,99</span> R$ 3,29",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -209,7 +209,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1865
+                "total": 1866
             },
             "achievements": {
                 "total": 20,

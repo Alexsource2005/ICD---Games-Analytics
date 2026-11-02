@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 1199,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 11,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 6098
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 6098,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Amnesia: The Dark Descent - <span class=\"discount_original_price\">R$ 59,99</span> R$ 11,99",
+                            "option_text": "Amnesia: The Dark Descent - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -178,7 +178,7 @@
                 }
             ],
             "recommendations": {
-                "total": 20530
+                "total": 20551
             },
             "achievements": {
                 "total": 18,
@@ -318,11 +318,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 20056,
-                    "total_negative": 1042,
-                    "total_reviews": 21098
+                    "total_positive": 20074,
+                    "total_negative": 1041,
+                    "total_reviews": 21115
                 },
-                "total_matching": 81,
+                "total_matching": 93,
                 "day_range_used": 30
             },
             "steamspy_tags": [

@@ -686,6 +686,47 @@
             "type": "info"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1109,
+            "originalPrice": 3699,
+            "voucherDiscount": 0,
+            "discount": 2590,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 36,99",
+                "discountPrice": "R$ 11,09",
+                "intermediatePrice": "R$ 11,09"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "b5a067031903434497bd9b3248769547",
+                        "endDate": "2026-11-10T06:59:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Tacoma",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.35,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "675f47ac5d5847f59badceea5b0950cf",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -430,5 +430,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "27/07/2023 - 03/08/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 6399,
+            "originalPrice": 6399,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 63,99",
+                "discountPrice": "R$ 63,99",
+                "intermediatePrice": "R$ 63,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Homeworld Remastered Collection",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "27/07/2023 - 03/08/2023",
+    "rating_polls": {
+        "average_rating": 4.51,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "4311a0ee99724086b1a4f261b827d038",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

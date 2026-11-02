@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 2999,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 29,99"
             },
             "packages": [
                 107868
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 107868,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Night in the Woods - R$ 59,99",
+                            "option_text": "Night in the Woods - <span class=\"discount_original_price\">R$ 59,99</span> R$ 29,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -173,7 +173,7 @@
                 }
             ],
             "recommendations": {
-                "total": 18144
+                "total": 18151
             },
             "achievements": {
                 "total": 31,
@@ -305,11 +305,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 14773,
+                    "total_positive": 14778,
                     "total_negative": 789,
-                    "total_reviews": 15562
+                    "total_reviews": 15567
                 },
-                "total_matching": 89,
+                "total_matching": 88,
                 "day_range_used": 30
             },
             "steamspy_tags": [

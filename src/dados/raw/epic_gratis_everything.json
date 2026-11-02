@@ -1,0 +1,477 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "teal",
+            "accent": "#297ac4"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "teal",
+            "accent": "#297ac4"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "854ca270c7f04fe483212a35811e9189",
+    "_title": "everything",
+    "regionBlock": "",
+    "productName": "Everything",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/everything",
+    "_slug": "everything",
+    "_activeDate": "2019-09-09T18:17:11.847Z",
+    "lastModified": "2019-09-09T18:19:56.716Z",
+    "_locale": "pt-BR",
+    "_id": "9c9a46ea-68a9-4212-95f3-eb59e07e8ece",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "teal",
+                    "accent": "#297ac4"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "teal",
+                    "accent": "#297ac4"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "854ca270c7f04fe483212a35811e9189",
+            "_title": "home",
+            "regionBlock": "",
+            "productName": "Everything",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/everything/home",
+            "_slug": "home",
+            "_activeDate": "2019-09-09T18:23:40.955Z",
+            "lastModified": "2019-10-02T14:48:52.067Z",
+            "_locale": "pt-BR",
+            "_id": "6c54ade0-3b89-4527-9a5e-348fe9e5ae2f",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "854ca270c7f04fe483212a35811e9189",
+                "id": "11c4b859bfd143d798bf84b8cfe1964f",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "3526c66b4bf748f5a6284b9b6391c427",
+                "appName": "Pelican",
+                "_type": "Diesel Product Item",
+                "namespace": "854ca270c7f04fe483212a35811e9189",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/eeverythingg",
+                    "linkFacebook": "https://www.facebook.com/EverythingGame",
+                    "linkYoutube": "https://www.youtube.com/user/animationrelated",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Everything",
+                    "linkInstagram": "https://www.instagram.com/davidoreilly/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7 Service Pack 1 ou Windows 8 (64-bit)",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo E6320 (2*1866) ou equivalente",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce 7600 GS (512 MB) ou equivalente",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB de HDD",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "A definir"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FGermanSuggestedRating_0-390x450-c95b68b02aacc3724e07991873c5ea2b3f94b5ba.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FESRB_Everything-842x404-cdb855ad5a3d3af110a65d061ffeaeaea9386b98.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TODOS"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FAll-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "전체이용가"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© David OReilly",
+                    "privacyPolicyLink": {
+                        "src": "http://www.davidoreilly.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "David O Reilly Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_G2_AboutImage-1000x840-008704d337433561c855dce4f0b655e93b56bb3f.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "David OReilly",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "David OReilly",
+                    "description": "Everything é um jogo épico premiado de simulação de realidade, em que você pode ser tudo o que pode ver, desde animais a planetas, galáxias e muito mais. Viaje entre o espaço sideral e o local, e explore um universo vasto e interconectado de objetos sem objetivos demarcados, pontuação ou missões para concluir. Everything é uma simulação procedimental, orientada por IA, do sistemas naturais, vistos da perspectiva de tudo no universo. \n\nNarrado pela filosofia inspiradora de Alan Watts e com uma trilha sonora espetacular do compositor Ben Lukas Boysen, Everything dará a você uma nova perspectiva sobre a vida.\n",
+                    "title": "Seja o universo!",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_IC1_Color-2253x882-f7d0e92e3d06fd721da5a9c14023519751f56c1f.png",
+                        "_type": "Diesel Image"
+                    },
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_N3-2560x1440-977374871bdea6edcaf09070ecf901dc6f78291f.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "sources": [
+                                    {
+                                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_ShortVideo_20sec-d21839569c81c2261351bb8af3f30d916b96dff1.webm",
+                                        "_type": "Diesel Html Video Source",
+                                        "type": "Video/Webm"
+                                    },
+                                    {
+                                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_ShortVideo_20sec-40e71d47064b934b15f41c9fb415bda9fc4b0d74.mp4",
+                                        "_type": "Diesel Html Video Source",
+                                        "type": "Video/MP4"
+                                    }
+                                ],
+                                "accentColor": "#297ac4",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Trailer do Everything",
+                                "type": "htmlVideo",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_1-2560x1440-0e44fd03c3063cd4b95964c727335c195b516d32.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_2-2560x1440-2cdac2edc7b5670db117292c4195c096dd5ff1e9.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_3-2560x1440-4d2289ef24c28be99513e7a5306843c9d6240fdc.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_4-2560x1440-499d84ce5f4f179c6ef5631873526f7dbaaea3ba.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-04-21T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "David OReilly"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "David OReilly"
+                    ],
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "SIMULATION",
+                        "OPEN_WORLD",
+                        "CASUAL"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_GALLERY_01-2560x1440-c790986b6aae6e95f15b93ab148fbcd8f611f206.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_GALLERY_02-2560x1440-c59d0648bf31b314c7bd6e789230be70661a6cb0.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_GALLERY_03-2560x1440-b19f9a399788226583618b704625ceb3f70124e9.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        }
+                    ]
+                },
+                "navTitle": "Everything"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#297ac4",
+                "customPrimaryBg": "#297ac4",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "type": "productHome",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_GALLERY_02-2560x1440-c59d0648bf31b314c7bd6e789230be70661a6cb0.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_G2_AboutImage-1000x840-008704d337433561c855dce4f0b655e93b56bb3f.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_1-2560x1440-0e44fd03c3063cd4b95964c727335c195b516d32.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_2-2560x1440-2cdac2edc7b5670db117292c4195c096dd5ff1e9.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FAll-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_GALLERY_01-2560x1440-c790986b6aae6e95f15b93ab148fbcd8f611f206.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FESRB_Everything-842x404-cdb855ad5a3d3af110a65d061ffeaeaea9386b98.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_IC1_Color-2253x882-f7d0e92e3d06fd721da5a9c14023519751f56c1f.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_4-2560x1440-499d84ce5f4f179c6ef5631873526f7dbaaea3ba.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FGermanSuggestedRating_0-390x450-c95b68b02aacc3724e07991873c5ea2b3f94b5ba.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_GALLERY_03-2560x1440-b19f9a399788226583618b704625ceb3f70124e9.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_N3-2560x1440-977374871bdea6edcaf09070ecf901dc6f78291f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_ShortVideo_20sec-40e71d47064b934b15f41c9fb415bda9fc4b0d74.mp4",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_CAROUSEL_3-2560x1440-4d2289ef24c28be99513e7a5306843c9d6240fdc.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Feverything%2Fhome%2FEGS_DavidOReilly_Everything_ShortVideo_20sec-d21839569c81c2261351bb8af3f30d916b96dff1.webm"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2799,
+            "originalPrice": 2799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 27,99",
+                "discountPrice": "R$ 27,99",
+                "intermediatePrice": "R$ 27,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Everything",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "26/09/2019 - 03/10/2019",
+    "rating_polls": {
+        "average_rating": 4.66,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "854ca270c7f04fe483212a35811e9189",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

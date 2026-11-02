@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1859,
-                "final": 204,
-                "discount_percent": 89,
-                "initial_formatted": "R$ 18,59",
-                "final_formatted": "R$ 2,04"
+                "final": 1859,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 18,59"
             },
             "packages": [
                 177696
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 177696,
-                            "percent_savings_text": " -89%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Narvas - <span class=\"discount_original_price\">R$ 18,59</span> R$ 2,04",
+                            "option_text": "Narvas - R$ 18,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 204
+                            "price_in_cents_with_discount": 1859
                         }
                     ]
                 }
@@ -222,8 +222,8 @@
                     "review_score": 5,
                     "review_score_desc": "Mixed",
                     "total_positive": 68,
-                    "total_negative": 95,
-                    "total_reviews": 163
+                    "total_negative": 97,
+                    "total_reviews": 165
                 },
                 "reviews": [
                     {
@@ -254,7 +254,7 @@
                 ],
                 "cursor": "AoIFQFaAAAAAAABxrtWJBw==",
                 "day_range_used": 30,
-                "total_matching": 2
+                "total_matching": 4
             },
             "steamspy_tags": [
                 "Action",

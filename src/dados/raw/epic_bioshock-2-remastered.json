@@ -410,5 +410,40 @@
                 "https://cdn2.unrealengine.com/egs-bioshock2remastered-massmediagames-ic1-400x400-9341a2f1ec57.png"
             ]
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2999,
+            "originalPrice": 2999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 29,99",
+                "discountPrice": "R$ 29,99",
+                "intermediatePrice": "R$ 29,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "BioShock 2 Remastered",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.51,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "304724b675974566b1d7e23af80a1f52",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

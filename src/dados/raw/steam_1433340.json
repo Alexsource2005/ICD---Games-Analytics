@@ -31,9 +31,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1453,
-                    "total_negative": 151,
-                    "total_reviews": 1604
+                    "total_positive": 1455,
+                    "total_negative": 152,
+                    "total_reviews": 1607
                 },
                 "reviews": [
                     {
@@ -51,9 +51,9 @@
                         "timestamp_created": 1792694758,
                         "timestamp_updated": 1792694997,
                         "voted_up": false,
-                        "votes_up": 1,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.523809552192688,
+                        "weighted_vote_score": 0.52173912525177,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -62,9 +62,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZhheAAAAB+6ZCNBw==",
+                "cursor": "AoIFQFZkLIAAAAB+6ZCNBw==",
                 "day_range_used": 30,
-                "total_matching": 26
+                "total_matching": 25
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1433340/49b610cb62fc2e9b28d1d6b98fc30bc4f7e096ec/header.jpg?t=1785500419",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1433340/75cd4069e00d807a5f738a9ab3809aab7396e48c/capsule_231x87.jpg?t=1785500419",
@@ -85,10 +85,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 1199,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 11,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 503635
@@ -105,13 +105,13 @@
                     "subs": [
                         {
                             "packageid": 503635,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Happy's Humble Burger Farm - <span class=\"discount_original_price\">R$ 59,99</span> R$ 11,99",
+                            "option_text": "Happy's Humble Burger Farm - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -295,7 +295,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1709
+                "total": 1710
             },
             "achievements": {
                 "total": 30,

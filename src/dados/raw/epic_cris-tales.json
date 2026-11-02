@@ -882,6 +882,39 @@
             "type": "offer"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 14999,
+            "originalPrice": 14999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 149,99",
+                "discountPrice": "R$ 149,99",
+                "intermediatePrice": "R$ 149,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Cris Tales",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.34,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ef361cdf19514595a8cb0945fb66962e",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

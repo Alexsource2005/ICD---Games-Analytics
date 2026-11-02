@@ -371,6 +371,39 @@
             ]
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1999,
+            "originalPrice": 1999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 19,99",
+                "discountPrice": "R$ 19,99",
+                "intermediatePrice": "R$ 19,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Fallout 2: A Post Nuclear Role Playing Game",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.69,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "aae22da1fb884fa395b25bc30dd61faf",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

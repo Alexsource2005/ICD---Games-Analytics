@@ -1,0 +1,496 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#ABCDFF"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#ABCDFF"
+        }
+    },
+    "namespace": "magnolia",
+    "_title": "the-witness",
+    "regionBlock": "CN",
+    "productName": "The Witness",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/the-witness",
+    "_slug": "the-witness",
+    "_activeDate": "2019-03-14T16:12:26.377Z",
+    "lastModified": "2019-07-19T18:04:13.600Z",
+    "_locale": "pt-BR",
+    "_id": "c45412e8-0c97-49d7-9611-7a815eda316e",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#ABCDFF"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#ABCDFF"
+                }
+            },
+            "namespace": "magnolia",
+            "_title": "home",
+            "regionBlock": "CN",
+            "productName": "The Witness",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/the-witness/home",
+            "_slug": "home",
+            "_activeDate": "2019-03-14T16:12:56.404Z",
+            "lastModified": "2019-08-23T22:04:46.441Z",
+            "_locale": "pt-BR",
+            "_id": "444b7984-0862-4b14-a7f4-9506a55be851",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "magnolia",
+                "id": "ea1854d7e3004420ba3f0759384514c6",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "a379f050fa3d47e4a0fa696b0ef744d5",
+                "appName": "Magnolia",
+                "_type": "Diesel Product Item",
+                "namespace": "magnolia",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/witnessgame",
+                    "linkFacebook": "https://www.facebook.com/pg/The-Witness-370086665750/about/",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga The Witness",
+                    "linkHomepage": "http://the-witness.net/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês",
+                        "Francês",
+                        "Italiano",
+                        "Alemão",
+                        "Espanhol",
+                        "Polonês",
+                        "Português",
+                        "Russo",
+                        "Árabe",
+                        "Japonês",
+                        "Chinês simplificado",
+                        "Chinês tradicional",
+                        "Coreano",
+                        "Húngaro"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "10.11.6 (El Capitan)",
+                                    "recommended": "10.12.3 (Sierra)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "1,8 GHz",
+                                    "recommended": "2,4 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Gráficos",
+                                    "minimum": "Intel série HD 4000",
+                                    "recommended": "Radeon R9 M370X"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "5 GB de espaço disponível",
+                                    "recommended": "5 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações adicionais",
+                                    "minimum": "Requer compatibilidade com Metal",
+                                    "recommended": "Requer compatibilidade com Metal"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "1,8 GHz",
+                                    "recommended": "2,4 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Gráficos",
+                                    "minimum": "Intel série HD 4000",
+                                    "recommended": "GeForce 780"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "5 GB de espaço disponível",
+                                    "recommended": "5 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fthe-witness%2Fhome%2FTheWitness_KoreaRating-100x117-c1a6cd52a210391c50f1ea6fae3c6b1dd0ab6e98.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "전체이용가"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FESRB_TheWitness_E-842x404-47164dfc714455a2839b4ff68e8911b4a8ab45fa.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "EVERYONE"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2019 Thekla, Inc.",
+                    "privacyPolicyLink": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_AboutImage-1000x840-5c6a0a0f37c14616e866d64f90c15930ab18a43e.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Thekla, Inc.",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Thekla, Inc.",
+                    "description": "# Esses enigmas vão desafiar e surpreender você.\n\n# Você não lembra quem você é ou como chegou aqui, mas tem uma coisa que pode fazer: explorar a ilha na esperança de descobrir pistas, recuperar a memória e achar o caminho para casa.\n\n# The Witness respeita você como um jogador inteligente e dá valor ao seu precioso tempo. São mais de 500 enigmas e nenhum deles é à toa. Cada um traz uma ideia nova ao todo. Então, é um jogo cheio de ideias.",
+                    "title": "**Você acorda, sozinho, em uma ilha estranha cheia de enigmas.**",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_DeveloperLogo-400x400-6f98d60cf2c99f4ccc4ab0ff80a62cd1e4c89d9a.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_Logo_Black-1634x352-af9b34743af354ee146e961e45f2170d0bfdd718.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_Promo__S3-1280x1440-58f0eada125619d921e88a2eee6ffd360baf410d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_Promo__S2-2560x1444-c401243ade27e0359cf80eb4dbd8d27dc9a0f67a.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"6e2a09d3ef844bcb89b196b8756e4cb8\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"ab23e8c32c014530a8d99aac34f48be9\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"b958f23f98c54f4b85060ecb47d26df0\"\n        }\n    ]\n}",
+                                "accentColor": "#ABCDFF",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "The Witness Trailer 1",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"82707f22691e4691a08210ea611c90d4\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"a6fdead96a0f446595f11a5d7ea503a1\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"fec30b35a0d843a1b0a4e49ecc2995b1\"\n        }\n    ]\n}",
+                                "accentColor": "#ABCDFF",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "contentId": "",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "title": "Long Screenshot 1",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"c55608bc0de34cce861f8ec647d63567\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"e4725bc405644bc5a1120cc2672c5720\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"cbde9f2960464fa780fe5286f03fab37\"\n        }\n    ]\n}",
+                                "accentColor": "#ABCDFF",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "contentId": "",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "title": "Long Screenshot 3",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2016-01-26T13:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Thekla, Inc."
+                    ],
+                    "developer": [
+                        "Thekla, Inc."
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "SINGLE_PLAYER",
+                        "FIRST_PERSON",
+                        "PUZZLE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_0-2560x1440-23717456f8f8cbaaa4d8c63aea7d6397eb50e6dc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_1-1920x1080-b34686db87cb033e65ea94b9b58ebc93a3fb7987.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_2-2560x1440-7f509bd161887dacf937a970f92d7b8e40060a57.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_3-1920x1080-c7052811d42f97386848c77d35a2874ba352a6a2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_4-1920x1080-11f8bc1482017ee92c5976a6f364d954e34282cb.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_5-1920x1080-557962a063cbf91874d11dde112d623760ce547c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "The Witness"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#ABCDFF",
+                "customPrimaryBg": "#FFFFFF",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_4-1920x1080-11f8bc1482017ee92c5976a6f364d954e34282cb.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_5-1920x1080-557962a063cbf91874d11dde112d623760ce547c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_1-1920x1080-b34686db87cb033e65ea94b9b58ebc93a3fb7987.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_Logo_Black-1634x352-af9b34743af354ee146e961e45f2170d0bfdd718.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_DeveloperLogo-400x400-6f98d60cf2c99f4ccc4ab0ff80a62cd1e4c89d9a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_2-2560x1440-7f509bd161887dacf937a970f92d7b8e40060a57.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_3-1920x1080-c7052811d42f97386848c77d35a2874ba352a6a2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_Promo__S2-2560x1444-c401243ade27e0359cf80eb4dbd8d27dc9a0f67a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fthe-witness%2Fhome%2FTheWitness_KoreaRating-100x117-c1a6cd52a210391c50f1ea6fae3c6b1dd0ab6e98.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_Promo__S3-1280x1440-58f0eada125619d921e88a2eee6ffd360baf410d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FESRB_TheWitness_E-842x404-47164dfc714455a2839b4ff68e8911b4a8ab45fa.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_AboutImage-1000x840-5c6a0a0f37c14616e866d64f90c15930ab18a43e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmagnolia%2Fhome%2FTheWitness_GalleryImage_0-2560x1440-23717456f8f8cbaaa4d8c63aea7d6397eb50e6dc.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7299,
+            "originalPrice": 7299,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 72,99",
+                "discountPrice": "R$ 72,99",
+                "intermediatePrice": "R$ 72,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Witness",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "04/04/2019 - 18/04/2019",
+    "rating_polls": {
+        "average_rating": 4.65,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "magnolia",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

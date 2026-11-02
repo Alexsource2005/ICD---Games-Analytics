@@ -1,0 +1,507 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#CE4F9E"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#CE4F9E"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+    "_title": "sundered-eldritch-edition",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "Sundered: Eldritch Edition",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/sundered-eldritch-edition",
+    "_slug": "sundered-eldritch-edition",
+    "_activeDate": "2019-12-18T15:45:44.330Z",
+    "lastModified": "2020-01-04T02:19:07.648Z",
+    "_locale": "pt-BR",
+    "_id": "ca56514a-40a9-4404-9805-14682858c2d5",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#CE4F9E"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#CE4F9E"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#CE4F9E",
+                "customPrimaryBg": "#4D3595",
+                "accentColor": "#CE4F9E",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "Sundered: Eldritch Edition",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/sundered-eldritch-edition/home",
+            "_slug": "home",
+            "_activeDate": "2019-12-18T15:49:35.018Z",
+            "lastModified": "2020-01-06T18:00:41.676Z",
+            "_locale": "pt-BR",
+            "_id": "7d360f7c-369d-4448-996b-74e7f786cea9",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+                "id": "f6aee57bdd3445d4973bbbb639e8e8d5",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "667e9987946046af92f4b8b3a54ed417",
+                "appName": "Moa",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "ca8077d80493497188e0ca5bca3ebe60"
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/thunderlotusgames",
+                    "linkTwitter": "https://twitter.com/ThunderLotus",
+                    "linkFacebook": "https://www.facebook.com/ThunderLotusGames",
+                    "linkYoutube": "https://www.youtube.com/c/ThunderLotusGames",
+                    "_type": "Diesel Social Links",
+                    "linkInstagram": "https://www.instagram.com/thunderlotus/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, italiano, alemão, espanhol (Espanha), polonês, português (Brasil), russo, chinês simplificado, japonês, coreano"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "OS X Yosemite",
+                                    "recommended": "OS X Yosemite"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador de 2,4 GHz",
+                                    "recommended": "Processador de 3,5 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel Iris 1536"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "8 GB de espaço disponível",
+                                    "recommended": "8 GB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Microsoft® Windows® 7 (64 bits)",
+                                    "recommended": "Microsoft® Windows® 10 (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Processador de 1,8 GHz",
+                                    "recommended": "Processador de 2,4 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "8 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo compatível com DirectX 10, com pelo menos 256 MB de memória de vídeo",
+                                    "recommended": "Placa de vídeo compatível com DirectX 10, com pelo menos 1 GB de memória de vídeo"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Versão do DirectX",
+                                    "minimum": "Versão 10",
+                                    "recommended": "Versão 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "3 GB",
+                                    "recommended": "6 GB"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_RA1-401x200-c434b13d3e369af53b1e99790e0c92b9ecf057d5.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Não recomendado para menores de 10 anos"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_12_Rating-208x254-3cd0c7f88b2407b4fd1d42ff1b8de919c85c3523.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 12 anos"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Alemanha: 12 anos"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: 12 anos"
+                        },
+                        {
+                            "countryCodes": "JP",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FCERO_B_Violence-1095x1025-16e557f2fc99dc98ebb2b51d42c62819b681086a.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária no Japão: 12 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "©2020 Thunder Lotus. Todos os direitos reservados. Sundered e Thunder Lotus são marcas registradas da Thunder Lotus nos EUA e em outros países.",
+                    "privacyPolicyLink": {
+                        "src": "https://thunderlotusgames.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Thunder Lotus"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Thunder Lotus",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Thunder Lotus",
+                    "description": "![Imagem do Sundered](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S5-1280x956-9ab9ed6747af561cde1db18cb352784a04add31d.png)\n\n# Resista ou renda-se.\n\nSundered é um metroidvania caótico desenhado à mão em que você terá que resistir ou render-se a antigos poderes sobrenaturais. Enfrente hordas de inimigos assustadores em um mundo dinâmico inspirado pelas obras de H.P. Lovecraft.\n\n![Imagem do Sundered](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_10-1920x1080-72c015a16f1655bc1a4384ec3cd36b47d7aab6eb.jpg)\n\n# Confinamento em cavernas em constante mudança.\n\nVocê será Eshe, uma andarilha num mundo em ruínas, presa em cavernas em constante mudança, tomadas por hordas de inimigos assustadores. Domine o poder de relíquias corrompidas para derrotar chefes gigantescos, o que custará sua humanidade.\n\n![Imagem do Sundered](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G2_04-1920x1080-53fa52747ea5a8dc5ac1a301bc55333e3c5a537c.jpg)\n\n# É perigoso andar sozinho!\n\nSundered: Eldritch Edition inclui a atualização do Magnata do Gongo, com a inclusão de suporte multiplayer cooperativo local para até 4 jogadores, junto com novas áreas e uma batalha caótica contra o novo chefe, o Magnata do Gongo!\n\n![Imagem do Sundered](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G2_06-1920x1080-f6bec84c205b53b2280b3ca9f8e4741136452ea9.jpg)\n\n# Explore e lute.\n\nDescubra as profundezas de uma masmorra gerada processualmente no coração de um belo mundo desenhado à mão. Enfrente hordas de monstros sinistros criados dinamicamente. Teste suas habilidades e reflexos em violentos combates corpo a corpo e lutas com chefões épicos.\n\n![Imagem do Sundered](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G2_08-1920x1080-37b17acec788679ac1debb8d529f8a91314fd7a4.jpg)\n\n# Morra e ganhe um upgrade.\n\nIdealizado como uma aventura desafiadora para jogadores experientes, a morte no Sundered é apenas o começo. Quando você morre, você reaparece no Hub, onde você sobe de nível e customiza seu personagem. Carregue e atualize inúmeras vantagens exclusivas, estatísticas e habilidades especiais.\n",
+                    "shortDescription": "Sundered é um metroidvania caótico desenhado à mão em que você terá que resistir ou render-se a antigos poderes sobrenaturais. Uma releitura desafiadora e exclusiva de um gênero clássico dos criadores de Jotun, agora com cooperação local!",
+                    "title": "Sundered: Eldritch Edition",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_IC4-200x200-9e2ff42e27ba7457e00a882690e9a1669eccd31e.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_IC1-200x200-8f44f5b3e72c20bf67351419b4b1abeecdaf8c41.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"18483fd1726f45eeb0a498728423da77\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"15b185f1c657497e993aa0ec22f61304\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"f825d95b173b48f7ae31d341baa4c612\"\n        }\n    ]\n}",
+                                "accentColor": "#CE4F9E",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Sundered Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_04-1920x1080-4870d0ddcd9ea17027195694f41d2af7bb8e626b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1C_00-1920x1080-c0a72b623fab3240740893ac5fec661faf62d0cd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-07-28T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Thunder Lotus"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Thunder Lotus"
+                    ],
+                    "platform": [
+                        "Mac",
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "INDIE",
+                        "METROIDVANIA"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_02-1920x1080-fcb6bf3a606b7ae944e0b1c3f8a6b03713eca226.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_07-1920x1080-2f6ab63d5f4ed63d5c16ae0aaea2b4681e2ff8e2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_08-1920x1080-c38ccb783912489e8cf204b5e733109aba807813.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_09-1920x1080-7d20f983f39f58ee14714ba324f1d16378f9334f.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        }
+                    ]
+                },
+                "navTitle": "Sundered: Eldritch Edition"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_04-1920x1080-4870d0ddcd9ea17027195694f41d2af7bb8e626b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_07-1920x1080-2f6ab63d5f4ed63d5c16ae0aaea2b4681e2ff8e2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_12_Rating-208x254-3cd0c7f88b2407b4fd1d42ff1b8de919c85c3523.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_RA1-401x200-c434b13d3e369af53b1e99790e0c92b9ecf057d5.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_IC1-200x200-8f44f5b3e72c20bf67351419b4b1abeecdaf8c41.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_09-1920x1080-7d20f983f39f58ee14714ba324f1d16378f9334f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1C_00-1920x1080-c0a72b623fab3240740893ac5fec661faf62d0cd.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FCERO_B_Violence-1095x1025-16e557f2fc99dc98ebb2b51d42c62819b681086a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_12-350x350-eb06b723e538efe4928dcde499cd8a6cc6a697cb.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_02-1920x1080-fcb6bf3a606b7ae944e0b1c3f8a6b03713eca226.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_IC4-200x200-9e2ff42e27ba7457e00a882690e9a1669eccd31e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsundered-eldritch-edition%2Fhome%2FEGS_ThunderLotus_SunderedEldritchEdition_G1A_08-1920x1080-c38ccb783912489e8cf204b5e733109aba807813.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Sundered: Eldritch Edition",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "09/01/2020 - 16/01/2020",
+    "rating_polls": {
+        "average_rating": 4.56,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ca8077d80493497188e0ca5bca3ebe60",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

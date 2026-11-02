@@ -495,5 +495,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "12/01/2023 - 19/01/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "First Class Trouble",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "12/01/2023 - 19/01/2023",
+    "rating_polls": {
+        "average_rating": 4.45,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "27834480410d4000a987b32801e9abba",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

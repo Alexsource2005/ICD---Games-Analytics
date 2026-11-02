@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1379,
-                "final": 689,
-                "discount_percent": 50,
-                "initial_formatted": "R$ 13,79",
-                "final_formatted": "R$ 6,89"
+                "final": 1379,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 13,79"
             },
             "packages": [
                 1073228
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 1073228,
-                            "percent_savings_text": " -50%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Paragnosia - <span class=\"discount_original_price\">R$ 13,79</span> R$ 6,89",
+                            "option_text": "Paragnosia - R$ 13,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 689
+                            "price_in_cents_with_discount": 1379
                         }
                     ]
                 }
@@ -189,7 +189,7 @@
                 }
             ],
             "recommendations": {
-                "total": 241
+                "total": 242
             },
             "achievements": {
                 "total": 8,
@@ -305,16 +305,16 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 760,
+                    "total_positive": 767,
                     "total_negative": 89,
-                    "total_reviews": 849
+                    "total_reviews": 856
                 },
                 "reviews": [
                     {
                         "recommendationid": "237481945",
                         "author": {
                             "steamid": "76561199402464007",
-                            "num_reviews": 20,
+                            "num_reviews": 21,
                             "playtime_forever": 111,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 110,
@@ -325,9 +325,9 @@
                         "timestamp_created": 1791738357,
                         "timestamp_updated": 1791738357,
                         "voted_up": true,
-                        "votes_up": 6,
+                        "votes_up": 7,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6000000238418579,
+                        "weighted_vote_score": 0.6153846383094788,
                         "comment_count": 2,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -336,9 +336,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYAAAAAAAB5/fWJBw==",
+                "cursor": "AoIFQFXsTqAAAAB5/fWJBw==",
                 "day_range_used": 30,
-                "total_matching": 20
+                "total_matching": 22
             },
             "steamspy_tags": [
                 "Psychological Horror",

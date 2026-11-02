@@ -505,6 +505,39 @@
             ]
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5699,
+            "originalPrice": 5699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 56,99",
+                "discountPrice": "R$ 56,99",
+                "intermediatePrice": "R$ 56,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Aven Colony",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.22,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "31bd7140ab344cd59a770e14b2afbcea",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

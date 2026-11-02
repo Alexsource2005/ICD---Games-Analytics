@@ -31,7 +31,7 @@
                         "recommendationid": "237513528",
                         "author": {
                             "steamid": "76561198066817631",
-                            "num_reviews": 256,
+                            "num_reviews": 257,
                             "playtime_forever": 226,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 226,
@@ -42,9 +42,9 @@
                         "timestamp_created": 1791767530,
                         "timestamp_updated": 1791767530,
                         "voted_up": true,
-                        "votes_up": 1,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.523809552192688,
+                        "weighted_vote_score": 0.5535714030265808,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -53,9 +53,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZhheAAAAB4s4WKBw==",
+                "cursor": "AoIFQFY7beAAAAB4s4WKBw==",
                 "day_range_used": 30,
-                "total_matching": 9
+                "total_matching": 8
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025440/header.jpg?t=1745952562",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025440/capsule_231x87.jpg?t=1745952562",
@@ -83,10 +83,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 10799,
-                "final": 2159,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 107,99",
-                "final_formatted": "R$ 21,59"
+                "final": 10799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 107,99"
             },
             "packages": [
                 340673,
@@ -105,33 +105,33 @@
                     "subs": [
                         {
                             "packageid": 340673,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Fantasy General II - <span class=\"discount_original_price\">R$ 107,99</span> R$ 21,59",
+                            "option_text": "Fantasy General II - R$ 107,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2159
+                            "price_in_cents_with_discount": 10799
                         },
                         {
                             "packageid": 390879,
-                            "percent_savings_text": " -40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Fantasy General II - Hero Edition - <span class=\"discount_original_price\">R$ 162,00</span> R$ 97,20",
+                            "option_text": "Fantasy General II - Hero Edition - R$ 162,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9720
+                            "price_in_cents_with_discount": 16200
                         },
                         {
                             "packageid": 390880,
-                            "percent_savings_text": " -40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Fantasy General II - General Edition - <span class=\"discount_original_price\">R$ 214,99</span> R$ 128,99",
+                            "option_text": "Fantasy General II - General Edition - R$ 214,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12899
+                            "price_in_cents_with_discount": 21499
                         }
                     ]
                 }

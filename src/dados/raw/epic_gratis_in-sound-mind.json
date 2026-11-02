@@ -807,5 +807,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "17/03/2022 - 24/03/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 6699,
+            "originalPrice": 6699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 66,99",
+                "discountPrice": "R$ 66,99",
+                "intermediatePrice": "R$ 66,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "In Sound Mind",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "17/03/2022 - 24/03/2022",
+    "rating_polls": {
+        "average_rating": 4.63,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "fa9812acd30f46f8a69a75bf27addb5c",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

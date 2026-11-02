@@ -45,10 +45,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 16,99"
+                "final": 679,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 16,99",
+                "final_formatted": "R$ 6,79"
             },
             "packages": [
                 512565
@@ -65,13 +65,13 @@
                     "subs": [
                         {
                             "packageid": 512565,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -60%",
                             "percent_savings": 0,
-                            "option_text": "Initial Drift Online - R$ 16,99",
+                            "option_text": "Initial Drift Online - <span class=\"discount_original_price\">R$ 16,99</span> R$ 6,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 679
                         }
                     ]
                 }
@@ -282,7 +282,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3206
+                "total": 3208
             },
             "achievements": {
                 "total": 36,
@@ -409,16 +409,16 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 914,
+                    "total_positive": 913,
                     "total_negative": 641,
-                    "total_reviews": 1555
+                    "total_reviews": 1554
                 },
                 "reviews": [
                     {
                         "recommendationid": "237133025",
                         "author": {
                             "steamid": "76561198942517251",
-                            "num_reviews": 146,
+                            "num_reviews": 149,
                             "playtime_forever": 9,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 9,
@@ -442,7 +442,7 @@
                 ],
                 "cursor": "AoIFQFZF0UAAAABxzsuIBw==",
                 "day_range_used": 30,
-                "total_matching": 10
+                "total_matching": 9
             },
             "steamspy_tags": [
                 "Racing",

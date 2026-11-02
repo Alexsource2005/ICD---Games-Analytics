@@ -22,11 +22,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 6490,
-                    "total_negative": 1018,
-                    "total_reviews": 7508
+                    "total_positive": 6496,
+                    "total_negative": 1019,
+                    "total_reviews": 7515
                 },
-                "total_matching": 23,
+                "total_matching": 27,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/2e5e6b78b36586e2a8fc7e0fa3bf80dc5a94a6fb/header.jpg?t=1791828220",
@@ -55,10 +55,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 27,99"
+                "final": 559,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 27,99",
+                "final_formatted": "R$ 5,59"
             },
             "packages": [
                 115845
@@ -75,13 +75,13 @@
                     "subs": [
                         {
                             "packageid": 115845,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "911 Operator - R$ 27,99",
+                            "option_text": "911 Operator - <span class=\"discount_original_price\">R$ 27,99</span> R$ 5,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 559
                         }
                     ]
                 }
@@ -272,7 +272,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14420
+                "total": 14421
             },
             "achievements": {
                 "total": 18,

@@ -566,5 +566,40 @@
             },
             "type": "productHome"
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 0,
+            "originalPrice": 0,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "0",
+                "discountPrice": "0",
+                "intermediatePrice": "0"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Borderlands 2",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.74,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "f4a7772a4da24870a3ea6dfb8aeac662",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3069,
-                "final": 3069,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 30,69"
+                "final": 2148,
+                "discount_percent": 30,
+                "initial_formatted": "R$ 30,69",
+                "final_formatted": "R$ 21,48"
             },
             "packages": [
                 1217807
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 1217807,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -30%",
                             "percent_savings": 0,
-                            "option_text": "Return to Ash - R$ 30,69",
+                            "option_text": "Return to Ash - <span class=\"discount_original_price\">R$ 30,69</span> R$ 21,48",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3069
+                            "price_in_cents_with_discount": 2148
                         }
                     ]
                 }

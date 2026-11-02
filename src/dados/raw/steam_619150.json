@@ -23,28 +23,28 @@
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
                     "total_positive": 3263,
-                    "total_negative": 427,
-                    "total_reviews": 3690
+                    "total_negative": 428,
+                    "total_reviews": 3691
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236604432",
+                        "recommendationid": "237092133",
                         "author": {
-                            "steamid": "76561198061366092",
-                            "num_reviews": 6,
-                            "playtime_forever": 8,
+                            "steamid": "76561198005028937",
+                            "num_reviews": 23,
+                            "playtime_forever": 295,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 8,
-                            "last_played": 1790841539
+                            "playtime_at_review": 295,
+                            "last_played": 1791322574
                         },
                         "language": "english",
-                        "review": "It is  a fine enough game, though it carries too much of a stance on things it has no buissness having a stance on. The fact it also demands you solve issues exactly as intended in some cases is alarming for a game that tries to ship itself as \"Learning to code\"",
-                        "timestamp_created": 1790841767,
-                        "timestamp_updated": 1790841767,
+                        "review": "A game that attempts to build an intuitive understanding of machine learning through engagement with the concepts behind it is a neat idea, and I'd still like to see it done. This game isn't that. In fairness, it does state on its store page that this isn't a coding game, it's a puzzle game, but its focus on machine learning is almost entirely aesthetic, giving a very shallow understanding of it via text blurbs that are disconnected from the gameplay. Even setting that aside, as a game it can be simple and repetitive, and there are places where it feels markedly unpolished.\n\nI think the biggest thing holding this game back from effectively teaching about its subject matter is that every machine learning concept you're presented with is given to you as a black box that carries out a simple instruction, with no insight into how those algorithms actually function. The output of machine learning (in this case identifying differences in color and shape) is far less interesting than the way in which it is reached, but the game only concerns itself with the former. If you're already even a little familiar with programming, you're unlikely to learn anything new about machine learning, and I suspect even people who aren't might already know that machine learning is good at identifying specific qualities of an input, the only use you're really exposed to here. I can understand that in order to engage with this concepts on the level I wish they had, the game would need to be substantially different, but I feel if you're going to make a game that states part of its goal is to educate on a specific topic, it should dig a bit deeper.\n\nAs far as the gameplay that is present, it boils down to using different filters to direct the flow of different inputs to the correct outputs, making this much more of a logistics game than anything else. It's decent enough in this regard, but sometimes sees you solving the same or similar problems repeatedly. There's also some unnecessary overhead that doesn't really add anything to the experience -- you have to train some models, because that's a thing you do in machine learning, except the process is the same in every level you do it in, just 10 seconds of waiting you have to do before your pieces work. There are also pieces later in the game that have to connect back to themselves to represent using its own output in the training process, but those connections can't be made to anything except that piece, so again it's just more busywork.\n\nThe systems surrounding the core puzzles are where I think the cracks really start to show. There's side missions to make money by investing in startups, which seem to be missing an entire mechanic. The tutorial stated that it'd get into how to raise the user caps of your programs later, only for that follow-up conversation to never occur. The way your earnings are calculated are also entirely opaque, making optimizing your solutions here feel like more of a guessing game than anything. The money that you get from completing jobs can in turn be used to buy decorations (only visible on the level select) or upgrades, improving the speed or capacity of your creations, or even unlocking all new pieces to use in puzzles. To me that just feels antithetical to the point of a puzzle game? To be able to come into a level with upgrades that make the puzzle too easy, or to be able to enter a level without the upgrades that you're expected to have are both problems the game didn't need to create for itself.\n\nThe concept of this game had a lot of potential, but I just don't think it really delivers on it. I could go into more about how the Reinforcement Learning section also feels half-baked, or the writing feels unpolished, or the inconsistent art style, but I think you get the point by now. Even if you got the game in a bundle like I did, I think I'd have a hard time recommending it over other things you could be playing, though you could definitely do worse, too.",
+                        "timestamp_created": 1791332066,
+                        "timestamp_updated": 1791333646,
                         "voted_up": false,
-                        "votes_up": 15,
+                        "votes_up": 4,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6510963439941406,
+                        "weighted_vote_score": 0.563758373260498,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -53,9 +53,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFW+mOAAAABwwcmGBw==",
+                "cursor": "AoIFQFYuY8AAAAB10reIBw==",
                 "day_range_used": 30,
-                "total_matching": 14
+                "total_matching": 15
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/b6063612da2a6c01753b6a8d495ff4c9aeeb8b63/header_alt_assets_1.jpg?t=1790934846",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619150/dcfb5ea4a53612059ec79d2b4ab540b9180586aa/capsule_231x87_alt_assets_1.jpg?t=1790934846",
@@ -334,7 +334,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7400
+                "total": 7402
             },
             "achievements": {
                 "total": 31,

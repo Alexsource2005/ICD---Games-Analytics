@@ -421,6 +421,39 @@
             ]
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 24900,
+            "originalPrice": 24900,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 249,00",
+                "discountPrice": "R$ 249,00",
+                "intermediatePrice": "R$ 249,00"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Nioh: The Complete Edition",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.52,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "3622b6ddc5c849b1826085d5fe492eae",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

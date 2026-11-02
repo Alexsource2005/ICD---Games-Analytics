@@ -1210,5 +1210,40 @@
             "tag": "edition"
         }
     ],
-    "data_aquisicao_gratis": "23/05/2024 - 30/05/2024"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 14900,
+            "originalPrice": 14900,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 149,00",
+                "discountPrice": "R$ 149,00",
+                "intermediatePrice": "R$ 149,00"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Farming Simulator 22",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "23/05/2024 - 30/05/2024",
+    "rating_polls": {
+        "average_rating": 4.59,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "308cbcb523ad4937a8c509d10e9b688a",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

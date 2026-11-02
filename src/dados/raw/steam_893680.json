@@ -19,9 +19,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3271,
-                    "total_negative": 499,
-                    "total_reviews": 3770
+                    "total_positive": 3272,
+                    "total_negative": 500,
+                    "total_reviews": 3772
                 },
                 "reviews": [
                     {
@@ -39,9 +39,9 @@
                         "timestamp_created": 1791084277,
                         "timestamp_updated": 1791084277,
                         "voted_up": false,
-                        "votes_up": 7,
-                        "votes_funny": 1,
-                        "weighted_vote_score": 0.5855417251586914,
+                        "votes_up": 13,
+                        "votes_funny": 4,
+                        "weighted_vote_score": 0.6045247316360474,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -50,7 +50,7 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYSgaAAAAB7kb6HBw==",
+                "cursor": "AoIFQFX6NUAAAAB7kb6HBw==",
                 "day_range_used": 30,
                 "total_matching": 14
             },
@@ -87,10 +87,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2500,
-                "final": 325,
-                "discount_percent": 87,
-                "initial_formatted": "R$ 25,00",
-                "final_formatted": "R$ 3,25"
+                "final": 2500,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 25,00"
             },
             "packages": [
                 285342
@@ -107,13 +107,13 @@
                     "subs": [
                         {
                             "packageid": 285342,
-                            "percent_savings_text": " -87%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Project Warlock - <span class=\"discount_original_price\">R$ 25,00</span> R$ 3,25",
+                            "option_text": "Project Warlock - R$ 25,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 325
+                            "price_in_cents_with_discount": 2500
                         }
                     ]
                 }
@@ -212,7 +212,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4718
+                "total": 4723
             },
             "achievements": {
                 "total": 20,

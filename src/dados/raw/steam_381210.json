@@ -80,14 +80,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 6999,
-                "final": 2799,
-                "discount_percent": 60,
-                "initial_formatted": "R$ 69,99",
-                "final_formatted": "R$ 27,99"
+                "final": 6999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 69,99"
             },
             "packages": [
-                71374,
                 198307,
+                71374,
                 1100714
             ],
             "package_groups": [
@@ -101,16 +101,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 71374,
-                            "percent_savings_text": " -60%",
-                            "percent_savings": 0,
-                            "option_text": "Dead by Daylight - <span class=\"discount_original_price\">R$ 69,99</span> R$ 27,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
-                        },
-                        {
                             "packageid": 198307,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -119,6 +109,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5997
+                        },
+                        {
+                            "packageid": 71374,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Dead by Daylight - R$ 69,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 6999
                         },
                         {
                             "packageid": 1100714,
@@ -270,7 +270,7 @@
                 }
             ],
             "recommendations": {
-                "total": 691275
+                "total": 692454
             },
             "achievements": {
                 "total": 311,
@@ -432,40 +432,40 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 296422,
-                    "total_negative": 82271,
-                    "total_reviews": 378693
+                    "total_positive": 296686,
+                    "total_negative": 82838,
+                    "total_reviews": 379524
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236623028",
+                        "recommendationid": "238799931",
                         "author": {
-                            "steamid": "76561198926129723",
-                            "num_reviews": 6,
-                            "playtime_forever": 10505,
-                            "playtime_last_two_weeks": 3275,
-                            "playtime_at_review": 6578,
-                            "last_played": 1793113751
+                            "steamid": "76561199824412956",
+                            "num_reviews": 33,
+                            "playtime_forever": 427,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 427,
+                            "last_played": 1791371127
                         },
                         "language": "english",
-                        "review": " game is a hot pile of donkey poop and goop and will ruin your mental health its pretty fun though",
-                        "timestamp_created": 1790865208,
-                        "timestamp_updated": 1790865217,
+                        "review": "Best friend loved this game, played it with him a couple of times.\n\nRest easy, buddy. We'll continue in the next life <3\n",
+                        "timestamp_created": 1793255543,
+                        "timestamp_updated": 1793255543,
                         "voted_up": true,
-                        "votes_up": 226,
-                        "votes_funny": 90,
-                        "weighted_vote_score": 0.8564220666885376,
-                        "comment_count": 0,
-                        "steam_purchase": true,
+                        "votes_up": 110,
+                        "votes_funny": 5,
+                        "weighted_vote_score": 0.8223939538002014,
+                        "comment_count": 9,
+                        "steam_purchase": false,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFS3x6AAAAB0y9KGBw==",
+                "cursor": "AoIFQFTjVeAAAAB7w/mOBw==",
                 "day_range_used": 30,
-                "total_matching": 3083
+                "total_matching": 3743
             },
             "steamspy_tags": [
                 "Horror",

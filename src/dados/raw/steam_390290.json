@@ -19,47 +19,42 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 865,
-                    "total_negative": 157,
-                    "total_reviews": 1022
+                    "total_positive": 868,
+                    "total_negative": 156,
+                    "total_reviews": 1024
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237808687",
+                        "recommendationid": "239103635",
                         "author": {
-                            "steamid": "76561198813116702",
-                            "num_reviews": 48,
-                            "playtime_forever": 28,
-                            "playtime_last_two_weeks": 28,
-                            "playtime_at_review": 28,
-                            "last_played": 1792102085
+                            "steamid": "76561198020672164",
+                            "num_reviews": 49,
+                            "playtime_forever": 41,
+                            "playtime_last_two_weeks": 41,
+                            "playtime_at_review": 21,
+                            "last_played": 1793637350
                         },
                         "language": "english",
-                        "review": "I cant continue the game because of a rabbit bug in the second scene. I uninstalled and reinstalled the game verified the game files and restarted the scene but not worked.\n\nThe game looked  good.  I disappointed. Many other players have had similar problem. I hope this bug gets fixed one day so I can reinstall the game and finish it.",
-                        "timestamp_created": 1792102302,
-                        "timestamp_updated": 1792102302,
-                        "voted_up": false,
-                        "votes_up": 0,
+                        "review": "Scrapped the negative review. W dev updating the game 11 years after release.",
+                        "timestamp_created": 1793540021,
+                        "timestamp_updated": 1793636072,
+                        "voted_up": true,
+                        "votes_up": 1,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5,
-                        "comment_count": 0,
+                        "weighted_vote_score": 0.5364238619804382,
+                        "comment_count": 1,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
+                        "developer_response": "Hi Mr. Shlong,\n\nI'm really sorry for the inconvenience! The issue was caused by a bug in the latest update, which I've already rolled back. Please update your game through the Steam client to get the previous, working version.\n\nI'm also working on a new update that will include the fixes and improvements reported by the community.\n\nThanks again for taking the time to report the issue and help me improve the game. I really appreciate it!",
+                        "timestamp_dev_responded": 1793571927,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "AMD Ryzen 7 7800X3D 8-Core Processor           ",
-                            "adapter_description": "NVIDIA GeForce RTX 4070 Ti",
-                            "system_ram": "97367",
-                            "vram_size": 11994
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB/wpWLBw==",
+                "cursor": "AoIFQFZRYKAAAABz6Y2QBw==",
                 "day_range_used": 30,
-                "total_matching": 14
+                "total_matching": 16
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390290/header.jpg?t=1762291079",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390290/capsule_231x87.jpg?t=1762291079",
@@ -87,10 +82,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1799,
-                "final": 179,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 17,99",
-                "final_formatted": "R$ 1,79"
+                "final": 1799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 17,99"
             },
             "packages": [
                 74234
@@ -107,13 +102,13 @@
                     "subs": [
                         {
                             "packageid": 74234,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Bulb Boy - <span class=\"discount_original_price\">R$ 17,99</span> R$ 1,79",
+                            "option_text": "Bulb Boy - R$ 17,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 179
+                            "price_in_cents_with_discount": 1799
                         }
                     ]
                 }
@@ -234,7 +229,7 @@
                 }
             ],
             "recommendations": {
-                "total": 597
+                "total": 598
             },
             "achievements": {
                 "total": 12,

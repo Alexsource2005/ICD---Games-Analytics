@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 2309,
-                "discount_percent": 30,
-                "initial_formatted": "R$ 32,99",
-                "final_formatted": "R$ 23,09"
+                "final": 3299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 32,99"
             },
             "packages": [
                 166313
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 166313,
-                            "percent_savings_text": " -30%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Darkwater - <span class=\"discount_original_price\">R$ 32,99</span> R$ 23,09",
+                            "option_text": "Darkwater - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2309
+                            "price_in_cents_with_discount": 3299
                         }
                     ]
                 }
@@ -260,7 +260,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1003
+                "total": 1004
             },
             "achievements": {
                 "total": 14,
@@ -394,8 +394,8 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 604,
-                    "total_negative": 136,
+                    "total_positive": 605,
+                    "total_negative": 135,
                     "total_reviews": 740
                 },
                 "reviews": [
@@ -414,9 +414,9 @@
                         "timestamp_created": 1792446112,
                         "timestamp_updated": 1792446112,
                         "voted_up": true,
-                        "votes_up": 6,
+                        "votes_up": 7,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.6091840267181396,
+                        "weighted_vote_score": 0.6238832473754883,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -425,7 +425,7 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFX0PqAAAAB7oa6MBw==",
+                "cursor": "AoIFQFXhbgAAAAB7oa6MBw==",
                 "day_range_used": 30,
                 "total_matching": 13
             },

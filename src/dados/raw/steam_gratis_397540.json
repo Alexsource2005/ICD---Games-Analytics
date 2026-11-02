@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 11990,
-                "final": 11990,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 119,90"
+                "final": 1199,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 119,90",
+                "final_formatted": "R$ 11,99"
             },
             "packages": [
                 76737,
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 76737,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Borderlands 3 - R$ 119,90",
+                            "option_text": "Borderlands 3 - <span class=\"discount_original_price\">R$ 119,90</span> R$ 11,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 11990
+                            "price_in_cents_with_discount": 1199
                         },
                         {
                             "packageid": 427289,
@@ -224,7 +224,7 @@
                 }
             ],
             "recommendations": {
-                "total": 128166
+                "total": 128189
             },
             "achievements": {
                 "total": 81,
@@ -387,11 +387,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 62268,
-                    "total_negative": 14937,
-                    "total_reviews": 77205
+                    "total_positive": 62284,
+                    "total_negative": 14939,
+                    "total_reviews": 77223
                 },
-                "total_matching": 211,
+                "total_matching": 213,
                 "day_range_used": 30
             },
             "steamspy_tags": [

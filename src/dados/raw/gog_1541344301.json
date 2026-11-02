@@ -1,0 +1,125 @@
+{
+    "id": 1541344301,
+    "title": "Know by heart",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/know_by_heart",
+    "slug": "know_by_heart",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/know_by_heart",
+        "product_card": "https://www.gog.com/game/know_by_heart",
+        "support": "https://www.gog.com/support/know_by_heart",
+        "forum": "https://www.gog.com/forum/know_by_heart"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2022-03-08T14:55:00+0100",
+    "images": {
+        "background": "//images-4.gog-statics.com/e2577032dd2dacef5f244495537a119d7933e5de461448159f716e310668682d.jpg",
+        "logo": "//images-3.gog-statics.com/20cf3c036a8375d97f561363577e8d6d04562f1f62bf92ee3a11c2abd5707e26_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/20cf3c036a8375d97f561363577e8d6d04562f1f62bf92ee3a11c2abd5707e26_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/f45cd4c2a5424e9cad971bc0a306e2ba7dd1512cf0454bdc76605eaf624ebd2f_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/f45cd4c2a5424e9cad971bc0a306e2ba7dd1512cf0454bdc76605eaf624ebd2f_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/f45cd4c2a5424e9cad971bc0a306e2ba7dd1512cf0454bdc76605eaf624ebd2f_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/f45cd4c2a5424e9cad971bc0a306e2ba7dd1512cf0454bdc76605eaf624ebd2f_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/f45cd4c2a5424e9cad971bc0a306e2ba7dd1512cf0454bdc76605eaf624ebd2f.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1984160164,
+                "link": "https://api.gog.com/products/1984160164",
+                "expanded_link": "https://api.gog.com/products/1984160164"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1984160164",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1984160164"
+    },
+    "price": {
+        "final": "R$ 37,99",
+        "base": "R$ 37,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "37.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "37.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Narrative",
+            "slug": "narrative"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person"
+        },
+        {
+            "name": "Visual Novel",
+            "slug": "visual-novel"
+        },
+        {
+            "name": "Multiple Endings",
+            "slug": "multiple-endings"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Narrative",
+            "slug": "narrative"
+        },
+        {
+            "name": "Realistic",
+            "slug": "realistic"
+        },
+        {
+            "name": "Emotional",
+            "slug": "emotional"
+        },
+        {
+            "name": "Romance",
+            "slug": "romance"
+        }
+    ]
+}

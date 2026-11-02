@@ -3035,6 +3035,39 @@
             "tag": "edition"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 18999,
+            "originalPrice": 18999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 189,99",
+                "discountPrice": "R$ 189,99",
+                "intermediatePrice": "R$ 189,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "HITMAN World of Assassination",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.73,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ed55aa5edc5941de92fd7f64de415793",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

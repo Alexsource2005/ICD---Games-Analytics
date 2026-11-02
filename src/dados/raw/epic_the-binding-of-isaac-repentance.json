@@ -564,5 +564,40 @@
             },
             "type": "productHome"
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 9499,
+            "originalPrice": 9499,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 94,99",
+                "discountPrice": "R$ 94,99",
+                "intermediatePrice": "R$ 94,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Binding of Isaac: Repentance",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.87,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "dbf5337d024e457bac68f2059112da86",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

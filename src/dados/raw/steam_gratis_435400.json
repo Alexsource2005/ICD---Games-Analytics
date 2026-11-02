@@ -24,7 +24,7 @@
                     "total_negative": 180,
                     "total_reviews": 4376
                 },
-                "total_matching": 8,
+                "total_matching": 7,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/header.jpg?t=1772365053",
@@ -52,10 +52,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3999,
-                "final": 3999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 39,99"
+                "final": 1599,
+                "discount_percent": 60,
+                "initial_formatted": "R$ 39,99",
+                "final_formatted": "R$ 15,99"
             },
             "packages": [
                 90963
@@ -72,13 +72,13 @@
                     "subs": [
                         {
                             "packageid": 90963,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -60%",
                             "percent_savings": 0,
-                            "option_text": "Hidden Folks - R$ 39,99",
+                            "option_text": "Hidden Folks - <span class=\"discount_original_price\">R$ 39,99</span> R$ 15,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1599
                         }
                     ]
                 }
@@ -204,7 +204,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7625
+                "total": 7626
             },
             "achievements": {
                 "total": 8,

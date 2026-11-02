@@ -1,0 +1,1253 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "red",
+            "accent": "#e9366d"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "red",
+            "accent": "#e9366d"
+        }
+    },
+    "namespace": "corydalis",
+    "_title": "slime-rancher",
+    "regionBlock": "KR",
+    "productName": "Slime Rancher",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/slime-rancher",
+    "_slug": "slime-rancher",
+    "_activeDate": "2019-02-18T14:41:35.575Z",
+    "lastModified": "2019-07-19T22:13:01.910Z",
+    "_locale": "pt-BR",
+    "_id": "6de7b576-cd87-4071-8d1c-e3a439652a8e",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "red",
+                    "accent": "#e9366d"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "red",
+                    "accent": "#e9366d"
+                }
+            },
+            "namespace": "corydalis",
+            "_title": "home",
+            "regionBlock": "KR",
+            "productName": "Slime Rancher",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/slime-rancher/home",
+            "_slug": "home",
+            "_activeDate": "2019-02-18T14:42:13.515Z",
+            "lastModified": "2023-02-16T16:55:32.611Z",
+            "_locale": "pt-BR",
+            "_id": "0a54d0a9-f779-4eb0-9674-2ca89a1d6eba",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "corydalis",
+                "id": "cd44981c3cea431a9a203ff94b132994",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "1e38b618d106430db94b474abbfecc16",
+                "appName": "Corydalis",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "corydalis"
+            },
+            "data": {
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, alemão, espanhol, russo, sueco, chinês simplificado, japonês, português (Brasil) e coreano"
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fslime-rancher%2Fhome%2FESRB_SlimeRancher-842x404-07654e9629804957b06b4690f9ef13b6c00687a7.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 10 anos"
+                        }
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 ou superior",
+                                    "recommended": "Windows 7 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 2,2 GHz",
+                                    "recommended": "Dual Core de 2,2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "512 MB de VRAM",
+                                    "recommended": "512 MB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível",
+                                    "recommended": "1 GB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "OS X 10.11 ou superior",
+                                    "recommended": "OS X 10.11 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 2,2 GHz",
+                                    "recommended": "Dual Core de 2,2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com OpenGL 3.2, 512 MB de VRAM",
+                                    "recommended": "Compatível com OpenGL 3.2, 512 MB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível",
+                                    "recommended": "1 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "",
+                    "linkTwitter": "https://twitter.com/MonomiPark",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Monomi Park ",
+                    "linkHomepage": "http://slimerancher.com/"
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Slime Rancher is developed by Monomi Park. Copyright © 2014-2019 Monomi Park, LLC",
+                    "privacyPolicyLink": {
+                        "src": "http://www.monomipark.com/privacy/newsletter.html",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Monomi Park"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher-Bea_About-Image-1000x840-61df52a256380cf106b11c9e5592f8561797763a.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Monomi Park",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Monomi Park",
+                    "description": "Slime Rancher é uma experiência sandbox encantadora em primeira pessoa. Jogue como Beatrix LeBeau, uma jovem rancheira valente que partiu em uma aventura para viver a mil anos-luz da Terra na Far, Far Range (Borda Mais que Distante).\n\nVocê encontrará novos desafios e oportunidades arriscadas todos os dias enquanto tenta acumular uma enorme fortuna no ramo de criação de slimes. Obtenha slimes coloridos, cultive, colha recursos e explore o mundo selvagem enquanto aprende a usar sua vacpack (lançadora a vácuo).\n",
+                    "title": "Boas-vindas a Far, Far Range (Borda Mais que Distante)",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_devlogo_hr_alpha-blk-3169x4000-eca0508e7f085b8b124567e0c57064d4f26adf28.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_logo_source-4000x1527-07c147930ce161913d34c54730922c1a68196256.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher-Keyart_Portrait-Promo-1280x1420-1b4c0742eddeee358c01018cc57729a1bab20b97.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher-Keyart_Primary-Promo-2580x1450-4032520516e33a41490175e8f66b673218c6ffef.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"0e475476a01a4170987601544902c960\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"836e01481ea24913af788b4ddbb7877c\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"2e49cedfb45e4e2f8325afb2850caa09\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Slime Rancher – Mais de 3 milhões de cópias vendidas!",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlime-Rancher_Post-2580x1450-109aef6c1010c090935b553bae551e6722bb169c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "corydalis",
+                            "description": "Slime Rancher é uma experiência sandbox encantadora em primeira pessoa. Jogue como Beatrix LeBeau, uma jovem rancheira valente que partiu em uma aventura para viver a mil anos-luz da Terra na Far, Far Range (Borda Mais que Distante). Você encontrará novos desafios e oportunidades arriscadas todos os dias enquanto tenta acumular uma enorme fortuna no ramo de criação de slimes. Obtenha slimes coloridos, cultive, colha recursos e explore o mundo selvagem enquanto aprende a usar sua vacpack (lançadora a vácuo).",
+                            "offerId": "cd44981c3cea431a9a203ff94b132994",
+                            "title": "Slime Rancher",
+                            "slug": "/product/slime-rancher/home"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-g1a-00-1920x1080-13303c59b215.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "corydalis",
+                            "description": "Slime Rancher conta a história de Beatrix LeBeau, uma jovem rancheira valente que partiu em uma aventura para viver a mil anos-luz da Terra na Far, Far Range (Borda Mais que Distante). Este pacote inclui Slime Rancher e a trilha sonora oficial de Slime Rancher!",
+                            "offerId": "b9b70e32661c486b84e556a216e22493",
+                            "title": "Slime Rancher: pacote de jogo e trilha sonora",
+                            "slug": "/product/slime-rancher/game-and-soundtrack-bundle"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-08-01T12:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Monomi Park"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Monomi Park"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "EXPLORATION",
+                        "OPEN_WORLD",
+                        "FIRST_PERSON"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "dlc": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "buttonText": "",
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_5-1920x1080-c2e82516bdceee2fba9d75aec0580cf21a184de2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product DLC",
+                            "namespace": "corydalis",
+                            "description": "Descubra os estilos secretos dos seus slimes favoritos!\n\n\"Estilos secretos\" é um novo tipo de tecnologia 7Zee que permite que você altere a aparência dos seus slimes! Encontre cápsulas especiais de tesouro em Far, Far Range (Borda Mais que Distante) e descubra o estilo exclusivo de cada slime.",
+                            "offerId": "6367693254b44690bd357d1ca0d8f61c",
+                            "tag": "dlc",
+                            "type": "addon",
+                            "title": "Pacote Secret Style de Slime Rancher",
+                            "slug": "product/slime-rancher/secret-style-pack"
+                        }
+                    ],
+                    "enableImages": true
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "DLC",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery1-1920x1080-94568f0e3b324da08441065ded6d6145dfe8fe11.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery2-1920x1080-2489587988f93e7e74f676a71da5171c833e23a6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery3-1920x1080-d169406eda1f6b39ce156708629ac2240415f4fc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery5-1920x1080-e2e35393201276abfa2cf8ed29a9905c95e7a4c1.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery6-1920x1080-9346fdd8bc4aa5177294fbd09a56c583de9b6c5c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery4-1920x1080-4f7996066721207b79a95e58d9f641c020b70ff3.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery7-1920x1080-15b89b6b4e1a44c4bb4012664f972d29f764ab9b.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery8-1920x1080-5c48bcd34c1dd856158fd179345822f42f7ca5f5.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery9-1920x1080-b8960342480d449ba4fce952be8306c141c67dbf.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        }
+                    ]
+                },
+                "navTitle": "Slime Rancher"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#FF8A8A",
+                "customPrimaryBg": "#FFEBF8",
+                "accentColor": "#e9366d",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlime-Rancher_Post-2580x1450-109aef6c1010c090935b553bae551e6722bb169c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_logo_source-4000x1527-07c147930ce161913d34c54730922c1a68196256.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery1-1920x1080-94568f0e3b324da08441065ded6d6145dfe8fe11.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_5-1920x1080-c2e82516bdceee2fba9d75aec0580cf21a184de2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery7-1920x1080-15b89b6b4e1a44c4bb4012664f972d29f764ab9b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery9-1920x1080-b8960342480d449ba4fce952be8306c141c67dbf.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery3-1920x1080-d169406eda1f6b39ce156708629ac2240415f4fc.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fslime-rancher%2Fhome%2FESRB_SlimeRancher-842x404-07654e9629804957b06b4690f9ef13b6c00687a7.jpg",
+                "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-g1a-00-1920x1080-13303c59b215.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery6-1920x1080-9346fdd8bc4aa5177294fbd09a56c583de9b6c5c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery4-1920x1080-4f7996066721207b79a95e58d9f641c020b70ff3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_devlogo_hr_alpha-blk-3169x4000-eca0508e7f085b8b124567e0c57064d4f26adf28.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery8-1920x1080-5c48bcd34c1dd856158fd179345822f42f7ca5f5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher-Keyart_Primary-Promo-2580x1450-4032520516e33a41490175e8f66b673218c6ffef.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher-Keyart_Portrait-Promo-1280x1420-1b4c0742eddeee358c01018cc57729a1bab20b97.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery5-1920x1080-e2e35393201276abfa2cf8ed29a9905c95e7a4c1.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher-Bea_About-Image-1000x840-61df52a256380cf106b11c9e5592f8561797763a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSlimeRancher_Gallery2-1920x1080-2489587988f93e7e74f676a71da5171c833e23a6.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "red",
+                    "accent": "#e9366d"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "red",
+                    "accent": "#e9366d"
+                }
+            },
+            "namespace": "corydalis",
+            "_title": "game-and-soundtrack-bundle",
+            "regionBlock": "KR",
+            "productName": "Slime Rancher",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/slime-rancher/game-and-soundtrack-bundle",
+            "_slug": "game-and-soundtrack-bundle",
+            "_activeDate": "2019-02-18T14:42:13.515Z",
+            "lastModified": "2023-02-16T14:59:43.635Z",
+            "_locale": "pt-BR",
+            "_id": "53b7f350-afa7-4b3f-b40e-1de25eb8db6c",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "corydalis",
+                "id": "b9b70e32661c486b84e556a216e22493",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "",
+                "appName": "",
+                "_type": "Diesel Product Item",
+                "namespace": "",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "",
+                    "linkTwitter": "https://twitter.com/MonomiPark",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Monomi Park ",
+                    "linkHomepage": "http://slimerancher.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, alemão, espanhol, russo, sueco, chinês simplificado, japonês, português (Brasil) e coreano"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 ou superior",
+                                    "recommended": "Windows 7 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 2,2 GHz",
+                                    "recommended": "Dual Core de 2,2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "512 MB de VRAM",
+                                    "recommended": "512 MB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível",
+                                    "recommended": "1 GB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "OS X 10.11 ou superior",
+                                    "recommended": "OS X 10.11 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 2,2 GHz",
+                                    "recommended": "Dual Core de 2,2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Compatível com OpenGL 3.2, 512 MB de VRAM",
+                                    "recommended": "Compatível com OpenGL 3.2, 512 MB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível",
+                                    "recommended": "1 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fslime-rancher%2Fhome%2FESRB_SlimeRancher-842x404-07654e9629804957b06b4690f9ef13b6c00687a7.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 10 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Slime Rancher is developed by Monomi Park. Copyright © 2014-2019 Monomi Park, LLC",
+                    "privacyPolicyLink": {
+                        "src": "http://www.monomipark.com/privacy/newsletter.html",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Monomi Park"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-s2-1200x1600-36791e8f9628.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Monomi Park",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Monomi Park",
+                    "description": "Slime Rancher conta a história de Beatrix LeBeau, uma jovem rancheira valente que partiu em uma aventura para viver a mil anos-luz da Terra na Far, Far Range (Borda Mais que Distante). Este pacote inclui Slime Rancher e a trilha sonora oficial de Slime Rancher!",
+                    "title": "Slime Rancher: pacote de jogo e trilha sonora",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_devlogo_hr_alpha-blk-3169x4000-eca0508e7f085b8b124567e0c57064d4f26adf28.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_logo_source-4000x1527-07c147930ce161913d34c54730922c1a68196256.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-s2-1200x1600-36791e8f9628.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-s1-2560x1440-5867deb3a936.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-g1a-00-1920x1080-13303c59b215.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-08-01T12:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Monomi Park"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Monomi Park"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "EXPLORATION",
+                        "OPEN_WORLD",
+                        "FIRST_PERSON"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "DLC",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Slime Rancher: pacote de jogo e trilha sonora"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#FF8A8A",
+                "customPrimaryBg": "#FFEBF8",
+                "accentColor": "#e9366d",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "type": "offer",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_devlogo_hr_alpha-blk-3169x4000-eca0508e7f085b8b124567e0c57064d4f26adf28.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_logo_source-4000x1527-07c147930ce161913d34c54730922c1a68196256.png",
+                "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-s1-2560x1440-5867deb3a936.jpg",
+                "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-s2-1200x1600-36791e8f9628.jpg",
+                "https://cdn2.unrealengine.com/egs-slimeranchergamesoundtrackbundle-monomipark-editions-g1a-00-1920x1080-13303c59b215.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fslime-rancher%2Fhome%2FESRB_SlimeRancher-842x404-07654e9629804957b06b4690f9ef13b6c00687a7.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "red",
+                    "accent": "#e9366d"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "red",
+                    "accent": "#e9366d"
+                }
+            },
+            "namespace": "corydalis",
+            "_title": "secret-style-pack",
+            "regionBlock": "KR",
+            "productName": "Slime Rancher",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/slime-rancher/secret-style-pack",
+            "_slug": "secret-style-pack",
+            "_activeDate": "2019-05-29T12:52:44.062Z",
+            "lastModified": "2019-12-16T21:16:23.172Z",
+            "_locale": "pt-BR",
+            "_id": "a22ef16b-179f-4333-9e95-196f027487f3",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "corydalis",
+                "id": "6367693254b44690bd357d1ca0d8f61c",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "5aee7f8ef9234753948f55cc30c7b7a3",
+                "appName": "Corydalis",
+                "_type": "Diesel Product Item",
+                "namespace": "corydalis",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, alemão, espanhol, russo, sueco, chinês simplificado, japonês, português (Brasil), coreano"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7+",
+                                    "recommended": "Windows 7+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core 2,2 GHz",
+                                    "recommended": "Dual Core 2,2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo:",
+                                    "minimum": "512 MB de VRAM",
+                                    "recommended": "512 MB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível",
+                                    "recommended": "1 GB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "OSX 10.11+",
+                                    "recommended": "OSX 10.11+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core 2.2 GHz",
+                                    "recommended": "Dual Core 2.2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo:",
+                                    "minimum": "Compatível com OpenGL 3.2, 512 MB de VRAM",
+                                    "recommended": "Compatível com OpenGL 3.2, 512 MB de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1 GB de espaço disponível",
+                                    "recommended": "1 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fslime-rancher%2Fhome%2FESRB_SlimeRancher-842x404-07654e9629804957b06b4690f9ef13b6c00687a7.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "EVERYONE 10+"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Slime Rancher é desenvolvido por Monomi Park. Copyright © 2014-2019 Monomi Park, LLC",
+                    "privacyPolicyLink": {
+                        "src": "http://www.monomipark.com/privacy/newsletter.html",
+                        "_type": "Diesel Link",
+                        "title": "Monomi Park Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Bea_About-Image-1000x840-b7b18d0294a582968c1ee5c49b652ff023eda23b.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Monomi Park",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Monomi Park",
+                    "description": "Descubra os perfis ocultos de todos os seus slimes favoritos!\n\n“Perfil oculto” é um novo tipo de tecnologia 7Zee que permite mudar a aparência dos seus slimes de maneira nova e original! Busque por cápsulas de tesouro especial espalhadas por toda a Borda Mais que Distante e descubra o perfil oculto exclusivo de cada slime.\n\nQuando encontrar um dos perfis escondidos em locais secretos pelo mundo, você poderá mudar o perfil de todos os slimes desta categoria sempre que quiser!\n",
+                    "title": "Slime Rancher: Pacote de Perfil Oculto",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_devlogo_hr_alpha-blk-3169x4000-eca0508e7f085b8b124567e0c57064d4f26adf28.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Portrait-Logo-457x191-c7312d4cf3829ba1a049311b4579add291e374ea.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Keyart_Portrait-Promo-840x1000-bbdcad9aa62939a8a942f195c937d15952b83abe.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "sources": [
+                            {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSlimeRancher_SecretStyle_NORATING-EN_EPIC_1080p2997_ST-de6ad53f6863e55361f370adcee4508365bb3e02.webm",
+                                "_type": "Diesel Html Video Source",
+                                "type": "Video/Webm"
+                            },
+                            {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSlimeRancher_SecretStyle_ESRB-EN_EPIC_1080p2997_ST-51a0f973c632c54fc81d6831df6199db6c5b883e.mp4",
+                                "_type": "Diesel Html Video Source",
+                                "type": "Video/MP4"
+                            }
+                        ],
+                        "loop": true,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": true,
+                        "autoplay": true
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Keyart_Game-Page-Promo-2580x1451-d6585792a66aef1909fc90b35b19924b1004c332.png"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-08-01T12:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Monomi Park"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Monomi Park"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "FIRST_PERSON",
+                        "EXPLORATION",
+                        "OPEN_WORLD"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_2-1920x1080-17b576c359efb0451ae333ed9c0de613c4cc8cdb.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_3-1920x1080-d1e9d62379339ef24268df711ed6103149d7fbc3.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_1-1920x1080-5cbaf7a8df36a4e099855cae5bf1100799b6985c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_5-1920x1080-c2e82516bdceee2fba9d75aec0580cf21a184de2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_7-1920x1080-3615a43d26442b754f912ead7d7214b5b8ba0f52.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_4-1920x1080-3ebde6faf045f9709dfcebe1786780f2c97895a4.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_8-1920x1080-6914d4d788554356df1be298f0776b64d00b7f03.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_6-1920x1080-2f7eda149106dec3825551f894070ac3515a2195.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "Pacote de Perfil Oculto"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#FF8A8A",
+                "customPrimaryBg": "#FFEBF8",
+                "accentColor": "#e9366d",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "tag": "dlc",
+            "type": "addon",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_2-1920x1080-17b576c359efb0451ae333ed9c0de613c4cc8cdb.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Keyart_Portrait-Promo-840x1000-bbdcad9aa62939a8a942f195c937d15952b83abe.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_5-1920x1080-c2e82516bdceee2fba9d75aec0580cf21a184de2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_7-1920x1080-3615a43d26442b754f912ead7d7214b5b8ba0f52.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_4-1920x1080-3ebde6faf045f9709dfcebe1786780f2c97895a4.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_8-1920x1080-6914d4d788554356df1be298f0776b64d00b7f03.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_1-1920x1080-5cbaf7a8df36a4e099855cae5bf1100799b6985c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Keyart_Game-Page-Promo-2580x1451-d6585792a66aef1909fc90b35b19924b1004c332.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fslime-rancher%2Fhome%2FESRB_SlimeRancher-842x404-07654e9629804957b06b4690f9ef13b6c00687a7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_3-1920x1080-d1e9d62379339ef24268df711ed6103149d7fbc3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Portrait-Logo-457x191-c7312d4cf3829ba1a049311b4579add291e374ea.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcorydalis%2FSR_devlogo_hr_alpha-blk-3169x4000-eca0508e7f085b8b124567e0c57064d4f26adf28.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSecretStyle-Bea_About-Image-1000x840-b7b18d0294a582968c1ee5c49b652ff023eda23b.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSlimeRancher_SecretStyle_ESRB-EN_EPIC_1080p2997_ST-51a0f973c632c54fc81d6831df6199db6c5b883e.mp4",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2FSlimeRancher_SecretStyle_NORATING-EN_EPIC_1080p2997_ST-de6ad53f6863e55361f370adcee4508365bb3e02.webm",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fslime-rancher%2Fsecret-style-pack%2Fscreenshot_6-1920x1080-2f7eda149106dec3825551f894070ac3515a2195.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3699,
+            "originalPrice": 3699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 36,99",
+                "discountPrice": "R$ 36,99",
+                "intermediatePrice": "R$ 36,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Slime Rancher",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.82,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "corydalis",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

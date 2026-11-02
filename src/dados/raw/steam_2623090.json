@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1049,
-                "final": 251,
-                "discount_percent": 76,
-                "initial_formatted": "R$ 10,49",
-                "final_formatted": "R$ 2,51"
+                "final": 1049,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 10,49"
             },
             "packages": [
                 940901
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 940901,
-                            "percent_savings_text": " -76%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Battle Simulator: Counter Stickman - <span class=\"discount_original_price\">R$ 10,49</span> R$ 2,51",
+                            "option_text": "Battle Simulator: Counter Stickman - R$ 10,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 251
+                            "price_in_cents_with_discount": 1049
                         }
                     ]
                 }
@@ -211,15 +211,15 @@
                     "review_score": 5,
                     "review_score_desc": "Mixed",
                     "total_positive": 95,
-                    "total_negative": 103,
-                    "total_reviews": 198
+                    "total_negative": 104,
+                    "total_reviews": 199
                 },
                 "reviews": [
                     {
                         "recommendationid": "238739759",
                         "author": {
                             "steamid": "76561198890082417",
-                            "num_reviews": 700,
+                            "num_reviews": 709,
                             "playtime_forever": 275,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 275,

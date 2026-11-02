@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 989,
+                "discount_percent": 70,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 9,89"
             },
             "packages": [
                 157204
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 157204,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -70%",
                             "percent_savings": 0,
-                            "option_text": "Carcassonne: The Official Board Game - R$ 32,99",
+                            "option_text": "Carcassonne: The Official Board Game - <span class=\"discount_original_price\">R$ 32,99</span> R$ 9,89",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 989
                         }
                     ]
                 }
@@ -182,7 +182,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1997
+                "total": 1999
             },
             "release_date": {
                 "coming_soon": false,
@@ -230,10 +230,10 @@
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
                     "total_positive": 1355,
-                    "total_negative": 306,
-                    "total_reviews": 1661
+                    "total_negative": 307,
+                    "total_reviews": 1662
                 },
-                "total_matching": 5,
+                "total_matching": 4,
                 "day_range_used": 30
             },
             "steamspy_tags": [

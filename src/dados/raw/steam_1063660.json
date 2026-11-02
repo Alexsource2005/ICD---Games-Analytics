@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 8043,
-                    "total_negative": 834,
-                    "total_reviews": 8877
+                    "total_positive": 8059,
+                    "total_negative": 839,
+                    "total_reviews": 8898
                 },
                 "reviews": [
                     {
@@ -40,9 +40,9 @@
                         "timestamp_created": 1791427361,
                         "timestamp_updated": 1791427361,
                         "voted_up": true,
-                        "votes_up": 3,
+                        "votes_up": 4,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5601851940155029,
+                        "weighted_vote_score": 0.5787140130996704,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -51,9 +51,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYy9qAAAAB34OCIBw==",
+                "cursor": "AoIFQFYbPwAAAAB34OCIBw==",
                 "day_range_used": 30,
-                "total_matching": 105
+                "total_matching": 117
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/header.jpg?t=1792430415",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/capsule_231x87.jpg?t=1792430415",
@@ -81,10 +81,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 599,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 5,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 355795
@@ -101,13 +101,13 @@
                     "subs": [
                         {
                             "packageid": 355795,
-                            "percent_savings_text": " -90%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Bendy and the Dark Revival - <span class=\"discount_original_price\">R$ 59,99</span> R$ 5,99",
+                            "option_text": "Bendy and the Dark Revival - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -267,7 +267,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14749
+                "total": 14813
             },
             "achievements": {
                 "total": 38,

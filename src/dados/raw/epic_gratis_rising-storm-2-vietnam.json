@@ -1173,5 +1173,40 @@
             "type": "addon"
         }
     ],
-    "data_aquisicao_gratis": null
+    "price": {
+        "totalPrice": {
+            "discountPrice": 4599,
+            "originalPrice": 4599,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 45,99",
+                "discountPrice": "R$ 45,99",
+                "intermediatePrice": "R$ 45,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Rising Storm 2: Vietnam",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.49,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "3542a1df211e492bb2abecb7c734f7f9",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

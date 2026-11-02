@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1089,
-                "final": 1089,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 10,89"
+                "final": 217,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 10,89",
+                "final_formatted": "R$ 2,17"
             },
             "packages": [
                 578340
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 578340,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "Rustler - Vinci - R$ 10,89",
+                            "option_text": "Rustler - Vinci - <span class=\"discount_original_price\">R$ 10,89</span> R$ 2,17",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1089
+                            "price_in_cents_with_discount": 217
                         }
                     ]
                 }

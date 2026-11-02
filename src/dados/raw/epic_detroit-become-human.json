@@ -995,5 +995,40 @@
             },
             "tag": "demo"
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 9899,
+            "originalPrice": 9899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 98,99",
+                "discountPrice": "R$ 98,99",
+                "intermediatePrice": "R$ 98,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Detroit: Become Human",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.84,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "columbine",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

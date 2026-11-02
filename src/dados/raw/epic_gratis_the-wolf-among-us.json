@@ -1,0 +1,453 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#530f07"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#530f07"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+    "_title": "the-wolf-among-us",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "The Wolf Among Us",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/the-wolf-among-us",
+    "_slug": "the-wolf-among-us",
+    "_activeDate": "2019-12-03T21:20:23.368Z",
+    "lastModified": "2019-12-05T19:22:20.326Z",
+    "_locale": "pt-BR",
+    "_id": "75cd3974-56ce-4870-9a23-c7572aebe82a",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#530f07"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#530f07"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#ec8b07",
+                "customPrimaryBg": "#4f046d",
+                "accentColor": "#530f07",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "The Wolf Among Us",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/the-wolf-among-us/home",
+            "_slug": "home",
+            "_activeDate": "2019-12-03T21:23:31.094Z",
+            "lastModified": "2019-12-05T19:52:13.646Z",
+            "_locale": "pt-BR",
+            "_id": "1f48d5e1-b71c-4e92-acbb-cd909aa0bbd8",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+                "id": "ea40bbb5451649e38472912b11f338b8",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "969764a75d9e44b4bca9dab30e570f8e",
+                "appName": "Cobbler",
+                "_type": "Diesel Product Item",
+                "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/telltalegames",
+                    "linkYoutube": "https://www.youtube.com/user/TelltaleGames",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga o Wolf Among Us ",
+                    "linkHomepage": "https://www.telltale.com/the-wolf-among-us/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 64 bits Service Pack 1",
+                                    "recommended": "Windows 10 64 bits Service Pack 1"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Core 2 Duo 2,3 GHz ou equivalente",
+                                    "recommended": "Core 2 Duo 2,3 GHz ou equivalente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB",
+                                    "recommended": "4 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa ATI ou NVidia com 1024 MB de RAM",
+                                    "recommended": "Placa ATI ou NVidia com 1024 MB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "9.0",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB",
+                                    "recommended": "2 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "minimum": "Não recomendado para placa gráfica integrada Intel",
+                                    "recommended": "Não recomendado para placa gráfica integrada Intel"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações adicionais",
+                                    "minimum": "Não recomendado para placa gráfica integrada Intel",
+                                    "recommended": "Não recomendado para placa gráfica integrada Intel"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-wolf-among-us%2Fhome%2F18_S_V_L_D-540x117-e30be92020f882174220e7dbaaa30b455e81e553.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "청소년이용불가"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-400x400-7ac38d8b4b29de7c5f10a52ebf17f124e361279e.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Alemanha: 18 anos "
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/pegi-18-rating-65x80-6990e36d0cc7.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 18 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FESRB_WolfAmongUs-842x404-2b3ff2305693d507f7e53b949a7b58f35fb5e9ce.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 17 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Código do software © 2016-2019 LCG Entertainment, Inc. BATMAN e todos os personagens relacionados, suas semelhanças e elementos relacionados são propriedade da DC Comics. ™ & © 2016-2017. Telltale, Telltale Games, Crowd Play, o logotipo Crowd Play são marcas comerciais e/ou marcas registradas da LCG Entertainment, Inc. Todos os direitos reservados.",
+                    "privacyPolicyLink": {
+                        "src": "https://www.telltale.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Telltale"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S3-1360x765-830bfbacec4ef9b1030bc182b4f2fdce7477f5ef.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Telltale",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Telltale",
+                    "description": "Da aclamada Telltale Games, surge um suspense corajoso, violento e maduro baseado na premiada série de quadrinhos Fables (DC Comics/Vertigo).\n\nComo Bigby Wolf – O grande lobo mau – você descobrirá que um assassinato brutal e sangrento é apenas uma amostra do que virá em uma série de jogos em que todas as suas decisões podem trazer enormes consequências. \n\nUma evolução da revolucionária mecânica de jogo com escolhas e consequências da Telltale fará com que o jogador aprenda que, mesmo como Bigby Wolf, xerife de Fabletown, a vida na grande cidade ruim é sangrenta, aterrorizante e perigosa.\n\n![Imagem The Wolf Among Us](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G2_03-1852x1080-579ee1a350bdf26a6e9a730e8c7eb9df38f22331.jpg)\n\nEm uma temporada de conteúdo dividida em 5 episódios: Episódio 1: Faith Episódio 2: Smoke and Mirrors Episódio 3: A Crooked Mile Episódio 4: In Sheep's Clothing Episódio 5: Cry Wolf\n\n# Características:\n\n– Baseado na série de quadrinhos Fables, ganhadora do Eisner Award \n\n– Não é apenas O QUE você escolhe fazer que afetará sua história, mas QUANDO você escolhe fazê-lo\n\n– Uma abordagem madura e corajosa de personagens de contos de fadas, lendas e folclore que escaparam para o nosso mundo \n\n– Um lugar perfeito para começar sua jornada na Fables, mesmo que você não tenha lido os quadrinhos. O jogo é passado antes dos eventos narrados na primeira edição\n",
+                    "shortDescription": "Baseado na premiada série de quadrinhos Fables (DC Comics/Vertigo). Como Bigby Wolf – O grande lobo mau – você descobrirá que um assassinato brutal e sangrento é apenas uma amostra do que virá em uma série de jogos em que todas as suas decisões podem trazer enormes consequências. ",
+                    "title": "The Wolf Among Us",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_IC1-200x100-4fe05f2595ecfc5a9935e4a387124cba39040a8e.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-ee3628dbf0fc6861ef6637dd49dd2eef171c737b.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-20d0d307c8316a6f424ff083013c03a3b2bef390.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-20d0d307c8316a6f424ff083013c03a3b2bef390.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2013-10-11T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Telltale"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "LCG Entertainment, Inc.",
+                        "Telltale"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "ACTION",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_00-1920x1080-f5c74e9dc48e48001a849dc92d69a53e05f93aa1.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_01-1920x1080-17e50bd38e433c1c5f6876a2333909e3b317e5ba.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_02-1920x1080-2b7124da761c3fcacfdac1648e8a185c3639383c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_03-1920x1080-1a281fb0cec6abad5ec6ee5249ccaf8b3e4cbe7a.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_04-1920x1080-52c43892e9f6e6b26db7dc2fb2d2833be0f77073.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_05-1920x1080-170f89934bb8c0974d87fda8e47814fad38631c3.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_06-1920x1080-a94c4b8f08cad492fb402aa9b08f06f0acef0d61.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_07-1920x1080-544a3c602bb75fe1cacda0c371adbe3d489680c3.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "The Wolf Among Us"
+            },
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_18-400x400-7ac38d8b4b29de7c5f10a52ebf17f124e361279e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FESRB_WolfAmongUs-842x404-2b3ff2305693d507f7e53b949a7b58f35fb5e9ce.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_01-1920x1080-17e50bd38e433c1c5f6876a2333909e3b317e5ba.jpg",
+                "https://cdn2.unrealengine.com/pegi-18-rating-65x80-6990e36d0cc7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_03-1920x1080-1a281fb0cec6abad5ec6ee5249ccaf8b3e4cbe7a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_05-1920x1080-170f89934bb8c0974d87fda8e47814fad38631c3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-ee3628dbf0fc6861ef6637dd49dd2eef171c737b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S3-1360x765-830bfbacec4ef9b1030bc182b4f2fdce7477f5ef.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_07-1920x1080-544a3c602bb75fe1cacda0c371adbe3d489680c3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-wolf-among-us%2Fhome%2F18_S_V_L_D-540x117-e30be92020f882174220e7dbaaa30b455e81e553.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_00-1920x1080-f5c74e9dc48e48001a849dc92d69a53e05f93aa1.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_IC1-200x100-4fe05f2595ecfc5a9935e4a387124cba39040a8e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-20d0d307c8316a6f424ff083013c03a3b2bef390.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_06-1920x1080-a94c4b8f08cad492fb402aa9b08f06f0acef0d61.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_02-1920x1080-2b7124da761c3fcacfdac1648e8a185c3639383c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwolf-among-us%2Fhome%2FEGS_LCGEntertainmentInc_TheWolfAmongUs_G1A_04-1920x1080-52c43892e9f6e6b26db7dc2fb2d2833be0f77073.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2899,
+            "originalPrice": 2899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 28,99",
+                "discountPrice": "R$ 28,99",
+                "intermediatePrice": "R$ 28,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Wolf Among Us",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.81,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "a8f9fb4a881e47b489715f18f7d08e2f",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

@@ -1262,6 +1262,39 @@
             "tag": "edition"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 6699,
+            "originalPrice": 6699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 66,99",
+                "discountPrice": "R$ 66,99",
+                "intermediatePrice": "R$ 66,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Bus Simulator 21 Next Stop",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.23,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "2b09519576cb4276bfd8df52f5288e4a",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

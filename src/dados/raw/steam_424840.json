@@ -28,16 +28,16 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 33768,
+                    "total_positive": 33775,
                     "total_negative": 2089,
-                    "total_reviews": 35857
+                    "total_reviews": 35864
                 },
                 "reviews": [
                     {
                         "recommendationid": "237382360",
                         "author": {
                             "steamid": "76561198340334007",
-                            "num_reviews": 17,
+                            "num_reviews": 18,
                             "playtime_forever": 252,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 252,
@@ -48,9 +48,9 @@
                         "timestamp_created": 1791647444,
                         "timestamp_updated": 1791647444,
                         "voted_up": true,
-                        "votes_up": 4,
+                        "votes_up": 7,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5833333134651184,
+                        "weighted_vote_score": 0.6153846383094788,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -59,9 +59,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZVVYAAAAB4rcWJBw==",
+                "cursor": "AoIFQFYsTqAAAAB4rcWJBw==",
                 "day_range_used": 30,
-                "total_matching": 81
+                "total_matching": 74
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/2bdbdbe316dba829ab67ea61528ab87a156fc2ed/capsule_231x87.jpg?t=1773135169",
@@ -88,15 +88,15 @@
             ],
             "price_overview": {
                 "currency": "BRL",
-                "initial": 13050,
-                "final": 3262,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 130,50",
-                "final_formatted": "R$ 32,62"
+                "initial": 8490,
+                "final": 8490,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 84,90"
             },
             "packages": [
-                182771,
-                87193
+                87193,
+                182771
             ],
             "package_groups": [
                 {
@@ -109,16 +109,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 182771,
-                            "percent_savings_text": " -75%",
-                            "percent_savings": 0,
-                            "option_text": "Little Nightmares Complete Edition - <span class=\"discount_original_price\">R$ 130,50</span> R$ 32,62",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 3262
-                        },
-                        {
                             "packageid": 87193,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -127,6 +117,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 8490
+                        },
+                        {
+                            "packageid": 182771,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Little Nightmares Complete Edition - R$ 130,50",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 13050
                         }
                     ]
                 }
@@ -271,7 +271,7 @@
                 }
             ],
             "recommendations": {
-                "total": 52391
+                "total": 52415
             },
             "achievements": {
                 "total": 22,

@@ -472,6 +472,39 @@
             "type": "productHome"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3849,
+            "originalPrice": 3849,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 38,49",
+                "discountPrice": "R$ 38,49",
+                "intermediatePrice": "R$ 38,49"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Absolute Drift",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.46,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "9d2f484bbec64aa8ad234b3199dcaf1c",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

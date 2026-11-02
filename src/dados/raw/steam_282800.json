@@ -62,9 +62,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 15961,
+                    "total_positive": 15966,
                     "total_negative": 1358,
-                    "total_reviews": 17319
+                    "total_reviews": 17324
                 },
                 "reviews": [
                     {
@@ -72,10 +72,10 @@
                         "author": {
                             "steamid": "76561198058710567",
                             "num_reviews": 3,
-                            "playtime_forever": 81994,
-                            "playtime_last_two_weeks": 2757,
+                            "playtime_forever": 82345,
+                            "playtime_last_two_weeks": 2285,
                             "playtime_at_review": 79219,
-                            "last_played": 1793283792
+                            "last_played": 1793636667
                         },
                         "language": "english",
                         "review": "If you don't take this game very seriously and understand that everything is luck based, this can be a fun time depending on how it goes.",
@@ -83,7 +83,7 @@
                         "timestamp_updated": 1791825834,
                         "voted_up": true,
                         "votes_up": 5,
-                        "votes_funny": 0,
+                        "votes_funny": 1,
                         "weighted_vote_score": 0.5915841460227966,
                         "comment_count": 0,
                         "steam_purchase": false,
@@ -95,7 +95,7 @@
                 ],
                 "cursor": "AoIFQFYKxcAAAAB3q5yKBw==",
                 "day_range_used": 30,
-                "total_matching": 53
+                "total_matching": 52
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/74b8f808c2ea623f9aee9ed20c6d76c7e536e137/header.jpg?t=1790441963",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/f05202e348f2962f82673c6cef0acd8b5b704026/capsule_231x87.jpg?t=1790441963",
@@ -129,15 +129,15 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2350,
-                "final": 2350,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 23,50"
+                "final": 587,
+                "discount_percent": 75,
+                "initial_formatted": "R$ 23,50",
+                "final_formatted": "R$ 5,87"
             },
             "packages": [
                 38934,
-                1330438,
-                43177
+                43177,
+                1330438
             ],
             "package_groups": [
                 {
@@ -151,13 +151,23 @@
                     "subs": [
                         {
                             "packageid": 38934,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -75%",
                             "percent_savings": 0,
-                            "option_text": "100% Orange Juice - R$ 23,50",
+                            "option_text": "100% Orange Juice - <span class=\"discount_original_price\">R$ 23,50</span> R$ 5,87",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2350
+                            "price_in_cents_with_discount": 587
+                        },
+                        {
+                            "packageid": 43177,
+                            "percent_savings_text": " -75%",
+                            "percent_savings": 0,
+                            "option_text": "100% Orange Juice - 4 Pack - <span class=\"discount_original_price\">R$ 46,99</span> R$ 11,74",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1174
                         },
                         {
                             "packageid": 1330438,
@@ -168,16 +178,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 2350
-                        },
-                        {
-                            "packageid": 43177,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "100% Orange Juice - 4 Pack - R$ 46,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
                         }
                     ]
                 }
@@ -404,7 +404,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14808
+                "total": 14813
             },
             "achievements": {
                 "total": 365,

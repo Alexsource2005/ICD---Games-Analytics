@@ -409,5 +409,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": null
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2799,
+            "originalPrice": 2799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 27,99",
+                "discountPrice": "R$ 27,99",
+                "intermediatePrice": "R$ 27,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Halcyon 6: Starbase Commander",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.47,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "3dd7b519d7ab4631ae96d3efa8588514",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

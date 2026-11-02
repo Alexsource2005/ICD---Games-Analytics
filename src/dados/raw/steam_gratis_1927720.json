@@ -20,11 +20,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 2565,
+                    "total_positive": 2568,
                     "total_negative": 90,
-                    "total_reviews": 2655
+                    "total_reviews": 2658
                 },
-                "total_matching": 31,
+                "total_matching": 30,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927720/45a4e828b5d2e3bd4068c68bae0a41c745a5e2dc/header.jpg?t=1762967584",
@@ -53,10 +53,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2399,
-                "final": 2399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 23,99"
+                "final": 839,
+                "discount_percent": 65,
+                "initial_formatted": "R$ 23,99",
+                "final_formatted": "R$ 8,39"
             },
             "packages": [
                 694519
@@ -73,13 +73,13 @@
                     "subs": [
                         {
                             "packageid": 694519,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -65%",
                             "percent_savings": 0,
-                            "option_text": "Monument Valley - R$ 23,99",
+                            "option_text": "Monument Valley - <span class=\"discount_original_price\">R$ 23,99</span> R$ 8,39",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2399
+                            "price_in_cents_with_discount": 839
                         }
                     ]
                 }
@@ -229,7 +229,7 @@
                 }
             ],
             "recommendations": {
-                "total": 7734
+                "total": 7740
             },
             "achievements": {
                 "total": 19,

@@ -17,11 +17,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 8744,
-                    "total_negative": 882,
-                    "total_reviews": 9626
+                    "total_positive": 8749,
+                    "total_negative": 883,
+                    "total_reviews": 9632
                 },
-                "total_matching": 48,
+                "total_matching": 49,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601430/header.jpg?t=1750783701",
@@ -50,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 15500,
-                "final": 3100,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 155,00",
-                "final_formatted": "R$ 31,00"
+                "final": 15500,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 155,00"
             },
             "packages": [
                 189513
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 189513,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Evil Within 2 - <span class=\"discount_original_price\">R$ 155,00</span> R$ 31,00",
+                            "option_text": "The Evil Within 2 - R$ 155,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3100
+                            "price_in_cents_with_discount": 15500
                         }
                     ]
                 }
@@ -277,15 +277,6 @@
                     "highlight": false
                 },
                 {
-                    "id": 256690672,
-                    "name": "Survive Trailer",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690672/movie.293x165.jpg?t=1500482316",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/601430/114310/668b18264d650ee5e004aaafad12ae69f8bf3b75/1750560296/dash_av1.mpd?t=1500482316",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/601430/114310/668b18264d650ee5e004aaafad12ae69f8bf3b75/1750560296/dash_h264.mpd?t=1500482316",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/601430/114310/668b18264d650ee5e004aaafad12ae69f8bf3b75/1750560296/hls_264_master.m3u8?t=1500482316",
-                    "highlight": false
-                },
-                {
                     "id": 256689592,
                     "name": "Gameplay Trailer",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689592/movie.293x165.jpg?t=1500477625",
@@ -305,7 +296,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19898
+                "total": 19914
             },
             "achievements": {
                 "total": 51,

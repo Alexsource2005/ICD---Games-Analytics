@@ -1,0 +1,442 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffaf31"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffaf31"
+        }
+    },
+    "namespace": "weaver",
+    "_title": "rebel-galaxy",
+    "regionBlock": "",
+    "productName": "Rebel Galaxy",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/rebel-galaxy",
+    "_slug": "rebel-galaxy",
+    "_activeDate": "2019-01-29T20:17:04.665Z",
+    "lastModified": "2019-06-12T20:14:20.798Z",
+    "_locale": "pt-BR",
+    "_id": "8b1c056e-a95c-414c-a329-e726c836610d",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffaf31"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffaf31"
+                }
+            },
+            "namespace": "weaver",
+            "_title": "home",
+            "regionBlock": "",
+            "productName": "Rebel Galaxy",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/rebel-galaxy/home",
+            "_slug": "home",
+            "_activeDate": "2019-01-29T20:19:51.663Z",
+            "lastModified": "2019-06-12T20:16:35.355Z",
+            "_locale": "pt-BR",
+            "_id": "607c28ca-9763-476c-9811-e4cc389d435b",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "weaver",
+                "id": "73f7ee3f9e5540ff963573b9c3b08744",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "5106a8a7bde5423d8c3f1023764cdbe9",
+                "appName": "Weaver",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "weaver"
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitch": "https://www.twitch.tv/rebelgalaxy",
+                    "linkTwitter": "https://twitter.com/rebelgalaxy",
+                    "linkFacebook": "https://facebook.com/rebelgalaxy",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Rebel Galaxy",
+                    "linkHomepage": "https://rebel-galaxy.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês",
+                        "Francês",
+                        "Alemão",
+                        "Espanhol - Espanha",
+                        "Japonês",
+                        "Russo",
+                        "Chinês simplificado"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows XP, Windows 7, Windows Vista, Windows 8, Windows 10",
+                                    "recommended": "Windows XP, Windows 7, Windows Vista, Windows 8, Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel® Core™ 2 Duo 2,4 GHz, AMD Athlon™ X2 2,8 GHz, ou superior",
+                                    "recommended": "Intel® Core™ 2 Duo 2,4 GHz, AMD Athlon™ X2 2,8 GHz, ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM ou mais",
+                                    "recommended": "2 GB de RAM ou mais"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo:",
+                                    "minimum": "Shader Model 3.0, 512 de VRAM",
+                                    "recommended": "Shader Model 3.0, 512 de VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "API Gráfica",
+                                    "minimum": "DirectX 9 ou superior ou OpenGL",
+                                    "recommended": "DirectX 9 ou superior ou OpenGL"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "2 GB de espaço em disco rígido",
+                                    "recommended": "2 GB de espaço em disco rígido"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Som",
+                                    "minimum": "Compatível com DirectX 9.0c, 16-bit",
+                                    "recommended": "Compatível com DirectX 9.0c, 16-bit"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12-390x450-813b1ae6cad0387fe59405148e3ba33b9132d348.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Frebel-galaxy%2Fhome%2F12_V_L-320x117-3ce7a3434acf9805e69897b8eb4cc9fc08e08b01.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "12세이용가"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2FESRB_RebelGalaxyOriginal_T-842x404-493b7391b89c858d799e735ec3a83251efb32482.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TEEN"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2018 Double Damage Games Inc.",
+                    "privacyPolicyLink": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_about_image-1000x840-284e8e0d58490a5a7bc3fb9247dccf7ed529a556.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Double Damage Games, Inc.",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Double Damage Games, Inc.",
+                    "description": "Rebel Galaxy é um jogo de ação cheio de combates, exploração, descobertas, transações e “negociações\" com os seres estranhos que habitam a borda do universo que conhecemos.\n\nVocê lutará contra piratas, explorará anomalias, fará amizade com alienígenas, percorrerá destroços de batalha, explorará asteroides e descobrirá artefatos. Escolha seu caminho como um rebelde bom-samaritano, um comerciante espacial ardiloso ou um pirata sedento por poder nesta aventura espacial heroica e implacável.",
+                    "title": "Rebel Galaxy",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Fdeveloper_logo-3000x3000-292f42798401ae1605f27e26021027cdbb39ea10.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Fgamelogo_colored-1205x484-554657e37b9c454c9920753550a988e03ac0fbbe.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_PDP_portrait_promo-1280x1420-d3d7af4de480f6ae79a7260896b407ce1b1a9b33.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action",
+                        "href": "",
+                        "text": ""
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_PDP_promo-2580x1456-0d4b672002d94933faa3d5caaf5f40192d8e7450.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_primary_promo-2580x1450-6802d1586b9c32276c10073274a3f454f3e783e1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2015-10-20T08:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Double Damage Games, Inc."
+                    ],
+                    "developer": [
+                        "Double Damage Games, Inc."
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "SINGLE_PLAYER",
+                        "SPACE_SIM"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_1-1920x1080-7cfaa27b30f0a7954deea7a402405f9a06b89d18.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_2-1920x1080-5897adec007c3cc674cfe2fbf5e4ca5297e7b42b.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_3-1920x1080-0e9e8208d4f2c5f499bf905d578d90e9f2bd759e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_4-1920x1080-3895cfd94060bd42099c539aa8fea9fd9567243d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_5-1920x1080-58c30788aceab2372860dda6d1187c5e380b8ac1.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_6-1920x1080-c423e4c59b0b6f0bad31ae8e4875c787032070a6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_7-1920x1080-1a656fb3948c417d08356d736dd3af6377606750.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_8-1920x1080-a52df0499a123ba0a6be51a072adbbe0b2658370.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_9-1920x1080-378d9d7c0c3a27beafb4dd98f6fc25591c7c07cc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_10-1920x1080-d114824c98f331af9870c50a259a5cdacab009c7.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 8
+                        }
+                    ]
+                },
+                "navTitle": "Rebel Galaxy"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#a94f3f",
+                "customPrimaryBg": "#0a142d",
+                "accentColor": "#ffaf31",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12-390x450-813b1ae6cad0387fe59405148e3ba33b9132d348.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_PDP_promo-2580x1456-0d4b672002d94933faa3d5caaf5f40192d8e7450.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_about_image-1000x840-284e8e0d58490a5a7bc3fb9247dccf7ed529a556.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_primary_promo-2580x1450-6802d1586b9c32276c10073274a3f454f3e783e1.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frebelgalaxy_PDP_portrait_promo-1280x1420-d3d7af4de480f6ae79a7260896b407ce1b1a9b33.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Frebel-galaxy%2Fhome%2F12_V_L-320x117-3ce7a3434acf9805e69897b8eb4cc9fc08e08b01.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Fdeveloper_logo-3000x3000-292f42798401ae1605f27e26021027cdbb39ea10.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_4-1920x1080-3895cfd94060bd42099c539aa8fea9fd9567243d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_2-1920x1080-5897adec007c3cc674cfe2fbf5e4ca5297e7b42b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_3-1920x1080-0e9e8208d4f2c5f499bf905d578d90e9f2bd759e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_7-1920x1080-1a656fb3948c417d08356d736dd3af6377606750.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_1-1920x1080-7cfaa27b30f0a7954deea7a402405f9a06b89d18.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_10-1920x1080-d114824c98f331af9870c50a259a5cdacab009c7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_6-1920x1080-c423e4c59b0b6f0bad31ae8e4875c787032070a6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_9-1920x1080-378d9d7c0c3a27beafb4dd98f6fc25591c7c07cc.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2FESRB_RebelGalaxyOriginal_T-842x404-493b7391b89c858d799e735ec3a83251efb32482.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Fgamelogo_colored-1205x484-554657e37b9c454c9920753550a988e03ac0fbbe.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_8-1920x1080-a52df0499a123ba0a6be51a072adbbe0b2658370.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fweaver%2Frg_gallery_5-1920x1080-58c30788aceab2372860dda6d1187c5e380b8ac1.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3699,
+            "originalPrice": 3699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 36,99",
+                "discountPrice": "R$ 36,99",
+                "intermediatePrice": "R$ 36,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Rebel Galaxy",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.44,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "weaver",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

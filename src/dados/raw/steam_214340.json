@@ -20,18 +20,18 @@
                     "num_reviews": 1,
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
-                    "total_positive": 3432,
+                    "total_positive": 3435,
                     "total_negative": 1021,
-                    "total_reviews": 4453
+                    "total_reviews": 4456
                 },
                 "reviews": [
                     {
                         "recommendationid": "238020881",
                         "author": {
                             "steamid": "76561199134307536",
-                            "num_reviews": 222,
+                            "num_reviews": 226,
                             "playtime_forever": 289,
-                            "playtime_last_two_weeks": 289,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 210,
                             "last_played": 1792336098
                         },
@@ -40,9 +40,9 @@
                         "timestamp_created": 1792331744,
                         "timestamp_updated": 1792331744,
                         "voted_up": true,
-                        "votes_up": 5,
+                        "votes_up": 6,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5788130164146423,
+                        "weighted_vote_score": 0.5958359241485596,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -51,9 +51,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYbHoAAAABxkf2LBw==",
+                "cursor": "AoIFQFYFVIAAAABxkf2LBw==",
                 "day_range_used": 30,
-                "total_matching": 43
+                "total_matching": 40
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/header.jpg?t=1789381815",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/capsule_231x87.jpg?t=1789381815",
@@ -285,7 +285,7 @@
                 }
             ],
             "recommendations": {
-                "total": 10498
+                "total": 10503
             },
             "achievements": {
                 "total": 19,

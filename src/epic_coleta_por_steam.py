@@ -2,6 +2,7 @@ import json
 import os
 import re
 from epicstore_api import EpicGamesStoreAPI
+from Ratings_Polls_Epic import obter_ratings_polls
 
 # Inicializa a API da Epic Games
 api = EpicGamesStoreAPI(country="BR", locale="pt-BR")
@@ -22,15 +23,20 @@ pasta_steam = "dados/raw"
 jogos_para_buscar = []
 
 for arquivo in os.listdir(pasta_steam):
-  if arquivo.startswith("steam_gratis_") and arquivo.endswith(".json"):
+  if arquivo.startswith("steam_") and arquivo.endswith(".json") and not arquivo.startswith(("epic_", "gog_")):
     caminho = os.path.join(pasta_steam, arquivo)
     try:
       with open(caminho, "r", encoding="utf-8") as f:
         conteudo = json.load(f)
-        app_id = arquivo.replace("steam_gratis_", "").replace(".json", "")    
-        if conteudo.get(str(app_id), {}).get("success"):
-          nome_jogo = conteudo[str(app_id)]["data"]["name"]
-          if nome_jogo not in jogos_para_buscar:
+
+        match_id = re.search(r"\d+", arquivo)
+        if not match_id:
+          continue
+        app_id = match_id.group(0)
+
+        if conteudo.get(app_id, {}).get("success"):
+          nome_jogo = conteudo[app_id]["data"].get("name")
+          if nome_jogo and nome_jogo not in jogos_para_buscar:
             jogos_para_buscar.append(nome_jogo)
     except Exception:
       continue
@@ -90,29 +96,58 @@ for indice, nome in enumerate(jogos_para_buscar, start=1):
           break
 
       if jogo_encontrado:
-        slug = (jogo_encontrado.get("productSlug") or jogo_encontrado.get("urlSlug") or next((m.get("pageSlug") for m in jogo_encontrado.get("mappings", []) if m.get("pageSlug")), None,))
+        catalog_ns = jogo_encontrado.get("catalogNs") or {}
+        mappings = (catalog_ns.get("mappings") or jogo_encontrado.get("mappings") or [])
 
-        detalhes = None
-        if slug:
-          try:
-            detalhes = api.get_product(slug)
-          except Exception as e_detalhes:
-            print(f"Erro ao puxar detalhes profundos ({e_detalhes}), salvando dados do catalogo basico")
-            detalhes = jogo_encontrado
-        else:
-          detalhes = jogo_encontrado
+        slug = next((m.get("pageSlug") for m in mappings if isinstance(m, dict) and m.get("pageSlug")), None)
+
+        if not slug:
+          for campo in ("productSlug", "urlSlug"):
+            candidato = jogo_encontrado.get(campo)
+            if isinstance(candidato, str) and candidato.strip():
+              candidato = candidato.strip().removesuffix("/home")
+              if not re.fullmatch(r"[0-9a-fA-F]{32}", candidato):
+                slug = candidato
+                break
+
+        if not slug:
           titulo_base = jogo_encontrado.get("title", "jogo_desconhecido")
           slug = re.sub(r"[^\w\s-]", "", titulo_base).strip().lower()
           slug = re.sub(r"\s+", "-", slug)
-          print(f"Slug direto não encontrado, gerando slug de catálogo básicopara '{titulo_base}'.")
+        
+        detalhes = None
 
-        slug_limpo = slug.replace("/", "_")
+        try:
+          detalhes = api.get_product(slug)
+        except Exception as e_detalhes:
+          print(f"⚠️ get_product('{slug}') falhou ({e_detalhes}). Usando dados do catálogo básico.")
+          detalhes = dict(jogo_encontrado)
+
+        if not isinstance(detalhes, dict):
+          detalhes = dict(jogo_encontrado)
+        
         # A loja é consultada com country=BR e locale=pt-BR.
         # Guardamos a região solicitada para auditoria no ETL.
-        if isinstance(detalhes, dict):
+        
+        if "price" not in detalhes and "price" in jogo_encontrado:
+          detalhes["price"] = jogo_encontrado["price"]
+        if "offerType" not in detalhes and "offerType" in jogo_encontrado:
+          detalhes["offerType"] = jogo_encontrado["offerType"]
+        if "title" not in detalhes and "title" in jogo_encontrado:
+          detalhes["title"] = jogo_encontrado["title"]
+
           detalhes["_store_country_requested"] = "BR"
           detalhes["_store_locale_requested"] = "pt-BR"
 
+          ratings = obter_ratings_polls(jogo_encontrado, detalhes, slug_principal=slug)
+          detalhes["rating_polls"] = ratings
+
+          if ratings["average_rating"] is not None:
+            print(f"⭐ Nota média Epic: {ratings['average_rating']}/5")
+          else:
+            print(f"⚠️ Nota média não disponível: {ratings['status']}")
+
+        slug_limpo = slug.replace("/", "_")
         caminho_saida = f"dados/raw/epic_{slug_limpo}.json"
 
         with open(caminho_saida, "w", encoding="utf-8") as f:

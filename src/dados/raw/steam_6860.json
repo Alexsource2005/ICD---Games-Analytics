@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 3299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 32,99"
+                "final": 329,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 32,99",
+                "final_formatted": "R$ 3,29"
             },
             "packages": [
                 282
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 282,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Hitman: Blood Money - R$ 32,99",
+                            "option_text": "Hitman: Blood Money - <span class=\"discount_original_price\">R$ 32,99</span> R$ 3,29",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3299
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -150,7 +150,7 @@
                 }
             ],
             "recommendations": {
-                "total": 13812
+                "total": 13821
             },
             "release_date": {
                 "coming_soon": false,
@@ -227,29 +227,30 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 7531,
+                    "total_positive": 7538,
                     "total_negative": 448,
-                    "total_reviews": 7979
+                    "total_reviews": 7986
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236648966",
+                        "recommendationid": "237075289",
                         "author": {
-                            "steamid": "76561199388568517",
-                            "num_reviews": 11,
-                            "playtime_forever": 888,
+                            "steamid": "76561198146606954",
+                            "num_reviews": 23,
+                            "playtime_forever": 2113,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 888,
-                            "last_played": 1790888181
+                            "playtime_at_review": 1876,
+                            "deck_playtime_at_review": 5,
+                            "last_played": 1792410262
                         },
                         "language": "english",
-                        "review": "Best 14.8 hours of my life. Even though I was playing on rookie mode because I absolutely suck, this game still made it exciting to sneak around unnoticed and pull off some extremely risky plans. I also found mapping out my whole plan to complete the objective to be very fun as well. Ill probably mess around with this game some more with mods.",
-                        "timestamp_created": 1790888343,
-                        "timestamp_updated": 1790888343,
+                        "review": "Poopman: Doodoo Money /jk (this game is actually a literal masterpiece.)\n\nJesper Kyd you literal genius, I listen to your music when i'm cleaning house and i feel like a literal professional due to it.\n\n10/10\n",
+                        "timestamp_created": 1791314390,
+                        "timestamp_updated": 1791314390,
                         "voted_up": true,
                         "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5424836277961731,
+                        "weighted_vote_score": 0.5392249226570129,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -258,9 +259,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZJnuAAAAB2oN+GBw==",
+                "cursor": "AoIFQFZNysAAAAB5ta+IBw==",
                 "day_range_used": 30,
-                "total_matching": 58
+                "total_matching": 56
             },
             "steamspy_tags": [
                 "Stealth",

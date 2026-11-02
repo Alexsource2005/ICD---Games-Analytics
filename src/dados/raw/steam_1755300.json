@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 328,
-                "discount_percent": 93,
-                "initial_formatted": "R$ 46,99",
-                "final_formatted": "R$ 3,28"
+                "final": 4699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 46,99"
             },
             "packages": [
                 629478
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 629478,
-                            "percent_savings_text": " -93%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Smart Factory Tycoon - <span class=\"discount_original_price\">R$ 46,99</span> R$ 3,28",
+                            "option_text": "Smart Factory Tycoon - R$ 46,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 328
+                            "price_in_cents_with_discount": 4699
                         }
                     ]
                 }
@@ -212,7 +212,7 @@
                 }
             ],
             "recommendations": {
-                "total": 195
+                "total": 197
             },
             "achievements": {
                 "total": 54,
@@ -339,16 +339,16 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 164,
-                    "total_negative": 165,
-                    "total_reviews": 329
+                    "total_positive": 165,
+                    "total_negative": 166,
+                    "total_reviews": 331
                 },
                 "reviews": [
                     {
                         "recommendationid": "236776154",
                         "author": {
                             "steamid": "76561198078403549",
-                            "num_reviews": 904,
+                            "num_reviews": 908,
                             "playtime_forever": 16,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 16,
@@ -359,9 +359,9 @@
                         "timestamp_created": 1791027327,
                         "timestamp_updated": 1791027327,
                         "voted_up": false,
-                        "votes_up": 1,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5205479264259338,
+                        "weighted_vote_score": 0.54347825050354,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -370,9 +370,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZlsuAAAAB6rZ2HBw==",
+                "cursor": "AoIFQFZIWSAAAAB6rZ2HBw==",
                 "day_range_used": 30,
-                "total_matching": 9
+                "total_matching": 11
             },
             "steamspy_tags": [
                 "Simulation",

@@ -380,5 +380,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "20/10/2022 - 27/10/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7900,
+            "originalPrice": 7900,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 79,00",
+                "discountPrice": "R$ 79,00",
+                "intermediatePrice": "R$ 79,00"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Fallout 3: Game of the Year Edition",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "20/10/2022 - 27/10/2022",
+    "rating_polls": {
+        "average_rating": 4.6,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "fa702d34a37248ba98fb17f680c085e3",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

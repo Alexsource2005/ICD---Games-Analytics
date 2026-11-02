@@ -451,5 +451,48 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "10/02/2022 - 17/02/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 990,
+            "originalPrice": 9900,
+            "voucherDiscount": 0,
+            "discount": 8910,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 99,00",
+                "discountPrice": "R$ 9,90",
+                "intermediatePrice": "R$ 9,90"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "c7f0b3b9f75248a7992022a1c0336f81",
+                        "endDate": "2026-11-09T17:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Windbound",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "10/02/2022 - 17/02/2022",
+    "rating_polls": {
+        "average_rating": 4.14,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "a47cb01bef994749ac731aa3366796e8",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

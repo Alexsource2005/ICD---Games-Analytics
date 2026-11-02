@@ -1804,5 +1804,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "26/12/2024 - 27/12/2024"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 16199,
+            "originalPrice": 16199,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 161,99",
+                "discountPrice": "R$ 161,99",
+                "intermediatePrice": "R$ 161,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Ghostrunner 2",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "26/12/2024 - 27/12/2024",
+    "rating_polls": {
+        "average_rating": 4.52,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "708f57aaa04b42ef885be16c8288f0ac",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

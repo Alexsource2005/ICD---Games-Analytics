@@ -1,0 +1,479 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#f49322"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#f49322"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+    "_title": "costume-quest",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "Costume Quest",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/costume-quest",
+    "_slug": "costume-quest",
+    "_activeDate": "2019-10-22T15:46:46.477Z",
+    "lastModified": "2019-10-22T15:48:24.745Z",
+    "_locale": "pt-BR",
+    "_id": "82da117d-b2c7-4a8d-8c6a-ce5970ef819d",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#f49322"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#f49322"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#f49322",
+                "customPrimaryBg": "#251f43",
+                "accentColor": "#f49322",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "Costume Quest",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/costume-quest/home",
+            "_slug": "home",
+            "_activeDate": "2019-10-22T15:48:53.077Z",
+            "lastModified": "2023-02-22T18:21:03.546Z",
+            "_locale": "pt-BR",
+            "_id": "ec78633e-1de8-4e92-9386-49d45d7764e7",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+                "id": "e6dfe28ad2644018aa29f67054ff0391",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "00071b7175d04d1d88975d3901002dfc",
+                "appName": "Violetear",
+                "_type": "Diesel Product Item",
+                "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+                "hasItem": true
+            },
+            "data": {
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: Inglês",
+                        "TEXTO: Inglês, francês, italiano, alemão, espanhol"
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fpegi_7-425x520-f3a704c6522957ca395c8db342fa6abf566892da.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 7"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2F15_D-210x117-f3682b6bf794e68784f7155d52984854f3ae8fb8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "15세이용가"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FESRB_CostumeQuest-842x404-cd68b185224826d0366c9430ce10a141bc75b1ca.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: Maiores de 10 anos"
+                        }
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows XP SP3",
+                                    "recommended": "Windows 7 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core de 1.4 GHz",
+                                    "recommended": "Dual Core de 2.2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "1 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce 7600GS de 256 MB, Radeon X1600 ou Intel HD Graphics",
+                                    "recommended": "GeForce 220 de 256 MB, Radeon 4550 ou Intel HD 3000 Graphics"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "1.0 GB de espaço livre",
+                                    "recommended": "1.0 GB de espaço livre"
+                                }
+                            ]
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/DoubleFine",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "http://www.doublefine.com",
+                    "title": "Siga Double Fine"
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© Double Fine Productions, Inc.",
+                    "privacyPolicyLink": {
+                        "src": "http://www.doublefine.com/privacy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Double Fine"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/cq-tall-1200x1600-66fed722a610.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Double Fine Productions",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Double Fine Productions",
+                    "description": "Premiado estúdio de desenvolvimento de jogos fundado em 2000 por Tim Schafer, um veterano da indústria. Localizada no distrito de South of Market, em São Francisco, a Double Fine está comprometida em criar jogos de alta qualidade, com ênfase em originalidade, história, personagens e diversão.",
+                    "shortDescription": "Costume Quest é uma aventura de Halloween da desenvolvedora Double Fine Productions, de Tim Schafer. Neste charmoso jogo, escolha seu herói e escolha entre doces ou travessuras através de três belos ambientes cheios de humor e história, elementos clássicos da Double Fine.",
+                    "title": "Costume Quest",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_IC1-200x96-75a26a19dd744a69ec1f1e50a02c868544632e9a.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/cq-tall-1200x1600-66fed722a610.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "altContentPosition": false,
+                    "isFullBleed": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/cq-wide-2560x1440-14a5586d697b.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n   \"en-US\": [\n       {\n           \"recipe\": \"video-fmp4\",\n           \"mediaRefId\": \"143ded20c13e4c72a9ecd9d17f0356ae\"\n       },\n       {\n           \"recipe\": \"video-hls\",\n           \"mediaRefId\": \"457d3a4ffa944bbba937c80c30b11f54\"\n       },\n       {\n           \"recipe\": \"video-webm\",\n           \"mediaRefId\": \"b71a49f0758f4b87b363b78de41dbd23\"\n       }\n   ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Costume Quest Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_03-1920x1080-28a31bad628c00dea8f481b380ac780c0975f99b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_08-1920x1080-3448e47e7f3b7047a190e4377976cc9793563c33.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_06-1920x1080-31e4d593b015a0421dd6664290ca3d8e927215ba.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2011-10-14T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Double Fine Productions"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Double Fine Productions"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "RPG"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_01-1920x1080-956d9098b484c9a9f1a4a8470ede639ab0e0fd10.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_02-1920x1080-4a6198ae544704195a054837989d50e4d3d08716.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_04-1920x1080-9e8637ecc735fe6dc4920da1003bd441b5c023ff.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_05-1920x1080-4b3c372847f8cd279e3f0444f89fd6c20b9ba15e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_07-1920x1080-b12324f9a212bae8476a41cc5ebba0a9cc28e2e3.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_09-1920x1080-ef967dda5e697d8aebc971105611abf538e6c00b.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_10-1920x1080-fde524793ccaa68724e55d73e7b4d43d04465a9f.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "Costume Quest"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_04-1920x1080-9e8637ecc735fe6dc4920da1003bd441b5c023ff.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_03-1920x1080-28a31bad628c00dea8f481b380ac780c0975f99b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_10-1920x1080-fde524793ccaa68724e55d73e7b4d43d04465a9f.jpg",
+                "https://cdn2.unrealengine.com/cq-tall-1200x1600-66fed722a610.jpg",
+                "https://cdn2.unrealengine.com/cq-wide-2560x1440-14a5586d697b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_05-1920x1080-4b3c372847f8cd279e3f0444f89fd6c20b9ba15e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FESRB_CostumeQuest-842x404-cd68b185224826d0366c9430ce10a141bc75b1ca.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_01-1920x1080-956d9098b484c9a9f1a4a8470ede639ab0e0fd10.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_08-1920x1080-3448e47e7f3b7047a190e4377976cc9793563c33.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_07-1920x1080-b12324f9a212bae8476a41cc5ebba0a9cc28e2e3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_IC1-200x96-75a26a19dd744a69ec1f1e50a02c868544632e9a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fpegi_7-425x520-f3a704c6522957ca395c8db342fa6abf566892da.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_09-1920x1080-ef967dda5e697d8aebc971105611abf538e6c00b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_02-1920x1080-4a6198ae544704195a054837989d50e4d3d08716.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2F15_D-210x117-f3682b6bf794e68784f7155d52984854f3ae8fb8.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcostume-quest%2Fhome%2FEGS_DoubleFineProductions_CostumeQuest_G1A_06-1920x1080-31e4d593b015a0421dd6664290ca3d8e927215ba.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1899,
+            "originalPrice": 1899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 18,99",
+                "discountPrice": "R$ 18,99",
+                "intermediatePrice": "R$ 18,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Costume Quest",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.58,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "d1479d6f93fa4e6ca4415e83a7a5d703",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

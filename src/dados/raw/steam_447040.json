@@ -243,7 +243,7 @@
                 }
             ],
             "recommendations": {
-                "total": 98846
+                "total": 99013
             },
             "achievements": {
                 "total": 55,
@@ -397,40 +397,47 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 24535,
-                    "total_negative": 5479,
-                    "total_reviews": 30014
+                    "total_positive": 24578,
+                    "total_negative": 5482,
+                    "total_reviews": 30060
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236723196",
+                        "recommendationid": "237035607",
                         "author": {
-                            "steamid": "76561198085400907",
-                            "num_reviews": 21,
-                            "playtime_forever": 59,
+                            "steamid": "76561198156022942",
+                            "num_reviews": 31,
+                            "playtime_forever": 2323,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 59,
-                            "last_played": 1790969171
+                            "playtime_at_review": 2323,
+                            "last_played": 1791277918
                         },
                         "language": "english",
-                        "review": "They can't even fix a super common graphical flickering bug issue with nvidia cards for years. Refunded.",
-                        "timestamp_created": 1790969429,
-                        "timestamp_updated": 1790969429,
-                        "voted_up": false,
-                        "votes_up": 21,
-                        "votes_funny": 2,
-                        "weighted_vote_score": 0.7080162167549133,
+                        "review": "[h3]Great sequel, but the original still has my heart[/h3]\n\nI played the first game and loved it, so I was excited to jump into the sequel. The story in the original was noticeably stronger, but this game makes up for it with excellent graphics, a lot of extra detail in the gameplay, and some nice improvements to the gameplay itself. It's a really good game, though the first part will always be closer to my heart.\n\nIn total a really good game 7/10 :)",
+                        "timestamp_created": 1791278233,
+                        "timestamp_updated": 1791284022,
+                        "voted_up": true,
+                        "votes_up": 16,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6986494660377502,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 5 5600X 6-Core Processor             ",
+                            "adapter_description": "AMD Radeon RX 7800 XT",
+                            "system_ram": "32695",
+                            "vram_size": 16341
+                        }
                     }
                 ],
-                "cursor": "AoIFQFV1vWAAAAB8v4OHBw==",
+                "cursor": "AoIFQFWBusAAAAB3hZyIBw==",
                 "day_range_used": 30,
-                "total_matching": 621
+                "total_matching": 541
             },
             "steamspy_tags": [
                 "Open World",

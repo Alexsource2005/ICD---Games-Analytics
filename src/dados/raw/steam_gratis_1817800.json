@@ -25,11 +25,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1098,
+                    "total_positive": 1102,
                     "total_negative": 233,
-                    "total_reviews": 1331
+                    "total_reviews": 1335
                 },
-                "total_matching": 10,
+                "total_matching": 14,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817800/c505cd263cf0cb85f1e69fac24de81b196141212/header.jpg?t=1791461895",
@@ -58,10 +58,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 9999,
-                "final": 9999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 99,99"
+                "final": 4999,
+                "discount_percent": 50,
+                "initial_formatted": "R$ 99,99",
+                "final_formatted": "R$ 49,99"
             },
             "packages": [
                 653656
@@ -78,13 +78,13 @@
                     "subs": [
                         {
                             "packageid": 653656,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -50%",
                             "percent_savings": 0,
-                            "option_text": "Oddsparks: An Automation Adventure - R$ 99,99",
+                            "option_text": "Oddsparks: An Automation Adventure - <span class=\"discount_original_price\">R$ 99,99</span> R$ 49,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9999
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -307,7 +307,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1882
+                "total": 1883
             },
             "achievements": {
                 "total": 60,

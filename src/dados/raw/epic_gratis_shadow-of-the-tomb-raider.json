@@ -394,5 +394,48 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "30/12/2021 - 06/01/2021"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1459,
+            "originalPrice": 14590,
+            "voucherDiscount": 0,
+            "discount": 13131,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 145,90",
+                "discountPrice": "R$ 14,59",
+                "intermediatePrice": "R$ 14,59"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "0c03c8fd8c2f46a0970c2bb0f9a95cd3",
+                        "endDate": "2026-11-06T17:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Shadow of the Tomb Raider: Definitive Edition",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "30/12/2021 - 06/01/2021",
+    "rating_polls": {
+        "average_rating": 4.62,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "4b5461ca8d1c488787b5200b420de066",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

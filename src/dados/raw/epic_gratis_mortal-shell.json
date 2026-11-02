@@ -872,5 +872,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "28/12/2022 - 29/12/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 8999,
+            "originalPrice": 8999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 89,99",
+                "discountPrice": "R$ 89,99",
+                "intermediatePrice": "R$ 89,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Mortal Shell",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "28/12/2022 - 29/12/2022",
+    "rating_polls": {
+        "average_rating": 4.21,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "ff8c96d781824ba1ae62d18d207fc52e",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

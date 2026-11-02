@@ -640,5 +640,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "28/04/2022 - 05/05/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2899,
+            "originalPrice": 2899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 28,99",
+                "discountPrice": "R$ 28,99",
+                "intermediatePrice": "R$ 28,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Just Die Already",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "28/04/2022 - 05/05/2022",
+    "rating_polls": {
+        "average_rating": 4.5,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "8c7ed85dae4341d385919ee4d832eb1a",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

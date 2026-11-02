@@ -1790,5 +1790,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "20/02/2025 - 27/02/2025"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 13590,
+            "originalPrice": 13590,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 135,90",
+                "discountPrice": "R$ 135,90",
+                "intermediatePrice": "R$ 135,90"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "World War Z: Aftermath",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "20/02/2025 - 27/02/2025",
+    "rating_polls": {
+        "average_rating": 4.48,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "wombat",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

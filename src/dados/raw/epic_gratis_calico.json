@@ -490,5 +490,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "28/05/2026 - 04/06/2026"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2299,
+            "originalPrice": 2299,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 22,99",
+                "discountPrice": "R$ 22,99",
+                "intermediatePrice": "R$ 22,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Calico",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "28/05/2026 - 04/06/2026",
+    "rating_polls": {
+        "average_rating": 4.34,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

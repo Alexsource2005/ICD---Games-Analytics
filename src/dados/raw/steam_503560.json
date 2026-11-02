@@ -22,9 +22,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 6490,
-                    "total_negative": 1018,
-                    "total_reviews": 7508
+                    "total_positive": 6496,
+                    "total_negative": 1019,
+                    "total_reviews": 7515
                 },
                 "reviews": [
                     {
@@ -42,9 +42,9 @@
                         "timestamp_created": 1792601826,
                         "timestamp_updated": 1792601826,
                         "voted_up": true,
-                        "votes_up": 9,
-                        "votes_funny": 2,
-                        "weighted_vote_score": 0.6295223832130432,
+                        "votes_up": 10,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.6427574157714844,
                         "comment_count": 4,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -53,9 +53,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXaNkAAAAB0u+yMBw==",
+                "cursor": "AoIFQFXJRWAAAAB0u+yMBw==",
                 "day_range_used": 30,
-                "total_matching": 23
+                "total_matching": 27
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/2e5e6b78b36586e2a8fc7e0fa3bf80dc5a94a6fb/header.jpg?t=1791828220",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/d97a463a2a380d000f5a2bf8050ee4a3e081b36a/capsule_231x87.jpg?t=1791828220",
@@ -83,10 +83,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 27,99"
+                "final": 559,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 27,99",
+                "final_formatted": "R$ 5,59"
             },
             "packages": [
                 115845
@@ -103,13 +103,13 @@
                     "subs": [
                         {
                             "packageid": 115845,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "911 Operator - R$ 27,99",
+                            "option_text": "911 Operator - <span class=\"discount_original_price\">R$ 27,99</span> R$ 5,59",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 559
                         }
                     ]
                 }
@@ -300,7 +300,7 @@
                 }
             ],
             "recommendations": {
-                "total": 14420
+                "total": 14421
             },
             "achievements": {
                 "total": 18,

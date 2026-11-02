@@ -1,0 +1,466 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#fe8e0e"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#fe8e0e"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+    "_title": "a-short-hike",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "A Short Hike",
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/a-short-hike",
+    "_slug": "a-short-hike",
+    "_activeDate": "2020-03-03T22:55:19.152Z",
+    "lastModified": "2020-03-03T22:56:02.625Z",
+    "_locale": "pt-BR",
+    "_id": "da3f515b-09d9-410c-b3d9-4f25c51cb509",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#fe8e0e"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#fe8e0e"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#fe8e0e",
+                "customPrimaryBg": "#23cab7",
+                "accentColor": "#fe8e0e",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "A Short Hike",
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/a-short-hike/home",
+            "_slug": "home",
+            "_activeDate": "2020-03-03T22:56:07.932Z",
+            "lastModified": "2020-03-03T23:25:25.196Z",
+            "_locale": "pt-BR",
+            "_id": "1996d6a5-a964-4083-a999-1e88a42701ba",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+                "id": "e97596b69a334eb896d3567ffad85093",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "namespace": "",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/adamgryu",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/fN6r9w6",
+                    "title": "Siga A Short Hike"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 SP1 ou superior (ou mais recente)",
+                                    "recommended": "Windows 7 SP1 ou superior (ou mais recente)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel or AMD dual core de 2 GHz ou superior",
+                                    "recommended": "Intel or AMD dual core de 2 GHz ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "2 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB de espaço disponível",
+                                    "recommended": "400 MB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel Graphics 4400 ou superior",
+                                    "recommended": "Intel Graphics 4400 ou superior"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "macOS 10.12 ou superior",
+                                    "recommended": "macOS 10.12 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel or AMD dual core de 2 GHz ou superior",
+                                    "recommended": "Intel or AMD dual core de 2 GHz ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "2 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB de espaço disponível",
+                                    "recommended": "400 MB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel Graphics 4400 ou superior",
+                                    "recommended": "Intel Graphics 4400 ou superior"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FAll-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "전체이용가"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Copyright 2020 Whippoorwill Limited",
+                    "privacyPolicyLink": {
+                        "src": "http://ashorthike.com/privacy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade de A Short Hike"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S2-860x1148-390b1d289145d91742517482607bb234720d3f75.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Adam Robinson-Yu",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Adam Robinson-Yu",
+                    "description": "Caminhe por trilhas, faça escaladas e sobrevoe as paisagens pacíficas das montanhas do Hawk Peak Provincial Park.\n\nSiga as trilhas marcadas ou explore a paisagem remota à medida que você percorre o caminho para chegar ao cume. Ao longo do caminho, conheça outros excursionistas, descubra tesouros escondidos e aprecie o mundo à sua volta.\n\n# Características principais\n\n• Explore a ilha da maneira como quiser. Escolha o seu próprio caminho a seguir e veja para onde ele leva você. Nunca se sabe o que pode cruzar o nosso caminho!\n• Caminhe no seu próprio ritmo, não há necessidade de correr para o cume! Pesque ao longo das margens do rio ou nade à beira do lago sem pressa.\n• Colecione tesouros escondidos para alcançar novos patamares. Tente saltar dos picos das montanhas para sobrevoar as florestas.\n• Converse com os outros excursionistas que encontrar ao longo do percurso. Talvez vocês possam até mesmo ajudar um ao outro!\n• Ouça a trilha sonora original e exuberante de Mark Sparling, que evolui de forma dinâmica à medida que você explora regiões selvagens e intocadas.\n",
+                    "shortDescription": "Caminhe por trilhas, faça escaladas e sobrevoe as paisagens pacíficas das montanhas de Hawk Peak. Siga as trilhas ou explore a paisagem remota à medida que você percorre o caminho para chegar ao cume. Ao longo do caminho, conheça outros excursionistas, descubra tesouros escondidos e aprecie o mundo à sua volta.",
+                    "title": "A Short Hike",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_IC1-200x200-d9e5bdc25a40ba44fffb5166dbfabd330ab6445a.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S2-860x1148-390b1d289145d91742517482607bb234720d3f75.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S3-1360x766-416dae1718cbfea73317a5b4ed2707fb36990fb7.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S1-2560x1440-e26189537179ce29eb02bb4fd3592ae5d9c796f1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"447eaeda34274fb9bfe9fed4376dc3f5\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"d32c2189b5d944f196da440d6ff49212\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"8125b8ba979849aeb78263a91cebb608\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Trailer de A Short Hike",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2019-07-30T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Adam Robinson-Yu"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Adam Robinson-Yu"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "CASUAL",
+                        "PLATFORMER",
+                        "INDIE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_01-1920x1080-914da7ac76aa96de269d677c285ab103953028fc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_02-1920x1080-22039e9d53650bf364a23d126f3d87317ee04dfd.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_03-1920x1080-9a003a1a7256129bfc9fe86a821bc815d4fed0dc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_04-1920x1080-460a78776de8b5a23e104fb7ac43fa732ae5e49a.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_05-1920x1080-63eed261132dec27d900673b72df9c0e10e677a6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_06-1920x1080-95007fbd8f4b6920e284fd481092e1a4c046855d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_07-1920x1080-b6efd4c9f554e9b6bd5f6e155f2477bc8b541796.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1C_00-1920x1080-0c91fe91827a33172741f4d73a536ae02705412b.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "A Short Hike"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FAll-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_04-1920x1080-460a78776de8b5a23e104fb7ac43fa732ae5e49a.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_IC1-200x200-d9e5bdc25a40ba44fffb5166dbfabd330ab6445a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_06-1920x1080-95007fbd8f4b6920e284fd481092e1a4c046855d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1C_00-1920x1080-0c91fe91827a33172741f4d73a536ae02705412b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S2-860x1148-390b1d289145d91742517482607bb234720d3f75.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S3-1360x766-416dae1718cbfea73317a5b4ed2707fb36990fb7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_01-1920x1080-914da7ac76aa96de269d677c285ab103953028fc.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_05-1920x1080-63eed261132dec27d900673b72df9c0e10e677a6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_02-1920x1080-22039e9d53650bf364a23d126f3d87317ee04dfd.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_S1-2560x1440-e26189537179ce29eb02bb4fd3592ae5d9c796f1.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_03-1920x1080-9a003a1a7256129bfc9fe86a821bc815d4fed0dc.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fa-short-hike%2Fhome%2FEGS_AShortHike_AdamRobinsonYu_G1A_07-1920x1080-b6efd4c9f554e9b6bd5f6e155f2477bc8b541796.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1659,
+            "originalPrice": 1659,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 16,59",
+                "discountPrice": "R$ 16,59",
+                "intermediatePrice": "R$ 16,59"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "A Short Hike",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "12/03/2020 - 19/03/2020",
+    "rating_polls": {
+        "average_rating": 4.85,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

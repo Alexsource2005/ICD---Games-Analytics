@@ -59,10 +59,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 419,
+                "discount_percent": 93,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 4,19"
             },
             "packages": [
                 181269
@@ -79,13 +79,13 @@
                     "subs": [
                         {
                             "packageid": 181269,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -93%",
                             "percent_savings": 0,
-                            "option_text": "Car Mechanic Simulator 2018 - R$ 59,99",
+                            "option_text": "Car Mechanic Simulator 2018 - <span class=\"discount_original_price\">R$ 59,99</span> R$ 4,19",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 419
                         }
                     ]
                 }
@@ -311,7 +311,7 @@
                 }
             ],
             "recommendations": {
-                "total": 48424
+                "total": 48428
             },
             "achievements": {
                 "total": 60,
@@ -438,47 +438,40 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 21924,
+                    "total_positive": 21929,
                     "total_negative": 2544,
-                    "total_reviews": 24468
+                    "total_reviews": 24473
                 },
                 "reviews": [
                     {
-                        "recommendationid": "238664567",
+                        "recommendationid": "237210617",
                         "author": {
-                            "steamid": "76561198256396893",
-                            "num_reviews": 13,
-                            "playtime_forever": 1654,
-                            "playtime_last_two_weeks": 1086,
-                            "playtime_at_review": 1654,
-                            "last_played": 1793083155
+                            "steamid": "76561198071654828",
+                            "num_reviews": 10,
+                            "playtime_forever": 838,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 838,
+                            "last_played": 1791471429
                         },
                         "language": "english",
-                        "review": "First of all, thank you for providing this game for free; I really appreciate it. Even though I got it for free, the discounted price is also very cheap. \n\nPreviously, I only knew a little bit about car engines; with this game, you learn much more right down to the pistons. This game isn't just about the engine; it involves the entire car, which you have to repair. You’ll need to diagnose issues, test the vehicle on a test track, and so on. It’s quite challenging at the start, but you’ll gain access to helpful tools as you unlock skill points. There is a wide variety of different engines from one car to another, such as inline and V-type engines. \n\nThere is no other car mechanic game as detailed as this one, so it is the best one on Steam.",
-                        "timestamp_created": 1793088737,
-                        "timestamp_updated": 1793088737,
-                        "voted_up": true,
-                        "votes_up": 1,
+                        "review": "Useless tutorial, insanely bad controls (on PC), gets boring after a few hours",
+                        "timestamp_created": 1791471523,
+                        "timestamp_updated": 1791471523,
+                        "voted_up": false,
+                        "votes_up": 8,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.52173912525177,
+                        "weighted_vote_score": 0.6028297543525696,
                         "comment_count": 0,
-                        "steam_purchase": false,
-                        "received_for_free": true,
+                        "steam_purchase": true,
+                        "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false,
-                        "hardware": {
-                            "os": "Windows 11",
-                            "cpu_name": "12th Gen Intel(R) Core(TM) i5-12450H",
-                            "adapter_description": "NVIDIA GeForce RTX 2050",
-                            "system_ram": "7895",
-                            "vram_size": 3962
-                        }
+                        "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFZkLIAAAAB3t7eOBw==",
+                "cursor": "AoIFQFY8YKAAAAB5v/GIBw==",
                 "day_range_used": 30,
-                "total_matching": 88
+                "total_matching": 83
             },
             "steamspy_tags": [
                 "Simulation",

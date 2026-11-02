@@ -20,16 +20,16 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 5873,
+                    "total_positive": 5872,
                     "total_negative": 134,
-                    "total_reviews": 6007
+                    "total_reviews": 6006
                 },
                 "reviews": [
                     {
                         "recommendationid": "236994097",
                         "author": {
                             "steamid": "76561197969975234",
-                            "num_reviews": 81,
+                            "num_reviews": 82,
                             "playtime_forever": 449,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 449,
@@ -40,9 +40,9 @@
                         "timestamp_created": 1791227813,
                         "timestamp_updated": 1791227813,
                         "voted_up": true,
-                        "votes_up": 4,
+                        "votes_up": 5,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5522684454917908,
+                        "weighted_vote_score": 0.569779634475708,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -51,9 +51,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFY9GMAAAABx44eIBw==",
+                "cursor": "AoIFQFYmroAAAABx44eIBw==",
                 "day_range_used": 30,
-                "total_matching": 11
+                "total_matching": 9
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337340/9ccd2472b64493cce208bb178d8c0705e849465a/header.jpg?t=1780927618",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337340/2a52c5c8a90bb0e7cf51af41a68e2cb0eebdc9f7/capsule_231x87.jpg?t=1780927618",
@@ -78,10 +78,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 559,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 27,99",
-                "final_formatted": "R$ 5,59"
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 27,99"
             },
             "packages": [
                 136702
@@ -98,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 136702,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Finding Paradise - <span class=\"discount_original_price\">R$ 27,99</span> R$ 5,59",
+                            "option_text": "Finding Paradise - R$ 27,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 559
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
@@ -213,7 +213,7 @@
                 }
             ],
             "recommendations": {
-                "total": 18213
+                "total": 18230
             },
             "achievements": {
                 "total": 1,

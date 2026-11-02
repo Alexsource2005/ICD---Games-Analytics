@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2649,
-                "final": 662,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 26,49",
-                "final_formatted": "R$ 6,62"
+                "final": 2649,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 26,49"
             },
             "packages": [
                 773318
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 773318,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Sorry We're Open - <span class=\"discount_original_price\">R$ 26,49</span> R$ 6,62",
+                            "option_text": "Sorry We're Open - R$ 26,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 662
+                            "price_in_cents_with_discount": 2649
                         }
                     ]
                 }
@@ -154,7 +154,7 @@
                 }
             ],
             "recommendations": {
-                "total": 141
+                "total": 143
             },
             "release_date": {
                 "coming_soon": false,
@@ -201,25 +201,25 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 132,
+                    "total_positive": 133,
                     "total_negative": 7,
-                    "total_reviews": 139
+                    "total_reviews": 140
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237668520",
+                        "recommendationid": "238980086",
                         "author": {
-                            "steamid": "76561198026565056",
-                            "num_reviews": 798,
-                            "playtime_forever": 321,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 321,
-                            "last_played": 1791934554
+                            "steamid": "76561198089445674",
+                            "num_reviews": 30,
+                            "playtime_forever": 294,
+                            "playtime_last_two_weeks": 294,
+                            "playtime_at_review": 294,
+                            "last_played": 1793424083
                         },
                         "language": "english",
-                        "review": "A very unsettling horror game that reminds me that I'm less than human at my customer service job.... yea the story is good. Paired with it's cool money/health based combat, which did take me a hot minute to get use to. But you do find alot of money laying around that I did end the game with over a $1000 dollars and spamming every skill I had. It uses sound and visuals really well to build the horrorness. It was also made in RPG Maker, and that surprised me cause it doesn't really look like one, you know what I mean. I did end up looking at a walkthrough near the end cause the objective was becoming unclear. And didn't over stay it's welcome.",
-                        "timestamp_created": 1791940706,
-                        "timestamp_updated": 1792012856,
+                        "review": "Amazing little game. 5 hours to get all endings. Great story about corporate slavery. Did not feel like it overstayed its welcome.",
+                        "timestamp_created": 1793424534,
+                        "timestamp_updated": 1793424534,
                         "voted_up": true,
                         "votes_up": 0,
                         "votes_funny": 0,
@@ -232,9 +232,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFaAAAAAAAB4itGKBw==",
+                "cursor": "AoIFQFaAAAAAAAB2v9GPBw==",
                 "day_range_used": 30,
-                "total_matching": 2
+                "total_matching": 3
             },
             "steamspy_tags": [
                 "RPG",

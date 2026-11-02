@@ -26,9 +26,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 25765,
-                    "total_negative": 1178,
-                    "total_reviews": 26943
+                    "total_positive": 25781,
+                    "total_negative": 1180,
+                    "total_reviews": 26961
                 },
                 "reviews": [
                     {
@@ -37,7 +37,7 @@
                             "steamid": "76561198085059421",
                             "num_reviews": 132,
                             "playtime_forever": 463,
-                            "playtime_last_two_weeks": 275,
+                            "playtime_last_two_weeks": 193,
                             "playtime_at_review": 463,
                             "deck_playtime_at_review": 463,
                             "last_played": 1792809222
@@ -47,9 +47,9 @@
                         "timestamp_created": 1792873917,
                         "timestamp_updated": 1792873917,
                         "voted_up": false,
-                        "votes_up": 9,
+                        "votes_up": 11,
                         "votes_funny": 1,
-                        "weighted_vote_score": 0.6292135119438171,
+                        "weighted_vote_score": 0.6136054396629333,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -58,9 +58,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFXamyAAAABxi+GNBw==",
+                "cursor": "AoIFQFXuleAAAABxi+GNBw==",
                 "day_range_used": 30,
-                "total_matching": 91
+                "total_matching": 103
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg?t=1792212569",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/capsule_231x87.jpg?t=1792212569",
@@ -85,10 +85,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2799,
-                "final": 419,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 27,99",
-                "final_formatted": "R$ 4,19"
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 27,99"
             },
             "packages": [
                 15371,
@@ -106,23 +106,23 @@
                     "subs": [
                         {
                             "packageid": 15371,
-                            "percent_savings_text": " -85%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "To The Moon - <span class=\"discount_original_price\">R$ 27,99</span> R$ 4,19",
+                            "option_text": "To The Moon - R$ 27,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 419
+                            "price_in_cents_with_discount": 2799
                         },
                         {
                             "packageid": 15373,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "To The Moon Game and Soundtrack Bundle - <span class=\"discount_original_price\">R$ 32,99</span> R$ 6,59",
+                            "option_text": "To The Moon Game and Soundtrack Bundle - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 659
+                            "price_in_cents_with_discount": 3299
                         }
                     ]
                 }
@@ -260,7 +260,7 @@
                 }
             ],
             "recommendations": {
-                "total": 70159
+                "total": 70280
             },
             "achievements": {
                 "total": 1,

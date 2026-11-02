@@ -531,5 +531,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "19/09/2024 - 26/09/2024"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 4799,
+            "originalPrice": 4799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 47,99",
+                "discountPrice": "R$ 47,99",
+                "intermediatePrice": "R$ 47,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Last Stand: Aftermath",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "19/09/2024 - 26/09/2024",
+    "rating_polls": {
+        "average_rating": 4.36,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "8d296e80f3ec42a79881f0693f3bded0",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1049,
-                "final": 251,
-                "discount_percent": 76,
-                "initial_formatted": "R$ 10,49",
-                "final_formatted": "R$ 2,51"
+                "final": 1049,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 10,49"
             },
             "packages": [
                 100503
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 100503,
-                            "percent_savings_text": " -76%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Deed: Dynasty - <span class=\"discount_original_price\">R$ 10,49</span> R$ 2,51",
+                            "option_text": "The Deed: Dynasty - R$ 10,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 251
+                            "price_in_cents_with_discount": 1049
                         }
                     ]
                 }
@@ -142,7 +142,7 @@
                 }
             ],
             "recommendations": {
-                "total": 530
+                "total": 531
             },
             "achievements": {
                 "total": 53,

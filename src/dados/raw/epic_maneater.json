@@ -839,6 +839,39 @@
             "type": "offer"
         }
     ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7499,
+            "originalPrice": 7499,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 74,99",
+                "discountPrice": "R$ 74,99",
+                "intermediatePrice": "R$ 74,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Maneater",
     "_store_country_requested": "BR",
-    "_store_locale_requested": "pt-BR"
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.5,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "turtle",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

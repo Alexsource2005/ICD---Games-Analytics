@@ -810,5 +810,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "09/05/2024 - 16/05/2024"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 6495,
+            "originalPrice": 6495,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 64,95",
+                "discountPrice": "R$ 64,95",
+                "intermediatePrice": "R$ 64,95"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Circus Electrique",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "09/05/2024 - 16/05/2024",
+    "rating_polls": {
+        "average_rating": 4.21,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "396a808f269241aba0fe2ad322ebd6d5",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

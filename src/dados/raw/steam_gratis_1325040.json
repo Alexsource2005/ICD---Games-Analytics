@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 6679,
-                "final": 6679,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 66,79"
+                "final": 4007,
+                "discount_percent": 40,
+                "initial_formatted": "R$ 66,79",
+                "final_formatted": "R$ 40,07"
             },
             "packages": [
                 462685
@@ -61,13 +61,13 @@
                     "subs": [
                         {
                             "packageid": 462685,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -40%",
                             "percent_savings": 0,
-                            "option_text": "Keylocker | Turn Based Cyberpunk Action - R$ 66,79",
+                            "option_text": "Keylocker | Turn Based Cyberpunk Action - <span class=\"discount_original_price\">R$ 66,79</span> R$ 40,07",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6679
+                            "price_in_cents_with_discount": 4007
                         }
                     ]
                 }
@@ -345,11 +345,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 170,
+                    "total_positive": 173,
                     "total_negative": 33,
-                    "total_reviews": 203
+                    "total_reviews": 206
                 },
-                "total_matching": 7,
+                "total_matching": 9,
                 "day_range_used": 30
             },
             "steamspy_tags": [

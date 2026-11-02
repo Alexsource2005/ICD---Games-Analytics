@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 39176,
-                    "total_negative": 1750,
-                    "total_reviews": 40926
+                    "total_positive": 39312,
+                    "total_negative": 1756,
+                    "total_reviews": 41068
                 },
                 "reviews": [
                     {
@@ -31,7 +31,7 @@
                             "steamid": "76561198866666481",
                             "num_reviews": 6,
                             "playtime_forever": 1244,
-                            "playtime_last_two_weeks": 97,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 1244,
                             "last_played": 1792133699
                         },
@@ -40,10 +40,10 @@
                         "timestamp_created": 1792248326,
                         "timestamp_updated": 1792248657,
                         "voted_up": true,
-                        "votes_up": 102,
-                        "votes_funny": 178,
-                        "weighted_vote_score": 0.8429624438285828,
-                        "comment_count": 6,
+                        "votes_up": 187,
+                        "votes_funny": 303,
+                        "weighted_vote_score": 0.8755221366882324,
+                        "comment_count": 8,
                         "steam_purchase": false,
                         "received_for_free": true,
                         "written_during_early_access": false,
@@ -51,9 +51,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFTJAkAAAABxq9SLBw==",
+                "cursor": "AoIFQFSfVQAAAABxq9SLBw==",
                 "day_range_used": 30,
-                "total_matching": 452
+                "total_matching": 571
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/capsule_231x87.jpg?t=1666817106",
@@ -81,14 +81,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4699,
-                "final": 469,
-                "discount_percent": 90,
-                "initial_formatted": "R$ 46,99",
-                "final_formatted": "R$ 4,69"
+                "final": 4699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 46,99"
             },
             "packages": [
-                51354,
-                376553
+                376553,
+                51354
             ],
             "package_groups": [
                 {
@@ -101,16 +101,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 51354,
-                            "percent_savings_text": " -90%",
-                            "percent_savings": 0,
-                            "option_text": "Outlast - <span class=\"discount_original_price\">R$ 46,99</span> R$ 4,69",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 469
-                        },
-                        {
                             "packageid": 376553,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -119,6 +109,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 3799
+                        },
+                        {
+                            "packageid": 51354,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Outlast - R$ 46,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4699
                         }
                     ]
                 }
@@ -258,7 +258,7 @@
                 }
             ],
             "recommendations": {
-                "total": 105654
+                "total": 106295
             },
             "achievements": {
                 "total": 14,

@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2999,
-                "final": 449,
-                "discount_percent": 85,
-                "initial_formatted": "R$ 29,99",
-                "final_formatted": "R$ 4,49"
+                "final": 2999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 29,99"
             },
             "packages": [
                 81419,
@@ -63,23 +63,23 @@
                     "subs": [
                         {
                             "packageid": 81419,
-                            "percent_savings_text": " -85%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "BioShock 2 Remastered - <span class=\"discount_original_price\">R$ 29,99</span> R$ 4,49",
+                            "option_text": "BioShock 2 Remastered - R$ 29,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 2999
                         },
                         {
                             "packageid": 127633,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "BioShock: The Collection - <span class=\"discount_original_price\">R$ 119,00</span> R$ 23,80",
+                            "option_text": "BioShock: The Collection - R$ 119,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2380
+                            "price_in_cents_with_discount": 11900
                         }
                     ]
                 }
@@ -163,7 +163,7 @@
                 }
             ],
             "recommendations": {
-                "total": 11503
+                "total": 11516
             },
             "achievements": {
                 "total": 68,
@@ -314,40 +314,47 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 6676,
-                    "total_negative": 969,
-                    "total_reviews": 7645
+                    "total_positive": 6681,
+                    "total_negative": 970,
+                    "total_reviews": 7651
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237836871",
+                        "recommendationid": "236993915",
                         "author": {
-                            "steamid": "76561198389473071",
-                            "num_reviews": 20,
-                            "playtime_forever": 54,
-                            "playtime_last_two_weeks": 54,
-                            "playtime_at_review": 54,
-                            "last_played": 1792144527
+                            "steamid": "76561198371941085",
+                            "num_reviews": 36,
+                            "playtime_forever": 1658,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1256,
+                            "last_played": 1791650347
                         },
                         "language": "english",
-                        "review": "2026: This game is genuinely completely unplayable on win11 despite applying all dozens of \"fixes\" online. Play the remastered version. The crashes are still there but manageable (every hour instead of every 30s).\n\nNo amount of Steam settings fiddling, Bioshock2SP.ini tinkering and win11 System Display meddling mitigated the crashing. Only by stripping the Bioshock.exe with Steamless.exe, then repatching the steamless .exe with 4gb_patch.exe and launching the newly packaged .exe directly from the Binary folder solved the constant crashes. Achievements will still tick on Steam, just not popping ingame.\n\nFucking Windows! I can't fucking click through the long ass fucking path to the exe directory over and over again! Where TF is the recent FOLDER! Not just files! WTF is this primitive piece of shit Win11!? The irrelevant \"Quick Access\" keeps growing on remove and none of them is the my recent directory! Who designed this fucking garbage file mangement!? Fucking Microsoft should have fucking died 20 years ago! ",
-                        "timestamp_created": 1792142075,
-                        "timestamp_updated": 1792183759,
-                        "voted_up": false,
+                        "review": "By far the best Bioshock game out of the 3 in the series, the only issue with the OG version is that it crashes a lot, so save often",
+                        "timestamp_created": 1791227667,
+                        "timestamp_updated": 1791227667,
+                        "voted_up": true,
                         "votes_up": 3,
-                        "votes_funny": 1,
-                        "weighted_vote_score": 0.5451127886772156,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5473372936248779,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 5 3600 6-Core Processor              ",
+                            "adapter_description": "NVIDIA GeForce RTX 3050",
+                            "system_ram": "16309",
+                            "vram_size": 8042
+                        }
                     }
                 ],
-                "cursor": "AoIFQFZGQWAAAAB3pKOLBw==",
+                "cursor": "AoIFQFZDaKAAAAB714eIBw==",
                 "day_range_used": 30,
-                "total_matching": 19
+                "total_matching": 24
             },
             "steamspy_tags": [
                 "FPS",

@@ -41,15 +41,15 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 12450,
-                "final": 3112,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 124,50",
-                "final_formatted": "R$ 31,12"
+                "final": 12450,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 124,50"
             },
             "packages": [
                 575971,
-                643493,
-                594136
+                594136,
+                643493
             ],
             "package_groups": [
                 {
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 575971,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Subnautica - <span class=\"discount_original_price\">R$ 124,50</span> R$ 31,12",
+                            "option_text": "Subnautica - R$ 124,50",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3112
+                            "price_in_cents_with_discount": 12450
                         },
                         {
                             "packageid": 594136,
@@ -263,7 +263,7 @@
                 }
             ],
             "recommendations": {
-                "total": 343492
+                "total": 343782
             },
             "achievements": {
                 "total": 17,
@@ -414,11 +414,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 203890,
+                    "total_positive": 204013,
                     "total_negative": 6461,
-                    "total_reviews": 210351
+                    "total_reviews": 210474
                 },
-                "total_matching": 868,
+                "total_matching": 915,
                 "day_range_used": 30
             },
             "steamspy_tags": [

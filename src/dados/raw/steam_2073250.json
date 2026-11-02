@@ -49,29 +49,29 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3223,
-                    "total_negative": 209,
-                    "total_reviews": 3432
+                    "total_positive": 3234,
+                    "total_negative": 210,
+                    "total_reviews": 3444
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237996958",
+                        "recommendationid": "237714921",
                         "author": {
-                            "steamid": "76561199020004134",
-                            "num_reviews": 1,
-                            "playtime_forever": 3867,
+                            "steamid": "76561197988644602",
+                            "num_reviews": 45,
+                            "playtime_forever": 315,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 3867,
-                            "last_played": 1791835855
+                            "playtime_at_review": 315,
+                            "last_played": 1750875410
                         },
                         "language": "english",
-                        "review": "Cute artstyle, great music and so much to do with the base game and the workshop",
-                        "timestamp_created": 1792307812,
-                        "timestamp_updated": 1792307812,
-                        "voted_up": true,
-                        "votes_up": 4,
-                        "votes_funny": 0,
-                        "weighted_vote_score": 0.5625,
+                        "review": "It's an okay rhythm game with fantastic style, but the main gimmick of creature types having different hit patterns ends up being more frustrating than fun, particularly when you have to remember a screen's worth of different gimmicks that aren't immediately intuitive, even if you've seen them before.\n\nI'd probably still recommend it, but the content in the base game is relatively light, and the game is mostly a vehicle for pushing frequent and excessive amounts of paid DLC.",
+                        "timestamp_created": 1791998725,
+                        "timestamp_updated": 1791998725,
+                        "voted_up": false,
+                        "votes_up": 26,
+                        "votes_funny": 4,
+                        "weighted_vote_score": 0.6594760417938232,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -80,9 +80,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYwAAAAAAB+ufGLBw==",
+                "cursor": "AoIFQFWz3uAAAAB53ueKBw==",
                 "day_range_used": 30,
-                "total_matching": 68
+                "total_matching": 74
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073250/b4a93c5083617e6e83f0ec4c894593f10211dd50/header_alt_assets_14.jpg?t=1793144446",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073250/7e96df4f73c5ec94350f8a4896342c076acb61ba/capsule_231x87.jpg?t=1793144446",
@@ -117,10 +117,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 1499,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 14,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 740746,
@@ -138,23 +138,23 @@
                     "subs": [
                         {
                             "packageid": 740746,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Rift of the NecroDancer - <span class=\"discount_original_price\">R$ 59,99</span> R$ 14,99",
+                            "option_text": "Rift of the NecroDancer - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 5999
                         },
                         {
                             "packageid": 1516950,
-                            "percent_savings_text": " -45%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Rift of the NecroDancer 2025 Edition - <span class=\"discount_original_price\">R$ 134,99</span> R$ 74,24",
+                            "option_text": "Rift of the NecroDancer 2025 Edition - R$ 134,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7424
+                            "price_in_cents_with_discount": 13499
                         }
                     ]
                 }
@@ -339,7 +339,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6062
+                "total": 6092
             },
             "achievements": {
                 "total": 35,

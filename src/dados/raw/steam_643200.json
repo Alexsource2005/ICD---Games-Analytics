@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 699,
-                "final": 314,
-                "discount_percent": 55,
-                "initial_formatted": "R$ 6,99",
-                "final_formatted": "R$ 3,14"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 6,99"
             },
             "packages": [
                 179673
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 179673,
-                            "percent_savings_text": " -55%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Keep in Mind: Remastered - <span class=\"discount_original_price\">R$ 6,99</span> R$ 3,14",
+                            "option_text": "Keep in Mind: Remastered - R$ 6,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 314
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -148,7 +148,7 @@
                 }
             ],
             "recommendations": {
-                "total": 434
+                "total": 436
             },
             "release_date": {
                 "coming_soon": false,
@@ -198,25 +198,25 @@
                     "review_score": 6,
                     "review_score_desc": "Mostly Positive",
                     "total_positive": 179,
-                    "total_negative": 72,
-                    "total_reviews": 251
+                    "total_negative": 73,
+                    "total_reviews": 252
                 },
                 "reviews": [
                     {
-                        "recommendationid": "235427733",
+                        "recommendationid": "239082320",
                         "author": {
-                            "steamid": "76561199886935312",
-                            "num_reviews": 10,
-                            "playtime_forever": 15,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 15,
-                            "last_played": 1789596168
+                            "steamid": "76561199491076014",
+                            "num_reviews": 5,
+                            "playtime_forever": 13,
+                            "playtime_last_two_weeks": 13,
+                            "playtime_at_review": 13,
+                            "last_played": 1793513382
                         },
                         "language": "english",
-                        "review": "HOLY PEAK. This changes my mind on addiction its so good.",
-                        "timestamp_created": 1789597394,
-                        "timestamp_updated": 1789597394,
-                        "voted_up": true,
+                        "review": "Very simple and straight-forward! \n\nI do like the representation of addiction and depression but I wish there was more to the game! The concept is really nice and I think if the game became longer and was more complex, it'd be really fun :) \n\nAs of right now, there's too little to the game and it's too direct in its mechanics for me to find it engaging. I see a lot of potential to the storyline but it's also quite short. \n\nI think those who enjoy binge-playing short games would like this a lot; my play time was around 13 minutes or so.\n\nNote: I believe it was free before but now the small cost is contributed to a charity (Child's Play, I believe). I don't regret my purchase for that reason but if you purchase it with the hope it'll be longer because it cost money, I wanted to add that!!",
+                        "timestamp_created": 1793521509,
+                        "timestamp_updated": 1793521941,
+                        "voted_up": false,
                         "votes_up": 0,
                         "votes_funny": 0,
                         "weighted_vote_score": 0.5,
@@ -228,9 +228,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFiAAAAAAAB1+YqCBw==",
-                "day_range_used": 90,
-                "total_matching": 3
+                "cursor": "AoIFQFaAAAAAAABwtYOQBw==",
+                "day_range_used": 30,
+                "total_matching": 1
             },
             "steamspy_tags": [
                 "Horror",

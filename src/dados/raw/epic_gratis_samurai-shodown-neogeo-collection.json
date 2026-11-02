@@ -440,5 +440,40 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "11/06/2020 - 18/06/2020"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7599,
+            "originalPrice": 7599,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 75,99",
+                "discountPrice": "R$ 75,99",
+                "intermediatePrice": "R$ 75,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "11/06/2020 - 18/06/2020",
+    "rating_polls": {
+        "average_rating": 4.55,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "3e84a6d0684b4f7593e6bf88bee0cbaf",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -1,0 +1,519 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#00F210"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "purple",
+            "accent": "#00F210"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "742f165671424189aecdfdadf5ea9755",
+    "_title": "nuclear-throne",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "Nuclear Throne",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/nuclear-throne",
+    "_slug": "nuclear-throne",
+    "_activeDate": "2019-10-25T21:44:01.960Z",
+    "lastModified": "2019-10-31T18:15:55.476Z",
+    "_locale": "pt-BR",
+    "_id": "7ec37b41-0a57-4f81-95e5-59d54abd267a",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#00F210"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "purple",
+                    "accent": "#00F210"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "742f165671424189aecdfdadf5ea9755",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#00F210",
+                "customPrimaryBg": "#0D0033",
+                "accentColor": "#00F210",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "Nuclear Throne",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/nuclear-throne/home",
+            "_slug": "home",
+            "_activeDate": "2019-10-25T21:47:23.605Z",
+            "lastModified": "2019-10-31T18:15:55.851Z",
+            "_locale": "pt-BR",
+            "_id": "d3dd0cb1-adac-43ba-8232-602f621df3b2",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "742f165671424189aecdfdadf5ea9755",
+                "id": "a123324c4f464e06bfda6dee473a9776",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "3524134c7a4e4cf2832d8d2a634baef8",
+                "appName": "Turaco",
+                "_type": "Diesel Product Item",
+                "namespace": "742f165671424189aecdfdadf5ea9755",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "http://twitter.com/vlambeer",
+                    "linkTwitch": "http://twitch.tv/vlambeer",
+                    "linkFacebook": "http://facebook.com/vlambeer",
+                    "linkYoutube": "http://YouTube.com/VlambeerTube",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/vlambeer",
+                    "title": "Siga Nuclear Throne"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações",
+                                    "minimum": "Este jogo está configurado para ser executado a 30 quadros por segundo.",
+                                    "recommended": "Este jogo está configurado para ser executado a 30 quadros por segundo."
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows XP",
+                                    "recommended": "Windows XP"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "CPU",
+                                    "minimum": "1,2 Ghz+",
+                                    "recommended": "2 Ghz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo",
+                                    "minimum": "256 MB",
+                                    "recommended": "1 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "RAM",
+                                    "minimum": "1024 MB RAM",
+                                    "recommended": "2048 MB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "200 MB de espaço disponível",
+                                    "recommended": "500 MB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações",
+                                    "minimum": "Este jogo está configurado para ser executado a 30 quadros por segundo.",
+                                    "recommended": "Este jogo está configurado para ser executado a 30 quadros por segundo."
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12-390x450-813b1ae6cad0387fe59405148e3ba33b9132d348.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fpegi_7-425x520-f3a704c6522957ca395c8db342fa6abf566892da.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 7 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FESRB_E10_NuclearThrone-842x404-4ed981a96a4706d01344706b247443be148f6e99.JPG",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: Maiores de 10 anos"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "12세이용가"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Nuclear Throne is developed by Vlambeer. Copyright © 2013-2019 Vlambeer",
+                    "privacyPolicyLink": {
+                        "src": "https://www.vlambeer.com/press/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Vlambeer"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_L1_LibraryPromo-2560x1440-ccf5f6671feabdfe2946cb2c7b085573436822ce.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Vlambeer",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Vlambeer",
+                    "description": "Nuclear Throne é um roguelike de tiro pós-apocalíptico com perspectiva de cima. Não é um pós-apocalipse “a última esperança da humanidade”, está mais para “a humanidade está extinta, agora mutantes e monstros vagam pelo mundo”. Lute pelas terras desoladas com armas poderosas, coletando radiação para crescer algumas partes do corpo e ganhar habilidades extra. Se você fosse bom nesse jogo, conseguiria fazer tudo isso e muito mais. Você consegue chegar ao Nuclear Throne?",
+                    "shortDescription": "Nuclear Throne é um roguelike de tiro pós-apocalíptico com perspectiva de cima.",
+                    "title": "Você consegue chegar ao Nuclear Throne?",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-234b2e519ef1b966f5148cd6e6f00612f132aeb3.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-1570ffca9e9e8bb845a671999fcfce658b56e932.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-a9e07291206c06cc8e121775891626e25c99199c.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"635dc13bfb9c46ec8b7d9255048c3e67\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"9359404486314c13bf2caea54b4febda\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"4ce39c77c412415c836e3dd4a5e858e4\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Launch Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"a5a3b38c8a2d418f8afd710bbf9d0737\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"dd97f22973fd4d128b33d41aa3c7109d\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"722ecd11e988429c84721a72f17ae400\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Community Video",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"0ae86a7fc8e640f0b73805466d8785e5\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"a31ef0b2398049acb450fd639b50e44a\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"8c28fd6681484e3aa240ed2dc90124fa\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Gameplay Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"46bfd18651094e6db911993b6f5378b5\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"70c9faee437c48b5ac08f6834b99afd3\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"aa71cbb2b328479b9644905ff366db57\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Multiplayer Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2015-12-05T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Vlambeer"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Vlambeer"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "RPG",
+                        "ROGUE_LITE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_1-1920x1080-9f5ca5696200214065e984bf5d7106063d5a46b0.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_2-1920x1080-844c291a0e20c44894387f68327efb289ec5519b.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_3-1920x1080-0315449399730dc46045fb752a09fdba42485363.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_4-1920x1080-6c0191059d52b132aa3e896135e1c7f34b7ab3e4.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_5-1920x1080-aa45b4ab2e7ff4d4d5b2eed0771c4c71ab85f05d.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_6-1920x1080-b9e562f795b63f7e75a702686ce58ea5aa804a56.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_7-1920x1080-09de7f783f2967a64929b033e1bf5b2f3ba8cf46.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_8-1920x1080-6949505a3de048216bb51af54e7f8e2e1ac95289.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_9-1920x1080-b758df1fb9bd5bfedef16d4bd8d855eba1d47ff7.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_10-1920x1080-570c91aaed8ff31c9695dc313c5a5699c0a06e60.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        }
+                    ]
+                },
+                "navTitle": "Nuclear Throne"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-a9e07291206c06cc8e121775891626e25c99199c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_3-1920x1080-0315449399730dc46045fb752a09fdba42485363.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_6-1920x1080-b9e562f795b63f7e75a702686ce58ea5aa804a56.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_10-1920x1080-570c91aaed8ff31c9695dc313c5a5699c0a06e60.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_12-390x450-813b1ae6cad0387fe59405148e3ba33b9132d348.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-234b2e519ef1b966f5148cd6e6f00612f132aeb3.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_7-1920x1080-09de7f783f2967a64929b033e1bf5b2f3ba8cf46.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_L1_LibraryPromo-2560x1440-ccf5f6671feabdfe2946cb2c7b085573436822ce.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_9-1920x1080-b758df1fb9bd5bfedef16d4bd8d855eba1d47ff7.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FEGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-1570ffca9e9e8bb845a671999fcfce658b56e932.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2FESRB_E10_NuclearThrone-842x404-4ed981a96a4706d01344706b247443be148f6e99.JPG",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_5-1920x1080-aa45b4ab2e7ff4d4d5b2eed0771c4c71ab85f05d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_4-1920x1080-6c0191059d52b132aa3e896135e1c7f34b7ab3e4.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fpegi_7-425x520-f3a704c6522957ca395c8db342fa6abf566892da.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_8-1920x1080-6949505a3de048216bb51af54e7f8e2e1ac95289.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_1-1920x1080-9f5ca5696200214065e984bf5d7106063d5a46b0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fnuclear-throne%2Fhome%2Fscreen_2-1920x1080-844c291a0e20c44894387f68327efb289ec5519b.png"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2489,
+            "originalPrice": 2489,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 24,89",
+                "discountPrice": "R$ 24,89",
+                "intermediatePrice": "R$ 24,89"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Nuclear Throne",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "07/11/2019 - 14/11/2019",
+    "rating_polls": {
+        "average_rating": 4.78,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "742f165671424189aecdfdadf5ea9755",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

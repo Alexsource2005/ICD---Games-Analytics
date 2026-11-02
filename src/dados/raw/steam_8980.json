@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 6999,
-                "final": 6999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 69,99"
+                "final": 699,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 69,99",
+                "final_formatted": "R$ 6,99"
             },
             "packages": [
                 919687,
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 212504,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Borderlands GOTY Enhanced - R$ 69,99",
+                            "option_text": "Borderlands GOTY Enhanced - <span class=\"discount_original_price\">R$ 69,99</span> R$ 6,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -170,7 +170,7 @@
                 }
             ],
             "recommendations": {
-                "total": 21110
+                "total": 21113
             },
             "achievements": {
                 "total": 80,
@@ -316,40 +316,47 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 16767,
-                    "total_negative": 2185,
-                    "total_reviews": 18952
+                    "total_positive": 16768,
+                    "total_negative": 2189,
+                    "total_reviews": 18957
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237624613",
+                        "recommendationid": "238922224",
                         "author": {
-                            "steamid": "76561197970787776",
-                            "num_reviews": 3,
-                            "playtime_forever": 105713,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 105643,
-                            "last_played": 1791904837
+                            "steamid": "76561198375223215",
+                            "num_reviews": 64,
+                            "playtime_forever": 1039,
+                            "playtime_last_two_weeks": 8,
+                            "playtime_at_review": 1031,
+                            "last_played": 1793390652
                         },
                         "language": "english",
-                        "review": "Love this game, played since 2010 and keep going back to it as a 'relaxing' experience in a psychotic world with a brilliant comic book asthetic.  Love the relative simplicity and purity of the game and controls, especially as I have limited dexterity in my left hand.  My favorite mechanic is the game allows you to speciialize in specific weapon types which can give an edge in the tougher boss fights, this is sadly missing from the later games. Still even after all this time I can  find weapon boxes in odd locations. For me the definitive looter/shooter",
-                        "timestamp_created": 1791897130,
-                        "timestamp_updated": 1791897130,
-                        "voted_up": true,
-                        "votes_up": 3,
+                        "review": "amazing game, but they made it into spyware, so, yeah, no.",
+                        "timestamp_created": 1793370732,
+                        "timestamp_updated": 1793370732,
+                        "voted_up": false,
+                        "votes_up": 2,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5239284038543701,
+                        "weighted_vote_score": 0.5419847369194031,
                         "comment_count": 0,
-                        "steam_purchase": false,
+                        "steam_purchase": true,
                         "received_for_free": false,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 7 5800X 8-Core Processor             ",
+                            "adapter_description": "NVIDIA GeForce RTX 3060",
+                            "system_ram": "16310",
+                            "vram_size": 12115
+                        }
                     }
                 ],
-                "cursor": "AoIFQFZhX0AAAAB10ruKBw==",
+                "cursor": "AoIFQFZKQmAAAABwn7WPBw==",
                 "day_range_used": 30,
-                "total_matching": 30
+                "total_matching": 35
             },
             "steamspy_tags": [
                 "Looter Shooter",

@@ -736,5 +736,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "27/10/2022 - 03/11/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 8099,
+            "originalPrice": 8099,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 80,99",
+                "discountPrice": "R$ 80,99",
+                "intermediatePrice": "R$ 80,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Saturnalia",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "27/10/2022 - 03/11/2022",
+    "rating_polls": {
+        "average_rating": 4.25,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "c749cd78da34408d8434a46271f4bb79",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

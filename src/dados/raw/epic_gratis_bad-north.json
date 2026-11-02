@@ -1,0 +1,559 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#c59c6e"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#c59c6e"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "aa5ef9d2f8394731a034504c562e292c",
+    "_title": "bad-north",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "Bad North",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/bad-north",
+    "_slug": "bad-north",
+    "_activeDate": "2019-11-09T03:30:56.304Z",
+    "lastModified": "2019-11-09T03:31:43.976Z",
+    "_locale": "pt-BR",
+    "_id": "b734946e-0e59-419e-92f1-77ced8acd780",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#c59c6e"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#c59c6e"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "aa5ef9d2f8394731a034504c562e292c",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#c59c6e",
+                "customPrimaryBg": "#69f2c8",
+                "accentColor": "#c59c6e",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "Bad North",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/bad-north/home",
+            "_slug": "home",
+            "_activeDate": "2019-11-09T03:31:56.733Z",
+            "lastModified": "2024-01-24T15:22:04.280Z",
+            "_locale": "pt-BR",
+            "_id": "65095e68-a972-4468-8916-ae4e7c197928",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "aa5ef9d2f8394731a034504c562e292c",
+                "id": "ac5e4e5e2f024e2f9831baac251e0d46",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "627e807166bf409c8a4a70639a6fe448",
+                "appName": "Chives",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "aa5ef9d2f8394731a034504c562e292c"
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/badnorthgame?lang=en",
+                    "linkTwitch": "https://www.twitch.tv/rawfurygames",
+                    "linkFacebook": "https://www.facebook.com/BadNorthGame",
+                    "linkYoutube": "https://www.youtube.com/channel/UCbyFV2lioP9a1YlUC4gm6xA",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/rawfury ",
+                    "title": "Siga Bad North",
+                    "linkInstagram": "https://www.instagram.com/rawfury/?hl=en"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, italiano, alemão, espanhol (Espanha), japonês, português (Brasil), russo, chinês simplificado, chinês tradicional, coreano, turco"
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 12 anos"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: 12 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FESRB_BadNorth-842x404-3cd12fd6e4fdff4736e7ffe7784a15a83368a019.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 14 anos"
+                        }
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7 ou superior",
+                                    "recommended": "Windows 7 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "AMD Athlon X4 5350, Intel Core i3-2100T ou equivalente",
+                                    "recommended": "AMD Athlon x4 605e, Intel Celeron G1610 ou equivalente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo:",
+                                    "minimum": "GeForce GTX 480M, Radeon HD 6790 ou equivalente",
+                                    "recommended": "Radeon HD 7850, GeForce GTX 470 ou equivalente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 11",
+                                    "recommended": "Versão 11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "200 MB de espaço disponível",
+                                    "recommended": "200 MB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de som",
+                                    "minimum": "Sim",
+                                    "recommended": "Sim"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac - Coming Soon",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "OS X 10.8 ou superior",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 de 2,5 GHz ou equivalente",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "ATI Radeon HD 5750 1 GB",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "200 MB de espaço disponível",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de som",
+                                    "minimum": "Sim",
+                                    "recommended": "A definir"
+                                }
+                            ]
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© Copyright 2018 Plausible Concept. Developed by Plausible Concept. Published by Raw Fury AB. All Rights Reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://rawfury.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Raw Fury Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/badnorth-1200x1600-dd71d259af80.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Plausible Concept",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Raw Fury",
+                    "description": "![Bad North Image](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fabout-1024x865-434a624a315470d8d4e98226e0bdc16ccb3e4b5b.png)\n",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FEGS_PLAUSIBLECONCEPT_BADNORTH_IC1_DESCRIPTION-2048x717-86730b31405c1a4bb4c4b68b8734463fca6377d6.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/badnorth-1200x1600-dd71d259af80.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FEGS_PLAUSIBLE_CONCEPT_BAD_NORTH_N1_DESCRIPTION-2560x1440-ec2af407a3b0816796e30d3655e7cb42f335fda1.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n   \"en-US\": [\n       {\n           \"recipe\": \"video-fmp4-noaudio\",\n           \"mediaRefId\": \"f2a23653405b4656a2ac982a9650dd24\"\n       },\n       {\n           \"recipe\": \"video-hls-noaudio\",\n           \"mediaRefId\": \"92b4fe5abf1145cfbee1694d230e9f71\"\n       },\n       {\n           \"recipe\": \"video-webm-noaudio\",\n           \"mediaRefId\": \"bc559deb0dae4fbb8a379a17578db7b0\"\n       }\n   ]\n}",
+                                "accentColor": "#c59c6e",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "title": "Bad North",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"d1a57bcdc78649dbb9cddb325f3b44f3\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"377c982ce9c0486baf4fe6a315fcae2e\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"fcb5eda9ec744f7691fd3ce8a5315946\"\n        }\n    ]\n}",
+                                "accentColor": "#c59c6e",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Vídeo de Bad North",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FEGS_PLAUSIBLE_CONCEPT_BAD_NORTH_N1_DESCRIPTION-2560x1440-ec2af407a3b0816796e30d3655e7cb42f335fda1.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "experiences": {
+                    "_type": "Epic Store Experience"
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2018-11-16T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Raw Fury"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Plausible Concept"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "STRATEGY",
+                        "ACTION",
+                        "ROGUE_LITE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    },
+                    "description": "Your home is under attack. The king is dead at the hands of Viking invaders. Hope is a distant glimmer in the fog, fading fast with every passing moment. As you rise to take your father’s place as ruler, it will fall to you to stage your defenses. But make no mistake – this is no fight for victory, but a desperate grasp for survival.",
+                    "title": "Bad North:  Jotunn Edition"
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_3688deb4c6d5fb479068b924f086412ff2947f68-1920x1080-b79ccc2bb6b3a1e208a8fdda392cd05580f05f1a.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_434a3f02cc4fb77b80330d006e30e1402d296f3d-1920x1080-3a476d9c7ef53e176f12c5540ee20be84acdbaa6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_66e84cd65125d74fcad538bdc4c1585be8a957f1-1920x1080-d8b987f4b1fc844a2c9f8ea328292f2af35ba454.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_7378fcbe0eeb7194b5a8a218c1c49b8f8056b968-1920x1080-fe426b60209295fe3fb346314d4729868f2ed92d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_87ffd543439fb835b2ffac3ccec014fdd0c3e260-1920x1080-a5def92c3d3f3402e5a253916d1ce0c4b2266b38.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_8c3675db0a388f3717e530c93d0db27f526a5c0a-1920x1080-2155d5468365270c321f8ac01e2c01b59cf47da3.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_a5134bf18db57b7cf5da48cac3cd12835b422196-1920x1080-db6c3b37d4b3f14ccddd886403faeb4ea6a19f08.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_b179b92cccaba750e3739b9b02e44d096e3f9296-1920x1080-9e487482953883ff4bfa4c70b303ae82a04b2091.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_b5a404967447ea3fc70f833f153ed23057a9909f-1920x1080-ba65ca0dcf03385e30ef4e45b060ac608e7e4953.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_c66c6701fcd0b16a9ab800846e346b452c9dff44-1920x1080-39a1a58bfb413656d715e24c867f9dbabbfdf580.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_e3793f5359c1f0b42cd8a2fc9c539e8c76b4e4a7-1920x1080-ea4446fcae0f5c8060e013866bb4dd9824501c4c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_f338e5cbc869fd9cd529958627a9b8f98083fa07-1918x1080-24b5433cd54dc6168ae8ab4b243310415c75fe41.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 8
+                        }
+                    ]
+                },
+                "navTitle": "Bad North"
+            },
+            "overwriteMapping": false,
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_3688deb4c6d5fb479068b924f086412ff2947f68-1920x1080-b79ccc2bb6b3a1e208a8fdda392cd05580f05f1a.jpg",
+                "https://cdn2.unrealengine.com/badnorth-1200x1600-dd71d259af80.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_b179b92cccaba750e3739b9b02e44d096e3f9296-1920x1080-9e487482953883ff4bfa4c70b303ae82a04b2091.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_f338e5cbc869fd9cd529958627a9b8f98083fa07-1918x1080-24b5433cd54dc6168ae8ab4b243310415c75fe41.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_7378fcbe0eeb7194b5a8a218c1c49b8f8056b968-1920x1080-fe426b60209295fe3fb346314d4729868f2ed92d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_c66c6701fcd0b16a9ab800846e346b452c9dff44-1920x1080-39a1a58bfb413656d715e24c867f9dbabbfdf580.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_8c3675db0a388f3717e530c93d0db27f526a5c0a-1920x1080-2155d5468365270c321f8ac01e2c01b59cf47da3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_a5134bf18db57b7cf5da48cac3cd12835b422196-1920x1080-db6c3b37d4b3f14ccddd886403faeb4ea6a19f08.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_434a3f02cc4fb77b80330d006e30e1402d296f3d-1920x1080-3a476d9c7ef53e176f12c5540ee20be84acdbaa6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_87ffd543439fb835b2ffac3ccec014fdd0c3e260-1920x1080-a5def92c3d3f3402e5a253916d1ce0c4b2266b38.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2F12_V-210x117-bb02354b96c96647cfdafb4beefb986b137b00a8.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_b5a404967447ea3fc70f833f153ed23057a9909f-1920x1080-ba65ca0dcf03385e30ef4e45b060ac608e7e4953.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FEGS_PLAUSIBLE_CONCEPT_BAD_NORTH_N1_DESCRIPTION-2560x1440-ec2af407a3b0816796e30d3655e7cb42f335fda1.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_e3793f5359c1f0b42cd8a2fc9c539e8c76b4e4a7-1920x1080-ea4446fcae0f5c8060e013866bb4dd9824501c4c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FEGS_PLAUSIBLECONCEPT_BADNORTH_IC1_DESCRIPTION-2048x717-86730b31405c1a4bb4c4b68b8734463fca6377d6.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2Fss_66e84cd65125d74fcad538bdc4c1585be8a957f1-1920x1080-d8b987f4b1fc844a2c9f8ea328292f2af35ba454.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fbad-north%2Fhome%2FESRB_BadNorth-842x404-3cd12fd6e4fdff4736e7ffe7784a15a83368a019.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2899,
+            "originalPrice": 2899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 28,99",
+                "discountPrice": "R$ 28,99",
+                "intermediatePrice": "R$ 28,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Bad North",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "21/11/2019 - 29/11/2019",
+    "rating_polls": {
+        "average_rating": 4.7,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "aa5ef9d2f8394731a034504c562e292c",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

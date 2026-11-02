@@ -1,0 +1,646 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "teal",
+            "accent": "#a738c2"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "teal",
+            "accent": "#a738c2"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+    "_title": "towerfall_ascension",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "TowerFall Ascension ",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/towerfall-ascension",
+    "_slug": "towerfall-ascension",
+    "_activeDate": "2019-12-13T14:07:55.186Z",
+    "lastModified": "2019-12-16T21:02:20.244Z",
+    "_locale": "pt-BR",
+    "_id": "68575a4f-df8f-46be-8aab-449388b48fb1",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "teal",
+                    "accent": "#a738c2"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "teal",
+                    "accent": "#a738c2"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#a738c2",
+                "customPrimaryBg": "#71a4d3",
+                "accentColor": "#a738c2",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "TowerFall Ascension ",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/towerfall-ascension/home",
+            "_slug": "home",
+            "_activeDate": "2019-12-13T14:14:06.540Z",
+            "lastModified": "2019-12-16T22:49:18.684Z",
+            "_locale": "pt-BR",
+            "_id": "9b9a8baf-33fe-47e3-9979-d399e71b2be4",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+                "id": "14f7d8fdd5a44768b8aad40c6a5ae018",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "b1fb7248adec4fa692e265442ccf1066",
+                "appName": "Bichir",
+                "_type": "Diesel Product Item",
+                "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Snow Leopard 10.6.8, 32/64 bits"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 M380"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "OpenGL 3.0+ (versão 2.1 com extensões ARB aceitável)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB de espaço disponível"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows Vista ou mais recente"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3 M380"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 4000"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "Versão 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FAll_V-210x117-044680db93e308928e8cb69e8dba49d021ffb065.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: livre"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_07_Rating-208x254-01c24f9b887849ab70f9f359b4bbc64a56998cd5.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 7 anos"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FRiME_ESRB_E10_FantasyViolence-842x404-5d43ac8fcb1ede1328d8868077cb62c8a66f582b.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 10 anos "
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "TowerFall © 2013 Matt Thorson (Matt Makes Games, Inc.)",
+                    "privacyPolicyLink": {
+                        "src": "http://www.towerfall-game.com/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Matt Makes Games"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1C_00-1920x1080-c01cc4ea2c64c1bba91c7f1924aae72e8d82446b.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Matt Makes Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Matt Makes Games",
+                    "description": "TowerFall Ascension é a versão definitiva do famoso jogo de combate de arquearia. Inspirado em clássicos da era de ouro dos jogos multijogador, este é um jogo para 4 jogadores, focado em partidas intensas e engraçadas. A mecânica central é simples e acessível, mas difícil de dominar, e o combate é brutal. Pegue baús de tesouro para conseguir itens especiais que mudam o jogo, domine a arte de pegar flechas no ar ou caia sobre seus inimigos para dominá-los. A melhor forma de jogar TowerFall é competindo com os amigos, de pernas cruzadas no chão, a uma distância suficiente para que possam se bater.\n\nA novidade de Ascension é o modo cooperativo de missão para 1 ou 2 jogadores. Os jogadores trabalham juntos, combatendo uma variedade de monstros e arqueiros inimigos em todo o terreno de TowerFall. Essa é uma nova aventura que você pode explorar quando não tiver mais amigos à disposição para enfrentar.\n\nOs recursos do TowerFall Ascension incluem:\n\n* Modo cooperativo de missão para 1 ou 2 jogadores \n* 50 arenas Versus adicionais, chegando a um total de 120 mapas exclusivos\n* Mais itens especiais que mudam o jogo, como flechas perfurantes que atravessam paredes\n* 4 novos arqueiros desbloqueáveis e jogáveis, chegando ao total de 8\n* Uma enorme lista de variantes para personalizar suas partidas - ao todo, são 75 formas de combiná-las\n* Muitos segredos e surpresas escondidas para descobrir com seus amigos \n\n# O TowerFall Ascension inclui a expansão Dark World! \n\n\nPortais enigmáticos se abrem para quatro novos campos de batalha na realidade alternativa e distorcida de TowerFall. Lute a bordo do lendário navio fantasma The Amaranth, pelos pântanos escuros de Dreadwood ou pelos salões em ruínas de Darkfang. Entre no Cataclismo, um vórtice que tudo consome, onde as fases mudam e apresentam layouts exclusivos a cada partida. Elimine seus amigos com novos tipos e variantes de flechas, capazes de mudar o jogo.\n\nForme uma equipe para enfrentar o novo modo Dark World - uma campanha cooperativa para até 4 jogadores. Lute até chegar a monstros chefões horrendos e enfrente o desafio brutal do novo modo de dificuldade Lendária. Expanda seu elenco de lutadores jogáveis com o pirata morto-vivo Vainglorious Ghoul e mais 9 arqueiros.\n\nDark World também traz uma poderosa ferramenta de criação de fases, permitindo aos jogadores criar e compartilhar novas torres Versus. \n",
+                    "shortDescription": "TowerFall Ascension é a versão definitiva do famoso jogo de combate de arquearia. Inspirado em clássicos da era de ouro dos jogos multijogador, este é um jogo para 4 jogadores, focado em partidas intensas e engraçadas.",
+                    "title": "TowerFall Ascension",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_IC3-200x200-a850153611f5a62e5014867aaafe65f923aab288.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FGame-Logo-2201x1459-f09b866976965d7f1ac28883873ba4983583752e.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_S2-860x1148-633cb315cb2e5d27f867a7eff5394e8faf601102.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1C_00-1920x1080-c01cc4ea2c64c1bba91c7f1924aae72e8d82446b.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_S1-2560x1440-d92cd82960e10549accc0e09a8af668feb129761.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"7005470b30c045289a38226aea24ebb2\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"03d06860d3a6467f988c3e3a70ceec60\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"7b34bb4bc2f24e18a7ca37491037770a\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Trailer de TowerFall Acension",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F1-1280x720-463b5cc923e2c6475229babdeab5978669d40b04.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F2-1280x720-13e643473a33e72741d59f6cefa47d103ec92946.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F3-1280x720-2493696851ed22b7cd64363efb82fb4331351e95.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F4-1280x720-74e8a97646cde5e7e45d81198d96f6f6658b7184.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F5-1280x720-d214935e45a17651a3e0f6995a978ad67d8af365.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F6-1280x720-d0591fa5150078580ecf884ed366d473654398f2.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F7-1280x720-5056d14c0a4962a58de6a9f1628be390cf1495f4.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F8-1280x720-a7a38fed62a5c6bb58069b0e528268c52302fa8a.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F9-1280x720-1511729bfb3e572368291c9fb417e8b73a5c607c.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F10-1280x720-60d7a187cc3d3383eb7f69a71e68a054d03b5bc3.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2019-12-20T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Matt Makes Games"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Matt Makes Games"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "MULTIPLAYER",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_01-1920x1080-36c2004a6f2fe8f0a5ff1bfe75f3e64f2bc7abaa.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_02-1920x1080-827648c880a0a3b72480ffc3f1d5ccc1bf768297.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_03-1920x1080-78c17fc9f6ce355905e944dad49c314b57e75b15.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_04-1920x1080-52fbd3c6635435c47e1758f5df85e19390d6a49d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_05-1920x1080-4d634927a8f52a32114a0eca33ab415ea97966d5.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_06-1920x1080-b0698fdf17ebbd841b5f948ec572432b13efea44.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_07-1920x1080-17e558d59c0ace3e7fcbf79435912f4158bbacf9.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_08-1920x1080-8e9e9c0f32f2765c4e5307eb566254036693e642.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_09-1920x1080-3e8234b90718e5fbe0d8b0218b018fe152093901.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_10-1920x1080-ae268e3eb0090fea21a086fdc7b08bbb13243695.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        }
+                    ]
+                },
+                "navTitle": "TowerFall Ascension "
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_01-1920x1080-36c2004a6f2fe8f0a5ff1bfe75f3e64f2bc7abaa.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_07_Rating-208x254-01c24f9b887849ab70f9f359b4bbc64a56998cd5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FRiME_ESRB_E10_FantasyViolence-842x404-5d43ac8fcb1ede1328d8868077cb62c8a66f582b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F6-1280x720-d0591fa5150078580ecf884ed366d473654398f2.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F9-1280x720-1511729bfb3e572368291c9fb417e8b73a5c607c.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F5-1280x720-d214935e45a17651a3e0f6995a978ad67d8af365.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FAll_V-210x117-044680db93e308928e8cb69e8dba49d021ffb065.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_IC3-200x200-a850153611f5a62e5014867aaafe65f923aab288.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_08-1920x1080-8e9e9c0f32f2765c4e5307eb566254036693e642.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F2-1280x720-13e643473a33e72741d59f6cefa47d103ec92946.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1C_00-1920x1080-c01cc4ea2c64c1bba91c7f1924aae72e8d82446b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F4-1280x720-74e8a97646cde5e7e45d81198d96f6f6658b7184.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_10-1920x1080-ae268e3eb0090fea21a086fdc7b08bbb13243695.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_07-1920x1080-17e558d59c0ace3e7fcbf79435912f4158bbacf9.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F1-1280x720-463b5cc923e2c6475229babdeab5978669d40b04.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F10-1280x720-60d7a187cc3d3383eb7f69a71e68a054d03b5bc3.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_04-1920x1080-52fbd3c6635435c47e1758f5df85e19390d6a49d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F8-1280x720-a7a38fed62a5c6bb58069b0e528268c52302fa8a.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_S2-860x1148-633cb315cb2e5d27f867a7eff5394e8faf601102.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_02-1920x1080-827648c880a0a3b72480ffc3f1d5ccc1bf768297.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_6-390x450-c061666ea1c8af69a88276648a8e989339cbaa5d.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_06-1920x1080-b0698fdf17ebbd841b5f948ec572432b13efea44.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_09-1920x1080-3e8234b90718e5fbe0d8b0218b018fe152093901.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FGame-Logo-2201x1459-f09b866976965d7f1ac28883873ba4983583752e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F7-1280x720-5056d14c0a4962a58de6a9f1628be390cf1495f4.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_S1-2560x1440-d92cd82960e10549accc0e09a8af668feb129761.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_05-1920x1080-4d634927a8f52a32114a0eca33ab415ea97966d5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2Fhome%2FEGS_MattMakesGames_TowerFall_G1A_03-1920x1080-78c17fc9f6ce355905e944dad49c314b57e75b15.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ftowerfall-ascension%2F3-1280x720-2493696851ed22b7cd64363efb82fb4331351e95.png"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "TowerFall Ascension",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "20/12/2019 - 21/12/2019",
+    "rating_polls": {
+        "average_rating": 4.83,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "8e66d3f552b448afb1889c32ac855fc9",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

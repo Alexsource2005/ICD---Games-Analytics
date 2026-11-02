@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1379,
-                "final": 262,
-                "discount_percent": 81,
-                "initial_formatted": "R$ 13,79",
-                "final_formatted": "R$ 2,62"
+                "final": 1379,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 13,79"
             },
             "packages": [
                 141097
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 141097,
-                            "percent_savings_text": " -81%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Just Ignore Them - <span class=\"discount_original_price\">R$ 13,79</span> R$ 2,62",
+                            "option_text": "Just Ignore Them - R$ 13,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 262
+                            "price_in_cents_with_discount": 1379
                         }
                     ]
                 }
@@ -166,7 +166,7 @@
                 }
             ],
             "recommendations": {
-                "total": 693
+                "total": 695
             },
             "achievements": {
                 "total": 33,
@@ -308,29 +308,29 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 332,
-                    "total_negative": 196,
-                    "total_reviews": 528
+                    "total_positive": 334,
+                    "total_negative": 197,
+                    "total_reviews": 531
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236736008",
+                        "recommendationid": "238561191",
                         "author": {
-                            "steamid": "76561198045468592",
-                            "num_reviews": 1654,
-                            "playtime_forever": 390,
-                            "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 390,
-                            "last_played": 1790975095
+                            "steamid": "76561198078403549",
+                            "num_reviews": 908,
+                            "playtime_forever": 84,
+                            "playtime_last_two_weeks": 81,
+                            "playtime_at_review": 84,
+                            "last_played": 1792938245
                         },
                         "language": "english",
-                        "review": "Just Ignore Them felt broken, and even when it was working, I found it boring. The problems made an already unenjoyable game more frustrating. Honestly, I’d just ignore this one.",
-                        "timestamp_created": 1790981302,
-                        "timestamp_updated": 1790981302,
+                        "review": "Although I finished the game, it's nowhere near good enough to be recommended, even considering the base price. The horror aspect alone isn't half bad, but both the story and characters are ridiculous. Meanwhile, the point-and-click puzzles contain some nonsensical solutions (such as combining a blue card and a yellow card in the inventory to get a green card). The remake version also didn't run at all on my Linux device.\n\nYou may as well as ignore this game.",
+                        "timestamp_created": 1792952339,
+                        "timestamp_updated": 1792952339,
                         "voted_up": false,
-                        "votes_up": 4,
+                        "votes_up": 1,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5817490816116333,
+                        "weighted_vote_score": 0.5205479264259338,
                         "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
@@ -339,7 +339,7 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFYXXIAAAAB44ImHBw==",
+                "cursor": "AoIFQFZlsuAAAAB3+oSOBw==",
                 "day_range_used": 30,
                 "total_matching": 13
             },

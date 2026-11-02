@@ -485,5 +485,39 @@
             },
             "type": "productHome"
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Crystal Crisis",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": null,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "5493b8894a4b4f49984240f298a8ef06",
+        "page_slug": "crystal-crisis",
+        "source": "Epic Games Store RatingsPolls",
+        "status": "nota_nao_disponivel"
+    }
 }

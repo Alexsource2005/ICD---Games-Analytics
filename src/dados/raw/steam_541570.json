@@ -20,9 +20,9 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 10150,
-                    "total_negative": 271,
-                    "total_reviews": 10421
+                    "total_positive": 10174,
+                    "total_negative": 272,
+                    "total_reviews": 10446
                 },
                 "reviews": [
                     {
@@ -40,9 +40,9 @@
                         "timestamp_created": 1792010840,
                         "timestamp_updated": 1792010840,
                         "voted_up": true,
-                        "votes_up": 14,
-                        "votes_funny": 4,
-                        "weighted_vote_score": 0.6726422309875488,
+                        "votes_up": 23,
+                        "votes_funny": 8,
+                        "weighted_vote_score": 0.7399673461914062,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -51,9 +51,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWjBKAAAAB0ye6KBw==",
+                "cursor": "AoIFQFVM16AAAAB0ye6KBw==",
                 "day_range_used": 30,
-                "total_matching": 133
+                "total_matching": 135
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/header.jpg?t=1787576437",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/capsule_231x87.jpg?t=1787576437",
@@ -78,10 +78,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 1049,
-                "final": 524,
-                "discount_percent": 50,
-                "initial_formatted": "R$ 10,49",
-                "final_formatted": "R$ 5,24"
+                "final": 1049,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 10,49"
             },
             "packages": [
                 133180
@@ -98,13 +98,13 @@
                     "subs": [
                         {
                             "packageid": 133180,
-                            "percent_savings_text": " -50%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Sally Face, Episode One: Strange Neighbors - <span class=\"discount_original_price\">R$ 10,49</span> R$ 5,24",
+                            "option_text": "Sally Face, Episode One: Strange Neighbors - R$ 10,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 524
+                            "price_in_cents_with_discount": 1049
                         }
                     ]
                 }
@@ -338,7 +338,7 @@
                 }
             ],
             "recommendations": {
-                "total": 28136
+                "total": 28237
             },
             "achievements": {
                 "total": 35,

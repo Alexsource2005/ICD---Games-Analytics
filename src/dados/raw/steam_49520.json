@@ -22,9 +22,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 161952,
-                    "total_negative": 17411,
-                    "total_reviews": 179363
+                    "total_positive": 161980,
+                    "total_negative": 17416,
+                    "total_reviews": 179396
                 },
                 "reviews": [
                     {
@@ -42,9 +42,9 @@
                         "timestamp_created": 1791476299,
                         "timestamp_updated": 1791476299,
                         "voted_up": false,
-                        "votes_up": 45,
+                        "votes_up": 64,
                         "votes_funny": 6,
-                        "weighted_vote_score": 0.6723573207855225,
+                        "weighted_vote_score": 0.712051510810852,
                         "comment_count": 2,
                         "steam_purchase": false,
                         "received_for_free": false,
@@ -53,9 +53,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFWjYgAAAAB6sPSIBw==",
+                "cursor": "AoIFQFVp/oAAAAB6sPSIBw==",
                 "day_range_used": 30,
-                "total_matching": 414
+                "total_matching": 413
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1793288352",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1793288352",
@@ -87,10 +87,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4499,
-                "final": 4499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 44,99"
+                "final": 449,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 44,99",
+                "final_formatted": "R$ 4,49"
             },
             "packages": [
                 16724,
@@ -109,13 +109,13 @@
                     "subs": [
                         {
                             "packageid": 16724,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -90%",
                             "percent_savings": 0,
-                            "option_text": "Borderlands 2 - R$ 44,99",
+                            "option_text": "Borderlands 2 - <span class=\"discount_original_price\">R$ 44,99</span> R$ 4,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4499
+                            "price_in_cents_with_discount": 449
                         },
                         {
                             "packageid": 32848,
@@ -348,7 +348,7 @@
                 }
             ],
             "recommendations": {
-                "total": 215894
+                "total": 215919
             },
             "achievements": {
                 "total": 75,

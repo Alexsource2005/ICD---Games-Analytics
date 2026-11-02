@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3299,
-                "final": 1385,
-                "discount_percent": 58,
-                "initial_formatted": "R$ 32,99",
-                "final_formatted": "R$ 13,85"
+                "final": 3299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 32,99"
             },
             "packages": [
                 16589,
@@ -57,23 +57,23 @@
                     "subs": [
                         {
                             "packageid": 16589,
-                            "percent_savings_text": " -58%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "FTL: Faster Than Light - <span class=\"discount_original_price\">R$ 32,99</span> R$ 13,85",
+                            "option_text": "FTL: Faster Than Light - R$ 32,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1385
+                            "price_in_cents_with_discount": 3299
                         },
                         {
                             "packageid": 16705,
-                            "percent_savings_text": " -58%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "FTL: Faster Than Light + Soundtrack - <span class=\"discount_original_price\">R$ 44,46</span> R$ 18,67",
+                            "option_text": "FTL: Faster Than Light + Soundtrack - R$ 44,46",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1867
+                            "price_in_cents_with_discount": 4446
                         }
                     ]
                 }
@@ -191,7 +191,7 @@
                 }
             ],
             "recommendations": {
-                "total": 63033
+                "total": 63065
             },
             "achievements": {
                 "total": 51,
@@ -331,11 +331,11 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 56887,
-                    "total_negative": 2644,
-                    "total_reviews": 59531
+                    "total_positive": 56914,
+                    "total_negative": 2645,
+                    "total_reviews": 59559
                 },
-                "total_matching": 177,
+                "total_matching": 175,
                 "day_range_used": 30
             },
             "steamspy_tags": [

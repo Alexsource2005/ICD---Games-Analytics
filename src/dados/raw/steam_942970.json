@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2300,
-                "final": 920,
-                "discount_percent": 60,
-                "initial_formatted": "R$ 23,00",
-                "final_formatted": "R$ 9,20"
+                "final": 2300,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 23,00"
             },
             "packages": [
                 306444
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 306444,
-                            "percent_savings_text": " -60%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Unheard - <span class=\"discount_original_price\">R$ 23,00</span> R$ 9,20",
+                            "option_text": "Unheard - R$ 23,00",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 920
+                            "price_in_cents_with_discount": 2300
                         }
                     ]
                 }
@@ -165,7 +165,7 @@
                 }
             ],
             "recommendations": {
-                "total": 31133
+                "total": 31153
             },
             "achievements": {
                 "total": 12,
@@ -299,16 +299,16 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2686,
+                    "total_positive": 2687,
                     "total_negative": 263,
-                    "total_reviews": 2949
+                    "total_reviews": 2950
                 },
                 "reviews": [
                     {
                         "recommendationid": "237367954",
                         "author": {
                             "steamid": "76561198158882541",
-                            "num_reviews": 18,
+                            "num_reviews": 20,
                             "playtime_forever": 106,
                             "playtime_last_two_weeks": 0,
                             "playtime_at_review": 106,

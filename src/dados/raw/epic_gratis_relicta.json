@@ -458,5 +458,48 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "20/01/2022 - 27/01/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 799,
+            "originalPrice": 7999,
+            "voucherDiscount": 0,
+            "discount": 7200,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 79,99",
+                "discountPrice": "R$ 7,99",
+                "intermediatePrice": "R$ 7,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "810c0cd90445403dbddb0526137ad9b7",
+                        "endDate": "2026-11-09T17:00:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Relicta",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "20/01/2022 - 27/01/2022",
+    "rating_polls": {
+        "average_rating": 4.1,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "d79920221de24b448e24516a7810804e",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

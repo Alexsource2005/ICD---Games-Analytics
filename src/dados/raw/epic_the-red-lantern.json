@@ -1,0 +1,729 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffffff"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "blue",
+            "accent": "#ffffff"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "65add98d18a64e2ead3b8f05c84cba94",
+    "_title": "the-red-lantern",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "regionBlock": "KR",
+    "_noIndex": false,
+    "productName": "The Red Lantern",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/the-red-lantern",
+    "_slug": "the-red-lantern",
+    "_activeDate": "2019-12-06T16:53:19.347Z",
+    "lastModified": "2019-12-06T16:58:14.027Z",
+    "_locale": "pt-BR",
+    "_id": "2933fd0e-190a-460b-ba87-07126af7f552",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffffff"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "blue",
+                    "accent": "#ffffff"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "65add98d18a64e2ead3b8f05c84cba94",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#ffffff",
+                "customPrimaryBg": "#040c31",
+                "accentColor": "#ffffff",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "regionBlock": "KR",
+            "_noIndex": false,
+            "productName": "The Red Lantern",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/the-red-lantern/home",
+            "_slug": "home",
+            "_activeDate": "2019-12-06T17:50:11.219Z",
+            "lastModified": "2020-10-22T13:42:23.784Z",
+            "_locale": "pt-BR",
+            "_id": "0eeae895-3b3e-47fa-92db-4e38113d5ba0",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "65add98d18a64e2ead3b8f05c84cba94",
+                "id": "8a1b0c496c5440cfa71ba276c75a8aa4",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "",
+                "appName": "",
+                "_type": "Diesel Product Item",
+                "namespace": "",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/timberlinegames",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga o The Red Lantern",
+                    "linkHomepage": "https://redlanterngame.com",
+                    "linkInstagram": "https://www.instagram.com/timberlinestudio"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/esrb-theredlantern-842x404-462085083.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TEEN"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: 16 anos"
+                        }
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 ou superior (64 bits)",
+                                    "recommended": "Windows 7 ou superior (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Haswell 2 cores / 4 threads @ 2.5Ghz or equivalent",
+                                    "recommended": "Intel Haswell 4 cores / 4 threads @ 3.2Ghz or equivalent"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória ",
+                                    "minimum": "4 GB RAM",
+                                    "recommended": "8 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "4gb",
+                                    "recommended": "4gb"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Nvidia 9600GT or equivalent",
+                                    "recommended": "Nvidia GTX 550 Ti or equivalent, 2GB VRAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "The Red Lantern ©2020 Timberline Studio, Inc. \"The Red Lantern\", \"Timberline\" and the Timberline logo are all brands of Timberline Studio, Inc. Developed by Timberline Studio, Inc., a member of the Kepler Interactive group. Published by Kepler Interactive Limited. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://kepler-interactive.com/pages/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Kepler Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S4-510x680-bcdf8b699106d4c26c7cb1af33a2880d5f55fa71.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Timberline Studio",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Kepler Interactive",
+                    "description": "The Red Lantern é um jogo de narrativa de sobrevivência em que você e sua equipe de 5 cães de trenó, perdidos na natureza, devem navegar por eventos dinâmicos na natureza selvagem do Alasca para encontrar o caminho de casa.  \n\nEscolha como deseja interagir com o mundo: você o enfrentará caçando tudo o que se move ou adotando uma abordagem mais cautelosa? Descubra centenas de eventos únicos enquanto você e seus cães exploram a natureza e encontram o seu novo lar. ",
+                    "shortDescription": "The Red Lantern é um jogo de narrativa de gerenciamento de recursos em que você e sua equipe de cinco cães de trenó devem sobreviver na natureza e encontrar o caminho de casa. Você joga como The Musher à medida que ela monta sua equipe de cães de trenó e constrói uma vida nova.",
+                    "title": "The Red Lantern",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_IC1-195x51-e187252afc2cb00efb622f22db3d6e9b052af16f.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S2-1280x1440-4ab6417554dab170e64cb88dfce8316a9d6699e7.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S1-2560x1440-238246116d2a8b832872768b4f35616e9ef6d108.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1c-00-1920x1080-312248124.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"a4b80df936a94ed5abe3c2aee3d18743\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"615fac1273954513a76f4b125e8b30ca\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"853013e4a3e54dc99debc28a021b659c\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "The Red Lantern",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-00-1920x1080-898679388.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S1-2560x1440-238246116d2a8b832872768b4f35616e9ef6d108.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"4da67b253e4f43c68a288d7a9049a5ec\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"0312d0c99a8d4bd6b9aa435540e33fd2\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"7b70666211db4e6f87af7d51ced388a3\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "accentColor": "",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "The Red Lantern Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_03-1920x1080-2ad0cd81bfb34e1d21501a2b904f3ac33cc3708e.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_05-1920x1080-9752305f96f64856d75924da0597029fe9fdc9c2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_02-1920x1080-a35e8830b9fa2845d63c3bc85b10017d1f4d8228.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_04-1920x1080-0a878fca00d36fbeeb6c85854449b88b1d751b31.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_06-1920x1080-d4d1abe7b4e6d300ad723d1f78f5dc8e9482bc2c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-08-1920x1080-312278594.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-09-1920x1080-312278697.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-10-1920x1080-312278379.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-11-1920x1080-312278645.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-12-1920x1080-312278466.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-13-1920x1080-312278564.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-14-1920x1080-312279146.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-15-1920x1080-312278998.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-16-1920x1080-312279181.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-00-1920x1080-898679388.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"734c32f4ae524a3da576ba712225e19a\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"0ff4d5450da64b96b161fb3b5dff2eeb\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"bb9e7495ebab4748aea07ddf4c2de638\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "The Red Lantern Launch Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2020-10-22T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Timberline Studio"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Timberline Studio"
+                    ],
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ADVENTURE",
+                        "INDIE",
+                        "NARRATION"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G1A_03-1920x1080-a35e8830b9fa2845d63c3bc85b10017d1f4d8228.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G1A_01-1920x1080-2ad0cd81bfb34e1d21501a2b904f3ac33cc3708e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_04-1920x1080-0a878fca00d36fbeeb6c85854449b88b1d751b31.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_05-1920x1080-9752305f96f64856d75924da0597029fe9fdc9c2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G1A_05-1920x1080-d4d1abe7b4e6d300ad723d1f78f5dc8e9482bc2c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_07-1920x1080-2e81411b582b6686d45f9e3a98a22cb4eb624549.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-06-1920x1080-019995752.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-07-1920x1080-019994176.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-08-1920x1080-019994007.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-09-1920x1080-019994055.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        }
+                    ]
+                },
+                "navTitle": "The Red Lantern"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G1A_03-1920x1080-a35e8830b9fa2845d63c3bc85b10017d1f4d8228.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-13-1920x1080-312278564.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-16-1920x1080-312279181.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-10-1920x1080-312278379.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-09-1920x1080-019994055.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S2-1280x1440-4ab6417554dab170e64cb88dfce8316a9d6699e7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G1A_05-1920x1080-d4d1abe7b4e6d300ad723d1f78f5dc8e9482bc2c.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-08-1920x1080-019994007.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-08-1920x1080-312278594.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_03-1920x1080-2ad0cd81bfb34e1d21501a2b904f3ac33cc3708e.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-09-1920x1080-312278697.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_IC1-195x51-e187252afc2cb00efb622f22db3d6e9b052af16f.png",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-06-1920x1080-019995752.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S4-510x680-bcdf8b699106d4c26c7cb1af33a2880d5f55fa71.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-14-1920x1080-312279146.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-12-1920x1080-312278466.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_16_Rating-208x254-260e2f725b922c9e644de01b8385d267024db917.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_06-1920x1080-d4d1abe7b4e6d300ad723d1f78f5dc8e9482bc2c.jpg",
+                "https://cdn2.unrealengine.com/esrb-theredlantern-842x404-462085083.png",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-11-1920x1080-312278645.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G1A_01-1920x1080-2ad0cd81bfb34e1d21501a2b904f3ac33cc3708e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_05-1920x1080-9752305f96f64856d75924da0597029fe9fdc9c2.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1c-00-1920x1080-312248124.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-15-1920x1080-312278998.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_04-1920x1080-0a878fca00d36fbeeb6c85854449b88b1d751b31.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_S1-2560x1440-238246116d2a8b832872768b4f35616e9ef6d108.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_07-1920x1080-2e81411b582b6686d45f9e3a98a22cb4eb624549.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g2-07-1920x1080-019994176.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-red-lantern%2Fhome%2FEGS_TimberlineStudio_TheRedLantern_G2_02-1920x1080-a35e8830b9fa2845d63c3bc85b10017d1f4d8228.jpg",
+                "https://cdn2.unrealengine.com/egs-theredlantern-timberlinestudio-g1a-00-1920x1080-898679388.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 4799,
+            "originalPrice": 4799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 47,99",
+                "discountPrice": "R$ 47,99",
+                "intermediatePrice": "R$ 47,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Red Lantern",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.61,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "65add98d18a64e2ead3b8f05c84cba94",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

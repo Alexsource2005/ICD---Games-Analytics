@@ -21,7 +21,7 @@
                     "total_negative": 434,
                     "total_reviews": 3530
                 },
-                "total_matching": 13,
+                "total_matching": 11,
                 "day_range_used": 30
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343860/header.jpg?t=1760995934",
@@ -50,10 +50,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 5999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 59,99"
+                "final": 1679,
+                "discount_percent": 72,
+                "initial_formatted": "R$ 59,99",
+                "final_formatted": "R$ 16,79"
             },
             "packages": [
                 58430
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 58430,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -72%",
                             "percent_savings": 0,
-                            "option_text": "Tacoma - R$ 59,99",
+                            "option_text": "Tacoma - <span class=\"discount_original_price\">R$ 59,99</span> R$ 16,79",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1679
                         }
                     ]
                 }

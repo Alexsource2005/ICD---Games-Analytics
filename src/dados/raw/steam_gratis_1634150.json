@@ -22,9 +22,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 2657,
-                    "total_negative": 212,
-                    "total_reviews": 2869
+                    "total_positive": 2660,
+                    "total_negative": 211,
+                    "total_reviews": 2871
                 },
                 "total_matching": 19,
                 "day_range_used": 30
@@ -59,10 +59,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 3899,
-                "final": 1949,
-                "discount_percent": 50,
-                "initial_formatted": "R$ 38,99",
-                "final_formatted": "R$ 19,49"
+                "final": 3899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 38,99"
             },
             "packages": [
                 580210
@@ -79,13 +79,13 @@
                     "subs": [
                         {
                             "packageid": 580210,
-                            "percent_savings_text": " -50%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Behind the Frame: The Finest Scenery - <span class=\"discount_original_price\">R$ 38,99</span> R$ 19,49",
+                            "option_text": "Behind the Frame: The Finest Scenery - R$ 38,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1949
+                            "price_in_cents_with_discount": 3899
                         }
                     ]
                 }
@@ -236,7 +236,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4996
+                "total": 5003
             },
             "achievements": {
                 "total": 19,

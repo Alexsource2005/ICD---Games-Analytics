@@ -19,16 +19,16 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1518,
+                    "total_positive": 1519,
                     "total_negative": 258,
-                    "total_reviews": 1776
+                    "total_reviews": 1777
                 },
                 "total_matching": 14,
                 "day_range_used": 30
             },
-            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/header.jpg?t=1791539928",
-            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/capsule_231x87.jpg?t=1791539928",
-            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/capsule_184x69.jpg?t=1791539928",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/header.jpg?t=1793643391",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/capsule_231x87.jpg?t=1793643391",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/capsule_184x69.jpg?t=1793643391",
             "website": "https://amanita-design.net/games/chuchel.html",
             "pc_requirements": {
                 "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7, 8, 10<br></li><li><strong>Processador:</strong> 2.3 GHz Dual Core<br></li><li><strong>Memória:</strong> 1 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Intel HD 4000<br></li><li><strong>Espaço no disco:</strong> Requer 1 GB de espaço livre<br></li><li><strong>Notas adicionais:</strong> Mouse recommended</li></ul>"
@@ -46,10 +46,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5499,
-                "final": 5499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 54,99"
+                "final": 1099,
+                "discount_percent": 80,
+                "initial_formatted": "R$ 54,99",
+                "final_formatted": "R$ 10,99"
             },
             "packages": [
                 205799
@@ -66,13 +66,13 @@
                     "subs": [
                         {
                             "packageid": 205799,
-                            "percent_savings_text": " ",
+                            "percent_savings_text": " -80%",
                             "percent_savings": 0,
-                            "option_text": "CHUCHEL - R$ 54,99",
+                            "option_text": "CHUCHEL - <span class=\"discount_original_price\">R$ 54,99</span> R$ 10,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5499
+                            "price_in_cents_with_discount": 1099
                         }
                     ]
                 }
@@ -125,53 +125,53 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_d1d2587b1d96e3b000aeaf9003fe57459e136978.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_d1d2587b1d96e3b000aeaf9003fe57459e136978.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_d1d2587b1d96e3b000aeaf9003fe57459e136978.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_d1d2587b1d96e3b000aeaf9003fe57459e136978.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_08ee9be87d7fc5d46fe6e631300988e3058107bc.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_08ee9be87d7fc5d46fe6e631300988e3058107bc.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_08ee9be87d7fc5d46fe6e631300988e3058107bc.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_08ee9be87d7fc5d46fe6e631300988e3058107bc.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_22aa3a26f34d04843eaeec75f4330c8db8d3f67b.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_22aa3a26f34d04843eaeec75f4330c8db8d3f67b.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_22aa3a26f34d04843eaeec75f4330c8db8d3f67b.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_22aa3a26f34d04843eaeec75f4330c8db8d3f67b.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_2125a9cbf3c9d2c816228ecc06cd107ef4e5931c.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_2125a9cbf3c9d2c816228ecc06cd107ef4e5931c.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_2125a9cbf3c9d2c816228ecc06cd107ef4e5931c.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_2125a9cbf3c9d2c816228ecc06cd107ef4e5931c.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_14b697a8510b957924da721bd9272094c1fa0e1f.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_14b697a8510b957924da721bd9272094c1fa0e1f.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_14b697a8510b957924da721bd9272094c1fa0e1f.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_14b697a8510b957924da721bd9272094c1fa0e1f.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_8a5652f542b3ba93df5fa0779c99885297902741.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_8a5652f542b3ba93df5fa0779c99885297902741.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_8a5652f542b3ba93df5fa0779c99885297902741.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_8a5652f542b3ba93df5fa0779c99885297902741.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_cd41c87f5ce7022af7dab7d11b22bec7fd74b537.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_cd41c87f5ce7022af7dab7d11b22bec7fd74b537.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_cd41c87f5ce7022af7dab7d11b22bec7fd74b537.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_cd41c87f5ce7022af7dab7d11b22bec7fd74b537.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_dca3a984b54fa6d66ef51f17cf46f01e755d1823.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_dca3a984b54fa6d66ef51f17cf46f01e755d1823.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_dca3a984b54fa6d66ef51f17cf46f01e755d1823.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_dca3a984b54fa6d66ef51f17cf46f01e755d1823.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_12d199e5bead90f968fdb159167aec7370e4f4f0.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_12d199e5bead90f968fdb159167aec7370e4f4f0.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_12d199e5bead90f968fdb159167aec7370e4f4f0.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_12d199e5bead90f968fdb159167aec7370e4f4f0.1920x1080.jpg?t=1793643391"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_5652229bd56326932f6053c6c0ce8a92f0a0c65b.600x338.jpg?t=1791539928",
-                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_5652229bd56326932f6053c6c0ce8a92f0a0c65b.1920x1080.jpg?t=1791539928"
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_5652229bd56326932f6053c6c0ce8a92f0a0c65b.600x338.jpg?t=1793643391",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/ss_5652229bd56326932f6053c6c0ce8a92f0a0c65b.1920x1080.jpg?t=1793643391"
                 }
             ],
             "movies": [
@@ -186,7 +186,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4379
+                "total": 4384
             },
             "achievements": {
                 "total": 7,
@@ -257,8 +257,8 @@
                 "url": "http://amanita-design.net/contact.html",
                 "email": ""
             },
-            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/711660?t=1791539928",
-            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/page_bg_raw.jpg?t=1791539928",
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/711660?t=1793643391",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/page_bg_raw.jpg?t=1793643391",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

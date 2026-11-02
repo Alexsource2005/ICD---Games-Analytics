@@ -21,29 +21,29 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 20823,
-                    "total_negative": 1113,
-                    "total_reviews": 21936
+                    "total_positive": 20831,
+                    "total_negative": 1114,
+                    "total_reviews": 21945
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236697073",
+                        "recommendationid": "237927072",
                         "author": {
-                            "steamid": "76561198279140910",
-                            "num_reviews": 460,
-                            "playtime_forever": 1795,
+                            "steamid": "76561198121152914",
+                            "num_reviews": 22,
+                            "playtime_forever": 3645,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 1795,
-                            "last_played": 1790947287
+                            "playtime_at_review": 3645,
+                            "last_played": 1663090003
                         },
                         "language": "english",
-                        "review": "Bought this game in 28/05/2024. 18 days after my brother's death. I'm not the kind of person to get triggered and I needed a way to process all those emotions. However when I saw that there's local co-op (I played games with my brother) it just left a sour taste in my mouth and I dropped it after 2hrs.\n\nNow 857 days later I've completed my spiritfarer journey.   It really does a good job at replicating the complex emotions felt during the grief. The characters in the game aren't perfect (nor are the people that pass away in our life).\n\nMy only issue with the game lies in the gameplay. It felt too sluggish. I wish the game allowed direct instant travel to islands and slow sailing towards the sea (for turtles, jellyfish, comets,dragons). You can skip time from night to morning, but can't skip time from morning to night. It's like the game forced you into multitasking, even if you would sometimes want to just focus on one singular task.\n\nAnother thing that ruined the pacing for me was finding some spirits too late, only after seeing the credits. It's possible to miss them. Which made me disinterested in seeing their story since my journey is over now.\n\nI still enjoyed this game and would wholeheartedly recommended it to people trying to process death of someone close to them.",
-                        "timestamp_created": 1790948233,
-                        "timestamp_updated": 1791016484,
+                        "review": "Oh, what to say about this game... Spiritfarer came out 13 days after my father's unexpected passing, and naturally, I was going through a lot at the time: being stuck at home because of the pandemic and not being able to attend his funeral because I wasn't well enough to travel overseas; overseas travel wasn't allowed, in general. It was a really upsetting time for me, and while I have a lovely support network around me, I, like so many others, use games as an escape and that was exactly what I needed when the world around me was an absolute mess. \n\nSo on a whim, I bought Spiritfarer, not really knowing what to expect, and well, it was... wonderful. From beginning to end. I cried, a lot. Laughed. Cried some more. Saying goodbye to all the people Stella impacted, and eventually to Stella herself, helped me in ways I never really knew, which is probably why it's taken me so long to write a review. Looking back, I probably used it as a coping mechanism, along with Animal Crossing, another game that was my Lockdown buddy. The game does have its faults; it's sluggish at times, didn't like the \"combat\" (I use the term lightly) and getting to the point can be a bit tedious, but what do you really expect from a time management game? \n\nDespite its very minor hiccups gameplay wise, I do love this game so much that I spent a day and a half trying to get the final achievement; it was a final goodbye to one of the best story driven games I've ever played with a wonderful soundtrack and beautiful artwork to boot. This game reminds you that death is part of life, and we all have our own ways of coming to terms with it. Even typing this review, six years after my initial play through, I find myself reflecting on Stella and little Daffodil's journey and getting a little teary eyed.  I think if you like a story with a bittersweet conclusion, you'll really enjoy Spiritfarer.",
+                        "timestamp_created": 1792239597,
+                        "timestamp_updated": 1792265188,
                         "voted_up": true,
-                        "votes_up": 27,
+                        "votes_up": 11,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.7796875238418579,
+                        "weighted_vote_score": 0.6782057285308838,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -52,7 +52,7 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFUZ/+AAAABx3/aGBw==",
+                "cursor": "AoIFQFWb5YAAAABwqs+LBw==",
                 "day_range_used": 30,
                 "total_matching": 89
             },
@@ -88,14 +88,14 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 9999,
-                "final": 9999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "R$ 99,99"
+                "final": 999,
+                "discount_percent": 90,
+                "initial_formatted": "R$ 99,99",
+                "final_formatted": "R$ 9,99"
             },
             "packages": [
-                684208,
-                319017
+                319017,
+                684208
             ],
             "package_groups": [
                 {
@@ -108,6 +108,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 319017,
+                            "percent_savings_text": " -90%",
+                            "percent_savings": 0,
+                            "option_text": "Spiritfarer®: Edição Farewell - <span class=\"discount_original_price\">R$ 99,99</span> R$ 9,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        },
+                        {
                             "packageid": 684208,
                             "percent_savings_text": " ",
                             "percent_savings": 0,
@@ -116,16 +126,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5799
-                        },
-                        {
-                            "packageid": 319017,
-                            "percent_savings_text": " ",
-                            "percent_savings": 0,
-                            "option_text": "Spiritfarer®: Edição Farewell - R$ 99,99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 9999
                         }
                     ]
                 }
@@ -292,7 +292,7 @@
                 }
             ],
             "recommendations": {
-                "total": 47557
+                "total": 47584
             },
             "achievements": {
                 "total": 39,

@@ -1215,5 +1215,40 @@
                 "https://cdn2.unrealengine.com/egs-blasphemousdigitaldeluxeedition-thegamekitchen-bundles-g1a-14-1920x1080-5a7f0b947bb2.jpg"
             ]
         }
-    ]
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5790,
+            "originalPrice": 5790,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 57,90",
+                "discountPrice": "R$ 57,90",
+                "intermediatePrice": "R$ 57,90"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Blasphemous",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.81,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "eddb735dde6b47cda8193f2643cff886",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

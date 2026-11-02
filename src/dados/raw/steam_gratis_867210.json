@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 11629,
-                "final": 2325,
-                "discount_percent": 80,
-                "initial_formatted": "R$ 116,29",
-                "final_formatted": "R$ 23,25"
+                "final": 11629,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 116,29"
             },
             "packages": [
                 273574
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 273574,
-                            "percent_savings_text": " -80%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Songs of Conquest - <span class=\"discount_original_price\">R$ 116,29</span> R$ 23,25",
+                            "option_text": "Songs of Conquest - R$ 116,29",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2325
+                            "price_in_cents_with_discount": 11629
                         }
                     ]
                 }
@@ -257,7 +257,7 @@
                 }
             ],
             "recommendations": {
-                "total": 12185
+                "total": 12205
             },
             "achievements": {
                 "total": 75,
@@ -389,11 +389,11 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 5729,
-                    "total_negative": 1001,
-                    "total_reviews": 6730
+                    "total_positive": 5737,
+                    "total_negative": 1007,
+                    "total_reviews": 6744
                 },
-                "total_matching": 29,
+                "total_matching": 38,
                 "day_range_used": 30
             },
             "steamspy_tags": [

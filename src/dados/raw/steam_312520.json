@@ -27,9 +27,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 35572,
-                    "total_negative": 2099,
-                    "total_reviews": 37671
+                    "total_positive": 35626,
+                    "total_negative": 2097,
+                    "total_reviews": 37723
                 },
                 "reviews": [
                     {
@@ -38,7 +38,7 @@
                             "steamid": "76561198080735244",
                             "num_reviews": 1,
                             "playtime_forever": 4287,
-                            "playtime_last_two_weeks": 714,
+                            "playtime_last_two_weeks": 172,
                             "playtime_at_review": 3511,
                             "last_played": 1792868095
                         },
@@ -47,9 +47,9 @@
                         "timestamp_created": 1792032679,
                         "timestamp_updated": 1792032679,
                         "voted_up": true,
-                        "votes_up": 23,
-                        "votes_funny": 4,
-                        "weighted_vote_score": 0.764432966709137,
+                        "votes_up": 50,
+                        "votes_funny": 7,
+                        "weighted_vote_score": 0.8495993614196777,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -58,9 +58,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFUthqAAAAB85faKBw==",
+                "cursor": "AoIFQFTAg2AAAAB85faKBw==",
                 "day_range_used": 30,
-                "total_matching": 441
+                "total_matching": 445
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg?t=1792010382",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/d68d137786bd8fd4e056e056273f2bf0bc2a338d/capsule_231x87.jpg?t=1792010382",
@@ -88,10 +88,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 7399,
-                "final": 3329,
-                "discount_percent": 55,
-                "initial_formatted": "R$ 73,99",
-                "final_formatted": "R$ 33,29"
+                "final": 7399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 73,99"
             },
             "packages": [
                 47113
@@ -108,13 +108,13 @@
                     "subs": [
                         {
                             "packageid": 47113,
-                            "percent_savings_text": " -55%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Rain World - <span class=\"discount_original_price\">R$ 73,99</span> R$ 33,29",
+                            "option_text": "Rain World - R$ 73,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3329
+                            "price_in_cents_with_discount": 7399
                         }
                     ]
                 }
@@ -276,7 +276,7 @@
                 }
             ],
             "recommendations": {
-                "total": 47767
+                "total": 47838
             },
             "achievements": {
                 "total": 47,

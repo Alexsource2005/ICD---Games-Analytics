@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 4999,
-                "final": 1499,
-                "discount_percent": 70,
-                "initial_formatted": "R$ 49,99",
-                "final_formatted": "R$ 14,99"
+                "final": 4999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 49,99"
             },
             "packages": [
                 442850
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 442850,
-                            "percent_savings_text": " -70%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The Life and Suffering of Sir Brante - <span class=\"discount_original_price\">R$ 49,99</span> R$ 14,99",
+                            "option_text": "The Life and Suffering of Sir Brante - R$ 49,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -200,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 8228
+                "total": 8235
             },
             "achievements": {
                 "total": 89,
@@ -335,30 +335,30 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 3603,
-                    "total_negative": 496,
-                    "total_reviews": 4099
+                    "total_positive": 3609,
+                    "total_negative": 497,
+                    "total_reviews": 4106
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236664994",
+                        "recommendationid": "238061773",
                         "author": {
-                            "steamid": "76561198054267963",
-                            "num_reviews": 74,
-                            "playtime_forever": 565,
+                            "steamid": "76561198038484993",
+                            "num_reviews": 91,
+                            "playtime_forever": 1191,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 565,
-                            "last_played": 1790902563
+                            "playtime_at_review": 1191,
+                            "last_played": 1792153299
                         },
                         "language": "english",
-                        "review": "Got this game for free as part of the Prince Jerian promotion. If I were summarize the reason I gave it thumbs dumb with one word it would be \"disappointment\". The first three chapters were really fun as you get to know the characters and worldbuilding. Starting with the 4th chapter things started to change. The game feels poorly balanced and many choices can require multiple stats/relations. In the 5th chapter you can barely do anything as most decisions requires 3+ stats/relations/destinies. It's too much and feels poorly balanced which leads to frustration. \r\n\r\nThe funny thing is they already have almost the perfect system to mitigate this: Willpower. If they just let you spend a proportional amount Willpower to overcome stat or relationship deficiency the game would feel so much smoother. Disappointed by the potential of the game and such interesting worldbuilding just went to waste.",
-                        "timestamp_created": 1790908328,
-                        "timestamp_updated": 1790908328,
-                        "voted_up": false,
-                        "votes_up": 47,
-                        "votes_funny": 2,
-                        "weighted_vote_score": 0.8181907534599304,
-                        "comment_count": 0,
+                        "review": "[h2]TLDR:[/h2] An intriguing narrative adventure that doesn't pull its punches and makes the player ... well, suffer.\n\n[h2]GAMEPLAY OVERVIEW:[/h2] The Life and Suffering of Sr Brante (SirB) is a narrative adventure following the life of the player as they fill the role of the the middle son of the Brante family. \n\nGameplay proceeds by presenting scenarios to the player and asking for choices. The game is not real-time, and there are no quick-time events, so the player can read and digest all the information before deciding. Some decisions have pre-existing conditions before being available.\n\nThe player accumulates stats based on decisions, which will unlock further choices. The stats from the first two chapters (Childhood and Youth) combine to give the stats used through the remaining of the game. For example, Determination from Childhood and Nobility from Youth give the player their starting Valor score in Chapter 3 (Adolescence). The player will also need to build relationships with their family members and other NPCs. The family has overall reputation, unity, and wealth scores. There are similar meters for the province itself. All of this may sound overwhelming but it becomes easy to navigate after playing for a short time.\n\nEvents come in two flavors. The first type is static, which occur at the same point during each playthrough, involving background events that affect the city of Anizotte, the empire, and the player's relationships. The second are special events that only occur when the player has a stat or a character relationship high or low enough to trigger. Special events will often have a lasting effect on the game's direction.\n\nDeath is an occasional danger. In this world, the player can die up to three \"lesser\" deaths, meaning they are briefly in the afterlife before returning to the world. A fourth death results in \"true\" death and the end of life. Lesser deaths often offer large stat or relationship rewards. As with everything else in the game, choosing a lesser death is a trade-off. True death can occur early, usually from making enemies of powerful foes, so be careful.\n\nAssuming the character doesn't die a true death by the end of the fourth chapter (a distinct possibility), the fifth chapter covers the revolution in Anizotte where, as usual, the player's history and choices affect the outcome of not only the city but the entire empire.\n\nThe suffering part of SirB is no joke. Regardless of the path the player picks, there are always some very hard decisions to be made, with no good answers. Some seemingly-innocuous choices can come back to haunt the player much later. It also means you can be hard-locked into choices you otherwise wouldn't make. Most of the times, those railroaded decisions make logical sense, if not for enjoyable gameplay. Suffering, indeed.\n\nI really made a hash of my first game. I died twice, broke the church, ruined the province, left my family in tatters, ensured the revolution ended in bloody stalemate, and had to flee the city in shame ... and given what happened in some other runs, it could have been worse. It is possible to get mostly positive endings, though doing so involves a tightrope of choices that are not always obvious.\n\nFortunately, it's easy to click past a lot of the narrative on subsequent playthroughs. I recommend reading and enjoying the first few times, and then fast-forwarding past events already seen. If one is clicking through, a whole run can be done in an hour and a half or so. Also, players can reload and play forward from the start of any chapter, so mistakes don't have to tank a whole game.\n\n[h2]STORY / WORLDBUILDING:[/h2] SirB sets up a rather intriguing world, very reminiscent of early-Renaissance Europe. The empire, run by the noble families of the non-human Arkians, enforces a strict class system between the nobles and commoners, called \"lots.\" The lot of the nobles is to rule, the lot of the commoners to toil and suffer, after which they will be rewarded in the afterlife by the Twins, the gods of the world, for conforming to their lots. There is also the priest lot, whose job is to spread the word of the Twins. Naturally, much of the game's conflict revolves around the conflict between these lots, and the player's decisions about them.\n\nThe NPCs with whom the player interacts bring a variety of relationships. The player's family members, a childhood friend, romantic interests, religious figures both forgiving and stern, sinister spymasters, haughty noblemen, and idealistic judges ... all of them are distinct and unique in the setting. I had a lot of fun trying to maximize good relationships and positive endings with different groups of them, since it's just not possible to achieve a global good ending for everyone in a single playthrough.\n\nThe story depends on the player's actions and every path the player chooses—noble, commoner, or priest—has multiple outcomes, all of which have positive or negative implications for the various NPCs. I ran through about eight full runs and experienced near-perfect happiness, complete disasters, and everything in between.\n\n[h2]TECHNICAL ASPECTS:[/h2] Brante loaded quickly and ran without glitches or crashes. The plain graphics and scrawling style of unfolding story as events happen works for the gameplay. Sound is similarly minimalist and effective, and I thought light musical score was perfect for the game's ambiance.\n\nI did notice the game trip up several times, such as mentioning a character that has \"heard of\" the player, after they've already had direct interaction. This type of error is common in these games, though, and it only cropped up here and there. There were also a handful of typos in the story narrative, such as one line reading, \"Thous halt,\" instead of \"Thou shalt.\"\n\nSteam achievements will take a while, as many are exclusive to the paths the player takes in life. It will take multiple runs to 100% this one, though as mentioned above, later runs can be cycled through pretty quickly.\n\n[h2]FINAL WORD:[/h2] SirB spins a pretty fun tale, with decent replay value.\n\n[h2]SCORE: 7.5/10[/h2]\n\n",
+                        "timestamp_created": 1792368644,
+                        "timestamp_updated": 1792422142,
+                        "voted_up": true,
+                        "votes_up": 6,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6028754115104675,
+                        "comment_count": 2,
                         "steam_purchase": false,
                         "received_for_free": true,
                         "written_during_early_access": false,
@@ -366,9 +366,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFTotyAAAAByiueGBw==",
+                "cursor": "AoIFQFX8UeAAAAB9jJGMBw==",
                 "day_range_used": 30,
-                "total_matching": 78
+                "total_matching": 73
             },
             "steamspy_tags": [
                 "Choices Matter",

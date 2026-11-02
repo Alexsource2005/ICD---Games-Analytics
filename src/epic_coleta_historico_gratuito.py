@@ -4,6 +4,7 @@ import re
 from bs4 import BeautifulSoup
 from epicstore_api import EpicGamesStoreAPI
 import requests
+from Ratings_Polls_Epic import obter_ratings_polls
 
 api = EpicGamesStoreAPI(country="BR", locale="pt-BR")
 
@@ -216,19 +217,23 @@ for indice, item in enumerate(nomes_jogos_epic, start=1):
                     break
 
             if jogo_encontrado:
-            # Tenta encontrar o slug no campo padrão ou em alternativas comuns da Epic
-                slug = (
-                    jogo_encontrado.get("productSlug")
-                    or jogo_encontrado.get("urlSlug")
-                    or next(
-                        (
-                            m.get("pageSlug")
-                            for m in jogo_encontrado.get("mappings", [])
-                            if m.get("pageSlug")
-                        ),
-                        None,
-                    )
-                )
+                catalog_ns = jogo_encontrado.get("catalogNs") or {}
+                mappings = (catalog_ns.get("mappings") or jogo_encontrado.get("mappings") or [])
+
+                slug = next((m.get("pageSlug") for m in mappings if isinstance(m, dict) and m.get("pageSlug")), None)
+
+                if not slug:
+                   for campo in ("productSlug", "urlSlug"):
+                      candidato = jogo_encontrado.get(campo)
+
+                      if not isinstance(candidato, str) or not candidato.strip():
+                         continue
+
+                      candidato = candidato.strip().removesuffix("/home")
+
+                      if not re.fullmatch(r"[0-9a-fA-F]{32}", candidato):
+                         slug = candidato
+                         break
 
                 detalhes = None
                 if slug:
@@ -249,7 +254,25 @@ for indice, item in enumerate(nomes_jogos_epic, start=1):
                     )
 
                 if isinstance(detalhes, dict):
+                   if "price" not in detalhes and "price" in jogo_encontrado:
+                      detalhes["price"] = jogo_encontrado["price"]
+                   if "offerType" not in detalhes and "offerType" in jogo_encontrado:
+                      detalhes["offerType"] = jogo_encontrado["offerType"]
+                   if "title" not in detalhes and "title" in jogo_encontrado:
+                      detalhes["title"] = jogo_encontrado["title"]
+                   
+                   detalhes["_store_country_requested"] = "BR"
+                   detalhes["_store_locale_requested"] = "pt-BR"
+                   
                    detalhes["data_aquisicao_gratis"] = data_gratis
+
+                   ratings = obter_ratings_polls(jogo_encontrado=jogo_encontrado, detalhes=detalhes, slug_principal=slug, user_agent=headers.get("User-Agent"))
+                   detalhes["rating_polls"] = ratings
+
+                   if ratings["average_rating"] is not None:
+                      print(f"⭐ Nota média Epic: {ratings['average_rating']}/5")
+                   else:
+                      print(f"⚠️ Nota média não disponível: {ratings['status']}")
 
                 slug_limpo = slug.replace("/", "_")
                 caminho_saida = f"dados/raw/epic_gratis_{slug_limpo}.json"

@@ -1,0 +1,597 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#A61717"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#A61717"
+        }
+    },
+    "namespace": "min",
+    "_title": "hades",
+    "regionBlock": "",
+    "productName": "Hades",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/hades",
+    "_slug": "hades",
+    "_activeDate": "2018-10-17T15:40:48.524Z",
+    "lastModified": "2019-08-06T15:51:05.215Z",
+    "_locale": "pt-BR",
+    "_id": "74358cab-f2e3-4d27-a522-06a64e34caf6",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#A61717"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#A61717"
+                }
+            },
+            "namespace": "min",
+            "_title": "Home",
+            "regionBlock": "",
+            "productName": "Hades",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/hades/home",
+            "_slug": "home",
+            "_activeDate": "2019-10-08T19:00:00.000Z",
+            "lastModified": "2021-06-24T15:05:19.045Z",
+            "_locale": "pt-BR",
+            "_id": "1ead6772-8780-4610-a165-8da9915cedfd",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "min",
+                "id": "2ae6edb2223c4f8c97e9839b5b6497bb",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "",
+                "appName": "",
+                "_type": "Diesel Product Item",
+                "namespace": "",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins",
+                    "links": [
+                        {
+                            "_type": "Diesel Link"
+                        }
+                    ]
+                },
+                "socialLinks": {
+                    "linkTwitter": "http://www.twitter.com/SupergiantGames",
+                    "linkTwitch": "http://www.twitch.tv/SupergiantGames",
+                    "linkFacebook": "http://www.facebook.com/SupergiantGames",
+                    "linkYoutube": "https://www.youtube.com/user/supergiantgames",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "http://www.discord.gg/Supergiant",
+                    "title": "Siga a Supergiant Games",
+                    "linkInstagram": "https://www.instagram.com/SupergiantGames"
+                },
+                "requirements": {
+                    "languages": [
+                        "Áudio: inglês",
+                        "Texto: inglês, chinês simplificado, francês, alemão, italiano, coreano, polonês, português (Brasil), russo, espanhol (Espanha)",
+                        "Japonês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "macOS 10.12+",
+                                    "recommended": "macOS 10.14+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Dual Core 2.4ghz",
+                                    "recommended": "Quad Core 3.0 ghz+"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "4 GB of RAM",
+                                    "recommended": "8 GB of RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "15 GB",
+                                    "recommended": "20 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "Intel HD 5000 (Mac computers must support Metal API)",
+                                    "recommended": "Intel UHD 630+ (Mac computers must support Metal API)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Outros",
+                                    "recommended": "MacBook Air, MacBook Pro, iMac, úlltimo Mac Mini de 2012 ou mais recente; último Mac Pro de 2013 ou mais recente; último MacBook de 2015 ou mais recente"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema Operacional",
+                                    "minimum": "Windows 7 SP1  ",
+                                    "recommended": "Windows 7 SP1  "
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Dual Core 2.4 GHz\t",
+                                    "recommended": "Dual Core de 3,4 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "8 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "1GB VRAM",
+                                    "recommended": "2GB VRAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "15 GB",
+                                    "recommended": "20 GB "
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhades%2Fhome%2FHades-Ratings-Footer-1-210x117-9f0754fe98d1b4d6c045ab980abec611ad4a4ce8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: 15 anos"
+                        },
+                        {
+                            "countryCodes": "AG,AR,BS,BB,BZ,BO,CA,CL,CO,CR,CU,DM,DO,EC,SV,GD,GT,GY,HT,HN,JM,MX,NI,PA,PY,PE,KN,LC,VC,SR,TT,US,UY,VE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/hadesesrb-200x103-7cd137b1f0d8.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TEEN"
+                        }
+                    ],
+                    "accountRequirements": "EPIC_ACCOUNT",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© Supergiant Games, LLC 2020. All rights reserved.",
+                    "privacyPolicyLink": {
+                        "src": "https://store.supergiantgames.com/pages/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da SuperGiant Games"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/hades-portrait-promo-01-1280x1420-983740828.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Supergiant Games",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Supergiant Games",
+                    "description": "Os títulos aclamados pela crítica da Supergiant, incluindo a ação frenética de **Bastion**, a atmosfera rica e profunda de **Transistor** e a narrativa baseada em personagem de **Pyre**.\n\nNa pele do imortal Príncipe do Submundo, você usará os poderes e armas míticas do Olimpo para se libertar das garras do deus dos mortos, enquanto se fortalece e descobre mais da história toda vez que tenta fugir.",
+                    "shortDescription": "Dos criadores de Bastion e Transistor, desafie o deus dos mortos enquanto corta e massacra todos no seu caminho para sair do Submundo neste dungeon crawler roguelike.",
+                    "title": "HADES – LUTE PARA SAIR DO INFERNO",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fdill%2Fhome%2FSupergiant_Games_Logo_OPTIMIZED-1068x609-9aa63f456688b5188e44e34ee965062e7db2f812.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/hades-logo-launch-messaging-2000x647-983740753.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/hades-portrait-promo-01-1280x1420-983740828.png",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": true,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/hades-eventcover-01-800x450-983740629.png"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/hades-primarypromo-01-2580x1450-983741370.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"e6d8c0de9ea74f73b649422fc34fb876\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"4bc1903e57524771b7667309db356eb5\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"3eb60cf8e2a84cc68978661e02e117ef\"\n        }\n    ]\n}",
+                                "epicStillType": "OVERLAY_BR",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Hades Launch Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g1c-01-1920x1080-208470993.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 3,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"0d89aee8764046e59c5eae5157396bc1\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"c0044aefee5747b38c46a36885078925\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"9ca2e9dcb2e64fa6969d507a1202e408\"\n        }\n    ]\n}",
+                                "epicStillType": "OVERLAY_BR",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Hades v1.0 Gameplay",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g1a-01-1920x1080-010078133.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/hades-eventcover-01-800x450-983740629.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "min",
+                            "description": "Dos criadores de Bastion e Transistor, desafie o deus dos mortos enquanto corta e massacra todos no seu caminho para sair do Submundo neste dungeon crawler roguelike.",
+                            "offerId": "2ae6edb2223c4f8c97e9839b5b6497bb",
+                            "tag": "edition",
+                            "title": "Hades",
+                            "slug": "/p/hades"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhades%2Fhome%2FFeatured-Carasoul-1360x766-169e92da6351ea44fa0bc5b3ae7797bd070b403d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "min",
+                            "description": "Dos criadores de Bastion e Transistor, desafie o deus dos mortos enquanto corta e massacra todos no seu caminho para sair do Submundo neste dungeon crawler roguelike.  Inclui também a trilha sonora original de Hades.",
+                            "offerId": "9fe7a1f261d845b28c6d067b5fccc951",
+                            "tag": "edition",
+                            "title": "Hades + Trilha Sonora",
+                            "slug": "/p/hades"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": true
+                },
+                "meta": {
+                    "releaseDate": "2018-12-06T13:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Supergiant Games"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Supergiant Games"
+                    ],
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "RPG",
+                        "ROGUE_LITE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "dlc": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "buttonText": "",
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhades%2Fhome%2FZ-xE8GhQ-1920x1080-7935cec24fead89fa58888868990a715bcc60619.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product DLC",
+                            "namespace": "min",
+                            "description": "Apresenta quase duas horas de música pulsante criada pelo compositor premiado da Supergiant Games, Darren Korb, e vocais adicionais de Ashley Barrett.",
+                            "offerId": "e075a6106e284624a8aacdde3af3f886",
+                            "tag": "dlc",
+                            "title": "Trilha Sonora Original de Hades",
+                            "type": "addon",
+                            "slug": "/product/hades/home"
+                        }
+                    ],
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    },
+                    "description": "Hades",
+                    "title": "Hades"
+                },
+                "productSections": [
+                    {
+                        "productSection": "DLC",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-00-1920x1080-027048640.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-01-1920x1080-027048442.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-02-1920x1080-027048444.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-03-1920x1080-027048109.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-04-1920x1080-027047874.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-05-1920x1080-027047974.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-06-1920x1080-027048171.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-07-1920x1080-027047891.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-08-1920x1080-027047848.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        }
+                    ]
+                },
+                "navTitle": "Hades"
+            },
+            "_metaTags": "",
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#A61717",
+                "customPrimaryBg": "#232323",
+                "accentColor": "#A61717",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/hades-eventcover-01-800x450-983740629.png",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-01-1920x1080-027048442.jpg",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-00-1920x1080-027048640.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhades%2Fhome%2FZ-xE8GhQ-1920x1080-7935cec24fead89fa58888868990a715bcc60619.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhades%2Fhome%2FHades-Ratings-Footer-1-210x117-9f0754fe98d1b4d6c045ab980abec611ad4a4ce8.png",
+                "https://cdn2.unrealengine.com/hades-logo-launch-messaging-2000x647-983740753.png",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-07-1920x1080-027047891.jpg",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-08-1920x1080-027047848.jpg",
+                "https://cdn2.unrealengine.com/hades-portrait-promo-01-1280x1420-983740828.png",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g1c-01-1920x1080-208470993.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhades%2Fhome%2FFeatured-Carasoul-1360x766-169e92da6351ea44fa0bc5b3ae7797bd070b403d.jpg",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-02-1920x1080-027048444.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fdill%2Fhome%2FSupergiant_Games_Logo_OPTIMIZED-1068x609-9aa63f456688b5188e44e34ee965062e7db2f812.png",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-05-1920x1080-027047974.jpg",
+                "https://cdn2.unrealengine.com/hades-primarypromo-01-2580x1450-983741370.png",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g1a-01-1920x1080-010078133.jpg",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-03-1920x1080-027048109.jpg",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-06-1920x1080-027048171.jpg",
+                "https://cdn2.unrealengine.com/hadesesrb-200x103-7cd137b1f0d8.png",
+                "https://cdn2.unrealengine.com/egs-hades-supergiantgames-g2-04-1920x1080-027047874.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 7399,
+            "originalPrice": 7399,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 73,99",
+                "discountPrice": "R$ 73,99",
+                "intermediatePrice": "R$ 73,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Hades",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.9,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "min",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

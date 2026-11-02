@@ -404,5 +404,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "03/03/2022 - 10/03/2022"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1899,
+            "originalPrice": 1899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 18,99",
+                "discountPrice": "R$ 18,99",
+                "intermediatePrice": "R$ 18,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Centipede: Recharged",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "03/03/2022 - 10/03/2022",
+    "rating_polls": {
+        "average_rating": 4.24,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "a1edd0d2e28d4d298152c001e7c47e22",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

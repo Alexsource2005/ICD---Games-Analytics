@@ -331,5 +331,48 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "30/03/2023 - 06/04/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 949,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 2850,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 9,49",
+                "intermediatePrice": "R$ 9,49"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "57fea967543949958ac7e909c5adc165",
+                        "endDate": "2026-11-14T09:59:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Tunche",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "30/03/2023 - 06/04/2023",
+    "rating_polls": {
+        "average_rating": 4.46,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "78683b0edafd4a978a5ab61a7f6b0594",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

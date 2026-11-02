@@ -120,25 +120,45 @@
     ],
     "price": {
         "totalPrice": {
-            "discountPrice": 8099,
+            "discountPrice": 4859,
             "originalPrice": 8099,
             "voucherDiscount": 0,
-            "discount": 0,
+            "discount": 3240,
             "currencyCode": "BRL",
             "currencyInfo": {
                 "decimals": 2
             },
             "fmtPrice": {
                 "originalPrice": "R$ 80,99",
-                "discountPrice": "R$ 80,99",
-                "intermediatePrice": "R$ 80,99"
+                "discountPrice": "R$ 48,59",
+                "intermediatePrice": "R$ 48,59"
             }
         },
         "lineOffers": [
             {
-                "appliedRules": []
+                "appliedRules": [
+                    {
+                        "id": "b777a3d13b4b47f49d477d4961b48adc",
+                        "endDate": "2026-11-10T06:59:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
             }
         ]
     },
-    "data_aquisicao_gratis": "25/04/2024 - 02/05/2024"
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "25/04/2024 - 02/05/2024",
+    "rating_polls": {
+        "average_rating": 4.78,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "2052c58b9f64498386cbbbc85df90bbf",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

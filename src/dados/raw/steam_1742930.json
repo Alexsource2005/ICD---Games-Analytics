@@ -49,10 +49,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 699,
-                "final": 489,
-                "discount_percent": 30,
-                "initial_formatted": "R$ 6,99",
-                "final_formatted": "R$ 4,89"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 6,99"
             },
             "packages": [
                 624611
@@ -69,13 +69,13 @@
                     "subs": [
                         {
                             "packageid": 624611,
-                            "percent_savings_text": " -30%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Looking Up I See Only A Ceiling - <span class=\"discount_original_price\">R$ 6,99</span> R$ 4,89",
+                            "option_text": "Looking Up I See Only A Ceiling - R$ 6,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 489
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -196,7 +196,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3428
+                "total": 3437
             },
             "achievements": {
                 "total": 49,
@@ -328,9 +328,9 @@
                     "num_reviews": 1,
                     "review_score": 8,
                     "review_score_desc": "Very Positive",
-                    "total_positive": 1305,
-                    "total_negative": 130,
-                    "total_reviews": 1435
+                    "total_positive": 1307,
+                    "total_negative": 131,
+                    "total_reviews": 1438
                 },
                 "reviews": [
                     {
@@ -339,7 +339,7 @@
                             "steamid": "76561199336682639",
                             "num_reviews": 69,
                             "playtime_forever": 179,
-                            "playtime_last_two_weeks": 27,
+                            "playtime_last_two_weeks": 0,
                             "playtime_at_review": 179,
                             "last_played": 1792317273
                         },
@@ -348,9 +348,9 @@
                         "timestamp_created": 1792331400,
                         "timestamp_updated": 1792331400,
                         "voted_up": true,
-                        "votes_up": 3,
+                        "votes_up": 4,
                         "votes_funny": 0,
-                        "weighted_vote_score": 0.5532779097557068,
+                        "weighted_vote_score": 0.5723806023597717,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -359,9 +359,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFY7zeAAAAB++PyLBw==",
+                "cursor": "AoIFQFYjWkAAAAB++PyLBw==",
                 "day_range_used": 30,
-                "total_matching": 23
+                "total_matching": 24
             },
             "steamspy_tags": [
                 "Adventure",

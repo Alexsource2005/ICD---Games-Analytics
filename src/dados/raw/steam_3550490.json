@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 2049,
-                "final": 983,
-                "discount_percent": 52,
-                "initial_formatted": "R$ 20,49",
-                "final_formatted": "R$ 9,83"
+                "final": 2049,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 20,49"
             },
             "packages": [
                 1252982
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 1252982,
-                            "percent_savings_text": " -52%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Overcome Your Fears - Caretaker - <span class=\"discount_original_price\">R$ 20,49</span> R$ 9,83",
+                            "option_text": "Overcome Your Fears - Caretaker - R$ 20,49",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 983
+                            "price_in_cents_with_discount": 2049
                         }
                     ]
                 }
@@ -174,7 +174,7 @@
                 }
             ],
             "recommendations": {
-                "total": 182
+                "total": 186
             },
             "achievements": {
                 "total": 5,
@@ -266,38 +266,45 @@
                     "num_reviews": 1,
                     "review_score": 5,
                     "review_score_desc": "Mixed",
-                    "total_positive": 454,
-                    "total_negative": 296,
-                    "total_reviews": 750
+                    "total_positive": 455,
+                    "total_negative": 298,
+                    "total_reviews": 753
                 },
                 "reviews": [
                     {
-                        "recommendationid": "237226613",
+                        "recommendationid": "237360651",
                         "author": {
-                            "steamid": "76561199239439251",
-                            "num_reviews": 11,
-                            "playtime_forever": 62,
+                            "steamid": "76561199826040084",
+                            "num_reviews": 4,
+                            "playtime_forever": 68,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 62,
-                            "last_played": 1791484730
+                            "playtime_at_review": 68,
+                            "last_played": 1791632171
                         },
                         "language": "english",
-                        "review": "too short, it wasn't scary, the only scary thing was the animation on TV and I thought it was going to be connected to the game because it focused on 3:33 and I was like kinda waiting like what if some demon rapes me at that time but nothing happened, lame plot twist.",
-                        "timestamp_created": 1791485000,
-                        "timestamp_updated": 1791485000,
-                        "voted_up": false,
-                        "votes_up": 5,
-                        "votes_funny": 1,
-                        "weighted_vote_score": 0.57419353723526,
-                        "comment_count": 1,
+                        "review": "I played this game all the way to the end, but to be honest, it doesn't even feel like a horror game.\n\nThere was nothing scary in the game at all. The game just didn't entertain me and I was completely bored while playing it.\n\nBut one funny thing was that when I was peeing in the game, I could turn around and pee on everything.\n\nHowever, the story was actually interesting.\n\nMaking a game takes a lot of time, and I really respect that. Giving a thumbs up to support the developer.",
+                        "timestamp_created": 1791630180,
+                        "timestamp_updated": 1791630180,
+                        "voted_up": true,
+                        "votes_up": 3,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5652173757553101,
+                        "comment_count": 0,
                         "steam_purchase": false,
                         "received_for_free": true,
                         "written_during_early_access": false,
                         "primarily_steam_deck": false,
-                        "refunded": false
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "AMD Ryzen 5 3600 6-Core Processor              ",
+                            "adapter_description": "NVIDIA GeForce RTX 3060",
+                            "system_ram": "16298",
+                            "vram_size": 8034
+                        }
                     }
                 ],
-                "cursor": "AoIFQFYhCCAAAAB1p/mIBw==",
+                "cursor": "AoIFQFYshcAAAAB74LqJBw==",
                 "day_range_used": 30,
                 "total_matching": 40
             },

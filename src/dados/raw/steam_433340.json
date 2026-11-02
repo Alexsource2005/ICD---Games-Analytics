@@ -24,29 +24,29 @@
                     "num_reviews": 1,
                     "review_score": 9,
                     "review_score_desc": "Overwhelmingly Positive",
-                    "total_positive": 74424,
-                    "total_negative": 1458,
-                    "total_reviews": 75882
+                    "total_positive": 74457,
+                    "total_negative": 1457,
+                    "total_reviews": 75914
                 },
                 "reviews": [
                     {
-                        "recommendationid": "236643580",
+                        "recommendationid": "236826143",
                         "author": {
-                            "steamid": "76561199219910191",
-                            "num_reviews": 55,
-                            "playtime_forever": 912,
+                            "steamid": "76561198125158718",
+                            "num_reviews": 13,
+                            "playtime_forever": 5043,
                             "playtime_last_two_weeks": 0,
-                            "playtime_at_review": 912,
-                            "last_played": 1737581758
+                            "playtime_at_review": 4949,
+                            "last_played": 1791073184
                         },
                         "language": "english",
-                        "review": "\n---{ Graphics }---\n☐ You forget what reality is\n☐ Beautiful\n☑ Good\n☐ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☑ Very good\n☐ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audio }---\n☐ Eargasm\n☐ Very good\n☐ Good\n☑ Not too bad\n☐ Bad\n☐ I'm now deaf\n\n---{ Audience }---\n☑ Kids\n☑ Teens\n☑ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☐ Check if you can run paint\n☑ Potato\n☐ Decent\n☐ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☐ Floppy Disk\n☑ Old Fashioned\n☐ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☑ Easy\n☐ Easy to learn / Hard to master\n☐ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ Grind }---\n☐ Nothing to grind\n☐ Only if u care about leaderboards/ranks\n☑ Isn't necessary to progress\n☐ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\n\n---{ Story }---\n☐ No Story\n☐ Some lore\n☑ Average\n☐ Good\n☐ Lovely\n☐ It'll replace your life\n\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☑ Average\n☐ Long\n☐ To infinity and beyond\n\n---{ Price }---\n☐ It's free!\n☐ Worth the price\n☑ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☐ Never heard of\n☑ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☑ 7\n☐ 8\n☐ 9\n☐ 10",
-                        "timestamp_created": 1790883149,
-                        "timestamp_updated": 1790883149,
+                        "review": "If you need something bright and happy without being boring, this is the game for you. I've played it through a couple of times now, and it's especially wonderful when I'm otherwise unhappy for some reason.",
+                        "timestamp_created": 1791065381,
+                        "timestamp_updated": 1791065381,
                         "voted_up": true,
-                        "votes_up": 34,
-                        "votes_funny": 10,
-                        "weighted_vote_score": 0.7239089608192444,
+                        "votes_up": 8,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.6000000238418579,
                         "comment_count": 0,
                         "steam_purchase": true,
                         "received_for_free": false,
@@ -55,9 +55,9 @@
                         "refunded": false
                     }
                 ],
-                "cursor": "AoIFQFVnm8AAAAB8z9yGBw==",
+                "cursor": "AoIFQFYAAAAAAAB/4bWHBw==",
                 "day_range_used": 30,
-                "total_matching": 343
+                "total_matching": 340
             },
             "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg?t=1758651509",
             "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg?t=1758651509",
@@ -88,10 +88,10 @@
             "price_overview": {
                 "currency": "BRL",
                 "initial": 5999,
-                "final": 1499,
-                "discount_percent": 75,
-                "initial_formatted": "R$ 59,99",
-                "final_formatted": "R$ 14,99"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
             },
             "packages": [
                 90214
@@ -108,13 +108,13 @@
                     "subs": [
                         {
                             "packageid": 90214,
-                            "percent_savings_text": " -75%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Slime Rancher - <span class=\"discount_original_price\">R$ 59,99</span> R$ 14,99",
+                            "option_text": "Slime Rancher - R$ 59,99",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -326,15 +326,6 @@
                     "highlight": true
                 },
                 {
-                    "id": 256722873,
-                    "name": "Slime Rancher - Automatic Update Trailer",
-                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256722873/movie.293x165.jpg?t=1690493219",
-                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/433340/173651/777938d1d2ecf6b94863aa2a421fdce48a8a370d/1750530462/dash_av1.mpd?t=1690493219",
-                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/433340/173651/777938d1d2ecf6b94863aa2a421fdce48a8a370d/1750530462/dash_h264.mpd?t=1690493219",
-                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/433340/173651/777938d1d2ecf6b94863aa2a421fdce48a8a370d/1750530462/hls_264_master.m3u8?t=1690493219",
-                    "highlight": true
-                },
-                {
                     "id": 256711413,
                     "name": "Slime Rancher - Mochi's Megabucks Update Trailer",
                     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256711413/movie.293x165.jpg?t=1690493223",
@@ -354,7 +345,7 @@
                 }
             ],
             "recommendations": {
-                "total": 140615
+                "total": 140738
             },
             "achievements": {
                 "total": 57,

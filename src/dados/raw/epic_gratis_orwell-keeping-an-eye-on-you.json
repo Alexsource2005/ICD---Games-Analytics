@@ -451,5 +451,40 @@
             ]
         }
     ],
-    "data_aquisicao_gratis": "10/08/2023 - 17/08/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 2069,
+            "originalPrice": 2069,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 20,69",
+                "discountPrice": "R$ 20,69",
+                "intermediatePrice": "R$ 20,69"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Orwell: Keeping an Eye on You",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "10/08/2023 - 17/08/2023",
+    "rating_polls": {
+        "average_rating": 4.44,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "750dfadbde8445f980601e84434359c5",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -1365,5 +1365,40 @@
             "tag": "mod"
         }
     ],
-    "data_aquisicao_gratis": "11/12/2025 - 18/12/2025"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 24999,
+            "originalPrice": 24999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 249,99",
+                "discountPrice": "R$ 249,99",
+                "intermediatePrice": "R$ 249,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Hogwarts Legacy",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "11/12/2025 - 18/12/2025",
+    "rating_polls": {
+        "average_rating": 4.66,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "e97659b501af4e3981d5430dad170911",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }

@@ -421,5 +421,48 @@
             "type": "productHome"
         }
     ],
-    "data_aquisicao_gratis": "27/04/2023 - 04/05/2023"
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1999,
+            "originalPrice": 7999,
+            "voucherDiscount": 0,
+            "discount": 6000,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 79,99",
+                "discountPrice": "R$ 19,99",
+                "intermediatePrice": "R$ 19,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": [
+                    {
+                        "id": "8aa5398563084ab19cac444598ebf876",
+                        "endDate": "2026-11-14T09:59:00.000Z",
+                        "discountSetting": {
+                            "discountType": "PERCENTAGE"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "title": "Breathedge",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "27/04/2023 - 04/05/2023",
+    "rating_polls": {
+        "average_rating": 4.41,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "08ae29e4f70a4b62aa055e383381aa82",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
 }
