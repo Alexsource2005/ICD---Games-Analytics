@@ -144,5 +144,17 @@
             "name": "Flight",
             "slug": "flight"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 100,
+        "positive_review_count": 68,
+        "positive_percentage": 68.0,
+        "average_rating": 3.7,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 100,
+        "reviews_with_rating": 100,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

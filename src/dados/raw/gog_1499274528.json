@@ -152,5 +152,17 @@
             "name": "Short",
             "slug": "short"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 88,
+        "positive_review_count": 55,
+        "positive_percentage": 62.5,
+        "average_rating": 3.4,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 88,
+        "reviews_with_rating": 88,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

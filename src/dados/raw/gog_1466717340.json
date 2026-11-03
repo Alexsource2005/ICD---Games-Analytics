@@ -122,5 +122,17 @@
             "name": "Text-Based",
             "slug": "text-based"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 7,
+        "positive_review_count": 3,
+        "positive_percentage": 42.86,
+        "average_rating": 3.1,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 7,
+        "reviews_with_rating": 7,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

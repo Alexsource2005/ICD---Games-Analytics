@@ -94,5 +94,17 @@
             "name": "Free Game",
             "slug": "freegame"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 49,
+        "positive_review_count": 31,
+        "positive_percentage": 63.27,
+        "average_rating": 3.9,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 49,
+        "reviews_with_rating": 49,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

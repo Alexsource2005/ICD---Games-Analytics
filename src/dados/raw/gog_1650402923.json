@@ -143,5 +143,17 @@
             "name": "Board Game",
             "slug": "board-game"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 25,
+        "positive_review_count": 18,
+        "positive_percentage": 72.0,
+        "average_rating": 4.1,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 25,
+        "reviews_with_rating": 25,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

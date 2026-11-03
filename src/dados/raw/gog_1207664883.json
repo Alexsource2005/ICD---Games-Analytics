@@ -168,5 +168,17 @@
             "name": "Thriller",
             "slug": "thriller"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 27,
+        "positive_review_count": 9,
+        "positive_percentage": 33.33,
+        "average_rating": 3.1,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 27,
+        "reviews_with_rating": 27,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

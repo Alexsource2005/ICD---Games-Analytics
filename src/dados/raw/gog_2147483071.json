@@ -196,5 +196,17 @@
             "name": "Education",
             "slug": "education"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 60,
+        "positive_review_count": 50,
+        "positive_percentage": 83.33,
+        "average_rating": 4.2,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 60,
+        "reviews_with_rating": 60,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

@@ -1,0 +1,176 @@
+{
+    "id": 1744110647,
+    "title": "DREDGE",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/dredge",
+    "slug": "dredge",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/dredge",
+        "product_card": "https://www.gog.com/game/dredge",
+        "support": "https://www.gog.com/support/dredge",
+        "forum": "https://www.gog.com/forum/dredge"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2023-03-30T17:50:00+0200",
+    "images": {
+        "background": "//images-3.gog-statics.com/4fdd743a36e5cdf46394ed3bed7410c7009fc85665f427cefbdccfc6e1e349e4.jpg",
+        "logo": "//images-4.gog-statics.com/f9a9116a2daac1825518785a055a6b9ae4141b9f1d39b02a1bd51718edab586f_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/f9a9116a2daac1825518785a055a6b9ae4141b9f1d39b02a1bd51718edab586f_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/9a78aea21b366c6d01bacd2e3f57f1f8922c864f6ba197a19a1ad459182be39d_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/9a78aea21b366c6d01bacd2e3f57f1f8922c864f6ba197a19a1ad459182be39d_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/9a78aea21b366c6d01bacd2e3f57f1f8922c864f6ba197a19a1ad459182be39d_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/9a78aea21b366c6d01bacd2e3f57f1f8922c864f6ba197a19a1ad459182be39d_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/9a78aea21b366c6d01bacd2e3f57f1f8922c864f6ba197a19a1ad459182be39d.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1154366605,
+                "link": "https://api.gog.com/products/1154366605",
+                "expanded_link": "https://api.gog.com/products/1154366605"
+            },
+            {
+                "id": 1322967649,
+                "link": "https://api.gog.com/products/1322967649",
+                "expanded_link": "https://api.gog.com/products/1322967649"
+            },
+            {
+                "id": 1436182852,
+                "link": "https://api.gog.com/products/1436182852",
+                "expanded_link": "https://api.gog.com/products/1436182852"
+            },
+            {
+                "id": 1462537302,
+                "link": "https://api.gog.com/products/1462537302",
+                "expanded_link": "https://api.gog.com/products/1462537302"
+            },
+            {
+                "id": 1707774748,
+                "link": "https://api.gog.com/products/1707774748",
+                "expanded_link": "https://api.gog.com/products/1707774748"
+            },
+            {
+                "id": 1901931967,
+                "link": "https://api.gog.com/products/1901931967",
+                "expanded_link": "https://api.gog.com/products/1901931967"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1154366605,1322967649,1436182852,1462537302,1707774748,1901931967",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1154366605,1322967649,1436182852,1462537302,1707774748,1901931967"
+    },
+    "price": {
+        "final": "R$ 35,99",
+        "base": "R$ 89,99",
+        "discount": "-60%",
+        "finalMoney": {
+            "amount": "35.99",
+            "currency": "BRL",
+            "discount": "54.00"
+        },
+        "baseMoney": {
+            "amount": "89.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror"
+        },
+        {
+            "name": "Psychological Horror",
+            "slug": "psychological-horror"
+        },
+        {
+            "name": "Lovecraftian",
+            "slug": "lovecraftian"
+        },
+        {
+            "name": "Fishing",
+            "slug": "fishing"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 2848,
+        "positive_review_count": null,
+        "positive_percentage": null,
+        "average_rating": 4.8,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 180,
+        "reviews_with_rating": 180,
+        "all_reviews_collected": false,
+        "source": "GOG reviews API",
+        "status": "dados_agregados_disponiveis_percentual_indisponivel"
+    }
+}

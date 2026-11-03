@@ -494,6 +494,10 @@ for arquivo in os.listdir(pasta_raw):
             "gog_generos": [],
             "gog_lancamento": None,
             "gog_preco": None,
+            "gog_reviews_qtd": None,
+            "gog_reviews_positivas_qtd": None,
+            "gog_reviews_pct_positiva": None,
+            "gog_nota_media": None,
         }
 
     # Fase de transformação por plataforma
@@ -590,6 +594,33 @@ for arquivo in os.listdir(pasta_raw):
         reg["gog_lancamento"] = data.get("release_date")
         reg["gog_preco"] = extrair_preco_original_gog(data)
 
+        gog_reviews = data.get("gog_reviews") or {}
+        if isinstance(gog_reviews, dict):
+            qtd_reviews = gog_reviews.get("review_count")
+            qtd_positivas = gog_reviews.get("positive_review_count")
+            pct_positivas = gog_reviews.get("positive_percentage")
+            nota_media = gog_reviews.get("average_rating")
+
+            try:
+                reg["gog_reviews_qtd"] = (int(qtd_reviews) if qtd_reviews is not None else None)
+            except (ValueError, TypeError):
+                reg["gog_reviews_qtd"] = None
+
+            try:
+                reg["gog_reviews_positivas_qtd"] = (int(qtd_positivas) if qtd_positivas is not None else None)
+            except (ValueError, TypeError):
+                reg["gog_reviews_positivas_qtd"] = None
+
+            try:
+                reg["gog_reviews_pct_positiva"] = (float(pct_positivas) if pct_positivas is not None else None)
+            except (ValueError, TypeError):
+                reg["gog_reviews_pct_positiva"] = None
+
+            try:
+                reg["gog_nota_media"] = (float(nota_media) if nota_media is not None else None)
+            except (ValueError, TypeError):
+                reg["gog_nota_media"] = None
+
         genres_gog = data.get("genres", []) or []
         reg["gog_generos"] = [g.get("name") if isinstance(g, dict) else g for g in genres_gog]
 
@@ -642,6 +673,9 @@ for chave, reg in jogos_consolidados.items():
         "Qtd Reviews Steam": reg["steam_reviews_qtd"],
         "% Positivas Steam": reg["steam_reviews_pct_positiva"],
         "Nota Média Epic": reg["epic_nota_media"],
+        "Qtd Reviews GOG": reg["gog_reviews_qtd"],
+        "% Positivas GOG": reg["gog_reviews_pct_positiva"],
+        "Nota Média GOG": reg["gog_nota_media"],
         "Disponível na Steam": "Sim" if reg["tem_steam"] else "Não",
         "Disponível na Epic": "Sim" if reg["tem_epic"] else "Não",
         "Disponível na GOG": "Sim" if reg["tem_gog"] else "Não",
@@ -652,6 +686,9 @@ df = pd.DataFrame(linhas_tabela)
 
 df["Qtd Reviews Steam"] = df["Qtd Reviews Steam"].astype("Int64")
 df["Nota Média Epic"] = pd.to_numeric(df["Nota Média Epic"], errors="coerce").astype("Float64")
+df["Qtd Reviews GOG"] = df["Qtd Reviews GOG"].astype("Int64")
+df["% Positivas GOG"] = pd.to_numeric(df["% Positivas GOG"], errors="coerce").astype("Float64")
+df["Nota Média GOG"] = pd.to_numeric(df["Nota Média GOG"], errors="coerce").astype("Float64")
 
 caminho_csv = "dados/processed/tabela_comparativa_jogos.csv"
 df.to_csv(caminho_csv, index=False, encoding="utf-8-sig")

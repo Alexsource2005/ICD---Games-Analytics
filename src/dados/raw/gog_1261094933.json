@@ -125,5 +125,17 @@
             "name": "Crime",
             "slug": "crime"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 18,
+        "positive_review_count": 10,
+        "positive_percentage": 55.56,
+        "average_rating": 3.6,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 18,
+        "reviews_with_rating": 18,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

@@ -119,5 +119,17 @@
             "name": "NSFW",
             "slug": "nsfw"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 1,
+        "positive_review_count": 0,
+        "positive_percentage": 0.0,
+        "average_rating": 3.7,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 1,
+        "reviews_with_rating": 1,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

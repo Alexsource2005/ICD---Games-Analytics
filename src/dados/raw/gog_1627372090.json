@@ -145,5 +145,17 @@
             "name": "Superhero",
             "slug": "superhero"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 22,
+        "positive_review_count": 14,
+        "positive_percentage": 63.64,
+        "average_rating": 4.0,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 22,
+        "reviews_with_rating": 22,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

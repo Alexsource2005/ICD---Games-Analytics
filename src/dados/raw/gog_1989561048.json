@@ -155,5 +155,17 @@
             "name": "Cats",
             "slug": "cats"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 89,
+        "positive_review_count": 77,
+        "positive_percentage": 86.52,
+        "average_rating": 4.4,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 89,
+        "reviews_with_rating": 89,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

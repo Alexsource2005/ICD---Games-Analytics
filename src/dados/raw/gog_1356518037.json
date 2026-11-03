@@ -144,5 +144,17 @@
             "name": "Good Old Game",
             "slug": "good-old-game"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 162,
+        "positive_review_count": 128,
+        "positive_percentage": 79.01,
+        "average_rating": 4.2,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 162,
+        "reviews_with_rating": 162,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

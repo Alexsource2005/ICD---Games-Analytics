@@ -141,5 +141,17 @@
             "name": "Cozy",
             "slug": "cozy"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 15,
+        "positive_review_count": 8,
+        "positive_percentage": 53.33,
+        "average_rating": 3.5,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 15,
+        "reviews_with_rating": 15,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

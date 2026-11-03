@@ -145,12 +145,12 @@
             "slug": "violent"
         },
         {
-            "name": "Multiple Endings",
-            "slug": "multiple-endings"
-        },
-        {
             "name": "Difficult",
             "slug": "difficult"
+        },
+        {
+            "name": "Multiple Endings",
+            "slug": "multiple-endings"
         },
         {
             "name": "Isometric",
@@ -172,5 +172,17 @@
             "name": "Psychological",
             "slug": "psychological"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 7,
+        "positive_review_count": 5,
+        "positive_percentage": 71.43,
+        "average_rating": 3.7,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 7,
+        "reviews_with_rating": 7,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }

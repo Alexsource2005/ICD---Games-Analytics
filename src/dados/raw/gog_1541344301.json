@@ -121,5 +121,17 @@
             "name": "Romance",
             "slug": "romance"
         }
-    ]
+    ],
+    "gog_reviews": {
+        "review_count": 5,
+        "positive_review_count": 3,
+        "positive_percentage": 60.0,
+        "average_rating": 4.2,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 5,
+        "reviews_with_rating": 5,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
 }
