@@ -1,0 +1,106 @@
+{
+    "title": "Just Cause 4",
+    "id": "e99c88534b7743198cc93706a32bb57e",
+    "namespace": "epic",
+    "description": "Just Cause 4",
+    "effectiveDate": "2020-04-16T15:00:00.000Z",
+    "keyImages": [
+        {
+            "type": "DieselStoreFrontTall",
+            "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg"
+        },
+        {
+            "type": "DieselStoreFrontWide",
+            "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg"
+        }
+    ],
+    "seller": {
+        "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+        "name": "Frogwares"
+    },
+    "productSlug": "just-cause-4/standard-edition",
+    "urlSlug": "just-cause",
+    "url": null,
+    "tags": [
+        {
+            "id": "1216"
+        },
+        {
+            "id": "1400"
+        },
+        {
+            "id": "1307"
+        },
+        {
+            "id": "9547"
+        }
+    ],
+    "items": [
+        {
+            "id": "83564e9426d44ce2bbbab6037b80354c",
+            "namespace": "epic"
+        }
+    ],
+    "customAttributes": [
+        {
+            "key": "com.epicgames.app.weight",
+            "value": "10559"
+        },
+        {
+            "key": "com.epicgames.app.offerNs",
+            "value": "ba8062bdcc1342c0b78743e3c6242575"
+        },
+        {
+            "key": "com.epicgames.app.blacklist",
+            "value": "[]"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "just-cause-4/standard-edition"
+        },
+        {
+            "key": "com.epicgames.app.offerId",
+            "value": "516eb5d868f44040a13fd486c8fc0e33"
+        }
+    ],
+    "categories": [
+        {
+            "path": "games"
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5699,
+            "originalPrice": 5699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 56,99",
+                "discountPrice": "R$ 56,99",
+                "intermediatePrice": "R$ 56,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "16/04/2020 - 23/04/2020",
+    "rating_polls": {
+        "average_rating": null,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "epic",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "erro_consulta",
+        "error": "Erro GraphQL: RatingsPollsQuery/getProductResult: Request failed with status code 404"
+    }
+}

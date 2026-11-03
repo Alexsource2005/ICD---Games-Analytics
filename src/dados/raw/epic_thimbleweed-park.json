@@ -1,0 +1,874 @@
+{
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#bfdddf"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#bfdddf"
+        }
+    },
+    "namespace": "tulip",
+    "_title": "thimbleweed-park",
+    "regionBlock": "KR",
+    "productName": "Thimbleweed Park",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/thimbleweed-park",
+    "_slug": "thimbleweed-park",
+    "_activeDate": "2019-01-25T16:40:49.809Z",
+    "lastModified": "2019-02-07T16:11:00.763Z",
+    "_locale": "pt-BR",
+    "_id": "1d9773bb-c122-4fba-a65c-e1c1d276a772",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#bfdddf"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#bfdddf"
+                }
+            },
+            "namespace": "tulip",
+            "_title": "home",
+            "regionBlock": "KR",
+            "productName": "Thimbleweed Park",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/thimbleweed-park/home",
+            "_slug": "home",
+            "_activeDate": "2019-08-07T15:30:00.000Z",
+            "lastModified": "2021-05-14T15:16:50.107Z",
+            "_locale": "pt-BR",
+            "_id": "950a6470-14dd-439f-b884-989bf5717713",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "tulip",
+                "id": "f0b60db562384b70bfe441f1965736d9",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "",
+                "appName": "",
+                "_type": "Diesel Product Item",
+                "hasItem": false,
+                "namespace": ""
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/thimbleweedpark",
+                    "linkFacebook": "https://www.facebook.com/ThimbleweedPark/",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Thimbleweed Park",
+                    "linkHomepage": "https://thimbleweedpark.com/",
+                    "linkInstagram": "https://www.instagram.com/thimbleweed_park/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, italiano, alemão, espanhol, russo"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7 (TOTALMENTE atualizado)",
+                                    "recommended": "Windows 7 (TOTALMENTE atualizado)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "2 GHz",
+                                    "recommended": "2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "RAM",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 3000 ou superior",
+                                    "recommended": "Intel HD 3000 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Direct X",
+                                    "minimum": "11 ou superior",
+                                    "recommended": "11 ou superior"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "OS X 10.7",
+                                    "recommended": "OS X 10.7"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "2 GHz",
+                                    "recommended": "2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "RAM",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 3000 ou superior",
+                                    "recommended": "Intel HD 3000 ou superior"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FESRB_Thimbleweed-842x404-8e5fcf75cae0de302323da8d0709ace3615dd2d8.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: 14 anos"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Copyright Terrible Toybox, Inc. 2017-2020",
+                    "privacyPolicyLink": {
+                        "src": "https://thimbleweedpark.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade de Thimbleweed"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FPortraitPromo-1280x1420-dc66b0d692798abb7c3c7caa7477e9070b73f9c0.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Terrible Toybox, Inc.",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Terrible Toybox, Inc.",
+                    "description": "Um hotel assombrado, um circo abandonado, uma fábrica de almofadas incendiada, um cadáver pixelado sob a ponte, sanitários que funcionam com tubos à vácuo... você jamais visitou um lugar como este.\n\nEm Thimbleweed Park, um cadáver é o menor dos seus problemas. Jogue alternando entre cinco personagens para desvendar os segredos surreais dessa estranha cidade em um jogo de aventura e mistério moderno dos mesmos criadores de Monkey Island e Maniac Mansion. Quanto mais você desvenda, mais estranha fica a história.",
+                    "shortDescription": "Um hotel assombrado, um circo abandonado, uma fábrica de almofadas incendiada, um cadáver pixelado sob a ponte, sanitários que funcionam com tubos à vácuo... você jamais visitou um lugar como este.",
+                    "title": "Boas-vindas a Thimbleweed Park. População: 80 lunáticos.",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fthimbleweed-park%2FThimbleweedPark_DeveloperLogo-500x500-94d9852a313753e3910ce7b3144c28e617416da6.jpg",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FTWPlogo_colour-633x239-8619d66ca1485861a3007ca6e2d21c6a96a5e1df.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FPortraitPromo-1280x1420-dc66b0d692798abb7c3c7caa7477e9070b73f9c0.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action",
+                        "href": "",
+                        "text": ""
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": true,
+                        "autoplay": true
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FGamePagePromoNoAgents_highres-2580x1450-2598c8a98f611486abb2236487df53ed6f402503.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"bb8b2cbc27d64538bfe93b1b6c61da78\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"c13bf810e90142789eea56e83b879dac\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"78e5df1d431f4c9eb23990d569d2aed7\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Thimbleweed Park Segunda Promo v1",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"5439a41c862d4e29bd77531a971c1e06\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"fe4077efee8f4fdd826eb9f235815fdf\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"13891cc26f9c45678f2bd01e78090b86\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Thimbleweed Park Promo v3",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"56532632006b41a3bf8defc778e43d08\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"602519eaed994040be33856395e03db2\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"2a7d70d4fd85413fb4f040aba81bba29\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Thimbleweed Park Carousel v1",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "sources": [
+                                    {
+                                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Video_Carousel-dbea7c924f095a72f8082bcd8d58a76b430e4ef7.webm",
+                                        "_type": "Diesel Html Video Source",
+                                        "type": "Video/Webm"
+                                    },
+                                    {
+                                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Video_Carousel-b2b53bb0abf0cc9cd67e1d0a918a102c9d7e6134.mp4",
+                                        "_type": "Diesel Html Video Source",
+                                        "type": "Video/mp4"
+                                    }
+                                ],
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "htmlVideo",
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Carousel01-2580x1450-9ea6833725a4bdb07b5f8903318dcc3e657618fd.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Carousel02-2580x1450-565ed02c55916b9cd6400292b588c22111f76752.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Carousel03-2580x1450-96d25d40e87266121dead22ae6be810ca7aa4586.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FPost-2580x1450-aa49ca2c502b32fa2023bdcdcf4f80d050ad6beb.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "tulip",
+                            "description": "Um hotel assombrado, um circo abandonado, uma fábrica de almofadas incendiada, um cadáver pixelado sob a ponte, sanitários que funcionam com tubos à vácuo... você jamais visitou um lugar como este.\n",
+                            "offerId": "f0b60db562384b70bfe441f1965736d9",
+                            "tag": "edition",
+                            "title": "Thimbleweed Park",
+                            "slug": "p/thimbleweed-park"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FDelores_Epic_2560x2440_v1-2560x1440-09146afe5b018daa9b031a8d92ba0474b627b011.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "tulip",
+                            "description": "Delores voltou para casa e está trabalhando como fotógrafa do Nickel News. Thimbleweed Park não mudou nada desde o ano em que ela partiu... ou será que mudou? Confira o novo mecanismo de jogo de aventura de Ron Gilbert neste protótipo grátis.",
+                            "offerId": "fabaacbc88864d4ea40ab569ad4e480e",
+                            "tag": "edition",
+                            "title": "Delores: A Thimbleweed Park mini-adventure",
+                            "slug": "p/thimbleweed-park--delores"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2017-03-30T12:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Terrible Toybox, Inc."
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Terrible Toybox, Inc."
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery01_NoLanguage-5000x956-8e0ce9b6b5eecd433f723d2363dca78be2dac257.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery02_NoLanguage-1920x1080-8f7258825ffe254641f035c731a98287d8aaef63.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery03_NoLanguage-1920x1080-c05a1a9ec24567708da5fe148d6020f42e0fdb97.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery04_English-1920x1080-cbdabb83b40818c883d1e5834fe65fedb512db10.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery05_English-1920x1080-6f6ee59fbb08760dedfd689745e4b6ad7f985a39.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "Thimbleweed Park"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#374830",
+                "customPrimaryBg": "#3e6674",
+                "accentColor": "#bfdddf",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery04_English-1920x1080-cbdabb83b40818c883d1e5834fe65fedb512db10.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery05_English-1920x1080-6f6ee59fbb08760dedfd689745e4b6ad7f985a39.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FTWPlogo_colour-633x239-8619d66ca1485861a3007ca6e2d21c6a96a5e1df.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Carousel01-2580x1450-9ea6833725a4bdb07b5f8903318dcc3e657618fd.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fthimbleweed-park%2FThimbleweedPark_DeveloperLogo-500x500-94d9852a313753e3910ce7b3144c28e617416da6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery02_NoLanguage-1920x1080-8f7258825ffe254641f035c731a98287d8aaef63.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery03_NoLanguage-1920x1080-c05a1a9ec24567708da5fe148d6020f42e0fdb97.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Carousel03-2580x1450-96d25d40e87266121dead22ae6be810ca7aa4586.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FDelores_Epic_2560x2440_v1-2560x1440-09146afe5b018daa9b031a8d92ba0474b627b011.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Video_Carousel-b2b53bb0abf0cc9cd67e1d0a918a102c9d7e6134.mp4",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FPortraitPromo-1280x1420-dc66b0d692798abb7c3c7caa7477e9070b73f9c0.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FESRB_Thimbleweed-842x404-8e5fcf75cae0de302323da8d0709ace3615dd2d8.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Video_Carousel-dbea7c924f095a72f8082bcd8d58a76b430e4ef7.webm",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FPost-2580x1450-aa49ca2c502b32fa2023bdcdcf4f80d050ad6beb.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FGamePagePromoNoAgents_highres-2580x1450-2598c8a98f611486abb2236487df53ed6f402503.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Gallery01_NoLanguage-5000x956-8e0ce9b6b5eecd433f723d2363dca78be2dac257.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FThimbleweedPark_Carousel02-2580x1450-565ed02c55916b9cd6400292b588c22111f76752.jpg"
+            ]
+        },
+        {
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#bfdddf"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#bfdddf"
+                }
+            },
+            "namespace": "tulip",
+            "_title": "delores",
+            "regionBlock": "KR",
+            "productName": "Thimbleweed Park",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/thimbleweed-park/delores",
+            "_slug": "delores",
+            "_activeDate": "2020-05-07T01:02:26.699Z",
+            "lastModified": "2020-05-09T18:02:13.375Z",
+            "_locale": "pt-BR",
+            "_id": "243a93e8-6143-452a-80f4-056bb187869b",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "tulip",
+                "id": "fabaacbc88864d4ea40ab569ad4e480e",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/thimbleweedpark",
+                    "linkFacebook": "https://www.facebook.com/ThimbleweedPark/",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Thimbleweed Park",
+                    "linkHomepage": "https://thimbleweedpark.com/",
+                    "linkInstagram": "https://www.instagram.com/thimbleweed_park/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 10 (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "12 ou superior"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "OS X 10.10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Intel HD 3000 ou superior"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_0-390x450-c95b68b02aacc3724e07991873c5ea2b3f94b5ba.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "",
+                            "_type": "Epic Footer Legal Tag"
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Copyright Terrible Toybox, Inc. 2017-2020",
+                    "privacyPolicyLink": {
+                        "src": "https://thimbleweedpark.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade de Thimbleweed"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fdelores%2FDelores_Epic_1200x1600_v1-1200x1600-6d290c338ec21a6bc2740d28a7afa4bf8815c96e.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Terrible Toybox, Inc.",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Terrible Toybox, Inc.",
+                    "description": "Ano de 1988. Delores Edmund, uma desenvolvedora de jogos de aventura, em uma brecha após seu trabalho na MMucasFlem Games, retorna a Thimbleweed Park para um curto período de férias. Em casa, ela ganha um dinheiro extra como fotógrafa do Thimbleweed Nickel News. Afinal, os desenvolvedores de jogos também têm contas a pagar!\n\nThimbleweed Park não mudou nada desde o ano em que Delores partiu... ou será que mudou? \n\n…Desde quando o S&D Diner virou um restaurante de cinco estrelas?\n...Quando o PillowBear™ se tornou tão popular?\n…Por que o palhaço Ransome começou do nada a ganhar prêmios humanitários? \n…Por que ninguém parece se lembrar do cadáver que apareceu sob a ponte há um ano?\n...Thimbleweed Park nunca esteve tão estranha!\n\nEm uma cidade como Thimbleweed Park, uma carreira paralela como fotojornalista é o menor dos seus problemas...\n\n**Delores: A Thimbleweed Park Mini-Adventure** começou como um protótipo do novo mecanismo de jogo de aventura de apontar e clicar de Ron Gilbert e acabou se transformando em um joguinho divertido. Não se trata de uma sequência de Thimbleweed Park e, provavelmente, não oferece todos os recursos incríveis para que ele se torne um jogo comercialmente viável.\n\nEsse foi um jogo difícil de produzir, pois precisamos usar quase que exclusivamente a “arte encontrada” de Thimbleweed Park para criar enigmas inéditos. E também porque não era possível fugir da vida real.\n\nEm agradecimento aos nossos fãs, vamos lançá-lo gratuitamente para que todos se divirtam nesses tempos difíceis. Não é preciso conhecer Thimbleweed Park para curtir essa miniaventura. (Mas se você gostar dela, que tal conferir também o Thimbleweed Park?)\n\nPrincipais recursos:\n* **Diversão sem fim no modo apontar e clicar!**\n* **Volte a Thimbleweed Park**, o local vencedor do prêmio Melhor Aventura de 2017 da Adventure Gamers e do prêmio Obrigada por Não Viver Mais em Casa, dado pela mãe de Ron Gilbert. (Ou então visite Thimbleweed Park pela primeira vez! Você não precisa de experiência para jogar!)\n* **Explore a Main Street e solucione enigmas** para tirar fotos para o contundente jornal de Thimbleweed Park. Um dia Natalie ainda ganha um Pulitzer, e será graças à sua ajuda!\n* **Cumpra tarefas incrivelmente difíceis** enquanto tenta decifrar o que raios está acontecendo agora em Thimbleweed Park.\n* **Experimente um novo mecanismo de jogo de aventura** criado por Ron Gilbert, que também criou o mecanismo SCUMM da Lucasfilm e os clássicos jogos Maniac Mansion e Monkey Island.",
+                    "shortDescription": "Delores voltou para casa e está trabalhando como fotógrafa do Nickel News. Thimbleweed Park não mudou nada desde o ano em que ela partiu... ou será que mudou? Confira o novo mecanismo de jogo de aventura de Ron Gilbert neste protótipo grátis.",
+                    "title": "Delores: A Thimbleweed Park Mini-Adventure",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FTWPlogo_colour-633x239-8619d66ca1485861a3007ca6e2d21c6a96a5e1df.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fdelores%2FDelores_Epic_1200x1600_v1-1200x1600-6d290c338ec21a6bc2740d28a7afa4bf8815c96e.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FDelores_Epic_2560x2440_v1-2560x1440-09146afe5b018daa9b031a8d92ba0474b627b011.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FDelores_Epic_2560x2440_v1-2560x1440-09146afe5b018daa9b031a8d92ba0474b627b011.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2020-05-09T20:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Terrible Toybox, Inc."
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "Terrible Toybox, Inc."
+                    ],
+                    "tags": [
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "Delores: A Thimbleweed Park Mini-Adventure"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#374830",
+                "customPrimaryBg": "#3e6674",
+                "accentColor": "#bfdddf",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "tag": "edition",
+            "type": "offer",
+            "_noIndex": false,
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fhome%2FDelores_Epic_2560x2440_v1-2560x1440-09146afe5b018daa9b031a8d92ba0474b627b011.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthimbleweed-park%2Fdelores%2FDelores_Epic_1200x1600_v1-1200x1600-6d290c338ec21a6bc2740d28a7afa4bf8815c96e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftulip%2Fhome%2FTWPlogo_colour-633x239-8619d66ca1485861a3007ca6e2d21c6a96a5e1df.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_0-390x450-c95b68b02aacc3724e07991873c5ea2b3f94b5ba.png"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3699,
+            "originalPrice": 3699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 36,99",
+                "discountPrice": "R$ 36,99",
+                "intermediatePrice": "R$ 36,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Thimbleweed Park",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.56,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "tulip",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

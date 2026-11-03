@@ -1,0 +1,450 @@
+{
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#970b0b"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#970b0b"
+        }
+    },
+    "namespace": "nautilus",
+    "_title": "vampyr",
+    "regionBlock": "SA",
+    "productName": "Vampyr",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/vampyr",
+    "_slug": "vampyr",
+    "_activeDate": "2018-12-10T21:43:17.871Z",
+    "lastModified": "2019-02-19T15:58:28.095Z",
+    "_locale": "pt-BR",
+    "_id": "f7bd3fe4-5502-48a0-9f59-9a16cfaff71b",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#970b0b"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#970b0b"
+                }
+            },
+            "namespace": "nautilus",
+            "_title": "início",
+            "regionBlock": "SA",
+            "productName": "Vampyr",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/vampyr/home",
+            "_slug": "home",
+            "_activeDate": "2018-12-10T21:47:04.094Z",
+            "lastModified": "2019-04-11T12:57:59.792Z",
+            "_locale": "pt-BR",
+            "_id": "d693bfb0-ba1b-44b9-9627-bf936c2185b8",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "nautilus",
+                "id": "9afcebbb195348ac96e39954e20ddf33",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "2c0dcc1618594030ab3f60565d44112a",
+                "appName": "Nautilus",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "nautilus"
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/vampyrgame",
+                    "linkFacebook": "https://facebook.com/VampyrGame/",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Vampyr",
+                    "linkHomepage": "http://www.vampyr-game.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO COMPLETO: Inglês",
+                        "LEGENDAS: Inglês, francês, alemão, espanhol (Espanha), português brasileiro, russo, polonês, italiano, chinês simplificado"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7/8/10 (64 bits)",
+                                    "recommended": "Windows 7/8/10 (64 bits)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core i3-2130 (3,4 GHz)/AMD FX-4100 (3,6 GHz)",
+                                    "recommended": "Intel Core i7-3930K (3,2 GHz)/AMD Ryzen 5 1600 (3,2 GHz)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "8 GB",
+                                    "recommended": "16 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de Vídeo",
+                                    "minimum": "2 GB, GeForce GTX 1050 (Legacy GPU: GeForce GTX 660) / Radeon R7 370",
+                                    "recommended": "4 GB, GeForce GeForce GTX 970 / GTX 1060 / Radeon R9 390"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "20 GB de espaço disponível",
+                                    "recommended": "20 GB de espaço disponível"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FAgeRating-ContentInfo_04_Vampyr-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "청소년이용불가"
+                        },
+                        {
+                            "countryCodes": "US, CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2FESRB_Vampyr_M-842x404-d473e19b2e1c4eb02f0a07e22fb8e98b05fdb54f.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "USK ab 16"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 18"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "MATURE 17+"
+                        },
+                        {
+                            "countryCodes": "AU",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FAustralia-MA15-Rating-2000x765-94dc34862727d42d6e802e80c984ab14b68c0d32.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Australian rating"
+                        },
+                        {
+                            "countryCodes": "NZ",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FOFLC-Vampyr-379x161-181f36ca08b7089bb1afaf6a37868ee4c4608e69.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "OFLC"
+                        },
+                        {
+                            "countryCodes": "BR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2FDEJUS-Vampyr-650x378-c65a17782460510baf017b023d1d8202ac72c5d7.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "DEJUS"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2018 DONTNOD Entertainment and Focus Home Interactive. VAMPYR é desenvolvido por DONTNOD Entertainment e publicado por Focus Home Interactive. VAMPYR e seu logo são marcas registradas de Focus Home Interactive. Todas as outras marcas comerciais ou marcas registradas são propriedade de seus respectivos detentores. Todos os direitos reservados."
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_About_Image-1000x840-b6bd0ecf4ff3ab549c49a276ba3cdcc40df91f0b.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "DONTNOD Entertainment",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Focus Entertainment",
+                    "description": "Londres, 1918. Você é o Dr. Jonathan Reid, recentemente convertido em vampiro. Como médico, você deve encontrar a cura para a gripe que assola a população. Como vampiro, está condenado a se alimentar daqueles que jurou curar. Você aceitará seu monstro interior? Suas ações vão salvar ou condenar Londres.",
+                    "title": "MALDITA SEJA A ESCOLHA...",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FLogo_Vampyr_Black_Vecto_WHITE%26RED-cc6584efc0729b14f544c7ec7bd1d2234d55ee41.svg",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_PortraitPromoImage_1280x1420-1280x1420-5d0c0a43fae4016925a57220657fbc86295a77eb.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "sources": [
+                            {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVAMPYR_PREROLL_20_SECS_EPIC_STORE_3Mbps-36f82607b5e3edd6b8d4c23e2dc23d4e95170cc8.mp4",
+                                "_type": "Diesel Html Video Source",
+                                "type": "Video/mp4"
+                            },
+                            {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVAMPYR_PREROLL_20_SECS_EPIC_STORE_3Mbps-eefa9a121b1ff5d043116ae6cc91191b5783012c.webm",
+                                "_type": "Diesel Html Video Source",
+                                "type": "Video/Webm"
+                            }
+                        ],
+                        "loop": true,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": true,
+                        "autoplay": true
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_GamePromoImage_2580x1450-2580x1450-035e8a3d339ba6936059ff0a0a90015d544fa5ba.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"4f14dc64bfc44689829904ce07cdaf94\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"9490c497784b413a85f9f4abb9223bfc\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"3e1beb0cf41e4de1991f81cd2271df97\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Vampyr Pre-Roll 20sec",
+                                "type": "epicHosted",
+                                "muted": true,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Carousel_2580x1450_01-2580x1450-8ed53bca3958384301df1cb59ef9ce0a2f46361c.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2018-06-04T12:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Focus Home Interactive"
+                    ],
+                    "developer": [
+                        "DONTNOD Entertainment"
+                    ],
+                    "platform": [
+                        "Windows"
+                    ],
+                    "tags": [
+                        "ACTION",
+                        "RPG",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Gallery_04-1920x1080-2a390349e22782d167dbbd27eedcdbb58c8e018b.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVampyr_Screen_05-1920x1080-f1e1ce6df2d271b88a74603689cf0ba56f85fe49.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVampyr_Screen_03-1920x1080-9503cc4140adef1c9bd0031fb7ef00539ec07bac.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Gallery_05-1920x1080-c3d74f3960d3a9a41c2eb3f5c8a35f8ede28099c.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVampyr_Screen_09-1920x1080-f8cd80341f1ce798531c659531ec10aba5a02c17.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Gallery_03-1920x1080-23cc1b74eabd5f294054f2318e9fcd0956ddde17.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        }
+                    ]
+                },
+                "navTitle": "Vampyr"
+            },
+            "pageRegionBlock": "SA",
+            "ageGate": {
+                "hasAgeGate": true,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#970b0b",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVampyr_Screen_03-1920x1080-9503cc4140adef1c9bd0031fb7ef00539ec07bac.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVampyr_Screen_09-1920x1080-f8cd80341f1ce798531c659531ec10aba5a02c17.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FOFLC-Vampyr-379x161-181f36ca08b7089bb1afaf6a37868ee4c4608e69.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVAMPYR_PREROLL_20_SECS_EPIC_STORE_3Mbps-eefa9a121b1ff5d043116ae6cc91191b5783012c.webm",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVAMPYR_PREROLL_20_SECS_EPIC_STORE_3Mbps-36f82607b5e3edd6b8d4c23e2dc23d4e95170cc8.mp4",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fusk_16-300x300-997f8da04bbc1f98c384a00f7863d19ae4bc95ca.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_GamePromoImage_2580x1450-2580x1450-035e8a3d339ba6936059ff0a0a90015d544fa5ba.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FAgeRating-ContentInfo_04_Vampyr-320x117-4643a4def61c40414cae13829c6bf5a8be44e887.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2FDEJUS-Vampyr-650x378-c65a17782460510baf017b023d1d8202ac72c5d7.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Carousel_2580x1450_01-2580x1450-8ed53bca3958384301df1cb59ef9ce0a2f46361c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FLogo_Vampyr_Black_Vecto_WHITE%26RED-cc6584efc0729b14f544c7ec7bd1d2234d55ee41.svg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_About_Image-1000x840-b6bd0ecf4ff3ab549c49a276ba3cdcc40df91f0b.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_18-200x244-74dbbaa8eda92c31a0b821de97b6a27eb40a8a52.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FAustralia-MA15-Rating-2000x765-94dc34862727d42d6e802e80c984ab14b68c0d32.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2Fhome%2FVampyr_Screen_05-1920x1080-f1e1ce6df2d271b88a74603689cf0ba56f85fe49.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Gallery_03-1920x1080-23cc1b74eabd5f294054f2318e9fcd0956ddde17.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fvampyr%2FESRB_Vampyr_M-842x404-d473e19b2e1c4eb02f0a07e22fb8e98b05fdb54f.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Gallery_05-1920x1080-c3d74f3960d3a9a41c2eb3f5c8a35f8ede28099c.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_PortraitPromoImage_1280x1420-1280x1420-5d0c0a43fae4016925a57220657fbc86295a77eb.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2FNautilus%2FVampyr_Gallery_04-1920x1080-2a390349e22782d167dbbd27eedcdbb58c8e018b.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 14990,
+            "originalPrice": 14990,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 149,90",
+                "discountPrice": "R$ 149,90",
+                "intermediatePrice": "R$ 149,90"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Vampyr",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.31,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "nautilus",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

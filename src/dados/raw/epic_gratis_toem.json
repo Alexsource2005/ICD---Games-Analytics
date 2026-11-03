@@ -1,0 +1,767 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "disableNewAddons": false,
+    "modMarketplaceEnabled": false,
+    "_title": "toem",
+    "regionBlock": "",
+    "_noIndex": false,
+    "productName": "TOEM",
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "epic"
+        }
+    },
+    "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "reviewOptOut": false,
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/toem",
+    "_slug": "toem",
+    "_activeDate": "2021-08-31T13:00:00.000Z",
+    "lastModified": "2021-08-21T18:37:07.842Z",
+    "_locale": "pt-BR",
+    "_id": "51804aaf-57c6-49de-adba-a00abc51dbfd",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "home",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "TOEM",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic"
+                }
+            },
+            "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/toem/home",
+            "_slug": "home",
+            "_activeDate": "2021-08-31T13:00:00.000Z",
+            "lastModified": "2021-09-17T00:31:08.981Z",
+            "_locale": "pt-BR",
+            "_id": "2c2c8ff3-568e-431f-a01b-ae5890199a87",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+                "id": "d4b6a615ea794a6295d34608c5426d4f",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/SWMGames",
+                    "linkFacebook": "https://www.facebook.com/SomethingWeMade",
+                    "_type": "Diesel Social Links",
+                    "linkHomepage": "https://www.somethingwemade.se/toem/"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, alemão, espanhol (Espanha), chinês simplificado, japonês, russo"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel ou AMD Dual Core de 2 GHz",
+                                    "recommended": "Intel ou AMD Dual Core de 2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Sierra 10.12 ou superior",
+                                    "recommended": "Sierra 10.12 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel ou AMD Dual Core de 2 GHz",
+                                    "recommended": "Intel ou AMD Dual Core de 2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Something We Made",
+                    "privacyPolicyLink": {
+                        "src": "https://www.somethingwemade.se/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s2-1200x1600-e1feceeed1d5.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Something We Made",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Something We Made",
+                    "description": "Parta em uma agradável expedição e use seu olhar fotográfico para desvendar os mistérios do mundo mágico de TOEM neste jogo de aventura desenhado à mão. Converse com personagens peculiares, ajude-os a resolver problemas tirando belas fotos e explore uma linda paisagem relaxante!\n\n- Tire fotos para resolver vários quebra-cabeças e ajudar os outros!\n- Escute músicas tranquilas e assimile o cenário ao seu redor!\n- Conheça personagens peculiares e ajude-os a resolver problemas variados!",
+                    "shortDescription": "Parta em uma agradável expedição e use seu olhar fotográfico para desvendar os mistérios do mundo mágico de TOEM neste jogo de aventura desenhado à mão. Converse com personagens peculiares e resolva seus problemas tirando belas fotos!",
+                    "title": "TOEM",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-ic1-400x176-d6ea2140ccab.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s2-1200x1600-e1feceeed1d5.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s1-2560x1440-45206bc312c2.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n  \"en-US\": [\n    {\n      \"recipe\": \"video-webm\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/92b63fdd051f49cbbd00bf759a7efdff/92b63fdd051f49cbbd00bf759a7efdff-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/92b63fdd051f49cbbd00bf759a7efdff/92b63fdd051f49cbbd00bf759a7efdff.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"6e02874096ef44b0a9339850ff4cfe9d\"\n    },\n    {\n      \"recipe\": \"video-hls\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/e3014a86e4fc4379b9d544a0f8a702ba/e3014a86e4fc4379b9d544a0f8a702ba-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/x-mpegURL\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/e3014a86e4fc4379b9d544a0f8a702ba/e3014a86e4fc4379b9d544a0f8a702ba.m3u8\"\n        }\n      ],\n      \"mediaRefId\": \"9d13f1863d2a415e95d0f8155c149ef6\"\n    },\n    {\n      \"recipe\": \"video-fmp4\",\n      \"outputs\": [\n        {\n          \"contentType\": \"image/png\",\n          \"key\": \"thumbnail\",\n          \"url\": \"https://media-cdn.epicgames.com/9b7594d572174b2d814df97634e55d89/9b7594d572174b2d814df97634e55d89-00001-thumb.png\"\n        },\n        {\n          \"contentType\": \"application/dash+xml\",\n          \"key\": \"manifest\",\n          \"url\": \"https://media-cdn.epicgames.com/9b7594d572174b2d814df97634e55d89/9b7594d572174b2d814df97634e55d89.mpd\"\n        }\n      ],\n      \"mediaRefId\": \"e3f1938ae6f24ea2ac9a3cff3e47614f\"\n    }\n  ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-01-1920x1080-11741646f353.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-02-1920x1080-f4313a56fb37.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-03-1920x1080-2cf42630068d.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-04-1920x1080-f6518cf29d7b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-05-1920x1080-a50b5757c989.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-06-1920x1080-184aee91e73a.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-07-1920x1080-38eae3ae32b8.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-08-1920x1080-af32e15ad0af.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "editions": [
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s1-2560x1440-45206bc312c2.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+                            "description": "Parta em uma agradável expedição e use seu olhar fotográfico para desvendar os mistérios do mundo mágico de TOEM neste jogo de aventura desenhado à mão. Converse com personagens peculiares e resolva seus problemas tirando belas fotos!",
+                            "offerId": "d4b6a615ea794a6295d34608c5426d4f",
+                            "tag": "edition",
+                            "title": "TOEM",
+                            "slug": "product/toem/home"
+                        },
+                        {
+                            "regionRestrictions": {
+                                "_type": "Store Region Filtering"
+                            },
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-s1-2560x1440-309e47bb771f.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Product Edition",
+                            "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+                            "description": "Adquira TOEM e a Trilha sonora original de TOEM neste pacote! \n\nA Trilha sonora original de TOEM inclui 65 minutos de melodias atmosféricas e descontraídas compostas por Launchable Socks e Jamal Green. ",
+                            "offerId": "1f7d9a3ec847496ba6d5ba79a6835bbe",
+                            "tag": "edition",
+                            "title": "TOEM + Trilha sonora original",
+                            "slug": "product/toem/toem-and-ost-edition"
+                        }
+                    ],
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-09-17T18:44:40.734Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "customReleaseDate": "",
+                    "platform": [
+                        "Mac",
+                        "Windows"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "productSections": [
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "EDITIONS",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "TOEM"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-01-1920x1080-11741646f353.jpg",
+                "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-s1-2560x1440-309e47bb771f.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-06-1920x1080-184aee91e73a.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-08-1920x1080-af32e15ad0af.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-03-1920x1080-2cf42630068d.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-02-1920x1080-f4313a56fb37.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s2-1200x1600-e1feceeed1d5.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-07-1920x1080-38eae3ae32b8.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s1-2560x1440-45206bc312c2.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-05-1920x1080-a50b5757c989.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-ic1-400x176-d6ea2140ccab.png",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-g1a-04-1920x1080-f6518cf29d7b.jpg"
+            ]
+        },
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "disableNewAddons": false,
+            "modMarketplaceEnabled": false,
+            "_title": "toem-and-ost-edition",
+            "regionBlock": "",
+            "_noIndex": false,
+            "productName": "TOEM",
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "epic"
+                }
+            },
+            "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+            "theme": {
+                "_type": "Diesel Theme"
+            },
+            "reviewOptOut": false,
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/toem/toem-and-ost-edition",
+            "_slug": "toem-and-ost-edition",
+            "_activeDate": "2021-09-16T23:48:09.799Z",
+            "lastModified": "2021-09-17T01:07:52.088Z",
+            "_locale": "pt-BR",
+            "_id": "72297c61-a2fd-4df7-8274-35fe3f52baeb",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+                "id": "1f7d9a3ec847496ba6d5ba79a6835bbe",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "_type": "Diesel Social Links"
+                },
+                "requirements": {
+                    "languages": [
+                        "ÁUDIO: inglês",
+                        "TEXTO: inglês, francês, alemão, espanhol (Espanha), chinês simplificado, japonês, russo"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel ou AMD Dual Core de 2 GHz",
+                                    "recommended": "Intel ou AMD Dual Core de 2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Sierra 10.12 ou superior",
+                                    "recommended": "Sierra 10.12 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel ou AMD Dual Core de 2 GHz",
+                                    "recommended": "Intel ou AMD Dual Core de 2 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "4 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "accountRequirements": "NO_REQUIREMENTS",
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 2,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2021 Something We Made",
+                    "privacyPolicyLink": {
+                        "src": "https://www.somethingwemade.se/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s2-1200x1600-e1feceeed1d5.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Something We Made",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Something We Made",
+                    "shortDescription": "Adquira TOEM e a Trilha sonora original de TOEM neste pacote! A Trilha sonora original de TOEM inclui 65 minutos de melodias atmosféricas e descontraídas compostas por Launchable Socks e Jamal Green. ",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-ic1-200x200-245e83676478.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s2-1200x1600-e1feceeed1d5.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-s1-2560x1440-309e47bb771f.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-g1a-03-1920x1080-94c4c10f1613.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2021-09-17T13:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    }
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    }
+                },
+                "gallery": {
+                    "_type": "Diesel Gallery"
+                },
+                "navTitle": "TOEM + Trilha sonora original"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "tag": "edition",
+            "type": "offer",
+            "_images_": [
+                "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-s1-2560x1440-309e47bb771f.jpg",
+                "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-ic1-200x200-245e83676478.png",
+                "https://cdn2.unrealengine.com/egs-toemoriginalsoundtrack-somethingwemade-editions-g1a-03-1920x1080-94c4c10f1613.jpg",
+                "https://cdn2.unrealengine.com/egs-toem-somethingwemade-s2-1200x1600-e1feceeed1d5.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3799,
+            "originalPrice": 3799,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 37,99",
+                "discountPrice": "R$ 37,99",
+                "intermediatePrice": "R$ 37,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "TOEM",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "19/09/2024 - 26/09/2024",
+    "rating_polls": {
+        "average_rating": 4.81,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "0ef87626cd724281b9f8f74c83c54b93",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "title": ">observer_",
+    "id": "674c5786721a4f24a99d89199948acc3",
+    "namespace": "epic",
+    "description": ">observer_",
+    "effectiveDate": "2019-05-09T08:00:00.000Z",
+    "keyImages": [
+        {
+            "type": "DieselGameBoxLogo",
+            "url": "https://cdn1.epicgames.com/epic/offer/Observer_Logo-983x742-4489f7cd745030a094e362369d5036ce.png"
+        },
+        {
+            "type": "DieselStoreFrontTall",
+            "url": "https://cdn1.epicgames.com/epic/offer/Observer_StorePortraitPromo-1280x1440-66f9fd6c33526779b58565414d6ed6c9.jpg"
+        },
+        {
+            "type": "DieselStoreFrontWide",
+            "url": "https://cdn1.epicgames.com/epic/offer/Observer_LibraryPrimary-2560x1440-3681f1bd3abab32f8a66217b91fbadbe.jpg"
+        }
+    ],
+    "seller": {
+        "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+        "name": "Aspyr Media, Inc."
+    },
+    "productSlug": "observer/home",
+    "urlSlug": "tumeric",
+    "url": null,
+    "tags": [
+        {
+            "id": "1218"
+        },
+        {
+            "id": "1127"
+        },
+        {
+            "id": "1370"
+        },
+        {
+            "id": "9547"
+        },
+        {
+            "id": "9548"
+        },
+        {
+            "id": "1294"
+        }
+    ],
+    "items": [
+        {
+            "id": "83564e9426d44ce2bbbab6037b80354c",
+            "namespace": "epic"
+        }
+    ],
+    "customAttributes": [
+        {
+            "key": "com.epicgames.app.weight",
+            "value": "999"
+        },
+        {
+            "key": "com.epicgames.app.offerNs",
+            "value": "85398892cc4544088ee87c673f95bb6f"
+        },
+        {
+            "key": "com.epicgames.app.blacklist",
+            "value": "{}"
+        },
+        {
+            "key": "com.epicgames.app.productSlug",
+            "value": "observer/home"
+        },
+        {
+            "key": "com.epicgames.app.offerId",
+            "value": "a68b0bd602c84180aca80f6f18ac23d9"
+        }
+    ],
+    "categories": [
+        {
+            "path": "games"
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 5599,
+            "originalPrice": 5599,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 55,99",
+                "discountPrice": "R$ 55,99",
+                "intermediatePrice": "R$ 55,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "17/10/2019 - 24/10/2019",
+    "rating_polls": {
+        "average_rating": null,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "epic",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "erro_consulta",
+        "error": "Erro GraphQL: RatingsPollsQuery/getProductResult: Request failed with status code 404"
+    }
+}

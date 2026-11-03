@@ -1,0 +1,463 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#000000"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#000000"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "43605e89e49d438485298819a7ef17b4",
+    "_title": "minit",
+    "productName": "Minit",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/minit",
+    "_slug": "minit",
+    "_activeDate": "2019-09-23T17:12:24.655Z",
+    "lastModified": "2019-09-23T17:13:54.899Z",
+    "_locale": "pt-BR",
+    "_id": "f857aea6-8a23-4e11-88d4-e2cfd28af563",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#000000"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#000000"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "43605e89e49d438485298819a7ef17b4",
+            "_title": "home",
+            "productName": "Minit",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/minit/home",
+            "_slug": "home",
+            "_activeDate": "2019-09-23T17:14:05.084Z",
+            "lastModified": "2019-09-25T14:15:53.736Z",
+            "_locale": "pt-BR",
+            "_id": "a66a37b3-cdbe-4fe1-b2b7-dd77470fe948",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "43605e89e49d438485298819a7ef17b4",
+                "id": "c3bb66a9e2064fa580597cee86cbc1df",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "f1d1779e3b434d429d954b49349bb4bb",
+                "appName": "Petrel",
+                "_type": "Diesel Product Item",
+                "namespace": "43605e89e49d438485298819a7ef17b4",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/devolverdigital",
+                    "linkTwitch": "https://www.twitch.tv/devolverdigital",
+                    "linkFacebook": "https://www.facebook.com/DevolverDigitalGames",
+                    "linkYoutube": "https://www.youtube.com/user/DevolverDigital",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discordapp.com/invite/devolverdigital",
+                    "title": "Siga Minit",
+                    "linkHomepage": "https://minitgame.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, francês, alemão, espanhol (Espanha), italiano, polonês, português (Brasil), russo, coreano, chinês simplificado, chinês tradicional, japonês"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "OS",
+                                    "minimum": "OSX 10.9.0 or later"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processor",
+                                    "minimum": "Intel Pentium D 830 (2* 3000) or equivalent / AMD Athlon 64 4000+ (2600) or equivalent"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memory",
+                                    "minimum": "1 GB RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Graphics",
+                                    "minimum": "GeForce 7600 GS (256 MB) / Radeon HD 2400 PRO (256 MB)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Storage",
+                                    "minimum": "200 MB available space"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows XP/Vista/7/8/8.1/10 x86/x64",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Pentium D 830 (2* 3000) ou equivalente/AMD Athlon 64 4000+ (2600) ou equivalente",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "1 GB de RAM",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "GeForce 7600 GS (256 MB)/Radeon HD 2400 PRO (256 MB)",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "200 MB de espaço disponível",
+                                    "recommended": "A definir"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FAll_V-210x117-044680db93e308928e8cb69e8dba49d021ffb065.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: livre"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FESRB_Minit-842x404-f479b70ab59c0741f4759c691869e515e0b142cd.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: livre"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_03_Rating-208x254-1eae9c4a443f46a8f8aadece3cc6182046e868c3.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Europa: livre"
+                        },
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_6-480x480-2cc23d2f3abf55ff1ca267b25c3374b2df9ceefa.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Alemanha: 6 anos"
+                        },
+                        {
+                            "countryCodes": "AU,NZ",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fmarker-227x75-a68eb850ed6b38272fdc53756ab0563c6cad55a1.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Geral"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "Copyright 2018 Devolver Digital. Todos os direitos reservados.",
+                    "privacyPolicyLink": {
+                        "src": "https://devolverdigital.com/privacy-policy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Devolver Digital"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_G2_about-1920x1080-483bf4ad64685465b0adbd1b53159887a2613595.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "JW, Kitty, Jukio, and Dom",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Devolver Digital",
+                    "description": "Minit é uma pequena e peculiar aventura jogada sessenta segundos por vez. Aventure-se para fora do conforto de seu lar para ajudar pessoas excêntricas, descobrir inúmeros segredos e derrotar inimigos perigosos, tudo na esperança de se livrar de uma maldição bem infeliz que faz os dias durarem apenas um minuto. Minit é uma colaboração de Kitty Calis, Jan Willem Nijman, Jukio Kallio e Dominik Johann.",
+                    "shortDescription": "Minit é uma pequena e peculiar aventura jogada sessenta segundos por vez.",
+                    "title": "Minit",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-3f6067162e92fef4107ea4763a9b79cd1230d48c.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_SOCIAL_instagram-1080x1920-d79e8d5d673430efdfbe2fd31fd8bfce34a3cb2f.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_N1_newsfeed_primary-2560x1440-318e6762d0f76b27a07b86271b432bbee92fef2b.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_N1_newsfeed_primary-2560x1440-318e6762d0f76b27a07b86271b432bbee92fef2b.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "accentColor": "",
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "contentId": "",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "title": "",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2018-04-03T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Devolver Digital"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "JW, Kitty, Jukio e Dom"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "PUZZLE",
+                        "INDIE"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "_type": "Epic Store Image"
+                    },
+                    "_type": "Epic Store Product SEO"
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_1-1920x1080-2738e51e4bfe9f85f8c0c6184c540cbab9acf77d.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_2-1920x1080-63be5bf18d5add678191c85475942410ccf24125.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_3-1920x1080-aad231451b1e8281f269a1092d49cda030d417d2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_4-1920x1080-154530266522e380aa2c894a1eb947b192a02b66.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_5-1920x1080-cd531ea27aebf59737f57d36e1d13890b173ede6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_6-1920x1080-a2306cb0a03924e6a49f52685a2ce3f492e333bc.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "Minit"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#ffffff",
+                "customPrimaryBg": "#000000",
+                "accentColor": "#000000",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fmarker-227x75-a68eb850ed6b38272fdc53756ab0563c6cad55a1.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_1-1920x1080-2738e51e4bfe9f85f8c0c6184c540cbab9acf77d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FESRB_Minit-842x404-f479b70ab59c0741f4759c691869e515e0b142cd.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_SOCIAL_instagram-1080x1920-d79e8d5d673430efdfbe2fd31fd8bfce34a3cb2f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_6-1920x1080-a2306cb0a03924e6a49f52685a2ce3f492e333bc.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FPEGI_03_Rating-208x254-1eae9c4a443f46a8f8aadece3cc6182046e868c3.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-3f6067162e92fef4107ea4763a9b79cd1230d48c.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_G2_about-1920x1080-483bf4ad64685465b0adbd1b53159887a2613595.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_5-1920x1080-cd531ea27aebf59737f57d36e1d13890b173ede6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_N1_newsfeed_primary-2560x1440-318e6762d0f76b27a07b86271b432bbee92fef2b.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FUSK_6-480x480-2cc23d2f3abf55ff1ca267b25c3374b2df9ceefa.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_2-1920x1080-63be5bf18d5add678191c85475942410ccf24125.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_3-1920x1080-aad231451b1e8281f269a1092d49cda030d417d2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FAll_V-210x117-044680db93e308928e8cb69e8dba49d021ffb065.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fminit%2Fhome%2FEGS_DEVOLVER_MINIT_CAROUSEL_4-1920x1080-154530266522e380aa2c894a1eb947b192a02b66.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 3299,
+            "originalPrice": 3299,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 32,99",
+                "discountPrice": "R$ 32,99",
+                "intermediatePrice": "R$ 32,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Minit",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "03/10/2019 - 10/10/2019",
+    "rating_polls": {
+        "average_rating": 4.54,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "43605e89e49d438485298819a7ef17b4",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

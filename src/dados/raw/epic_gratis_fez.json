@@ -1,0 +1,398 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "light",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#e84d2e"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#e84d2e"
+        }
+    },
+    "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+    "_title": "fez",
+    "productName": "Fez",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/fez",
+    "_slug": "fez",
+    "_activeDate": "2019-08-09T18:46:53.277Z",
+    "lastModified": "2019-08-09T18:47:45.122Z",
+    "_locale": "pt-BR",
+    "_id": "ca46e154-8b7e-4f99-b2dd-926ae3cc346e",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "light",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#e84d2e"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#e84d2e"
+                }
+            },
+            "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+            "_title": "home",
+            "productName": "Fez",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/fez/home",
+            "_slug": "home",
+            "_activeDate": "2019-08-09T18:48:06.236Z",
+            "lastModified": "2019-08-14T14:01:20.582Z",
+            "_locale": "pt-BR",
+            "_id": "58f6a201-0e3f-49df-b6b3-d0bd8e571913",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+                "id": "442f123b4d884d8ca85236aa30b99a79",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "7a70b499513441c792b541d53505e0b2",
+                "appName": "Bluebird",
+                "_type": "Diesel Product Item",
+                "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+                "hasItem": true
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkFacebook": "https://www.facebook.com/fezthegame/",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Fez",
+                    "linkHomepage": "http://fezgame.com/"
+                },
+                "requirements": {
+                    "languages": [
+                        "Inglês, alemão, francês, italiano, coreano, espanhol (Espanha), chinês tradicional, japonês, português        "
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows XP SP3 (para versão 1.11, que pode ser acessada na guia \"Betas\")",
+                                    "recommended": "Windows 7 (para versão 1.12 ou mais recente)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel Core 2 Duo de 2,8 GHz ou equivalente",
+                                    "recommended": "nVidia GeForce GT 240 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Placa de vídeo 2nd Generation Intel Core HD (2000/3000), ou GPU dedicada com suporte para OpenGL 3.0",
+                                    "recommended": "nVidia GeForce GT 240 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Disco rígido",
+                                    "minimum": "500 MB de espaço em HD",
+                                    "recommended": "500 MB de espaço em HD"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Snow Leopard 10.6.8, Lion altamente recomendado, 32/64 bits",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "CPU",
+                                    "minimum": "Intel Core 2 Duo de 2,8 GHz ou equivalente",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de vídeo",
+                                    "minimum": "Suporte para OpenGL 3.0+ (2.1 com extensões ARB aceitas)",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Disco rígido",
+                                    "minimum": "1 GB de espaço em disco",
+                                    "recommended": "A definir"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Observações",
+                                    "minimum": "Placas de vídeo integradas da Intel (exceto as séries HD e Iris) NÃO FUNCIONARÃO COM FEZ.",
+                                    "recommended": "A definir"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FESRB_InnerSpace-842x404-40888e13b9690c3d6b3958bb2a2434493a9338da.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TODOS"
+                        },
+                        {
+                            "_type": "Epic Footer Legal Tag"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "A definir ",
+                    "privacyPolicyLink": {
+                        "src": "http://www.fezgame.com/privacy.html",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade da Fez"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-9af51bb203869f687a9c011e34641459e2acf51e.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Polytron Corporation, Inc",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "Polytron Corporation, Inc",
+                    "description": "Gomez é uma criatura em 2D que vive em um mundo 2D. Ou é ele? Quando a existência de uma misteriosa 3ª dimensão é revelada, Gomez é enviado em uma jornada que o levará até o limite do tempo e do espaço. Use sua habilidade para navegar em estruturas 3D utilizando 4 perspectivas únicas e clássicas em 2D.",
+                    "title": "Fez",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FFez_Logo2-1920x1080-71efba65a4dce32389972d1ee8bddd3329d09117.png",
+                        "_type": "Diesel Image"
+                    },
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-d147cec46530772325611671d9ab1b79d134de39.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2013-04-13T15:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "Polytron Corporation, Inc"
+                    ],
+                    "developer": [
+                        "Polytron Corporation, Inc"
+                    ],
+                    "platform": [
+                        "Windows",
+                        "Mac"
+                    ],
+                    "tags": [
+                        "PUZZLE",
+                        "PLATFORMER",
+                        "SINGLE_PLAYER"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_G2_ABOUT-1920x1080-a3e8574da9514c24a55c987401a483019c136f89.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_G1_PRODUCT_PROMO-1920x1080-d6aaa69c35b6e0b39408e3619bc2eb66cee3ae18.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        }
+                    ]
+                },
+                "navTitle": "Fez"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#e84d2e",
+                "customPrimaryBg": "#ffffff",
+                "accentColor": "#e84d2e",
+                "_type": "Diesel Theme",
+                "colorScheme": "light"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FESRB_InnerSpace-842x404-40888e13b9690c3d6b3958bb2a2434493a9338da.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_G1_PRODUCT_PROMO-1920x1080-d6aaa69c35b6e0b39408e3619bc2eb66cee3ae18.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_G2_ABOUT-1920x1080-a3e8574da9514c24a55c987401a483019c136f89.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-d147cec46530772325611671d9ab1b79d134de39.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FFez_Logo2-1920x1080-71efba65a4dce32389972d1ee8bddd3329d09117.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffez%2Fhome%2FEGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-9af51bb203869f687a9c011e34641459e2acf51e.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1699,
+            "originalPrice": 1699,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 16,99",
+                "discountPrice": "R$ 16,99",
+                "intermediatePrice": "R$ 16,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Fez",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": "22/08/2019 - 29/08/2019",
+    "rating_polls": {
+        "average_rating": 4.72,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "41f47fd0d3e248bc938a5815d6d64daa",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

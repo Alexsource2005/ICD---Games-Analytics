@@ -174,5 +174,17 @@
                 "appliedRules": []
             }
         ]
+    },
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": null,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "27e33143fc9e4de8bbf76782292933d4",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "erro_consulta",
+        "error": "Erro GraphQL: RatingsPollsQuery/getProductResult: Request failed with status code 404"
     }
 }

@@ -1,0 +1,526 @@
+{
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#1c8b62"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "green",
+            "accent": "#1c8b62"
+        }
+    },
+    "namespace": "hibiscus",
+    "_title": "oxenfree",
+    "regionBlock": "KR",
+    "productName": "Oxenfree",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/oxenfree",
+    "_slug": "oxenfree",
+    "_activeDate": "2019-01-29T20:09:51.188Z",
+    "lastModified": "2019-03-18T21:44:31.566Z",
+    "_locale": "pt-BR",
+    "_id": "1436e9cb-5c5b-4bb1-8ebc-41051175adaa",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#1c8b62"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "green",
+                    "accent": "#1c8b62"
+                }
+            },
+            "namespace": "hibiscus",
+            "_title": "home",
+            "regionBlock": "KR",
+            "productName": "Oxenfree",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/oxenfree/home",
+            "_slug": "home",
+            "_activeDate": "2019-01-29T20:13:17.240Z",
+            "lastModified": "2019-04-04T21:19:54.142Z",
+            "_locale": "pt-BR",
+            "_id": "c0d83bae-d94f-4bd2-9959-c621285d14f2",
+            "_templateName": "productDetail",
+            "offer": {
+                "_type": "Diesel Offer",
+                "namespace": "hibiscus",
+                "id": "ebf5f23b876944f89d140750e756585d",
+                "hasOffer": true
+            },
+            "item": {
+                "catalogId": "a32b4fc85e2440bd9dae0dace76f5c86",
+                "appName": "Hibiscus",
+                "_type": "Diesel Product Item",
+                "hasItem": true,
+                "namespace": "hibiscus"
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/nightschoolers",
+                    "linkFacebook": "https://www.facebook.com/OxenfreeGame",
+                    "linkYoutube": "https://www.youtube.com/channel/UCQHcsLEtdPdXG_B_UyiVPgg",
+                    "_type": "Diesel Social Links",
+                    "title": "Siga Night School Studio",
+                    "linkInstagram": "https://www.instagram.com/nightschoolstudio/"
+                },
+                "requirements": {
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "Windows 7",
+                                    "recommended": "Windows 8.1 64-bit"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 2,0 GHz",
+                                    "recommended": "Intel i5 2,5 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Gráficos",
+                                    "minimum": "1 GB compatível com Shader Model 3.0 (DirectX 9.0c)",
+                                    "recommended": "NVIDIA GeForce GTX 460 | Radeon HD 6750 (ou melhor)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "DirectX",
+                                    "minimum": "11",
+                                    "recommended": "11"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "3 GB de espaço disponível",
+                                    "recommended": "3 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Placa de som",
+                                    "minimum": "Compatível com DirectX 9.0",
+                                    "recommended": "Compatível com DirectX 9.0"
+                                }
+                            ]
+                        },
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Mac",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "SO",
+                                    "minimum": "OSX 10.8 ou superior",
+                                    "recommended": "OSX 10.8 ou superior"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "Intel i3 2,0 GHz",
+                                    "recommended": "Intel i5 2,5 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "2 GB de RAM",
+                                    "recommended": "4 GB de RAM"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Gráficos",
+                                    "minimum": "1 GB compatível com OpenGL 2.0",
+                                    "recommended": "NVIDIA GeForce GTX 460 | Radeon HD 6750 (ou melhor)"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "3 GB de espaço disponível",
+                                    "recommended": "3 GB de espaço disponível"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Rede",
+                                    "minimum": "Conexão à Internet de banda larga",
+                                    "recommended": "Conexão à Internet de banda larga"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "DE",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_16-390x450-03d85e4c030dc1fbf9c2b90c498d751835e24272.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "SUGGESTED RATING"
+                        },
+                        {
+                            "countryCodes": "AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "PEGI 12"
+                        },
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FOxenfree_ESRB_RatingLabel-842x404-bc4d95d4d728a27e1fe103730b0f8d882ead2521.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "TEEN"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© 2019 NIGHTSCHOOL STUDIO",
+                    "privacyPolicyLink": {
+                        "src": "http://nightschoolstudio.com/privacy-policy/",
+                        "_type": "Diesel Link",
+                        "title": "Night School Studio Privacy Policy"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_AboutImage_1000x840-1000x840-0b0c91f6810af2faf099e974355044adbbedd823.png",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "Night School Studio",
+                    "_type": "Diesel Product About",
+                    "description": "Oxenfree é um thriller supernatural sobre um grupo de amigos que abre sem querer uma fenda fantasmagórica. Jogue como Alex, uma brilhante adolescente rebelde que leva seu novo meio-irmão, Jonas, a uma festa noturna em uma velha ilha militar. Uma reviravolta assustadora acontece quando você, sem querer, abre um portal fantasmagórico vindo do passado oculto da ilha. Você decide como lidar com esses acontecimentos, com seus colegas e com as criaturas sinistras que você libertou.\n\nVOCÊ determina cada aspecto da história da Alex enquanto explora a Ilha Edwards, descobrindo o passado sombrio da base e mudando o rumo das vidas dos seus amigos.",
+                    "title": "Escolha seu destino...",
+                    "developerLogo": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Logo_NightSchoolStudio-LogoWhite-3047x1640-d94e5415d1ff3a9be41b57d4bfe74c2d018d5f78.png",
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Logo_White-2813x331-0a5a0070bce16907be1812df682c2c25cbb082bf.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_PortraitPromo_1280x1420-1280x1420-54b585697a2d6e4fbd4280ecdf9823620692928d.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "type": "htmlVideo",
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_PrimaryPromo_2580x1450-2580x1450-b92067fecb9491e78eb584fb1a9a81c4d7f24f41.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Foxenfree%2Fhome%2F04_HeroImage_Threshold-2400x1200-741c110fb819139ff4dac3a29b445657e4f5caa0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"666f8bc3c1704c6985518c18d9327402\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"6db912f1e12545c7b84e5fbf02cfbebe\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"42dee9db00b7487aaedb95a21c850aff\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "01 Trailer Launch",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"17ecfaaa9f474343954c4ca14a350a7d\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"cc69fd09de354f8f8443cf2c1c524f47\"\n        },\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"c5a9f29376bb44ce9fc0ee5b43031676\"\n        }\n    ]\n}",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "03 - Short Trailer",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_Cave-1920x1080-f3a3961dd94cbe5621b75c41b89378e328a0652e.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_CommTower-1920x1080-2def3e3299a1926cf38307d3865f4c50cad39c75.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_Ferry-1920x1080-d6a8cdfc93c600a300a51bfea6970327faa01e2b.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_Hub_BottomLeft-1920x1080-5276e9b073cb66bdc58f41b3b498dbb7ae5accfe.png",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Foxenfree%2Fhome%2F04_HeroImage_Threshold-2400x1200-741c110fb819139ff4dac3a29b445657e4f5caa0.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "loop": false,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": false,
+                                "muted": false,
+                                "autoplay": false
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "productSections": [
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_oxenfree_0_0-1600x900-a75b30e3cb5ba5f956c0b681d4ab134108419e87.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_iPhoneScreenshotCave-2208x1242-18bcc8a9b61981c0883748359c14f322ce25c5d8.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_ChoicesStatue-1920x1080-bb102126bbbaa567fed02acb2596f562a83ae5cb.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_OxenfreeTeaser2_1080h-2557x1080-52f114777e7c217f07ad3d1e26333433f8c1dd2c.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_oxenfree1-1920x1080-874aec6240da5aa629e113e83d9340d391cbab26.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_WoodsC-1920x1080-aaf0cb93b4b7d62157b3113f94acb274b549f9ec.png",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        }
+                    ]
+                },
+                "navTitle": "Oxenfree"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "theme": {
+                "buttonPrimaryBg": "#51c09f",
+                "customPrimaryBg": "#003329",
+                "accentColor": "#1c8b62",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FOxenfree_ESRB_RatingLabel-842x404-bc4d95d4d728a27e1fe103730b0f8d882ead2521.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FGermanSuggestedRating_16-390x450-03d85e4c030dc1fbf9c2b90c498d751835e24272.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_Ferry-1920x1080-d6a8cdfc93c600a300a51bfea6970327faa01e2b.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_PrimaryPromo_2580x1450-2580x1450-b92067fecb9491e78eb584fb1a9a81c4d7f24f41.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Foxenfree%2Fhome%2F04_HeroImage_Threshold-2400x1200-741c110fb819139ff4dac3a29b445657e4f5caa0.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_Cave-1920x1080-f3a3961dd94cbe5621b75c41b89378e328a0652e.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_oxenfree1-1920x1080-874aec6240da5aa629e113e83d9340d391cbab26.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_AboutImage_1000x840-1000x840-0b0c91f6810af2faf099e974355044adbbedd823.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Logo_NightSchoolStudio-LogoWhite-3047x1640-d94e5415d1ff3a9be41b57d4bfe74c2d018d5f78.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_ChoicesStatue-1920x1080-bb102126bbbaa567fed02acb2596f562a83ae5cb.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_OxenfreeTeaser2_1080h-2557x1080-52f114777e7c217f07ad3d1e26333433f8c1dd2c.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_CommTower-1920x1080-2def3e3299a1926cf38307d3865f4c50cad39c75.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_iPhoneScreenshotCave-2208x1242-18bcc8a9b61981c0883748359c14f322ce25c5d8.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_PortraitPromo_1280x1420-1280x1420-54b585697a2d6e4fbd4280ecdf9823620692928d.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Logo_White-2813x331-0a5a0070bce16907be1812df682c2c25cbb082bf.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_oxenfree_0_0-1600x900-a75b30e3cb5ba5f956c0b681d4ab134108419e87.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2Fage-12-black-295x360-b9c10c69ec4c53c94806b6686ff161ce603c6f41.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Carousel_Hub_BottomLeft-1920x1080-5276e9b073cb66bdc58f41b3b498dbb7ae5accfe.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fhibiscus%2Fhome%2FOxenfree_Gallery_WoodsC-1920x1080-aaf0cb93b4b7d62157b3113f94acb274b549f9ec.png"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1899,
+            "originalPrice": 1899,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 18,99",
+                "discountPrice": "R$ 18,99",
+                "intermediatePrice": "R$ 18,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "Oxenfree",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "rating_polls": {
+        "average_rating": 4.55,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "hibiscus",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}

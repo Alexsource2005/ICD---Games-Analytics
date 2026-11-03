@@ -1,0 +1,453 @@
+{
+    "productRatings": {
+        "_type": "Epic Store Product Ratings"
+    },
+    "pageTheme": {
+        "preferredMode": "dark",
+        "light": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#E1DEDE"
+        },
+        "_type": "Epic Store Page Theme",
+        "dark": {
+            "_type": "Epic Store Page Theme Selection",
+            "theme": "gray",
+            "accent": "#E1DEDE"
+        }
+    },
+    "modMarketplaceEnabled": false,
+    "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+    "_title": "the-bridge",
+    "theme": {
+        "_type": "Diesel Theme"
+    },
+    "_noIndex": false,
+    "productName": "The Bridge",
+    "externalNavLinks": {
+        "_type": "Epic Store Links"
+    },
+    "_urlPattern": "/pt-BR/productv2/the-bridge",
+    "_slug": "the-bridge",
+    "_activeDate": "2020-01-14T04:34:00.595Z",
+    "lastModified": "2020-01-14T04:35:34.632Z",
+    "_locale": "pt-BR",
+    "_id": "832d592f-f3d9-4ebf-aac1-0533c4eac0ab",
+    "_templateName": "productNamespace",
+    "pages": [
+        {
+            "productRatings": {
+                "_type": "Epic Store Product Ratings"
+            },
+            "pageTheme": {
+                "preferredMode": "dark",
+                "light": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#E1DEDE"
+                },
+                "_type": "Epic Store Page Theme",
+                "dark": {
+                    "_type": "Epic Store Page Theme Selection",
+                    "theme": "gray",
+                    "accent": "#E1DEDE"
+                }
+            },
+            "modMarketplaceEnabled": false,
+            "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+            "_title": "home",
+            "theme": {
+                "buttonPrimaryBg": "#E1DEDE",
+                "customPrimaryBg": "#0c0c0c",
+                "accentColor": "#E1DEDE",
+                "_type": "Diesel Theme",
+                "colorScheme": "dark"
+            },
+            "_noIndex": false,
+            "productName": "The Bridge",
+            "externalNavLinks": {
+                "_type": "Epic Store Links"
+            },
+            "_urlPattern": "/pt-BR/productv2/the-bridge/home",
+            "_slug": "home",
+            "_activeDate": "2020-01-14T04:35:52.442Z",
+            "lastModified": "2020-01-17T16:41:50.211Z",
+            "_locale": "pt-BR",
+            "_id": "6a4217ee-d716-4429-bf04-7884500a5941",
+            "_templateName": "productDetail",
+            "offer": {
+                "regionRestrictions": {
+                    "_type": "Store Region Filtering"
+                },
+                "_type": "Diesel Offer",
+                "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+                "id": "674967c55648467ba8e9d163a27170db",
+                "hasOffer": true
+            },
+            "item": {
+                "_type": "Diesel Product Item",
+                "namespace": "",
+                "hasItem": false
+            },
+            "data": {
+                "productLinks": {
+                    "_type": "Diesel Product Lins"
+                },
+                "socialLinks": {
+                    "linkTwitter": "https://twitter.com/QuantumApG",
+                    "linkFacebook": "https://www.facebook.com/QuantumApG/",
+                    "linkYoutube": "https://www.youtube.com/channel/UCQkua-szfo0IDh2aaC4-IvA",
+                    "_type": "Diesel Social Links",
+                    "linkDiscord": "https://discord.gg/7sHh7WD",
+                    "title": "Siga o The Bridge"
+                },
+                "requirements": {
+                    "languages": [
+                        "texto:  inglês, finlandês, alemão, italiano, espanhol (Espanha), chinês simplificado, chinês tradicional, francês, dinamarquês, holandês, japonês, coreano, norueguês, polonês, português, português (Brasil), romeno, russo, ucraniano, turco, tailandês, sueco, húngaro"
+                    ],
+                    "systems": [
+                        {
+                            "_type": "Diesel System Detail",
+                            "systemType": "Windows",
+                            "details": [
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Sistema operacional",
+                                    "minimum": "Windows 8",
+                                    "recommended": "Windows 10"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Processador",
+                                    "minimum": "1,0 GHz",
+                                    "recommended": "2,0 GHz"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Memória",
+                                    "minimum": "512 MB",
+                                    "recommended": "1 GB"
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Armazenamento",
+                                    "minimum": "400 MB",
+                                    "recommended": ""
+                                },
+                                {
+                                    "_type": "Diesel System Detail Item",
+                                    "title": "Versão do DirectX",
+                                    "minimum": "9.0"
+                                }
+                            ]
+                        }
+                    ],
+                    "legalTags": [
+                        {
+                            "countryCodes": "US,CA",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FESRB_InnerSpace-842x404-40888e13b9690c3d6b3958bb2a2434493a9338da.jpg",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária nos Estados Unidos: livre"
+                        },
+                        {
+                            "countryCodes": "KR",
+                            "visibility": "visibleToSpecific",
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FAll-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                            "_type": "Epic Footer Legal Tag",
+                            "title": "Classificação etária na Coreia do Sul: livre"
+                        }
+                    ],
+                    "_type": "Diesel System Details",
+                    "rating": {
+                        "_type": "Diesel Rating"
+                    }
+                },
+                "navOrder": 1,
+                "footer": {
+                    "_type": "Diesel Product Footer",
+                    "copy": "© Copyright 2020 The Quantum Astrophysicists Guild, Incorporated. Todos os direitos reservados.",
+                    "privacyPolicyLink": {
+                        "src": "http://thebridgeisblackandwhite.com/privacy",
+                        "_type": "Diesel Link",
+                        "title": "Política de Privacidade — The Quantum Astrophysicists Guild"
+                    }
+                },
+                "_type": "Diesel Product Detail",
+                "about": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-3907ea70be9c2765eeebbd3492efe7446062fb80.jpg",
+                        "_type": "Diesel Image"
+                    },
+                    "developerAttribution": "The Quantum Astrophysicists Guild",
+                    "_type": "Diesel Product About",
+                    "publisherAttribution": "The Quantum Astrophysicists Guild",
+                    "description": "The Bridge é um jogo de quebra-cabeça lógico que leva o jogador a reavaliar suas percepções de física e perspectiva. É um verdadeiro encontro entre Escher e Isaac Newton. Manipule a gravidade para colocar o teto no lugar do piso e ouse com arquiteturas impossíveis.\n\n# Resolva quebra-cabeças alucinantes\n\n48 quebra-cabeças instigantes e únicos com uma solução inédita para cada um.\n\n# Um mundo de cabeça para baixo\n\nManipulações da gravidade, vórtices gravitacionais, dimensões paralelas e muitos outros conceitos alucinantes em um mundo onde as leis da física não são o que parecem.\n\n# M. C. Escher ganha vida\n\nMundos à la M. C. Escher com arquiteturas impossíveis criadas ao estilo da bela arte litográfica feita à mão e em preto e branco.\n\n# Finais alternativos e quebra-cabeças de bônus\n\nUma versão alternativa do jogo é desbloqueada após a conclusão da história principal, incluindo versões alternativas desafiadoras de cada um dos 24 principais quebra-cabeças, além de um final alternativo.\n\n# E você pode voltar no tempo!\n\nUm sistema para você voltar no tempo e aliviar o medo de cometer um erro.",
+                    "shortDescription": "The Bridge é um jogo de quebra-cabeça lógico que leva o jogador a reavaliar suas percepções de física e perspectiva. É um verdadeiro encontro entre Escher e Isaac Newton. Manipule a gravidade para colocar o teto no lugar do piso e ouse com arquiteturas impossíveis.",
+                    "title": "The Bridge",
+                    "developerLogo": {
+                        "_type": "Diesel Image"
+                    }
+                },
+                "banner": {
+                    "showPromotion": false,
+                    "_type": "Epic Store Product Banner",
+                    "link": {
+                        "_type": "Diesel Link"
+                    }
+                },
+                "hero": {
+                    "logoImage": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_IC1-200x200-7e5157ea0e42d813602c7381042e1a08eb9664fd.png",
+                        "_type": "Diesel Image"
+                    },
+                    "portraitBackgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-3907ea70be9c2765eeebbd3492efe7446062fb80.jpg",
+                    "_type": "Diesel Hero",
+                    "action": {
+                        "_type": "Diesel Action"
+                    },
+                    "video": {
+                        "loop": false,
+                        "_type": "Diesel Video",
+                        "hasFullScreen": false,
+                        "hasControls": false,
+                        "muted": false,
+                        "autoplay": false
+                    },
+                    "isFullBleed": false,
+                    "altContentPosition": false,
+                    "backgroundImageUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S3-1360x766-1d9cce686cd699c7ea5320f34bfcc606e11c2a10.jpg"
+                },
+                "carousel": {
+                    "_type": "Diesel Carousel",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-334aea67d80df202d3eb6f65a0cd02893e8a4fe5.jpg",
+                                "_type": "Diesel Image"
+                            },
+                            "_type": "Diesel Carousel Item - Image OR Video",
+                            "video": {
+                                "epicStillDurationSeconds": 2,
+                                "recipes": "{\n    \"en-US\": [\n        {\n            \"recipe\": \"video-hls\",\n            \"mediaRefId\": \"813b101a5f3e47a9a1b4cc52413c1d88\"\n        },\n        {\n            \"recipe\": \"video-fmp4\",\n            \"mediaRefId\": \"62f8fe91c35547ed9cb472ac92a1b4a6\"\n        },\n        {\n            \"recipe\": \"video-webm\",\n            \"mediaRefId\": \"55c5f0f098214053840cf12355ab9511\"\n        }\n    ]\n}",
+                                "epicStillType": "PREPEND",
+                                "loop": true,
+                                "_type": "Diesel Video",
+                                "hasFullScreen": false,
+                                "hasControls": true,
+                                "title": "Trailer de The Bridge",
+                                "type": "epicHosted",
+                                "muted": false,
+                                "autoplay": true
+                            }
+                        }
+                    ]
+                },
+                "editions": {
+                    "_type": "Epic Store Editions",
+                    "enableImages": false
+                },
+                "meta": {
+                    "releaseDate": "2013-02-22T16:00:00.000Z",
+                    "_type": "Epic Store Meta",
+                    "publisher": [
+                        "The Quantum Astrophysicists Guild"
+                    ],
+                    "logo": {
+                        "_type": "Epic Store Image"
+                    },
+                    "developer": [
+                        "The Quantum Astrophysicists Guild",
+                        " Ty Taylor",
+                        "Mario Castañeda"
+                    ],
+                    "platform": [
+                        "Mac",
+                        "Windows"
+                    ],
+                    "tags": [
+                        "INDIE",
+                        "PLATFORMER",
+                        "PHYSICS"
+                    ]
+                },
+                "markdown": {
+                    "_type": "Epic Store Markdown"
+                },
+                "dlc": {
+                    "contingentOffer": {
+                        "regionRestrictions": {
+                            "_type": "Store Region Filtering"
+                        },
+                        "_type": "Diesel Offer",
+                        "hasOffer": false
+                    },
+                    "_type": "Epic Store DLC",
+                    "enableImages": false
+                },
+                "seo": {
+                    "image": {
+                        "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S5-640x478-31e221fcd7a75fefa23d5b0e7aa3bb16a04efe2b.png",
+                        "_type": "Epic Store Image"
+                    },
+                    "twitter": {
+                        "_type": "SEO Twitter Metadata"
+                    },
+                    "keywords": "Jogo de quebra-cabeça lógico The Bridge",
+                    "_type": "Epic Store Product SEO",
+                    "og": {
+                        "_type": "SEO OG Metadata"
+                    },
+                    "description": "The Bridge é um jogo de quebra-cabeça lógico que leva o jogador a reavaliar suas percepções de física e perspectiva. É um verdadeiro encontro entre Escher e Isaac Newton. Manipule a gravidade para colocar o teto no lugar do piso e ouse com arquiteturas impossíveis.",
+                    "title": "The Bridge"
+                },
+                "productSections": [
+                    {
+                        "productSection": "CAROUSEL",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "HERO",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "ABOUT",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "GALLERY",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "SOCIAL_LINKS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "REQUIREMENTS",
+                        "_type": "Diesel Product Section"
+                    },
+                    {
+                        "productSection": "FOOTER",
+                        "_type": "Diesel Product Section"
+                    }
+                ],
+                "gallery": {
+                    "_type": "Diesel Gallery",
+                    "galleryImages": [
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_01-1920x1080-adadc364174cbbd6b0aa8cd6aac5b4ee82178ba2.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 1
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_02-1920x1080-4de6d879991a12b585d1141cb54a389e7820bfe9.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_03-1920x1080-ab22ad85f5386eff8bd44b491029128f66b591f6.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 2
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_04-1920x1080-b692be259a383d6d4341a6a5ae3d3fae7c47937f.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 3
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_05-1920x1080-d67e01c2e0aef6307aa161459242ab00c6406890.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_06-1920x1080-ce22b348e76c230ae2f428c06f66d6e6e9905870.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 4
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_07-1920x1080-a3f313e850c61eeb5a8e1cb46b77838a05691b83.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 5
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_08-1920x1080-b52d78cee918b73d294c10d76b0a4920130bbe6e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_09-1920x1080-c1aecb4faeec1a4bd79bd37da18f811ec459024e.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 6
+                        },
+                        {
+                            "src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_10-1920x1080-b64b4faa1ed20edaf22e4285da1ca76b2e48db2f.jpg",
+                            "_type": "Diesel Gallery Image",
+                            "row": 7
+                        }
+                    ]
+                },
+                "navTitle": "The Bridge"
+            },
+            "ageGate": {
+                "hasAgeGate": false,
+                "_type": "Epic Store Age Gate"
+            },
+            "type": "productHome",
+            "_images_": [
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_IC1-200x200-7e5157ea0e42d813602c7381042e1a08eb9664fd.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_04-1920x1080-b692be259a383d6d4341a6a5ae3d3fae7c47937f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fratings%2FESRB_InnerSpace-842x404-40888e13b9690c3d6b3958bb2a2434493a9338da.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S3-1360x766-1d9cce686cd699c7ea5320f34bfcc606e11c2a10.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_08-1920x1080-b52d78cee918b73d294c10d76b0a4920130bbe6e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_09-1920x1080-c1aecb4faeec1a4bd79bd37da18f811ec459024e.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-3907ea70be9c2765eeebbd3492efe7446062fb80.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_05-1920x1080-d67e01c2e0aef6307aa161459242ab00c6406890.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_07-1920x1080-a3f313e850c61eeb5a8e1cb46b77838a05691b83.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_03-1920x1080-ab22ad85f5386eff8bd44b491029128f66b591f6.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-334aea67d80df202d3eb6f65a0cd02893e8a4fe5.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_S5-640x478-31e221fcd7a75fefa23d5b0e7aa3bb16a04efe2b.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_10-1920x1080-b64b4faa1ed20edaf22e4285da1ca76b2e48db2f.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FAll-100x117-8f84cb6d9f6101b4e619aa673cf2f7d8f8922dd0.png",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_01-1920x1080-adadc364174cbbd6b0aa8cd6aac5b4ee82178ba2.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_02-1920x1080-4de6d879991a12b585d1141cb54a389e7820bfe9.jpg",
+                "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fthe-bridge%2Fhome%2FEGS_TheQuantumAstrophysicistsGuild_TheBridge_G1A_06-1920x1080-ce22b348e76c230ae2f428c06f66d6e6e9905870.jpg"
+            ]
+        }
+    ],
+    "price": {
+        "totalPrice": {
+            "discountPrice": 1999,
+            "originalPrice": 1999,
+            "voucherDiscount": 0,
+            "discount": 0,
+            "currencyCode": "BRL",
+            "currencyInfo": {
+                "decimals": 2
+            },
+            "fmtPrice": {
+                "originalPrice": "R$ 19,99",
+                "discountPrice": "R$ 19,99",
+                "intermediatePrice": "R$ 19,99"
+            }
+        },
+        "lineOffers": [
+            {
+                "appliedRules": []
+            }
+        ]
+    },
+    "title": "The Bridge",
+    "_store_country_requested": "BR",
+    "_store_locale_requested": "pt-BR",
+    "data_aquisicao_gratis": null,
+    "rating_polls": {
+        "average_rating": 4.08,
+        "rating_scale": 5,
+        "rating_count": null,
+        "sandbox_id": "d5ee752640ef4cee8b7f5364410ba41f",
+        "page_slug": null,
+        "source": "Epic Games Store RatingsPolls",
+        "status": "ok",
+        "identifier_source": "namespace_or_sandboxId"
+    }
+}
