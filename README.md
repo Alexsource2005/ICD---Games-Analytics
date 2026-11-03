@@ -27,62 +27,23 @@
   GOG: A coleta dos metadados de preço, data de lançamento, tags categorizadas foram todas feitos via a API da plataforma. com os endpoints "catalog.gog.com/v1/catalog" para os metadados base e "reviews.gog.com/v1/products/{prod_id}/reviews" para coletar a quantidade total de reviews e determinar um parâmtro de quais avaliações seriam positivas (4 ou mais estrelas) e calcular a porcentagem de quantas reviews são positivas em relação ao total através dele.
 
   Descrição da estrutura da tabela:
-/-----------------------------------------------------------------------/
-/    COLUNA       ///          DESCRIÇÃO          ///     EXEMPLO       /
-/-----------------///-----------------------------///-------------------/
-/      Jogo       ///  Nome do jogo como aparece  ///  "Batman Arkham   /
-/                 ///  na loja                    ///   Knight"         /
-/-----------------///-----------------------------///-------------------/
-/     Gênero      ///  Categoria principal do     ///      "Ação"       /
-/    primário     ///  jogo (priorizando Steam)   ///                   /
-/-----------------///-----------------------------///-------------------/
-/     Gênero      ///  Categoria secundária ou    ///    "Aventura"     /
-/   secundário    ///  complementar               ///                   /
-/-----------------///-----------------------------///-------------------/
-/    Data de      ///  Data oficial de lançamento ///    "23/06/2015"   /
-/   lançamento    ///  padronizada (DD/MM/AAAA)   ///                   /
-/-----------------///-----------------------------///-------------------/
-/  Preço Steam    ///  Preço em BRL na Steam      ///     "R$89,99"     /
-/-----------------///-----------------------------///-------------------/
-/  Preço Epic     ///  Preço em BRL na Epic       ///     "R$49,99"     /
-/-----------------///-----------------------------///-------------------/
-/  Preço GOG      ///  Preço em BRL na GOG        ///     "R$49,99"     /
-/-----------------///-----------------------------///-------------------/
-/  Data Aquisição ///  Intervalo de datas em que  ///  "19/09/2019 -    /
-/  Gratuita Epic  ///  o jogo esteve gratuito     ///   26/09/2019"     /
-/-----------------///-----------------------------///-------------------/
-/   Estimativa    ///  Faixa estimada do número   ///  "3,376,080 -     /
-/  donos Steam    ///  de proprietários na Steam  ///   5,626,800"      /
-/-----------------///-----------------------------///-------------------/
-/    Qtd Reviews  ///  Quantidade total de        ///                   /
-/       Steam     ///  avaliações de usuários     ///     "76009"       /
-/                 ///  registradas na Steam       ///                   /
-/-----------------///-----------------------------///-------------------/
-/   % positivas   /// Porcentagem de avaliações   ///     "87.995"      /
-/      Steam      /// positivas em relação ao todo///                   /
-/-----------------///-----------------------------///-------------------/
-/   Nota média    ///  Nota média do jogo no      ///                   /
-/      Epic       ///  sistema Rating & Polls     ///      "4.82"       /
-/                 ///  da Epic                    ///                   /  
-/-----------------///-----------------------------///-------------------/
-/   Qtd Reviews   ///  Quantidade toal de         ///                   /
-/      GOG        ///  avaliações de usuários     ///      "225"        /
-/                 ///  registradas na GOG         ///                   /
-/-----------------///-----------------------------///-------------------/
-/  % positivas    ///  Porcentagem de avaliações  ///                   /
-/      GOG        ///  positivas em relação ao    ///      "84.0"       /
-/                 ///  todo. Com estrelas >= 4.   ///                   /
-/-----------------///-----------------------------///-------------------/
-/   Nota Média    ///  Nota média do jogo no      ///                   /
-/      GOG        ///  sistema de estrelas da     ///      "4.4"        /
-/                 ///  GOG                        ///                   /
-/-----------------///-----------------------------///-------------------/
-/  Disponível na  ///  Indica se o jogo possui    ///       "sim"       /
-/      Steam      ///  pagina de venda na Steam   ///                   /
-/-----------------///-----------------------------///-------------------/
-/  Disponível na  ///  Indica se o jogo possui    ///       "sim"       /
-/      Epic       ///  pagina de venda na Epic    ///                   /
-/-----------------///-----------------------------///-------------------/
-/  Disponível na  ///  Indica se o jogo possui    ///       "sim"       /
-/      GOG        ///  página de venda na GOG     ///                   /
-/-----------------///-----------------------------///-------------------/
+| COLUNA | DESCRIÇÃO | EXEMPLO |
+| :--- | :--- | :--- |
+| **Jogo** | Nome do jogo como aparece na loja | "Batman Arkham Knight" |
+| **Gênero primário** | Categoria principal do jogo (priorizando Steam) | "Ação" |
+| **Gênero secundário** | Categoria secundária ou complementar | "Aventura" |
+| **Data de lançamento** | Data oficial de lançamento padronizada (DD/MM/AAAA) | "23/06/2015" |
+| **Preço Steam** | Preço em BRL na Steam | "R$89,99" |
+| **Preço Epic** | Preço em BRL na Epic | "R$49,99" |
+| **Preço GOG** | Preço em BRL na GOG | "R$49,99" |
+| **Data Aquisição Gratuita Epic** | Intervalo de datas em que o jogo esteve gratuito | "19/09/2019 - 26/09/2019" |
+| **Estimativa donos Steam** | Faixa estimada do número de proprietários na Steam | "3,376,080 - 5,626,800" |
+| **Qtd Reviews Steam** | Quantidade total de avaliações de usuários registradas na Steam | "76009" |
+| **% positivas Steam** | Porcentagem de avaliações positivas em relação ao todo | "87.995" |
+| **Nota média Epic** | Nota média do jogo no sistema Rating & Polls da Epic | "4.82" |
+| **Qtd Reviews GOG** | Quantidade total de avaliações de usuários registradas na GOG | "225" |
+| **% positivas GOG** | Porcentagem de avaliações positivas em relação ao todo. Com estrelas >= 4. | "84.0" |
+| **Nota Média GOG** | Nota média do jogo no sistema de estrelas da GOG | "4.4" |
+| **Disponível na Steam** | Indica se o jogo possui página de venda na Steam | "sim" |
+| **Disponível na Epic** | Indica se o jogo possui página de venda na Epic | "sim" |
+| **Disponível na GOG** | Indica se o jogo possui página de venda na GOG | "sim" |
