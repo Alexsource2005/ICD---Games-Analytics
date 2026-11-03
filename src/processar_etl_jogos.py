@@ -690,6 +690,8 @@ df["Qtd Reviews GOG"] = df["Qtd Reviews GOG"].astype("Int64")
 df["% Positivas GOG"] = pd.to_numeric(df["% Positivas GOG"], errors="coerce").astype("Float64")
 df["Nota Média GOG"] = pd.to_numeric(df["Nota Média GOG"], errors="coerce").astype("Float64")
 
+df = df.sort_values(by="Jogo", key=lambda col: col.str.lower()).reset_index(drop=True)
+
 caminho_csv = "dados/processed/tabela_comparativa_jogos.csv"
 df.to_csv(caminho_csv, index=False, encoding="utf-8-sig")
 
