@@ -5,6 +5,9 @@ import re
 import time
 import math
 import requests
+from logger_utils import ativar_logger
+
+ativar_logger("gog_log.txt")
 
 os.makedirs("dados/raw", exist_ok=True)
 
@@ -65,6 +68,43 @@ def limpar_nome(nome):
     nome_limpo = re.sub(r"[^\w\s\-\']", "", nome_limpo)
     return nome_limpo.strip()
 
+
+MAPA_TAGS = {
+    "Action": "Ação",
+    "Adventure": "Aventura",
+    "Atmospheric": "Atmosférico",
+    "Cozy": "Aconchegante",
+    "Difficult": "Difícil",
+    "Open World": "Mundo Aberto",
+    "Physics": "Física",
+    "Racing": "Corrida",
+    "Rally": "Corrida",
+    "Relaxing": "Relaxante",
+    "Shooter": "Tiro",
+    "Simulation": "Simulação",
+    "Story Rich": "Rico em História",
+    "Strategy": "Estratégia",
+    "Survival": "Sobrevivência",
+}
+
+def traduzir_estrutura(lista_itens):
+    """Traduz o campo 'name' em listas de tags ou gêneros retornadas pela GOG."""
+    if not isinstance(lista_itens, list):
+        return lista_itens
+    
+    itens_traduzidos = []
+    for item in lista_itens:
+        if isinstance(item, dict):
+            nome_en = item.get("name", "")
+            item_copia = item.copy()
+            # Substitui 'name' pelo termo em PT-BR (ou mantém o original se não estiver no dicionário)
+            item_copia["name"] = MAPA_TAGS.get(nome_en, nome_en)
+            item_copia["name_en"] = nome_en  # Opcional: preserva o nome original em inglês
+            itens_traduzidos.append(item_copia)
+        else:
+            itens_traduzidos.append(item)
+            
+    return itens_traduzidos
 
 def buscar_jogo_gog(nome_original):
     nome_busca = limpar_nome(nome_original)
@@ -262,6 +302,20 @@ def obter_chave_review(review):
         ensure_ascii=False
     )
 
+def fazer_requisicao_com_retry(url, params=None, headers=None, timeout=20, max_tentativas=3):
+    """Realiza uma requisição HTTP com re-tentativas automáticas em caso de erro de conexão ou timeout"""
+    for tentativa in range(1, max_tentativas + 1):
+        try:
+            resposta = requests.get(url, params=params, headers=headers, timeout=timeout)
+            resposta.raise_for_status()
+            return resposta
+        except requests.RequestException as e:
+            if tentativa < max_tentativas:
+                tempo_espera = tentativa*3
+                print(f"⚠️ Instabilidade (tentativa {tentativa}/{max_tentativas}) na URL... Aguardando {tempo_espera}s: {e}")
+                time.sleep(tempo_espera)
+            else:
+                raise e
 
 def coletar_reviews_gog(prod_id, produto_gog=None, detalhes_json=None):
     """
@@ -296,14 +350,7 @@ def coletar_reviews_gog(prod_id, produto_gog=None, detalhes_json=None):
     erro_consulta = None
 
     try:
-        resposta = requests.get(
-            url,
-            params={**params_base, "page": 1},
-            headers=headers,
-            timeout=20
-        )
-
-        resposta.raise_for_status()
+        resposta = fazer_requisicao_com_retry(url, params={**params_base, "page":1}, headers=headers, timeout=20)
 
         primeira_pagina = resposta.json()
 
@@ -364,14 +411,7 @@ def coletar_reviews_gog(prod_id, produto_gog=None, detalhes_json=None):
 
             else:
                 try:
-                    resp_pagina = requests.get(
-                        url,
-                        params={**params_base, "page": pagina},
-                        headers=headers,
-                        timeout=20
-                    )
-
-                    resp_pagina.raise_for_status()
+                    resp_pagina = fazer_requisicao_com_retry(url, params={**params_base, "page":pagina}, headers=headers, timeout=20)
                     dados_pagina = resp_pagina.json()
 
                 except (requests.RequestException, ValueError) as erro:
@@ -614,6 +654,9 @@ for indice, nome in enumerate(sorted(nomes_jogos), start=1):
             produto_gog=produto_gog,
             detalhes_json=detalhes_json
         )
+
+        detalhes_json["genres"] = traduzir_estrutura(detalhes_json.get("genres", []))
+        detalhes_json["tages"] = traduzir_estrutura(detalhes_json.get("tags", []))
 
         caminho_saida = f"dados/raw/gog_{prod_id}.json"
 

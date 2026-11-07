@@ -1,0 +1,194 @@
+{
+    "id": 1280776741,
+    "title": "Blue Fire",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/blue_fire",
+    "slug": "blue_fire",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/blue_fire",
+        "product_card": "https://www.gog.com/game/blue_fire",
+        "support": "https://www.gog.com/support/blue_fire",
+        "forum": "https://www.gog.com/forum/blue_fire"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-07-23T14:50:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/266bd45d178768cefe31762b74243406b9008a1c7cbfe6d07c59d341136c3d65.jpg",
+        "logo": "//images-2.gog-statics.com/a1936e9e9b6ac00bff69cd5f43fb26f5051c376a535e95dd5eeec9f9b935132f_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/a1936e9e9b6ac00bff69cd5f43fb26f5051c376a535e95dd5eeec9f9b935132f_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/b93f3d4ff93a13ffef322074099058a83ee592522e6b3255597075dcb87ca77e_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/b93f3d4ff93a13ffef322074099058a83ee592522e6b3255597075dcb87ca77e_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/b93f3d4ff93a13ffef322074099058a83ee592522e6b3255597075dcb87ca77e_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/b93f3d4ff93a13ffef322074099058a83ee592522e6b3255597075dcb87ca77e_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/b93f3d4ff93a13ffef322074099058a83ee592522e6b3255597075dcb87ca77e.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1672743307,
+                "link": "https://api.gog.com/products/1672743307",
+                "expanded_link": "https://api.gog.com/products/1672743307"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1672743307",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1672743307"
+    },
+    "price": {
+        "final": "R$ 37,99",
+        "base": "R$ 37,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "37.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "37.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer",
+            "name_en": "Platformer"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Souls-like",
+            "slug": "souls-like"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 12,
+        "positive_review_count": 7,
+        "positive_percentage": 58.33,
+        "average_rating": 3.6,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 12,
+        "reviews_with_rating": 12,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer",
+            "name_en": "Platformer"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic",
+            "name_en": "Magic"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash",
+            "name_en": "Hack and Slash"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal",
+            "name_en": "Surreal"
+        },
+        {
+            "name": "Souls-like",
+            "slug": "souls-like",
+            "name_en": "Souls-like"
+        }
+    ]
+}

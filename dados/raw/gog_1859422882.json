@@ -1,0 +1,160 @@
+{
+    "id": 1859422882,
+    "title": "The Detroit After",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/the_detroit_after",
+    "slug": "the_detroit_after",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/the_detroit_after",
+        "product_card": "https://www.gog.com/game/the_detroit_after",
+        "support": "https://www.gog.com/support/the_detroit_after",
+        "forum": "https://www.gog.com/forum/general"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2024-05-27T14:55:00+0200",
+    "images": {
+        "background": "//images-3.gog-statics.com/199186481225b85e0c8747876a62183d1e5adbaa6eb60119dcd312c629865df4.jpg",
+        "logo": "//images-4.gog-statics.com/142d41cc516a1dcbd6228d871c821af87e58ff18d26cc21b78249fbda52a611e_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/142d41cc516a1dcbd6228d871c821af87e58ff18d26cc21b78249fbda52a611e_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/9069eafb2c7ed947aa4fc9c28e3b05ee9209d7a6364c6339e593f0c4fa5a1f9d_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/9069eafb2c7ed947aa4fc9c28e3b05ee9209d7a6364c6339e593f0c4fa5a1f9d_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/9069eafb2c7ed947aa4fc9c28e3b05ee9209d7a6364c6339e593f0c4fa5a1f9d_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/9069eafb2c7ed947aa4fc9c28e3b05ee9209d7a6364c6339e593f0c4fa5a1f9d_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/9069eafb2c7ed947aa4fc9c28e3b05ee9209d7a6364c6339e593f0c4fa5a1f9d.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1640153984,
+                "link": "https://api.gog.com/products/1640153984",
+                "expanded_link": "https://api.gog.com/products/1640153984"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1640153984",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1640153984"
+    },
+    "price": {
+        "final": "R$ 13,79",
+        "base": "R$ 13,79",
+        "discount": null,
+        "finalMoney": {
+            "amount": "13.79",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "13.79",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Tiro",
+            "slug": "shooter",
+            "name_en": "Shooter"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi",
+            "name_en": "Sci-fi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi",
+            "name_en": "Sci-fi"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent",
+            "name_en": "Violent"
+        },
+        {
+            "name": "Top-Down",
+            "slug": "top-down",
+            "name_en": "Top-Down"
+        },
+        {
+            "name": "Tiro",
+            "slug": "shooter",
+            "name_en": "Shooter"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash",
+            "name_en": "Hack and Slash"
+        },
+        {
+            "name": "RTS",
+            "slug": "rts",
+            "name_en": "RTS"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade",
+            "name_en": "Arcade"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk",
+            "name_en": "Cyberpunk"
+        },
+        {
+            "name": "Robots",
+            "slug": "robots",
+            "name_en": "Robots"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 17,
+        "positive_review_count": 8,
+        "positive_percentage": 47.06,
+        "average_rating": 3.3,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 17,
+        "reviews_with_rating": 17,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}

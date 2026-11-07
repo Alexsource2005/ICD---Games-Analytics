@@ -1,0 +1,187 @@
+{
+    "id": 1623867313,
+    "title": "Cris Tales",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/cris_tales",
+    "slug": "cris_tales",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/cris_tales",
+        "product_card": "https://www.gog.com/game/cris_tales",
+        "support": "https://www.gog.com/support/cris_tales",
+        "forum": "https://www.gog.com/forum/cris_tales"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-07-20T14:50:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/47d935d58a8086062f3139e69f3a45978c20df68b5df47059ab8ae75a7bbcda4.jpg",
+        "logo": "//images-4.gog-statics.com/02e945471692ff2c05902fd561152f8c3ee5e9f36fa19196b7fa4bdb362f0fa0_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/02e945471692ff2c05902fd561152f8c3ee5e9f36fa19196b7fa4bdb362f0fa0_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/cdb8edf4692480cd370f9a1f9793f67a80d3a982070de72857dcc748be25b73d_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/cdb8edf4692480cd370f9a1f9793f67a80d3a982070de72857dcc748be25b73d_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/cdb8edf4692480cd370f9a1f9793f67a80d3a982070de72857dcc748be25b73d_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/cdb8edf4692480cd370f9a1f9793f67a80d3a982070de72857dcc748be25b73d_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/cdb8edf4692480cd370f9a1f9793f67a80d3a982070de72857dcc748be25b73d.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1465406009,
+                "link": "https://api.gog.com/products/1465406009",
+                "expanded_link": "https://api.gog.com/products/1465406009"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1465406009",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1465406009"
+    },
+    "price": {
+        "final": "R$ 14,99",
+        "base": "R$ 149,99",
+        "discount": "-90%",
+        "finalMoney": {
+            "amount": "14.99",
+            "currency": "BRL",
+            "discount": "135.00"
+        },
+        "baseMoney": {
+            "amount": "149.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg",
+            "name_en": "Role-playing"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Time Manipulation",
+            "slug": "time-manipulation"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 24,
+        "positive_review_count": 12,
+        "positive_percentage": 50.0,
+        "average_rating": 3.4,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 24,
+        "reviews_with_rating": 24,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based",
+            "name_en": "Turn-Based"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist",
+            "name_en": "Female Protagonist"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter",
+            "name_en": "Choices Matter"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg",
+            "name_en": "JRPG"
+        },
+        {
+            "name": "Time Manipulation",
+            "slug": "time-manipulation",
+            "name_en": "Time Manipulation"
+        }
+    ]
+}

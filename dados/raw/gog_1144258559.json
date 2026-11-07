@@ -1,0 +1,197 @@
+{
+    "id": 1144258559,
+    "title": "Viewfinder",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/viewfinder",
+    "slug": "viewfinder",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/viewfinder",
+        "product_card": "https://www.gog.com/game/viewfinder",
+        "support": "https://www.gog.com/support/viewfinder",
+        "forum": "https://www.gog.com/forum/viewfinder"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2025-10-01T14:55:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/ac16704ba933bbaf8224ca788ca541a0b7bc02865ea1de305f34945d660650e4.jpg",
+        "logo": "//images-2.gog-statics.com/4b1d8b2b8a639fd5104180ad6ce1e30100e70bbd347a970be2e3840294fbad56_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/4b1d8b2b8a639fd5104180ad6ce1e30100e70bbd347a970be2e3840294fbad56_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/4fe0f7339655141d0e2decaf8b2df1e44f23bb08fe115432a2cc21f8679fd416_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/4fe0f7339655141d0e2decaf8b2df1e44f23bb08fe115432a2cc21f8679fd416_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/4fe0f7339655141d0e2decaf8b2df1e44f23bb08fe115432a2cc21f8679fd416_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/4fe0f7339655141d0e2decaf8b2df1e44f23bb08fe115432a2cc21f8679fd416_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/4fe0f7339655141d0e2decaf8b2df1e44f23bb08fe115432a2cc21f8679fd416.png"
+    },
+    "dlcs": [],
+    "price": {
+        "final": "R$ 22,19",
+        "base": "R$ 73,99",
+        "discount": "-70%",
+        "finalMoney": {
+            "amount": "22.19",
+            "currency": "BRL",
+            "discount": "51.80"
+        },
+        "baseMoney": {
+            "amount": "73.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Platformer",
+            "slug": "platformer",
+            "name_en": "Platformer"
+        },
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Physics",
+            "slug": "physics"
+        },
+        {
+            "name": "Psychological",
+            "slug": "psychological"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 26,
+        "positive_review_count": 20,
+        "positive_percentage": 76.92,
+        "average_rating": 4.3,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 26,
+        "reviews_with_rating": 26,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration",
+            "name_en": "Exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person",
+            "name_en": "First-Person"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer",
+            "name_en": "Platformer"
+        },
+        {
+            "name": "Retro",
+            "slug": "retro",
+            "name_en": "Retro"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal",
+            "name_en": "Surreal"
+        },
+        {
+            "name": "Física",
+            "slug": "physics",
+            "name_en": "Physics"
+        },
+        {
+            "name": "Psychological",
+            "slug": "psychological",
+            "name_en": "Psychological"
+        }
+    ]
+}

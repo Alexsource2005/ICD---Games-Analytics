@@ -1,0 +1,172 @@
+{
+    "id": 1301333630,
+    "title": "EARTHLOCK",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/earthlock",
+    "slug": "earthlock",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "no": "norsk",
+        "pl": "polski",
+        "ru": "русский"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/earthlock",
+        "product_card": "https://www.gog.com/game/earthlock",
+        "support": "https://www.gog.com/support/earthlock",
+        "forum": "https://www.gog.com/forum/earthlock"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": null,
+    "images": {
+        "background": "//images-2.gog-statics.com/fadff1b5602f3b191ce61edbb96c797d8728c4e620f22978479343d20de32c99.jpg",
+        "logo": "//images-4.gog-statics.com/08ab1e5d2a6d868efd54769dec8385cebd3ce66b500ff51bc8c2f7e7d6af9907_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/08ab1e5d2a6d868efd54769dec8385cebd3ce66b500ff51bc8c2f7e7d6af9907_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/127907d79066882377f8127d754bf8b88187350c966bc4a0d3525b75cf89f17b_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/127907d79066882377f8127d754bf8b88187350c966bc4a0d3525b75cf89f17b_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/127907d79066882377f8127d754bf8b88187350c966bc4a0d3525b75cf89f17b_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/127907d79066882377f8127d754bf8b88187350c966bc4a0d3525b75cf89f17b_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/127907d79066882377f8127d754bf8b88187350c966bc4a0d3525b75cf89f17b.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1166477234,
+                "link": "https://api.gog.com/products/1166477234",
+                "expanded_link": "https://api.gog.com/products/1166477234"
+            },
+            {
+                "id": 1776602891,
+                "link": "https://api.gog.com/products/1776602891",
+                "expanded_link": "https://api.gog.com/products/1776602891"
+            },
+            {
+                "id": 2055127276,
+                "link": "https://api.gog.com/products/2055127276",
+                "expanded_link": "https://api.gog.com/products/2055127276"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1166477234,1776602891,2055127276",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1166477234,1776602891,2055127276"
+    },
+    "price": {
+        "final": "R$ 43,95",
+        "base": "R$ 146,55",
+        "discount": "-70%",
+        "finalMoney": {
+            "amount": "43.95",
+            "currency": "BRL",
+            "discount": "102.60"
+        },
+        "baseMoney": {
+            "amount": "146.55",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "rpg",
+            "name_en": "Role-playing"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg"
+        },
+        {
+            "name": "Farming",
+            "slug": "farming"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 12,
+        "positive_review_count": 3,
+        "positive_percentage": 25.0,
+        "average_rating": 3.3,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 12,
+        "reviews_with_rating": 12,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based",
+            "name_en": "Turn-Based"
+        },
+        {
+            "name": "JRPG",
+            "slug": "jrpg",
+            "name_en": "JRPG"
+        },
+        {
+            "name": "Farming",
+            "slug": "farming",
+            "name_en": "Farming"
+        }
+    ]
+}

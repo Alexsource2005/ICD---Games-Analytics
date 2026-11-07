@@ -1,0 +1,186 @@
+{
+    "id": 1436435983,
+    "title": "Infinifactory",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/infinifactory",
+    "slug": "infinifactory",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/infinifactory",
+        "product_card": "https://www.gog.com/game/infinifactory",
+        "support": "https://www.gog.com/support/infinifactory",
+        "forum": "https://www.gog.com/forum/infinifactory"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2015-07-10T08:00:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/0e874a97c4b78ba9a1284e24948e381e49e33bc47ff4166d28a5eb6d035ff81d.jpg",
+        "logo": "//images-4.gog-statics.com/5d120bb01d7149ed3448cf095e9ce06fd16f6dbd58aa20e7eccad050de043a7f_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/5d120bb01d7149ed3448cf095e9ce06fd16f6dbd58aa20e7eccad050de043a7f_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/8fe6d6d9d1f77f332fbd45bbfa0b4cd02a774a17d0438006d5b53567c0ca1999_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/8fe6d6d9d1f77f332fbd45bbfa0b4cd02a774a17d0438006d5b53567c0ca1999_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/8fe6d6d9d1f77f332fbd45bbfa0b4cd02a774a17d0438006d5b53567c0ca1999_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/8fe6d6d9d1f77f332fbd45bbfa0b4cd02a774a17d0438006d5b53567c0ca1999_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/8fe6d6d9d1f77f332fbd45bbfa0b4cd02a774a17d0438006d5b53567c0ca1999.png"
+    },
+    "dlcs": [],
+    "price": {
+        "final": "R$ 73,99",
+        "base": "R$ 73,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "73.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "73.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Estratégia",
+            "slug": "strategy",
+            "name_en": "Strategy"
+        },
+        {
+            "name": "Building",
+            "slug": "building",
+            "name_en": "Building"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult"
+        },
+        {
+            "name": "Space",
+            "slug": "space"
+        },
+        {
+            "name": "Building",
+            "slug": "building"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 24,
+        "positive_review_count": 21,
+        "positive_percentage": 87.5,
+        "average_rating": 4.5,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 24,
+        "reviews_with_rating": 24,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Estratégia",
+            "slug": "strategy",
+            "name_en": "Strategy"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person",
+            "name_en": "First-Person"
+        },
+        {
+            "name": "Science",
+            "slug": "science",
+            "name_en": "Science"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack",
+            "name_en": "Great Soundtrack"
+        },
+        {
+            "name": "Sandbox",
+            "slug": "sandbox",
+            "name_en": "Sandbox"
+        },
+        {
+            "name": "Difícil",
+            "slug": "difficult",
+            "name_en": "Difficult"
+        },
+        {
+            "name": "Space",
+            "slug": "space",
+            "name_en": "Space"
+        },
+        {
+            "name": "Building",
+            "slug": "building",
+            "name_en": "Building"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic",
+            "name_en": "Logic"
+        }
+    ]
+}

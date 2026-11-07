@@ -1,0 +1,170 @@
+{
+    "id": 1797331296,
+    "title": "Barony",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/barony",
+    "slug": "barony",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/barony",
+        "product_card": "https://www.gog.com/game/barony",
+        "support": "https://www.gog.com/support/barony",
+        "forum": "https://www.gog.com/forum/barony_cursed_edition"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2016-05-10T14:59:00+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/e6903f964ce553f47f1cea2555cd1c1b74158c526f3565865e6e7ba9fedb5389.jpg",
+        "logo": "//images-4.gog-statics.com/ceff850c8491ddb5d84c0c07877bfda2e034844d9e7ef69ad25e56200e52479b_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/ceff850c8491ddb5d84c0c07877bfda2e034844d9e7ef69ad25e56200e52479b_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/2e510e5a1ffc445a9695c3d1407a472d016bc36e68369ff66d29b419120c9dbb_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/2e510e5a1ffc445a9695c3d1407a472d016bc36e68369ff66d29b419120c9dbb_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/2e510e5a1ffc445a9695c3d1407a472d016bc36e68369ff66d29b419120c9dbb_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/2e510e5a1ffc445a9695c3d1407a472d016bc36e68369ff66d29b419120c9dbb_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/2e510e5a1ffc445a9695c3d1407a472d016bc36e68369ff66d29b419120c9dbb.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1082751049,
+                "link": "https://api.gog.com/products/1082751049",
+                "expanded_link": "https://api.gog.com/products/1082751049"
+            },
+            {
+                "id": 1268102647,
+                "link": "https://api.gog.com/products/1268102647",
+                "expanded_link": "https://api.gog.com/products/1268102647"
+            },
+            {
+                "id": 1754860718,
+                "link": "https://api.gog.com/products/1754860718",
+                "expanded_link": "https://api.gog.com/products/1754860718"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1082751049,1268102647,1754860718",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1082751049,1268102647,1754860718"
+    },
+    "price": {
+        "final": "R$ 59,99",
+        "base": "R$ 59,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "59.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "59.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike",
+            "name_en": "Roguelike"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person",
+            "name_en": "First-Person"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics",
+            "name_en": "Pixel Graphics"
+        },
+        {
+            "name": "Third Person",
+            "slug": "third-person",
+            "name_en": "Third Person"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer",
+            "name_en": "Multiplayer"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent",
+            "name_en": "Violent"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult",
+            "name_en": "Difficult"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike",
+            "name_en": "Roguelike"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps",
+            "name_en": "FPS"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite",
+            "name_en": "Roguelite"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler",
+            "name_en": "Dungeon Crawler"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 47,
+        "positive_review_count": 36,
+        "positive_percentage": 76.6,
+        "average_rating": 3.8,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 47,
+        "reviews_with_rating": 47,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}

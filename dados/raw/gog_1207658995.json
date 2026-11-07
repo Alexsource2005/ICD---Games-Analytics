@@ -1,0 +1,160 @@
+{
+    "id": 1207658995,
+    "title": "Deus Ex™ GOTY Edition",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/deus_ex",
+    "slug": "deus_ex",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/deus_ex",
+        "product_card": "https://www.gog.com/game/deus_ex",
+        "support": "https://www.gog.com/support/deus_ex",
+        "forum": "https://www.gog.com/forum/deus_ex_series"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2012-01-26T05:57:00+0100",
+    "images": {
+        "background": "//images-2.gog-statics.com/dc3c4cfbc9ec2fae5c5e1be6956fb926fc0028df2854c8447c73ac0b8807126c.jpg",
+        "logo": "//images-1.gog-statics.com/79429e097ac499290497415f13c0a1747a07659fc7b53f8cc07f1b0afd569333_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/79429e097ac499290497415f13c0a1747a07659fc7b53f8cc07f1b0afd569333_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/9b1af3a95e69e6e8c30862a9a65eae4cc0b36de72287fd3002d101e9acf95002_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/9b1af3a95e69e6e8c30862a9a65eae4cc0b36de72287fd3002d101e9acf95002_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/9b1af3a95e69e6e8c30862a9a65eae4cc0b36de72287fd3002d101e9acf95002_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/9b1af3a95e69e6e8c30862a9a65eae4cc0b36de72287fd3002d101e9acf95002_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/9b1af3a95e69e6e8c30862a9a65eae4cc0b36de72287fd3002d101e9acf95002.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1525634891,
+                "link": "https://api.gog.com/products/1525634891",
+                "expanded_link": "https://api.gog.com/products/1525634891"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1525634891",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1525634891"
+    },
+    "price": {
+        "final": "R$ 28,99",
+        "base": "R$ 28,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "28.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "28.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "FPP",
+            "slug": "fpp",
+            "name_en": "FPP"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi",
+            "name_en": "Sci-fi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi",
+            "name_en": "Sci-fi"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic",
+            "name_en": "Classic"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person",
+            "name_en": "First-Person"
+        },
+        {
+            "name": "Science",
+            "slug": "science",
+            "name_en": "Science"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack",
+            "name_en": "Great Soundtrack"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps",
+            "name_en": "FPS"
+        },
+        {
+            "name": "Stealth",
+            "slug": "stealth",
+            "name_en": "Stealth"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk",
+            "name_en": "Cyberpunk"
+        },
+        {
+            "name": "Good Old Game",
+            "slug": "good-old-game",
+            "name_en": "Good Old Game"
+        },
+        {
+            "name": "Dystopian",
+            "slug": "dystopian",
+            "name_en": "Dystopian"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 735,
+        "positive_review_count": 646,
+        "positive_percentage": 87.89,
+        "average_rating": 4.8,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 735,
+        "reviews_with_rating": 735,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}

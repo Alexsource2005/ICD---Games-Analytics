@@ -1,0 +1,161 @@
+{
+    "id": 1167578660,
+    "title": "Calico",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/calico",
+    "slug": "calico",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/calico",
+        "product_card": "https://www.gog.com/game/calico",
+        "support": "https://www.gog.com/support/calico",
+        "forum": "https://www.gog.com/forum/calico"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-03-18T14:50:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/e86b42daa755305f937eaa3a95de2ba9f076b3625f1334afe02923cffb6610ec.jpg",
+        "logo": "//images-2.gog-statics.com/b9c4ffd4a38aeb18fb615ba9009f355c9e36e66394fd6c4f213fed59eec93727_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/b9c4ffd4a38aeb18fb615ba9009f355c9e36e66394fd6c4f213fed59eec93727_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/d10814f538c8e5a6be5ef81f9215498b4a3a1339993252a10597d01b429b55d9_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/d10814f538c8e5a6be5ef81f9215498b4a3a1339993252a10597d01b429b55d9_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/d10814f538c8e5a6be5ef81f9215498b4a3a1339993252a10597d01b429b55d9_menu_notification_av.png",
+        "menuNotificationAv2": "//images-1.gog-statics.com/d10814f538c8e5a6be5ef81f9215498b4a3a1339993252a10597d01b429b55d9_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/d10814f538c8e5a6be5ef81f9215498b4a3a1339993252a10597d01b429b55d9.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1869897197,
+                "link": "https://api.gog.com/products/1869897197",
+                "expanded_link": "https://api.gog.com/products/1869897197"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1869897197",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1869897197"
+    },
+    "price": {
+        "final": "R$ 24,89",
+        "base": "R$ 24,89",
+        "discount": null,
+        "finalMoney": {
+            "amount": "24.89",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "24.89",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Simulação",
+            "slug": "simulation",
+            "name_en": "Simulation"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Simulação",
+            "slug": "simulation",
+            "name_en": "Simulation"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual",
+            "name_en": "Casual"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist",
+            "name_en": "Female Protagonist"
+        },
+        {
+            "name": "Mundo Aberto",
+            "slug": "open-world",
+            "name_en": "Open World"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly",
+            "name_en": "Family Friendly"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing",
+            "name_en": "Relaxing"
+        },
+        {
+            "name": "Magic",
+            "slug": "magic",
+            "name_en": "Magic"
+        },
+        {
+            "name": "LGBTQ+",
+            "slug": "lgbtq-plus",
+            "name_en": "LGBTQ+"
+        },
+        {
+            "name": "Aconchegante",
+            "slug": "cozy",
+            "name_en": "Cozy"
+        },
+        {
+            "name": "LifeSim",
+            "slug": "lifesim",
+            "name_en": "LifeSim"
+        },
+        {
+            "name": "Cats",
+            "slug": "cats",
+            "name_en": "Cats"
+        },
+        {
+            "name": "Dog",
+            "slug": "dog",
+            "name_en": "Dog"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 13,
+        "positive_review_count": 10,
+        "positive_percentage": 76.92,
+        "average_rating": 3.0,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 13,
+        "reviews_with_rating": 13,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}

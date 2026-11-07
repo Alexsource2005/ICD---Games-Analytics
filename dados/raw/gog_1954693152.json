@@ -1,0 +1,178 @@
+{
+    "id": 1954693152,
+    "title": "Happy Game",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/happy_game",
+    "slug": "happy_game",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "cz": "český",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "nl": "nederlands",
+        "pl": "polski",
+        "pt": "português",
+        "ru": "русский",
+        "tr": "Türkçe",
+        "uk": "yкраїнська",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/happy_game",
+        "product_card": "https://www.gog.com/game/happy_game",
+        "support": "https://www.gog.com/support/happy_game",
+        "forum": "https://www.gog.com/forum/happy_game"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-10-28T14:55:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/89e294eaa637c4b98bf123d59204519346e2ca19b7a8f9ebc87f902d72a8a471.jpg",
+        "logo": "//images-4.gog-statics.com/f9b932d204e2e9d99a1de86c1942d8cbc87a21e8a0d6f385b2d7fe08e4647bfc_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/f9b932d204e2e9d99a1de86c1942d8cbc87a21e8a0d6f385b2d7fe08e4647bfc_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/513015d346d4a55b275f5ffe4ef4ef6a76c156ecda9c4b17291eab9846bbe049_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/513015d346d4a55b275f5ffe4ef4ef6a76c156ecda9c4b17291eab9846bbe049_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/513015d346d4a55b275f5ffe4ef4ef6a76c156ecda9c4b17291eab9846bbe049_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/513015d346d4a55b275f5ffe4ef4ef6a76c156ecda9c4b17291eab9846bbe049_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/513015d346d4a55b275f5ffe4ef4ef6a76c156ecda9c4b17291eab9846bbe049.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1311383856,
+                "link": "https://api.gog.com/products/1311383856",
+                "expanded_link": "https://api.gog.com/products/1311383856"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1311383856",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1311383856"
+    },
+    "price": {
+        "final": "R$ 54,99",
+        "base": "R$ 54,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "54.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "54.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Horror",
+            "slug": "horror",
+            "name_en": "Horror"
+        },
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick",
+            "name_en": "Point-and-click"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual",
+            "name_en": "Casual"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark",
+            "name_en": "Dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror",
+            "name_en": "Horror"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click",
+            "name_en": "Point&Click"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent",
+            "name_en": "Violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore",
+            "name_en": "Gore"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal",
+            "name_en": "Surreal"
+        },
+        {
+            "name": "Supernatural",
+            "slug": "supernatural",
+            "name_en": "Supernatural"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 19,
+        "positive_review_count": 12,
+        "positive_percentage": 63.16,
+        "average_rating": 3.1,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 19,
+        "reviews_with_rating": 19,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "id": 1180670910,
+    "title": "Ghostwire: Tokyo",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/ghostwire_tokyo",
+    "slug": "ghostwire_tokyo",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "es_mx": "Español (AL)",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/ghostwire_tokyo",
+        "product_card": "https://www.gog.com/game/ghostwire_tokyo",
+        "support": "https://www.gog.com/support/ghostwire_tokyo",
+        "forum": "https://www.gog.com/forum/ghostwire_tokyo"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2026-10-15T15:00:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/27e872ce20e283e799866d5cce22ee2846501b6854b3f73e976b70f576e99ca7.jpg",
+        "logo": "//images-3.gog-statics.com/1b7797edd8854601deb3a09f7e81f3c7ee89c93f00bbca9a9fef809e8ba498e9_glx_logo.jpg",
+        "logo2x": "//images-1.gog-statics.com/1b7797edd8854601deb3a09f7e81f3c7ee89c93f00bbca9a9fef809e8ba498e9_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/f5629d4c5a7b06132feb2cbd89f7e6c41c371df9b314f12f0b145a20b15b7fad_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/f5629d4c5a7b06132feb2cbd89f7e6c41c371df9b314f12f0b145a20b15b7fad_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/f5629d4c5a7b06132feb2cbd89f7e6c41c371df9b314f12f0b145a20b15b7fad_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/f5629d4c5a7b06132feb2cbd89f7e6c41c371df9b314f12f0b145a20b15b7fad_menu_notification_av2.png",
+        "icon": "//images-4.gog-statics.com/f5629d4c5a7b06132feb2cbd89f7e6c41c371df9b314f12f0b145a20b15b7fad.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1203320424,
+                "link": "https://api.gog.com/products/1203320424",
+                "expanded_link": "https://api.gog.com/products/1203320424"
+            },
+            {
+                "id": 1383417467,
+                "link": "https://api.gog.com/products/1383417467",
+                "expanded_link": "https://api.gog.com/products/1383417467"
+            },
+            {
+                "id": 1486490536,
+                "link": "https://api.gog.com/products/1486490536",
+                "expanded_link": "https://api.gog.com/products/1486490536"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1203320424,1383417467,1486490536",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1203320424,1383417467,1486490536"
+    },
+    "price": {
+        "final": "R$ 209,00",
+        "base": "R$ 209,00",
+        "discount": null,
+        "finalMoney": {
+            "amount": "209.00",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "209.00",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror",
+            "name_en": "Horror"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Open World",
+            "slug": "open-world"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps"
+        },
+        {
+            "name": "Realistic",
+            "slug": "realistic"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk"
+        },
+        {
+            "name": "Supernatural",
+            "slug": "supernatural"
+        },
+        {
+            "name": "Good Old Game",
+            "slug": "good-old-game"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 11,
+        "positive_review_count": 9,
+        "positive_percentage": 81.82,
+        "average_rating": 4.5,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 11,
+        "reviews_with_rating": 11,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration",
+            "name_en": "Exploration"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person",
+            "name_en": "First-Person"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror",
+            "name_en": "Horror"
+        },
+        {
+            "name": "Mundo Aberto",
+            "slug": "open-world",
+            "name_en": "Open World"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery",
+            "name_en": "Mystery"
+        },
+        {
+            "name": "FPS",
+            "slug": "fps",
+            "name_en": "FPS"
+        },
+        {
+            "name": "Realistic",
+            "slug": "realistic",
+            "name_en": "Realistic"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror",
+            "name_en": "Survival Horror"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal",
+            "name_en": "Surreal"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk",
+            "name_en": "Cyberpunk"
+        },
+        {
+            "name": "Supernatural",
+            "slug": "supernatural",
+            "name_en": "Supernatural"
+        },
+        {
+            "name": "Good Old Game",
+            "slug": "good-old-game",
+            "name_en": "Good Old Game"
+        }
+    ]
+}

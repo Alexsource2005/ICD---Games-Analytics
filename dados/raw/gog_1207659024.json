@@ -1,0 +1,269 @@
+{
+    "id": 1207659024,
+    "title": "Botanicula",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/botanicula",
+    "slug": "botanicula",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "cn": "中文",
+        "cz": "český",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "pl": "polski",
+        "ru": "русский",
+        "sk": "slovenský"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/botanicula",
+        "product_card": "https://www.gog.com/game/botanicula",
+        "support": "https://www.gog.com/support/botanicula",
+        "forum": "https://www.gog.com/forum/botanicula"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": null,
+    "images": {
+        "background": "//images-1.gog-statics.com/5b503303f4653afae81b240fe9d1956547ad125bddfa5b04ca4c2e53fa60881a.jpg",
+        "logo": "//images-3.gog-statics.com/1f77b7402630e9bda04369ef8442d89ef94f71dbb231afa1c2495d465e3400b4_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/1f77b7402630e9bda04369ef8442d89ef94f71dbb231afa1c2495d465e3400b4_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/0ed6720e696da623328a6bc308aa527d0592097f9ab28e7f4ebf1f1662450baa_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/0ed6720e696da623328a6bc308aa527d0592097f9ab28e7f4ebf1f1662450baa_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/0ed6720e696da623328a6bc308aa527d0592097f9ab28e7f4ebf1f1662450baa_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/0ed6720e696da623328a6bc308aa527d0592097f9ab28e7f4ebf1f1662450baa_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/0ed6720e696da623328a6bc308aa527d0592097f9ab28e7f4ebf1f1662450baa.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1765912842,
+                "link": "https://api.gog.com/products/1765912842",
+                "expanded_link": "https://api.gog.com/products/1765912842"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1765912842",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1765912842"
+    },
+    "price": {
+        "final": "R$ 54,99",
+        "base": "R$ 54,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "54.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "54.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Point-and-click",
+            "slug": "pointandclick",
+            "name_en": "Point-and-click"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly"
+        },
+        {
+            "name": "Relaxing",
+            "slug": "relaxing"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic"
+        },
+        {
+            "name": "Cartoony",
+            "slug": "cartoony"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal"
+        },
+        {
+            "name": "Nature",
+            "slug": "nature"
+        },
+        {
+            "name": "Cozy",
+            "slug": "cozy"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 91,
+        "positive_review_count": 78,
+        "positive_percentage": 85.71,
+        "average_rating": 4.4,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 91,
+        "reviews_with_rating": 91,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Exploration",
+            "slug": "exploration",
+            "name_en": "Exploration"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic",
+            "name_en": "Classic"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual",
+            "name_en": "Casual"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny",
+            "name_en": "Funny"
+        },
+        {
+            "name": "Point&Click",
+            "slug": "point-and-click",
+            "name_en": "Point&Click"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly",
+            "name_en": "Family Friendly"
+        },
+        {
+            "name": "Relaxante",
+            "slug": "relaxing",
+            "name_en": "Relaxing"
+        },
+        {
+            "name": "Logic",
+            "slug": "logic",
+            "name_en": "Logic"
+        },
+        {
+            "name": "Cartoony",
+            "slug": "cartoony",
+            "name_en": "Cartoony"
+        },
+        {
+            "name": "Surreal",
+            "slug": "surreal",
+            "name_en": "Surreal"
+        },
+        {
+            "name": "Nature",
+            "slug": "nature",
+            "name_en": "Nature"
+        },
+        {
+            "name": "Aconchegante",
+            "slug": "cozy",
+            "name_en": "Cozy"
+        }
+    ]
+}

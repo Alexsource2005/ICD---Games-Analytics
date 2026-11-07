@@ -1,0 +1,151 @@
+{
+    "id": 1460735908,
+    "title": "BIT.TRIP VOID",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/bittrip_void",
+    "slug": "bittrip_void",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/bittrip_void",
+        "product_card": "https://www.gog.com/game/bittrip_void",
+        "support": "https://www.gog.com/support/bittrip_void",
+        "forum": "https://www.gog.com/forum/bittrip_series"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2016-04-25T14:30:00+0200",
+    "images": {
+        "background": "//images-4.gog-statics.com/e8d2c8ac3fa30c5f65c80a6cc082773f1b5e944ad7daa74d2d95529dac16d716.jpg",
+        "logo": "//images-1.gog-statics.com/67215bdc6274519849beca7fe8c4e0f9f7e8bdba1725913056109474f77df41d_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/67215bdc6274519849beca7fe8c4e0f9f7e8bdba1725913056109474f77df41d_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/0799d16f732b478ece7e8d7b6ba73d0c47a85cd138f457dedb7504da2574b206_sbicon.png",
+        "sidebarIcon2x": "//images-4.gog-statics.com/0799d16f732b478ece7e8d7b6ba73d0c47a85cd138f457dedb7504da2574b206_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/0799d16f732b478ece7e8d7b6ba73d0c47a85cd138f457dedb7504da2574b206_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/0799d16f732b478ece7e8d7b6ba73d0c47a85cd138f457dedb7504da2574b206_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/0799d16f732b478ece7e8d7b6ba73d0c47a85cd138f457dedb7504da2574b206.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1460737325,
+                "link": "https://api.gog.com/products/1460737325",
+                "expanded_link": "https://api.gog.com/products/1460737325"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1460737325",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1460737325"
+    },
+    "price": {
+        "final": "R$ 16,99",
+        "base": "R$ 16,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "16.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "16.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade",
+            "name_en": "Arcade"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "scifi",
+            "name_en": "Sci-fi"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic"
+        },
+        {
+            "name": "Science",
+            "slug": "science"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade"
+        },
+        {
+            "name": "Rhythm",
+            "slug": "rhythm"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 2,
+        "positive_review_count": 2,
+        "positive_percentage": 100.0,
+        "average_rating": 3.4,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 2,
+        "reviews_with_rating": 2,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Sci-fi",
+            "slug": "sci-fi",
+            "name_en": "Sci-fi"
+        },
+        {
+            "name": "Classic",
+            "slug": "classic",
+            "name_en": "Classic"
+        },
+        {
+            "name": "Science",
+            "slug": "science",
+            "name_en": "Science"
+        },
+        {
+            "name": "Arcade",
+            "slug": "arcade",
+            "name_en": "Arcade"
+        },
+        {
+            "name": "Rhythm",
+            "slug": "rhythm",
+            "name_en": "Rhythm"
+        }
+    ]
+}

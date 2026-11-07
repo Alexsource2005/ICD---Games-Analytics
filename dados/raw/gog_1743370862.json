@@ -1,0 +1,224 @@
+{
+    "id": 1743370862,
+    "title": "Neon Abyss",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/neon_abyss",
+    "slug": "neon_abyss",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ru": "русский",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/neon_abyss",
+        "product_card": "https://www.gog.com/game/neon_abyss",
+        "support": "https://www.gog.com/support/neon_abyss",
+        "forum": "https://www.gog.com/forum/neon_abyss"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2020-07-22T00:59:59+0200",
+    "images": {
+        "background": "//images-2.gog-statics.com/ad947565d0579ec0d9f7d641718a987700590cf20917f157486c983799d6d90e.jpg",
+        "logo": "//images-3.gog-statics.com/b426d450d08046f34ec9fde39f34acf8b135661ddd795ae000f4d04c4e8299b4_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/b426d450d08046f34ec9fde39f34acf8b135661ddd795ae000f4d04c4e8299b4_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-4.gog-statics.com/0d445d3a627e66231097875f36f45f69caa65a222d2b4a7daa1af716ffc680cf_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/0d445d3a627e66231097875f36f45f69caa65a222d2b4a7daa1af716ffc680cf_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/0d445d3a627e66231097875f36f45f69caa65a222d2b4a7daa1af716ffc680cf_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/0d445d3a627e66231097875f36f45f69caa65a222d2b4a7daa1af716ffc680cf_menu_notification_av2.png",
+        "icon": "//images-1.gog-statics.com/0d445d3a627e66231097875f36f45f69caa65a222d2b4a7daa1af716ffc680cf.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1258592365,
+                "link": "https://api.gog.com/products/1258592365",
+                "expanded_link": "https://api.gog.com/products/1258592365"
+            },
+            {
+                "id": 1472512793,
+                "link": "https://api.gog.com/products/1472512793",
+                "expanded_link": "https://api.gog.com/products/1472512793"
+            },
+            {
+                "id": 1607287924,
+                "link": "https://api.gog.com/products/1607287924",
+                "expanded_link": "https://api.gog.com/products/1607287924"
+            },
+            {
+                "id": 1891558830,
+                "link": "https://api.gog.com/products/1891558830",
+                "expanded_link": "https://api.gog.com/products/1891558830"
+            },
+            {
+                "id": 2064492751,
+                "link": "https://api.gog.com/products/2064492751",
+                "expanded_link": "https://api.gog.com/products/2064492751"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1258592365,1472512793,1607287924,1891558830,2064492751",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1258592365,1472512793,1607287924,1891558830,2064492751"
+    },
+    "price": {
+        "final": "R$ 17,99",
+        "base": "R$ 59,99",
+        "discount": "-70%",
+        "finalMoney": {
+            "amount": "17.99",
+            "currency": "BRL",
+            "discount": "42.00"
+        },
+        "baseMoney": {
+            "amount": "59.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Tiro",
+            "slug": "shooter",
+            "name_en": "Shooter"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike",
+            "name_en": "Roguelike"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Shooter",
+            "slug": "shooter"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Procedural Generation",
+            "slug": "procedural-generation"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk"
+        },
+        {
+            "name": "Bullet Hell",
+            "slug": "bullet-hell"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 24,
+        "positive_review_count": 14,
+        "positive_percentage": 58.33,
+        "average_rating": 3.7,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 24,
+        "reviews_with_rating": 24,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics",
+            "name_en": "Pixel Graphics"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer",
+            "name_en": "Platformer"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike",
+            "name_en": "Roguelike"
+        },
+        {
+            "name": "Tiro",
+            "slug": "shooter",
+            "name_en": "Shooter"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite",
+            "name_en": "Roguelite"
+        },
+        {
+            "name": "Procedural Generation",
+            "slug": "procedural-generation",
+            "name_en": "Procedural Generation"
+        },
+        {
+            "name": "Dungeon Crawler",
+            "slug": "dungeon-crawler",
+            "name_en": "Dungeon Crawler"
+        },
+        {
+            "name": "Cyberpunk",
+            "slug": "cyberpunk",
+            "name_en": "Cyberpunk"
+        },
+        {
+            "name": "Bullet Hell",
+            "slug": "bullet-hell",
+            "name_en": "Bullet Hell"
+        }
+    ]
+}

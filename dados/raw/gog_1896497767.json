@@ -1,0 +1,254 @@
+{
+    "id": 1896497767,
+    "title": "Loop Hero",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/loop_hero",
+    "slug": "loop_hero",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": true,
+        "linux": true
+    },
+    "languages": {
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "nl": "nederlands",
+        "pt": "português",
+        "ru": "русский",
+        "tr": "Türkçe",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/loop_hero",
+        "product_card": "https://www.gog.com/game/loop_hero",
+        "support": "https://www.gog.com/support/loop_hero",
+        "forum": "https://www.gog.com/forum/loop_hero"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2021-03-04T18:50:00+0100",
+    "images": {
+        "background": "//images-4.gog-statics.com/1d431ae9aa18c03ea17b6cf3df329637d306ba47381f75ff1388cfb073d1f84d.jpg",
+        "logo": "//images-3.gog-statics.com/fdaa21ea2bb79331e5c924e515a90879cab09d22d932919e36e17a891d941f82_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/fdaa21ea2bb79331e5c924e515a90879cab09d22d932919e36e17a891d941f82_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-3.gog-statics.com/206d6d5a547ce760a481ad75563a72867c249d3a5bc685e205148fa3c7c0161c_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/206d6d5a547ce760a481ad75563a72867c249d3a5bc685e205148fa3c7c0161c_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/206d6d5a547ce760a481ad75563a72867c249d3a5bc685e205148fa3c7c0161c_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/206d6d5a547ce760a481ad75563a72867c249d3a5bc685e205148fa3c7c0161c_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/206d6d5a547ce760a481ad75563a72867c249d3a5bc685e205148fa3c7c0161c.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1215463718,
+                "link": "https://api.gog.com/products/1215463718",
+                "expanded_link": "https://api.gog.com/products/1215463718"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1215463718",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1215463718"
+    },
+    "price": {
+        "final": "R$ 8,75",
+        "base": "R$ 34,99",
+        "discount": "-75%",
+        "finalMoney": {
+            "amount": "8.75",
+            "currency": "BRL",
+            "discount": "26.24"
+        },
+        "baseMoney": {
+            "amount": "34.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Role-playing",
+            "slug": "rpg",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "Estratégia",
+            "slug": "strategy",
+            "name_en": "Strategy"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "rougelike",
+            "name_en": "Roguelike"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical"
+        },
+        {
+            "name": "Resource Management",
+            "slug": "resource-management"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game"
+        },
+        {
+            "name": "Deckbuilding",
+            "slug": "deckbuilding"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 206,
+        "positive_review_count": 164,
+        "positive_percentage": 79.61,
+        "average_rating": 4.2,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 206,
+        "reviews_with_rating": 206,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Estratégia",
+            "slug": "strategy",
+            "name_en": "Strategy"
+        },
+        {
+            "name": "Role-playing",
+            "slug": "role-playing",
+            "name_en": "Role-playing"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Turn-Based",
+            "slug": "turn-based",
+            "name_en": "Turn-Based"
+        },
+        {
+            "name": "Pixel Graphics",
+            "slug": "pixel-graphics",
+            "name_en": "Pixel Graphics"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark",
+            "name_en": "Dark"
+        },
+        {
+            "name": "Choices Matter",
+            "slug": "choices-matter",
+            "name_en": "Choices Matter"
+        },
+        {
+            "name": "Tactical",
+            "slug": "tactical",
+            "name_en": "Tactical"
+        },
+        {
+            "name": "Resource Management",
+            "slug": "resource-management",
+            "name_en": "Resource Management"
+        },
+        {
+            "name": "Roguelike",
+            "slug": "roguelike",
+            "name_en": "Roguelike"
+        },
+        {
+            "name": "Roguelite",
+            "slug": "roguelite",
+            "name_en": "Roguelite"
+        },
+        {
+            "name": "Card Game",
+            "slug": "card-game",
+            "name_en": "Card Game"
+        },
+        {
+            "name": "Deckbuilding",
+            "slug": "deckbuilding",
+            "name_en": "Deckbuilding"
+        }
+    ]
+}

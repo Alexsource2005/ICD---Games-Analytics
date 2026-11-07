@@ -1,0 +1,245 @@
+{
+    "id": 1756057997,
+    "title": "Maid of Sker",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/maid_of_sker",
+    "slug": "maid_of_sker",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "ar": "العربية",
+        "br": "Português do Brasil",
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français",
+        "hu": "magyar",
+        "it": "italiano",
+        "jp": "日本語",
+        "ko": "한국어",
+        "pl": "polski",
+        "ru": "русский",
+        "tr": "Türkçe"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/maid_of_sker",
+        "product_card": "https://www.gog.com/game/maid_of_sker",
+        "support": "https://www.gog.com/support/maid_of_sker",
+        "forum": "https://www.gog.com/forum/maid_of_sker"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2020-10-26T14:50:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/e3e28dbe3d34221e213ff484ef2efb2d1fc05ff01d00b9848ef58a7ac5d69418.jpg",
+        "logo": "//images-3.gog-statics.com/6f4c1488e92aaf2abf1009bfe2ffa9a1221674e115368699c1b4accf16a19dfc_glx_logo.jpg",
+        "logo2x": "//images-4.gog-statics.com/6f4c1488e92aaf2abf1009bfe2ffa9a1221674e115368699c1b4accf16a19dfc_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/e64f36b8d922a56e9dd0bf6c39c344601ff8fe8d6b85c554ff8e81d76e319cac_sbicon.png",
+        "sidebarIcon2x": "//images-1.gog-statics.com/e64f36b8d922a56e9dd0bf6c39c344601ff8fe8d6b85c554ff8e81d76e319cac_sbicon_2x.png",
+        "menuNotificationAv": "//images-1.gog-statics.com/e64f36b8d922a56e9dd0bf6c39c344601ff8fe8d6b85c554ff8e81d76e319cac_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/e64f36b8d922a56e9dd0bf6c39c344601ff8fe8d6b85c554ff8e81d76e319cac_menu_notification_av2.png",
+        "icon": "//images-2.gog-statics.com/e64f36b8d922a56e9dd0bf6c39c344601ff8fe8d6b85c554ff8e81d76e319cac.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1170043841,
+                "link": "https://api.gog.com/products/1170043841",
+                "expanded_link": "https://api.gog.com/products/1170043841"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1170043841",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1170043841"
+    },
+    "price": {
+        "final": "R$ 8,99",
+        "base": "R$ 47,49",
+        "discount": "-81%",
+        "finalMoney": {
+            "amount": "8.99",
+            "currency": "BRL",
+            "discount": "38.50"
+        },
+        "baseMoney": {
+            "amount": "47.49",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror",
+            "name_en": "Horror"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Adventure",
+            "slug": "adventure"
+        },
+        {
+            "name": "Action",
+            "slug": "action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie"
+        },
+        {
+            "name": "Story Rich",
+            "slug": "story-rich"
+        },
+        {
+            "name": "Atmospheric",
+            "slug": "atmospheric"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror"
+        },
+        {
+            "name": "Psychological Horror",
+            "slug": "psychological-horror"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 13,
+        "positive_review_count": 7,
+        "positive_percentage": 53.85,
+        "average_rating": 3.7,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 13,
+        "reviews_with_rating": 13,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Indie",
+            "slug": "indie",
+            "name_en": "Indie"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "First-Person",
+            "slug": "first-person",
+            "name_en": "First-Person"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist",
+            "name_en": "Female Protagonist"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark",
+            "name_en": "Dark"
+        },
+        {
+            "name": "Horror",
+            "slug": "horror",
+            "name_en": "Horror"
+        },
+        {
+            "name": "Great Soundtrack",
+            "slug": "great-soundtrack",
+            "name_en": "Great Soundtrack"
+        },
+        {
+            "name": "Mystery",
+            "slug": "mystery",
+            "name_en": "Mystery"
+        },
+        {
+            "name": "Violent",
+            "slug": "violent",
+            "name_en": "Violent"
+        },
+        {
+            "name": "Gore",
+            "slug": "gore",
+            "name_en": "Gore"
+        },
+        {
+            "name": "Survival Horror",
+            "slug": "survival-horror",
+            "name_en": "Survival Horror"
+        },
+        {
+            "name": "Psychological Horror",
+            "slug": "psychological-horror",
+            "name_en": "Psychological Horror"
+        }
+    ]
+}

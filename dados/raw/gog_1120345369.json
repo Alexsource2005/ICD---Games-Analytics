@@ -1,0 +1,146 @@
+{
+    "id": 1120345369,
+    "title": "Tattoo Tycoon",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/tattoo_tycoon",
+    "slug": "tattoo_tycoon",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "de": "Deutsch",
+        "en": "English",
+        "es": "español",
+        "fr": "français"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/tattoo_tycoon",
+        "product_card": "https://www.gog.com/game/tattoo_tycoon",
+        "support": "https://www.gog.com/support/tattoo_tycoon",
+        "forum": "https://www.gog.com/forum/tattoo_tycoon"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2025-10-24T14:59:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/b7e2a71dc6f5cb26344c8516aa7c2b20a32041b92f050aa9a2f0cd4416952527.jpg",
+        "logo": "//images-3.gog-statics.com/67f492f9e756d2c4c8288c2e003160aec4a8e8c42995c2248d41a17a84d0e0ea_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/67f492f9e756d2c4c8288c2e003160aec4a8e8c42995c2248d41a17a84d0e0ea_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-1.gog-statics.com/b8d41b78bcfb31b288badea670acb15c78baf511e7806e0189e57b2b09c5aac2_sbicon.png",
+        "sidebarIcon2x": "//images-3.gog-statics.com/b8d41b78bcfb31b288badea670acb15c78baf511e7806e0189e57b2b09c5aac2_sbicon_2x.png",
+        "menuNotificationAv": "//images-2.gog-statics.com/b8d41b78bcfb31b288badea670acb15c78baf511e7806e0189e57b2b09c5aac2_menu_notification_av.png",
+        "menuNotificationAv2": "//images-4.gog-statics.com/b8d41b78bcfb31b288badea670acb15c78baf511e7806e0189e57b2b09c5aac2_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/b8d41b78bcfb31b288badea670acb15c78baf511e7806e0189e57b2b09c5aac2.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1814173398,
+                "link": "https://api.gog.com/products/1814173398",
+                "expanded_link": "https://api.gog.com/products/1814173398"
+            },
+            {
+                "id": 1838091676,
+                "link": "https://api.gog.com/products/1838091676",
+                "expanded_link": "https://api.gog.com/products/1838091676"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1814173398,1838091676",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1814173398,1838091676"
+    },
+    "price": {
+        "final": "R$ 99,99",
+        "base": "R$ 99,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "99.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "99.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Simulação",
+            "slug": "simulation",
+            "name_en": "Simulation"
+        },
+        {
+            "name": "Estratégia",
+            "slug": "strategy",
+            "name_en": "Strategy"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Strategy",
+            "slug": "strategy"
+        },
+        {
+            "name": "Simulation",
+            "slug": "simulation"
+        },
+        {
+            "name": "Management",
+            "slug": "management"
+        },
+        {
+            "name": "City builder",
+            "slug": "city-builder"
+        },
+        {
+            "name": "LGBTQ+",
+            "slug": "lgbtq-plus"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 2,
+        "positive_review_count": 0,
+        "positive_percentage": 0.0,
+        "average_rating": 2.5,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 2,
+        "reviews_with_rating": 2,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    },
+    "tages": [
+        {
+            "name": "Estratégia",
+            "slug": "strategy",
+            "name_en": "Strategy"
+        },
+        {
+            "name": "Simulação",
+            "slug": "simulation",
+            "name_en": "Simulation"
+        },
+        {
+            "name": "Management",
+            "slug": "management",
+            "name_en": "Management"
+        },
+        {
+            "name": "City builder",
+            "slug": "city-builder",
+            "name_en": "City builder"
+        },
+        {
+            "name": "LGBTQ+",
+            "slug": "lgbtq-plus",
+            "name_en": "LGBTQ+"
+        }
+    ]
+}

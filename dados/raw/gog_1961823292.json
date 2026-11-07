@@ -1,0 +1,163 @@
+{
+    "id": 1961823292,
+    "title": "Alice Escaped!",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/alice_escaped",
+    "slug": "alice_escaped",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "cn": "中文",
+        "en": "English",
+        "jp": "日本語",
+        "zh": "中文(繁體)"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/alice_escaped",
+        "product_card": "https://www.gog.com/game/alice_escaped",
+        "support": "https://www.gog.com/support/alice_escaped",
+        "forum": "https://www.gog.com/forum/general"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2023-07-19T14:50:00+0200",
+    "images": {
+        "background": "//images-1.gog-statics.com/873ee6bcf765cde6a6361d5e16b55a1154f3581b95fc4fe051934a9faec311f6.jpg",
+        "logo": "//images-2.gog-statics.com/f0ba9f55f7c512c01b4beb89db21e5e26b1ac85dc040de3aac603443a2e14b59_glx_logo.jpg",
+        "logo2x": "//images-3.gog-statics.com/f0ba9f55f7c512c01b4beb89db21e5e26b1ac85dc040de3aac603443a2e14b59_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/e751dc1b9a6cbe012f4b7c69cf2c3d7acf48eb78036ac32d9dcf09a3ac9571aa_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/e751dc1b9a6cbe012f4b7c69cf2c3d7acf48eb78036ac32d9dcf09a3ac9571aa_sbicon_2x.png",
+        "menuNotificationAv": "//images-3.gog-statics.com/e751dc1b9a6cbe012f4b7c69cf2c3d7acf48eb78036ac32d9dcf09a3ac9571aa_menu_notification_av.png",
+        "menuNotificationAv2": "//images-3.gog-statics.com/e751dc1b9a6cbe012f4b7c69cf2c3d7acf48eb78036ac32d9dcf09a3ac9571aa_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/e751dc1b9a6cbe012f4b7c69cf2c3d7acf48eb78036ac32d9dcf09a3ac9571aa.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 2041856034,
+                "link": "https://api.gog.com/products/2041856034",
+                "expanded_link": "https://api.gog.com/products/2041856034"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=2041856034",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=2041856034"
+    },
+    "price": {
+        "final": "R$ 59,99",
+        "base": "R$ 59,99",
+        "discount": null,
+        "finalMoney": {
+            "amount": "59.99",
+            "currency": "BRL",
+            "discount": "0.00"
+        },
+        "baseMoney": {
+            "amount": "59.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania",
+            "name_en": "Metroidvania"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Aventura",
+            "slug": "adventure",
+            "name_en": "Adventure"
+        },
+        {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "name_en": "Fantasy"
+        },
+        {
+            "name": "Rico em História",
+            "slug": "story-rich",
+            "name_en": "Story Rich"
+        },
+        {
+            "name": "Atmosférico",
+            "slug": "atmospheric",
+            "name_en": "Atmospheric"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Puzzle",
+            "slug": "puzzle",
+            "name_en": "Puzzle"
+        },
+        {
+            "name": "Female Protagonist",
+            "slug": "female-protagonist",
+            "name_en": "Female Protagonist"
+        },
+        {
+            "name": "Dark",
+            "slug": "dark",
+            "name_en": "Dark"
+        },
+        {
+            "name": "Platformer",
+            "slug": "platformer",
+            "name_en": "Platformer"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult",
+            "name_en": "Difficult"
+        },
+        {
+            "name": "Hack and Slash",
+            "slug": "hack-and-slash",
+            "name_en": "Hack and Slash"
+        },
+        {
+            "name": "Metroidvania",
+            "slug": "metroidvania",
+            "name_en": "Metroidvania"
+        },
+        {
+            "name": "Nature",
+            "slug": "nature",
+            "name_en": "Nature"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 2,
+        "positive_review_count": 2,
+        "positive_percentage": 100.0,
+        "average_rating": 4.5,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 2,
+        "reviews_with_rating": 2,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}

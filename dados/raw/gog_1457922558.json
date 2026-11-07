@@ -1,0 +1,160 @@
+{
+    "id": 1457922558,
+    "title": "Cook, Serve, Delicious! 3?!",
+    "purchase_link": "https://www.gog.com/en/checkout/manual/cook_serve_delicious_3",
+    "slug": "cook_serve_delicious_3",
+    "content_system_compatibility": {
+        "windows": true,
+        "osx": false,
+        "linux": false
+    },
+    "languages": {
+        "en": "English"
+    },
+    "links": {
+        "purchase_link": "https://www.gog.com/en/checkout/manual/cook_serve_delicious_3",
+        "product_card": "https://www.gog.com/game/cook_serve_delicious_3",
+        "support": "https://www.gog.com/support/cook_serve_delicious_3",
+        "forum": "https://www.gog.com/forum/cook_serve_delicious_series"
+    },
+    "in_development": {
+        "active": false,
+        "until": null
+    },
+    "is_secret": false,
+    "is_installable": true,
+    "game_type": "game",
+    "is_pre_order": false,
+    "release_date": "2020-01-29T19:50:00+0100",
+    "images": {
+        "background": "//images-1.gog-statics.com/4011f90228710ae6f1e68a770ef3d51f7f691633c8354fa8472769f46d7d4835.jpg",
+        "logo": "//images-3.gog-statics.com/b7c9a9febe7a74dcd183d53e6ee9d58b83a66ab8402bae355867b565d9539791_glx_logo.jpg",
+        "logo2x": "//images-2.gog-statics.com/b7c9a9febe7a74dcd183d53e6ee9d58b83a66ab8402bae355867b565d9539791_glx_logo_2x.jpg",
+        "sidebarIcon": "//images-2.gog-statics.com/e6b62cf7d25a01e72c487f1eb862b552eebacd3d166333e9dff014ad47756a2f_sbicon.png",
+        "sidebarIcon2x": "//images-2.gog-statics.com/e6b62cf7d25a01e72c487f1eb862b552eebacd3d166333e9dff014ad47756a2f_sbicon_2x.png",
+        "menuNotificationAv": "//images-4.gog-statics.com/e6b62cf7d25a01e72c487f1eb862b552eebacd3d166333e9dff014ad47756a2f_menu_notification_av.png",
+        "menuNotificationAv2": "//images-2.gog-statics.com/e6b62cf7d25a01e72c487f1eb862b552eebacd3d166333e9dff014ad47756a2f_menu_notification_av2.png",
+        "icon": "//images-3.gog-statics.com/e6b62cf7d25a01e72c487f1eb862b552eebacd3d166333e9dff014ad47756a2f.png"
+    },
+    "dlcs": {
+        "products": [
+            {
+                "id": 1782223666,
+                "link": "https://api.gog.com/products/1782223666",
+                "expanded_link": "https://api.gog.com/products/1782223666"
+            }
+        ],
+        "all_products_url": "https://api.gog.com/products?ids=1782223666",
+        "expanded_all_products_url": "https://api.gog.com/products?ids=1782223666"
+    },
+    "price": {
+        "final": "R$ 9,89",
+        "base": "R$ 37,99",
+        "discount": "-74%",
+        "finalMoney": {
+            "amount": "9.89",
+            "currency": "BRL",
+            "discount": "28.10"
+        },
+        "baseMoney": {
+            "amount": "37.99",
+            "currency": "BRL"
+        }
+    },
+    "genres": [
+        {
+            "name": "Simulação",
+            "slug": "simulation",
+            "name_en": "Simulation"
+        },
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial",
+            "name_en": "Managerial"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Ação",
+            "slug": "action",
+            "name_en": "Action"
+        },
+        {
+            "name": "2D",
+            "slug": "two-dimensional",
+            "name_en": "2D"
+        },
+        {
+            "name": "Simulação",
+            "slug": "simulation",
+            "name_en": "Simulation"
+        },
+        {
+            "name": "Casual",
+            "slug": "casual",
+            "name_en": "Casual"
+        },
+        {
+            "name": "Funny",
+            "slug": "funny",
+            "name_en": "Funny"
+        },
+        {
+            "name": "Management",
+            "slug": "management",
+            "name_en": "Management"
+        },
+        {
+            "name": "Multiplayer",
+            "slug": "multiplayer",
+            "name_en": "Multiplayer"
+        },
+        {
+            "name": "Difficult",
+            "slug": "difficult",
+            "name_en": "Difficult"
+        },
+        {
+            "name": "Family Friendly",
+            "slug": "family-friendly",
+            "name_en": "Family Friendly"
+        },
+        {
+            "name": "Managerial",
+            "slug": "managerial",
+            "name_en": "Managerial"
+        },
+        {
+            "name": "Local Co-Op",
+            "slug": "local-co-op",
+            "name_en": "Local Co-Op"
+        },
+        {
+            "name": "Local Multiplayer",
+            "slug": "local-multiplayer",
+            "name_en": "Local Multiplayer"
+        },
+        {
+            "name": "Typing",
+            "slug": "typing",
+            "name_en": "Typing"
+        }
+    ],
+    "gog_reviews": {
+        "review_count": 11,
+        "positive_review_count": 11,
+        "positive_percentage": 100.0,
+        "average_rating": 4.2,
+        "positive_threshold_stars": 3,
+        "reviews_collected": 11,
+        "reviews_with_rating": 11,
+        "all_reviews_collected": true,
+        "source": "GOG reviews API",
+        "status": "calculado_com_todas_as_reviews"
+    }
+}
