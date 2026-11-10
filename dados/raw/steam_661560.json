@@ -1,0 +1,366 @@
+{
+    "661560": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Audioship",
+            "steam_appid": 661560,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Audioship turns your music into a visual experience. Just select any music file and play. Keep an eye on the color of your opponents.<br>You can switch between 3 difficulty levels and 2 game modes.<br>In the normal mode you play with the default settings. The &quot;Test your luck&quot; mode changes randomly 3 properties. These can be good or bad for you.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Choose your own music<br></li><li>Color based battle system<br></li><li>Different types of enemies<br></li><li>Local multiplayer mode with 2-4 players<br></li><li>&quot;Test Your Luck&quot; mode<br></li><li>Offline highscore<br></li><li>Steam leaderboard<br></li><li>Steam achievments</li></ul>",
+            "about_the_game": "Audioship turns your music into a visual experience. Just select any music file and play. Keep an eye on the color of your opponents.<br>You can switch between 3 difficulty levels and 2 game modes.<br>In the normal mode you play with the default settings. The &quot;Test your luck&quot; mode changes randomly 3 properties. These can be good or bad for you.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Choose your own music<br></li><li>Color based battle system<br></li><li>Different types of enemies<br></li><li>Local multiplayer mode with 2-4 players<br></li><li>&quot;Test Your Luck&quot; mode<br></li><li>Offline highscore<br></li><li>Steam leaderboard<br></li><li>Steam achievments</li></ul>",
+            "short_description": "Audioship is a music-adapting Top-Down Shooter where you use your own music to create your own experience. The bullets, the enemies and the mood of each game is determined by the song you choose. Play solo or in local multiplayer modus with up to 4 players and reach the highest score.",
+            "supported_languages": "Inglês<strong>*</strong><br><strong>*</strong>idiomas com suporte total de áudio",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/header.jpg?t=1572355307",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/capsule_231x87.jpg?t=1572355307",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/capsule_184x69.jpg?t=1572355307",
+            "website": "http://audioship.insanity-interactive.com",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo *:</strong> Microsoft® Windows® Vista (64-bit only)<br></li><li><strong>Processador:</strong> 2.6 GHz Processor<br></li><li><strong>Memória:</strong> 2 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Intel HD Graphics 5500<br></li><li><strong>Espaço no disco:</strong> Requer 160 MB de espaço livre</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "developers": [
+                "Insanity Interactive"
+            ],
+            "publishers": [
+                "Insanity Interactive"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 649,
+                "final": 649,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 6,49"
+            },
+            "packages": [
+                187537
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Audioship",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 187537,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Audioship - R$ 6,49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 649
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 1,
+                    "description": "Multijogador"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 37,
+                    "description": "PvP, ecrã partilhado/dividido"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Co-op, ecrã partilhado/dividido"
+                },
+                {
+                    "id": 24,
+                    "description": "Ecrã partilhado/dividido"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 18,
+                    "description": "Compatibilidade parcial com comando"
+                },
+                {
+                    "id": 25,
+                    "description": "Tabelas de liderança do Steam"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_bae97d6911a95f27c6ffa69e2a8aa98a80003565.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_bae97d6911a95f27c6ffa69e2a8aa98a80003565.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_58a64ba6fb3a3b1f51384253cef8ed7849b6503d.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_58a64ba6fb3a3b1f51384253cef8ed7849b6503d.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_593cbc9e37655cab1df476e0b21a242a1ebe8827.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_593cbc9e37655cab1df476e0b21a242a1ebe8827.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_4476a2e03cbc664371bcf1672bb5802108c495a6.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_4476a2e03cbc664371bcf1672bb5802108c495a6.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_92f63002be9129d79288f136dd69f36dc66fafa4.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_92f63002be9129d79288f136dd69f36dc66fafa4.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_1e656580951afb6bc5fa5ca6a22f32ba49f4293d.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_1e656580951afb6bc5fa5ca6a22f32ba49f4293d.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_909d4fb372742963ebdd7f0badd3dd00b079a211.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_909d4fb372742963ebdd7f0badd3dd00b079a211.1920x1080.jpg?t=1572355307"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_909d4fb372742963ebdd7f0badd3dd00b079a211.600x338.jpg?t=1572355307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_909d4fb372742963ebdd7f0badd3dd00b079a211.1920x1080.jpg?t=1572355307"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256720908,
+                    "name": "Gameplay",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256720908/movie.293x165.jpg?t=1529991483",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/661560/170065/06c9b2add30637e09358fb691bb4019afccd7b28/1751128254/dash_av1.mpd?t=1529991483",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/661560/170065/06c9b2add30637e09358fb691bb4019afccd7b28/1751128254/dash_h264.mpd?t=1529991483",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/661560/170065/06c9b2add30637e09358fb691bb4019afccd7b28/1751128254/hls_264_master.m3u8?t=1529991483",
+                    "highlight": true
+                },
+                {
+                    "id": 256720903,
+                    "name": "Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256720903/movie.293x165.jpg?t=1529991493",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/661560/170060/97e8af5947f8bc644540ac9453df22acc1f8034a/1751128252/dash_av1.mpd?t=1529991493",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/661560/170060/97e8af5947f8bc644540ac9453df22acc1f8034a/1751128252/dash_h264.mpd?t=1529991493",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/661560/170060/97e8af5947f8bc644540ac9453df22acc1f8034a/1751128252/hls_264_master.m3u8?t=1529991493",
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 21,
+                "highlighted": [
+                    {
+                        "icon": "5a56bf5ed6ea164078cc5b657b5213da42cd27e8.jpg",
+                        "localized_name": "Newcomer",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Newcomer",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/5a56bf5ed6ea164078cc5b657b5213da42cd27e8.jpg"
+                    },
+                    {
+                        "icon": "4518e756bad9d3c587618f44ef9bac1218900885.jpg",
+                        "localized_name": "Novice",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Novice",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/4518e756bad9d3c587618f44ef9bac1218900885.jpg"
+                    },
+                    {
+                        "icon": "2a61dae3a17fdccbce627510c5dee8d2184baa60.jpg",
+                        "localized_name": "One Hundred",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "One Hundred",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/2a61dae3a17fdccbce627510c5dee8d2184baa60.jpg"
+                    },
+                    {
+                        "icon": "76fd7a88b6f97b81ebdbf04b8f9bc5a75cdcf194.jpg",
+                        "localized_name": "600+ score",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "600+ score",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/76fd7a88b6f97b81ebdbf04b8f9bc5a75cdcf194.jpg"
+                    },
+                    {
+                        "icon": "f4e1fdba215b450c24cbeeb444d7b83173baca2e.jpg",
+                        "localized_name": "500+ score",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "500+ score",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/f4e1fdba215b450c24cbeeb444d7b83173baca2e.jpg"
+                    },
+                    {
+                        "icon": "6857b85ebe1f2350221bad3968a95cf87d0e3bad.jpg",
+                        "localized_name": "700+ score",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "700+ score",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/6857b85ebe1f2350221bad3968a95cf87d0e3bad.jpg"
+                    },
+                    {
+                        "icon": "ef1bf2c88c4d8266a70b67f96c6b5572e28a2d57.jpg",
+                        "localized_name": "800+ score",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "800+ score",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/ef1bf2c88c4d8266a70b67f96c6b5572e28a2d57.jpg"
+                    },
+                    {
+                        "icon": "1f893acf66922ac93afe56a7605641faa7aca90a.jpg",
+                        "localized_name": "900+ score",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "900+ score",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/1f893acf66922ac93afe56a7605641faa7aca90a.jpg"
+                    },
+                    {
+                        "icon": "d45a0e4689c6cf6f688e66e5bc108e6412af5a27.jpg",
+                        "localized_name": "400+ score",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "400+ score",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/d45a0e4689c6cf6f688e66e5bc108e6412af5a27.jpg"
+                    },
+                    {
+                        "icon": "652bdeb3fdcd6698dcd2cc871bd651917d0b2aa0.jpg",
+                        "localized_name": "Red alert",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Red alert",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/661560/652bdeb3fdcd6698dcd2cc871bd651917d0b2aa0.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 jul. 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "audioship@insanity-interactive.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/661560?t=1572355307",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/page_bg_raw.jpg?t=1572355307",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "l",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "0",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "3",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 0,
+                    "review_score_desc": "4 user reviews",
+                    "total_positive": 2,
+                    "total_negative": 2,
+                    "total_reviews": 4
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "86719692",
+                        "author": {
+                            "steamid": "76561198034512061",
+                            "num_reviews": 43,
+                            "playtime_forever": 190,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 129,
+                            "last_played": 1658329246
+                        },
+                        "language": "english",
+                        "review": "It is really a simple and complex gem, only make sure, if you play this on Windows 10 \nyou need set the game to Windows 7/8 compatibility to choose your own music.\n\nAudioship is not as complex a shooter as Beat Hazard or Waves but its controls are more complex...\nThis is good if you want to play in simplicity using a complex approach.\n\nTo add that dimension its controls are using different colors for ammunition and colliding objects.\nIt is a minimalist game that include co-op, multiplayer, leaderboards and music based game play.",
+                        "timestamp_created": 1613400049,
+                        "timestamp_updated": 1623661798,
+                        "voted_up": true,
+                        "votes_up": 5,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5758840441703796,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFYe3mAAAAB8zOfKAg==",
+                "day_range_used": 0,
+                "total_matching": 4
+            },
+            "steamspy_tags": [
+                "Indie",
+                "Music",
+                "Top-Down Shooter",
+                "Music-Based Procedural Generation"
+            ]
+        }
+    }
+}

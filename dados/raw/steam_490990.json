@@ -1,0 +1,284 @@
+{
+    "490990": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Aiball",
+            "steam_appid": 490990,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Please welcome Aiball. Actually, a lot of them. They're from a parallel universe.<br />\r\nThey are like us. They like to play football, run obstacle courses, compete in wrestling, or even make a mortal battle with the help of different weapons.<br />\r\n<br />\r\nBy the way, some of them work part time as drunken porters. Try to live in their shoes and feel the hardships harsh life of Aiball.<br />\r\n<br />\r\nWe are planning to make several modes: running the obstacle course, wrestling, escape from kindergarten, a fight to the death, drunken porters.",
+            "about_the_game": "Please welcome Aiball. Actually, a lot of them. They're from a parallel universe.<br />\r\nThey are like us. They like to play football, run obstacle courses, compete in wrestling, or even make a mortal battle with the help of different weapons.<br />\r\n<br />\r\nBy the way, some of them work part time as drunken porters. Try to live in their shoes and feel the hardships harsh life of Aiball.<br />\r\n<br />\r\nWe are planning to make several modes: running the obstacle course, wrestling, escape from kindergarten, a fight to the death, drunken porters.",
+            "short_description": "Please welcome Aiball. Actually, a lot of them. They're from a parallel universe. They are like us. They like to play football, run obstacle courses, compete in wrestling, or even make a mortal battle with the help of different weapons.",
+            "supported_languages": "Inglês",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/header.jpg?t=1592068992",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/capsule_231x87.jpg?t=1592068992",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/capsule_184x69.jpg?t=1592068992",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo *:</strong> Windows 7 or higher<br></li><li><strong>Processador:</strong> Dual core CPU @2GHz (Pentium D or better)<br></li><li><strong>Memória:</strong> 1 GB de RAM<br></li><li><strong>Placa gráfica:</strong> 2GB Video RAM - will work with less, but wouldn't look too good.<br></li><li><strong>DirectX:</strong> Versão 9.0<br></li><li><strong>Rede:</strong> Ligação à Internet de banda larga<br></li><li><strong>Espaço no disco:</strong> Requer 500 MB de espaço livre<br></li><li><strong>Placa de som:</strong> 100% DirectX 9.0c compatible audio device<br></li><li><strong>Notas adicionais:</strong> Mouse, Keyboard, Joystick</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> MacOS X 10.6.6 or higher<br></li><li><strong>Processador:</strong> 2.4 GHz Intel Core 2 Duo (Dual-Core)<br></li><li><strong>Memória:</strong> 1 GB de RAM<br></li><li><strong>Placa gráfica:</strong> ATI Radeon HD 2600 / NVidia Geforce 8800 / Intel HD 4000 or better<br></li><li><strong>Espaço no disco:</strong> Requer 500 MB de espaço livre<br></li><li><strong>Notas adicionais:</strong> Mouse, Keyboard, Joystick</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Ubuntu 12.04<br></li><li><strong>Processador:</strong> Dual core from Intel or AMD at 2.8 GHz<br></li><li><strong>Memória:</strong> 1 GB de RAM<br></li><li><strong>Placa gráfica:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1<br></li><li><strong>Placa de som:</strong> OpenAL Compatible Sound Card<br></li><li><strong>Notas adicionais:</strong> Mouse, Keyboard, Joystick</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "developers": [
+                "HFM Games"
+            ],
+            "publishers": [
+                "HFM Games"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 699,
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 6,99"
+            },
+            "packages": [
+                111169
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Aiball",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 111169,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Aiball - R$ 6,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 1,
+                    "description": "Multijogador"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "PvP online"
+                },
+                {
+                    "id": 29,
+                    "description": "Cartas Colecionáveis Steam"
+                },
+                {
+                    "id": 18,
+                    "description": "Compatibilidade parcial com comando"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Ação"
+                },
+                {
+                    "id": "25",
+                    "description": "Aventura"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "29",
+                    "description": "Multijogador Massivo Online (MMO)"
+                },
+                {
+                    "id": "9",
+                    "description": "Corridas"
+                },
+                {
+                    "id": "18",
+                    "description": "Desporto"
+                },
+                {
+                    "id": "70",
+                    "description": "Acesso Antecipado"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_7196f0f9cc08b664036cd48f95c0f2cbf4e87ca0.600x338.jpg?t=1592068992",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_7196f0f9cc08b664036cd48f95c0f2cbf4e87ca0.1920x1080.jpg?t=1592068992"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_31905eef6939c5c234d3db36c73f9145e144c016.600x338.jpg?t=1592068992",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_31905eef6939c5c234d3db36c73f9145e144c016.1920x1080.jpg?t=1592068992"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_78a15036025ee0b9974afd9e8af0f32b6593310b.600x338.jpg?t=1592068992",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_78a15036025ee0b9974afd9e8af0f32b6593310b.1920x1080.jpg?t=1592068992"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_4539aace7c93649cb261aff4665e84ea60092d7e.600x338.jpg?t=1592068992",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_4539aace7c93649cb261aff4665e84ea60092d7e.1920x1080.jpg?t=1592068992"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_6093f60a058b4a60bceefa45cf86f525b2d1a443.600x338.jpg?t=1592068992",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490990/ss_6093f60a058b4a60bceefa45cf86f525b2d1a443.1920x1080.jpg?t=1592068992"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256789114,
+                    "name": "Aiball Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789114/movie.293x165.jpg?t=1592067000",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/490990/292197/26660d44cdc0d820779ccfa8cca852dd97e31897/1751292137/dash_av1.mpd?t=1592067000",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/490990/292197/26660d44cdc0d820779ccfa8cca852dd97e31897/1751292137/dash_h264.mpd?t=1592067000",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/490990/292197/26660d44cdc0d820779ccfa8cca852dd97e31897/1751292137/hls_264_master.m3u8?t=1592067000",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 146
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "22 jun. 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@hfmgames.net"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/490990?t=1592068992",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/490990?t=1592068992",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "6",
+                    "required_age": "6",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "12",
+                    "required_age": "12",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "3",
+                    "required_age": "3",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Interaksi Daring"
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 4,
+                    "review_score_desc": "Mostly Negative",
+                    "total_positive": 21,
+                    "total_negative": 35,
+                    "total_reviews": 56
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "236096985",
+                        "author": {
+                            "steamid": "76561199040108182",
+                            "num_reviews": 24,
+                            "playtime_forever": 6,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 6,
+                            "last_played": 1790273109
+                        },
+                        "language": "english",
+                        "review": "i vividly remember playing a turn based soccer game on xbox 360 indie games called qoccer. man, what a great time. \nunfortunately, this is nothing like it. its neither turn based nor fun. there isn’t even a ball.",
+                        "timestamp_created": 1790283418,
+                        "timestamp_updated": 1790283705,
+                        "voted_up": false,
+                        "votes_up": 0,
+                        "votes_funny": 1,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": true,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB53dGEBw==",
+                "day_range_used": 90,
+                "total_matching": 1
+            },
+            "steamspy_tags": [
+                "Early Access",
+                "Sports",
+                "Indie",
+                "PvP",
+                "Casual",
+                "Football (Soccer)",
+                "Adventure",
+                "Action",
+                "Massively Multiplayer",
+                "Racing",
+                "Local Multiplayer",
+                "Funny",
+                "Memes",
+                "Simulation",
+                "Arcade",
+                "Side Scroller",
+                "3D",
+                "Cute",
+                "6DOF",
+                "360 Video"
+            ]
+        }
+    }
+}

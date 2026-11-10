@@ -1,0 +1,261 @@
+{
+    "713500": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Moto VR",
+            "steam_appid": 713500,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Moto VR - motorcycle racing in virtual reality with an emphasis on hand controllers control",
+            "about_the_game": "Moto VR - motorcycle racing in virtual reality with an emphasis on hand controllers control",
+            "short_description": "Moto VR - a game about Motorsport and possible fun associated with motorcycling.",
+            "supported_languages": "Inglês",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/header.jpg?t=1702367954",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/capsule_231x87.jpg?t=1702367954",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/capsule_184x69.jpg?t=1702367954",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo:</strong> Windows 10<br></li><li><strong>Processador:</strong> Intel Core i3-10100<br></li><li><strong>Memória:</strong> 16 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce GTX 1070 or comparable<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 1 GB de espaço livre<br></li><li><strong>Compatibilidade com R.V.:</strong> SteamVR</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo:</strong> Windows 10<br></li><li><strong>Processador:</strong> Intel Core i5-11400<br></li><li><strong>Memória:</strong> 16 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce GTX 3050 or comparable<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 1 GB de espaço livre<br></li><li><strong>Compatibilidade com R.V.:</strong> SteamVR</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "developers": [
+                "AneaGames"
+            ],
+            "publishers": [
+                "AneaGames"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 2069,
+                "final": 2069,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 20,69"
+            },
+            "packages": [
+                206495,
+                249166
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Moto VR",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 206495,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Moto VR - R$ 20,69",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2069
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Comprar assinatura de Moto VR",
+                    "description": "A ser cobrado regularmente.",
+                    "selection_text": "A partir de Inicialmente R$ 20,69 por 1 mês, depois R$ 6,49 / mês",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 249166,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Inicialmente R$ 20,69 por 1 mês, depois R$ 6,49 / mês",
+                            "option_description": "<p class=\"game_purchase_subscription\">R$ 20,69 no checkout, com assinatura no valor de R$ 6,49 renovada automaticamente a cada 1 mês/meses.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2069
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 52,
+                    "description": "Compatibilidade com comandos de deteção"
+                },
+                {
+                    "id": 54,
+                    "description": "Exclusivos para R.V."
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Tabelas de liderança do Steam"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "9",
+                    "description": "Corridas"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulação"
+                },
+                {
+                    "id": "18",
+                    "description": "Desporto"
+                },
+                {
+                    "id": "70",
+                    "description": "Acesso Antecipado"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_44fea444c7811b1eb3feabb832b3a03c0256a6e4.600x338.jpg?t=1702367954",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_44fea444c7811b1eb3feabb832b3a03c0256a6e4.1920x1080.jpg?t=1702367954"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_44f848b2057d60f0c7496826fc4294b2a9f9f8c9.600x338.jpg?t=1702367954",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_44f848b2057d60f0c7496826fc4294b2a9f9f8c9.1920x1080.jpg?t=1702367954"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_b66c7f53062e747dbae736634f9c180ed7a1429d.600x338.jpg?t=1702367954",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_b66c7f53062e747dbae736634f9c180ed7a1429d.1920x1080.jpg?t=1702367954"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_5bb7c7a5b3031f39ffc6f599ff4b8a99c1b9256a.600x338.jpg?t=1702367954",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_5bb7c7a5b3031f39ffc6f599ff4b8a99c1b9256a.1920x1080.jpg?t=1702367954"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_2f849af168fa127a53cec42314cfaff89f6ae3c5.600x338.jpg?t=1702367954",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_2f849af168fa127a53cec42314cfaff89f6ae3c5.1920x1080.jpg?t=1702367954"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_705098c63346205f2120ece02f2c07f7613f49a3.600x338.jpg?t=1702367954",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713500/ss_705098c63346205f2120ece02f2c07f7613f49a3.1920x1080.jpg?t=1702367954"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256988361,
+                    "name": "Trailer 1",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988361/movie.293x165.jpg?t=1702367942",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/713500/639508/61aba6143720e399c39fde38e561494ac3c65e27/1751134911/dash_av1.mpd?t=1702367942",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/713500/639508/61aba6143720e399c39fde38e561494ac3c65e27/1751134911/dash_h264.mpd?t=1702367942",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/713500/639508/61aba6143720e399c39fde38e561494ac3c65e27/1751134911/hls_264_master.m3u8?t=1702367942",
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 1,
+                "highlighted": [
+                    {
+                        "icon": "3b86631a9d0810bf055a27d571f72ae209d731e5.jpg",
+                        "localized_name": "BADBOY",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "BADBOY",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/713500/3b86631a9d0810bf055a27d571f72ae209d731e5.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "23 fev. 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "anea.duo.dew@gmail.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/713500?t=1702367954",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/713500?t=1702367954",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 4,
+                    "total_negative": 6,
+                    "total_reviews": 10
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "41635259",
+                        "author": {
+                            "steamid": "76561198066590240",
+                            "num_reviews": 3404,
+                            "playtime_forever": 60,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 43,
+                            "last_played": 1601610208
+                        },
+                        "language": "english",
+                        "review": "[h1]Experienced on the Oculus Rift and Windows Mixed Reality[/h1]\n\nYou can view my review & gameplay here: https://youtu.be/RSXjc9gpa_g\n\nThis is the most realistic, immersive motorcycle racing game I have ever played. Unfortunately, it's also apparently been abandoned in Early Access. I was so excited when this game came out back in 2018 and was happy to support development with my $8 USD (Steam sale price back then). \n\nI don't exactly regret the purchase, but I am sad that it's not being further developed. This has the bones to what could be a very good game. The controls need some polishing up currently. It's too easy to lean the motorcycle one way or the other without wanting to. Also, there's very limited content. You only have 2 tracks, 1 motorcycle (you can only modify the color), and leaderboards in single player. There is no multiplayer.\n\nStill, it's a blast to play. You really get a sense of speed and danger. You can do wheelies while you're barreling down a corner. The game is running on the Unity Engine. I was getting a steady 90 fps on my 1060 GTX, even while increasing super sampling.\n\nI'm giving it neutral recommendation. I would only recommend this game for VR veterans; If you don't mind spending $10 bucks on a game with limited content and that really needs an update but will never see one. Sadly, it's the best VR experience as far as really getting you immersed into a realistic motorcycle racing experience. Shame that this is all we have of what could have been. \n\n[b]Rate 5/10. [/b]\n\n[quote]If you enjoyed reading my review then please consider joining my Steam Curator Group. You can join my Steam Curator Group here: https://steamcommunity.com/groups/Oculus_WMR [/quote]",
+                        "timestamp_created": 1524444753,
+                        "timestamp_updated": 1601608683,
+                        "voted_up": true,
+                        "votes_up": 5,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5939422845840454,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": true,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZHwSAAAAB72+meAQ==",
+                "day_range_used": 0,
+                "total_matching": 10
+            },
+            "steamspy_tags": [
+                "Simulation",
+                "Racing",
+                "Sports",
+                "Early Access",
+                "VR"
+            ]
+        }
+    }
+}

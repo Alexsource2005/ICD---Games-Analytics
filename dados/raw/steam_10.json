@@ -1,0 +1,298 @@
+{
+    "10": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Counter-Strike",
+            "steam_appid": 10,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Experimenta o jogo de ação online número 1 do mundo. Entra numa guerra de terroristas incrivelmente realista neste popular jogo com base no trabalho de equipa. Junta-te aos teus colegas de equipa para completar missões estratégicas. Elimina as instalações do inimigo. Salva reféns. O teu papel afeta o sucesso da tua equipa. O sucesso da tua equipa afeta o teu papel.",
+            "about_the_game": "Experimenta o jogo de ação online número 1 do mundo. Entra numa guerra de terroristas incrivelmente realista neste popular jogo com base no trabalho de equipa. Junta-te aos teus colegas de equipa para completar missões estratégicas. Elimina as instalações do inimigo. Salva reféns. O teu papel afeta o sucesso da tua equipa. O sucesso da tua equipa afeta o teu papel.",
+            "short_description": "Experimenta o jogo de ação online número 1 do mundo. Entra numa guerra de terroristas incrivelmente realista neste popular jogo com base no trabalho de equipa. Junta-te aos teus colegas de equipa para completar missões estratégicas. Elimina as instalações do inimigo. Salva reféns. O teu papel afeta o sucesso da tua equipa.",
+            "supported_languages": "Inglês<strong>*</strong>, Francês<strong>*</strong>, Alemão<strong>*</strong>, Italiano<strong>*</strong>, Espanhol (Espanha)<strong>*</strong>, Chinês simplificado<strong>*</strong>, Chinês tradicional<strong>*</strong>, Coreano<strong>*</strong><br><strong>*</strong>idiomas com suporte total de áudio",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg?t=1745368572",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/capsule_231x87.jpg?t=1745368572",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/capsule_184x69.jpg?t=1745368572",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Mínimo:</strong> Processador a 500 MHz, 96 MB de RAM, placa gráfica 16 MB, Windows XP, rato, teclado, ligação à Internet<br /></p>\n\n<p><strong>Recomendado:</strong> Processador a 800 MHz, 128 MB de RAM, placa gráfica 32 MB, Windows XP, rato, teclado, ligação à Internet<br /></p>"
+            },
+            "mac_requirements": {
+                "minimum": "Minimum: OS X  Snow Leopard 10.6.3, 1GB RAM, 4GB Hard Drive Space,NVIDIA GeForce 8 or higher, ATI X1600 or higher, or Intel HD 3000 or higher Mouse, Keyboard, Internet Connection"
+            },
+            "linux_requirements": {
+                "minimum": "Minimum: Linux Ubuntu 12.04, Dual-core from Intel or AMD at 2.8 GHz, 1GB Memory, nVidia GeForce 8600/9600GT, ATI/AMD Radeaon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1, 4GB Hard Drive Space, OpenAL Compatible Sound Card"
+            },
+            "developers": [
+                "Valve"
+            ],
+            "publishers": [
+                "Valve"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 3399,
+                "final": 3399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 33,99"
+            },
+            "packages": [
+                574941,
+                7
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Counter-Strike",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 574941,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Counter-Strike - Commercial License - R$ 20,69",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2069
+                        },
+                        {
+                            "packageid": 7,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Counter-Strike: Condition Zero - R$ 33,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "metacritic": {
+                "score": 88,
+                "url": "https://www.metacritic.com/game/pc/counter-strike?ftag=MCD-06-10aaa1f"
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multijogador"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "PvP online"
+                },
+                {
+                    "id": 37,
+                    "description": "PvP, ecrã partilhado/dividido"
+                },
+                {
+                    "id": 66,
+                    "description": "Alternativas de cores"
+                },
+                {
+                    "id": 68,
+                    "description": "Controlos de volume independentes"
+                },
+                {
+                    "id": 75,
+                    "description": "Opção de controlo só por teclado"
+                },
+                {
+                    "id": 69,
+                    "description": "Som estéreo"
+                },
+                {
+                    "id": 8,
+                    "description": "Com VAC ativo"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Ação"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000132.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000132.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000133.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000133.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000134.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000134.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000135.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000135.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000136.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000136.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002540.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002540.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002539.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002539.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002538.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002538.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002537.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002537.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002536.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002536.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002541.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002541.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002542.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002542.1920x1080.jpg?t=1745368572"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002543.600x338.jpg?t=1745368572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002543.1920x1080.jpg?t=1745368572"
+                }
+            ],
+            "recommendations": {
+                "total": 170532
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 nov. 2000"
+            },
+            "support_info": {
+                "url": "http://steamcommunity.com/app/10",
+                "email": ""
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/10?t=1745368572",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/10?t=1745368572",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": "Includes intense violence and blood."
+            },
+            "ratings": {
+                "usk": {
+                    "rating": "16"
+                },
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "14",
+                    "required_age": "14",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Violência"
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "16",
+                    "required_age": "16",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Drastische Gewalt"
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "18",
+                    "required_age": "18",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Interaksi Daring\nKekerasan"
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 9,
+                    "review_score_desc": "Overwhelmingly Positive",
+                    "total_positive": 60655,
+                    "total_negative": 1678,
+                    "total_reviews": 62333
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237867816",
+                        "author": {
+                            "steamid": "76561197960380837",
+                            "num_reviews": 97,
+                            "playtime_forever": 330309,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 330309,
+                            "last_played": 1767807242
+                        },
+                        "language": "english",
+                        "review": "Before expensive skins, fancy matchmaking, and esports celebrities, there was Counter-Strike 1.6.\n\nNo distractions. Just you, your AK-47, de_dust2, and a suspiciously talented 12-year-old destroying your entire team.\n\nThe gameplay is beautifully simple. Easy to understand, brutally difficult to master. The gunplay, movement, legendary maps, and community servers made this game unforgettable.\n\nSure, the graphics look ancient, the learning curve is ruthless, and public servers could be a fascinating experiment in human behavior. But none of that stopped millions of people from playing for ridiculous amounts of time.\n\nThe Good:\n\nTimeless, skill-based gunplay.\n\nLegendary maps that never get old.\n\nCommunity servers and hilarious multiplayer memories.\n\nRuns on practically anything with electricity.\n\nThe Bad:\n\nGraphics belong in a museum.\n\nUnforgiving for beginners.\n\nCheaters and questionable server experiences.\n\nLacks modern matchmaking conveniences.\n\nMy Ratings:\n\nGameplay: 9.5/10\n\nGraphics: 5/10\n\nReplayability: 10/10\n\nEnjoyment: 9.5/10\n\nOverall: 9/10\n\nFinal Verdict:\n\nCounter-Strike 1.6 didn't need fancy graphics or a battle pass to keep people hooked.\n\nJust two teams, one bomb, and someone screaming “RUSH B” like their family's future depended on it.\n\nAn absolute multiplayer legend.",
+                        "timestamp_created": 1792173338,
+                        "timestamp_updated": 1792173338,
+                        "voted_up": true,
+                        "votes_up": 49,
+                        "votes_funny": 5,
+                        "weighted_vote_score": 0.8061642646789551,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false,
+                        "hardware": {
+                            "os": "Windows 11",
+                            "cpu_name": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+                            "adapter_description": "NVIDIA GeForce RTX 3080",
+                            "system_ram": "32668",
+                            "vram_size": 10053
+                        }
+                    }
+                ],
+                "cursor": "AoIFQFT4HCAAAAB4srKLBw==",
+                "day_range_used": 30,
+                "total_matching": 193
+            },
+            "steamspy_tags": 

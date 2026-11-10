@@ -1,0 +1,355 @@
+{
+    "720030": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Indecision.",
+            "steam_appid": 720030,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>CHECK OUT MY NEW GAME &lt;3</h1><p></p><br><h1>Acerca do jogo</h1>A haiku platformer.<br><br>It isn't for everyone, but you are welcomed to try it. The game won't take too much time to finish.<br><br><ul class=\"bb_ul\"><li>It's short and vague.<br></li><li>You just push left, right and sometimes jump.</li></ul><br><strong>Epilepsy Warning:</strong> The game may be harmful to players with epilepsy or similar condition.",
+            "about_the_game": "A haiku platformer.<br><br>It isn't for everyone, but you are welcomed to try it. The game won't take too much time to finish.<br><br><ul class=\"bb_ul\"><li>It's short and vague.<br></li><li>You just push left, right and sometimes jump.</li></ul><br><strong>Epilepsy Warning:</strong> The game may be harmful to players with epilepsy or similar condition.",
+            "short_description": "A haiku platformer. It's short and vague.",
+            "supported_languages": "Inglês, Francês, Italiano, Alemão, Espanhol (Espanha), Japonês, Português (Brasil), Russo, Chinês simplificado, Chinês tradicional, Turco",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 296,
+                    "total_negative": 64,
+                    "total_reviews": 360
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "238298210",
+                        "author": {
+                            "steamid": "76561198300158771",
+                            "num_reviews": 30,
+                            "playtime_forever": 64,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 64,
+                            "last_played": 1792503354
+                        },
+                        "language": "english",
+                        "review": "changed my life. thank you indecision",
+                        "timestamp_created": 1792670039,
+                        "timestamp_updated": 1792670039,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQGAAAAAAAAByxoSNBw==",
+                "day_range_used": 30,
+                "total_matching": 1
+            },
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/header.jpg?t=1779825074",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/capsule_231x87.jpg?t=1779825074",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/capsule_184x69.jpg?t=1779825074",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processador:</strong> 1 GHz processor or faster<br></li><li><strong>Memória:</strong> 1 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Integrated graphics should be fine<br></li><li><strong>Espaço no disco:</strong> Requer 200 MB de espaço livre</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Mac OS X 64-bit<br></li><li><strong>Processador:</strong> 1 GHz processor or faster<br></li><li><strong>Memória:</strong> 1 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Integrated graphics should be fine<br></li><li><strong>Espaço no disco:</strong> Requer 300 MB de espaço livre</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "bilge"
+            ],
+            "publishers": [
+                "bilge"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 1049,
+                "final": 1049,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 10,49"
+            },
+            "packages": [
+                208862,
+                409914
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Indecision.",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 208862,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Indecision. - R$ 10,49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1049
+                        },
+                        {
+                            "packageid": 409914,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Indecision. - Commercial License - R$ 16,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 28,
+                    "description": "Compatibilidade total com comando"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_5eb83f2981c5cbec7c2c268c6c7134c3f18bdb3e.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_5eb83f2981c5cbec7c2c268c6c7134c3f18bdb3e.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_3b85569038acb612a754077a45c9fb097ec6faca.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_3b85569038acb612a754077a45c9fb097ec6faca.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_2cd4b6ae45e4fc4d0f8ff1bad999008202fc7d3d.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_2cd4b6ae45e4fc4d0f8ff1bad999008202fc7d3d.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_77d07f84fbadd56726320669abe75c1862e064a7.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_77d07f84fbadd56726320669abe75c1862e064a7.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_63e5ef17441e6e51100fd118c3060fee06640a61.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_63e5ef17441e6e51100fd118c3060fee06640a61.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_46eb0f7dfe8cee2bdb4d2bccecc599a1bcb106e3.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_46eb0f7dfe8cee2bdb4d2bccecc599a1bcb106e3.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_429166b8ec0927a753e560c516faebd85bbecc9b.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_429166b8ec0927a753e560c516faebd85bbecc9b.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_ba9b2db8aa5b9cf1ae75cb97b9a6c0da8a55a2ae.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_ba9b2db8aa5b9cf1ae75cb97b9a6c0da8a55a2ae.1920x1080.jpg?t=1779825074"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_6081ff0ae55b43c468c93faf569f739ce7cd7cd1.600x338.jpg?t=1779825074",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720030/ss_6081ff0ae55b43c468c93faf569f739ce7cd7cd1.1920x1080.jpg?t=1779825074"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256706308,
+                    "name": "Indecision. Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706308/movie.293x165.jpg?t=1516667450",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/720030/142651/6d6c1e19e7772da79dedf2e6ab3deae6360d3a1b/1751135776/dash_av1.mpd?t=1516667450",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/720030/142651/6d6c1e19e7772da79dedf2e6ab3deae6360d3a1b/1751135776/dash_h264.mpd?t=1516667450",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/720030/142651/6d6c1e19e7772da79dedf2e6ab3deae6360d3a1b/1751135776/hls_264_master.m3u8?t=1516667450",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 439
+            },
+            "achievements": {
+                "total": 31,
+                "highlighted": [
+                    {
+                        "icon": "9d2911c9146fb8eb216c41d2796001d9acde6a3f.jpg",
+                        "localized_name": "First.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "First.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/9d2911c9146fb8eb216c41d2796001d9acde6a3f.jpg"
+                    },
+                    {
+                        "icon": "b8b3003998c26ab8e511808d668fdb871edfe00c.jpg",
+                        "localized_name": "Home.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Home.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/b8b3003998c26ab8e511808d668fdb871edfe00c.jpg"
+                    },
+                    {
+                        "icon": "1fd0b74e27c44d4969a0b97f3b66cbd28479201d.jpg",
+                        "localized_name": "Choose.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Choose.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/1fd0b74e27c44d4969a0b97f3b66cbd28479201d.jpg"
+                    },
+                    {
+                        "icon": "90c68bd7cf584ccf31306869bbc8e3c4b974033b.jpg",
+                        "localized_name": "Skinner.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Skinner.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/90c68bd7cf584ccf31306869bbc8e3c4b974033b.jpg"
+                    },
+                    {
+                        "icon": "4187b3ae96a213a3f639580d1507b6e99651f32f.jpg",
+                        "localized_name": "Shake.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Shake.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/4187b3ae96a213a3f639580d1507b6e99651f32f.jpg"
+                    },
+                    {
+                        "icon": "682ecb031a0f341fb6b15e2d6ba3053717e55b37.jpg",
+                        "localized_name": " .",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": " .",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/682ecb031a0f341fb6b15e2d6ba3053717e55b37.jpg"
+                    },
+                    {
+                        "icon": "a14d1b7a2ef2f73712525130e0e0612d3ea126b2.jpg",
+                        "localized_name": "Spring.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Spring.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/a14d1b7a2ef2f73712525130e0e0612d3ea126b2.jpg"
+                    },
+                    {
+                        "icon": "d93737853ddec11c7a44b62d656192764a226c00.jpg",
+                        "localized_name": "Resign.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Resign.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/d93737853ddec11c7a44b62d656192764a226c00.jpg"
+                    },
+                    {
+                        "icon": "1029d6db1c757ea7e05d4655c86b9e3befaf733d.jpg",
+                        "localized_name": "Koan.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Koan.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/1029d6db1c757ea7e05d4655c86b9e3befaf733d.jpg"
+                    },
+                    {
+                        "icon": "3114e398814af2fa10816f9bced93d796944534d.jpg",
+                        "localized_name": "Change.",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Change.",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/720030/3114e398814af2fa10816f9bced93d796944534d.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 fev. 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "contact@td2tl.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/720030?t=1779825074",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/720030?t=1779825074",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating": "l"
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "16",
+                    "required_age": "16",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Selbstmord"
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "18",
+                    "required_age": "18",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Horor\nKekerasan"
+                }
+            },
+            "steamspy_tags": [
+                "Experience",
+                "Experimental",
+                "Surreal",
+                "Casual",
+                "Exploration",
+                "Psychological",
+                "Emotional",
+                "Atmospheric",
+                "Story Rich",
+                "Psychological Horror",
+                "Dark Humor",
+                "Mystery",
+                "Adventure",
+                "Interactive Fiction",
+                "Choose Your Own Adventure",
+                "Character Customization",
+                "Pixel Graphics",
+                "2D",
+                "Singleplayer",
+                "Short"
+            ]
+        }
+    }
+}

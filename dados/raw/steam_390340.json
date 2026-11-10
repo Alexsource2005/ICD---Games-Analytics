@@ -1,0 +1,499 @@
+{
+    "390340": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Umbrella Corps",
+            "steam_appid": 390340,
+            "required_age": "16",
+            "is_free": false,
+            "controller_support": "full",
+            "dlc": [
+                450000,
+                450001
+            ],
+            "detailed_description": "Junta-te à corporação! Umbrella Corps proporciona uma experiência competitiva, que inclui novos tipos de estratégia e técnicas combinados com elementos do mundo de Resident Evil, para criar um tipo de “shooter” exclusivo! Sente a emoção de combates de curto e médio alcance com mira analógica e mecanismos de dissimulação, partidas sem regenerações que te vão por os nervos em franja, e muitos outros modos de jogo!",
+            "about_the_game": "Junta-te à corporação! Umbrella Corps proporciona uma experiência competitiva, que inclui novos tipos de estratégia e técnicas combinados com elementos do mundo de Resident Evil, para criar um tipo de “shooter” exclusivo! Sente a emoção de combates de curto e médio alcance com mira analógica e mecanismos de dissimulação, partidas sem regenerações que te vão por os nervos em franja, e muitos outros modos de jogo!",
+            "short_description": "Junta-te à corporação! Umbrella Corps proporciona uma experiência competitiva, que inclui novos tipos de estratégia e técnicas combinados com elementos do mundo de Resident Evil, para criar um tipo de “shooter” exclusivo!",
+            "supported_languages": "Inglês<strong>*</strong>, Francês, Italiano, Alemão, Espanhol (Espanha), Japonês, Coreano, Polaco, Português (Portugal), Russo, Chinês simplificado, Chinês tradicional<br><strong>*</strong>idiomas com suporte total de áudio",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/header.jpg?t=1728439260",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/capsule_231x87.jpg?t=1728439260",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/capsule_184x69.jpg?t=1728439260",
+            "website": "http://www.capcom.co.jp/bioUC/",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows 10 (All 64bit OS)<br></li><li><strong>Processador:</strong> Intel Core i3-4160 @ 3.6GHz or better<br></li><li><strong>Memória:</strong> 4 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce GTX460 or better<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Rede:</strong> Ligação à Internet de banda larga<br></li><li><strong>Espaço no disco:</strong> Requer 13 GB de espaço livre<br></li><li><strong>Placa de som:</strong> DirectSound compatible (must support DirectX 9.0c or higher)<br></li><li><strong>Notas adicionais:</strong> Supports Keyboard +Mouse. Genuine Xbox 360 controller recommended. Monitor: 800x600 or better.</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows 10 (All 64bit OS)<br></li><li><strong>Processador:</strong> Intel Core i7-4790 @ 3.20GHz or better<br></li><li><strong>Memória:</strong> 6 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce GTX760 or better<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Rede:</strong> Ligação à Internet de banda larga<br></li><li><strong>Espaço no disco:</strong> Requer 13 GB de espaço livre<br></li><li><strong>Placa de som:</strong> DirectSound compatible (must support DirectX 9.0c or higher)<br></li><li><strong>Notas adicionais:</strong> Supports Keyboard +Mouse. Genuine Xbox 360 controller recommended. Monitor: 1280X720 or better.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+            "developers": [
+                "CAPCOM"
+            ],
+            "publishers": [
+                "CAPCOM"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 8900,
+                "final": 8900,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 89,00"
+            },
+            "packages": [
+                107528,
+                107140
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Umbrella Corps",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 107528,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Umbrella Corps™ Standard Edition - R$ 89,00",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 8900
+                        },
+                        {
+                            "packageid": 107140,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Umbrella Corps™ Deluxe Edition - R$ 107,00",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 10700
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 1,
+                    "description": "Multijogador"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "PvP online"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 28,
+                    "description": "Compatibilidade total com comando"
+                },
+                {
+                    "id": 29,
+                    "description": "Cartas Colecionáveis Steam"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Tabelas de liderança do Steam"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Ação"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_cdba161618440b7ea819998a4fad5d773dc9c91e.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_cdba161618440b7ea819998a4fad5d773dc9c91e.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_7e584eb8b725016d4baec18c464da7c44aa91f63.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_7e584eb8b725016d4baec18c464da7c44aa91f63.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_bdc8b3745d63ead68e922ec378d3e0c2ca7856b0.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_bdc8b3745d63ead68e922ec378d3e0c2ca7856b0.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_89f9029c8bf541976bf915f0aa8a3d037e661db7.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_89f9029c8bf541976bf915f0aa8a3d037e661db7.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_b29de51e70075486df7f8f97eb241de99ba0ed73.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_b29de51e70075486df7f8f97eb241de99ba0ed73.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_8f42e05420fc66e8bc343a26d2c24f3e92bc6499.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_8f42e05420fc66e8bc343a26d2c24f3e92bc6499.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_58042c61908849edc4fadaded1cae5ca19b5d133.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_58042c61908849edc4fadaded1cae5ca19b5d133.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_67fb88145b7cd15dcb26b2a5f207a1a562cf98af.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_67fb88145b7cd15dcb26b2a5f207a1a562cf98af.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_91063e7572ebe88924c73e16676347a8c5891eeb.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_91063e7572ebe88924c73e16676347a8c5891eeb.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_a9b4cb89093bcd3aab6ed1efccb78e47545432d7.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_a9b4cb89093bcd3aab6ed1efccb78e47545432d7.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_3d6a68191872bc6fba31bc6c64703604c3e2b8e2.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_3d6a68191872bc6fba31bc6c64703604c3e2b8e2.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_a9f83139f119e424ccdffe2c173df96b718b60d6.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_a9f83139f119e424ccdffe2c173df96b718b60d6.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_d40e1dd9045597aa73025c23d38491ff90f60007.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_d40e1dd9045597aa73025c23d38491ff90f60007.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_172e04e0df91b20671db32e6ddc0937000582af8.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_172e04e0df91b20671db32e6ddc0937000582af8.1920x1080.jpg?t=1728439260"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_655349b5b9fba1dae68790f5d52e595f0755e8ee.600x338.jpg?t=1728439260",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/ss_655349b5b9fba1dae68790f5d52e595f0755e8ee.1920x1080.jpg?t=1728439260"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256664598,
+                    "name": "UmbrellaCorps_5thTrailer_ESRB",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256664598/movie.293x165.jpg?t=1464239315",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/390340/60354/cfd50c12fc3380d30120e39c9367753b5aceb670/1751278917/dash_av1.mpd?t=1464239315",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/60354/cfd50c12fc3380d30120e39c9367753b5aceb670/1751278917/dash_h264.mpd?t=1464239315",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/60354/cfd50c12fc3380d30120e39c9367753b5aceb670/1751278917/hls_264_master.m3u8?t=1464239315",
+                    "highlight": true
+                },
+                {
+                    "id": 256663225,
+                    "name": "UmbrellaCorps_4thTrailer_ESRB",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663225/movie.293x165.jpg?t=1461144081",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/390340/56940/ad59d763097d1d80850581dd5cbd7fe819deb091/1751278535/dash_av1.mpd?t=1461144081",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/56940/ad59d763097d1d80850581dd5cbd7fe819deb091/1751278535/dash_h264.mpd?t=1461144081",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/56940/ad59d763097d1d80850581dd5cbd7fe819deb091/1751278535/hls_264_master.m3u8?t=1461144081",
+                    "highlight": true
+                },
+                {
+                    "id": 256661209,
+                    "name": "UmbrellaCorps_3rdTrailer_ESRB",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661209/movie.293x165.jpg?t=1456827711",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/390340/53283/e58d6b16c58cb19689de616e858156626993daae/1751278523/dash_av1.mpd?t=1456827711",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/53283/e58d6b16c58cb19689de616e858156626993daae/1751278523/dash_h264.mpd?t=1456827711",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/53283/e58d6b16c58cb19689de616e858156626993daae/1751278523/hls_264_master.m3u8?t=1456827711",
+                    "highlight": true
+                },
+                {
+                    "id": 256660187,
+                    "name": "UmbrellaCorps_2ndTrailer_ESRB",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660187/movie.293x165.jpg?t=1453799683",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/390340/50988/04c13ba6b52f41bdab136654926f84b8d6769b59/1751278511/dash_av1.mpd?t=1453799683",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/50988/04c13ba6b52f41bdab136654926f84b8d6769b59/1751278511/dash_h264.mpd?t=1453799683",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/50988/04c13ba6b52f41bdab136654926f84b8d6769b59/1751278511/hls_264_master.m3u8?t=1453799683",
+                    "highlight": true
+                },
+                {
+                    "id": 256657101,
+                    "name": "UMBRELLA_CORPS_AnounceTrailer_ESRB_Web",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657101/movie.293x165.jpg?t=1447378381",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/390340/44320/7bae402c00caacd0025f23674f930b181c3c18b5/1751278500/dash_av1.mpd?t=1447378381",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/44320/7bae402c00caacd0025f23674f930b181c3c18b5/1751278500/dash_h264.mpd?t=1447378381",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/390340/44320/7bae402c00caacd0025f23674f930b181c3c18b5/1751278500/hls_264_master.m3u8?t=1447378381",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 1358
+            },
+            "achievements": {
+                "total": 41,
+                "highlighted": [
+                    {
+                        "icon": "05ee09c58011e6fda08384c12d06481c5965d437.jpg",
+                        "localized_name": "Umbrella Corps",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Umbrella Corps",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/05ee09c58011e6fda08384c12d06481c5965d437.jpg"
+                    },
+                    {
+                        "icon": "87d8b32cc63da77fadce0758b7004cb7637c5051.jpg",
+                        "localized_name": "Aquecendo os motores",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Aquecendo os motores",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/87d8b32cc63da77fadce0758b7004cb7637c5051.jpg"
+                    },
+                    {
+                        "icon": "d778e110bb85e1591afd5311c72e13c3062fd19e.jpg",
+                        "localized_name": "Tirando as rodinhas",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Tirando as rodinhas",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/d778e110bb85e1591afd5311c72e13c3062fd19e.jpg"
+                    },
+                    {
+                        "icon": "b77de86e4cd5eb76f707db3a1985c87d6708d7b7.jpg",
+                        "localized_name": "Calçada da fama",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Calçada da fama",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/b77de86e4cd5eb76f707db3a1985c87d6708d7b7.jpg"
+                    },
+                    {
+                        "icon": "5108139be6dcbb0e9f2bc51e7fc215311ba5c28d.jpg",
+                        "localized_name": "Força avassaladora",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Força avassaladora",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/5108139be6dcbb0e9f2bc51e7fc215311ba5c28d.jpg"
+                    },
+                    {
+                        "icon": "dcab0ce240c9c780b231d0d729ac903fdfc3be00.jpg",
+                        "localized_name": "Curvem-se a mim",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Curvem-se a mim",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/dcab0ce240c9c780b231d0d729ac903fdfc3be00.jpg"
+                    },
+                    {
+                        "icon": "e2cfa413e4fb8fd5eb864dbb3d467b4e68dffd4d.jpg",
+                        "localized_name": "Pé quente",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Pé quente",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/e2cfa413e4fb8fd5eb864dbb3d467b4e68dffd4d.jpg"
+                    },
+                    {
+                        "icon": "fe31e29c82f4dd449c8b296a6d9bb88aa624554b.jpg",
+                        "localized_name": "Super habilidoso",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Super habilidoso",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/fe31e29c82f4dd449c8b296a6d9bb88aa624554b.jpg"
+                    },
+                    {
+                        "icon": "445a30d2d5c76b6aac1fb58aaa48ca6b35c38993.jpg",
+                        "localized_name": "Peso morto",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Peso morto",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/445a30d2d5c76b6aac1fb58aaa48ca6b35c38993.jpg"
+                    },
+                    {
+                        "icon": "30383c10022aae206967a7b7f2683d6ac193cc23.jpg",
+                        "localized_name": "Ganhando de virada",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Ganhando de virada",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/390340/30383c10022aae206967a7b7f2683d6ac193cc23.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 jun. 2016"
+            },
+            "support_info": {
+                "url": "http://www.capcom.co.jp/support/contact/",
+                "email": ""
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/390340?t=1728439260",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/page_bg_raw.jpg?t=1728439260",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "esrb": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "m",
+                    "descriptors": "Intense Violence\r\nBlood and Gore\r\nStrong Language",
+                    "display_online_notice": "true"
+                },
+                "pegi": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "18",
+                    "descriptors": "Bad Language\r\nViolence"
+                },
+                "bbfc": {
+                    "use_age_gate": "true",
+                    "required_age": "17"
+                },
+                "usk": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "18"
+                },
+                "oflc": {
+                    "use_age_gate": "true",
+                    "required_age": "15",
+                    "rating": "ma15",
+                    "descriptors": "Strong Violence\r\nBlood and gore\r\nOnline interactivity"
+                },
+                "nzoflc": {
+                    "use_age_gate": "true",
+                    "required_age": "16",
+                    "rating": "r16",
+                    "descriptors": "Graphic violence and horror"
+                },
+                "cero": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "d",
+                    "descriptors": "暴力"
+                },
+                "kgrb": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "18",
+                    "descriptors": "恐怖\r\n暴力性"
+                },
+                "dejus": {
+                    "use_age_gate": "true",
+                    "required_age": "16",
+                    "rating": "16",
+                    "descriptors": "Violência Extrema, \r\nLinguagem Imprópria"
+                },
+                "mda": {
+                    "use_age_gate": "true",
+                    "required_age": "17"
+                },
+                "fpb": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "18",
+                    "descriptors": "Horror\r\nViolence"
+                },
+                "csrr": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "R",
+                    "descriptors": "暴力\r\n恐怖"
+                },
+                "crl": {
+                    "use_age_gate": "true",
+                    "required_age": "17",
+                    "rating": "18"
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 4,
+                    "review_score_desc": "Mostly Negative",
+                    "total_positive": 501,
+                    "total_negative": 1021,
+                    "total_reviews": 1522
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237810412",
+                        "author": {
+                            "steamid": "76561198078947367",
+                            "num_reviews": 4,
+                            "playtime_forever": 3031,
+                            "playtime_last_two_weeks": 2,
+                            "playtime_at_review": 3026,
+                            "last_played": 1793536354
+                        },
+                        "language": "english",
+                        "review": "The game no longer works, we had no issues playing until last week and now there is no way to get in a lobby with other ppl. U cant even get invited to a lobby. The game is literally unplayable",
+                        "timestamp_created": 1792104169,
+                        "timestamp_updated": 1792104169,
+                        "voted_up": false,
+                        "votes_up": 2,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5419847369194031,
+                        "comment_count": 2,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZKQmAAAAB8rpaLBw==",
+                "day_range_used": 30,
+                "total_matching": 10
+            },
+            "steamspy_tags": [
+                "Action",
+                "Zombies",
+                "Multiplayer",
+                "Shooter",
+                "Third-Person Shooter",
+                "Co-op",
+                "Horror",
+                "Singleplayer",
+                "Survival",
+                "FPS",
+                "Third Person",
+                "Competitive",
+                "PvP",
+                "Atmospheric",
+                "Gore",
+                "Team-Based",
+                "First-Person",
+                "Tactical",
+                "Casual",
+                "Survival Horror"
+            ]
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "731940": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Bars and Balance",
+            "steam_appid": 731940,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>My next game</h1><p></p><br><h1>Acerca do jogo</h1>Relaxing physics puzzle game with minimalist design.<br><br>The system of bars should remain in balance. Find and remove unnecessary bars. But be careful - it's not as easy as it sounds!<h2 class=\"bb_tag\" >Key Features:</h2><br><ul class=\"bb_ul\"><li>Unique physics puzzle game.<br></li><li>50 levels with different colour schemes.<br></li><li>Relaxing visual and sound atmosphere.<br></li><li>No stories, just puzzles and lots of bars!</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/extras/f7cb9f06e4e630e24b0b5bc5c61c3ddb.webp?t=1724994307\" width=614 height=51 /></span>",
+            "about_the_game": "Relaxing physics puzzle game with minimalist design.<br><br>The system of bars should remain in balance. Find and remove unnecessary bars. But be careful - it's not as easy as it sounds!<h2 class=\"bb_tag\" >Key Features:</h2><br><ul class=\"bb_ul\"><li>Unique physics puzzle game.<br></li><li>50 levels with different colour schemes.<br></li><li>Relaxing visual and sound atmosphere.<br></li><li>No stories, just puzzles and lots of bars!</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/extras/f7cb9f06e4e630e24b0b5bc5c61c3ddb.webp?t=1724994307\" width=614 height=51 /></span>",
+            "short_description": "Relaxing physics puzzle game with minimalist design.",
+            "supported_languages": "Inglês",
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 44,
+                    "total_negative": 8,
+                    "total_reviews": 52
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "40783839",
+                        "author": {
+                            "steamid": "76561198231874740",
+                            "num_reviews": 102,
+                            "playtime_forever": 67,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 67,
+                            "last_played": 1520935391
+                        },
+                        "language": "english",
+                        "review": "[u]In short:[/u] It's a janky gamified physics simulation with poorly implemented controls and UI. It's very short, overpriced and little fun.\n\nFor the [u]full review[/u] I'd like to start with a word of warning: The store page says that \"[b][u]integraded cards may not work[/u][/b]\". Indeed, for me playing on an Intel HD 4000 lead to pretty bad lag and stuttering. I should have paid attention, so I feel like I can't fault the developer for my technical issues. To their credit: The game still ran and I was able to complete it. Disclaimer: Even though for the rest of the review I'll try to critique the game as if it ran properly, my issues may still taint my over-all impression.\n\nEach level presents you with a bunch of delicately balanced blocks stacked on top of each other. The main and really only [b][u]mechanic[/u][/b] is to rotate the camera and remove a pre-defined number of blocks by clicking on them. Then you run the simluation and if within a few seconds no blocks hit the floor you get an achievement and move on to the next level. You have to remove the specified number of blocks before the game allows you to start the simulation, so there's no way of running the original level to get a feeling for the balance and where to work on it. I never really got a sense for the weight of blocks so I solved most levels either by trial and error or by playing the devloper (some levels had obvious tacked-on structures, some had symetry, some resulted in the most absurd shapes). I guess the game is somewhat interesting as it shows you some pretty far-out structures that are still perfectly balanced and you learn something about centers of mass, but it wasn't fun to play.\nThere are 50 pre-made [b][u]levels[/u][/b] with virtually no progression or scaling. 90% of levels require you to remove exactly 3 blocks and there's no change in difficulty through-out the game. There is a menu called \"Levels Map\" which as best as I can tell does absolutely nothing. You certainly can't select levels from it. At first the levels come in sequence and there's no way to skip them, which isn't really a problem as they are all very easy. After completing the game, hitting the \"Play\" button seemed to start completely random levels. One of my biggest gripes is with resetting levels: You cannot get back into edit mode without resetting all the blocks. It also snaps you back to the starting camera positon and furthermore completely changes the color palette each time. I found resetting a level to be extremely disorienting and jarring. The game certainly does not support iteratively improving your solution.\n\nOn the [b][u]technical side[/u][/b] the game appears to be built on top of Blender (the 3D modelling software) which seemed like an interesting experiment to me. I thought this was the cause of what I found to be rather poorly implemented UI and controls, but in the comments below this review the developer corrected me, that the game was made in a common game engine and that he thinks the controls are good and already improved. From my subjective experience I respectfully disagree, but your milage may vary. Further on the technical side, the game starts in fullscreen and while you can switch to windowed mode (good!) the game doesn't remember the window size (bad!) and it's up to the player to manually resize the window so it doesn't show black bars.\n\nThe game's [b][u]controls[/u][/b] almost exclusively rely on mouse. It imposes its own mouse sensitivity settings (why?) and feels very weird to control. LMB hits buttons and removes blocks, RMB rotates the camera, MMB starts the simulation. You enter menus by clicking buttons, but you can only leave some of them by hitting Esc (the single hotkey). You can start the simulation via mouse button, but can only abort it by clicking a tiny button on screen. About half of my mouse button inputs were completely disregarded, but from the video the developer links in the comments below this was probably the result of my technical issues and not a design problem. Undo and reset are clickable buttons with no keybindings (even though you'll use them quite frequently). If during a failed simulation you click the reset button it almost instantly returns you to the puzzle. But if you let the simulation expire, you'll be subjected to a loading screen to get back to the puzzle (why?).\n\nThe [b][u]visuals[/u][/b] suffer from very low contrast which makes blocks hard to distinguish, as outlines were only sometimes shown. The [b][u]audio[/u][/b] is nothing to write home about either and there are no volume sliders. You can only adjust the master volume in 20 steps by clicking +/- buttons. Sound effects weren't great, music was okay.\n\nWith all the technical difficulties and with taking some notes inbetween it still only took me barely over an hour of [b][u]playtime[/u][/b] to fully exhaust the game. I don't think I will ever go back to it, but even if I wanted, the replayability is poor. My standard target for puzzle games is 1 dollar/euro per hour of gameplay. If a game has something to offer and is good, I'll gladly pay more, but this is not the case here. Full price is definitely not worth it, especially given how many really good puzzle games are available at 1 dollar/euro or even lower. Even at 40% off (where I bought it) I feel it's overpriced for what little it has to offer and for how poorly it is implemented.\n\nIn [b][u]conclusion[/u][/b] this is a bad one-trick-pony, that's barely a game. The controls and UI are very poor and both in terms of length and depth it has little to offer. I like to be lenient on new indie developers and wish them well on future efforts, but this is their fourth game and I feel like they should know better by now.",
+                        "timestamp_created": 1520935622,
+                        "timestamp_updated": 1521490176,
+                        "voted_up": false,
+                        "votes_up": 11,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6899228096008301,
+                        "comment_count": 15,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "developer_response": "Next time please read about system requerement before buying games. I stoped reading your \"review\" after I found out that you played with Intel HD 4000 integrated card. You are not competent to write a review and call the game janky, if the system requirements are not met.",
+                        "timestamp_dev_responded": 1520945476,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFXM5gAAAAB//cmbAQ==",
+                "day_range_used": 0,
+                "total_matching": 52
+            },
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/header.jpg?t=1724994307",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/capsule_231x87.jpg?t=1724994307",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/capsule_184x69.jpg?t=1724994307",
+            "website": "https://twitter.com/MykhailKonokh",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7 or higher<br></li><li><strong>Processador:</strong> Dual Core 3.0 GHz<br></li><li><strong>Memória:</strong> 4 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce GTX 560 (1 GB Memory) or equivalent discrete card (INTEGRATED CARDS WILL NOT WORK)<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 700 MB de espaço livre</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7 or higher<br></li><li><strong>Processador:</strong> Quad Core 3.4 GHz or more<br></li><li><strong>Memória:</strong> 6 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce GTX 660 (2 GB Memory) or equivalent discrete card (INTEGRATED CARDS WILL NOT WORK)<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 1 GB de espaço livre</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2017 Mykhail Konokh. All Rights Reserved.",
+            "developers": [
+                "Mykhail Konokh"
+            ],
+            "publishers": [
+                "Mykhail Konokh"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 699,
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 6,99"
+            },
+            "packages": [
+                213570
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Bars and Balance",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 213570,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Bars and Balance - R$ 6,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_558f78e36319b32b6bcfdc2a70d5cc135f9b466d.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_558f78e36319b32b6bcfdc2a70d5cc135f9b466d.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_7cbb4d0b2335c841421b9b5d9130496f2da542e0.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_7cbb4d0b2335c841421b9b5d9130496f2da542e0.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_f75fce92c5b92db97e8171bd76d0232f195941d0.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_f75fce92c5b92db97e8171bd76d0232f195941d0.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_d25d91bdce3922e3570745704395b67229371888.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_d25d91bdce3922e3570745704395b67229371888.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_f1355fe95f391fc9a26c4613a32d912d19833ae0.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_f1355fe95f391fc9a26c4613a32d912d19833ae0.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_ca7b37259bbeb144ebf1aaa44260dd0f851e086d.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_ca7b37259bbeb144ebf1aaa44260dd0f851e086d.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_a006e6c33031c8a463ca389a605a929837ef9e32.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_a006e6c33031c8a463ca389a605a929837ef9e32.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_633d944857f478efc1ff64bcd98ee9d95496da74.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_633d944857f478efc1ff64bcd98ee9d95496da74.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_0294d6e4a1160503f7606191437fc51280a0a06f.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_0294d6e4a1160503f7606191437fc51280a0a06f.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_b6c9dd9368817dea8d1f8fb81907267124454b5d.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_b6c9dd9368817dea8d1f8fb81907267124454b5d.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_5fc9507514f6e5145978b73387b8713360d83bd2.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_5fc9507514f6e5145978b73387b8713360d83bd2.1920x1080.jpg?t=1724994307"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_8b2e782efa34f108c03afe711efe737ac2d44a48.600x338.jpg?t=1724994307",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/ss_8b2e782efa34f108c03afe711efe737ac2d44a48.1920x1080.jpg?t=1724994307"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256697493,
+                    "name": "Gameplay Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256697493/movie.293x165.jpg?t=1508307426",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/731940/126962/e3f085da33c095cd7958324c2b17f27dd907eeae/1751137434/dash_av1.mpd?t=1508307426",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/731940/126962/e3f085da33c095cd7958324c2b17f27dd907eeae/1751137434/dash_h264.mpd?t=1508307426",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/731940/126962/e3f085da33c095cd7958324c2b17f27dd907eeae/1751137434/hls_264_master.m3u8?t=1508307426",
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 50,
+                "highlighted": [
+                    {
+                        "icon": "94e2cbaa4940cb76d8327f248e564ebb9f12259b.jpg",
+                        "localized_name": "I have 1 bar!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 1 bar!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/94e2cbaa4940cb76d8327f248e564ebb9f12259b.jpg"
+                    },
+                    {
+                        "icon": "ced736a12545751036dd86ae47981f3e52b9613d.jpg",
+                        "localized_name": "I have 2 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 2 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/ced736a12545751036dd86ae47981f3e52b9613d.jpg"
+                    },
+                    {
+                        "icon": "be833da00796c8e555c8bd78e880e2b33b3fb434.jpg",
+                        "localized_name": "I have 3 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 3 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/be833da00796c8e555c8bd78e880e2b33b3fb434.jpg"
+                    },
+                    {
+                        "icon": "53f2dabbc19956942d3b8c4dd8e97f00d78eb642.jpg",
+                        "localized_name": "I have 4 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 4 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/53f2dabbc19956942d3b8c4dd8e97f00d78eb642.jpg"
+                    },
+                    {
+                        "icon": "04b30b8dd67dd0b424049cd7f974c3ae2325e5b5.jpg",
+                        "localized_name": "I have 5 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 5 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/04b30b8dd67dd0b424049cd7f974c3ae2325e5b5.jpg"
+                    },
+                    {
+                        "icon": "65872f486d3efd2450e81aeb0f75b32de435be40.jpg",
+                        "localized_name": "I have 6 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 6 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/65872f486d3efd2450e81aeb0f75b32de435be40.jpg"
+                    },
+                    {
+                        "icon": "95f6e472e24d9e55f24594efa3d06ae491e7c6a0.jpg",
+                        "localized_name": "I have 7 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 7 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/95f6e472e24d9e55f24594efa3d06ae491e7c6a0.jpg"
+                    },
+                    {
+                        "icon": "605dca89562c50cc0f18f0087526e7911bf34d1d.jpg",
+                        "localized_name": "I have 8 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 8 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/605dca89562c50cc0f18f0087526e7911bf34d1d.jpg"
+                    },
+                    {
+                        "icon": "f095a988a0ef00a9cadcbf2fed2fd25886f05174.jpg",
+                        "localized_name": "I have 9 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 9 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/f095a988a0ef00a9cadcbf2fed2fd25886f05174.jpg"
+                    },
+                    {
+                        "icon": "8292c2313dbca9c06bdd9eaa4eefd9a2a75bd44b.jpg",
+                        "localized_name": "I have 10 bars!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I have 10 bars!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731940/8292c2313dbca9c06bdd9eaa4eefd9a2a75bd44b.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 nov. 2017"
+            },
+            "support_info": {
+                "url": "https://twitter.com/MykhailKonokh",
+                "email": "m.konokh@gmail.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/731940?t=1724994307",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731940/page_bg_raw.jpg?t=1724994307",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating": "l"
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "0",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "3",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                }
+            },
+            "steamspy_tags": [
+                "Casual",
+                "Indie",
+                "Puzzle",
+                "Physics",
+                "Minimalist",
+                "Singleplayer",
+                "Abstract",
+                "Family Friendly",
+                "Relaxing",
+                "Atmospheric",
+                "Short",
+                "Mouse only",
+                "Great Soundtrack"
+            ]
+        }
+    }
+}

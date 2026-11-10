@@ -1,0 +1,312 @@
+{
+    "529940": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "ShowdownVR",
+            "steam_appid": 529940,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Test your limits in an atmospheric battle arena by dodging enemy projectiles, scoring points, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing down time, teleporting around an open world, even taking over and steering a ship in the middle of a mighty ocean!<br><br>Choosing between five intensity difficulties and two playing styles offers a wide range of experience with a chance to gradually improve your skills. Compete as an individual while also representing your country and continent on the leaderboards.<br><br>ShowdownVR is shipping with some of the world’s first technologies used in VR: NVIDIA’s WaveWorks, Multi-Res Shading, Lens Matched Shading with dynamic versions of both (dynamic multires and dynamic lens matched shading), VR SLI. Everything built-in with an extended menu for full customization and benchmarking.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Immersive virtual reality carnage<br></li><li>2 × 2 km wide open world battle arena<br></li><li>Five difficulty levels<br></li><li>Two game modes: The One and Dodger<br></li><li>Fully dynamic world<br></li><li>Easy to play, hard to master. Comes with manual and master sheet.<br></li><li>Leaderboards: Continent, Country, Individual<br></li><li>NVIDIA WaveWorks for real-time ocean simulation<br></li><li>NVIDIA Multi-Res Shading, Lens Matched Shading with dynamic shading options.<br></li><li>NVIDIA VR SLI<br></li><li>Benchmark</li></ul><br><i>Heavily inspired by Matrix, Quake and Doom; fast, intensive, powerful, unforgiving.</i><br><br><strong>Specific inspirations</strong><ul class=\"bb_ul\"><li>Matrix: bullet time, dodging, music style<br></li><li>Quake: arena, competitive, fast twitch / accurate combat<br></li><li>Doom: fast, intensive, bloody kills</li></ul><h2 class=\"bb_tag\" >Gameplay</h2>There is a wide variety of approaches for players to use. The goal is very simple: score the largest amount of points possible in the time given to you. By dodging plasma projectiles you gain points and combos to earn action points. These can be used for the following perks: teleporting, attack, multi-attack, slowing down time. By killing your foes you gain additional time, which enables you to score more points. Enemies can be killed by your projectiles or can get run over by a ship that you can control at any time, even when you're not on it. They can also get knocked out and drown when hit by a larger wave. When you get hit, you don't gain a point and your combo progress decreases. This makes it harder to gain action points that enable the use of player's abilities - which in return enable player to gain more points.<h2 class=\"bb_tag\" >Showdown: Virtual reality carnage</h2>Every copy of the game comes bundled with an accompanying piece of work in a form of a book &quot;Showdown: Virtual reality carnage&quot;. A personalized white paper about the implementation, customization and usage of features in Unreal Engine 4 during the development of virtualy reality game ShowdownVR. It presents a strong practical case of why open source game engines are the future. You can find it in game's directory under &quot;Bonus content&quot; folder.<h2 class=\"bb_tag\" >Gameworks</h2>Quick word on using NVIDIA's tech. The exact tech specifications are available in white paper  &quot;Showdown: Virtual reality carnage&quot;, released with the game. There is a very fundemental, objective reason for using these features: it's the best performing piece of code out there. It's important to remember that most problems with GM come with bad implementations. Showdown's water takes about 1ms on CPU and about as much on GPU, no matter the GPU brand! Everything is controlled by us in Unreal's source code, there is no over-tesselation or any similar bottlenecks. Multi-Res Shading, Lens Matched Shading and SLI work only on NVIDIA and are a bonus option.<br><br><br><br>Nejc L.,<br>Frontseat Studio",
+            "about_the_game": "Test your limits in an atmospheric battle arena by dodging enemy projectiles, scoring points, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing down time, teleporting around an open world, even taking over and steering a ship in the middle of a mighty ocean!<br><br>Choosing between five intensity difficulties and two playing styles offers a wide range of experience with a chance to gradually improve your skills. Compete as an individual while also representing your country and continent on the leaderboards.<br><br>ShowdownVR is shipping with some of the world’s first technologies used in VR: NVIDIA’s WaveWorks, Multi-Res Shading, Lens Matched Shading with dynamic versions of both (dynamic multires and dynamic lens matched shading), VR SLI. Everything built-in with an extended menu for full customization and benchmarking.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Immersive virtual reality carnage<br></li><li>2 × 2 km wide open world battle arena<br></li><li>Five difficulty levels<br></li><li>Two game modes: The One and Dodger<br></li><li>Fully dynamic world<br></li><li>Easy to play, hard to master. Comes with manual and master sheet.<br></li><li>Leaderboards: Continent, Country, Individual<br></li><li>NVIDIA WaveWorks for real-time ocean simulation<br></li><li>NVIDIA Multi-Res Shading, Lens Matched Shading with dynamic shading options.<br></li><li>NVIDIA VR SLI<br></li><li>Benchmark</li></ul><br><i>Heavily inspired by Matrix, Quake and Doom; fast, intensive, powerful, unforgiving.</i><br><br><strong>Specific inspirations</strong><ul class=\"bb_ul\"><li>Matrix: bullet time, dodging, music style<br></li><li>Quake: arena, competitive, fast twitch / accurate combat<br></li><li>Doom: fast, intensive, bloody kills</li></ul><h2 class=\"bb_tag\" >Gameplay</h2>There is a wide variety of approaches for players to use. The goal is very simple: score the largest amount of points possible in the time given to you. By dodging plasma projectiles you gain points and combos to earn action points. These can be used for the following perks: teleporting, attack, multi-attack, slowing down time. By killing your foes you gain additional time, which enables you to score more points. Enemies can be killed by your projectiles or can get run over by a ship that you can control at any time, even when you're not on it. They can also get knocked out and drown when hit by a larger wave. When you get hit, you don't gain a point and your combo progress decreases. This makes it harder to gain action points that enable the use of player's abilities - which in return enable player to gain more points.<h2 class=\"bb_tag\" >Showdown: Virtual reality carnage</h2>Every copy of the game comes bundled with an accompanying piece of work in a form of a book &quot;Showdown: Virtual reality carnage&quot;. A personalized white paper about the implementation, customization and usage of features in Unreal Engine 4 during the development of virtualy reality game ShowdownVR. It presents a strong practical case of why open source game engines are the future. You can find it in game's directory under &quot;Bonus content&quot; folder.<h2 class=\"bb_tag\" >Gameworks</h2>Quick word on using NVIDIA's tech. The exact tech specifications are available in white paper  &quot;Showdown: Virtual reality carnage&quot;, released with the game. There is a very fundemental, objective reason for using these features: it's the best performing piece of code out there. It's important to remember that most problems with GM come with bad implementations. Showdown's water takes about 1ms on CPU and about as much on GPU, no matter the GPU brand! Everything is controlled by us in Unreal's source code, there is no over-tesselation or any similar bottlenecks. Multi-Res Shading, Lens Matched Shading and SLI work only on NVIDIA and are a bonus option.<br><br><br><br>Nejc L.,<br>Frontseat Studio",
+            "short_description": "Test yourself in atmospheric battle arena by dodging attacks, scoring, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing time, teleporting and even taking over and steering a ship in the middle of a mighty ocean!",
+            "supported_languages": "Inglês",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/header.jpg?t=1477724572",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/capsule_231x87.jpg?t=1477724572",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/capsule_184x69.jpg?t=1477724572",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7<br></li><li><strong>Processador:</strong> i5-4590<br></li><li><strong>Memória:</strong> 4 GB de RAM<br></li><li><strong>Placa gráfica:</strong> GTX 970 / R290 or better<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 5 GB de espaço livre<br></li><li><strong>Compatibilidade com R.V.:</strong> SteamVR</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows 10<br></li><li><strong>Processador:</strong> i5-4590<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> GTX 970 / R290 or better<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 5 GB de espaço livre</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Frontseat Studio"
+            ],
+            "publishers": [
+                "Frontseat Studio"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 449,
+                "final": 449,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 4,49"
+            },
+            "packages": [
+                127470
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar ShowdownVR",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 127470,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "ShowdownVR - R$ 4,49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 28,
+                    "description": "Compatibilidade total com comando"
+                },
+                {
+                    "id": 52,
+                    "description": "Compatibilidade com comandos de deteção"
+                },
+                {
+                    "id": 54,
+                    "description": "Exclusivos para R.V."
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Ação"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_12c2f9b59f2d2bcc34773b852aef42def37299d6.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_12c2f9b59f2d2bcc34773b852aef42def37299d6.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_84194c1fbfe205b638e2b19a9e444bb9269bef0e.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_84194c1fbfe205b638e2b19a9e444bb9269bef0e.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_bbc5a03ed6f4d47c74ba7a05a1f27f402104e173.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_bbc5a03ed6f4d47c74ba7a05a1f27f402104e173.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_dc98508187fe58704759c2fbc0d80795f27a58f5.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_dc98508187fe58704759c2fbc0d80795f27a58f5.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_4cae3e38beccd320f723655241ca79894b978127.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_4cae3e38beccd320f723655241ca79894b978127.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_e91014811fdae6e976054779548a1c9a27256852.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_e91014811fdae6e976054779548a1c9a27256852.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_44bf42ba5134ab1dfee92229508bd55e499a8b79.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_44bf42ba5134ab1dfee92229508bd55e499a8b79.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_c3b73b7564d1ef3f88bc76eba6a8bb36f3d10465.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_c3b73b7564d1ef3f88bc76eba6a8bb36f3d10465.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_cdfe11299f22af92e8208dd56144812c69bcefaa.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_cdfe11299f22af92e8208dd56144812c69bcefaa.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_78db77ad9278449011d798a22b33fd76f8892f0c.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_78db77ad9278449011d798a22b33fd76f8892f0c.1920x1080.jpg?t=1477724572"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_ab91336f2804ec2eb9bf7fa244e432df604d8009.600x338.jpg?t=1477724572",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_ab91336f2804ec2eb9bf7fa244e432df604d8009.1920x1080.jpg?t=1477724572"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256670550,
+                    "name": "ShowdownVR Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256670550/movie.293x165.jpg?t=1473953082",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/529940/72310/668609646a67734d61c25b64dc2661fea7e5071a/1751298038/dash_av1.mpd?t=1473953082",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/529940/72310/668609646a67734d61c25b64dc2661fea7e5071a/1751298038/dash_h264.mpd?t=1473953082",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/529940/72310/668609646a67734d61c25b64dc2661fea7e5071a/1751298038/hls_264_master.m3u8?t=1473953082",
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 16,
+                "highlighted": [
+                    {
+                        "icon": "21264fdb57c75f2b011545712ff2e2deee911f1d.jpg",
+                        "localized_name": "Pop & lock",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Pop & lock",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/21264fdb57c75f2b011545712ff2e2deee911f1d.jpg"
+                    },
+                    {
+                        "icon": "284aaec545131c21aa41e70d1f8b0cf57dee2331.jpg",
+                        "localized_name": "500 shades of gray",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "500 shades of gray",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/284aaec545131c21aa41e70d1f8b0cf57dee2331.jpg"
+                    },
+                    {
+                        "icon": "fa093a6b0e6b281003ffdef4a78566d33387b130.jpg",
+                        "localized_name": "Moonducker",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Moonducker",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/fa093a6b0e6b281003ffdef4a78566d33387b130.jpg"
+                    },
+                    {
+                        "icon": "64a37ca460de30b9838badf49c6aaabf9c8814ca.jpg",
+                        "localized_name": "Plasma snacker",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Plasma snacker",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/64a37ca460de30b9838badf49c6aaabf9c8814ca.jpg"
+                    },
+                    {
+                        "icon": "d4201a93a3e721c0224cf2a3a408780e47a7191f.jpg",
+                        "localized_name": "Doctor Flash",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Doctor Flash",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/d4201a93a3e721c0224cf2a3a408780e47a7191f.jpg"
+                    },
+                    {
+                        "icon": "cc470e38135e014a7a71c0c62f22afd5be064595.jpg",
+                        "localized_name": "Holographic man",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Holographic man",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/cc470e38135e014a7a71c0c62f22afd5be064595.jpg"
+                    },
+                    {
+                        "icon": "50feda53cc5746c2151f4b2f6a17d2b9750c241e.jpg",
+                        "localized_name": "Neo who?!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Neo who?!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/50feda53cc5746c2151f4b2f6a17d2b9750c241e.jpg"
+                    },
+                    {
+                        "icon": "e3800d8f7573e954e416fa78d14d216a275fda15.jpg",
+                        "localized_name": "Morgan Freeman",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Morgan Freeman",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/e3800d8f7573e954e416fa78d14d216a275fda15.jpg"
+                    },
+                    {
+                        "icon": "e8dd5ee0157e02cf2f7113696a2c28199062eda0.jpg",
+                        "localized_name": "Virgin no more",
+                        "archived": 0,
+                        "hidden": 1,
+                        "name": "Virgin no more",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/e8dd5ee0157e02cf2f7113696a2c28199062eda0.jpg"
+                    },
+                    {
+                        "icon": "6fb1fcaaf1907be7f5288ea48ffcd6b2e126dba2.jpg",
+                        "localized_name": " Sailor",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": " Sailor",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/529940/6fb1fcaaf1907be7f5288ea48ffcd6b2e126dba2.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "19 set. 2016"
+            },
+            "support_info": {
+                "url": "http://www.showdownvr.com",
+                "email": "frontseatstudio@protonmail.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/529940?t=1477724572",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/529940?t=1477724572",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 0,
+                    "review_score_desc": "5 user reviews",
+                    "total_positive": 4,
+                    "total_negative": 1,
+                    "total_reviews": 5
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "25624715",
+                        "author": {
+                            "steamid": "76561198263031762",
+                            "num_reviews": 1,
+                            "playtime_forever": 27,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 27,
+                            "last_played": 1474484829
+                        },
+                        "language": "english",
+                        "review": "I've really enjoyed it! It's one big enviroment with little rock islands that you can jump from/to, also a ship that you can use to explore more. Every difficilty level is time limited, but I did notice that when killing enemies the countdown progress bar (red) decreases, so I guess you can gain more time this way! The attack style is actually pretty cool, I naturally thought, that I would have to aim somehow but when fired it seems to attack the nearest target... which is useful because you can just focus on dodging, that really brings you points, one dodge seems to be one point. The minimum difficulty is really slow and easy, but the DOOM (last one) is mental! No one can dodge that! The second or third difficulty levels are kind of where I feel comfortable right now. This feels like a game where you can bring a bunch of friends over and compete with each other, I'll give it a go this weekend! Also, I tried playing it standing and sitting and I personally prefer standing. Played it with Oculus Rift and used Oculus Remote. My friend has a Vive, we'll try it out in the next few days and see how that goes, but overall it's a really nice competitive game!\n\nUPDATE 23.09.2016:\n\nWorks on Vive the same as on Oculus Rift.",
+                        "timestamp_created": 1474487056,
+                        "timestamp_updated": 1474616334,
+                        "voted_up": true,
+                        "votes_up": 9,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5840009450912476,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFZUeoAAAAB7iOBh",
+                "day_range_used": 0,
+                "total_matching": 5
+            },
+            "steamspy_tags": [
+                "Action",
+                "VR"
+            ]
+        }
+    }
+}

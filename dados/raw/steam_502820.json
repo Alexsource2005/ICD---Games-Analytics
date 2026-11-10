@@ -1,0 +1,370 @@
+{
+    "502820": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Batman™: Arkham VR",
+            "steam_appid": 502820,
+            "required_age": "14",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Com Batman™: Arkham VR vais entrar no universo do Cavaleiro das Trevas e dar um novo significado ao que ele representa.<br />\r\n<br />\r\nExplora Gotham City através dos olhos do melhor detetive do mundo num mistério totalmente novo em Arkham.<br />\r\n<br />\r\nPensa como Batman. Usa os seus lendários dispositivos em Realidade Virtual para desvendar um enredo que ameaçará as vidas dos maiores aliados de Batman.",
+            "about_the_game": "Com Batman™: Arkham VR vais entrar no universo do Cavaleiro das Trevas e dar um novo significado ao que ele representa.<br />\r\n<br />\r\nExplora Gotham City através dos olhos do melhor detetive do mundo num mistério totalmente novo em Arkham.<br />\r\n<br />\r\nPensa como Batman. Usa os seus lendários dispositivos em Realidade Virtual para desvendar um enredo que ameaçará as vidas dos maiores aliados de Batman.",
+            "short_description": "Explora Gotham City através dos olhos do melhor detetive do mundo num mistério totalmente novo em Arkham.",
+            "supported_languages": "Inglês<strong>*</strong>, Francês, Italiano, Alemão, Espanhol (Espanha), Japonês, Polaco, Português (Brasil), Russo<br><strong>*</strong>idiomas com suporte total de áudio",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/header.jpg?t=1773778770",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/capsule_231x87.jpg?t=1773778770",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/capsule_184x69.jpg?t=1773778770",
+            "website": "https://www.warnerbros.com/games-and-apps/batman-arkham-vr",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo *:</strong> 64-bit Windows™ 7 SP1, Windows™ 8.1 or later, or Windows™ 10<br></li><li><strong>Processador:</strong> Intel™ Core™ i5-4590 equivalent or greater<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> NVIDIA GeForce™ GTX 1060 / GTX 970 or AMD Radeon™ RX 480<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 10 GB de espaço livre<br></li><li><strong>Compatibilidade com R.V.:</strong> SteamVR or Oculus PC</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "legal_notice": "BATMAN: ARKHAM VR software © 2017 Warner Bros. Entertainment Inc. Developed by Rocksteady Studios.<br />\r\n<br />\r\nBATMAN and all characters, their distinctive likenesses, and related elements are trademarks of DC Comics © 2017. All Rights Reserved.<br />\r\nWB GAMES LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc.<br />\r\n(s17)",
+            "developers": [
+                "Rocksteady Studios"
+            ],
+            "publishers": [
+                "Warner Bros. Interactive Entertainment"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 8999,
+                "final": 8999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 89,99"
+            },
+            "packages": [
+                313538,
+                115611
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Batman™: Arkham VR",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 313538,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Batman™: Arkham VR - Commercial License - R$ 49,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4999
+                        },
+                        {
+                            "packageid": 115611,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Batman™: Arkham VR - R$ 89,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 8999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 28,
+                    "description": "Compatibilidade total com comando"
+                },
+                {
+                    "id": 52,
+                    "description": "Compatibilidade com comandos de deteção"
+                },
+                {
+                    "id": 54,
+                    "description": "Exclusivos para R.V."
+                },
+                {
+                    "id": 29,
+                    "description": "Cartas Colecionáveis Steam"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Aventura"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_bfb0ab888210c6e9c946371ff860fbe098138334.600x338.jpg?t=1773778770",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_bfb0ab888210c6e9c946371ff860fbe098138334.1920x1080.jpg?t=1773778770"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_41cb1e2beff3c71b54fc632a2a18e2f9621c29cc.600x338.jpg?t=1773778770",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_41cb1e2beff3c71b54fc632a2a18e2f9621c29cc.1920x1080.jpg?t=1773778770"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_d0e93ca434fc24841543b5030100be8d43bd9d39.600x338.jpg?t=1773778770",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_d0e93ca434fc24841543b5030100be8d43bd9d39.1920x1080.jpg?t=1773778770"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_9e9add450d9e159e89ced0267b9b74b92b490399.600x338.jpg?t=1773778770",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_9e9add450d9e159e89ced0267b9b74b92b490399.1920x1080.jpg?t=1773778770"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_9e4e31da7eaadfe260f5bd355cb590680e3f16ac.600x338.jpg?t=1773778770",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_9e4e31da7eaadfe260f5bd355cb590680e3f16ac.1920x1080.jpg?t=1773778770"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_3be5bc8c0c49dbf60eef80a550880427a4a13171.600x338.jpg?t=1773778770",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/ss_3be5bc8c0c49dbf60eef80a550880427a4a13171.1920x1080.jpg?t=1773778770"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256684154,
+                    "name": "Oculus&Vive Play Now",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684154/movie.293x165.jpg?t=1493617639",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/502820/100351/bf5a7e07129a4512cfb832caeb071d57a7b854f9/1751294080/dash_av1.mpd?t=1493617639",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/502820/100351/bf5a7e07129a4512cfb832caeb071d57a7b854f9/1751294080/dash_h264.mpd?t=1493617639",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/502820/100351/bf5a7e07129a4512cfb832caeb071d57a7b854f9/1751294080/hls_264_master.m3u8?t=1493617639",
+                    "highlight": true
+                },
+                {
+                    "id": 256683831,
+                    "name": "Launch Event Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683831/movie.293x165.jpg?t=1493140982",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/502820/99739/5460a35be8f2190d9b87f566a6802cae16783329/1751294076/dash_av1.mpd?t=1493140982",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/502820/99739/5460a35be8f2190d9b87f566a6802cae16783329/1751294076/dash_h264.mpd?t=1493140982",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/502820/99739/5460a35be8f2190d9b87f566a6802cae16783329/1751294076/hls_264_master.m3u8?t=1493140982",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 1763
+            },
+            "achievements": {
+                "total": 13,
+                "highlighted": [
+                    {
+                        "icon": "bd9b9e2c14130fe729cdcddb925d14f371a3cedb.jpg",
+                        "localized_name": "To The Batcave",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "To The Batcave",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/bd9b9e2c14130fe729cdcddb925d14f371a3cedb.jpg"
+                    },
+                    {
+                        "icon": "7b47017b33c5e48f966e863eccb859d89110eb00.jpg",
+                        "localized_name": "A Death in the Family",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "A Death in the Family",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/7b47017b33c5e48f966e863eccb859d89110eb00.jpg"
+                    },
+                    {
+                        "icon": "791ee62c63a4dfbc98e53d62fcda335e869883bb.jpg",
+                        "localized_name": "The Last Laugh",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "The Last Laugh",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/791ee62c63a4dfbc98e53d62fcda335e869883bb.jpg"
+                    },
+                    {
+                        "icon": "5bd22ad91837dbdac8209d7317e229153f79cc06.jpg",
+                        "localized_name": "Bits & Pieces",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Bits & Pieces",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/5bd22ad91837dbdac8209d7317e229153f79cc06.jpg"
+                    },
+                    {
+                        "icon": "7a64e3f6ef014aaa12ae55a21fe983517001fad9.jpg",
+                        "localized_name": "Bite-Sized",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Bite-Sized",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/7a64e3f6ef014aaa12ae55a21fe983517001fad9.jpg"
+                    },
+                    {
+                        "icon": "7f00bc8711cdcacf0a687e73136f77442a494b65.jpg",
+                        "localized_name": "Through the Looking Glass",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Through the Looking Glass",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/7f00bc8711cdcacf0a687e73136f77442a494b65.jpg"
+                    },
+                    {
+                        "icon": "cfec9db9dce11f25332860d26000ddd9da55754d.jpg",
+                        "localized_name": "Riddle Me This",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Riddle Me This",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/cfec9db9dce11f25332860d26000ddd9da55754d.jpg"
+                    },
+                    {
+                        "icon": "bbce0ed1252b761ac8074649b464e71fc77bd807.jpg",
+                        "localized_name": "Catch Me If You Can",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Catch Me If You Can",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/bbce0ed1252b761ac8074649b464e71fc77bd807.jpg"
+                    },
+                    {
+                        "icon": "c3e6d521fbe38057514da1727e0ba2dc4483c85d.jpg",
+                        "localized_name": "Inside Out",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Inside Out",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/c3e6d521fbe38057514da1727e0ba2dc4483c85d.jpg"
+                    },
+                    {
+                        "icon": "3cccc3588709a661e4a3b0b586fb5a7497b1961d.jpg",
+                        "localized_name": "Crime Never Pays",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Crime Never Pays",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502820/3cccc3588709a661e4a3b0b586fb5a7497b1961d.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 abr. 2017"
+            },
+            "support_info": {
+                "url": "http://support.wbgames.com",
+                "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/502820?t=1773778770",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502820/page_bg_raw.jpg?t=1773778770",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "esrb": {
+                    "rating": "m",
+                    "descriptors": "Blood, Violence",
+                    "use_age_gate": "true",
+                    "required_age": "17"
+                },
+                "csrr": {
+                    "rating": "R",
+                    "descriptors": "Violence, Improper Language, Anti-social",
+                    "required_age": "18",
+                    "use_age_gate": "true"
+                },
+                "usk": {
+                    "rating": "16",
+                    "use_age_gate": "true",
+                    "required_age": "16"
+                },
+                "oflc": {
+                    "rating": "m",
+                    "descriptors": "Mature themes and violence, VR interactivity",
+                    "use_age_gate": "true",
+                    "required_age": "15"
+                },
+                "dejus": {
+                    "rating": "14",
+                    "descriptors": "Drogas Lícitas e Violência",
+                    "use_age_gate": "true",
+                    "required_age": "14"
+                },
+                "nzoflc": {
+                    "rating": "m",
+                    "use_age_gate": "true",
+                    "required_age": "15"
+                },
+                "kgrb": {
+                    "rating": "18",
+                    "use_age_gate": "true",
+                    "required_age": "18"
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 1100,
+                    "total_negative": 603,
+                    "total_reviews": 1703
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "237427889",
+                        "author": {
+                            "steamid": "76561197974933617",
+                            "num_reviews": 78,
+                            "playtime_forever": 159,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 159,
+                            "last_played": 1791687049
+                        },
+                        "language": "english",
+                        "review": "to be honest this is barely a game, let alone a vr game. There is basically no agency, and the \"gameplay\" is replaying the game to solve riddler puzzles. It looks nice, and the story is \"novel\" but that's about all it has going for it. replaying the game is a pain because there is no pause menu I can access on a steam frame, there is no way to skip dialogue, you just sit and wait for the exposition to be done so you can move on again.",
+                        "timestamp_created": 1791687551,
+                        "timestamp_updated": 1791687551,
+                        "voted_up": false,
+                        "votes_up": 7,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.605063259601593,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFX5hQAAAABxy9uJBw==",
+                "day_range_used": 30,
+                "total_matching": 12
+            },
+            "steamspy_tags": [
+                "VR",
+                "Adventure",
+                "Superhero",
+                "Short",
+                "Horror",
+                "Singleplayer",
+                "Detective"
+            ]
+        }
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "414120": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Modbox",
+            "steam_appid": 414120,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Modbox is a multiplayer game creation sandbox that lets players create games together online. It has it's own custom powerful visual scripting language to make multiplayer game creation easy. Released as VR only in 2016 - relaunched as Modbox 2.0 for Desktop/VR on September 9th 2020.<br><br>Build games focused on:<br><ul class=\"bb_ul\"><li>Online Co-op with complex AI and game mechanics<br></li><li>Physics based gameplay and destruction<br></li><li>Any combination of online/local/split screen multiplayer with VR and Desktop players</li></ul><br>Games created entirely in Modbox:<br><br><br><br><br>Modbox Guide:<h2 class=\"bb_tag\" >Multiplayer Creation</h2><ul class=\"bb_ul\"><li>Create Multiplayer / Singleplayer / Coop games while switching between VR and Desktop on PC. Or create games in your own environment on a AR device. Everything is synced with other online players in real time.<br></li><li>Share Creations made on Steam Workshop, or cross-platform on Mod.io<br></li><li>Use any of the editor tools while playing. There are both Tools used for hands / while playing as a avatar, and a Desktop Editor mode<br></li><li>Play and edit with other players in Local Multiplayer with up to 4 players locally with split screen (or Keyboard or Gamepads) with another player in VR. Local players can also play online.<br></li><li>Prefabs can be used to create reusable parts out of Creations. Prefabs can then be shared online for other creators to use - and can include assets (3d models, visual scripting, C# projects). Prefabs can also include other nested prefabs, allow for easily building large complex worlds out of reusable parts.<br></li><li>Create a server at anytime (while playing or editing), and use the Servers Permissions system to control who can administer/ edit / play on your server.</li></ul><h2 class=\"bb_tag\" >Advanced Scripting</h2><ul class=\"bb_ul\"><li>The ingame visual scripting system MBScript can be used for scripting gameplay / AI / Physics. MBScript is a drag and drop visual scripting system that has both a node like tool (using the Wiring tool/desktop window), and a Blocks/Scratch like interface for more advanced building (using the same type system as C#).<br></li><li>MBScript can be edited both visually with drag and drop, and in the ingame text editor (with autocomplete using a ingame VisualStudioCode Monaco editor). MBScript can be used to create complex AI characters and multiplayer bots.<br></li><li>The C# Compiler mod (PC platform only) allows for writing your own C# code to include in Creations. Can add new Entity Components, editor tools, or new functions and options to run in MBScript / Wiring. Open C# projects in VisualStudio, and write code while the game is running for instantly compiling and seeing changes. All the Modbox game and editor tool C# source is included as reference/editable ingame.</li></ul><h2 class=\"bb_tag\" >Physics and Interaction</h2><ul class=\"bb_ul\"><li>Full body VR simulation and physics based VR locomotion. All game objects were designed first for VR interaction (including reloading clips into guns, pulling bows to fire arrows, etc), with procedural animation used for Desktop players / AI to do same actions.<br></li><li>Physics and Destruction - Building physics creations in Modbox does not use a physics hierarchy like other level editors / game creations tools. Instead 'Connections' are made between physics objects when editing, which will join them together in play mode with physics. This allows for realistic destruction and dynamic environments.<br></li><li>Voxel Editing allow for destruction and modifying while playing.</li></ul><h2 class=\"bb_tag\" >Editing and Building</h2><ul class=\"bb_ul\"><li>Create UI interfaces with UI Entities - using the same visual scripting / wiring systems as world creation to create HUDs and other in world UI for players (including new Tools and Menus)<br></li><li>Use the Voxel Editing tool and desktop window to create large voxel terrains, with caves / hills / buildings. Create smooth voxel worlds or switch to Cubic for Minecraft-style blocks.<br></li><li>Mesh Editing tools for creating meshes out of primitives ingame</li></ul><h2 class=\"bb_tag\" >Moddable</h2><ul class=\"bb_ul\"><li>Assets System with Importing Assets - Import 3d models, humanoid models, textures, sounds. All at runtime while playing. Use the Material Editor to set material properties. Import 3d models from online sources including Google Poly (SketchFab coming soon)<br></li><li>Everything in Modbox is a mod - including default included mods like SteamVR / Oculus VR support, Steamworks, Mod.IO uploading, Nvidia Flex liquid/soft particles, and editor tools like Mesh Editing and Voxel Editing. It's designed to be as extensible and configurable as possible.<br></li><li>Mods can contain assets and be used in creations (such as the Modern Weapons mod) that players will download to play the creation. Or they can be Local Mods adding options and features just to the local players (like VR Spectator Camera)<br></li><li>Use the ModboxSDK Unity package to create Modbox mods in the Unity Editor. Mods can include Unity scenes turned into Environments, GameObjects/Prefabs into Entity Assets, avatars into Humanoid Models. Mods can also include new editor tools built in C#.</li></ul>",
+            "about_the_game": "Modbox is a multiplayer game creation sandbox that lets players create games together online. It has it's own custom powerful visual scripting language to make multiplayer game creation easy. Released as VR only in 2016 - relaunched as Modbox 2.0 for Desktop/VR on September 9th 2020.<br><br>Build games focused on:<br><ul class=\"bb_ul\"><li>Online Co-op with complex AI and game mechanics<br></li><li>Physics based gameplay and destruction<br></li><li>Any combination of online/local/split screen multiplayer with VR and Desktop players</li></ul><br>Games created entirely in Modbox:<br><br><br><br><br>Modbox Guide:<h2 class=\"bb_tag\" >Multiplayer Creation</h2><ul class=\"bb_ul\"><li>Create Multiplayer / Singleplayer / Coop games while switching between VR and Desktop on PC. Or create games in your own environment on a AR device. Everything is synced with other online players in real time.<br></li><li>Share Creations made on Steam Workshop, or cross-platform on Mod.io<br></li><li>Use any of the editor tools while playing. There are both Tools used for hands / while playing as a avatar, and a Desktop Editor mode<br></li><li>Play and edit with other players in Local Multiplayer with up to 4 players locally with split screen (or Keyboard or Gamepads) with another player in VR. Local players can also play online.<br></li><li>Prefabs can be used to create reusable parts out of Creations. Prefabs can then be shared online for other creators to use - and can include assets (3d models, visual scripting, C# projects). Prefabs can also include other nested prefabs, allow for easily building large complex worlds out of reusable parts.<br></li><li>Create a server at anytime (while playing or editing), and use the Servers Permissions system to control who can administer/ edit / play on your server.</li></ul><h2 class=\"bb_tag\" >Advanced Scripting</h2><ul class=\"bb_ul\"><li>The ingame visual scripting system MBScript can be used for scripting gameplay / AI / Physics. MBScript is a drag and drop visual scripting system that has both a node like tool (using the Wiring tool/desktop window), and a Blocks/Scratch like interface for more advanced building (using the same type system as C#).<br></li><li>MBScript can be edited both visually with drag and drop, and in the ingame text editor (with autocomplete using a ingame VisualStudioCode Monaco editor). MBScript can be used to create complex AI characters and multiplayer bots.<br></li><li>The C# Compiler mod (PC platform only) allows for writing your own C# code to include in Creations. Can add new Entity Components, editor tools, or new functions and options to run in MBScript / Wiring. Open C# projects in VisualStudio, and write code while the game is running for instantly compiling and seeing changes. All the Modbox game and editor tool C# source is included as reference/editable ingame.</li></ul><h2 class=\"bb_tag\" >Physics and Interaction</h2><ul class=\"bb_ul\"><li>Full body VR simulation and physics based VR locomotion. All game objects were designed first for VR interaction (including reloading clips into guns, pulling bows to fire arrows, etc), with procedural animation used for Desktop players / AI to do same actions.<br></li><li>Physics and Destruction - Building physics creations in Modbox does not use a physics hierarchy like other level editors / game creations tools. Instead 'Connections' are made between physics objects when editing, which will join them together in play mode with physics. This allows for realistic destruction and dynamic environments.<br></li><li>Voxel Editing allow for destruction and modifying while playing.</li></ul><h2 class=\"bb_tag\" >Editing and Building</h2><ul class=\"bb_ul\"><li>Create UI interfaces with UI Entities - using the same visual scripting / wiring systems as world creation to create HUDs and other in world UI for players (including new Tools and Menus)<br></li><li>Use the Voxel Editing tool and desktop window to create large voxel terrains, with caves / hills / buildings. Create smooth voxel worlds or switch to Cubic for Minecraft-style blocks.<br></li><li>Mesh Editing tools for creating meshes out of primitives ingame</li></ul><h2 class=\"bb_tag\" >Moddable</h2><ul class=\"bb_ul\"><li>Assets System with Importing Assets - Import 3d models, humanoid models, textures, sounds. All at runtime while playing. Use the Material Editor to set material properties. Import 3d models from online sources including Google Poly (SketchFab coming soon)<br></li><li>Everything in Modbox is a mod - including default included mods like SteamVR / Oculus VR support, Steamworks, Mod.IO uploading, Nvidia Flex liquid/soft particles, and editor tools like Mesh Editing and Voxel Editing. It's designed to be as extensible and configurable as possible.<br></li><li>Mods can contain assets and be used in creations (such as the Modern Weapons mod) that players will download to play the creation. Or they can be Local Mods adding options and features just to the local players (like VR Spectator Camera)<br></li><li>Use the ModboxSDK Unity package to create Modbox mods in the Unity Editor. Mods can include Unity scenes turned into Environments, GameObjects/Prefabs into Entity Assets, avatars into Humanoid Models. Mods can also include new editor tools built in C#.</li></ul>",
+            "short_description": "Modbox is a multiplayer game creation sandbox for Desktop+VR",
+            "supported_languages": "Inglês<strong>*</strong><br><strong>*</strong>idiomas com suporte total de áudio",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/header.jpg?t=1768943717",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/capsule_231x87.jpg?t=1768943717",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/capsule_184x69.jpg?t=1768943717",
+            "website": "http://www.modboxgame.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7<br></li><li><strong>Processador:</strong> Desktop Mode: Intel i3 with SSE2 support or equivalent AMD family<br></li><li><strong>Memória:</strong> 6 GB de RAM<br></li><li><strong>Placa gráfica:</strong> Desktop Mode: Intel HD4000, Shader Model 5.0 Compatible GPU<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 8 GB de espaço livre<br></li><li><strong>Compatibilidade com R.V.:</strong> SteamVR or Oculus PC</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows 7<br></li><li><strong>Processador:</strong> FOR VR: Core i5-7500 / Ryzen 5 1600<br></li><li><strong>Placa gráfica:</strong> FOR VR: GTX 1060 / RX 580 - 6GB VRAM<br></li><li><strong>Espaço no disco:</strong> Requer 8 GB de espaço livre</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Alientrap"
+            ],
+            "publishers": [
+                "Alientrap"
+            ],
+            "demos": [
+                {
+                    "appid": 563980,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 4699,
+                "final": 4699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 46,99"
+            },
+            "packages": [
+                83079
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Modbox",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 83079,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Modbox - R$ 46,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 1,
+                    "description": "Multijogador"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "PvP online"
+                },
+                {
+                    "id": 47,
+                    "description": "PvP em LAN"
+                },
+                {
+                    "id": 37,
+                    "description": "PvP, ecrã partilhado/dividido"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Co-op online"
+                },
+                {
+                    "id": 48,
+                    "description": "Co-op em LAN"
+                },
+                {
+                    "id": 39,
+                    "description": "Co-op, ecrã partilhado/dividido"
+                },
+                {
+                    "id": 24,
+                    "description": "Ecrã partilhado/dividido"
+                },
+                {
+                    "id": 27,
+                    "description": "Multijogador interplataformas"
+                },
+                {
+                    "id": 28,
+                    "description": "Compatibilidade total com comando"
+                },
+                {
+                    "id": 52,
+                    "description": "Compatibilidade com comandos de deteção"
+                },
+                {
+                    "id": 53,
+                    "description": "Compatível com R.V."
+                },
+                {
+                    "id": 31,
+                    "description": "Compatibilidade com R.V."
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 25,
+                    "description": "Tabelas de liderança do Steam"
+                },
+                {
+                    "id": 17,
+                    "description": "Inclui editor de níveis"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Ação"
+                },
+                {
+                    "id": "25",
+                    "description": "Aventura"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulação"
+                },
+                {
+                    "id": "70",
+                    "description": "Acesso Antecipado"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_40ade288a9ae862c4bd67c7b041e2c462283af93.600x338.jpg?t=1768943717",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_40ade288a9ae862c4bd67c7b041e2c462283af93.1920x1080.jpg?t=1768943717"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_02264761cd1bbe59d2b3aa6932d53b8e87f57c50.600x338.jpg?t=1768943717",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_02264761cd1bbe59d2b3aa6932d53b8e87f57c50.1920x1080.jpg?t=1768943717"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_9be97becd42ae83886b394c9c9a272cdb9390f08.600x338.jpg?t=1768943717",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_9be97becd42ae83886b394c9c9a272cdb9390f08.1920x1080.jpg?t=1768943717"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_1a72f0f93e4398df01f3eb916f9c26b16bd129d0.600x338.jpg?t=1768943717",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_1a72f0f93e4398df01f3eb916f9c26b16bd129d0.1920x1080.jpg?t=1768943717"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_4397fb5ca28c2ed12eb7b067495aaf523639a22d.600x338.jpg?t=1768943717",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_4397fb5ca28c2ed12eb7b067495aaf523639a22d.1920x1080.jpg?t=1768943717"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_c428a751814b18348ac997c9df09a64dda5ee7fb.600x338.jpg?t=1768943717",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_c428a751814b18348ac997c9df09a64dda5ee7fb.1920x1080.jpg?t=1768943717"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256798765,
+                    "name": "Modbox 2.0",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256798765/movie.293x165.jpg?t=1599170260",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/414120/308368/b8ec76782ceabafa015f1a6dfb0e130f532510cd/1751280202/dash_av1.mpd?t=1599170260",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/414120/308368/b8ec76782ceabafa015f1a6dfb0e130f532510cd/1751280202/dash_h264.mpd?t=1599170260",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/414120/308368/b8ec76782ceabafa015f1a6dfb0e130f532510cd/1751280202/hls_264_master.m3u8?t=1599170260",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 197
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 abr. 2016"
+            },
+            "support_info": {
+                "url": "http://www.modboxgame.com",
+                "email": "support@alientrap.org"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/414120?t=1768943717",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/414120?t=1768943717",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "14",
+                    "required_age": "14",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Violência"
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "16",
+                    "required_age": "16",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Drastische Gewalt"
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "18",
+                    "required_age": "18",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": "Interaksi Daring\nKekerasan\nHoror"
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 8,
+                    "review_score_desc": "Very Positive",
+                    "total_positive": 159,
+                    "total_negative": 26,
+                    "total_reviews": 185
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "22258776",
+                        "author": {
+                            "steamid": "76561198141648818",
+                            "num_reviews": 10,
+                            "playtime_forever": 1820,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 1091,
+                            "last_played": 1647917664
+                        },
+                        "language": "english",
+                        "review": "Great amzing sandbox game i which you can craft create and destroy pretty much whatever you want!\nIfyou like garrys mod then this game is for you.",
+                        "timestamp_created": 1459888606,
+                        "timestamp_updated": 1459888606,
+                        "voted_up": true,
+                        "votes_up": 63,
+                        "votes_funny": 3,
+                        "weighted_vote_score": 0.8244115710258484,
+                        "comment_count": 0,
+                        "steam_purchase": false,
+                        "received_for_free": false,
+                        "written_during_early_access": true,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFVgwKAAAAB4xfRU",
+                "day_range_used": 0,
+                "total_matching": 185
+            },
+            "steamspy_tags": [
+                "Moddable",
+                "Sandbox",
+                "Physics",
+                "Multiplayer",
+                "Programming",
+                "Simulation",
+                "VR",
+                "Indie",
+                "Early Access",
+                "Singleplayer",
+                "Building",
+                "Open World",
+                "Action",
+                "First-Person",
+                "Experimental",
+                "FPS",
+                "3D",
+                "Split Screen",
+                "Third Person",
+                "Free to Play"
+            ]
+        }
+    }
+}

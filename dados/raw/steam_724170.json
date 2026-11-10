@@ -1,0 +1,349 @@
+{
+    "724170": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Solar Lander",
+            "steam_appid": 724170,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<p class=\"bb_paragraph\" >Developers Note (May 6, 2025):  This game has not been abandoned.  I'm still developing it, but development has been slow, especially while trying to take it off of the Unity Engine.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Solar Lander a 2D space lander that simulates orbital mechanics and the conservation of angular momentum.  Players fly around in an Apollo-style lander, land on the surface of a planet, and then redock with the command module to advance to the next level.  You start out in orbit around a planet and docked with the command module.  It is your job to make a safe landing on the surface of the planet, then get back into orbit to redock with the command module.  Each planet has it's unique characteristics based on real life planetary bodies with procedural terrain generation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >All of the game's mechanics are simulated with a full physics simulation that runs 1,000 times per second!  This makes the 2D simulation very accurate and very realistic.  There is no arbitrary rotation rate or acceleration.  As you use-up fuel, your maximum acceleration will increase and you will be able to change your rotation rate more quickly.</p>",
+            "about_the_game": "<p class=\"bb_paragraph\" >Developers Note (May 6, 2025):  This game has not been abandoned.  I'm still developing it, but development has been slow, especially while trying to take it off of the Unity Engine.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Solar Lander a 2D space lander that simulates orbital mechanics and the conservation of angular momentum.  Players fly around in an Apollo-style lander, land on the surface of a planet, and then redock with the command module to advance to the next level.  You start out in orbit around a planet and docked with the command module.  It is your job to make a safe landing on the surface of the planet, then get back into orbit to redock with the command module.  Each planet has it's unique characteristics based on real life planetary bodies with procedural terrain generation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >All of the game's mechanics are simulated with a full physics simulation that runs 1,000 times per second!  This makes the 2D simulation very accurate and very realistic.  There is no arbitrary rotation rate or acceleration.  As you use-up fuel, your maximum acceleration will increase and you will be able to change your rotation rate more quickly.</p>",
+            "short_description": "Fly an Apollo-style lander around various planets, landing to earn points and then redocking with the command module to advance to the next level.",
+            "supported_languages": "Inglês",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/header.jpg?t=1746549965",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/capsule_231x87.jpg?t=1746549965",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/capsule_184x69.jpg?t=1746549965",
+            "website": "https://gaming.tchapman500.com/solar-lander",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo *:</strong> Windows 7<br></li><li><strong>Processador:</strong> 1.0 GHz, 64-bit<br></li><li><strong>Memória:</strong> 256 MB de RAM<br></li><li><strong>Placa gráfica:</strong> Not Determined<br></li><li><strong>DirectX:</strong> Versão 10<br></li><li><strong>Espaço no disco:</strong> Requer 65 MB de espaço livre<br></li><li><strong>Placa de som:</strong> N/A<br></li><li><strong>Notas adicionais:</strong> Needs Testing on Lower-End Hardware</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo:</strong> Windows 10<br></li><li><strong>Processador:</strong> 2.0 GHz, 64-bit<br></li><li><strong>Memória:</strong> 512 MB de RAM<br></li><li><strong>Placa gráfica:</strong> Not Determined<br></li><li><strong>DirectX:</strong> Versão 11<br></li><li><strong>Espaço no disco:</strong> Requer 75 MB de espaço livre<br></li><li><strong>Placa de som:</strong> N/A<br></li><li><strong>Notas adicionais:</strong> Tested on 2.8 GHz, 64-bit Quad-Core Processor with Intel Iris Pro Graphics 6200 Integrated Graphics</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> 10.11<br></li><li><strong>Processador:</strong> 1.0 GHz, 64-bit<br></li><li><strong>Memória:</strong> 256 MB de RAM<br></li><li><strong>Placa gráfica:</strong> Not Determined<br></li><li><strong>Espaço no disco:</strong> Requer 100 MB de espaço livre<br></li><li><strong>Placa de som:</strong> N/A<br></li><li><strong>Notas adicionais:</strong> Needs Testing on Lower-End Hardware</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> 10.11<br></li><li><strong>Processador:</strong> 2.0 GHz, 64-bit<br></li><li><strong>Memória:</strong> 512 MB de RAM<br></li><li><strong>Placa gráfica:</strong> Not Determined<br></li><li><strong>Espaço no disco:</strong> Requer 120 MB de espaço livre<br></li><li><strong>Placa de som:</strong> N/A<br></li><li><strong>Notas adicionais:</strong> Tested on 2.8 GHz, 64-bit Quad-Core Processor with Intel Iris Pro Graphics 6200 Integrated Graphics</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Not Tested<br></li><li><strong>Processador:</strong> Not Tested<br></li><li><strong>Memória:</strong> 256 MB de RAM<br></li><li><strong>Placa gráfica:</strong> Not Tested<br></li><li><strong>Espaço no disco:</strong> Requer 120 MB de espaço livre<br></li><li><strong>Placa de som:</strong> N/A<br></li><li><strong>Notas adicionais:</strong> Linux Version Completely Untested</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Not Tested<br></li><li><strong>Processador:</strong> Not Tested<br></li><li><strong>Memória:</strong> 512 MB de RAM<br></li><li><strong>Placa gráfica:</strong> Not Tested<br></li><li><strong>Espaço no disco:</strong> Requer 150 MB de espaço livre<br></li><li><strong>Placa de som:</strong> N/A<br></li><li><strong>Notas adicionais:</strong> Linux Version Completely Untested</li></ul>"
+            },
+            "developers": [
+                "TChapman500"
+            ],
+            "publishers": [
+                "TChapman500"
+            ],
+            "demos": [
+                {
+                    "appid": 724240,
+                    "description": "Demo Version"
+                }
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 1949,
+                "final": 1949,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 19,49"
+            },
+            "packages": [
+                210457
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Solar Lander",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 210457,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Solar Lander - R$ 19,49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1949
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 18,
+                    "description": "Compatibilidade parcial com comando"
+                },
+                {
+                    "id": 15,
+                    "description": "Estatísticas"
+                },
+                {
+                    "id": 25,
+                    "description": "Tabelas de liderança do Steam"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulação"
+                },
+                {
+                    "id": "70",
+                    "description": "Acesso Antecipado"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_c9c711d153f77fb343cb8269e0da3885f973ce92.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_c9c711d153f77fb343cb8269e0da3885f973ce92.1920x1080.jpg?t=1746549965"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_524fb340d3fa6ddc5a2debc12e0c6b9fe4fefe82.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_524fb340d3fa6ddc5a2debc12e0c6b9fe4fefe82.1920x1080.jpg?t=1746549965"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_258c39db7ce95f301eb475c41ab0467b5f4f4a98.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_258c39db7ce95f301eb475c41ab0467b5f4f4a98.1920x1080.jpg?t=1746549965"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_534b1eeed5d7aaff4b8c2c459cee3f58e58168c9.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_534b1eeed5d7aaff4b8c2c459cee3f58e58168c9.1920x1080.jpg?t=1746549965"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_3a23eaf6350316330e525607961b947197da87b0.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_3a23eaf6350316330e525607961b947197da87b0.1920x1080.jpg?t=1746549965"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_ad41eb66ce2c44478029c14f1ef9e77d623b569a.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_ad41eb66ce2c44478029c14f1ef9e77d623b569a.1920x1080.jpg?t=1746549965"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_4e99152e4bd939991287aa11ce545a6b55c05a67.600x338.jpg?t=1746549965",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/ss_4e99152e4bd939991287aa11ce545a6b55c05a67.1920x1080.jpg?t=1746549965"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256838274,
+                    "name": "Main Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256838274/movie.293x165.jpg?t=1746549962",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/724170/376134/bc7b0bf68ea38202c34b026f9ff83803189969cd/1751136233/dash_av1.mpd?t=1746549962",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/724170/376134/bc7b0bf68ea38202c34b026f9ff83803189969cd/1751136233/dash_h264.mpd?t=1746549962",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/724170/376134/bc7b0bf68ea38202c34b026f9ff83803189969cd/1751136233/hls_264_master.m3u8?t=1746549962",
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 15,
+                "highlighted": [
+                    {
+                        "icon": "60a9bb613c1fc6872edb260c8eb0bdde1bc2a622.jpg",
+                        "localized_name": "First Crash",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "First Crash",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/60a9bb613c1fc6872edb260c8eb0bdde1bc2a622.jpg"
+                    },
+                    {
+                        "icon": "e5dcf428f03558af8e694c2b53168e1342d96743.jpg",
+                        "localized_name": "First Landing",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "First Landing",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/e5dcf428f03558af8e694c2b53168e1342d96743.jpg"
+                    },
+                    {
+                        "icon": "1a0bb5fe860984ea797e6e26bfc2dbe9718b2a81.jpg",
+                        "localized_name": "First Redock",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "First Redock",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/1a0bb5fe860984ea797e6e26bfc2dbe9718b2a81.jpg"
+                    },
+                    {
+                        "icon": "2d34c5bb6df856e246084e48c08afd2891fe282e.jpg",
+                        "localized_name": "Level 1 Complete",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Level 1 Complete",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/2d34c5bb6df856e246084e48c08afd2891fe282e.jpg"
+                    },
+                    {
+                        "icon": "2abaf1a949665cb3b9ba4cc9096a59c1669a12ea.jpg",
+                        "localized_name": "I Won!",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "I Won!",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/2abaf1a949665cb3b9ba4cc9096a59c1669a12ea.jpg"
+                    },
+                    {
+                        "icon": "3f60dc6e14a4ec696a7b5f49d670ba1fe77b5ccc.jpg",
+                        "localized_name": "Level 5",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Level 5",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/3f60dc6e14a4ec696a7b5f49d670ba1fe77b5ccc.jpg"
+                    },
+                    {
+                        "icon": "4c9ac731e790836fc837e6e9fdc420e58bdb0a14.jpg",
+                        "localized_name": "Level 10",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Level 10",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/4c9ac731e790836fc837e6e9fdc420e58bdb0a14.jpg"
+                    },
+                    {
+                        "icon": "406239bff3978efb6322cc085ae7e773b3ea271c.jpg",
+                        "localized_name": "Level 15",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Level 15",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/406239bff3978efb6322cc085ae7e773b3ea271c.jpg"
+                    },
+                    {
+                        "icon": "ec56187dbc10c6f826a572ac811f9ee2fbd4e612.jpg",
+                        "localized_name": "Level 20",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Level 20",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/ec56187dbc10c6f826a572ac811f9ee2fbd4e612.jpg"
+                    },
+                    {
+                        "icon": "02179306b64a49697205ebdab5650fbe974e9f9e.jpg",
+                        "localized_name": "Head Landing",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Head Landing",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/724170/02179306b64a49697205ebdab5650fbe974e9f9e.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 out. 2017"
+            },
+            "support_info": {
+                "url": "https://forums.tchapman500.com/viewforum.php?f=16",
+                "email": "timothychapman@tchapman500.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/724170?t=1746549965",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/724170?t=1746549965",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "l",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "0",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "3",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 0,
+                    "review_score_desc": "3 user reviews",
+                    "total_positive": 3,
+                    "total_negative": 0,
+                    "total_reviews": 3
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "110532424",
+                        "author": {
+                            "steamid": "76561197971506859",
+                            "num_reviews": 23,
+                            "playtime_forever": 161,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 146,
+                            "last_played": 1645513656
+                        },
+                        "language": "english",
+                        "review": "[h1]Off to a Great Start[/h1]\n\nThe game is quite playable, though it does get a little repetitive. That's OK; it's an Early Release product.\n\nI like this a lot because I wrote something very similar back in 2009, but I never pushed it to a public platform. However, I understand and appreciate how much hard work went into this.\n\nHowever, even at this early stage, I would like to offer some suggestions.\n\n1.  Allow the player to designate their landing target and give them some kind of cue regarding a recommended orbital pathway to the target.\n\n2. When the LM and the CM are too small to render adequately, put a cue box around them so that the player can still locate them.\n\n3. Always allow the player to zoom to a level where they can *see* the CM.\n\n4. Give the player some autopilot modes to help them navigate e.g. prograde, retrograde, horizontal.\n\n5. Indicate direction to target as well as relative velocity, and add distance and rvel values.\n\n6. Allow the player to remap controls during play as well as only from the main screen.\n\n7. Label everything on the HUD. It's not sufficient to put it in the help section.\n\nThe game is quite fun as is, but it can be made so much better with a little love. I am rooting for its success.\n",
+                        "timestamp_created": 1645239416,
+                        "timestamp_updated": 1645239416,
+                        "voted_up": true,
+                        "votes_up": 1,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.523809552192688,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": true,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFahheAAAAB49NKlAw==",
+                "day_range_used": 0,
+                "total_matching": 3
+            },
+            "steamspy_tags": [
+                "Indie",
+                "Early Access",
+                "Casual",
+                "Simulation",
+                "Space",
+                "Singleplayer",
+                "Space Sim"
+            ]
+        }
+    }
+}

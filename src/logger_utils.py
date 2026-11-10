@@ -1,10 +1,17 @@
 import sys
 import os
 
+DIR_SRC = os.path.dirname(os.path.abspath(__file__))
+DIR_LOG = os.path.join(DIR_SRC, "log")
+
 class DualLogger:
     """Redireciona a saída padrão para o terminal e simultaneamente para um arquivo de log"""
     def __init__(self, filename="execucao.log", mode="w", encoding="utf-8"):
         self.terminal = sys.stdout
+
+        if not os.path.isabs(filename):
+            nome_apenas = os.path.basename(filename)
+            filename = os.path.join(DIR_LOG, nome_apenas)
 
         pasta = os.path.dirname(filename)
         if pasta:

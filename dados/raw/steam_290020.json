@@ -1,0 +1,393 @@
+{
+    "290020": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "LogicBots",
+            "steam_appid": 290020,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Design, build and wire up your own unique robot to complete challenging logic puzzles.<br><br>LogicBots is a puzzle game where robots are used to complete the various levels. Sometimes the LogicBots will be controlled by the player and other times they will work independently to complete the puzzles. In both cases it will be up to the player to design, build and wire their LogicBot to meet the requirements of the level.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>40 challenging levels</li><li>5 in depth tutorials</li><li>3 bonus objectives for each level</li><li>Language packs</li><li>Sandbox mode</li><li>Level builder</li><li>Workshop integration</li><li>Endless combinations of parts and circuits</li><li>Physics driven gameplay</li><li>Soundtrack by Brandon Penney aka Neon-Bard</li></ul>",
+            "about_the_game": "Design, build and wire up your own unique robot to complete challenging logic puzzles.<br><br>LogicBots is a puzzle game where robots are used to complete the various levels. Sometimes the LogicBots will be controlled by the player and other times they will work independently to complete the puzzles. In both cases it will be up to the player to design, build and wire their LogicBot to meet the requirements of the level.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>40 challenging levels</li><li>5 in depth tutorials</li><li>3 bonus objectives for each level</li><li>Language packs</li><li>Sandbox mode</li><li>Level builder</li><li>Workshop integration</li><li>Endless combinations of parts and circuits</li><li>Physics driven gameplay</li><li>Soundtrack by Brandon Penney aka Neon-Bard</li></ul>",
+            "short_description": "Design, build and wire up your own unique robot to complete challenging logic puzzles. LogicBots is a puzzle game where robots are used to complete the various levels.",
+            "supported_languages": "Inglês, Francês, Alemão, Húngaro, Japonês, Russo, Chinês simplificado",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/header.jpg?t=1667200292",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/capsule_231x87.jpg?t=1667200292",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/capsule_184x69.jpg?t=1667200292",
+            "website": "http://www.incandescentgames.co.uk/",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo *:</strong> Windows XP SP2+<br></li><li><strong>Processador:</strong> SSE2 instruction set support<br></li><li><strong>Memória:</strong> 2 GB de RAM<br></li><li><strong>Placa gráfica:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>DirectX:</strong> Versão 9.0c<br></li><li><strong>Espaço no disco:</strong> Requer 4 GB de espaço livre</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Mac OS X 10.8+<br></li><li><strong>Processador:</strong> SSE2 instruction set support<br></li><li><strong>Memória:</strong> 2 GB de RAM<br></li><li><strong>Placa gráfica:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Espaço no disco:</strong> Requer 4 GB de espaço livre</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Ubuntu 12.04+, SteamOS+<br></li><li><strong>Processador:</strong> SSE2 instruction set support<br></li><li><strong>Memória:</strong> 2 MB de RAM<br></li><li><strong>Placa gráfica:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Espaço no disco:</strong> Requer 4 GB de espaço livre</li></ul>"
+            },
+            "developers": [
+                "Incandescent Games"
+            ],
+            "publishers": [
+                "Incandescent Games"
+            ],
+            "demos": [
+                {
+                    "appid": 327900,
+                    "description": "Download Demo"
+                }
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 5999,
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 59,99"
+            },
+            "packages": [
+                40640
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar LogicBots",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 40640,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "LogicBots - R$ 59,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 22,
+                    "description": "Proezas Steam"
+                },
+                {
+                    "id": 29,
+                    "description": "Cartas Colecionáveis Steam"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 17,
+                    "description": "Inclui editor de níveis"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulação"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_0e9c5646855fe71c1f9ebe9536ed233175bff325.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_0e9c5646855fe71c1f9ebe9536ed233175bff325.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_592f00fae3ccffc19049ece75add06b92616fe27.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_592f00fae3ccffc19049ece75add06b92616fe27.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_bc325da1fca4221ed7ca191bbc1b358a79862f74.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_bc325da1fca4221ed7ca191bbc1b358a79862f74.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_8042cf28ae89ca2bd68e29edc58d049c4642bcc7.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_8042cf28ae89ca2bd68e29edc58d049c4642bcc7.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_dbd68d0ca6b40c4d5d9dca759f3d609e0bda08f2.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_dbd68d0ca6b40c4d5d9dca759f3d609e0bda08f2.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_43f6c4b674fe9de8df776c57d193b289e7d29daa.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_43f6c4b674fe9de8df776c57d193b289e7d29daa.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_9ac3ed71575f5da0dcb7e6b925d42fd72fac4b29.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_9ac3ed71575f5da0dcb7e6b925d42fd72fac4b29.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_017140ee9899103bcda65edf209ab63701e0363a.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_017140ee9899103bcda65edf209ab63701e0363a.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_4e9744a232c2253565e89e75668856d57f5883c9.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_4e9744a232c2253565e89e75668856d57f5883c9.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_411f5d3b0ba47b1ce1aa12391175c11e7fc59c34.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_411f5d3b0ba47b1ce1aa12391175c11e7fc59c34.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_eb6bca972ed9ce1277b25dbb20dd253762f09f9d.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_eb6bca972ed9ce1277b25dbb20dd253762f09f9d.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_ea14c6031aaef37df962e7c546c3e8e970ac379a.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_ea14c6031aaef37df962e7c546c3e8e970ac379a.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_4387739fc39d1e792fc607fce68227b732d721e5.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_4387739fc39d1e792fc607fce68227b732d721e5.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_3cc035fcc9b79db38e5750b6a06c253a0a5f67db.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_3cc035fcc9b79db38e5750b6a06c253a0a5f67db.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_02ca41ff26d1ca85b026bb0e0d44fa2e969f4658.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_02ca41ff26d1ca85b026bb0e0d44fa2e969f4658.1920x1080.jpg?t=1667200292"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_2b2e939486fdb310f61a2f7010ec73fd8f9af7a8.600x338.jpg?t=1667200292",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290020/ss_2b2e939486fdb310f61a2f7010ec73fd8f9af7a8.1920x1080.jpg?t=1667200292"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256676357,
+                    "name": "LogicBots Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256676357/movie.293x165.jpg?t=1481811899",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/290020/83709/41fc73566526702081cbd5c546abefb1e020ce74/1751271534/dash_av1.mpd?t=1481811899",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/290020/83709/41fc73566526702081cbd5c546abefb1e020ce74/1751271534/dash_h264.mpd?t=1481811899",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/290020/83709/41fc73566526702081cbd5c546abefb1e020ce74/1751271534/hls_264_master.m3u8?t=1481811899",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 170
+            },
+            "achievements": {
+                "total": 27,
+                "highlighted": [
+                    {
+                        "icon": "acc99e4bebe04190b78fbeaf6d18bb46f180cf76.jpg",
+                        "localized_name": "Finished School",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Finished School",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/acc99e4bebe04190b78fbeaf6d18bb46f180cf76.jpg"
+                    },
+                    {
+                        "icon": "669d42efac3b2f7da44c1e6c17117268cd0972e9.jpg",
+                        "localized_name": "Industry Startup",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Industry Startup",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/669d42efac3b2f7da44c1e6c17117268cd0972e9.jpg"
+                    },
+                    {
+                        "icon": "b231c225914f539840526ca15b266bcf569f00b3.jpg",
+                        "localized_name": "Sapper",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Sapper",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/b231c225914f539840526ca15b266bcf569f00b3.jpg"
+                    },
+                    {
+                        "icon": "4f2917860d19bcaca8a103247c6c481541b7a5e8.jpg",
+                        "localized_name": "Freelance Consultant",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Freelance Consultant",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/4f2917860d19bcaca8a103247c6c481541b7a5e8.jpg"
+                    },
+                    {
+                        "icon": "78213e32c5242dd0168b7a197dfb1c4ce00c6490.jpg",
+                        "localized_name": "Floor Manager",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Floor Manager",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/78213e32c5242dd0168b7a197dfb1c4ce00c6490.jpg"
+                    },
+                    {
+                        "icon": "68d56cf2d75f10035b6543152c7d1d7561e1e898.jpg",
+                        "localized_name": "Top of Class",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Top of Class",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/68d56cf2d75f10035b6543152c7d1d7561e1e898.jpg"
+                    },
+                    {
+                        "icon": "c3c809f7bdf0e3f3f1fa81eb320786b516cfc214.jpg",
+                        "localized_name": "Industry Leader",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Industry Leader",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/c3c809f7bdf0e3f3f1fa81eb320786b516cfc214.jpg"
+                    },
+                    {
+                        "icon": "1fe6f18c5e5568cf7df48625950cbb1f20881144.jpg",
+                        "localized_name": "Field Engineer",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Field Engineer",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/1fe6f18c5e5568cf7df48625950cbb1f20881144.jpg"
+                    },
+                    {
+                        "icon": "e89825cc472bb98d223f5e908285a47481ba332a.jpg",
+                        "localized_name": "Freelance Guru",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Freelance Guru",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/e89825cc472bb98d223f5e908285a47481ba332a.jpg"
+                    },
+                    {
+                        "icon": "6fa82fef32cd6561fd19a09020b5d0deccb4a0d0.jpg",
+                        "localized_name": "Logistics Expert",
+                        "archived": 0,
+                        "hidden": 0,
+                        "name": "Logistics Expert",
+                        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290020/6fa82fef32cd6561fd19a09020b5d0deccb4a0d0.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 fev. 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "incandescentgames@gmail.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/290020?t=1667200292",
+            "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/290020?t=1667200292",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "l",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "0",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "3",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                }
+            },
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 6,
+                    "review_score_desc": "Mostly Positive",
+                    "total_positive": 91,
+                    "total_negative": 29,
+                    "total_reviews": 120
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "235138937",
+                        "author": {
+                            "steamid": "76561198367471798",
+                            "num_reviews": 29856,
+                            "playtime_forever": 891,
+                            "playtime_last_two_weeks": 0,
+                            "playtime_at_review": 891,
+                            "last_played": 1789249899
+                        },
+                        "language": "english",
+                        "review": "LogicBots is a distinctive engineering puzzle game that turns robot construction into the heart of its problem-solving experience. Instead of controlling a fully prepared machine, players are expected to build their own robots from individual components, connect the necessary circuitry, and determine how each creation will accomplish a specific objective. Developed and published by Incandescent Games, it combines mechanical construction, logic, physics, and experimentation into an experience that feels closer to a compact robotics workshop than a conventional puzzle game.\n\nThe campaign offers 40 levels alongside five tutorials designed to introduce the fundamentals of construction and control. Each challenge gives the player a problem that must be solved through an appropriately designed robot. This means success begins before the machine ever starts moving. Choosing components, deciding where they should be positioned, and figuring out how they interact are all essential parts of the puzzle. Some creations can be controlled directly, while others need to operate autonomously, forcing players to think about how their machines will respond without constant intervention.\n\nOne of the strongest aspects of the game is the freedom available when approaching these challenges. There is often room to experiment rather than simply uncovering one predetermined solution. A complicated machine might succeed, while another player could accomplish the same objective with a much simpler construction. This encourages repeated attempts even after completing a level. Bonus objectives further reward efficient or creative solutions, giving dedicated players reasons to return to previous stages and redesign their robots.\n\nPhysics adds another dimension to the construction process. A machine that looks perfectly functional while stationary can reveal unexpected problems once activated. Poor balance, awkward component placement, or an inefficient mechanical arrangement may cause an otherwise clever design to fail. This produces plenty of trial and error, but failure usually contributes to the learning process. Identifying a flaw, modifying the design, and finally watching the robot perform correctly creates the satisfying sense of achievement that defines the game's best moments.\n\nThe circuitry and logic systems give LogicBots an educational flavor without making it feel like traditional coursework. Players gradually develop an understanding of how inputs, outputs, mechanical components, and logical relationships can be combined to produce particular behaviors. Anyone already interested in robotics, electronics, programming concepts, or engineering is likely to appreciate this approach. Beginners can also learn through experimentation, although the increasing complexity means patience is important. Players who dislike troubleshooting may find some puzzles frustrating when a design requires several revisions before it works reliably.\n\nBeyond the main campaign, sandbox mode provides an environment for unrestricted experimentation. Here, players can focus on constructing unusual machines and testing ideas without worrying about completing a predefined objective. A level editor extends the creative possibilities further, allowing custom challenges to be designed. Steam Workshop integration complements this feature by supporting community-created content, potentially giving enthusiastic builders more material after they have finished the standard campaign.\n\nVisually, the game favors clarity and functionality over spectacle. Its environments and components are primarily there to support construction and make mechanical relationships understandable. The presentation may appear modest compared with newer engineering simulators, but the straightforward appearance generally works in its favor because the important information remains easy to identify. The accompanying soundtrack helps establish a relaxed atmosphere suitable for spending extended periods experimenting with circuits and mechanical designs.\n\nThe biggest limitation is that its central concept targets a fairly specific audience. There is little emphasis on narrative, characters, combat, or cinematic presentation. Enjoyment largely depends on whether repeatedly designing, testing, diagnosing, and rebuilding machines sounds entertaining. Physics can occasionally introduce unpredictability into solutions, and the process of troubleshooting a complicated robot can become tedious when the cause of a failure is not immediately obvious. At the same time, these difficulties are closely connected to what makes successful designs feel rewarding.\n\nSteam Deck compatibility should be treated as Unverified rather than officially Deck Verified or Playable. Its modest technical demands may make running the game possible on the handheld, but the interface and construction-focused controls were designed around traditional PC input. A mouse-and-keyboard style control configuration, potentially using the trackpads, is therefore likely to provide a more natural experience than relying exclusively on standard gamepad inputs. Players buying specifically for Steam Deck should expect that some manual control configuration or experimentation may be necessary.\n\nOverall, LogicBots succeeds because it makes the process of invention more important than simply reaching the end of a puzzle. Building a rough prototype, discovering its weaknesses, improving its circuitry, and eventually seeing it complete the intended task provides a satisfying progression that conventional puzzle games rarely replicate. The campaign offers a substantial collection of structured challenges, while bonus goals, sandbox experimentation, custom level creation, and Workshop support broaden its replay value. It is especially easy to recommend to players fascinated by robotics, engineering, automation, and logical problem-solving, provided they are comfortable with a deliberate pace and plenty of experimentation.\n\nRating: 7/10",
+                        "timestamp_created": 1789252344,
+                        "timestamp_updated": 1789252344,
+                        "voted_up": true,
+                        "votes_up": 0,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.5,
+                        "comment_count": 0,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": false,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFaAAAAAAAB59/2ABw==",
+                "day_range_used": 90,
+                "total_matching": 2
+            },
+            "steamspy_tags": [
+                "Simulation",
+                "Indie",
+                "Programming",
+                "Robots",
+                "Puzzle",
+                "Sandbox",
+                "Building",
+                "Education",
+                "Early Access",
+                "Logic"
+            ]
+        }
+    }
+}

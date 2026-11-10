@@ -1,0 +1,263 @@
+{
+    "512420": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Wave Magic VR",
+            "steam_appid": 512420,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Be a mage in virtual reality. Learn and cast powerful magic spells to fight off the golems, an army of mindless creatures left behind from the battles of the past. Fight with a variety of control schemes including: Vive Wands, Leap Motion, or Oculus Touch. <br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>8 Unique and Customizable Spells</li><li>Explorable Overworld </li><li>Unlockable Talents and Abilities</li><li>Challenging Special Encounters </li><li>Endless Arcade Modes</li><li>Leap Motion and Tracked Controller Support</li></ul>",
+            "about_the_game": "Be a mage in virtual reality. Learn and cast powerful magic spells to fight off the golems, an army of mindless creatures left behind from the battles of the past. Fight with a variety of control schemes including: Vive Wands, Leap Motion, or Oculus Touch. <br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>8 Unique and Customizable Spells</li><li>Explorable Overworld </li><li>Unlockable Talents and Abilities</li><li>Challenging Special Encounters </li><li>Endless Arcade Modes</li><li>Leap Motion and Tracked Controller Support</li></ul>",
+            "short_description": "Be a mage in virtual reality. Learn and cast powerful magic spells to fight off the golems, an army of mindless creatures left behind from the battles of the past. Fight with a variety of control schemes including: Vive Wands and Leap Motion.",
+            "supported_languages": "Inglês<strong>*</strong><br><strong>*</strong>idiomas com suporte total de áudio",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/header.jpg?t=1493246015",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/capsule_231x87.jpg?t=1493246015",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/capsule_184x69.jpg?t=1493246015",
+            "website": "http://www.WaveMagicVR.com",
+            "pc_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits<br></li><li><strong>Sistema Operativo:</strong> Windows 10<br></li><li><strong>Processador:</strong> Intel Core i5 4590<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa gráfica:</strong> GeForce GTX 970 or AMD Radeon R9 290<br></li><li><strong>DirectX:</strong> Versão 10<br></li><li><strong>Espaço no disco:</strong> Requer 1 GB de espaço livre<br></li><li><strong>Compatibilidade com R.V.:</strong> SteamVR. Standing or Room Scale</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li>Requer um sistema operativo e processador de 64 bits</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"></ul>"
+            },
+            "legal_notice": "Copyright 2016 Overrun Games LLC",
+            "developers": [
+                "Overrun Games"
+            ],
+            "publishers": [
+                "Overrun Games"
+            ],
+            "price_overview": {
+                "currency": "BRL",
+                "initial": 1199,
+                "final": 1199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "R$ 11,99"
+            },
+            "packages": [
+                119265,
+                156282
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Wave Magic VR",
+                    "description": "",
+                    "selection_text": "Seleciona uma opção de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 119265,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Wave Magic VR - R$ 11,99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1199
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Comprar assinatura de Wave Magic VR",
+                    "description": "A ser cobrado regularmente.",
+                    "selection_text": "A partir de R$ 90,99 / mês",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 156282,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "R$ 90,99 / mês",
+                            "option_description": "<p class=\"game_purchase_subscription\">R$ 90,99 no checkout, com assinatura no valor de R$ 90,99 renovada automaticamente a cada 1 mês/meses.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 9099
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Um jogador"
+                },
+                {
+                    "id": 52,
+                    "description": "Compatibilidade com comandos de deteção"
+                },
+                {
+                    "id": 54,
+                    "description": "Exclusivos para R.V."
+                },
+                {
+                    "id": 29,
+                    "description": "Cartas Colecionáveis Steam"
+                },
+                {
+                    "id": 62,
+                    "description": "Partilha de Biblioteca"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Ação"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "70",
+                    "description": "Acesso Antecipado"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_ba96063c60b2ac689486833626531b4565542d40.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_ba96063c60b2ac689486833626531b4565542d40.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_652c095dd932ac863aa15e842b006ca6b69bb6c9.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_652c095dd932ac863aa15e842b006ca6b69bb6c9.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_203f6a5271ace89a234de0de1f06859e53cd8455.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_203f6a5271ace89a234de0de1f06859e53cd8455.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_184cb77a0dd02e18e8cb057ba897c9259dedbf10.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_184cb77a0dd02e18e8cb057ba897c9259dedbf10.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_7727763dcaa9b2fffe47c0925f5827689b2f2bd8.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_7727763dcaa9b2fffe47c0925f5827689b2f2bd8.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_a89a69a6f5b5f34cb5fde59139e660e6740ba5c4.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_a89a69a6f5b5f34cb5fde59139e660e6740ba5c4.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_b23a776725ac7aa997c0f824b9379cd584c2d8a6.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_b23a776725ac7aa997c0f824b9379cd584c2d8a6.1920x1080.jpg?t=1493246015"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_0debf94d2fa3be1a27786d60b16d367552929b82.600x338.jpg?t=1493246015",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/ss_0debf94d2fa3be1a27786d60b16d367552929b82.1920x1080.jpg?t=1493246015"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256683934,
+                    "name": "Wave Magic Early Access Trailer",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683934/movie.293x165.jpg?t=1493246012",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/512420/99900/21a9d6fab44ad5f651442baf851a4b1c21f5aa75/1751295573/dash_av1.mpd?t=1493246012",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/512420/99900/21a9d6fab44ad5f651442baf851a4b1c21f5aa75/1751295573/dash_h264.mpd?t=1493246012",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/512420/99900/21a9d6fab44ad5f651442baf851a4b1c21f5aa75/1751295573/hls_264_master.m3u8?t=1493246012",
+                    "highlight": true
+                },
+                {
+                    "id": 256677045,
+                    "name": "Wave Magic VR Demo Preview",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677045/movie.293x165.jpg?t=1482858992",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/512420/84858/c9fa5bcd8217d762b94ecf398a214497cafd4e1d/1751295572/dash_av1.mpd?t=1482858992",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/512420/84858/c9fa5bcd8217d762b94ecf398a214497cafd4e1d/1751295572/dash_h264.mpd?t=1482858992",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/512420/84858/c9fa5bcd8217d762b94ecf398a214497cafd4e1d/1751295572/hls_264_master.m3u8?t=1482858992",
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 dez. 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "WaveMagicVR@Gmail.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/512420?t=1493246015",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512420/page_bg_raw.jpg?t=1493246015",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": null,
+            "reviews": {
+                "query_summary": {
+                    "num_reviews": 1,
+                    "review_score": 5,
+                    "review_score_desc": "Mixed",
+                    "total_positive": 10,
+                    "total_negative": 6,
+                    "total_reviews": 16
+                },
+                "reviews": [
+                    {
+                        "recommendationid": "28817163",
+                        "author": {
+                            "steamid": "76561197970789378",
+                            "num_reviews": 10,
+                            "playtime_forever": 76,
+                            "playtime_last_two_weeks": 0,
+                            "last_played": 1501975847
+                        },
+                        "language": "english",
+                        "review": "Haven't had a chance to play much (the fireballs tired me out haha), but so far the game is pretty cool. \n\nThe video/screenshots are accurate in showing you what you'll get. You can run around in the overworld and randomly encounter monsters to fight, pick up treasure, etc. Theres also an arcade mode for continuously fighting and gaining experience. I'm much more interested in the overwold and RPG elements than just another wave shooter, so I'm looking forward to future development there. Looking off into the distance of the overworld showed some interesting stuff I'm excited to check out once my arms recover.\n\nThe menu and level up screen is pretty good. A book opens up in front of you and you navigate by selecting tabs at the top (its shown several times in the video).\n\nDidn't encounter any performance issues yet, so for the price it seems like a fair deal.",
+                        "timestamp_created": 1483075869,
+                        "timestamp_updated": 1483076034,
+                        "voted_up": true,
+                        "votes_up": 7,
+                        "votes_funny": 0,
+                        "weighted_vote_score": 0.6003764271736145,
+                        "comment_count": 1,
+                        "steam_purchase": true,
+                        "received_for_free": false,
+                        "written_during_early_access": true,
+                        "primarily_steam_deck": false,
+                        "refunded": false
+                    }
+                ],
+                "cursor": "AoIFQFY/hMAAAAB78PZt",
+                "day_range_used": 0,
+                "total_matching": 16
+            },
+            "steamspy_tags": [
+                "Action",
+                "Indie",
+                "Early Access",
+                "RPG",
+                "VR"
+            ]
+        }
+    }
+}
